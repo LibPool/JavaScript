@@ -1,0 +1,1857 @@
+[
+  {
+    "name": "express",
+    "tags": [
+      "Web框架",
+      "HTTP"
+    ]
+  },
+  {
+    "name": "koa",
+    "tags": [
+      "Web框架",
+      "HTTP"
+    ]
+  },
+  {
+    "name": "fastify",
+    "tags": [
+      "Web框架",
+      "HTTP"
+    ]
+  },
+  {
+    "name": "hapi",
+    "tags": [
+      "Web框架",
+      "HTTP"
+    ]
+  },
+  {
+    "name": "sails",
+    "tags": [
+      "Web框架",
+      "MVC"
+    ]
+  },
+  {
+    "name": "restify",
+    "tags": [
+      "Web框架",
+      "REST"
+    ]
+  },
+  {
+    "name": "micro",
+    "tags": [
+      "Web框架",
+      "异步"
+    ]
+  },
+  {
+    "name": "polka",
+    "tags": [
+      "Web框架",
+      "轻量"
+    ]
+  },
+  {
+    "name": "next",
+    "tags": [
+      "React",
+      "Web框架",
+      "SSR"
+    ]
+  },
+  {
+    "name": "nuxt",
+    "tags": [
+      "Vue",
+      "Web框架",
+      "SSR"
+    ]
+  },
+  {
+    "name": "gatsby",
+    "tags": [
+      "React",
+      "静态站点"
+    ]
+  },
+  {
+    "name": "astro",
+    "tags": [
+      "静态站点",
+      "Web框架"
+    ]
+  },
+  {
+    "name": "remix",
+    "tags": [
+      "Web框架",
+      "React"
+    ]
+  },
+  {
+    "name": "@remix-run/react",
+    "tags": [
+      "Web框架",
+      "React"
+    ]
+  },
+  {
+    "name": "@sveltejs/kit",
+    "tags": [
+      "Web框架",
+      "Svelte"
+    ]
+  },
+  {
+    "name": "solid-js",
+    "tags": [
+      "UI库",
+      "响应式"
+    ]
+  },
+  {
+    "name": "@solidjs/router",
+    "tags": [
+      "路由",
+      "Solid"
+    ]
+  },
+  {
+    "name": "react",
+    "tags": [
+      "UI库",
+      "组件"
+    ]
+  },
+  {
+    "name": "react-dom",
+    "tags": [
+      "UI库",
+      "DOM"
+    ]
+  },
+  {
+    "name": "react-native",
+    "tags": [
+      "移动开发",
+      "UI库"
+    ]
+  },
+  {
+    "name": "preact",
+    "tags": [
+      "UI库",
+      "轻量"
+    ]
+  },
+  {
+    "name": "vue",
+    "tags": [
+      "UI库",
+      "响应式"
+    ]
+  },
+  {
+    "name": "vue-router",
+    "tags": [
+      "路由",
+      "Vue"
+    ]
+  },
+  {
+    "name": "pinia",
+    "tags": [
+      "状态管理",
+      "Vue"
+    ]
+  },
+  {
+    "name": "svelte",
+    "tags": [
+      "UI库",
+      "编译"
+    ]
+  },
+  {
+    "name": "lit",
+    "tags": [
+      "UI库",
+      "Web组件"
+    ]
+  },
+  {
+    "name": "@angular/core",
+    "tags": [
+      "UI库",
+      "Angular"
+    ]
+  },
+  {
+    "name": "@angular/common",
+    "tags": [
+      "Angular",
+      "工具库"
+    ]
+  },
+  {
+    "name": "angular",
+    "tags": [
+      "UI库",
+      "Angular"
+    ]
+  },
+  {
+    "name": "ember-source",
+    "tags": [
+      "UI库",
+      "Ember"
+    ]
+  },
+  {
+    "name": "backbone",
+    "tags": [
+      "MVC",
+      "UI库"
+    ]
+  },
+  {
+    "name": "jquery",
+    "tags": [
+      "DOM",
+      "UI库"
+    ]
+  },
+  {
+    "name": "htmx.org",
+    "tags": [
+      "DOM",
+      "交互"
+    ]
+  },
+  {
+    "name": "alpinejs",
+    "tags": [
+      "DOM",
+      "交互"
+    ]
+  },
+  {
+    "name": "stimulus",
+    "tags": [
+      "DOM",
+      "交互"
+    ]
+  },
+  {
+    "name": "redux",
+    "tags": [
+      "状态管理"
+    ]
+  },
+  {
+    "name": "@reduxjs/toolkit",
+    "tags": [
+      "状态管理",
+      "Redux"
+    ]
+  },
+  {
+    "name": "react-redux",
+    "tags": [
+      "状态管理",
+      "React"
+    ]
+  },
+  {
+    "name": "zustand",
+    "tags": [
+      "状态管理",
+      "React"
+    ]
+  },
+  {
+    "name": "jotai",
+    "tags": [
+      "状态管理",
+      "React"
+    ]
+  },
+  {
+    "name": "recoil",
+    "tags": [
+      "状态管理",
+      "React"
+    ]
+  },
+  {
+    "name": "mobx",
+    "tags": [
+      "状态管理",
+      "响应式"
+    ]
+  },
+  {
+    "name": "xstate",
+    "tags": [
+      "状态机",
+      "状态管理"
+    ]
+  },
+  {
+    "name": "immer",
+    "tags": [
+      "不可变数据",
+      "工具库"
+    ]
+  },
+  {
+    "name": "reselect",
+    "tags": [
+      "状态管理",
+      "选择器"
+    ]
+  },
+  {
+    "name": "formik",
+    "tags": [
+      "表单",
+      "React"
+    ]
+  },
+  {
+    "name": "react-hook-form",
+    "tags": [
+      "表单",
+      "React"
+    ]
+  },
+  {
+    "name": "yup",
+    "tags": [
+      "校验",
+      "表单"
+    ]
+  },
+  {
+    "name": "zod",
+    "tags": [
+      "校验",
+      "模式"
+    ]
+  },
+  {
+    "name": "joi",
+    "tags": [
+      "校验",
+      "模式"
+    ]
+  },
+  {
+    "name": "validator",
+    "tags": [
+      "校验",
+      "工具库"
+    ]
+  },
+  {
+    "name": "ajv",
+    "tags": [
+      "JSON Schema",
+      "校验"
+    ]
+  },
+  {
+    "name": "class-validator",
+    "tags": [
+      "校验",
+      "装饰器"
+    ]
+  },
+  {
+    "name": "lodash",
+    "tags": [
+      "工具库",
+      "函数式"
+    ]
+  },
+  {
+    "name": "underscore",
+    "tags": [
+      "工具库",
+      "函数式"
+    ]
+  },
+  {
+    "name": "ramda",
+    "tags": [
+      "工具库",
+      "函数式"
+    ]
+  },
+  {
+    "name": "rxjs",
+    "tags": [
+      "响应式编程",
+      "流"
+    ]
+  },
+  {
+    "name": "async",
+    "tags": [
+      "异步",
+      "工具库"
+    ]
+  },
+  {
+    "name": "bluebird",
+    "tags": [
+      "Promise",
+      "异步"
+    ]
+  },
+  {
+    "name": "p-queue",
+    "tags": [
+      "队列",
+      "并发"
+    ]
+  },
+  {
+    "name": "dayjs",
+    "tags": [
+      "日期时间",
+      "工具库"
+    ]
+  },
+  {
+    "name": "moment",
+    "tags": [
+      "日期时间",
+      "工具库"
+    ]
+  },
+  {
+    "name": "moment-timezone",
+    "tags": [
+      "日期时间",
+      "时区"
+    ]
+  },
+  {
+    "name": "date-fns",
+    "tags": [
+      "日期时间",
+      "工具库"
+    ]
+  },
+  {
+    "name": "luxon",
+    "tags": [
+      "日期时间",
+      "工具库"
+    ]
+  },
+  {
+    "name": "chrono-node",
+    "tags": [
+      "日期时间",
+      "解析"
+    ]
+  },
+  {
+    "name": "ms",
+    "tags": [
+      "时间",
+      "单位换算"
+    ]
+  },
+  {
+    "name": "axios",
+    "tags": [
+      "HTTP客户端"
+    ]
+  },
+  {
+    "name": "node-fetch",
+    "tags": [
+      "HTTP客户端",
+      "Fetch"
+    ]
+  },
+  {
+    "name": "undici",
+    "tags": [
+      "HTTP客户端",
+      "Fetch"
+    ]
+  },
+  {
+    "name": "got",
+    "tags": [
+      "HTTP客户端"
+    ]
+  },
+  {
+    "name": "superagent",
+    "tags": [
+      "HTTP客户端"
+    ]
+  },
+  {
+    "name": "request",
+    "tags": [
+      "HTTP客户端"
+    ]
+  },
+  {
+    "name": "isomorphic-fetch",
+    "tags": [
+      "HTTP客户端",
+      "Fetch"
+    ]
+  },
+  {
+    "name": "cross-fetch",
+    "tags": [
+      "HTTP客户端",
+      "Fetch"
+    ]
+  },
+  {
+    "name": "whatwg-fetch",
+    "tags": [
+      "HTTP客户端",
+      "Fetch"
+    ]
+  },
+  {
+    "name": "fetch-mock",
+    "tags": [
+      "HTTP",
+      "测试"
+    ]
+  },
+  {
+    "name": "msw",
+    "tags": [
+      "HTTP",
+      "Mock",
+      "测试"
+    ]
+  },
+  {
+    "name": "cheerio",
+    "tags": [
+      "HTML解析",
+      "爬虫"
+    ]
+  },
+  {
+    "name": "jsdom",
+    "tags": [
+      "DOM",
+      "测试"
+    ]
+  },
+  {
+    "name": "parse5",
+    "tags": [
+      "HTML解析"
+    ]
+  },
+  {
+    "name": "puppeteer",
+    "tags": [
+      "浏览器自动化",
+      "测试"
+    ]
+  },
+  {
+    "name": "playwright",
+    "tags": [
+      "浏览器自动化",
+      "测试"
+    ]
+  },
+  {
+    "name": "selenium-webdriver",
+    "tags": [
+      "浏览器自动化",
+      "测试"
+    ]
+  },
+  {
+    "name": "cypress",
+    "tags": [
+      "测试",
+      "浏览器自动化"
+    ]
+  },
+  {
+    "name": "nightwatch",
+    "tags": [
+      "测试",
+      "浏览器自动化"
+    ]
+  },
+  {
+    "name": "webdriverio",
+    "tags": [
+      "测试",
+      "浏览器自动化"
+    ]
+  },
+  {
+    "name": "jest",
+    "tags": [
+      "测试",
+      "断言"
+    ]
+  },
+  {
+    "name": "vitest",
+    "tags": [
+      "测试",
+      "断言"
+    ]
+  },
+  {
+    "name": "mocha",
+    "tags": [
+      "测试",
+      "断言"
+    ]
+  },
+  {
+    "name": "jasmine",
+    "tags": [
+      "测试",
+      "断言"
+    ]
+  },
+  {
+    "name": "ava",
+    "tags": [
+      "测试",
+      "断言"
+    ]
+  },
+  {
+    "name": "tape",
+    "tags": [
+      "测试",
+      "断言"
+    ]
+  },
+  {
+    "name": "chai",
+    "tags": [
+      "测试",
+      "断言"
+    ]
+  },
+  {
+    "name": "should",
+    "tags": [
+      "测试",
+      "断言"
+    ]
+  },
+  {
+    "name": "expect",
+    "tags": [
+      "测试",
+      "断言"
+    ]
+  },
+  {
+    "name": "sinon",
+    "tags": [
+      "测试",
+      "Mock"
+    ]
+  },
+  {
+    "name": "supertest",
+    "tags": [
+      "测试",
+      "HTTP"
+    ]
+  },
+  {
+    "name": "@testing-library/react",
+    "tags": [
+      "测试",
+      "React"
+    ]
+  },
+  {
+    "name": "@testing-library/jest-dom",
+    "tags": [
+      "测试",
+      "DOM断言"
+    ]
+  },
+  {
+    "name": "@testing-library/vue",
+    "tags": [
+      "测试",
+      "Vue"
+    ]
+  },
+  {
+    "name": "@testing-library/user-event",
+    "tags": [
+      "测试",
+      "交互"
+    ]
+  },
+  {
+    "name": "istanbul",
+    "tags": [
+      "测试",
+      "覆盖率"
+    ]
+  },
+  {
+    "name": "nyc",
+    "tags": [
+      "测试",
+      "覆盖率"
+    ]
+  },
+  {
+    "name": "c8",
+    "tags": [
+      "测试",
+      "覆盖率"
+    ]
+  },
+  {
+    "name": "eslint",
+    "tags": [
+      "Lint",
+      "代码质量"
+    ]
+  },
+  {
+    "name": "@typescript-eslint/parser",
+    "tags": [
+      "Lint",
+      "TypeScript"
+    ]
+  },
+  {
+    "name": "prettier",
+    "tags": [
+      "格式化",
+      "代码质量"
+    ]
+  },
+  {
+    "name": "standard",
+    "tags": [
+      "Lint",
+      "代码质量"
+    ]
+  },
+  {
+    "name": "stylelint",
+    "tags": [
+      "Lint",
+      "CSS"
+    ]
+  },
+  {
+    "name": "husky",
+    "tags": [
+      "Git钩子",
+      "代码质量"
+    ]
+  },
+  {
+    "name": "lint-staged",
+    "tags": [
+      "Git钩子",
+      "格式化"
+    ]
+  },
+  {
+    "name": "typescript",
+    "tags": [
+      "语言",
+      "类型系统"
+    ]
+  },
+  {
+    "name": "ts-node",
+    "tags": [
+      "TypeScript",
+      "运行时"
+    ]
+  },
+  {
+    "name": "tsx",
+    "tags": [
+      "TypeScript",
+      "运行时"
+    ]
+  },
+  {
+    "name": "esbuild",
+    "tags": [
+      "构建工具",
+      "打包"
+    ]
+  },
+  {
+    "name": "webpack",
+    "tags": [
+      "构建工具",
+      "打包"
+    ]
+  },
+  {
+    "name": "webpack-cli",
+    "tags": [
+      "构建工具",
+      "命令行"
+    ]
+  },
+  {
+    "name": "rollup",
+    "tags": [
+      "构建工具",
+      "打包"
+    ]
+  },
+  {
+    "name": "vite",
+    "tags": [
+      "构建工具",
+      "开发服务器"
+    ]
+  },
+  {
+    "name": "parcel",
+    "tags": [
+      "构建工具",
+      "打包"
+    ]
+  },
+  {
+    "name": "snowpack",
+    "tags": [
+      "构建工具",
+      "开发服务器"
+    ]
+  },
+  {
+    "name": "turbo",
+    "tags": [
+      "构建工具",
+      "Monorepo"
+    ]
+  },
+  {
+    "name": "babel-loader",
+    "tags": [
+      "构建工具",
+      "Babel"
+    ]
+  },
+  {
+    "name": "@babel/core",
+    "tags": [
+      "编译器",
+      "Babel"
+    ]
+  },
+  {
+    "name": "@babel/preset-env",
+    "tags": [
+      "编译器",
+      "Babel"
+    ]
+  },
+  {
+    "name": "terser",
+    "tags": [
+      "压缩",
+      "构建工具"
+    ]
+  },
+  {
+    "name": "uglify-js",
+    "tags": [
+      "压缩",
+      "构建工具"
+    ]
+  },
+  {
+    "name": "gulp",
+    "tags": [
+      "构建工具",
+      "任务自动化"
+    ]
+  },
+  {
+    "name": "grunt",
+    "tags": [
+      "构建工具",
+      "任务自动化"
+    ]
+  },
+  {
+    "name": "nvm",
+    "tags": [
+      "Node",
+      "版本管理"
+    ]
+  },
+  {
+    "name": "nodemon",
+    "tags": [
+      "开发工具",
+      "热重载"
+    ]
+  },
+  {
+    "name": "pm2",
+    "tags": [
+      "进程管理",
+      "部署"
+    ]
+  },
+  {
+    "name": "forever",
+    "tags": [
+      "进程管理",
+      "部署"
+    ]
+  },
+  {
+    "name": "concurrently",
+    "tags": [
+      "进程管理",
+      "命令行"
+    ]
+  },
+  {
+    "name": "cross-env",
+    "tags": [
+      "环境变量",
+      "跨平台"
+    ]
+  },
+  {
+    "name": "shelljs",
+    "tags": [
+      "Shell",
+      "工具库"
+    ]
+  },
+  {
+    "name": "execa",
+    "tags": [
+      "进程",
+      "Shell"
+    ]
+  },
+  {
+    "name": "npm-run-all",
+    "tags": [
+      "脚本",
+      "任务"
+    ]
+  },
+  {
+    "name": "dotenv",
+    "tags": [
+      "配置",
+      "环境变量"
+    ]
+  },
+  {
+    "name": "config",
+    "tags": [
+      "配置",
+      "环境变量"
+    ]
+  },
+  {
+    "name": "convict",
+    "tags": [
+      "配置",
+      "校验"
+    ]
+  },
+  {
+    "name": "envalid",
+    "tags": [
+      "配置",
+      "环境变量"
+    ]
+  },
+  {
+    "name": "winston",
+    "tags": [
+      "日志",
+      "监控"
+    ]
+  },
+  {
+    "name": "pino",
+    "tags": [
+      "日志",
+      "高性能"
+    ]
+  },
+  {
+    "name": "bunyan",
+    "tags": [
+      "日志"
+    ]
+  },
+  {
+    "name": "log4js",
+    "tags": [
+      "日志"
+    ]
+  },
+  {
+    "name": "morgan",
+    "tags": [
+      "日志",
+      "HTTP"
+    ]
+  },
+  {
+    "name": "debug",
+    "tags": [
+      "日志",
+      "调试"
+    ]
+  },
+  {
+    "name": "chalk",
+    "tags": [
+      "终端",
+      "颜色"
+    ]
+  },
+  {
+    "name": "colors",
+    "tags": [
+      "终端",
+      "颜色"
+    ]
+  },
+  {
+    "name": "commander",
+    "tags": [
+      "命令行",
+      "CLI"
+    ]
+  },
+  {
+    "name": "yargs",
+    "tags": [
+      "命令行",
+      "CLI"
+    ]
+  },
+  {
+    "name": "minimist",
+    "tags": [
+      "命令行",
+      "参数解析"
+    ]
+  },
+  {
+    "name": "meow",
+    "tags": [
+      "命令行",
+      "CLI"
+    ]
+  },
+  {
+    "name": "prompts",
+    "tags": [
+      "命令行",
+      "交互"
+    ]
+  },
+  {
+    "name": "inquirer",
+    "tags": [
+      "命令行",
+      "交互"
+    ]
+  },
+  {
+    "name": "enquirer",
+    "tags": [
+      "命令行",
+      "交互"
+    ]
+  },
+  {
+    "name": "ora",
+    "tags": [
+      "命令行",
+      "进度"
+    ]
+  },
+  {
+    "name": "boxen",
+    "tags": [
+      "终端",
+      "盒子"
+    ]
+  },
+  {
+    "name": "clui",
+    "tags": [
+      "终端",
+      "UI"
+    ]
+  },
+  {
+    "name": "blessed",
+    "tags": [
+      "终端",
+      "TUI"
+    ]
+  },
+  {
+    "name": "glob",
+    "tags": [
+      "文件",
+      "模式匹配"
+    ]
+  },
+  {
+    "name": "fast-glob",
+    "tags": [
+      "文件",
+      "模式匹配"
+    ]
+  },
+  {
+    "name": "chokidar",
+    "tags": [
+      "文件监听"
+    ]
+  },
+  {
+    "name": "fs-extra",
+    "tags": [
+      "文件",
+      "系统"
+    ]
+  },
+  {
+    "name": "rimraf",
+    "tags": [
+      "文件",
+      "删除"
+    ]
+  },
+  {
+    "name": "mkdirp",
+    "tags": [
+      "文件",
+      "目录"
+    ]
+  },
+  {
+    "name": "graceful-fs",
+    "tags": [
+      "文件",
+      "系统"
+    ]
+  },
+  {
+    "name": "path-to-regexp",
+    "tags": [
+      "URL",
+      "路由"
+    ]
+  },
+  {
+    "name": "qs",
+    "tags": [
+      "URL",
+      "查询参数"
+    ]
+  },
+  {
+    "name": "query-string",
+    "tags": [
+      "URL",
+      "查询参数"
+    ]
+  },
+  {
+    "name": "url-parse",
+    "tags": [
+      "URL",
+      "解析"
+    ]
+  },
+  {
+    "name": "cookie",
+    "tags": [
+      "Cookie",
+      "解析"
+    ]
+  },
+  {
+    "name": "cookie-parser",
+    "tags": [
+      "Cookie",
+      "Express"
+    ]
+  },
+  {
+    "name": "cors",
+    "tags": [
+      "CORS",
+      "HTTP"
+    ]
+  },
+  {
+    "name": "helmet",
+    "tags": [
+      "安全",
+      "HTTP头"
+    ]
+  },
+  {
+    "name": "compression",
+    "tags": [
+      "HTTP",
+      "压缩"
+    ]
+  },
+  {
+    "name": "body-parser",
+    "tags": [
+      "HTTP",
+      "请求体"
+    ]
+  },
+  {
+    "name": "multer",
+    "tags": [
+      "文件上传",
+      "HTTP"
+    ]
+  },
+  {
+    "name": "formidable",
+    "tags": [
+      "文件上传",
+      "HTTP"
+    ]
+  },
+  {
+    "name": "busboy",
+    "tags": [
+      "文件上传",
+      "HTTP"
+    ]
+  },
+  {
+    "name": "sharp",
+    "tags": [
+      "图像处理"
+    ]
+  },
+  {
+    "name": "jimp",
+    "tags": [
+      "图像处理"
+    ]
+  },
+  {
+    "name": "canvas",
+    "tags": [
+      "图像",
+      "Canvas"
+    ]
+  },
+  {
+    "name": "chart.js",
+    "tags": [
+      "可视化",
+      "图表"
+    ]
+  },
+  {
+    "name": "echarts",
+    "tags": [
+      "可视化",
+      "图表"
+    ]
+  },
+  {
+    "name": "d3",
+    "tags": [
+      "可视化",
+      "DOM"
+    ]
+  },
+  {
+    "name": "three",
+    "tags": [
+      "3D",
+      "渲染"
+    ]
+  },
+  {
+    "name": "babylonjs",
+    "tags": [
+      "3D",
+      "游戏引擎"
+    ]
+  },
+  {
+    "name": "pixi.js",
+    "tags": [
+      "2D",
+      "渲染",
+      "游戏"
+    ]
+  },
+  {
+    "name": "phaser",
+    "tags": [
+      "游戏引擎",
+      "2D"
+    ]
+  },
+  {
+    "name": "gsap",
+    "tags": [
+      "动画",
+      "交互"
+    ]
+  },
+  {
+    "name": "animejs",
+    "tags": [
+      "动画"
+    ]
+  },
+  {
+    "name": "framer-motion",
+    "tags": [
+      "动画",
+      "React"
+    ]
+  },
+  {
+    "name": "socket.io",
+    "tags": [
+      "WebSocket",
+      "实时"
+    ]
+  },
+  {
+    "name": "socket.io-client",
+    "tags": [
+      "WebSocket",
+      "客户端"
+    ]
+  },
+  {
+    "name": "ws",
+    "tags": [
+      "WebSocket"
+    ]
+  },
+  {
+    "name": "uWebSockets.js",
+    "tags": [
+      "WebSocket",
+      "高性能"
+    ]
+  },
+  {
+    "name": "engine.io",
+    "tags": [
+      "WebSocket",
+      "实时"
+    ]
+  },
+  {
+    "name": "amqplib",
+    "tags": [
+      "AMQP",
+      "消息队列"
+    ]
+  },
+  {
+    "name": "kafkajs",
+    "tags": [
+      "Kafka",
+      "消息队列"
+    ]
+  },
+  {
+    "name": "ioredis",
+    "tags": [
+      "Redis",
+      "NoSQL"
+    ]
+  },
+  {
+    "name": "redis",
+    "tags": [
+      "Redis",
+      "NoSQL"
+    ]
+  },
+  {
+    "name": "pg",
+    "tags": [
+      "数据库驱动",
+      "PostgreSQL"
+    ]
+  },
+  {
+    "name": "mysql2",
+    "tags": [
+      "数据库驱动",
+      "MySQL"
+    ]
+  },
+  {
+    "name": "sequelize",
+    "tags": [
+      "ORM",
+      "数据库"
+    ]
+  },
+  {
+    "name": "typeorm",
+    "tags": [
+      "ORM",
+      "数据库"
+    ]
+  },
+  {
+    "name": "prisma",
+    "tags": [
+      "ORM",
+      "数据库"
+    ]
+  },
+  {
+    "name": "@prisma/client",
+    "tags": [
+      "ORM",
+      "数据库"
+    ]
+  },
+  {
+    "name": "knex",
+    "tags": [
+      "SQL",
+      "查询构建"
+    ]
+  },
+  {
+    "name": "bookshelf",
+    "tags": [
+      "ORM",
+      "数据库"
+    ]
+  },
+  {
+    "name": "objection",
+    "tags": [
+      "ORM",
+      "数据库"
+    ]
+  },
+  {
+    "name": "mongoose",
+    "tags": [
+      "ORM",
+      "MongoDB"
+    ]
+  },
+  {
+    "name": "mongodb",
+    "tags": [
+      "NoSQL",
+      "MongoDB"
+    ]
+  },
+  {
+    "name": "better-sqlite3",
+    "tags": [
+      "数据库",
+      "SQLite"
+    ]
+  },
+  {
+    "name": "sqlite3",
+    "tags": [
+      "数据库",
+      "SQLite"
+    ]
+  },
+  {
+    "name": "lowdb",
+    "tags": [
+      "数据库",
+      "JSON"
+    ]
+  },
+  {
+    "name": "lokijs",
+    "tags": [
+      "数据库",
+      "内存"
+    ]
+  },
+  {
+    "name": "nedb",
+    "tags": [
+      "数据库",
+      "嵌入式"
+    ]
+  },
+  {
+    "name": "level",
+    "tags": [
+      "数据库",
+      "嵌入式"
+    ]
+  },
+  {
+    "name": "dynamoose",
+    "tags": [
+      "NoSQL",
+      "DynamoDB"
+    ]
+  },
+  {
+    "name": "jsonwebtoken",
+    "tags": [
+      "JWT",
+      "安全"
+    ]
+  },
+  {
+    "name": "jose",
+    "tags": [
+      "JWT",
+      "安全"
+    ]
+  },
+  {
+    "name": "bcryptjs",
+    "tags": [
+      "密码哈希",
+      "安全"
+    ]
+  },
+  {
+    "name": "bcrypt",
+    "tags": [
+      "密码哈希",
+      "安全"
+    ]
+  },
+  {
+    "name": "argon2",
+    "tags": [
+      "密码哈希",
+      "安全"
+    ]
+  },
+  {
+    "name": "crypto-js",
+    "tags": [
+      "加密",
+      "安全"
+    ]
+  },
+  {
+    "name": "node-forge",
+    "tags": [
+      "加密",
+      "安全"
+    ]
+  },
+  {
+    "name": "passport",
+    "tags": [
+      "认证",
+      "中间件"
+    ]
+  },
+  {
+    "name": "passport-jwt",
+    "tags": [
+      "认证",
+      "JWT"
+    ]
+  },
+  {
+    "name": "passport-google-oauth20",
+    "tags": [
+      "认证",
+      "OAuth"
+    ]
+  },
+  {
+    "name": "oauth2orize",
+    "tags": [
+      "OAuth",
+      "认证"
+    ]
+  },
+  {
+    "name": "helmet-csp",
+    "tags": [
+      "安全",
+      "CSP"
+    ]
+  },
+  {
+    "name": "uuid",
+    "tags": [
+      "UUID",
+      "工具库"
+    ]
+  },
+  {
+    "name": "nanoid",
+    "tags": [
+      "ID生成",
+      "工具库"
+    ]
+  },
+  {
+    "name": "shortid",
+    "tags": [
+      "ID生成",
+      "工具库"
+    ]
+  },
+  {
+    "name": "cuid",
+    "tags": [
+      "ID生成",
+      "工具库"
+    ]
+  },
+  {
+    "name": "aws-sdk",
+    "tags": [
+      "云服务",
+      "AWS"
+    ]
+  },
+  {
+    "name": "@aws-sdk/client-s3",
+    "tags": [
+      "云服务",
+      "AWS",
+      "存储"
+    ]
+  },
+  {
+    "name": "@aws-sdk/client-dynamodb",
+    "tags": [
+      "云服务",
+      "AWS",
+      "NoSQL"
+    ]
+  },
+  {
+    "name": "googleapis",
+    "tags": [
+      "云服务",
+      "Google"
+    ]
+  },
+  {
+    "name": "@google-cloud/storage",
+    "tags": [
+      "云服务",
+      "存储"
+    ]
+  },
+  {
+    "name": "@google-cloud/pubsub",
+    "tags": [
+      "云服务",
+      "消息队列"
+    ]
+  },
+  {
+    "name": "@azure/storage-blob",
+    "tags": [
+      "云服务",
+      "Azure",
+      "存储"
+    ]
+  },
+  {
+    "name": "@azure/identity",
+    "tags": [
+      "云服务",
+      "Azure",
+      "认证"
+    ]
+  },
+  {
+    "name": "firebase",
+    "tags": [
+      "云服务",
+      "Firebase"
+    ]
+  },
+  {
+    "name": "@firebase/app",
+    "tags": [
+      "云服务",
+      "Firebase"
+    ]
+  },
+  {
+    "name": "openai",
+    "tags": [
+      "AI",
+      "API客户端"
+    ]
+  },
+  {
+    "name": "@anthropic-ai/sdk",
+    "tags": [
+      "AI",
+      "API客户端"
+    ]
+  },
+  {
+    "name": "langchain",
+    "tags": [
+      "AI",
+      "Agent"
+    ]
+  },
+  {
+    "name": "@langchain/core",
+    "tags": [
+      "AI",
+      "LangChain"
+    ]
+  },
+  {
+    "name": "pdfkit",
+    "tags": [
+      "PDF",
+      "生成"
+    ]
+  },
+  {
+    "name": "pdfjs-dist",
+    "tags": [
+      "PDF",
+      "解析"
+    ]
+  },
+  {
+    "name": "pdf-lib",
+    "tags": [
+      "PDF",
+      "生成"
+    ]
+  },
+  {
+    "name": "jspdf",
+    "tags": [
+      "PDF",
+      "生成"
+    ]
+  },
+  {
+    "name": "exceljs",
+    "tags": [
+      "Excel",
+      "Office"
+    ]
+  },
+  {
+    "name": "xlsx",
+    "tags": [
+      "Excel",
+      "Office"
+    ]
+  },
+  {
+    "name": "docx",
+    "tags": [
+      "Word",
+      "Office"
+    ]
+  },
+  {
+    "name": "html-pdf",
+    "tags": [
+      "PDF",
+      "HTML"
+    ]
+  },
+  {
+    "name": "markdown-it",
+    "tags": [
+      "Markdown",
+      "解析"
+    ]
+  },
+  {
+    "name": "marked",
+    "tags": [
+      "Markdown",
+      "解析"
+    ]
+  },
+  {
+    "name": "remark",
+    "tags": [
+      "Markdown",
+      "解析"
+    ]
+  },
+  {
+    "name": "highlight.js",
+    "tags": [
+      "代码高亮"
+    ]
+  },
+  {
+    "name": "syntaxhighlighter",
+    "tags": [
+      "代码高亮"
+    ]
+  },
+  {
+    "name": "commander",
+    "tags": [
+      "CLI",
+      "命令行"
+    ]
+  }
+]
