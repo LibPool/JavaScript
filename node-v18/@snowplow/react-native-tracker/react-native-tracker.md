@@ -1,0 +1,36 @@
+# @snowplow/react-native-tracker
+
+> 标签: JavaScript
+
+## 简介
+
+React Native tracker for Snowplow
+
+## 官网
+
+- 官网：https://docs.snowplow.io/docs/collecting-data/collecting-from-own-applications/javascript-trackers/
+- 源码仓库：git+https://github.com/snowplow/snowplow-javascript-tracker.git
+- npm 页面：https://www.npmjs.com/package/@snowplow/react-native-tracker
+
+## 历史版本号
+
+- 当前版本：4.10.2
+
+- 4.6.5
+- 4.6.6
+- 4.6.7
+- 4.6.8
+- 4.6.9
+- 4.7.0
+- 4.8.0
+- 4.8.1
+- 4.8.2
+- 4.8.3
+- 4.8.4
+- 4.9.0
+- 共 72 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @snowplow/react-native-tracker`
+- npm registry：https://registry.npmjs.org/@snowplow/react-native-tracker

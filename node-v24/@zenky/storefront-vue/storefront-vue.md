@@ -1,0 +1,37 @@
+# @zenky/storefront-vue
+
+> 标签: JavaScript
+
+## 简介
+
+Zenky Storefront SDK for Vue 3.
+
+## 官网
+
+- 官网：https://github.com/zenky/storefront-vue#readme
+- 源码仓库：git+https://github.com/zenky/storefront-vue.git
+- npm 页面：https://www.npmjs.com/package/@zenky/storefront-vue
+
+## 历史版本号
+
+- 当前版本：0.10.18
+
+- 0.9.35
+- 0.9.37
+- 0.9.38
+- 0.9.39
+- 0.9.40
+- 0.9.41
+- 0.9.42
+- 0.9.43
+- 0.9.44
+- 0.9.45
+- 0.9.46
+- 0.9.47
+- 共 32 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @zenky/storefront-vue`
+- npm registry：https://registry.npmjs.org/@zenky/storefront-vue
+- Node 要求：>=20.19.0

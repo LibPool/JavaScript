@@ -1,0 +1,25 @@
+# @cp949/simple-html-editor-core
+
+> 标签: JavaScript
+
+## 简介
+
+React에 의존하지 않는 HTML 편집기 정책과 Tiptap extension 집합
+
+## 官网
+
+- 官网：https://github.com/cp949/simple-html-editor#readme
+- 源码仓库：git+https://github.com/cp949/simple-html-editor.git
+- npm 页面：https://www.npmjs.com/package/@cp949/simple-html-editor-core
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.0
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @cp949/simple-html-editor-core`
+- npm registry：https://registry.npmjs.org/@cp949/simple-html-editor-core

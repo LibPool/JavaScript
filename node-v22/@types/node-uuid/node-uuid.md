@@ -1,0 +1,36 @@
+# @types/node-uuid
+
+> 标签: JavaScript
+
+## 简介
+
+TypeScript definitions for node-uuid
+
+## 官网
+
+- 官网：https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/node-uuid
+- 源码仓库：https://github.com/DefinitelyTyped/DefinitelyTyped.git
+- npm 页面：https://www.npmjs.com/package/@types/node-uuid
+
+## 历史版本号
+
+- 当前版本：0.0.32
+
+- 0.0.30
+- 0.0.31
+- 0.0.32
+- 6.0.14-alpha
+- 6.0.15-alpha
+- 6.0.20-alpha
+- 6.0.21-alpha
+- 6.0.22-alpha
+- 6.0.23-alpha
+- 6.0.24-alpha
+- 6.0.25-alpha
+- 6.0.26-alpha
+- 共 16 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @types/node-uuid`
+- npm registry：https://registry.npmjs.org/@types/node-uuid

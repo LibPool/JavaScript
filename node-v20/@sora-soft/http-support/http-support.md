@@ -1,0 +1,37 @@
+# @sora-soft/http-support
+
+> 标签: JavaScript
+
+## 简介
+
+sora system http support
+
+## 官网
+
+- 官网：https://github.com/sora-soft/sora-node
+- 源码仓库：git@github.com:sora-soft/sora-node.git
+- npm 页面：https://www.npmjs.com/package/@sora-soft/http-support
+
+## 历史版本号
+
+- 当前版本：2.3.0
+
+- 1.6.6
+- 2.0.0
+- 2.0.1
+- 2.0.3
+- 2.0.4
+- 2.0.5
+- 2.1.0
+- 2.2.0
+- 2.2.1
+- 2.2.2
+- 2.2.3
+- 2.3.0
+- 共 50 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @sora-soft/http-support`
+- npm registry：https://registry.npmjs.org/@sora-soft/http-support
+- Node 要求：>=22.0.0

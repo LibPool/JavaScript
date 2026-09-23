@@ -1,0 +1,36 @@
+# @air/react-drag-to-select
+
+> 标签: JavaScript
+
+## 简介
+
+A performant React library which adds drag to select to your app
+
+## 官网
+
+- 官网：https://github.com/AirLabsTeam/react-drag-to-select#readme
+- 源码仓库：git+https://github.com/AirLabsTeam/react-drag-to-select.git
+- npm 页面：https://www.npmjs.com/package/@air/react-drag-to-select
+
+## 历史版本号
+
+- 当前版本：5.0.11
+
+- 3.0.9
+- 4.0.0
+- 5.0.0
+- 5.0.1
+- 5.0.10
+- 5.0.11
+- 5.0.11-rc.1
+- 5.0.11-rc.2
+- 5.0.2
+- 5.0.5
+- 5.0.6
+- 5.0.8
+- 共 25 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @air/react-drag-to-select`
+- npm registry：https://registry.npmjs.org/@air/react-drag-to-select

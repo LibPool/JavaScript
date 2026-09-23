@@ -1,0 +1,36 @@
+# @ecomplus/widget-user
+
+> 标签: JavaScript
+
+## 简介
+
+Storefront plugin with Vue component customer identification for E-Com Plus stores
+
+## 官网
+
+- 官网：https://github.com/ecomplus/storefront/tree/master/@ecomplus/widget-user#readme
+- 源码仓库：git+https://github.com/ecomplus/storefront.git
+- npm 页面：https://www.npmjs.com/package/@ecomplus/widget-user
+
+## 历史版本号
+
+- 当前版本：1.0.0-beta.194
+
+- 1.0.0-beta.91
+- 1.0.0-beta.92
+- 1.0.0-beta.93
+- 1.0.0-beta.94
+- 1.0.0-beta.95
+- 1.0.0-beta.96
+- 1.0.0-beta.97
+- 1.0.0-beta.98
+- 1.0.0-beta.99
+- 1.0.0-next.0
+- 1.0.0-next.1
+- 1.0.0-next.2
+- 共 238 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @ecomplus/widget-user`
+- npm registry：https://registry.npmjs.org/@ecomplus/widget-user

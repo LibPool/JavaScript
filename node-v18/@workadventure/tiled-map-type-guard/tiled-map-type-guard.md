@@ -1,0 +1,36 @@
+# @workadventure/tiled-map-type-guard
+
+> 标签: JavaScript
+
+## 简介
+
+Typescript package boilerplate template
+
+## 官网
+
+- 官网：https://github.com/workadventure/tiled-map-type-guard#readme
+- 源码仓库：git+https://github.com/workadventure/tiled-map-type-guard.git
+- npm 页面：https://www.npmjs.com/package/@workadventure/tiled-map-type-guard
+
+## 历史版本号
+
+- 当前版本：2.1.2
+
+- 1.0.2
+- 1.0.3
+- 2.0.0
+- 2.0.1
+- 2.0.2
+- 2.0.3
+- 2.0.4
+- 2.0.5
+- 2.0.6
+- 2.1.0
+- 2.1.1
+- 2.1.2
+- 共 15 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @workadventure/tiled-map-type-guard`
+- npm registry：https://registry.npmjs.org/@workadventure/tiled-map-type-guard

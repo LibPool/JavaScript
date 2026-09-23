@@ -1,0 +1,36 @@
+# @types/react-syntax-highlighter
+
+> 标签: JavaScript
+
+## 简介
+
+TypeScript definitions for react-syntax-highlighter
+
+## 官网
+
+- 官网：https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/react-syntax-highlighter
+- 源码仓库：https://github.com/DefinitelyTyped/DefinitelyTyped.git
+- npm 页面：https://www.npmjs.com/package/@types/react-syntax-highlighter
+
+## 历史版本号
+
+- 当前版本：15.5.13
+
+- 15.5.10
+- 15.5.11
+- 15.5.12
+- 15.5.13
+- 15.5.2
+- 15.5.3
+- 15.5.4
+- 15.5.5
+- 15.5.6
+- 15.5.7
+- 15.5.8
+- 15.5.9
+- 共 35 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @types/react-syntax-highlighter`
+- npm registry：https://registry.npmjs.org/@types/react-syntax-highlighter

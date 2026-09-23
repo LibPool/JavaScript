@@ -1,0 +1,36 @@
+# react-aria-components
+
+> 标签: JavaScript
+
+## 简介
+
+A library of styleable components built using React Aria
+
+## 官网
+
+- 官网：https://github.com/adobe/react-spectrum#readme
+- 源码仓库：git+https://github.com/adobe/react-spectrum.git
+- npm 页面：https://www.npmjs.com/package/react-aria-components
+
+## 历史版本号
+
+- 当前版本：1.21.1
+
+- 3.0.0-nightly-f90799b33-241206
+- 3.0.0-nightly-f90f4899f-250227
+- 3.0.0-nightly-f9ea4ca39-250515
+- 3.0.0-nightly-fb28ab3b4-241024
+- 3.0.0-nightly-fc3ea3e8c-251029
+- 3.0.0-nightly-fd7075c5f-250128
+- 3.0.0-nightly-fe5205a4f-250623
+- 3.0.0-nightly-fe5e1b69c-250714
+- 3.0.0-nightly-fee532d6a-241217
+- 3.0.0-nightly-ff456f38c-250716
+- 3.0.0-nightly-ff8f6f319-251118
+- 3.0.0-nightly-ffb1a9d0d-260323
+- 共 914 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install react-aria-components`
+- npm registry：https://registry.npmjs.org/react-aria-components

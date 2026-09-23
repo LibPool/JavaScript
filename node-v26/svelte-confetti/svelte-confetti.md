@@ -1,0 +1,36 @@
+# svelte-confetti
+
+> 标签: JavaScript
+
+## 简介
+
+Confetti in Svelte! Celebrate things with some extra flair. Animates using just HTML and CSS meaning it can work with SSR in SvelteKit!
+
+## 官网
+
+- 官网：https://mitcheljager.github.io/svelte-confetti/
+- 源码仓库：git+https://github.com/Mitcheljager/svelte-confetti.git
+- npm 页面：https://www.npmjs.com/package/svelte-confetti
+
+## 历史版本号
+
+- 当前版本：2.3.2
+
+- 1.3.0
+- 1.3.1
+- 1.3.2
+- 1.4.0
+- 2.0.0
+- 2.0.1
+- 2.1.1
+- 2.1.2
+- 2.2.0
+- 2.3.0
+- 2.3.1
+- 2.3.2
+- 共 21 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install svelte-confetti`
+- npm registry：https://registry.npmjs.org/svelte-confetti

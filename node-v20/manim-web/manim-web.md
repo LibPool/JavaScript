@@ -1,0 +1,36 @@
+# manim-web
+
+> 标签: JavaScript
+
+## 简介
+
+Manim-like mathematical animation library for the web
+
+## 官网
+
+- 官网：https://maloyan.github.io/manim-js/
+- 源码仓库：git+https://github.com/maloyan/manim-js.git
+- npm 页面：https://www.npmjs.com/package/manim-web
+
+## 历史版本号
+
+- 当前版本：0.3.24
+
+- 0.3.20
+- 0.3.21
+- 0.3.22
+- 0.3.23
+- 0.3.24
+- 0.3.3
+- 0.3.4
+- 0.3.5
+- 0.3.6
+- 0.3.7
+- 0.3.8
+- 0.3.9
+- 共 26 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install manim-web`
+- npm registry：https://registry.npmjs.org/manim-web

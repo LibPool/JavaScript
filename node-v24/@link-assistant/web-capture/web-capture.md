@@ -1,0 +1,37 @@
+# @link-assistant/web-capture
+
+> 标签: JavaScript
+
+## 简介
+
+CLI and microservice to render web pages as HTML, Markdown, or PNG
+
+## 官网
+
+- 官网：https://github.com/link-assistant/web-capture#readme
+- 源码仓库：git+https://github.com/link-assistant/web-capture.git
+- npm 页面：https://www.npmjs.com/package/@link-assistant/web-capture
+
+## 历史版本号
+
+- 当前版本：1.11.2
+
+- 1.7.26
+- 1.7.27
+- 1.7.3
+- 1.7.4
+- 1.7.5
+- 1.7.6
+- 1.7.7
+- 1.7.8
+- 1.7.9
+- 1.8.0
+- 1.8.1
+- 1.9.0
+- 共 48 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @link-assistant/web-capture`
+- npm registry：https://registry.npmjs.org/@link-assistant/web-capture
+- Node 要求：>=22.0.0 <23.0.0

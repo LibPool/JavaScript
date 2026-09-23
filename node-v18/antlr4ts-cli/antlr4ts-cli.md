@@ -1,0 +1,36 @@
+# antlr4ts-cli
+
+> 标签: JavaScript
+
+## 简介
+
+ANTLR 4 command line tool for TypeScript
+
+## 官网
+
+- 官网：https://github.com/tunnelvisionlabs/antlr4ts/tool#readme
+- 源码仓库：git+https://github.com/tunnelvisionlabs/antlr4ts.git
+- npm 页面：https://www.npmjs.com/package/antlr4ts-cli
+
+## 历史版本号
+
+- 当前版本：0.5.0-alpha.4
+
+- 0.2.2-0
+- 0.4.0-alpha.1
+- 0.4.0-alpha.2
+- 0.4.0-alpha.3
+- 0.4.0-alpha.37504efa
+- 0.4.0-alpha.4
+- 0.4.0-canary.37504efa
+- 0.5.0-alpha.1
+- 0.5.0-alpha.2
+- 0.5.0-alpha.3
+- 0.5.0-alpha.4
+- 0.5.0-dev
+- 共 14 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install antlr4ts-cli`
+- npm registry：https://registry.npmjs.org/antlr4ts-cli

@@ -1,0 +1,36 @@
+# @pikku/deploy-standalone
+
+> 标签: JavaScript
+
+## 简介
+
+Standalone deploy adapter for Pikku — bundles a project into a node bundle or a compiled bun executable
+
+## 官网
+
+- 官网：https://github.com/pikkujs/pikku#readme
+- 源码仓库：git+https://github.com/pikkujs/pikku.git
+- npm 页面：https://www.npmjs.com/package/@pikku/deploy-standalone
+
+## 历史版本号
+
+- 当前版本：0.12.20
+
+- 0.12.12
+- 0.12.13
+- 0.12.17
+- 0.12.19
+- 0.12.2
+- 0.12.20
+- 0.12.3
+- 0.12.4
+- 0.12.5
+- 0.12.6
+- 0.12.7
+- 0.12.8
+- 共 16 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @pikku/deploy-standalone`
+- npm registry：https://registry.npmjs.org/@pikku/deploy-standalone

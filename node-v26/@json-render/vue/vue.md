@@ -1,0 +1,36 @@
+# @json-render/vue
+
+> 标签: JavaScript
+
+## 简介
+
+Vue renderer for @json-render/core. JSON becomes Vue components.
+
+## 官网
+
+- 官网：https://json-render.dev
+- 源码仓库：git+https://github.com/vercel-labs/json-render.git
+- npm 页面：https://www.npmjs.com/package/@json-render/vue
+
+## 历史版本号
+
+- 当前版本：0.21.0
+
+- 0.12.1
+- 0.13.0
+- 0.14.0
+- 0.14.1
+- 0.15.0
+- 0.16.0
+- 0.17.0
+- 0.18.0
+- 0.19.0
+- 0.20.0
+- 0.21.0
+- 0.9.1
+- 共 15 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @json-render/vue`
+- npm registry：https://registry.npmjs.org/@json-render/vue

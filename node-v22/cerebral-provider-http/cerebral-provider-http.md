@@ -1,0 +1,36 @@
+# cerebral-provider-http
+
+> 标签: JavaScript
+
+## 简介
+
+HTTP provider for Cerebral 2
+
+## 官网
+
+- 官网：https://github.com/cerebral/cerebral/tree/master/packages/cerebral-provider-http#readme
+- 源码仓库：git+https://github.com/cerebral/cerebral.git
+- npm 页面：https://www.npmjs.com/package/cerebral-provider-http
+
+## 历史版本号
+
+- 当前版本：1.0.0-alpha.1-alpha.ed1e4568
+
+- 1.0.0-b-alpha.e564a768-alpha.e564a768
+- 1.0.0-b-alpha.e6ad4291
+- 1.0.0-b-alpha.e783cbc0
+- 1.0.0-b-alpha.e83c4899
+- 1.0.0-b-alpha.e8d73105
+- 1.0.0-b-alpha.ebd1822c
+- 1.0.0-b-alpha.ebdf3add
+- 1.0.0-b-alpha.f3fd7672
+- 1.0.0-b-alpha.f8b524d1
+- 1.0.0-b-alpha.fa56b7f5
+- 1.0.0-b-alpha.fab0e4d1
+- 1.0.0-b-alpha.fb1baf7b
+- 共 185 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install cerebral-provider-http`
+- npm registry：https://registry.npmjs.org/cerebral-provider-http

@@ -1,0 +1,36 @@
+# @types/byline
+
+> 标签: JavaScript
+
+## 简介
+
+TypeScript definitions for byline
+
+## 官网
+
+- 官网：https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/byline
+- 源码仓库：https://github.com/DefinitelyTyped/DefinitelyTyped.git
+- npm 页面：https://www.npmjs.com/package/@types/byline
+
+## 历史版本号
+
+- 当前版本：4.2.36
+
+- 4.2.25-alpha
+- 4.2.26-alpha
+- 4.2.27-alpha
+- 4.2.28-alpha
+- 4.2.29
+- 4.2.30
+- 4.2.31
+- 4.2.32
+- 4.2.33
+- 4.2.34
+- 4.2.35
+- 4.2.36
+- 共 17 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @types/byline`
+- npm registry：https://registry.npmjs.org/@types/byline

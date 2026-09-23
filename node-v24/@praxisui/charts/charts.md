@@ -1,0 +1,35 @@
+# @praxisui/charts
+
+> 标签: JavaScript
+
+## 简介
+
+Metadata-driven charts library for Praxis UI Angular with engine adapters and Apache ECharts as the initial renderer.
+
+## 官网
+
+- 官网：https://praxisui.dev/components/charts
+- npm 页面：https://www.npmjs.com/package/@praxisui/charts
+
+## 历史版本号
+
+- 当前版本：9.0.67
+
+- 9.0.63
+- 9.0.64
+- 9.0.65
+- 9.0.66
+- 9.0.67
+- 9.0.68-rc.0
+- 9.0.68-rc.1
+- 9.0.68-rc.2
+- 9.0.68-rc.3
+- 9.0.7
+- 9.0.8
+- 9.0.9
+- 共 375 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @praxisui/charts`
+- npm registry：https://registry.npmjs.org/@praxisui/charts

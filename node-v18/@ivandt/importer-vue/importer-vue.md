@@ -1,0 +1,36 @@
+# @ivandt/importer-vue
+
+> 标签: JavaScript
+
+## 简介
+
+Vue wrapper for @ivandt/importer web component
+
+## 官网
+
+- 官网：https://github.com/ivandt/ivandt-platform#readme
+- 源码仓库：git+https://github.com/ivandt/ivandt-platform.git
+- npm 页面：https://www.npmjs.com/package/@ivandt/importer-vue
+
+## 历史版本号
+
+- 当前版本：8.0.0
+
+- 5.0.1
+- 5.0.2
+- 6.0.0
+- 6.0.1
+- 6.0.2
+- 6.0.3
+- 6.0.4
+- 6.0.5
+- 6.0.6
+- 7.0.0
+- 7.0.1
+- 8.0.0
+- 共 32 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @ivandt/importer-vue`
+- npm registry：https://registry.npmjs.org/@ivandt/importer-vue

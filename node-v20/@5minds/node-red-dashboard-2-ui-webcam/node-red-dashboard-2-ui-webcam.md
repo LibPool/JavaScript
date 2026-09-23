@@ -1,0 +1,37 @@
+# @5minds/node-red-dashboard-2-ui-webcam
+
+> 标签: JavaScript
+
+## 简介
+
+The ui-webcam node for Node-RED Dashboard 2.0 enables users to integrate webcam functionality into Node-RED Dashboard 2.0. It allows users to capture images, select different cameras, and control webcam features through an intuitive user interface within
+
+## 官网
+
+- 官网：https://github.com/5minds/ProcessCube.LowCode#readme
+- 源码仓库：git+https://github.com/5minds/ProcessCube.LowCode.git
+- npm 页面：https://www.npmjs.com/package/@5minds/node-red-dashboard-2-ui-webcam
+
+## 历史版本号
+
+- 当前版本：7.10.0
+
+- 7.7.2-feature-8b2d0c-mm1xd0tt
+- 7.7.2-feature-9a66b8-mm1wilex
+- 7.7.2-feature-c422ea-mm1y2q1o
+- 7.7.2-vk-f73f0a-mm0fum9b
+- 7.8.0
+- 7.8.0-alpha.1
+- 7.8.0-develop-0d8271-mmer509c
+- 7.8.0-develop-c4d846-mmkkalou
+- 7.8.0-develop-fea0bf-mmenv9mb
+- 7.9.0
+- 7.9.0-alpha.1
+- 7.9.0-develop-d5b774-mmkvkalp
+- 共 139 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @5minds/node-red-dashboard-2-ui-webcam`
+- npm registry：https://registry.npmjs.org/@5minds/node-red-dashboard-2-ui-webcam
+- Node 要求：>=14
