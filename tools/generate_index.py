@@ -18,6 +18,7 @@ import time
 import urllib.parse
 import urllib.request
 from collections import defaultdict
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from dataclasses import dataclass, field
 from pathlib import Path
 
@@ -26,6 +27,18 @@ NPM = "https://registry.npmjs.org"
 USER_AGENT = "LibPool-Indexer/1.0 (+https://github.com/LibPool)"
 CACHE_PATH = Path(__file__).resolve().parent / "cache" / "npm.json"
 NODE_RELEASES = ["node-v18", "node-v20", "node-v22", "node-v24", "node-v26"]
+
+CRAWL_QUERIES = [
+    "javascript", "node", "react", "vue", "angular", "typescript", "css", "html",
+    "http", "web", "api", "cli", "test", "ui", "database", "sql", "orm",
+    "auth", "security", "parser", "server", "tool", "util", "helper", "async",
+    "stream", "state", "router", "template", "plugin", "component", "chart",
+    "editor", "animation", "network", "socket", "queue", "cache", "logger",
+    "config", "validation", "schema", "data", "json", "markdown", "image",
+    "pdf", "excel", "crypto", "http-client", "react-native", "webpack", "vite",
+    "babel", "eslint", "jest", "storybook", "tailwind", "three", "game",
+    "visualization", "form", "table", "router-dom", "animation-dom",
+]
 
 
 @dataclass
@@ -67,6 +80,33 @@ def load_cache() -> dict:
 def save_cache(data: dict) -> None:
     CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
     CACHE_PATH.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def crawl_npm_search(limit: int) -> list[JsLib]:
+    """Collect distinct npm packages via the public search API."""
+    found: dict[str, JsLib] = {}
+    for q in CRAWL_QUERIES:
+        for start in range(0, 10001, 250):
+            url = f"{NPM}/-/v1/search?text={urllib.parse.quote(q)}&size=250&from={start}"
+            try:
+                data = http_json(url)
+            except Exception:
+                break
+            objects = data.get("objects") or []
+            if not objects:
+                break
+            for obj in objects:
+                pkg = obj.get("package") or {}
+                name = (pkg.get("name") or "").strip()
+                if not name:
+                    continue
+                if name not in found:
+                    found[name] = JsLib(name=name)
+                if len(found) >= limit:
+                    return list(found.values())
+            print(f"  query={q} from={start} collected={len(found)}", flush=True)
+            time.sleep(0.08)
+    return list(found.values())
 
 
 def node_major_baseline(engine_range: str) -> int | None:
@@ -207,10 +247,11 @@ def write_js_readme(root: Path, libs: list[JsLib], counts: dict[str, int]) -> No
         "- Node 大版本目录：`node-v18`、`node-v20`、`node-v22`、`node-v24`、`node-v26`",
         "- 包路径：`<包名>/<包名>.md`，作用域包如 `@types/node` 位于 `@types/node/node.md`",
         "- 库若兼容多个 Node 大版本，会同时出现在所有后续版本目录中",
-        f"- 当前共收录 {len(libs)} 个 npm 包。",
+        f"- 当前共收录 {len(libs)} 个 npm 包，来源为 npm 搜索 API 全量翻页与人工种子。",
         "",
         "## 数据源",
         "",
+        "- npm 搜索 API：https://registry.npmjs.org/-/v1/search",
         "- npm registry API：https://registry.npmjs.org/<package>",
         "- npm 官网：https://www.npmjs.com/",
         "",
@@ -218,7 +259,7 @@ def write_js_readme(root: Path, libs: list[JsLib], counts: dict[str, int]) -> No
         "",
         "```bash",
         "python tools/build_seed_list.py",
-        "python tools/generate_index.py",
+        "python tools/generate_index.py --crawl --crawl-limit 50000 --workers 32",
         "```",
         "",
         "按 Node 大版本统计：",
@@ -233,19 +274,38 @@ def main() -> int:
     ap.add_argument("--seeds", default="tools/seeds/javascript.json")
     ap.add_argument("--out", default=".")
     ap.add_argument("--limit", type=int, default=0)
+    ap.add_argument("--crawl", action="store_true", help="crawl npm search API and merge into seeds")
+    ap.add_argument("--crawl-limit", type=int, default=50000, help="max packages to collect from search")
+    ap.add_argument("--workers", type=int, default=32)
     ap.add_argument("--refresh-cache", action="store_true")
     args = ap.parse_args()
 
     root = Path(args.out).resolve()
     libs = load_seeds(Path(args.seeds))
+    if args.crawl:
+        crawled = crawl_npm_search(args.crawl_limit)
+        existing = {lib.name for lib in libs}
+        added = 0
+        for lib in crawled:
+            if lib.name not in existing:
+                libs.append(lib)
+                existing.add(lib.name)
+                added += 1
+        print(f"Crawled {len(crawled)} names from npm search, added {added} new packages", flush=True)
     if args.limit:
         libs = libs[: args.limit]
     cache = load_cache()
     print(f"Processing {len(libs)} packages from {args.seeds}...", flush=True)
-    for i, lib in enumerate(libs, 1):
-        enrich(lib, cache, use_cache=not args.refresh_cache)
-        print(f"  [{i}/{len(libs)}] {lib.name} -> {lib.version or 'failed'}", flush=True)
-        time.sleep(0.04)
+    with ThreadPoolExecutor(max_workers=args.workers) as ex:
+        futures = [ex.submit(enrich, lib, cache, not args.refresh_cache) for lib in libs]
+        for i, fut in enumerate(as_completed(futures), 1):
+            try:
+                fut.result()
+            except Exception as exc:
+                print(f"  enrich error -> {exc}", flush=True)
+            if i % 500 == 0 or i == len(futures):
+                save_cache(cache)
+                print(f"  enriched {i}/{len(futures)}", flush=True)
     save_cache(cache)
     counts = generate(root, libs, root)
     print("Generated:", json.dumps(counts, sort_keys=True), flush=True)
