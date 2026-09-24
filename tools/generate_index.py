@@ -79,7 +79,7 @@ def load_meta_dir(path: Path, prefix: str = "") -> list[JsLib]:
                 line = line.strip()
                 if not line:
                     continue
-                if prefix and not line.startswith(('"name":"' + prefix)):
+                if prefix and not line.startswith('{"name":"' + prefix):
                     continue
                 try:
                     item = json.loads(line)
@@ -290,13 +290,16 @@ def load_existing_counts(root: Path) -> dict[str, int]:
         return {}
     counts: dict[str, int] = {}
     for line in readme.read_text(encoding="utf-8").splitlines():
-        match = re.match(r"^\- (node-v\d+):\s+([\d,]+) 个包", line)
+        match = re.match(r"^\- (node-v\d+)[:：]\s+([\d,]+) 个包", line)
         if match:
             counts[match.group(1)] = int(match.group(2).replace(",", ""))
     return counts
 
 
 def load_existing_total(root: Path) -> int:
+    counts = load_existing_counts(root)
+    if counts.get("node-v26"):
+        return counts["node-v26"]
     readme = root / "README.md"
     if not readme.exists():
         return 0
