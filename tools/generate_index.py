@@ -51,6 +51,7 @@ class JsLib:
     repository: str = ""
     engines_node: str = ""
     versions: list[str] = field(default_factory=list)
+    version_count: int = 0
 
     @property
     def safe_name(self) -> str:
@@ -66,6 +67,44 @@ def http_json(url: str) -> dict:
 def load_seeds(path: Path) -> list[JsLib]:
     data = json.loads(path.read_text(encoding="utf-8"))
     return [JsLib(name=item["name"], tags=item.get("tags", [])) for item in data]
+
+
+def load_meta_dir(path: Path, prefix: str = "") -> list[JsLib]:
+    """Load the lean metadata dump produced by crawl_npm_meta.py."""
+    libs: list[JsLib] = []
+    errors = 0
+    for part in sorted(path.glob("npm_meta_*.jsonl")):
+        with part.open(encoding="utf-8", errors="replace") as fh:
+            for line in fh:
+                line = line.strip()
+                if not line:
+                    continue
+                if prefix and not line.startswith(('"name":"' + prefix)):
+                    continue
+                try:
+                    item = json.loads(line)
+                except Exception:
+                    errors += 1
+                    continue
+                name = item.get("name") or ""
+                if prefix and not name.startswith(prefix):
+                    continue
+                libs.append(
+                    JsLib(
+                        name=name,
+                        tags=item.get("tags") or [],
+                        version=item.get("version") or "",
+                        description=item.get("description") or "",
+                        homepage=item.get("homepage") or "",
+                        repository=item.get("repository") or "",
+                        engines_node=item.get("engines_node") or "",
+                        versions=item.get("versions") or [],
+                        version_count=int(item.get("version_count") or 0),
+                    )
+                )
+    if errors:
+        print(f"  {errors:,} unreadable meta lines skipped", flush=True)
+    return [lib for lib in libs if lib.name]
 
 
 def load_cache() -> dict:
@@ -182,9 +221,10 @@ def enrich(lib: JsLib, cache: dict, use_cache: bool) -> None:
 
 
 def readme_md(lib: JsLib) -> str:
+    total_versions = lib.version_count or len(lib.versions)
     version_lines = "\n".join(f"- {v}" for v in sorted(lib.versions)[-12:] or ["-"])
-    if len(lib.versions) > 12:
-        version_lines += f"\n- 共 {len(lib.versions)} 个版本，完整清单见 npm registry。"
+    if total_versions > len(lib.versions):
+        version_lines += f"\n- 共 {total_versions:,} 个版本，完整清单见 npm registry。"
     websites = []
     if lib.homepage:
         websites.append(f"- 官网：{lib.homepage}")
@@ -223,22 +263,55 @@ def readme_md(lib: JsLib) -> str:
 """
 
 
-def generate(root: Path, libs: list[JsLib], out_dir: Path) -> dict[str, int]:
+def generate(root: Path, libs: list[JsLib], out_dir: Path, releases: list[str] | None = None) -> dict[str, int]:
     counts = defaultdict(int)
+    targets = releases or NODE_RELEASES
     for lib in libs:
         if not lib.version:
             continue
         text = readme_md(lib)
         for release in node_dirs_for(lib):
+            if release not in targets:
+                continue
             parts = lib.name.split("/")
             target = out_dir / release / Path(*parts)
             target.mkdir(parents=True, exist_ok=True)
-            (target / f"{parts[-1]}.md").write_text(text, encoding="utf-8")
+            md_path = target / f"{parts[-1]}.md"
+            if md_path.exists():
+                continue
+            md_path.write_text(text, encoding="utf-8")
             counts[release] += 1
     return dict(counts)
 
 
-def write_js_readme(root: Path, libs: list[JsLib], counts: dict[str, int]) -> None:
+def load_existing_counts(root: Path) -> dict[str, int]:
+    readme = root / "README.md"
+    if not readme.exists():
+        return {}
+    counts: dict[str, int] = {}
+    for line in readme.read_text(encoding="utf-8").splitlines():
+        match = re.match(r"^\- (node-v\d+):\s+([\d,]+) 个包", line)
+        if match:
+            counts[match.group(1)] = int(match.group(2).replace(",", ""))
+    return counts
+
+
+def load_existing_total(root: Path) -> int:
+    readme = root / "README.md"
+    if not readme.exists():
+        return 0
+    for line in readme.read_text(encoding="utf-8").splitlines():
+        match = re.match(r"^\- 当前共收录 ([\d,]+) 个 npm 包", line)
+        if match:
+            return int(match.group(1).replace(",", ""))
+    return 0
+
+
+def write_js_readme(root: Path, total: int, counts: dict[str, int], releases: list[str] | None) -> None:
+    merged = load_existing_counts(root)
+    for release, count in counts.items():
+        merged[release] = merged.get(release, 0) + count
+    total_all = load_existing_total(root) + total
     lines = [
         "# JavaScript / Node.js 库索引",
         "",
@@ -247,7 +320,7 @@ def write_js_readme(root: Path, libs: list[JsLib], counts: dict[str, int]) -> No
         "- Node 大版本目录：`node-v18`、`node-v20`、`node-v22`、`node-v24`、`node-v26`",
         "- 包路径：`<包名>/<包名>.md`，作用域包如 `@types/node` 位于 `@types/node/node.md`",
         "- 库若兼容多个 Node 大版本，会同时出现在所有后续版本目录中",
-        f"- 当前共收录 {len(libs)} 个 npm 包，来源为 npm 搜索 API 全量翻页与人工种子。",
+        f"- 当前共收录 {total_all:,} 个 npm 包，来源为 npm 复制接口全量包名与 registry 元数据。",
         "",
         "## 数据源",
         "",
@@ -259,13 +332,15 @@ def write_js_readme(root: Path, libs: list[JsLib], counts: dict[str, int]) -> No
         "",
         "```bash",
         "python tools/build_seed_list.py",
-        "python tools/generate_index.py --crawl --crawl-limit 50000 --workers 32",
+        "python tools/crawl_current_ids.py",
+        "python tools/crawl_npm_meta.py",
+        "python tools/generate_index.py --meta-dir tools/cache/npm_meta_parts --releases node-v18",
         "```",
         "",
         "按 Node 大版本统计：",
         "",
     ]
-    lines += [f"- {k}：{v} 个包" for k, v in counts.items()]
+    lines += [f"- {k}：{v:,} 个包" for k, v in merged.items()]
     (root / "README.md").write_text("\n".join(lines), encoding="utf-8")
 
 
@@ -278,38 +353,51 @@ def main() -> int:
     ap.add_argument("--crawl-limit", type=int, default=50000, help="max packages to collect from search")
     ap.add_argument("--workers", type=int, default=32)
     ap.add_argument("--refresh-cache", action="store_true")
+    ap.add_argument("--meta-dir", default="", help="read all metadata from crawl_npm_meta.py JSONL parts")
+    ap.add_argument("--prefix", default="", help="only process package names starting with this prefix")
+    ap.add_argument("--releases", default="", help="comma-separated node-vXX directories to write")
     args = ap.parse_args()
 
     root = Path(args.out).resolve()
-    libs = load_seeds(Path(args.seeds))
-    if args.crawl:
-        crawled = crawl_npm_search(args.crawl_limit)
-        existing = {lib.name for lib in libs}
-        added = 0
-        for lib in crawled:
-            if lib.name not in existing:
-                libs.append(lib)
-                existing.add(lib.name)
-                added += 1
-        print(f"Crawled {len(crawled)} names from npm search, added {added} new packages", flush=True)
+    releases = [r.strip() for r in args.releases.split(",") if r.strip()] if args.releases else None
+    if args.meta_dir:
+        meta_dir = Path(args.meta_dir)
+        libs = load_meta_dir(meta_dir, args.prefix)
+        print(f"Loaded {len(libs):,} packages from {meta_dir}", flush=True)
+    else:
+        libs = load_seeds(Path(args.seeds))
+        if args.crawl:
+            crawled = crawl_npm_search(args.crawl_limit)
+            existing = {lib.name for lib in libs}
+            added = 0
+            for lib in crawled:
+                if lib.name not in existing:
+                    libs.append(lib)
+                    existing.add(lib.name)
+                    added += 1
+            print(f"Crawled {len(crawled)} names from npm search, added {added} new packages", flush=True)
+    if args.prefix:
+        libs = [lib for lib in libs if lib.name.startswith(args.prefix)]
+        print(f"Prefix {args.prefix!r}: {len(libs):,} packages", flush=True)
     if args.limit:
         libs = libs[: args.limit]
-    cache = load_cache()
-    print(f"Processing {len(libs)} packages from {args.seeds}...", flush=True)
-    with ThreadPoolExecutor(max_workers=args.workers) as ex:
-        futures = [ex.submit(enrich, lib, cache, not args.refresh_cache) for lib in libs]
-        for i, fut in enumerate(as_completed(futures), 1):
-            try:
-                fut.result()
-            except Exception as exc:
-                print(f"  enrich error -> {exc}", flush=True)
-            if i % 500 == 0 or i == len(futures):
-                save_cache(cache)
-                print(f"  enriched {i}/{len(futures)}", flush=True)
-    save_cache(cache)
-    counts = generate(root, libs, root)
+    if not args.meta_dir:
+        cache = load_cache()
+        print(f"Processing {len(libs)} packages from {args.seeds}...", flush=True)
+        with ThreadPoolExecutor(max_workers=args.workers) as ex:
+            futures = [ex.submit(enrich, lib, cache, not args.refresh_cache) for lib in libs]
+            for i, fut in enumerate(as_completed(futures), 1):
+                try:
+                    fut.result()
+                except Exception as exc:
+                    print(f"  enrich error -> {exc}", flush=True)
+                if i % 500 == 0 or i == len(futures):
+                    save_cache(cache)
+                    print(f"  enriched {i}/{len(futures)}", flush=True)
+        save_cache(cache)
+    counts = generate(root, libs, root, releases)
     print("Generated:", json.dumps(counts, sort_keys=True), flush=True)
-    write_js_readme(root, libs, counts)
+    write_js_readme(root, len(libs), counts, releases)
     return 0
 
 
