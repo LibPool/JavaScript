@@ -1,0 +1,22 @@
+# nibbles-class-card
+
+> 标签: JavaScript
+
+## 简介
+
+A simple card for Nibbles class
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/nibbles-class-card
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install nibbles-class-card`
+- npm registry：https://registry.npmjs.org/nibbles-class-card

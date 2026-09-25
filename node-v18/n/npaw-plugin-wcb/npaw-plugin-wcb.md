@@ -1,0 +1,36 @@
+# npaw-plugin-wcb
+
+> 标签: NPAW, analytics, esm, plugin, unified
+
+## 简介
+
+NPAW's Plugin (Without CDN Balancer)
+
+## 官网
+
+- 官网：https://repo.plugin.npaw.com/plugins/plugin-js#readme
+- 源码仓库：git+https://repo.plugin.npaw.com/plugins/plugin-js.git
+- npm 页面：https://www.npmjs.com/package/npaw-plugin-wcb
+
+## 历史版本号
+
+- 当前版本：7.3.40
+
+- 7.3.28
+- 7.3.29
+- 7.3.30
+- 7.3.31
+- 7.3.32
+- 7.3.33
+- 7.3.34
+- 7.3.35
+- 7.3.36
+- 7.3.37
+- 7.3.39
+- 7.3.40
+
+## 获取地址
+
+- npm 安装：`npm install npaw-plugin-wcb`
+- npm registry：https://registry.npmjs.org/npaw-plugin-wcb
+- Node 要求：>= 10.13

@@ -1,0 +1,28 @@
+# nest-select
+
+> 标签: JavaScript
+
+## 简介
+
+Simple Select component better suited for my personal needs.
+
+## 官网
+
+- 官网：https://github.com/cibulka/nest-select
+- npm 页面：https://www.npmjs.com/package/nest-select
+
+## 历史版本号
+
+- 当前版本：0.1.5
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+
+## 获取地址
+
+- npm 安装：`npm install nest-select`
+- npm registry：https://registry.npmjs.org/nest-select

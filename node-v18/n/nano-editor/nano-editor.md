@@ -1,0 +1,31 @@
+# nano-editor
+
+> 标签: code, code-editor, highlight, syntax-highlight
+
+## 简介
+
+Super small and simple code editor inspired by CodeFlask.js.
+
+## 官网
+
+- 官网：https://github.com/ClickSimply/nanoEditor#readme
+- 源码仓库：git+https://github.com/ClickSimply/nanoEditor.git
+- npm 页面：https://www.npmjs.com/package/nano-editor
+
+## 历史版本号
+
+- 当前版本：1.2.4
+
+- 0.0.1
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.2.3
+- 1.2.4
+
+## 获取地址
+
+- npm 安装：`npm install nano-editor`
+- npm registry：https://registry.npmjs.org/nano-editor

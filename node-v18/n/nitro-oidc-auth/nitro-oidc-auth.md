@@ -1,0 +1,22 @@
+# nitro-oidc-auth
+
+> 标签: JavaScript
+
+## 简介
+
+OpenID Connect (OIDC) authentication for Nitro
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/nitro-oidc-auth
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install nitro-oidc-auth`
+- npm registry：https://registry.npmjs.org/nitro-oidc-auth

@@ -1,0 +1,24 @@
+# npm-haxe-vsc-template-files
+
+> 标签: bricksoft, code, haxe, studio, template, visual, vscode
+
+## 简介
+
+The Real Template Files Behind npm-haxe-vsc-template
+
+## 官网
+
+- 官网：https://github.com/bricksoft/vsc-haxe-template#readme
+- 源码仓库：git+https://github.com/bricksoft/vsc-haxe-template.git
+- npm 页面：https://www.npmjs.com/package/npm-haxe-vsc-template-files
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install npm-haxe-vsc-template-files`
+- npm registry：https://registry.npmjs.org/npm-haxe-vsc-template-files

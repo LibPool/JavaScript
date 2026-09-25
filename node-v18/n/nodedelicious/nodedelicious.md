@@ -1,0 +1,27 @@
+# nodedelicious
+
+> 标签: api, delicious
+
+## 简介
+
+Library to access Delicious API
+
+## 官网
+
+- 官网：https://github.com/ajlopez/NodeDelicious
+- 源码仓库：git://github.com/ajlopez/NodeDelicious.git
+- npm 页面：https://www.npmjs.com/package/nodedelicious
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.1alpha
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install nodedelicious`
+- npm registry：https://registry.npmjs.org/nodedelicious
+- Node 要求：>= 0.6.0 && < 0.9.0

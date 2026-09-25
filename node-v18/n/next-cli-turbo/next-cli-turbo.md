@@ -1,0 +1,33 @@
+# next-cli-turbo
+
+> 标签: cli, components, generate, generate next.js files, kristiyan velkov, next.js, next.js-cli, nextcli, pages, react.js, routes, typescript
+
+## 简介
+
+This CLI tool is designed to automate and simplify common tasks in Next.js development, such as creating pages and components. It aims to improve developer productivity by providing easy-to-use commands for quickly scaffolding new parts of a Next.js appli
+
+## 官网
+
+- 官网：https://github.com/kristiyan-velkov/next.js-cli#readme
+- 源码仓库：git+https://github.com/kristiyan-velkov/next.js-cli.git
+- npm 页面：https://www.npmjs.com/package/next-cli-turbo
+
+## 历史版本号
+
+- 当前版本：0.0.10
+
+- 0.0.1
+- 0.0.10
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install next-cli-turbo`
+- npm registry：https://registry.npmjs.org/next-cli-turbo

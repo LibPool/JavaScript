@@ -1,0 +1,26 @@
+# no-if
+
+> 标签: JavaScript
+
+## 简介
+
+Do not use if keyword
+
+## 官网
+
+- 官网：https://github.com/spirinvladimir/no-if#readme
+- 源码仓库：git://github.com/spirinvladimir/no-if.git
+- npm 页面：https://www.npmjs.com/package/no-if
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 1.0.3
+- 1.0.4
+- 1.0.5
+
+## 获取地址
+
+- npm 安装：`npm install no-if`
+- npm registry：https://registry.npmjs.org/no-if

@@ -1,0 +1,31 @@
+# ng2-comps
+
+> 标签: Angular 2, Components
+
+## 简介
+
+Angular 2 Web Components
+
+## 官网
+
+- 官网：https://bitbucket.org/hoploop/ng2-comps#readme
+- 源码仓库：git+https://hoploop@bitbucket.org/hoploop/ng2-comps.git
+- npm 页面：https://www.npmjs.com/package/ng2-comps
+
+## 历史版本号
+
+- 当前版本：0.1.7
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+
+## 获取地址
+
+- npm 安装：`npm install ng2-comps`
+- npm registry：https://registry.npmjs.org/ng2-comps

@@ -1,0 +1,25 @@
+# npm-specifier-loader
+
+> 标签: experimental, loader, module, node, npm, specifier, url
+
+## 简介
+
+Node.js module loader enabling support for npm specifier imports
+
+## 官网
+
+- 官网：https://github.com/wnayes/npm-specifier-loader
+- 源码仓库：git+https://github.com/wnayes/npm-specifier-loader.git
+- npm 页面：https://www.npmjs.com/package/npm-specifier-loader
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install npm-specifier-loader`
+- npm registry：https://registry.npmjs.org/npm-specifier-loader
+- Node 要求：>=16

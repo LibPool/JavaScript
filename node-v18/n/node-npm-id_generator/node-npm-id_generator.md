@@ -1,0 +1,25 @@
+# node-npm-id_generator
+
+> 标签: JavaScript
+
+## 简介
+
+Npm package for generate random ID numbers. Contains upper / lower-case letters and numbers.      It's up to you how long it should be.
+
+## 官网
+
+- 官网：https://github.com/xek2137/node-npm-id_generator#readme
+- 源码仓库：git+ssh://git@github.com/xek2137/node-npm-id_generator.git
+- npm 页面：https://www.npmjs.com/package/node-npm-id_generator
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install node-npm-id_generator`
+- npm registry：https://registry.npmjs.org/node-npm-id_generator

@@ -1,0 +1,35 @@
+# nunjucks-pagelet
+
+> 标签: JavaScript
+
+## 简介
+
+scrat-swig的nunjucks版本, 提供pagelet支持
+
+## 官网
+
+- 官网：https://github.com/scrat-team/nunjucks-pagelet
+- 源码仓库：git@github.com/scrat-team/nunjucks-pagelet.git
+- npm 页面：https://www.npmjs.com/package/nunjucks-pagelet
+
+## 历史版本号
+
+- 当前版本：2.1.0
+
+- 1.0.0
+- 1.1.1
+- 1.2.0
+- 1.2.1
+- 1.3.0
+- 1.4.0
+- 1.4.1
+- 1.4.2
+- 2.0.0
+- 2.1.0
+- 2.1.0-pwa
+
+## 获取地址
+
+- npm 安装：`npm install nunjucks-pagelet`
+- npm registry：https://registry.npmjs.org/nunjucks-pagelet
+- Node 要求：>= 6.0.0

@@ -1,0 +1,22 @@
+# node-htmlencode
+
+> 标签: decode, encode, html
+
+## 简介
+
+Wrapped version of http://www.strictly-software.com/htmlencode
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/node-htmlencode
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install node-htmlencode`
+- npm registry：https://registry.npmjs.org/node-htmlencode

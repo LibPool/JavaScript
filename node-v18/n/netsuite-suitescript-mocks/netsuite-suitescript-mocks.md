@@ -1,0 +1,28 @@
+# netsuite-suitescript-mocks
+
+> 标签: JEST, JS, JavaScirpt, Mockup, NetSuite
+
+## 简介
+
+Netsute mock
+
+## 官网
+
+- 官网：https://github.com/mycsHQ/ns-suitescript-mocks#readme
+- 源码仓库：git+https://github.com/mycsHQ/ns-suitescript-mocks.git
+- npm 页面：https://www.npmjs.com/package/netsuite-suitescript-mocks
+
+## 历史版本号
+
+- 当前版本：0.1.3
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+
+## 获取地址
+
+- npm 安装：`npm install netsuite-suitescript-mocks`
+- npm registry：https://registry.npmjs.org/netsuite-suitescript-mocks
+- Node 要求：>=4.2.4

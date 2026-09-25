@@ -1,0 +1,34 @@
+# node-binance-api-2
+
+> 标签: api, binance
+
+## 简介
+
+Binance API for node https://github.com/jaggedsoft/node-binance-api
+
+## 官网
+
+- 官网：https://github.com/jaggedsoft/node-binance-api#readme
+- 源码仓库：git://github.com/doppelgunner/node-binance-api.git#node-binance-api-2.git
+- npm 页面：https://www.npmjs.com/package/node-binance-api-2
+
+## 历史版本号
+
+- 当前版本：0.13.11
+
+- 0.13.1
+- 0.13.10
+- 0.13.11
+- 0.13.2
+- 0.13.3
+- 0.13.4
+- 0.13.5
+- 0.13.6
+- 0.13.7
+- 0.13.8
+- 0.13.9
+
+## 获取地址
+
+- npm 安装：`npm install node-binance-api-2`
+- npm registry：https://registry.npmjs.org/node-binance-api-2

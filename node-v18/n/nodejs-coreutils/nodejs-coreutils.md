@@ -1,0 +1,35 @@
+# nodejs-coreutils
+
+> 标签: array, basic utils, crypto, debounce, deepClone, extensions, formatting, helpers, javascript, lodash, mergeObjects, node, nodejsutils, shivapendem, string, throttle, toolkit, underscore, utility, utils, validation
+
+## 简介
+
+A comprehensive and lightweight collection of essential Node.js utility functions for strings, arrays, validation, and more.
+
+## 官网
+
+- 官网：https://github.com/shivapendem/nodejsutils#readme
+- 源码仓库：git+https://github.com/shivapendem/nodejsutils.git
+- npm 页面：https://www.npmjs.com/package/nodejs-coreutils
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.0.7
+- 0.0.8
+- 0.0.9
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.5
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install nodejs-coreutils`
+- npm registry：https://registry.npmjs.org/nodejs-coreutils

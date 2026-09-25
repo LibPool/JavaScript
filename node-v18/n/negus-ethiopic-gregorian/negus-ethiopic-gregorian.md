@@ -1,0 +1,31 @@
+# negus-ethiopic-gregorian
+
+> 标签: JavaScript
+
+## 简介
+
+Accurate, dependency-free Ethiopic (Ethiopian) ↔ Gregorian date conversions with utilities & highlights.
+
+## 官网
+
+- 官网：https://github.com/negusnati/negus-ethiopic-gregorian#readme
+- 源码仓库：git+https://github.com/negusnati/negus-ethiopic-gregorian.git
+- npm 页面：https://www.npmjs.com/package/negus-ethiopic-gregorian
+
+## 历史版本号
+
+- 当前版本：0.2.4
+
+- 0.1.1
+- 0.1.2
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.3
+- 0.2.4
+
+## 获取地址
+
+- npm 安装：`npm install negus-ethiopic-gregorian`
+- npm registry：https://registry.npmjs.org/negus-ethiopic-gregorian
+- Node 要求：>=16

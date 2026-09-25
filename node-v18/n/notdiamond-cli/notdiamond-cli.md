@@ -1,0 +1,26 @@
+# notdiamond-cli
+
+> 标签: adaptation, ai, cli, llm, notdiamond, optimization, prompt
+
+## 简介
+
+A beautiful command-line interface for NotDiamond's prompt adaptation service
+
+## 官网
+
+- 官网：https://github.com/notdiamond/notdiamond-cli
+- 源码仓库：git+https://github.com/notdiamond/notdiamond-cli.git
+- npm 页面：https://www.npmjs.com/package/notdiamond-cli
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install notdiamond-cli`
+- npm registry：https://registry.npmjs.org/notdiamond-cli
+- Node 要求：>=16

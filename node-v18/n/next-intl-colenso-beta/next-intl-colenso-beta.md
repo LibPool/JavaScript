@@ -1,0 +1,25 @@
+# next-intl-colenso-beta
+
+> 标签: format, formatting, i18n, internationalization, intl, localization, next, next.js, react, translate, translation
+
+## 简介
+
+A minimal, but complete solution for internationalization in Next.js apps.
+
+## 官网
+
+- 官网：https://next-intl-docs.vercel.app
+- 源码仓库：git+https://github.com/amannn/next-intl.git
+- npm 页面：https://www.npmjs.com/package/next-intl-colenso-beta
+
+## 历史版本号
+
+- 当前版本：3.2.2-beta.2
+
+- 3.2.2-beta.1
+- 3.2.2-beta.2
+
+## 获取地址
+
+- npm 安装：`npm install next-intl-colenso-beta`
+- npm registry：https://registry.npmjs.org/next-intl-colenso-beta

@@ -1,0 +1,33 @@
+# n8n-nodes-c12_pyautogui_web
+
+> 标签: mqtt, n8n-community-node-package
+
+## 简介
+
+Great Lotus MQTT node for PyAutoGUI desktop web automation
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/n8n-nodes-c12_pyautogui_web
+
+## 历史版本号
+
+- 当前版本：0.1.51
+
+- 0.1.45
+- 0.1.46
+- 0.1.47
+- 0.1.48
+- 0.1.49
+- 0.1.5
+- 0.1.50
+- 0.1.51
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install n8n-nodes-c12_pyautogui_web`
+- npm registry：https://registry.npmjs.org/n8n-nodes-c12_pyautogui_web

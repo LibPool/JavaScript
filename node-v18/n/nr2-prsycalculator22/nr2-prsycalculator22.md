@@ -1,0 +1,22 @@
+# nr2-prsycalculator22
+
+> 标签: JavaScript
+
+## 简介
+
+my calculator using prompt-sync
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/nr2-prsycalculator22
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install nr2-prsycalculator22`
+- npm registry：https://registry.npmjs.org/nr2-prsycalculator22

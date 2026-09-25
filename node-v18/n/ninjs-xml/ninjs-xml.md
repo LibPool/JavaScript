@@ -1,0 +1,26 @@
+# ninjs-xml
+
+> 标签: ninjs, xml
+
+## 简介
+
+xml utils, parsing, CRUD, templates, ...
+
+## 官网
+
+- 官网：https://github.com/snapptop/ninjs-xml#readme
+- 源码仓库：git+https://github.com/snapptop/ninjs-xml.git
+- npm 页面：https://www.npmjs.com/package/ninjs-xml
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install ninjs-xml`
+- npm registry：https://registry.npmjs.org/ninjs-xml
+- Node 要求：>= 0.6

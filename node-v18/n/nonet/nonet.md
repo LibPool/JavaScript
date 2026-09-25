@@ -1,0 +1,28 @@
+# nonet
+
+> 标签: .net, .net core, asp.net, axios, dotenv, express, handlebars, pino, typescript
+
+## 简介
+
+ASP .NET like library for Node.js built on top of TypeScript
+
+## 官网
+
+- 官网：https://github.com/doriandres/nonet#readme
+- 源码仓库：git+https://github.com/doriandres/nonet.git
+- npm 页面：https://www.npmjs.com/package/nonet
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install nonet`
+- npm registry：https://registry.npmjs.org/nonet
+- Node 要求：>=16.0.0

@@ -1,0 +1,24 @@
+# nestjs-prisma-boilerplate-openapi
+
+> 标签: axios, nestjs-prisma-boilerplate-openapi, openapi-client, openapi-generator, typescript
+
+## 简介
+
+OpenAPI client for nestjs-prisma-boilerplate-openapi
+
+## 官网
+
+- 官网：https://github.com/ume-software/nestjs-prisma-boilerplate-openapi#readme
+- 源码仓库：git+https://github.com/ume-software/nestjs-prisma-boilerplate-openapi.git
+- npm 页面：https://www.npmjs.com/package/nestjs-prisma-boilerplate-openapi
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install nestjs-prisma-boilerplate-openapi`
+- npm registry：https://registry.npmjs.org/nestjs-prisma-boilerplate-openapi

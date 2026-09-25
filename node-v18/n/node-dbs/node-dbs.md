@@ -1,0 +1,24 @@
+# node-dbs
+
+> 标签: database, es2015, es6, mongodb, mysql, nodejs, promise, redis
+
+## 简介
+
+Nodejs 数据库连接，（Nodejs Database Connectivity，简称nodedbc），支持多种数据库连接
+
+## 官网
+
+- 官网：https://github.com/iPenManShip/dbc-node
+- npm 页面：https://www.npmjs.com/package/node-dbs
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install node-dbs`
+- npm registry：https://registry.npmjs.org/node-dbs

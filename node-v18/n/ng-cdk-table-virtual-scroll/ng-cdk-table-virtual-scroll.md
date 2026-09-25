@@ -1,0 +1,26 @@
+# ng-cdk-table-virtual-scroll
+
+> 标签: angular, material, scroll, table, virtual scroll
+
+## 简介
+
+Virtual scroll for for Angular Cdk Table
+
+## 官网
+
+- 官网：https://github.com/rosostolato/ng-table-virtual-scroll
+- 源码仓库：git://github.com/rosostolato/ng-table-virtual-scroll.git
+- npm 页面：https://www.npmjs.com/package/ng-cdk-table-virtual-scroll
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install ng-cdk-table-virtual-scroll`
+- npm registry：https://registry.npmjs.org/ng-cdk-table-virtual-scroll

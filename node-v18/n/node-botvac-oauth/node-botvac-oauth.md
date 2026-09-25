@@ -1,0 +1,25 @@
+# node-botvac-oauth
+
+> 标签: botvac, neato
+
+## 简介
+
+Neato Botvac API
+
+## 官网
+
+- 官网：https://github.com/Pmant/node-botvac#readme
+- 源码仓库：git+https://github.com/Pmant/node-botvac.git
+- npm 页面：https://www.npmjs.com/package/node-botvac-oauth
+
+## 历史版本号
+
+- 当前版本：0.4.1
+
+- 0.4.0
+- 0.4.1
+
+## 获取地址
+
+- npm 安装：`npm install node-botvac-oauth`
+- npm registry：https://registry.npmjs.org/node-botvac-oauth

@@ -1,0 +1,33 @@
+# nuxt-font-loader-strategy
+
+> 标签: font, nuxtjs, prefetch, preload, webfont, webworker
+
+## 简介
+
+Helps to load fonts and activate them by preloading.
+
+## 官网
+
+- 官网：https://github.com/GrabarzUndPartner/nuxt-font-loader-strategy#readme
+- 源码仓库：git+https://github.com/GrabarzUndPartner/nuxt-font-loader-strategy.git
+- npm 页面：https://www.npmjs.com/package/nuxt-font-loader-strategy
+
+## 历史版本号
+
+- 当前版本：1.1.10
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.1.10
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.1.6
+- 1.1.9
+
+## 获取地址
+
+- npm 安装：`npm install nuxt-font-loader-strategy`
+- npm registry：https://registry.npmjs.org/nuxt-font-loader-strategy

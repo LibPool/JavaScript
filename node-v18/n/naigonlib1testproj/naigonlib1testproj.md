@@ -1,0 +1,29 @@
+# naigonlib1testproj
+
+> 标签: JavaScript
+
+## 简介
+
+Library
+
+## 官网
+
+- 官网：https://github.com/naigonakoii/lib1
+- 源码仓库：https://github.com/naigonakoii/lib1.git
+- npm 页面：https://www.npmjs.com/package/naigonlib1testproj
+
+## 历史版本号
+
+- 当前版本：1.0.1006
+
+- 0.1.0
+- 0.1.1001
+- 0.1.1002
+- 1.0.1003
+- 1.0.1005
+- 1.0.1006
+
+## 获取地址
+
+- npm 安装：`npm install naigonlib1testproj`
+- npm registry：https://registry.npmjs.org/naigonlib1testproj

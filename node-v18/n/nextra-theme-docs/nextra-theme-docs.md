@@ -1,0 +1,36 @@
+# nextra-theme-docs
+
+> 标签: JavaScript
+
+## 简介
+
+A Nextra theme for documentation sites.
+
+## 官网
+
+- 官网：https://github.com/shuding/nextra#readme
+- 源码仓库：git+https://github.com/shuding/nextra.git
+- npm 页面：https://www.npmjs.com/package/nextra-theme-docs
+
+## 历史版本号
+
+- 当前版本：4.6.1
+
+- 4.3.0-alpha.4
+- 4.3.0-alpha.5
+- 4.3.0-alpha.6
+- 4.3.0-alpha.7
+- 4.3.0-alpha.8
+- 4.3.0-alpha.9
+- 4.4.0
+- 4.5.0
+- 4.5.1
+- 4.6.0
+- 4.6.1
+- 5.0.0-alpha.24
+- 共 392 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install nextra-theme-docs`
+- npm registry：https://registry.npmjs.org/nextra-theme-docs

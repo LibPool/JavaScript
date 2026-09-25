@@ -1,0 +1,30 @@
+# neutrx
+
+> 标签: axios-alternative, browser, bulkhead, cache, circuit-breaker, edge, fetch, graphql, http, http2, https, neutrx, node, opentelemetry, otel, retry, security, ssrf, tracing, typescript
+
+## 简介
+
+Security-first TypeScript HTTP client — SSRF protection, circuit breaker, bulkhead, OTel, Zod validation, browser + Node.js.
+
+## 官网
+
+- 官网：https://github.com/Xenial-Devil/neutrx#readme
+- 源码仓库：git+https://github.com/Xenial-Devil/neutrx.git
+- npm 页面：https://www.npmjs.com/package/neutrx
+
+## 历史版本号
+
+- 当前版本：1.5.0
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 1.4.0
+- 1.5.0
+
+## 获取地址
+
+- npm 安装：`npm install neutrx`
+- npm registry：https://registry.npmjs.org/neutrx
+- Node 要求：>=18.0.0

@@ -1,0 +1,36 @@
+# node-red-contrib-mobius-flow-deuta
+
+> 标签: deuta, mobius, mobius flow, node-red
+
+## 简介
+
+Node-RED deuta nodes for Mobius Flow
+
+## 官网
+
+- 官网：https://bitbucket.org/interiorautomation/node-red-contrib-mobius-flow-dueta#readme
+- 源码仓库：git+https://bitbucket.org/interiorautomation/node-red-contrib-mobius-flow-deuta.git
+- npm 页面：https://www.npmjs.com/package/node-red-contrib-mobius-flow-deuta
+
+## 历史版本号
+
+- 当前版本：1.0.0-beta.32
+
+- 1.0.0-beta.28
+- 1.0.0-beta.29
+- 1.0.0-beta.3
+- 1.0.0-beta.30
+- 1.0.0-beta.31
+- 1.0.0-beta.32
+- 1.0.0-beta.4
+- 1.0.0-beta.5
+- 1.0.0-beta.6
+- 1.0.0-beta.7
+- 1.0.0-beta.8
+- 1.0.0-beta.9
+- 共 62 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install node-red-contrib-mobius-flow-deuta`
+- npm registry：https://registry.npmjs.org/node-red-contrib-mobius-flow-deuta

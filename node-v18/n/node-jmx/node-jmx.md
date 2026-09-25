@@ -1,0 +1,26 @@
+# node-jmx
+
+> 标签: bridge, java, jmx, jvm
+
+## 简介
+
+Bridge library to communicate with Java applications through JMX.
+
+## 官网
+
+- 官网：http://zuazo.github.io/node-jmx
+- 源码仓库：git+https://github.com/zuazo/node-jmx.git
+- npm 页面：https://www.npmjs.com/package/node-jmx
+
+## 历史版本号
+
+- 当前版本：0.9.1
+
+- 0.9.0
+- 0.9.1
+
+## 获取地址
+
+- npm 安装：`npm install node-jmx`
+- npm registry：https://registry.npmjs.org/node-jmx
+- Node 要求：>=0.10.0

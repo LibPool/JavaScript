@@ -1,0 +1,25 @@
+# nebenan-stylelint-config
+
+> 标签: config, linter, stylelint
+
+## 简介
+
+Shareable GoodHood-EU styleguide config for stylelint
+
+## 官网
+
+- 官网：https://github.com/goodhood-eu/styleguide#readme
+- 源码仓库：git+https://github.com/goodhood-eu/styleguide.git
+- npm 页面：https://www.npmjs.com/package/nebenan-stylelint-config
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install nebenan-stylelint-config`
+- npm registry：https://registry.npmjs.org/nebenan-stylelint-config
+- Node 要求：^10.x.x

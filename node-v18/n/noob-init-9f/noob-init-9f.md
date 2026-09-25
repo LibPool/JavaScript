@@ -1,0 +1,24 @@
+# noob-init-9f
+
+> 标签: 9f-cli, cli
+
+## 简介
+
+A simple scaffolding tools
+
+## 官网
+
+- 官网：https://github.com/Noob-Lab/noob-init-9f#readme
+- 源码仓库：git+ssh://git@github.com/Noob-Lab/noob-init-9f.git
+- npm 页面：https://www.npmjs.com/package/noob-init-9f
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install noob-init-9f`
+- npm registry：https://registry.npmjs.org/noob-init-9f

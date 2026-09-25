@@ -1,0 +1,33 @@
+# nestjs-meili
+
+> 标签: meili, meilisearch, nest, nestjs, nestjs-meilisearch
+
+## 简介
+
+Seamless and declarative integration of [MeiliSearch](https://www.meilisearch.com/) into [NestJS](https://nestjs.com/). Use decorators to configure indexes and inject `MeiliSearch` with type safety and zero boilerplate.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/nestjs-meili
+
+## 历史版本号
+
+- 当前版本：1.6.2
+
+- 1.4.2
+- 1.4.3
+- 1.4.4
+- 1.4.5
+- 1.4.6
+- 1.4.7
+- 1.4.8
+- 1.4.9
+- 1.5.0
+- 1.6.0
+- 1.6.1
+- 1.6.2
+
+## 获取地址
+
+- npm 安装：`npm install nestjs-meili`
+- npm registry：https://registry.npmjs.org/nestjs-meili

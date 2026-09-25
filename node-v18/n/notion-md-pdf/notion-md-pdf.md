@@ -1,0 +1,28 @@
+# notion-md-pdf
+
+> 标签: bulk, convert, html, markdown, marked, markup, md, notion, parse, pdf, render, zip
+
+## 简介
+
+Converts pages exported from Notion as Markdown into PDF files using the command line due to browser rendering issues.
+
+## 官网
+
+- 官网：https://github.com/patmigliaccio/notion-md-pdf#readme
+- 源码仓库：git+https://github.com/patmigliaccio/notion-md-pdf.git
+- npm 页面：https://www.npmjs.com/package/notion-md-pdf
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 0.0.2
+- 0.1.0
+- 0.1.1
+- 1.0.0
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install notion-md-pdf`
+- npm registry：https://registry.npmjs.org/notion-md-pdf

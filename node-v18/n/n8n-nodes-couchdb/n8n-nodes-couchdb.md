@@ -1,0 +1,25 @@
+# n8n-nodes-couchdb
+
+> 标签: cloudstation, couchdb, database, n8n, n8n-community-node-package, nosql
+
+## 简介
+
+n8n community node for CouchDB - CRUD operations, queries, and real-time triggers
+
+## 官网
+
+- 官网：https://github.com/martinic/n8n-nodes-couchdb
+- 源码仓库：git+https://github.com/martinic/n8n-nodes-couchdb.git
+- npm 页面：https://www.npmjs.com/package/n8n-nodes-couchdb
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install n8n-nodes-couchdb`
+- npm registry：https://registry.npmjs.org/n8n-nodes-couchdb
+- Node 要求：>=18.0.0

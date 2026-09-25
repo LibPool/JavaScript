@@ -1,0 +1,29 @@
+# newlogic
+
+> 标签: boilerplate, electron, flux, react, react-hot, react-router, webpack
+
+## 简介
+
+Circuit Builder Desktop Application (like mmlogic) made with Electron + React Typescript. Compatible with Windows, Mac and Linux.
+
+## 官网
+
+- 官网：https://github.com/ericm/newlogic#readme
+- 源码仓库：git+https://github.com/ericm/newlogic.git
+- npm 页面：https://www.npmjs.com/package/newlogic
+
+## 历史版本号
+
+- 当前版本：0.1.5-beta
+
+- 0.1.0-beta
+- 0.1.1-beta
+- 0.1.2-beta
+- 0.1.3-beta
+- 0.1.4-beta
+- 0.1.5-beta
+
+## 获取地址
+
+- npm 安装：`npm install newlogic`
+- npm registry：https://registry.npmjs.org/newlogic

@@ -1,0 +1,29 @@
+# nestjs-remote-validate
+
+> 标签: api, decorator, external, nestjs, validation
+
+## 简介
+
+External API validator decorator for NestJS/ClassValidator
+
+## 官网
+
+- 官网：https://github.com/gsmatheus/nestjs-remote-validate
+- 源码仓库：git+https://github.com/gsmatheus/nestjs-remote-validate.git
+- npm 页面：https://www.npmjs.com/package/nestjs-remote-validate
+
+## 历史版本号
+
+- 当前版本：1.4.0
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.2.0
+- 1.3.0
+- 1.4.0
+
+## 获取地址
+
+- npm 安装：`npm install nestjs-remote-validate`
+- npm registry：https://registry.npmjs.org/nestjs-remote-validate

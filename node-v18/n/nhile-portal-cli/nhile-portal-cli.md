@@ -1,0 +1,30 @@
+# nhile-portal-cli
+
+> 标签: cli, nhile, portal, scaffold
+
+## 简介
+
+NhiLe Portal CLI - tạo portal mới cho NhiLe Holdings ecosystem
+
+## 官网
+
+- 官网：https://github.com/vanductan-NLT/nhile-portal-cli#readme
+- 源码仓库：git+https://github.com/vanductan-NLT/nhile-portal-cli.git
+- npm 页面：https://www.npmjs.com/package/nhile-portal-cli
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.1.0
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install nhile-portal-cli`
+- npm registry：https://registry.npmjs.org/nhile-portal-cli

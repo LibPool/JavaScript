@@ -1,0 +1,27 @@
+# not-me-resolver-formik
+
+> 标签: JavaScript
+
+## 简介
+
+Formik resolver for the Not-Me validation library
+
+## 官网
+
+- 官网：https://github.com/Bartmr/not-me
+- 源码仓库：git+https://github.com/Bartmr/not-me.git
+- npm 页面：https://www.npmjs.com/package/not-me-resolver-formik
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install not-me-resolver-formik`
+- npm registry：https://registry.npmjs.org/not-me-resolver-formik
+- Node 要求：>=12

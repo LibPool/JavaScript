@@ -1,0 +1,27 @@
+# nopium
+
+> 标签: custom, custom folders modules, dir modules, node_modules, resolve modules
+
+## 简介
+
+Custom resolve modules directory
+
+## 官网
+
+- 官网：https://github.com/lamo2k123/nopium
+- 源码仓库：git+https://github.com/lamo2k123/nopium.git
+- npm 页面：https://www.npmjs.com/package/nopium
+
+## 历史版本号
+
+- 当前版本：1.1.5
+
+- 1.1.1
+- 1.1.3
+- 1.1.4
+- 1.1.5
+
+## 获取地址
+
+- npm 安装：`npm install nopium`
+- npm registry：https://registry.npmjs.org/nopium

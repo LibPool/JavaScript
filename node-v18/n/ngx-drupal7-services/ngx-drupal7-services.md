@@ -1,0 +1,35 @@
+# ngx-drupal7-services
+
+> 标签: angular, cordova, drupal, drupal7, ionic, ng, ngx, services, typescript
+
+## 简介
+
+# Angular 2+/Ionic 2+ Drupal 7 Services #### Typescript angular module for [Drupal Services 3.x](https://www.drupal.org/project/services)
+
+## 官网
+
+- 官网：https://github.com/wnabil/ngx-drupal7-services#readme
+- 源码仓库：git+https://github.com/wnabil/ngx-drupal7-services.git
+- npm 页面：https://www.npmjs.com/package/ngx-drupal7-services
+
+## 历史版本号
+
+- 当前版本：1.14.0
+
+- 1.5.0
+- 1.5.1
+- 1.6.0
+- 1.7.0
+- 1.7.1
+- 1.7.2
+- 1.7.3
+- 1.7.4
+- 1.7.5
+- 1.7.6
+- 1.8.0
+- 1.8.1
+
+## 获取地址
+
+- npm 安装：`npm install ngx-drupal7-services`
+- npm registry：https://registry.npmjs.org/ngx-drupal7-services

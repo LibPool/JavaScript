@@ -1,0 +1,25 @@
+# noinfopath-ui-router
+
+> 标签: JavaScript
+
+## 简介
+
+State-based routing for AngularJS
+
+## 官网
+
+- 官网：http://angular-ui.github.com/
+- 源码仓库：https://github.com/angular-ui/ui-router.git
+- npm 页面：https://www.npmjs.com/package/noinfopath-ui-router
+
+## 历史版本号
+
+- 当前版本：0.2.15
+
+- 0.2.14
+- 0.2.15
+
+## 获取地址
+
+- npm 安装：`npm install noinfopath-ui-router`
+- npm registry：https://registry.npmjs.org/noinfopath-ui-router

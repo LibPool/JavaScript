@@ -1,0 +1,29 @@
+# node-red-contrib-cobot
+
+> 标签: cobot, node-red
+
+## 简介
+
+Node-red nodes providing access to Cobot's API
+
+## 官网
+
+- 官网：https://github.com/mrmakeit/node-red-contrib-cobot#readme
+- 源码仓库：git+https://github.com/mrmakeit/node-red-contrib-cobot.git
+- npm 页面：https://www.npmjs.com/package/node-red-contrib-cobot
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+
+## 获取地址
+
+- npm 安装：`npm install node-red-contrib-cobot`
+- npm registry：https://registry.npmjs.org/node-red-contrib-cobot

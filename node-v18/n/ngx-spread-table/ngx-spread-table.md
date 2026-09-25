@@ -1,0 +1,33 @@
+# ngx-spread-table
+
+> 标签: angular, angular2, custom, data-grid, data-table, datagrid, datatable, editable, editor, ng, ng-spread-table, ngspreadtable, renderer, spreadsheet, table
+
+## 简介
+
+![How it looks](https://raw.githubusercontent.com/neb1neuron/ng-spread-table/master/spread-table.png)
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/ngx-spread-table
+
+## 历史版本号
+
+- 当前版本：7.0.12
+
+- 7.0.0
+- 7.0.1
+- 7.0.10
+- 7.0.11
+- 7.0.12
+- 7.0.2
+- 7.0.3
+- 7.0.4
+- 7.0.6
+- 7.0.7
+- 7.0.8
+- 7.0.9
+
+## 获取地址
+
+- npm 安装：`npm install ngx-spread-table`
+- npm registry：https://registry.npmjs.org/ngx-spread-table

@@ -1,0 +1,29 @@
+# network-connectivity
+
+> 标签: connection checker, connectivity, monitoring, network, network checker, web
+
+## 简介
+
+A lightweight package for detecting and monitoring network connectivity in web applications.
+
+## 官网
+
+- 官网：https://github.com/SamoMelkonyan/network-connectivity#readme
+- 源码仓库：git+https://github.com/SamoMelkonyan/network-connectivity.git
+- npm 页面：https://www.npmjs.com/package/network-connectivity
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install network-connectivity`
+- npm registry：https://registry.npmjs.org/network-connectivity

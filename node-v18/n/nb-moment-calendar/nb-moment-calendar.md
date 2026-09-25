@@ -1,0 +1,35 @@
+# nb-moment-calendar
+
+> 标签: bower, calendar, moment, node.js, npm, panes.js
+
+## 简介
+
+NB Moment Calendar core
+
+## 官网
+
+- 官网：https://github.com/joelchu/nb-moment-calendar#readme
+- 源码仓库：git+https://github.com/joelchu/nb-moment-calendar.git
+- npm 页面：https://www.npmjs.com/package/nb-moment-calendar
+
+## 历史版本号
+
+- 当前版本：0.8.2
+
+- 0.4.0
+- 0.6.0
+- 0.7.0
+- 0.7.1
+- 0.7.2
+- 0.7.3
+- 0.7.4
+- 0.7.5
+- 0.7.6
+- 0.8.0
+- 0.8.1
+- 0.8.2
+
+## 获取地址
+
+- npm 安装：`npm install nb-moment-calendar`
+- npm registry：https://registry.npmjs.org/nb-moment-calendar

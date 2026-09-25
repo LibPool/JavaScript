@@ -1,0 +1,27 @@
+# nitro-prometheus-middleware
+
+> 标签: nitro, nuxt, nuxt3, prometheus
+
+## 简介
+
+This is a middleware for nitro, that expose metrics for prometheus.
+
+## 官网
+
+- 官网：https://github.com/Botz/nitro-prometheus-middleware#readme
+- 源码仓库：git+https://github.com/Botz/nitro-prometheus-middleware.git
+- npm 页面：https://www.npmjs.com/package/nitro-prometheus-middleware
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.0.2
+- 0.0.3
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install nitro-prometheus-middleware`
+- npm registry：https://registry.npmjs.org/nitro-prometheus-middleware

@@ -1,0 +1,25 @@
+# nman
+
+> 标签: man, node, page
+
+## 简介
+
+node man page.
+
+## 官网
+
+- 官网：https://github.com/chilijung/nman
+- 源码仓库：https://github.com/chilijung/nman.git
+- npm 页面：https://www.npmjs.com/package/nman
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install nman`
+- npm registry：https://registry.npmjs.org/nman

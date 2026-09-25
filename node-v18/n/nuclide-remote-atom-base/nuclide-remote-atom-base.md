@@ -1,0 +1,24 @@
+# nuclide-remote-atom-base
+
+> 标签: JavaScript
+
+## 简介
+
+Code that is common to nuclide-remote-atom-server and nuclide-remote-atom-client
+
+## 官网
+
+- 官网：https://github.com/facebook/nuclide#readme
+- 源码仓库：git+https://github.com/facebook/nuclide.git
+- npm 页面：https://www.npmjs.com/package/nuclide-remote-atom-base
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install nuclide-remote-atom-base`
+- npm registry：https://registry.npmjs.org/nuclide-remote-atom-base

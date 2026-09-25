@@ -1,0 +1,25 @@
+# nimbella-cli
+
+> 标签: JavaScript
+
+## 简介
+
+A comprehensive CLI for the Nimbella stack
+
+## 官网
+
+- 官网：https://github.com/nimbella/nimbella-cli#readme
+- 源码仓库：git+https://github.com/nimbella/nimbella-cli.git
+- npm 页面：https://www.npmjs.com/package/nimbella-cli
+
+## 历史版本号
+
+- 当前版本：1.13.0
+
+- 1.13.0
+
+## 获取地址
+
+- npm 安装：`npm install nimbella-cli`
+- npm registry：https://registry.npmjs.org/nimbella-cli
+- Node 要求：>=10.0.0

@@ -1,0 +1,24 @@
+# nw-swfobject
+
+> 标签: embed, flash, nw.js, object, swf, swfobject
+
+## 简介
+
+Easealy use SWFObject in NW.js
+
+## 官网
+
+- 官网：https://github.com/YokiToki/nw-swfobject#readme
+- 源码仓库：git+https://github.com/YokiToki/nw-swfobject.git
+- npm 页面：https://www.npmjs.com/package/nw-swfobject
+
+## 历史版本号
+
+- 当前版本：2.3.1
+
+- 2.3.1
+
+## 获取地址
+
+- npm 安装：`npm install nw-swfobject`
+- npm registry：https://registry.npmjs.org/nw-swfobject

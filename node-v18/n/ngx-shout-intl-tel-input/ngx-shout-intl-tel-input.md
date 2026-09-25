@@ -1,0 +1,31 @@
+# ngx-shout-intl-tel-input
+
+> 标签: angular, angular 10, angular 11, angular 12, angular 13, angular 14, angular 15, angular 16, angular 17, angular 18, angular 19, angular 2, angular 8, angular 9, intl-tel-input, ng10, ng11, ng12, ng13, ng14, ng15, ng16, ng17, ng18, ng19, ng8, ng9, ngx-intl-tel-input, phone number, validation
+
+## 简介
+
+[![Build Status](https://github.com/webcat12345/ngx-intl-tel-input/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/webcat12345/ngx-intl-tel-input/actions/workflows/ci.yml) [![GitHub Pages](https://img.shields.io/badge/Demo-blue?logo=
+
+## 官网
+
+- 官网：https://github.com/shout/ngx-shout-intl-tel-input#readme
+- 源码仓库：git+https://github.com/shout/ngx-shout-intl-tel-input.git
+- npm 页面：https://www.npmjs.com/package/ngx-shout-intl-tel-input
+
+## 历史版本号
+
+- 当前版本：19.1.4
+
+- 18.0.1
+- 19.0.0
+- 19.1.0
+- 19.1.1
+- 19.1.2
+- 19.1.4
+- 3.3.0
+- 3.3.1
+
+## 获取地址
+
+- npm 安装：`npm install ngx-shout-intl-tel-input`
+- npm registry：https://registry.npmjs.org/ngx-shout-intl-tel-input

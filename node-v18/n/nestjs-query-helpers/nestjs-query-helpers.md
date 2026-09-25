@@ -1,0 +1,27 @@
+# nestjs-query-helpers
+
+> 标签: JavaScript
+
+## 简介
+
+Provides query utilities for NestJS applications, including easily configurable decorators for pagination, sorting, and filtering. This library simplifies the handling of HTTP request parameters for these functionalities, ensuring robust and maintainable
+
+## 官网
+
+- 官网：https://github.com/kozhukhara/nest-query-helpers#readme
+- 源码仓库：git+https://github.com/kozhukhara/nest-query-helpers.git
+- npm 页面：https://www.npmjs.com/package/nestjs-query-helpers
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install nestjs-query-helpers`
+- npm registry：https://registry.npmjs.org/nestjs-query-helpers

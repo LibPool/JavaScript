@@ -1,0 +1,32 @@
+# ngx-sbz-type-delete
+
+> 标签: Angular, Animation, Cursor, Delete, Directive, Library, Text, Type, Typing
+
+## 简介
+
+This is directive for creating infinite type and delete effect
+
+## 官网
+
+- 官网：https://liraz-sbz.com
+- 源码仓库：git+https://github.com/blakazulu/Ngx-Sbz-Infinite-Type-Delete.git
+- npm 页面：https://www.npmjs.com/package/ngx-sbz-type-delete
+
+## 历史版本号
+
+- 当前版本：2.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 2.0.0
+- 2.0.1
+- 2.0.2
+- 2.0.3
+
+## 获取地址
+
+- npm 安装：`npm install ngx-sbz-type-delete`
+- npm registry：https://registry.npmjs.org/ngx-sbz-type-delete

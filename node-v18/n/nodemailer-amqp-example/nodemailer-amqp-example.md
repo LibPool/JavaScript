@@ -1,0 +1,22 @@
+# nodemailer-amqp-example
+
+> 标签: nodemailer
+
+## 简介
+
+An example of using Nodemailer with RabbitMQ
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/nodemailer-amqp-example
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install nodemailer-amqp-example`
+- npm registry：https://registry.npmjs.org/nodemailer-amqp-example

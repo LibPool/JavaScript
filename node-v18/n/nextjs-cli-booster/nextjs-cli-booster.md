@@ -1,0 +1,22 @@
+# nextjs-cli-booster
+
+> 标签: JavaScript
+
+## 简介
+
+nextjs-cli-booster - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/nextjs-cli-booster
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install nextjs-cli-booster`
+- npm registry：https://registry.npmjs.org/nextjs-cli-booster

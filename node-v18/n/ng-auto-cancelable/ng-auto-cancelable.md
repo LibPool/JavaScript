@@ -1,0 +1,29 @@
+# ng-auto-cancelable
+
+> 标签: angular, angular 10, angular 11, angular 6, angular 7, angular 8, api-cancel-on-component-destroy, auto-cancelation, http-auto-cancel, http-client, http-client-auto-cancel, request-auto-cancel
+
+## 简介
+
+Http request auto cancelable on component destroy in angular wit some addition benefits
+
+## 官网
+
+- 官网：https://github.com/rawatsandeep670/ng-auto-cancelable#readme
+- 源码仓库：git://github.com/rawatsandeep670/ng-auto-cancelable.git
+- npm 页面：https://www.npmjs.com/package/ng-auto-cancelable
+
+## 历史版本号
+
+- 当前版本：2.1.0
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 2.0.0
+- 2.1.0
+
+## 获取地址
+
+- npm 安装：`npm install ng-auto-cancelable`
+- npm registry：https://registry.npmjs.org/ng-auto-cancelable
