@@ -1,0 +1,34 @@
+# baseline-check-tool
+
+> 标签: analytics, baseline, browser, ci-cd, compatibility, css, features, github-actions, html, javascript, mdn, recommendations, web, web-apis
+
+## 简介
+
+Check web features for baseline browser compatibility with smart recommendations and analytics
+
+## 官网
+
+- 官网：https://github.com/rasike-dev/baseline-check-tool#readme
+- 源码仓库：git+https://github.com/rasike-dev/baseline-check-tool.git
+- npm 页面：https://www.npmjs.com/package/baseline-check-tool
+
+## 历史版本号
+
+- 当前版本：2.3.3
+
+- 2.0.0
+- 2.1.0
+- 2.1.1
+- 2.1.2
+- 2.1.3
+- 2.2.0
+- 2.3.0
+- 2.3.1
+- 2.3.2
+- 2.3.3
+
+## 获取地址
+
+- npm 安装：`npm install baseline-check-tool`
+- npm registry：https://registry.npmjs.org/baseline-check-tool
+- Node 要求：>=18.0.0

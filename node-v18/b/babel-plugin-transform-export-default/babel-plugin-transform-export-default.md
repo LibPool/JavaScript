@@ -1,0 +1,27 @@
+# babel-plugin-transform-export-default
+
+> 标签: babel-plugin
+
+## 简介
+
+Compile export default to ES2015
+
+## 官网
+
+- 源码仓库：https://github.com/babel/babel/tree/master/packages/babel-plugin-transform-export-default
+- npm 页面：https://www.npmjs.com/package/babel-plugin-transform-export-default
+
+## 历史版本号
+
+- 当前版本：7.0.0-alpha.20
+
+- 7.0.0-alpha.20
+- 7.0.0-beta.0
+- 7.0.0-beta.1
+- 7.0.0-beta.2
+- 7.0.0-beta.3
+
+## 获取地址
+
+- npm 安装：`npm install babel-plugin-transform-export-default`
+- npm registry：https://registry.npmjs.org/babel-plugin-transform-export-default

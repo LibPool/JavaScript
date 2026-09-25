@@ -1,0 +1,22 @@
+# bs-element-china-area-data
+
+> 标签: element, element-ui, elementui, vue, 省市区, 级联
+
+## 简介
+
+Element UI 级联 中国省市区数据
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/bs-element-china-area-data
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install bs-element-china-area-data`
+- npm registry：https://registry.npmjs.org/bs-element-china-area-data

@@ -1,0 +1,26 @@
+# bulkan
+
+> 标签: JavaScript
+
+## 简介
+
+[![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io) [![Version](https://img.shields.io/npm/v/bulkan.svg)](https://npmjs.org/package/bulkan) [![Downloads/week](https://img.shields.io/npm/dw/bulkan.svg)](https://npmjs.org/pa
+
+## 官网
+
+- 官网：https://github.com/google/bulkan
+- 源码仓库：git+https://github.com/google/bulkan.git
+- npm 页面：https://www.npmjs.com/package/bulkan
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.0
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install bulkan`
+- npm registry：https://registry.npmjs.org/bulkan
+- Node 要求：>=10.6.0

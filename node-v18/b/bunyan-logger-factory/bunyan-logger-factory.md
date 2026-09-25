@@ -1,0 +1,28 @@
+# bunyan-logger-factory
+
+> 标签: bunyan, logger
+
+## 简介
+
+From time to time, I found I have to create [Bunyan](https://www.npmjs.com/package/bunyan) instance with different streams(stdout/file/syslog) for different environments.
+
+## 官网
+
+- 官网：https://github.com/xavierchow/bunyan-logger-factory#readme
+- 源码仓库：git+ssh://git@github.com/xavierchow/bunyan-logger-factory.git
+- npm 页面：https://www.npmjs.com/package/bunyan-logger-factory
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.1.1
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install bunyan-logger-factory`
+- npm registry：https://registry.npmjs.org/bunyan-logger-factory

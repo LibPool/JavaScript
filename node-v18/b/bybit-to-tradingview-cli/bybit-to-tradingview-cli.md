@@ -1,0 +1,25 @@
+# bybit-to-tradingview-cli
+
+> 标签: bybit, cli, crypto, tradingview
+
+## 简介
+
+CLI tool that exports the top 40 Bybit perpetual futures symbols to a TradingView-compatible format
+
+## 官网
+
+- 官网：https://github.com/vanobond/bybit-to-tradingview-cli#readme
+- 源码仓库：git+https://github.com/vanobond/bybit-to-tradingview-cli.git
+- npm 页面：https://www.npmjs.com/package/bybit-to-tradingview-cli
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install bybit-to-tradingview-cli`
+- npm registry：https://registry.npmjs.org/bybit-to-tradingview-cli

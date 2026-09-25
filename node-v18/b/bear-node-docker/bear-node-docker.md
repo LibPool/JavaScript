@@ -1,0 +1,36 @@
+# bear-node-docker
+
+> 标签: docker, nestjs, reactjs
+
+## 简介
+
+Common tools build docker image for node project development
+
+## 官网
+
+- 官网：https://github.com/imagine10255/bear-node-docker#readme
+- 源码仓库：git+https://github.com/imagine10255/bear-node-docker.git
+- npm 页面：https://www.npmjs.com/package/bear-node-docker
+
+## 历史版本号
+
+- 当前版本：2.2.8
+
+- 2.2.2
+- 2.2.3
+- 2.2.4
+- 2.2.4-alpha.0
+- 2.2.4-alpha.1
+- 2.2.5
+- 2.2.5-alpha.0
+- 2.2.6
+- 2.2.6-alpha.0
+- 2.2.6-alpha.1
+- 2.2.7
+- 2.2.8
+
+## 获取地址
+
+- npm 安装：`npm install bear-node-docker`
+- npm registry：https://registry.npmjs.org/bear-node-docker
+- Node 要求：>=10

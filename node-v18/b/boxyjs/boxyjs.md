@@ -1,0 +1,25 @@
+# boxyjs
+
+> 标签: data, datastore, store
+
+## 简介
+
+Simple datastore for the browser
+
+## 官网
+
+- 官网：https://github.com/VojtechKlos/boxy#readme
+- 源码仓库：git+https://github.com/VojtechKlos/boxy.git
+- npm 页面：https://www.npmjs.com/package/boxyjs
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.1
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install boxyjs`
+- npm registry：https://registry.npmjs.org/boxyjs

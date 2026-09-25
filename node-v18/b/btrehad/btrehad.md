@@ -1,0 +1,24 @@
+# btrehad
+
+> 标签: JavaScript
+
+## 简介
+
+btrehad - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/bbripo/btrehad#readme
+- 源码仓库：git+https://github.com/bbripo/btrehad.git
+- npm 页面：https://www.npmjs.com/package/btrehad
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install btrehad`
+- npm registry：https://registry.npmjs.org/btrehad

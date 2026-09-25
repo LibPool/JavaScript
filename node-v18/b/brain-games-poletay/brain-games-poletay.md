@@ -1,0 +1,33 @@
+# brain-games-poletay
+
+> 标签: JavaScript
+
+## 简介
+
+lvl-01-project
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/brain-games-poletay
+
+## 历史版本号
+
+- 当前版本：0.7.3
+
+- 0.6.3
+- 0.6.4
+- 0.6.5
+- 0.6.7
+- 0.7.0
+- 0.7.1
+- 0.7.2
+- 0.7.3
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+
+## 获取地址
+
+- npm 安装：`npm install brain-games-poletay`
+- npm registry：https://registry.npmjs.org/brain-games-poletay

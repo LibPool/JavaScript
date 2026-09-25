@@ -1,0 +1,24 @@
+# baby-names-cli
+
+> 标签: baby-names
+
+## 简介
+
+get cute baby names on the cli
+
+## 官网
+
+- 官网：https://github.com/ZakariaRidouh/baby-names-cli#readme
+- 源码仓库：git+https://github.com/ZakariaRidouh/baby-names-cli.git
+- npm 页面：https://www.npmjs.com/package/baby-names-cli
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install baby-names-cli`
+- npm registry：https://registry.npmjs.org/baby-names-cli

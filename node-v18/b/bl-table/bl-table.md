@@ -1,0 +1,29 @@
+# bl-table
+
+> 标签: component, react, react-table, table, ui
+
+## 简介
+
+table ui component for react
+
+## 官网
+
+- 官网：http://github.com/react-component/table
+- 源码仓库：git+ssh://git@github.com/react-component/table.git
+- npm 页面：https://www.npmjs.com/package/bl-table
+
+## 历史版本号
+
+- 当前版本：6.11.2-0
+
+- 6.10.6
+- 6.10.7-0
+- 6.10.7-1
+- 6.10.7-2
+- 6.11.1
+- 6.11.2-0
+
+## 获取地址
+
+- npm 安装：`npm install bl-table`
+- npm registry：https://registry.npmjs.org/bl-table
