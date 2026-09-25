@@ -1,0 +1,27 @@
+# agent-synapse
+
+> 标签: agent, channel, claude, claude-code, mcp, messaging
+
+## 简介
+
+Cross-project messaging between Claude Code sessions via named agents
+
+## 官网
+
+- 官网：https://github.com/DisposableByDefault/agent-synapse#readme
+- 源码仓库：git+https://github.com/DisposableByDefault/agent-synapse.git
+- npm 页面：https://www.npmjs.com/package/agent-synapse
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.0
+- 0.1.1
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install agent-synapse`
+- npm registry：https://registry.npmjs.org/agent-synapse
+- Node 要求：>=18.0.0

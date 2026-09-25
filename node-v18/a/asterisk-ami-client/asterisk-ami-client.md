@@ -1,0 +1,31 @@
+# asterisk-ami-client
+
+> 标签: ami, asterisk, voip
+
+## 简介
+
+Asterisk AMI Client for NodeJS (ES2015)
+
+## 官网
+
+- 官网：https://github.com/BelirafoN/asterisk-ami-client#readme
+- 源码仓库：git+ssh://git@github.com/BelirafoN/asterisk-ami-client.git
+- npm 页面：https://www.npmjs.com/package/asterisk-ami-client
+
+## 历史版本号
+
+- 当前版本：1.1.5
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.1.5
+
+## 获取地址
+
+- npm 安装：`npm install asterisk-ami-client`
+- npm registry：https://registry.npmjs.org/asterisk-ami-client
+- Node 要求：>=4.0.0

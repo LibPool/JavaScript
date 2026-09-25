@@ -1,0 +1,25 @@
+# app-overlay
+
+> 标签: fitx, studio, touchpoints
+
+## 简介
+
+Display Content in Overlay
+
+## 官网
+
+- 官网：https://github.com/fitx/touchpoint-components-vue/
+- 源码仓库：git+https://github.com/fitx/touchpoint-components-vue.git
+- npm 页面：https://www.npmjs.com/package/app-overlay
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install app-overlay`
+- npm registry：https://registry.npmjs.org/app-overlay

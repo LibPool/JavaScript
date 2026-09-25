@@ -1,0 +1,35 @@
+# axios-ex
+
+> 标签: Promise, axios, axios-ex, axios-extend, axios-plugin, extension, plugin, saqqdy
+
+## 简介
+
+A integration solution of axios for large enterprise projects
+
+## 官网
+
+- 官网：https://github.com/saqqdy/axios-ex#readme
+- 源码仓库：git+https://github.com/saqqdy/axios-ex.git
+- npm 页面：https://www.npmjs.com/package/axios-ex
+
+## 历史版本号
+
+- 当前版本：2.6.0
+
+- 2.3.0-beta.2
+- 2.3.0-beta.3
+- 2.3.0-beta.4
+- 2.3.0-beta.5
+- 2.3.1
+- 2.3.1-beta.1
+- 2.3.1-beta.2
+- 2.3.2
+- 2.4.0
+- 2.5.0
+- 2.5.0-beta.1
+- 2.6.0
+
+## 获取地址
+
+- npm 安装：`npm install axios-ex`
+- npm registry：https://registry.npmjs.org/axios-ex

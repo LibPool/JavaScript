@@ -1,0 +1,23 @@
+# alageum_web
+
+> 标签: JavaScript
+
+## 简介
+
+This project was bootstrapped with [Create React Index](https://github.com/facebook/create-react-app).
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/alageum_web
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install alageum_web`
+- npm registry：https://registry.npmjs.org/alageum_web

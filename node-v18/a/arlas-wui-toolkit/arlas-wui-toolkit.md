@@ -1,0 +1,36 @@
+# arlas-wui-toolkit
+
+> 标签: JavaScript
+
+## 简介
+
+Tool Kit Library for ARLAS wui web App
+
+## 官网
+
+- 官网：https://github.com/gisaia/ARLAS-wui-toolkit#readme
+- 源码仓库：git+https://github.com/gisaia/ARLAS-wui-toolkit.git
+- npm 页面：https://www.npmjs.com/package/arlas-wui-toolkit
+
+## 历史版本号
+
+- 当前版本：28.2.0
+
+- 29.0.0-rc.12
+- 29.0.0-rc.13
+- 29.0.0-rc.14
+- 29.0.0-rc.15
+- 29.0.0-rc.2
+- 29.0.0-rc.3
+- 29.0.0-rc.4
+- 29.0.0-rc.5
+- 29.0.0-rc.6
+- 29.0.0-rc.7
+- 29.0.0-rc.8
+- 29.0.0-rc.9
+- 共 606 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install arlas-wui-toolkit`
+- npm registry：https://registry.npmjs.org/arlas-wui-toolkit

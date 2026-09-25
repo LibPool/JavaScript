@@ -1,0 +1,27 @@
+# ally_balance
+
+> 标签: ally, bank
+
+## 简介
+
+Get an alert with your ally bank balance
+
+## 官网
+
+- 官网：https://github.com/thinkjson/ally_balance#readme
+- 源码仓库：git+ssh://git@github.com/thinkjson/ally_balance.git
+- npm 页面：https://www.npmjs.com/package/ally_balance
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install ally_balance`
+- npm registry：https://registry.npmjs.org/ally_balance

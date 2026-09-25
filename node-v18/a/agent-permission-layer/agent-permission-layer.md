@@ -1,0 +1,31 @@
+# agent-permission-layer
+
+> 标签: ai-agent, claude-code, coding-agent, defcon, developer-tools, gemini-cli, notification, permission, risk-classification
+
+## 简介
+
+Detects when your coding agent is blocked, tells you instantly, and shows you how risky the pending command is before you approve it.
+
+## 官网
+
+- 官网：https://github.com/Prat260104/DEFCON#readme
+- 源码仓库：git+https://github.com/Prat260104/DEFCON.git
+- npm 页面：https://www.npmjs.com/package/agent-permission-layer
+
+## 历史版本号
+
+- 当前版本：1.0.7
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.7
+
+## 获取地址
+
+- npm 安装：`npm install agent-permission-layer`
+- npm registry：https://registry.npmjs.org/agent-permission-layer
+- Node 要求：>=22.0.0

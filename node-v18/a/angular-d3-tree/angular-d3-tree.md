@@ -1,0 +1,28 @@
+# angular-d3-tree
+
+> 标签: angular d3 tree
+
+## 简介
+
+D3 tree module for Angular
+
+## 官网
+
+- 官网：https://github.com/jgpATs2w/angular-d3-tree
+- 源码仓库：git+https://github.com/jgpATs2w/angular-d3-tree.git
+- npm 页面：https://www.npmjs.com/package/angular-d3-tree
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 0.0.0
+- 0.0.1
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install angular-d3-tree`
+- npm registry：https://registry.npmjs.org/angular-d3-tree

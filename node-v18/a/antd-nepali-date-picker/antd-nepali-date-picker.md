@@ -1,0 +1,23 @@
+# antd-nepali-date-picker
+
+> 标签: antd, bikram sambat, datepicker, nepali, nepali miti, nepali patro, react
+
+## 简介
+
+Ant Design DatePicker and RangePicker with Nepali (Bikram Sambat) calendar support.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/antd-nepali-date-picker
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.0
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install antd-nepali-date-picker`
+- npm registry：https://registry.npmjs.org/antd-nepali-date-picker

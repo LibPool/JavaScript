@@ -1,0 +1,33 @@
+# ampersand-sync-with-promise
+
+> 标签: ampersand, backbone, rest, sync
+
+## 简介
+
+Provides sync behavior for updating data from ampersand models and collections to the server. With a flavor of promise.
+
+## 官网
+
+- 官网：https://github.com/tnguyen14/ampersand-sync-with-promise
+- 源码仓库：git+https://github.com/tnguyen14/ampersand-sync-with-promise.git
+- npm 页面：https://www.npmjs.com/package/ampersand-sync-with-promise
+
+## 历史版本号
+
+- 当前版本：5.0.1
+
+- 1.0.2
+- 2.0.0
+- 2.1.0
+- 2.1.1
+- 2.1.2
+- 3.0.0
+- 3.1.0
+- 4.0.0
+- 5.0.0
+- 5.0.1
+
+## 获取地址
+
+- npm 安装：`npm install ampersand-sync-with-promise`
+- npm registry：https://registry.npmjs.org/ampersand-sync-with-promise

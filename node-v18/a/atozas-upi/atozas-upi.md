@@ -1,0 +1,22 @@
+# atozas-upi
+
+> 标签: JavaScript
+
+## 简介
+
+Real UPI flow: Send opens your UPI app to pay. Request helps you collect payment to your UPI ID.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/atozas-upi
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install atozas-upi`
+- npm registry：https://registry.npmjs.org/atozas-upi

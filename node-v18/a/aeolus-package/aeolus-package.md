@@ -1,0 +1,33 @@
+# aeolus-package
+
+> 标签: JavaScript
+
+## 简介
+
+##### 若您在使用过程中发现问题请发邮件到以下邮箱：18202764523@163.com
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/aeolus-package
+
+## 历史版本号
+
+- 当前版本：1.1.16
+
+- 1.1.13
+- 1.1.14
+- 1.1.15
+- 1.1.16
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.1.6
+- 1.1.7
+- 1.1.8
+- 1.1.9
+
+## 获取地址
+
+- npm 安装：`npm install aeolus-package`
+- npm registry：https://registry.npmjs.org/aeolus-package

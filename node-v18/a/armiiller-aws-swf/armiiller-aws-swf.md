@@ -1,0 +1,26 @@
+# armiiller-aws-swf
+
+> 标签: amazon, aws, swf, workflow
+
+## 简介
+
+A Node.js library for accessing Amazon SWF with special functions. Original fork from https://github.com/neyric/aws-swf.git
+
+## 官网
+
+- 官网：https://github.com/armiiller/aws-swf#readme
+- 源码仓库：git+ssh://git@github.com/armiiller/aws-swf.git
+- npm 页面：https://www.npmjs.com/package/armiiller-aws-swf
+
+## 历史版本号
+
+- 当前版本：4.1.1
+
+- 4.1.0
+- 4.1.1
+
+## 获取地址
+
+- npm 安装：`npm install armiiller-aws-swf`
+- npm registry：https://registry.npmjs.org/armiiller-aws-swf
+- Node 要求：>=0.8.0

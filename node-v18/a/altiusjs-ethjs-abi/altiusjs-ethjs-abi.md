@@ -1,0 +1,25 @@
+# altiusjs-ethjs-abi
+
+> 标签: decoding, encoding, ethereum
+
+## 简介
+
+Ethereum encoding and decoding methods for Altius from the ethers-io-wallet.
+
+## 官网
+
+- 官网：https://github.com/ethjs/ethjs-abi#readme
+- 源码仓库：git://github.com/ethjs/ethjs-abi.git
+- npm 页面：https://www.npmjs.com/package/altiusjs-ethjs-abi
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install altiusjs-ethjs-abi`
+- npm registry：https://registry.npmjs.org/altiusjs-ethjs-abi
+- Node 要求：>=6.5.0

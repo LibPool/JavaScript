@@ -1,0 +1,24 @@
+# average-blow-web3-event
+
+> 标签: component, components, design, framework, frontend, react, react-component, ui, web3
+
+## 简介
+
+average-blow-web3-event
+
+## 官网
+
+- 官网：https://github.com/average-blow-web3-event/average-blow-web3-event#readme
+- 源码仓库：git+https://github.com/average-blow-web3-event/average-blow-web3-event.git
+- npm 页面：https://www.npmjs.com/package/average-blow-web3-event
+
+## 历史版本号
+
+- 当前版本：79.65.802
+
+- 79.65.802
+
+## 获取地址
+
+- npm 安装：`npm install average-blow-web3-event`
+- npm registry：https://registry.npmjs.org/average-blow-web3-event

@@ -1,0 +1,27 @@
+# aoc-doc-migration
+
+> 标签: oclif
+
+## 简介
+
+A simple CLI to export document files from AOC platform
+
+## 官网
+
+- 官网：https://github.com/juanantoniodamianv/aoc-doc-migration
+- 源码仓库：git+https://github.com/juanantoniodamianv/aoc-doc-migration.git
+- npm 页面：https://www.npmjs.com/package/aoc-doc-migration
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.0
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install aoc-doc-migration`
+- npm registry：https://registry.npmjs.org/aoc-doc-migration
+- Node 要求：>=8.0.0

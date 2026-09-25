@@ -1,0 +1,24 @@
+# anacl
+
+> 标签: crypto, cryptography, curve25519, ed25519, encrypt, hash, key, nacl, poly1305, public, salsa20, signatures, wechat
+
+## 简介
+
+TweetNaCl.js fork for asynchronous PRNGs
+
+## 官网
+
+- 官网：https://github.com/codesnug/anacl-js
+- 源码仓库：git+https://github.com/codesnug/anacl-js.git
+- npm 页面：https://www.npmjs.com/package/anacl
+
+## 历史版本号
+
+- 当前版本：1.0.3-1
+
+- 1.0.3-1
+
+## 获取地址
+
+- npm 安装：`npm install anacl`
+- npm registry：https://registry.npmjs.org/anacl

@@ -1,0 +1,36 @@
+# active-connect-ng1
+
+> 标签: API, WS, websocket
+
+## 简介
+
+Connection framework built for smart web-based projects using NodeJS, Angular and Websockets.
+
+## 官网
+
+- 官网：https://github.com/HiptJo/active-connect#readme
+- 源码仓库：git+https://github.com/HiptJo/active-connect.git
+- npm 页面：https://www.npmjs.com/package/active-connect-ng1
+
+## 历史版本号
+
+- 当前版本：1.12.3
+
+- 1.6.1
+- 1.6.2
+- 1.6.3
+- 1.7.0
+- 1.7.1
+- 1.7.2
+- 1.7.3
+- 1.7.4
+- 1.7.5
+- 1.7.6
+- 1.7.7
+- 1.7.8
+
+## 获取地址
+
+- npm 安装：`npm install active-connect-ng1`
+- npm registry：https://registry.npmjs.org/active-connect-ng1
+- Node 要求：>=6.0.0

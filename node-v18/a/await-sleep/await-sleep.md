@@ -1,0 +1,24 @@
+# await-sleep
+
+> 标签: async, await, blocking, delay, promise, sleep, wait
+
+## 简介
+
+Blocking sleep/delay with async/await
+
+## 官网
+
+- 官网：https://github.com/sqren/await-sleep#readme
+- 源码仓库：git+https://github.com/sqren/await-sleep.git
+- npm 页面：https://www.npmjs.com/package/await-sleep
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install await-sleep`
+- npm registry：https://registry.npmjs.org/await-sleep

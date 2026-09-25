@@ -1,0 +1,33 @@
+# antd-draggable-modal
+
+> 标签: ant-design draggable modal, ant-design modal拖拽, antd modal拖拽
+
+## 简介
+
+基于Ant-design的可以拖拽的Modal
+
+## 官网
+
+- 官网：https://github.com/astonishqft/antd-draggable-modal#readme
+- 源码仓库：git+https://github.com/astonishqft/antd-draggable-modal.git
+- npm 页面：https://www.npmjs.com/package/antd-draggable-modal
+
+## 历史版本号
+
+- 当前版本：0.1.9
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install antd-draggable-modal`
+- npm registry：https://registry.npmjs.org/antd-draggable-modal

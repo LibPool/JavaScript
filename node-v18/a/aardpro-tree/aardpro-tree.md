@@ -1,0 +1,24 @@
+# aardpro-tree
+
+> 标签: JavaScript
+
+## 简介
+
+把包含父指针属性的平坦数组与嵌套结构的树形数组进行互相转化的函数库。 A function library that converts a flat array with parent pointer attributes into a nested array and vice versa.
+
+## 官网
+
+- 官网：https://github.com/aardpro/tree#readme
+- npm 页面：https://www.npmjs.com/package/aardpro-tree
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.1.0
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install aardpro-tree`
+- npm registry：https://registry.npmjs.org/aardpro-tree

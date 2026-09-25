@@ -1,0 +1,22 @@
+# abdulvahhob_npm
+
+> 标签: abdulvahhob_npm, developer, nodejs
+
+## 简介
+
+Test NodeJS package
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/abdulvahhob_npm
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install abdulvahhob_npm`
+- npm registry：https://registry.npmjs.org/abdulvahhob_npm

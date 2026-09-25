@@ -1,0 +1,36 @@
+# amqp-sqs
+
+> 标签: amqp, aws, sqs
+
+## 简介
+
+AMQP facade for SQS
+
+## 官网
+
+- 官网：https://github.com/markbirbeck/amqp-sqs
+- 源码仓库：git://github.com/markbirbeck/amqp-sqs
+- npm 页面：https://www.npmjs.com/package/amqp-sqs
+
+## 历史版本号
+
+- 当前版本：1.9.0
+
+- 1.0.1
+- 1.1.0
+- 1.2.0
+- 1.2.1
+- 1.3.0
+- 1.4.0
+- 1.5.0
+- 1.6.0
+- 1.7.0
+- 1.8.0
+- 1.8.1
+- 1.9.0
+
+## 获取地址
+
+- npm 安装：`npm install amqp-sqs`
+- npm registry：https://registry.npmjs.org/amqp-sqs
+- Node 要求：0.10.x

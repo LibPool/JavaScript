@@ -1,0 +1,24 @@
+# arkhana-ganteng
+
+> 标签: ll
+
+## 简介
+
+ll
+
+## 官网
+
+- 官网：https://github.com/rizzal1404/rizzal-ganteng#readme
+- 源码仓库：git+https://github.com/rizzal1404/rizzal-ganteng.git
+- npm 页面：https://www.npmjs.com/package/arkhana-ganteng
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install arkhana-ganteng`
+- npm registry：https://registry.npmjs.org/arkhana-ganteng

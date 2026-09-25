@@ -1,0 +1,24 @@
+# anehkuca
+
+> 标签: JavaScript
+
+## 简介
+
+anehkuca - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/kucaianeh/anehkuca#readme
+- 源码仓库：git+https://github.com/kucaianeh/anehkuca.git
+- npm 页面：https://www.npmjs.com/package/anehkuca
+
+## 历史版本号
+
+- 当前版本：1.1.4
+
+- 1.1.4
+
+## 获取地址
+
+- npm 安装：`npm install anehkuca`
+- npm registry：https://registry.npmjs.org/anehkuca
