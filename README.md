@@ -5,7 +5,7 @@
 - Node 大版本目录：`node-v18`、`node-v20`、`node-v22`、`node-v24`、`node-v26`
 - 包路径：`<包名>/<包名>.md`，作用域包如 `@types/node` 位于 `@types/node/node.md`
 - 库若兼容多个 Node 大版本，会同时出现在所有后续版本目录中
-- 当前共收录 50,211 个 npm 包，来源为 npm 复制接口全量包名与 registry 元数据。
+- 当前共收录 3,978,003 个 npm 包（跨版本约 1,980 万条索引），来源为 npm 复制接口全量包名与 registry 元数据。
 
 ## 数据源
 
@@ -22,10 +22,10 @@ python tools/crawl_npm_meta.py
 python tools/generate_index.py --meta-dir tools/cache/npm_meta_parts --releases node-v18
 ```
 
-按 Node 大版本统计：
+按 Node 大版本统计（索引条目数）：
 
-- node-v18：48,230 个包
-- node-v20：49,229 个包
-- node-v22：49,925 个包
-- node-v24：50,167 个包
-- node-v26：50,211 个包
+- node-v18：3,892,858 条
+- node-v20：3,943,456 条
+- node-v22：3,967,047 条
+- node-v24：3,975,300 条
+- node-v26：3,976,340 条
