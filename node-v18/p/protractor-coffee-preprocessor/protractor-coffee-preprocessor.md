@@ -1,0 +1,23 @@
+# protractor-coffee-preprocessor
+
+> 标签: coffeescript, plugin, preprocessor, protractor
+
+## 简介
+
+Protractor plugin that compiles coffeescript on the fly
+
+## 官网
+
+- 源码仓库：https://github.com/lebek/protractor-coffee-preprocessor.git
+- npm 页面：https://www.npmjs.com/package/protractor-coffee-preprocessor
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install protractor-coffee-preprocessor`
+- npm registry：https://registry.npmjs.org/protractor-coffee-preprocessor

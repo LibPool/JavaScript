@@ -1,0 +1,24 @@
+# particle-cake
+
+> 标签: 3d, animation, birthday, cake, firework, particle, three.js
+
+## 简介
+
+3D particle cake effect library - Create beautiful birthday cake animations with particles
+
+## 官网
+
+- 官网：https://github.com/VignaChu/particle-cake#readme
+- 源码仓库：git+https://github.com/VignaChu/particle-cake.git
+- npm 页面：https://www.npmjs.com/package/particle-cake
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install particle-cake`
+- npm registry：https://registry.npmjs.org/particle-cake

@@ -1,0 +1,28 @@
+# prince_auriga
+
+> 标签: JavaScript
+
+## 简介
+
+My very first package
+
+## 官网
+
+- 官网：https://github.com/mukdam/first-module#readme
+- 源码仓库：git+https://github.com/mukdam/first-module.git
+- npm 页面：https://www.npmjs.com/package/prince_auriga
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 0.0.0
+- 0.0.1
+- 0.0.2
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install prince_auriga`
+- npm registry：https://registry.npmjs.org/prince_auriga

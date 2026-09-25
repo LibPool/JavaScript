@@ -1,0 +1,34 @@
+# proton-mail-mcp
+
+> 标签: ai-tools, claude, email, imap, mcp, mcp-server, model-context-protocol, nodemailer, proton, proton-mail, protonmail, smtp
+
+## 简介
+
+Unofficial MCP server for Proton Mail (not affiliated with Proton AG) — send, read, search, and organize email over SMTP and IMAP
+
+## 官网
+
+- 官网：https://github.com/sethbang/proton-mail-mcp#readme
+- 源码仓库：git+https://github.com/sethbang/proton-mail-mcp.git
+- npm 页面：https://www.npmjs.com/package/proton-mail-mcp
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 0.1.0
+- 0.2.0
+- 0.2.1
+- 0.3.0
+- 0.4.0
+- 0.4.1
+- 0.5.0
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install proton-mail-mcp`
+- npm registry：https://registry.npmjs.org/proton-mail-mcp
+- Node 要求：>=24.0.0

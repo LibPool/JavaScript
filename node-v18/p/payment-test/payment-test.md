@@ -1,0 +1,23 @@
+# payment-test
+
+> 标签: array, duplicates, remove
+
+## 简介
+
+const removeArrayDuplicates = require('tsf-arr-dups') let myNums = [1,2,3,1,4,1,2,5,3,4] let uniqueNums = removeArrayDuplicates(myNums) console.log(uniqueNums)
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/payment-test
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install payment-test`
+- npm registry：https://registry.npmjs.org/payment-test

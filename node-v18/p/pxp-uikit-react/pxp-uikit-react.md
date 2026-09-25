@@ -1,0 +1,25 @@
+# pxp-uikit-react
+
+> 标签: Component, Library, React, Rollup, Sass, Storybook, Typescript
+
+## 简介
+
+A skeleton to create your own React component library using Rollup, TypeScript, Sass and Storybook
+
+## 官网
+
+- 官网：https://gitlab.com/phuc.pxp/react-storybook-v2/-/blob/master/README.md
+- 源码仓库：git+https://gitlab.com/phuc.pxp/react-storybook-v2.git
+- npm 页面：https://www.npmjs.com/package/pxp-uikit-react
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install pxp-uikit-react`
+- npm registry：https://registry.npmjs.org/pxp-uikit-react

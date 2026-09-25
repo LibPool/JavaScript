@@ -1,0 +1,23 @@
+# paopao-video-player
+
+> 标签: design, modern, playervideo, video, videoplayer, vue3
+
+## 简介
+
+A vue 3 component to display our video in custom video player (customizable with multi themes)
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/paopao-video-player
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install paopao-video-player`
+- npm registry：https://registry.npmjs.org/paopao-video-player
+- Node 要求：>=12

@@ -1,0 +1,27 @@
+# pkce-auth
+
+> 标签: JavaScript
+
+## 简介
+
+Barebones PKCEClient, this leaves the responsibility of handling the browser interaction on you.
+
+## 官网
+
+- 官网：https://github.com/auth0/pkce-auth-js#readme
+- 源码仓库：git+https://github.com/auth0/pkce-auth-js.git
+- npm 页面：https://www.npmjs.com/package/pkce-auth
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install pkce-auth`
+- npm registry：https://registry.npmjs.org/pkce-auth

@@ -1,0 +1,26 @@
+# pai-voice-server
+
+> 标签: elevenlabs, macos, notifications, pai, tts, voice
+
+## 简介
+
+Installation package for PAI Voice Server - Text-to-speech notification service
+
+## 官网
+
+- 官网：https://github.com/rsts-dev/pai-voice-server#readme
+- 源码仓库：git+https://github.com/rsts-dev/pai-voice-server.git
+- npm 页面：https://www.npmjs.com/package/pai-voice-server
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install pai-voice-server`
+- npm registry：https://registry.npmjs.org/pai-voice-server
+- Node 要求：>=18.0.0

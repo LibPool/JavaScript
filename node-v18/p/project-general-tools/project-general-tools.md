@@ -1,0 +1,34 @@
+# project-general-tools
+
+> 标签: MadDragon, TypeScript, axios, cookie, localStorage, log, moment, sessionStorage, tools
+
+## 简介
+
+项目开发通用工具类封装
+
+## 官网
+
+- 源码仓库：https://e.coding.net/maddragon/project-general-tools.git
+- npm 页面：https://www.npmjs.com/package/project-general-tools
+
+## 历史版本号
+
+- 当前版本：0.0.21
+
+- 0.0.17
+- 0.0.18
+- 0.0.19
+- 0.0.2
+- 0.0.20
+- 0.0.21
+- 0.0.3
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install project-general-tools`
+- npm registry：https://registry.npmjs.org/project-general-tools

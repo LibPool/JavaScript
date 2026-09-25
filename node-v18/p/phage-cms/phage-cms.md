@@ -1,0 +1,29 @@
+# phage-cms
+
+> 标签: astro-integration, cloudflare, cms, phage, withastro
+
+## 简介
+
+Astro integration: Phage CMS (Cloudflare KV/R2, block editor, API routes)
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/phage-cms
+
+## 历史版本号
+
+- 当前版本：0.1.10
+
+- 0.1.0
+- 0.1.1
+- 0.1.10
+- 0.1.4
+- 0.1.6
+- 0.1.7
+- 0.1.8
+
+## 获取地址
+
+- npm 安装：`npm install phage-cms`
+- npm registry：https://registry.npmjs.org/phage-cms
+- Node 要求：>=22.12.0

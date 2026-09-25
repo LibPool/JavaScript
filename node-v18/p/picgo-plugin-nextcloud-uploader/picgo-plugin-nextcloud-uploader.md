@@ -1,0 +1,26 @@
+# picgo-plugin-nextcloud-uploader
+
+> 标签: picgo, picgo-gui-plugin, picgo-nextcloud, picgo-plugin
+
+## 简介
+
+PicGo with NextCloud
+
+## 官网
+
+- 官网：https://github.com/jiajiajia343434/picgo-plugin-nextcloud-uploader
+- npm 页面：https://www.npmjs.com/package/picgo-plugin-nextcloud-uploader
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install picgo-plugin-nextcloud-uploader`
+- npm registry：https://registry.npmjs.org/picgo-plugin-nextcloud-uploader

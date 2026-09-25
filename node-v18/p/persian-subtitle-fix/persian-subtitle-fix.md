@@ -1,0 +1,29 @@
+# persian-subtitle-fix
+
+> 标签: persian-subtitle, subtitle, subtitle-fix
+
+## 简介
+
+fix persian subtitle encoding
+
+## 官网
+
+- 官网：https://github.com/alireza-mh/persian-subtitle-fix
+- 源码仓库：git+https://github.com/alireza-mh/persian-subtitle-fix.git
+- npm 页面：https://www.npmjs.com/package/persian-subtitle-fix
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install persian-subtitle-fix`
+- npm registry：https://registry.npmjs.org/persian-subtitle-fix

@@ -1,0 +1,26 @@
+# phantomjs-bin
+
+> 标签: binaries, binary, linux, mac, phantomjs, static, windows
+
+## 简介
+
+Static Binaries for phantomjs on Mac, Windows and Linux
+
+## 官网
+
+- 官网：https://github.com/eugeneware/phantomjs-bin#readme
+- 源码仓库：git+https://github.com/eugeneware/phantomjs-bin.git
+- npm 页面：https://www.npmjs.com/package/phantomjs-bin
+
+## 历史版本号
+
+- 当前版本：2.1.1
+
+- 1.0.0
+- 1.0.1
+- 2.1.1
+
+## 获取地址
+
+- npm 安装：`npm install phantomjs-bin`
+- npm registry：https://registry.npmjs.org/phantomjs-bin

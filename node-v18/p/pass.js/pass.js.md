@@ -1,0 +1,27 @@
+# pass.js
+
+> 标签: validation
+
+## 简介
+
+Javascript validation module. Runs from command line or web, doesn't need a form.
+
+## 官网
+
+- 官网：https://github.com/theninthnode/pass.js
+- 源码仓库：https://github.com/theninthnode/pass.js.git
+- npm 页面：https://www.npmjs.com/package/pass.js
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.0.0
+- 0.0.1
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install pass.js`
+- npm registry：https://registry.npmjs.org/pass.js

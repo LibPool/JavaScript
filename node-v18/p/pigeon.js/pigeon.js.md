@@ -1,0 +1,35 @@
+# pigeon.js
+
+> 标签: JavaScript
+
+## 简介
+
+A node module that enables communication between services using RabbitMQ and HTTP.
+
+## 官网
+
+- 源码仓库：git://bitbucket.org/sofadevteam/pigeon.js.git
+- npm 页面：https://www.npmjs.com/package/pigeon.js
+
+## 历史版本号
+
+- 当前版本：3.6.0
+
+- 3.1.4
+- 3.2.4
+- 3.2.5
+- 3.3.10
+- 3.3.5
+- 3.3.6
+- 3.3.7
+- 3.3.8
+- 3.3.9
+- 3.5.0
+- 3.5.1
+- 3.6.0
+- 共 93 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install pigeon.js`
+- npm registry：https://registry.npmjs.org/pigeon.js

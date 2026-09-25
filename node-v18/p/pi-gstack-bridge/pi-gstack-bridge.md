@@ -1,0 +1,24 @@
+# pi-gstack-bridge
+
+> 标签: code-review, codex, gstack, pi, pi-package, subagent
+
+## 简介
+
+Pi-native agent bridge for gstack review and specialist workflows.
+
+## 官网
+
+- 官网：https://github.com/eiei114/pi-gstack-bridge#readme
+- 源码仓库：git+https://github.com/eiei114/pi-gstack-bridge.git
+- npm 页面：https://www.npmjs.com/package/pi-gstack-bridge
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install pi-gstack-bridge`
+- npm registry：https://registry.npmjs.org/pi-gstack-bridge

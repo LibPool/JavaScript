@@ -1,0 +1,26 @@
+# prop-types-ext
+
+> 标签: react
+
+## 简介
+
+Runtime type checking for React props and similar objects.
+
+## 官网
+
+- 官网：https://facebook.github.io/react/
+- 源码仓库：git+https://github.com/facebook/prop-types.git
+- npm 页面：https://www.npmjs.com/package/prop-types-ext
+
+## 历史版本号
+
+- 当前版本：15.8.3
+
+- 15.8.1
+- 15.8.2
+- 15.8.3
+
+## 获取地址
+
+- npm 安装：`npm install prop-types-ext`
+- npm registry：https://registry.npmjs.org/prop-types-ext

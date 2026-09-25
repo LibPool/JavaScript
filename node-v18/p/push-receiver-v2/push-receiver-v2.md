@@ -1,0 +1,24 @@
+# push-receiver-v2
+
+> 标签: electron, fcm, gcm, node, notifications, push, receiver, service
+
+## 简介
+
+A module to subscribe to GCM/FCM and receive notifications within a node process. v2 is compatible with the latest FCM registration endpoints.
+
+## 官网
+
+- 官网：https://github.com/javajuice1337/push-receiver-v2#readme
+- 源码仓库：git+ssh://git@github.com/javajuice1337/push-receiver-v2.git
+- npm 页面：https://www.npmjs.com/package/push-receiver-v2
+
+## 历史版本号
+
+- 当前版本：2.2.0
+
+- 2.2.0
+
+## 获取地址
+
+- npm 安装：`npm install push-receiver-v2`
+- npm registry：https://registry.npmjs.org/push-receiver-v2

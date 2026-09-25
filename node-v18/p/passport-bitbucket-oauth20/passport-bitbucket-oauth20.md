@@ -1,0 +1,26 @@
+# passport-bitbucket-oauth20
+
+> 标签: auth, authentication, authn, bitbucket, identity, passport
+
+## 简介
+
+Bitbucket OAuth2 authentication strategy for Passport. With emails.
+
+## 官网
+
+- 官网：https://github.com/saintedlama/passport-bitbucket-oauth2#readme
+- 源码仓库：git://github.com/saintedlama/passport-bitbucket-oauth2.git
+- npm 页面：https://www.npmjs.com/package/passport-bitbucket-oauth20
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install passport-bitbucket-oauth20`
+- npm registry：https://registry.npmjs.org/passport-bitbucket-oauth20
+- Node 要求：>= 4

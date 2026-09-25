@@ -1,0 +1,22 @@
+# pdga
+
+> 标签: PDGA
+
+## 简介
+
+An API wrapper for player stats on pdga.com
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/pdga
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install pdga`
+- npm registry：https://registry.npmjs.org/pdga

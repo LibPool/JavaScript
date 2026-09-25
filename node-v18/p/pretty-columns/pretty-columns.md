@@ -1,0 +1,29 @@
+# pretty-columns
+
+> 标签: ansi, auto, chalk, cli, colors, column, columnate, columns, inject, log, pretty, row, rows, table, unicode, unix
+
+## 简介
+
+Pretty command line columns output
+
+## 官网
+
+- 官网：https://github.com/shinate/pretty-columns#readme
+- 源码仓库：git+https://github.com/shinate/pretty-columns.git
+- npm 页面：https://www.npmjs.com/package/pretty-columns
+
+## 历史版本号
+
+- 当前版本：1.2.1
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.2.0
+- 1.2.1
+
+## 获取地址
+
+- npm 安装：`npm install pretty-columns`
+- npm registry：https://registry.npmjs.org/pretty-columns

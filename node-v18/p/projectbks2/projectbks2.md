@@ -1,0 +1,24 @@
+# projectbks2
+
+> 标签: FF
+
+## 简介
+
+AA
+
+## 官网
+
+- 官网：https://github.com/tantenton/projectbks#readme
+- 源码仓库：git+https://github.com/tantenton/projectbks.git
+- npm 页面：https://www.npmjs.com/package/projectbks2
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install projectbks2`
+- npm registry：https://registry.npmjs.org/projectbks2

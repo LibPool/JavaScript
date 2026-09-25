@@ -1,0 +1,26 @@
+# properly-favicon
+
+> 标签: express, favicon, middleware
+
+## 简介
+
+middleware for handling favicons by routes
+
+## 官网
+
+- 官网：https://github.com/KeanuPang/properly-favicon#readme
+- 源码仓库：git+https://github.com/KeanuPang/properly-favicon.git
+- npm 页面：https://www.npmjs.com/package/properly-favicon
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install properly-favicon`
+- npm registry：https://registry.npmjs.org/properly-favicon
+- Node 要求：>=6.0.0

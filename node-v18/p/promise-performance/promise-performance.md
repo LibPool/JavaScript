@@ -1,0 +1,25 @@
+# promise-performance
+
+> 标签: babel, es6, profiling, promise
+
+## 简介
+
+A simple tool for profiling the performance of Promises in the browser
+
+## 官网
+
+- 官网：https://github.com/Karolusrex/promise-performance#readme
+- 源码仓库：git+https://github.com/Karolusrex/promise-performance.git
+- npm 页面：https://www.npmjs.com/package/promise-performance
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install promise-performance`
+- npm registry：https://registry.npmjs.org/promise-performance

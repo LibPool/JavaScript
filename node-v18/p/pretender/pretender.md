@@ -1,0 +1,35 @@
+# pretender
+
+> 标签: JavaScript
+
+## 简介
+
+Pretender is a mock server library for XMLHttpRequest and Fetch, that comes with an express/sinatra style syntax for defining routes and their handlers.
+
+## 官网
+
+- 官网：https://github.com/pretenderjs/pretender#readme
+- 源码仓库：git+https://github.com/pretenderjs/pretender.git
+- npm 页面：https://www.npmjs.com/package/pretender
+
+## 历史版本号
+
+- 当前版本：3.4.7
+
+- 3.1.0
+- 3.2.0
+- 3.3.0
+- 3.3.1
+- 3.4.0
+- 3.4.1
+- 3.4.2
+- 3.4.3
+- 3.4.4
+- 3.4.5
+- 3.4.6
+- 3.4.7
+
+## 获取地址
+
+- npm 安装：`npm install pretender`
+- npm registry：https://registry.npmjs.org/pretender

@@ -1,0 +1,25 @@
+# pi-breaker
+
+> 标签: breaker, crash, freeze, kill, macos, memory, memory-pressure, oom, pi-package, process-manager, ram, swap, system-health, watchdog
+
+## 简介
+
+Prevents macOS freezes during pi sessions. Auto-kills runaway processes when memory runs out.
+
+## 官网
+
+- 官网：https://github.com/gaherwar/pi-breaker#readme
+- 源码仓库：git+https://github.com/gaherwar/pi-breaker.git
+- npm 页面：https://www.npmjs.com/package/pi-breaker
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install pi-breaker`
+- npm registry：https://registry.npmjs.org/pi-breaker

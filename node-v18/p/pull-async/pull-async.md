@@ -1,0 +1,24 @@
+# pull-async
+
+> 标签: JavaScript
+
+## 简介
+
+create pull-stream from async callback
+
+## 官网
+
+- 官网：https://github.com/ahdinosaur/pull-async#readme
+- 源码仓库：git+https://github.com/ahdinosaur/pull-async.git
+- npm 页面：https://www.npmjs.com/package/pull-async
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install pull-async`
+- npm registry：https://registry.npmjs.org/pull-async

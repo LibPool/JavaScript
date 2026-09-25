@@ -1,0 +1,27 @@
+# pull-plan-calendar
+
+> 标签: calendar, react, scheduler, tasks
+
+## 简介
+
+React calendar with week/day/month views and task scheduling.
+
+## 官网
+
+- 官网：https://github.com/<you>/pull-plan-calendar#readme
+- 源码仓库：git+https://github.com/<you>/pull-plan-calendar.git
+- npm 页面：https://www.npmjs.com/package/pull-plan-calendar
+
+## 历史版本号
+
+- 当前版本：0.1.3
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+
+## 获取地址
+
+- npm 安装：`npm install pull-plan-calendar`
+- npm registry：https://registry.npmjs.org/pull-plan-calendar

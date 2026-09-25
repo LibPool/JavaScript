@@ -1,0 +1,24 @@
+# polymer-mold
+
+> 标签: module, mold, npm, polymer
+
+## 简介
+
+polymer-mold - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/InjectPolymer/polymer-mold
+- 源码仓库：https://github.com/InjectPolymer/polymer-mold.git
+- npm 页面：https://www.npmjs.com/package/polymer-mold
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install polymer-mold`
+- npm registry：https://registry.npmjs.org/polymer-mold

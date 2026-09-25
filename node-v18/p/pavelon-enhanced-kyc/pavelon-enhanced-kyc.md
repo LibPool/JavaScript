@@ -1,0 +1,22 @@
+# pavelon-enhanced-kyc
+
+> 标签: pavelon-kyc-sdk, react, typescript
+
+## 简介
+
+Pavelon EnhanceKyc
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/pavelon-enhanced-kyc
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install pavelon-enhanced-kyc`
+- npm registry：https://registry.npmjs.org/pavelon-enhanced-kyc

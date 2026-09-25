@@ -1,0 +1,25 @@
+# pixospritz-math
+
+> 标签: 3d, math, matrix, pixospritz, vector, webgl
+
+## 简介
+
+Math utilities for PixoSpritz - vectors, matrices, and geometric operations
+
+## 官网
+
+- 官网：https://pixospritz.com
+- 源码仓库：git+https://github.com/ConflictingTheories/calliope-pixos.git
+- npm 页面：https://www.npmjs.com/package/pixospritz-math
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install pixospritz-math`
+- npm registry：https://registry.npmjs.org/pixospritz-math

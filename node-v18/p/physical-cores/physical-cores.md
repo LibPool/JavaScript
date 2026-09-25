@@ -1,0 +1,26 @@
+# physical-cores
+
+> 标签: core, cpu, os, physical, thread
+
+## 简介
+
+Get your physical cpu count in a blink, supports several main platforms include linux, windows, darwin
+
+## 官网
+
+- 官网：https://github.com/scrwdrv/physical-cores#readme
+- 源码仓库：git+https://github.com/scrwdrv/physical-cores.git
+- npm 页面：https://www.npmjs.com/package/physical-cores
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install physical-cores`
+- npm registry：https://registry.npmjs.org/physical-cores

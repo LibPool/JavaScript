@@ -1,0 +1,25 @@
+# pm2-checks
+
+> 标签: JavaScript
+
+## 简介
+
+Repository checks system for PM2
+
+## 官网
+
+- 官网：https://github.com/ldarren/pico-checks#readme
+- 源码仓库：git+ssh://git@github.com/ldarren/pico-checks.git
+- npm 页面：https://www.npmjs.com/package/pm2-checks
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install pm2-checks`
+- npm registry：https://registry.npmjs.org/pm2-checks
+- Node 要求：>=8.0.0

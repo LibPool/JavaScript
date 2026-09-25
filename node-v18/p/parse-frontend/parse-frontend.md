@@ -1,0 +1,33 @@
+# parse-frontend
+
+> 标签: JavaScript
+
+## 简介
+
+- [Parsex-Frontend](#parsex-frontend)   - [项目简介](#项目简介)   - [安装依赖](#安装依赖)   - [启动项目](#启动项目)   - [QA](#qa)   - [脚本命令](#脚本命令)   - [项目结构](#项目结构)   - [贡献](#贡献)   - [许可证](#许可证)
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/parse-frontend
+
+## 历史版本号
+
+- 当前版本：1.0.25
+
+- 1.0.20
+- 1.0.21
+- 1.0.22
+- 1.0.23
+- 1.0.24
+- 1.0.25
+- 1.0.3
+- 1.0.4
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+
+## 获取地址
+
+- npm 安装：`npm install parse-frontend`
+- npm registry：https://registry.npmjs.org/parse-frontend

@@ -1,0 +1,35 @@
+# persist-and-sync
+
+> 标签: api, broadcast, broadcast-channel, channel, hooks, javascript, localStorage, mayank1513, middleware, optimized, persist, react, react 18, state, sync, sync-tabs, sync-windows, tiny, typescript, web, zustand
+
+## 简介
+
+Zustand middleware to easily persist and sync Zustand state between tabs and windows
+
+## 官网
+
+- 官网：https://github.com/react18-tools/persist-and-sync#readme
+- 源码仓库：git+https://github.com/react18-tools/persist-and-sync.git
+- npm 页面：https://www.npmjs.com/package/persist-and-sync
+
+## 历史版本号
+
+- 当前版本：1.2.3
+
+- 0.0.1
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.2.3
+
+## 获取地址
+
+- npm 安装：`npm install persist-and-sync`
+- npm registry：https://registry.npmjs.org/persist-and-sync

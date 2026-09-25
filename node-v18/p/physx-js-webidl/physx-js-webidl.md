@@ -1,0 +1,35 @@
+# physx-js-webidl
+
+> 标签: PhysX, WebIDL, emscripten, physics, webassembly
+
+## 简介
+
+Javascript/WASM bindings for Nvidia PhysX 5.6.1
+
+## 官网
+
+- 官网：https://github.com/fabmax/physx-js-webidl#readme
+- 源码仓库：git+https://github.com/fabmax/physx-js-webidl.git
+- npm 页面：https://www.npmjs.com/package/physx-js-webidl
+
+## 历史版本号
+
+- 当前版本：2.7.3
+
+- 2.4.1
+- 2.4.2
+- 2.5.0
+- 2.5.1
+- 2.6.0
+- 2.6.0-1
+- 2.6.1
+- 2.6.2
+- 2.7.0
+- 2.7.1
+- 2.7.2
+- 2.7.3
+
+## 获取地址
+
+- npm 安装：`npm install physx-js-webidl`
+- npm registry：https://registry.npmjs.org/physx-js-webidl

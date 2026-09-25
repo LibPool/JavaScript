@@ -1,0 +1,29 @@
+# ps-which
+
+> 标签: angular, refactor, tool
+
+## 简介
+
+Find out what's in an Angular 1 app
+
+## 官网
+
+- 官网：https://github.com/psalaets/ps-which
+- 源码仓库：git+https://github.com/psalaets/ps-which.git
+- npm 页面：https://www.npmjs.com/package/ps-which
+
+## 历史版本号
+
+- 当前版本：1.3.0
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.3.0
+
+## 获取地址
+
+- npm 安装：`npm install ps-which`
+- npm registry：https://registry.npmjs.org/ps-which

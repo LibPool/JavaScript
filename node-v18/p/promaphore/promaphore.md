@@ -1,0 +1,25 @@
+# promaphore
+
+> 标签: JavaScript
+
+## 简介
+
+Promise Semaphore
+
+## 官网
+
+- 官网：https://github.com/mafintosh/promaphore
+- 源码仓库：git+https://github.com/mafintosh/promaphore.git
+- npm 页面：https://www.npmjs.com/package/promaphore
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.0
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install promaphore`
+- npm registry：https://registry.npmjs.org/promaphore

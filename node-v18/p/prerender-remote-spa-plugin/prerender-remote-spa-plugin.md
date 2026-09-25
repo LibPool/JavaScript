@@ -1,0 +1,24 @@
+# prerender-remote-spa-plugin
+
+> 标签: JavaScript
+
+## 简介
+
+Prerenders static HTML by surfing a remote spa page.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/prerender-remote-spa-plugin
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install prerender-remote-spa-plugin`
+- npm registry：https://registry.npmjs.org/prerender-remote-spa-plugin
+- Node 要求：>=4.0.0

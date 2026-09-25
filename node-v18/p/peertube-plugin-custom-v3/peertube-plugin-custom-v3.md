@@ -1,0 +1,23 @@
+# peertube-plugin-custom-v3
+
+> 标签: peertube, plugin
+
+## 简介
+
+PeerTube plugin ad injector
+
+## 官网
+
+- 官网：https://github.com/Erichy-dev
+- npm 页面：https://www.npmjs.com/package/peertube-plugin-custom-v3
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install peertube-plugin-custom-v3`
+- npm registry：https://registry.npmjs.org/peertube-plugin-custom-v3

@@ -1,0 +1,27 @@
+# pw-ionic-cli
+
+> 标签: app, cordova, hybrid, ionic, ionic framework, ionicframework, mobile, native, phonegap
+
+## 简介
+
+A tool for creating and developing Ionic Framework mobile apps.
+
+## 官网
+
+- 官网：https://github.com/pw-repo/pw-ionic-cli#readme
+- 源码仓库：git+https://github.com/pw-repo/pw-ionic-cli.git
+- npm 页面：https://www.npmjs.com/package/pw-ionic-cli
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install pw-ionic-cli`
+- npm registry：https://registry.npmjs.org/pw-ionic-cli
+- Node 要求：>=6.4.0
