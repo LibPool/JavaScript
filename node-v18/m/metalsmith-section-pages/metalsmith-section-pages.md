@@ -1,0 +1,26 @@
+# metalsmith-section-pages
+
+> 标签: metadata-generation, metalsmith, metalsmith-plugin
+
+## 简介
+
+Generate structured-content pages composed of validated library sections from data records
+
+## 官网
+
+- 官网：https://github.com/wernerglinka/metalsmith-section-pages
+- 源码仓库：git+https://github.com/wernerglinka/metalsmith-section-pages.git
+- npm 页面：https://www.npmjs.com/package/metalsmith-section-pages
+
+## 历史版本号
+
+- 当前版本：0.1.3
+
+- 0.1.1
+- 0.1.3
+
+## 获取地址
+
+- npm 安装：`npm install metalsmith-section-pages`
+- npm registry：https://registry.npmjs.org/metalsmith-section-pages
+- Node 要求：>= 22.0.0

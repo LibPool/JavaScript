@@ -1,0 +1,24 @@
+# metaparticle
+
+> 标签: infrastructure, server
+
+## 简介
+
+Metaparticle: Compile your infrastructure!
+
+## 官网
+
+- 官网：https://github.com/brendandburns/metaparticle#readme
+- 源码仓库：git+https://github.com/brendandburns/metaparticle.git
+- npm 页面：https://www.npmjs.com/package/metaparticle
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install metaparticle`
+- npm registry：https://registry.npmjs.org/metaparticle

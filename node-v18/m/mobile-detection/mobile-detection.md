@@ -1,0 +1,25 @@
+# mobile-detection
+
+> 标签: detection, mobile, npm, package, responsive
+
+## 简介
+
+A framework-agnostic mobile detection package
+
+## 官网
+
+- 官网：https://github.com/factober/mobile-detection#readme
+- 源码仓库：git+ssh://git@github.com/factober/mobile-detection.git
+- npm 页面：https://www.npmjs.com/package/mobile-detection
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install mobile-detection`
+- npm registry：https://registry.npmjs.org/mobile-detection

@@ -1,0 +1,25 @@
+# meridiano
+
+> 标签: brasil, date, date-fns, dayjs, feriados, feriados-brasil, holidays, intl, moment, time, timezone, zero-dependency
+
+## 简介
+
+Utilitário nativo de data/hora com timezone e feriados — zero dependências
+
+## 官网
+
+- 官网：https://github.com/jefferson-it/meridiano#readme
+- 源码仓库：git+https://github.com/jefferson-it/meridiano.git
+- npm 页面：https://www.npmjs.com/package/meridiano
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install meridiano`
+- npm registry：https://registry.npmjs.org/meridiano
+- Node 要求：>=18

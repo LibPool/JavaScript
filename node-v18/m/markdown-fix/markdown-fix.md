@@ -1,0 +1,29 @@
+# markdown-fix
+
+> 标签: emphasis, formatter, llm, markdown
+
+## 简介
+
+Fix Markdown emphasis formatting by inserting spaces around markers containing brackets and special characters
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/markdown-fix
+
+## 历史版本号
+
+- 当前版本：0.3.4
+
+- 0.1.0
+- 0.2.0
+- 0.2.1
+- 0.3.0
+- 0.3.1
+- 0.3.2
+- 0.3.3
+- 0.3.4
+
+## 获取地址
+
+- npm 安装：`npm install markdown-fix`
+- npm registry：https://registry.npmjs.org/markdown-fix

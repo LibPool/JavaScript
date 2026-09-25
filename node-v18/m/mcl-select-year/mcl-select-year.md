@@ -1,0 +1,22 @@
+# mcl-select-year
+
+> 标签: JavaScript
+
+## 简介
+
+mcl-select-year - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/mcl-select-year
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install mcl-select-year`
+- npm registry：https://registry.npmjs.org/mcl-select-year

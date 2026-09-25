@@ -1,0 +1,25 @@
+# memory-fs-stream
+
+> 标签: vinyl
+
+## 简介
+
+Convert memory-fs to stream
+
+## 官网
+
+- 官网：https://github.com/whs/memory-fs-stream#readme
+- 源码仓库：git+https://github.com/whs/memory-fs-stream.git
+- npm 页面：https://www.npmjs.com/package/memory-fs-stream
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install memory-fs-stream`
+- npm registry：https://registry.npmjs.org/memory-fs-stream

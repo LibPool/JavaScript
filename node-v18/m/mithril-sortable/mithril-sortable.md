@@ -1,0 +1,24 @@
+# mithril-sortable
+
+> 标签: drag & drop, mithril, mithril drag and drop, mithril sortable
+
+## 简介
+
+A Sortable Component for Mithril
+
+## 官网
+
+- 官网：https://github.com/shimulch/mithril-sortable#readme
+- 源码仓库：git+https://github.com/shimulch/mitrhil-sortable.git
+- npm 页面：https://www.npmjs.com/package/mithril-sortable
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install mithril-sortable`
+- npm registry：https://registry.npmjs.org/mithril-sortable

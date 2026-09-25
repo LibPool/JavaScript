@@ -1,0 +1,25 @@
+# mode-s-aircraft-store
+
+> 标签: 1090, 1090mhz, ads-b, adsb, aircraft, airplane, airplanes, librtlsdr, mode-s, modes, plane, radio, rtl-sdr, rtlsdr, sdr
+
+## 简介
+
+A utility library for keeping track of active aircrafts and their position based on their Mode S messages
+
+## 官网
+
+- 官网：https://github.com/watson/mode-s-aircraft-store#readme
+- 源码仓库：git+https://github.com/watson/mode-s-aircraft-store.git
+- npm 页面：https://www.npmjs.com/package/mode-s-aircraft-store
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install mode-s-aircraft-store`
+- npm registry：https://registry.npmjs.org/mode-s-aircraft-store

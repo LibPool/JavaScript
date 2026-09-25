@@ -1,0 +1,22 @@
+# msn-google-rank-recorder
+
+> 标签: JavaScript
+
+## 简介
+
+record your website rank in google.com, developed by Microsoft MSN Money team
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/msn-google-rank-recorder
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install msn-google-rank-recorder`
+- npm registry：https://registry.npmjs.org/msn-google-rank-recorder

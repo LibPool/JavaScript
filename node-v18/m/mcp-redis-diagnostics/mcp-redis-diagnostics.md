@@ -1,0 +1,36 @@
+# mcp-redis-diagnostics
+
+> 标签: ai, anthropic, cache, claude, diagnostics, mcp, mcp-server, memory, memory-analysis, model-context-protocol, monitoring, performance, redis, slowlog
+
+## 简介
+
+MCP server for Redis diagnostics — analyze memory usage, slowlog, client connections, and keyspace health with AI-powered recommendations
+
+## 官网
+
+- 官网：https://github.com/Dmitriusan/mcp-redis-diagnostics#readme
+- 源码仓库：git+https://github.com/Dmitriusan/mcp-redis-diagnostics.git
+- npm 页面：https://www.npmjs.com/package/mcp-redis-diagnostics
+
+## 历史版本号
+
+- 当前版本：0.1.14
+
+- 0.1.11
+- 0.1.12
+- 0.1.13
+- 0.1.14
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install mcp-redis-diagnostics`
+- npm registry：https://registry.npmjs.org/mcp-redis-diagnostics
+- Node 要求：>=20.0.0

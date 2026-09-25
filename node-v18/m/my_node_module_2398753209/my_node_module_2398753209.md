@@ -1,0 +1,23 @@
+# my_node_module_2398753209
+
+> 标签: demo, package
+
+## 简介
+
+Test Module For NPM
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/my_node_module_2398753209
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install my_node_module_2398753209`
+- npm registry：https://registry.npmjs.org/my_node_module_2398753209

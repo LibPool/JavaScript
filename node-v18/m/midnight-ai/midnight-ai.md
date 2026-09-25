@@ -1,0 +1,26 @@
+# midnight-ai
+
+> 标签: ai, assistant, groq, llama.cpp, openai, terminal
+
+## 简介
+
+A powerful local and API-driven AI system assistant
+
+## 官网
+
+- 官网：https://github.com/Em1tSan/Midnight#readme
+- 源码仓库：git+https://github.com/Em1tSan/Midnight.git
+- npm 页面：https://www.npmjs.com/package/midnight-ai
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install midnight-ai`
+- npm registry：https://registry.npmjs.org/midnight-ai
+- Node 要求：>=16.0.0

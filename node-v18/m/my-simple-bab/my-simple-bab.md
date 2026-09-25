@@ -1,0 +1,28 @@
+# my-simple-bab
+
+> 标签: JavaScript
+
+## 简介
+
+This is a simple project demonstrating npm package publishing.
+
+## 官网
+
+- 官网：https://github.com/revenkop/my-simple-baby#readme
+- 源码仓库：git+https://github.com/revenkop/my-simple-baby.git
+- npm 页面：https://www.npmjs.com/package/my-simple-bab
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+
+## 获取地址
+
+- npm 安装：`npm install my-simple-bab`
+- npm registry：https://registry.npmjs.org/my-simple-bab

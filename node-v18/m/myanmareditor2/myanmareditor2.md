@@ -1,0 +1,24 @@
+# myanmareditor2
+
+> 标签: Editor2, editor, myanmarEditor2
+
+## 简介
+
+新版编辑器
+
+## 官网
+
+- 源码仓库：git@git.shinemo.com:7999/xnpm/editor2.git
+- npm 页面：https://www.npmjs.com/package/myanmareditor2
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install myanmareditor2`
+- npm registry：https://registry.npmjs.org/myanmareditor2
+- Node 要求：>= 7.6.0

@@ -1,0 +1,27 @@
+# mongodb-atlas-mcp-remote
+
+> 标签: JavaScript
+
+## 简介
+
+MCP stdio proxy that forwards requests to the MongoDB Remote MCP server with OAuth2 client credentials authentication
+
+## 官网
+
+- 源码仓库：https://github.com/mongodb-js/mongodb-mcp-server.git
+- npm 页面：https://www.npmjs.com/package/mongodb-atlas-mcp-remote
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.1.0
+- 0.2.0
+- 1.0.0
+- 3.0.0-prerelease.1
+
+## 获取地址
+
+- npm 安装：`npm install mongodb-atlas-mcp-remote`
+- npm registry：https://registry.npmjs.org/mongodb-atlas-mcp-remote
+- Node 要求：^20.19.0 || ^22.13.0 || >= 24.0.0

@@ -1,0 +1,22 @@
+# matrix.node.doc
+
+> 标签: JavaScript
+
+## 简介
+
+matrix.node.doc - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/matrix.node.doc
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install matrix.node.doc`
+- npm registry：https://registry.npmjs.org/matrix.node.doc

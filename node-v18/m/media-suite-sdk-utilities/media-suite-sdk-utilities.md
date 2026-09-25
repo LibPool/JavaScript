@@ -1,0 +1,22 @@
+# media-suite-sdk-utilities
+
+> 标签: JavaScript
+
+## 简介
+
+security holding package
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/media-suite-sdk-utilities
+
+## 历史版本号
+
+- 当前版本：1.0.0-reserved
+
+- 1.0.0-reserved
+
+## 获取地址
+
+- npm 安装：`npm install media-suite-sdk-utilities`
+- npm registry：https://registry.npmjs.org/media-suite-sdk-utilities

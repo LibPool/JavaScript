@@ -1,0 +1,22 @@
+# mungudii
+
+> 标签: 2024, belyse, calculator, maths, rca
+
+## 简介
+
+learning how to use npm and express
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/mungudii
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install mungudii`
+- npm registry：https://registry.npmjs.org/mungudii

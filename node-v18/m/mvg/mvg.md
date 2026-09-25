@@ -1,0 +1,25 @@
+# mvg
+
+> 标签: JavaScript
+
+## 简介
+
+A simple API adapter for fetching live data (timetables, stations, lines, messages, incidents, etc.) from MVG (Münchner Verkehrsgesellschaft)
+
+## 官网
+
+- 官网：https://github.com/rasshofer/mvg#readme
+- 源码仓库：git://github.com/rasshofer/mvg.git
+- npm 页面：https://www.npmjs.com/package/mvg
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install mvg`
+- npm registry：https://registry.npmjs.org/mvg

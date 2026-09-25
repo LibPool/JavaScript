@@ -1,0 +1,25 @@
+# moreproof-adapter-github
+
+> 标签: agent-governance, ai-agents, github, moreproof
+
+## 简介
+
+GitHub adapter for MoreProof - Event ingestion from GitHub
+
+## 官网
+
+- 官网：https://github.com/HowdyDooToYou/moreproof#readme
+- 源码仓库：git+https://github.com/HowdyDooToYou/moreproof.git
+- npm 页面：https://www.npmjs.com/package/moreproof-adapter-github
+
+## 历史版本号
+
+- 当前版本：0.1.0-beta.1
+
+- 0.1.0
+- 0.1.0-beta.1
+
+## 获取地址
+
+- npm 安装：`npm install moreproof-adapter-github`
+- npm registry：https://registry.npmjs.org/moreproof-adapter-github

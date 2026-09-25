@@ -1,0 +1,27 @@
+# mandeling-ajax
+
+> 标签: AJAX
+
+## 简介
+
+Implement AJAX with pure JavaScript
+
+## 官网
+
+- 官网：https://github.com/palehorse/mandeling-ajax#readme
+- 源码仓库：git+https://github.com/palehorse/mandeling-ajax.git
+- npm 页面：https://www.npmjs.com/package/mandeling-ajax
+
+## 历史版本号
+
+- 当前版本：1.1.3
+
+- 1.0.0
+- 1.1.0
+- 1.1.2
+- 1.1.3
+
+## 获取地址
+
+- npm 安装：`npm install mandeling-ajax`
+- npm registry：https://registry.npmjs.org/mandeling-ajax

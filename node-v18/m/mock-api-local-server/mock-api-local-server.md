@@ -1,0 +1,26 @@
+# mock-api-local-server
+
+> 标签: JavaScript
+
+## 简介
+
+A mock API server for local development
+
+## 官网
+
+- 官网：https://github.com/ducksoupdev/mock-api-local-server#readme
+- 源码仓库：git+https://github.com/ducksoupdev/mock-api-local-server.git
+- npm 页面：https://www.npmjs.com/package/mock-api-local-server
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install mock-api-local-server`
+- npm registry：https://registry.npmjs.org/mock-api-local-server

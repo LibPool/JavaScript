@@ -1,0 +1,24 @@
+# mathmodule-hnu
+
+> 标签: factorial, math, mathModule
+
+## 简介
+
+testing node module creation and publishing
+
+## 官网
+
+- 官网：https://github.com/fia4joy/mathmodule-ext#readme
+- 源码仓库：git://github.com/fia4joy/mathmodule-hnu.git
+- npm 页面：https://www.npmjs.com/package/mathmodule-hnu
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install mathmodule-hnu`
+- npm registry：https://registry.npmjs.org/mathmodule-hnu

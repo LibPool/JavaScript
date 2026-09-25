@@ -1,0 +1,24 @@
+# miiajs
+
+> 标签: miiajs
+
+## 简介
+
+Name reserved for the MiiaJS framework. Install @miiajs/core instead. Docs: https://miiajs.com
+
+## 官网
+
+- 官网：https://miiajs.com
+- 源码仓库：git+https://github.com/miiajs/miia.git
+- npm 页面：https://www.npmjs.com/package/miiajs
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install miiajs`
+- npm registry：https://registry.npmjs.org/miiajs

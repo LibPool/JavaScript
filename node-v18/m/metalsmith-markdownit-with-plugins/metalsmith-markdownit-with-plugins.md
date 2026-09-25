@@ -1,0 +1,29 @@
+# metalsmith-markdownit-with-plugins
+
+> 标签: JavaScript
+
+## 简介
+
+A Metalsmith plugin to convert markdown files. Plugins added.
+
+## 官网
+
+- 官网：https://github.com/Honey-Be/metalsmith-markdownit-with-plugins#readme
+- 源码仓库：git://github.com/Honey-Be/metalsmith-markdownit-with-plugins.git
+- npm 页面：https://www.npmjs.com/package/metalsmith-markdownit-with-plugins
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+
+## 获取地址
+
+- npm 安装：`npm install metalsmith-markdownit-with-plugins`
+- npm registry：https://registry.npmjs.org/metalsmith-markdownit-with-plugins

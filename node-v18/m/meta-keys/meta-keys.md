@@ -1,0 +1,25 @@
+# meta-keys
+
+> 标签: alt, cmd, command, control, ctrl, key, keyboard, left, meta, option, right, ui
+
+## 简介
+
+Get the state of any pressed meta keys, differentiating between their left/right location on the keyboard
+
+## 官网
+
+- 官网：https://github.com/hughsk/meta-keys
+- 源码仓库：git://github.com/hughsk/meta-keys.git
+- npm 页面：https://www.npmjs.com/package/meta-keys
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install meta-keys`
+- npm registry：https://registry.npmjs.org/meta-keys
