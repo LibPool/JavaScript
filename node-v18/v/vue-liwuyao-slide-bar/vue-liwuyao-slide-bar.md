@@ -1,0 +1,25 @@
+# vue-liwuyao-slide-bar
+
+> 标签: slider, vue
+
+## 简介
+
+滑动侧栏
+
+## 官网
+
+- 官网：https://github.com/liwuyao/vue-slide-bar/README.md
+- 源码仓库：git+https://github.com/liwuyao/vue-slide-bar.git
+- npm 页面：https://www.npmjs.com/package/vue-liwuyao-slide-bar
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install vue-liwuyao-slide-bar`
+- npm registry：https://registry.npmjs.org/vue-liwuyao-slide-bar
+- Node 要求：>= 6.0.0

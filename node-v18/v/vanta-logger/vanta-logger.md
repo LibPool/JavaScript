@@ -1,0 +1,24 @@
+# vanta-logger
+
+> 标签: discord-webhook, error-tracking, gcp, logger, logging, sentry, structured-logging, winston
+
+## 简介
+
+A reusable, production-ready Winston-based logger module with clean architecture
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/vanta-logger
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install vanta-logger`
+- npm registry：https://registry.npmjs.org/vanta-logger
+- Node 要求：>=18.0.0

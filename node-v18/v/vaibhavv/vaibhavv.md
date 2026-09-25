@@ -1,0 +1,30 @@
+# vaibhavv
+
+> 标签: card, cli, developer, npx, portfolio
+
+## 简介
+
+✨ Personal CLI card of Vaibhav Kesarwani — Software Developer
+
+## 官网
+
+- 官网：https://vaibhavkesarwani.vercel.app/
+- 源码仓库：git+https://github.com/Vaibhav-kesarwani/npx-vaibhav.git
+- npm 页面：https://www.npmjs.com/package/vaibhavv
+
+## 历史版本号
+
+- 当前版本：1.0.9
+
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+
+## 获取地址
+
+- npm 安装：`npm install vaibhavv`
+- npm registry：https://registry.npmjs.org/vaibhavv

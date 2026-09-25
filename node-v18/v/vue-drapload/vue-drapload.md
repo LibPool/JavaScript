@@ -1,0 +1,35 @@
+# vue-drapload
+
+> 标签: vue, vue-drapload, vue-infinite-scroll, vue-load-more, vue-scroll
+
+## 简介
+
+one vue plug for resolve pull-to-refresh and load more data
+
+## 官网
+
+- 官网：https://github.com/jy03078959/vue-drapload
+- 源码仓库：git+ssh://git@github.com/jy03078959/vue-drapload.git
+- npm 页面：https://www.npmjs.com/package/vue-drapload
+
+## 历史版本号
+
+- 当前版本：0.1.14
+
+- 0.1.1
+- 0.1.10
+- 0.1.11
+- 0.1.12
+- 0.1.13
+- 0.1.14
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.6
+- 0.1.7
+- 0.1.8
+
+## 获取地址
+
+- npm 安装：`npm install vue-drapload`
+- npm registry：https://registry.npmjs.org/vue-drapload

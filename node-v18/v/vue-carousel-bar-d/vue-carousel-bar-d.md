@@ -1,0 +1,25 @@
+# vue-carousel-bar-d
+
+> 标签: JavaScript
+
+## 简介
+
+## Installation ``` npm install vue-carousel-bar ``` or if you prefer yarn ``` yarn add vue-carousel-bar ```
+
+## 官网
+
+- 官网：https://github.com/KimSunWook/vue-diagnoal-screens#readme
+- 源码仓库：git+https://github.com/KimSunWook/vue-diagnoal-screens.git
+- npm 页面：https://www.npmjs.com/package/vue-carousel-bar-d
+
+## 历史版本号
+
+- 当前版本：0.4.0
+
+- 0.3.13
+- 0.4.0
+
+## 获取地址
+
+- npm 安装：`npm install vue-carousel-bar-d`
+- npm registry：https://registry.npmjs.org/vue-carousel-bar-d

@@ -1,0 +1,26 @@
+# vue-tags-ball
+
+> 标签: 3d, tags, vue
+
+## 简介
+
+a 3d tags ball for vue2
+
+## 官网
+
+- 官网：https://github.com/yanthems/vue-tags-ball#readme
+- 源码仓库：git+https://github.com/yanthems/vue-tags-ball.git
+- npm 页面：https://www.npmjs.com/package/vue-tags-ball
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install vue-tags-ball`
+- npm registry：https://registry.npmjs.org/vue-tags-ball

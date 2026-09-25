@@ -1,0 +1,35 @@
+# vue3-m-circle-progress-bar
+
+> 标签: circle progress bar, vue 3 progress bar, vue progress bar, vue3
+
+## 简介
+
+![Circle Progress Bar](https://lh6.googleusercontent.com/fLQLNNyHZoBeyAkqRDEBqZwm5GN_ROBnm0OVIiZ4gw4DJa6i2KbGwiOisZl6UdyA9c4=w2400)
+
+## 官网
+
+- 官网：https://github.com/mkolsv/vue3-m-circle-progress-bar#readme
+- 源码仓库：git+https://github.com/mkolsv/vue3-m-circle-progress-bar.git
+- npm 页面：https://www.npmjs.com/package/vue3-m-circle-progress-bar
+
+## 历史版本号
+
+- 当前版本：0.6.1
+
+- 0.2.8
+- 0.2.9
+- 0.3.1
+- 0.4.0
+- 0.4.1
+- 0.5.0
+- 0.5.1
+- 0.6.0
+- 0.6.1
+- 1.0.0-beta.1
+- 1.0.0-beta.2
+- 1.0.0-beta.3
+
+## 获取地址
+
+- npm 安装：`npm install vue3-m-circle-progress-bar`
+- npm registry：https://registry.npmjs.org/vue3-m-circle-progress-bar

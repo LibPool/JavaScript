@@ -1,0 +1,34 @@
+# valider.js
+
+> 标签: form, input, javascript, javascript valid, javascript validation, javascript valider, js, js valid, js validation, js valider, valid, validation, validator
+
+## 简介
+
+Simple form and input validator package.
+
+## 官网
+
+- 官网：https://github.com/DStojecki/valider.js#readme
+- 源码仓库：git+https://github.com/DStojecki/valider.js.git
+- npm 页面：https://www.npmjs.com/package/valider.js
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+
+## 获取地址
+
+- npm 安装：`npm install valider.js`
+- npm registry：https://registry.npmjs.org/valider.js

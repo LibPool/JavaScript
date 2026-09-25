@@ -1,0 +1,24 @@
+# vaze
+
+> 标签: JavaScript
+
+## 简介
+
+vaze - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/azurydev/bunny#readme
+- 源码仓库：git+https://github.com/azurydev/bunny.git
+- npm 页面：https://www.npmjs.com/package/vaze
+
+## 历史版本号
+
+- 当前版本：0.0.0-canary.0
+
+- 0.0.0-canary.0
+
+## 获取地址
+
+- npm 安装：`npm install vaze`
+- npm registry：https://registry.npmjs.org/vaze

@@ -1,0 +1,30 @@
+# visdom
+
+> 标签: JavaScript
+
+## 简介
+
+Another virtual DOM library for JavaScript made with focus on simplicity, functional programming and a modular architecture.
+
+## 官网
+
+- 官网：https://github.com/mariuslundgard/visdom#readme
+- 源码仓库：git+https://github.com/mariuslundgard/visdom.git
+- npm 页面：https://www.npmjs.com/package/visdom
+
+## 历史版本号
+
+- 当前版本：1.0.0-beta.3
+
+- 1.0.0-alpha.1
+- 1.0.0-alpha.2
+- 1.0.0-alpha.3
+- 1.0.0-alpha.4
+- 1.0.0-beta.1
+- 1.0.0-beta.2
+- 1.0.0-beta.3
+
+## 获取地址
+
+- npm 安装：`npm install visdom`
+- npm registry：https://registry.npmjs.org/visdom

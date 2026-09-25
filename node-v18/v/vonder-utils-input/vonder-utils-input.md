@@ -1,0 +1,37 @@
+# vonder-utils-input
+
+> 标签: JavaScript
+
+## 简介
+
+Custom text style input for decoration and Math function style.
+
+## 官网
+
+- 官网：https://github.com/vonder-thailand/vonder-utils-input#readme
+- 源码仓库：git+https://github.com/vonder-thailand/vonder-utils-input.git
+- npm 页面：https://www.npmjs.com/package/vonder-utils-input
+
+## 历史版本号
+
+- 当前版本：2.0.27
+
+- 2.0.23
+- 2.0.24
+- 2.0.25
+- 2.0.26
+- 2.0.27
+- 2.0.3
+- 2.0.4
+- 2.0.5
+- 2.0.6
+- 2.0.7
+- 2.0.8
+- 2.0.9
+- 共 81 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install vonder-utils-input`
+- npm registry：https://registry.npmjs.org/vonder-utils-input
+- Node 要求：>=10

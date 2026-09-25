@@ -1,0 +1,28 @@
+# verde-app
+
+> 标签: codex, desktop, opencode, verde
+
+## 简介
+
+Developer-friendly launcher for the Verde desktop app
+
+## 官网
+
+- 官网：https://github.com/JonathanRiche/verde
+- 源码仓库：git+https://github.com/JonathanRiche/verde.git
+- npm 页面：https://www.npmjs.com/package/verde-app
+
+## 历史版本号
+
+- 当前版本：0.1.60
+
+- 0.1.17
+- 0.1.18
+- 0.1.29
+- 0.1.60
+
+## 获取地址
+
+- npm 安装：`npm install verde-app`
+- npm registry：https://registry.npmjs.org/verde-app
+- Node 要求：>=18

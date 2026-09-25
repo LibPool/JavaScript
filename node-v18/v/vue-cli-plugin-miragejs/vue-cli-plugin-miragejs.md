@@ -1,0 +1,26 @@
+# vue-cli-plugin-miragejs
+
+> 标签: cli, mirage, miragejs, vue, vue-cli
+
+## 简介
+
+vue-cli plugin to add Mirage JS
+
+## 官网
+
+- 官网：https://github.com/DominusKelvin/vue-cli-plugin-miragejs#readme
+- 源码仓库：git+https://github.com/DominusKelvin/vue-cli-plugin-miragejs.git
+- npm 页面：https://www.npmjs.com/package/vue-cli-plugin-miragejs
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install vue-cli-plugin-miragejs`
+- npm registry：https://registry.npmjs.org/vue-cli-plugin-miragejs

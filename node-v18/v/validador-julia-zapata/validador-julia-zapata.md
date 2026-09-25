@@ -1,0 +1,26 @@
+# validador-julia-zapata
+
+> 标签: "validador"
+
+## 简介
+
+card validator library[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[Dnumber card validaotr lib
+
+## 官网
+
+- 官网：https://github.com/juzapata/card-validator-lib#readme
+- 源码仓库：git+https://github.com/juzapata/card-validator-lib.git
+- npm 页面：https://www.npmjs.com/package/validador-julia-zapata
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 1.0.2
+- 1.0.3
+- 1.0.5
+
+## 获取地址
+
+- npm 安装：`npm install validador-julia-zapata`
+- npm registry：https://registry.npmjs.org/validador-julia-zapata

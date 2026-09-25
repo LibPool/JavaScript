@@ -1,0 +1,35 @@
+# validation-helpers
+
+> 标签: express validation, express validations, helper, helpers, request validation, request validations, validate, validation, validation helper, validation helpers, validations, validator, validators
+
+## 简介
+
+validation-helpers
+
+## 官网
+
+- 官网：https://github.com/mohamedGamalAbuGalala/validation-helpers#readme
+- 源码仓库：git+https://github.com/mohamedGamalAbuGalala/validation-helpers.git
+- npm 页面：https://www.npmjs.com/package/validation-helpers
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 0.4.0
+- 1.0.0
+- 1.0.0-beta
+- 1.0.1
+- 1.0.1-beta
+- 1.0.2
+- 1.0.2-beta
+- 1.0.3
+- 1.0.3-beta
+- 1.0.4-beta
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install validation-helpers`
+- npm registry：https://registry.npmjs.org/validation-helpers

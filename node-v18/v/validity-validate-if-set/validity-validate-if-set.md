@@ -1,0 +1,24 @@
+# validity-validate-if-set
+
+> 标签: truthy, validation, validator, validity
+
+## 简介
+
+Validity validator which calls a subsequent validator if a value is truthy
+
+## 官网
+
+- 官网：https://github.com/domharrington/validity-validate-if-set
+- 源码仓库：git@github.com:domharrington/validity-validate-if-set.git
+- npm 页面：https://www.npmjs.com/package/validity-validate-if-set
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install validity-validate-if-set`
+- npm registry：https://registry.npmjs.org/validity-validate-if-set

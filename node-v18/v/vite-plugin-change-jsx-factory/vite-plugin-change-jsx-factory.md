@@ -1,0 +1,28 @@
+# vite-plugin-change-jsx-factory
+
+> 标签: rollup-plugin, vite-plugin
+
+## 简介
+
+A vite plugin to change the jsx factory
+
+## 官网
+
+- 官网：https://github.com/mendlero/rollup-vite-plugins#readme
+- 源码仓库：git+https://github.com/mendlero/rollup-vite-plugins.git
+- npm 页面：https://www.npmjs.com/package/vite-plugin-change-jsx-factory
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install vite-plugin-change-jsx-factory`
+- npm registry：https://registry.npmjs.org/vite-plugin-change-jsx-factory

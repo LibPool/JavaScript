@@ -1,0 +1,23 @@
+# verifyd-error
+
+> 标签: JavaScript
+
+## 简介
+
+Create custom error objects for Verifyd.
+
+## 官网
+
+- 源码仓库：git@bitbucket.org:DefaultDynamics/error.git
+- npm 页面：https://www.npmjs.com/package/verifyd-error
+
+## 历史版本号
+
+- 当前版本：0.1.6
+
+- 0.1.6
+
+## 获取地址
+
+- npm 安装：`npm install verifyd-error`
+- npm registry：https://registry.npmjs.org/verifyd-error

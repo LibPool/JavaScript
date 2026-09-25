@@ -1,0 +1,25 @@
+# vite-cli-lang
+
+> 标签: vite-cli
+
+## 简介
+
+A cli of vite
+
+## 官网
+
+- 官网：https://github.com/LangWenqi/vite-cli#readme
+- 源码仓库：git+https://github.com/LangWenqi/bf-sdjcli.git
+- npm 页面：https://www.npmjs.com/package/vite-cli-lang
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install vite-cli-lang`
+- npm registry：https://registry.npmjs.org/vite-cli-lang
+- Node 要求：>=10

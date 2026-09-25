@@ -1,0 +1,35 @@
+# vue-unit-test-generator
+
+> 标签: jest, spec-generator, vue-test-utils, vuejs
+
+## 简介
+
+Generates mocked schema for jest unit test in spec file from vue component
+
+## 官网
+
+- 官网：https://github.com/KornelDylski/vue-unit-test-generator#readme
+- 源码仓库：git+https://github.com/KornelDylski/vue-unit-test-generator.git
+- npm 页面：https://www.npmjs.com/package/vue-unit-test-generator
+
+## 历史版本号
+
+- 当前版本：0.1.11
+
+- 0.1.0
+- 0.1.1
+- 0.1.10
+- 0.1.11
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install vue-unit-test-generator`
+- npm registry：https://registry.npmjs.org/vue-unit-test-generator

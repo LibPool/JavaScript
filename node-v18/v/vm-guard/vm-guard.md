@@ -1,0 +1,34 @@
+# vm-guard
+
+> 标签: JavaScript
+
+## 简介
+
+A safer VM framework
+
+## 官网
+
+- 源码仓库：https://github.com/canguser/vm-guard.git
+- npm 页面：https://www.npmjs.com/package/vm-guard
+
+## 历史版本号
+
+- 当前版本：1.1.20
+
+- 1.1.20-beta
+- 1.1.20-beta1
+- 1.1.20-beta2
+- 1.1.20-beta3
+- 1.1.20-beta4
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.1.6
+- 1.1.7
+- 1.1.8
+- 1.1.9
+
+## 获取地址
+
+- npm 安装：`npm install vm-guard`
+- npm registry：https://registry.npmjs.org/vm-guard

@@ -1,0 +1,26 @@
+# validate.io-nonnegative-integer-array
+
+> 标签: array, integer, integerarray, is, isarray, isintegerarray, nonnegative, valid, validate, validate.io, validation, validator
+
+## 简介
+
+Validates if a value is a nonnegative integer array.
+
+## 官网
+
+- 官网：https://github.com/validate-io/nonnegative-integer-array
+- 源码仓库：git://github.com/validate-io/nonnegative-integer-array.git
+- npm 页面：https://www.npmjs.com/package/validate.io-nonnegative-integer-array
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 0.0.0
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install validate.io-nonnegative-integer-array`
+- npm registry：https://registry.npmjs.org/validate.io-nonnegative-integer-array

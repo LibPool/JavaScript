@@ -1,0 +1,28 @@
+# valibot-schema-semver
+
+> 标签: schema, semver, valibot-schema, validation
+
+## 简介
+
+Valibot schema for Semantic Versioning
+
+## 官网
+
+- 官网：https://github.com/idleberg/valibot-schemas/tree/main/packages/semver
+- 源码仓库：git+https://github.com/idleberg/valibot-schemas.git
+- npm 页面：https://www.npmjs.com/package/valibot-schema-semver
+
+## 历史版本号
+
+- 当前版本：0.2.1
+
+- 0.1.0
+- 0.1.1
+- 0.2.0
+- 0.2.1
+
+## 获取地址
+
+- npm 安装：`npm install valibot-schema-semver`
+- npm registry：https://registry.npmjs.org/valibot-schema-semver
+- Node 要求：^18.0.0 || ^20.0.0 || ^22.0.0 || >=24.0.0

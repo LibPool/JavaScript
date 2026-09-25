@@ -1,0 +1,25 @@
+# vue-avalanche
+
+> 标签: avalanche, bem, grid, vue
+
+## 简介
+
+A VueJS implementation of avalanche css grid
+
+## 官网
+
+- 官网：https://github.com/RobinBertilsson/vue-avalanche#readme
+- 源码仓库：git+https://github.com/RobinBertilsson/vue-avalanche.git
+- npm 页面：https://www.npmjs.com/package/vue-avalanche
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install vue-avalanche`
+- npm registry：https://registry.npmjs.org/vue-avalanche

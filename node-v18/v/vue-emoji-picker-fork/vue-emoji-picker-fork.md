@@ -1,0 +1,27 @@
+# vue-emoji-picker-fork
+
+> 标签: JavaScript
+
+## 简介
+
+FORK FOR Simple Vue.js emoji picker with unicode characters
+
+## 官网
+
+- 官网：https://github.com/edza/vue-emoji-picker#readme
+- 源码仓库：git+https://github.com/edza/vue-emoji-picker.git
+- npm 页面：https://www.npmjs.com/package/vue-emoji-picker-fork
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install vue-emoji-picker-fork`
+- npm registry：https://registry.npmjs.org/vue-emoji-picker-fork

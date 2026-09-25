@@ -1,0 +1,30 @@
+# vite-postcss-tsb
+
+> 标签: css, postcss, vite
+
+## 简介
+
+This plugin enable vite to build css using postcss without bundling into single file
+
+## 官网
+
+- 官网：https://github.com/hasinoorit/vite-postcss-tsb
+- 源码仓库：git+https://github.com/hasinoorit/vite-postcss-tsb.git
+- npm 页面：https://www.npmjs.com/package/vite-postcss-tsb
+
+## 历史版本号
+
+- 当前版本：1.0.6
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+
+## 获取地址
+
+- npm 安装：`npm install vite-postcss-tsb`
+- npm registry：https://registry.npmjs.org/vite-postcss-tsb

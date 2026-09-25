@@ -1,0 +1,27 @@
+# validatable-record
+
+> 标签: immutable, model, record, validate
+
+## 简介
+
+Immutable.js Record powered with validate.js
+
+## 官网
+
+- 官网：https://github.com/IzumiSy/validatable-record#readme
+- 源码仓库：git+https://github.com/IzumiSy/validatable-record.git
+- npm 页面：https://www.npmjs.com/package/validatable-record
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.0.1
+- 1.1.1
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install validatable-record`
+- npm registry：https://registry.npmjs.org/validatable-record

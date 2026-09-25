@@ -1,0 +1,35 @@
+# v3-directives
+
+> 标签: directive, directives Collection, typescript, vue, vue3
+
+## 简介
+
+Directive collection for [Vue3](https://github.com/vuejs/core).
+
+## 官网
+
+- 官网：https://v3-directives.vercel.app/
+- 源码仓库：git+https://github.com/doom-9/v3-directives.git
+- npm 页面：https://www.npmjs.com/package/v3-directives
+
+## 历史版本号
+
+- 当前版本：0.14.0
+
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+- 0.10.0
+- 0.11.0
+- 0.12.0
+- 0.13.0
+- 0.14.0
+
+## 获取地址
+
+- npm 安装：`npm install v3-directives`
+- npm registry：https://registry.npmjs.org/v3-directives

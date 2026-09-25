@@ -1,0 +1,26 @@
+# vkdice-api
+
+> 标签: api, dice, vk, vkdice, vkdice-api, vkontakte, апи, вк, вконтакте
+
+## 简介
+
+Модуль для удобного использования VKDice API.
+
+## 官网
+
+- 官网：https://github.com/defrizletov/vkdice-api#readme
+- 源码仓库：git+https://github.com/defrizletov/vkdice-api.git
+- npm 页面：https://www.npmjs.com/package/vkdice-api
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install vkdice-api`
+- npm registry：https://registry.npmjs.org/vkdice-api

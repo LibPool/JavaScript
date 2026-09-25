@@ -1,0 +1,26 @@
+# vizpl2
+
+> 标签: ci, gitlab
+
+## 简介
+
+A tool for visualizing GitLab CI pipelines.
+
+## 官网
+
+- 官网：https://gitlab.com/arvidnl/vizpl2/
+- npm 页面：https://www.npmjs.com/package/vizpl2
+
+## 历史版本号
+
+- 当前版本：0.1.3
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+
+## 获取地址
+
+- npm 安装：`npm install vizpl2`
+- npm registry：https://registry.npmjs.org/vizpl2

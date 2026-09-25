@@ -1,0 +1,24 @@
+# vectiee2
+
+> 标签: JavaScript
+
+## 简介
+
+This is my Tea testnet project, for TEA Testnet REWARD PROGRAM
+
+## 官网
+
+- 官网：https://github.com/vectorism/titestnet#readme
+- 源码仓库：git+https://github.com/vectorism/titestnet.git
+- npm 页面：https://www.npmjs.com/package/vectiee2
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install vectiee2`
+- npm registry：https://registry.npmjs.org/vectiee2

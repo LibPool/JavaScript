@@ -1,0 +1,31 @@
+# vitepress-assets-base
+
+> 标签: JavaScript
+
+## 简介
+
+Separate VitePress page base from static assets base.
+
+## 官网
+
+- 官网：https://github.com/holazz/vitepress-assets-base#readme
+- 源码仓库：git+https://github.com/holazz/vitepress-assets-base.git
+- npm 页面：https://www.npmjs.com/package/vitepress-assets-base
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install vitepress-assets-base`
+- npm registry：https://registry.npmjs.org/vitepress-assets-base
+- Node 要求：>=20.19.0

@@ -1,0 +1,24 @@
+# vscode-pyright
+
+> 标签: python
+
+## 简介
+
+VS Code static type checking for Python
+
+## 官网
+
+- 官网：https://github.com/Microsoft/pyright#readme
+- 源码仓库：git+https://github.com/Microsoft/pyright.git
+- npm 页面：https://www.npmjs.com/package/vscode-pyright
+
+## 历史版本号
+
+- 当前版本：1.1.362
+
+- 1.1.362
+
+## 获取地址
+
+- npm 安装：`npm install vscode-pyright`
+- npm registry：https://registry.npmjs.org/vscode-pyright

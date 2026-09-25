@@ -1,0 +1,27 @@
+# vantevo-analytics-gatsby
+
+> 标签: analytics, gatsby, gatsby-plugin, vantevo
+
+## 简介
+
+Official plugin Vantevo Analytics for Gatsby.
+
+## 官网
+
+- 官网：https://github.com/vantevo-analytics/vantevo-analytics-gatsby#readme
+- 源码仓库：git+https://github.com/vantevo-analytics/vantevo-analytics-gatsby.git
+- npm 页面：https://www.npmjs.com/package/vantevo-analytics-gatsby
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.0-beta.1
+- 1.0.0-beta.2
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install vantevo-analytics-gatsby`
+- npm registry：https://registry.npmjs.org/vantevo-analytics-gatsby

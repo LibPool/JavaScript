@@ -1,0 +1,24 @@
+# vuepress-theme-ibs
+
+> 标签: JavaScript
+
+## 简介
+
+vuepress-theme
+
+## 官网
+
+- 官网：https://github.com/pixelandtonic/vuepress-theme-craftdocs#readme
+- 源码仓库：git+https://github.com/pixelandtonic/vuepress-theme-craftdocs.git
+- npm 页面：https://www.npmjs.com/package/vuepress-theme-ibs
+
+## 历史版本号
+
+- 当前版本：2.0.2
+
+- 2.0.2
+
+## 获取地址
+
+- npm 安装：`npm install vuepress-theme-ibs`
+- npm registry：https://registry.npmjs.org/vuepress-theme-ibs

@@ -1,0 +1,31 @@
+# vform_px
+
+> 标签: JavaScript
+
+## 简介
+
+![image](https://vform2021.oss-cn-beijing.aliyuncs.com/vform_demo.gif?versionId=CAEQGBiBgIDst4zj4hciIDQyYTkyOGY1ZGJiODQ4YTk5ZjkxMGIwMDY0MmY2M2Ri)
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/vform_px
+
+## 历史版本号
+
+- 当前版本：1.0.8
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 2.2.0
+
+## 获取地址
+
+- npm 安装：`npm install vform_px`
+- npm registry：https://registry.npmjs.org/vform_px

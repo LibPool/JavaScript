@@ -1,0 +1,27 @@
+# vue-round-slider-simple
+
+> 标签: arc-slider, circle-slider, circular-slider, half-circle, knob, pie-circle, quarter-circle, range-slider, round-slider, semi-circle-slider, vue-round-slider, vuejs
+
+## 简介
+
+A round slider component for Vue.js with range support. Also it can be any kind of arc slider such as pie shape, half / semi-circle, quarter circle shape sliders.
+
+## 官网
+
+- 官网：https://github.com/gergo2007/vue-round-slider#readme
+- 源码仓库：git+https://github.com/gergo2007/vue-round-slider.git
+- npm 页面：https://www.npmjs.com/package/vue-round-slider-simple
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install vue-round-slider-simple`
+- npm registry：https://registry.npmjs.org/vue-round-slider-simple

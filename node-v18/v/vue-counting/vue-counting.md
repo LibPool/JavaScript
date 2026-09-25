@@ -1,0 +1,25 @@
+# vue-counting
+
+> 标签: JavaScript
+
+## 简介
+
+It's a vue component that will count to a target number at a specified duration
+
+## 官网
+
+- 官网：https://github.com/blackmady/vue-counting#readme
+- 源码仓库：git://github.com/blackmady/vue-counting.git
+- npm 页面：https://www.npmjs.com/package/vue-counting
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install vue-counting`
+- npm registry：https://registry.npmjs.org/vue-counting

@@ -1,0 +1,31 @@
+# vite-plugin-rollbar
+
+> 标签: map, plugin, production, source, sourcemap, sourcemaps, vite, vite-plugin
+
+## 简介
+
+A Vite plugin to upload sourcemaps to Rollbar after build.
+
+## 官网
+
+- 官网：https://github.com/clinggroup/vite-plugin-rollbar#readme
+- 源码仓库：git+https://github.com/clinggroup/vite-plugin-rollbar.git
+- npm 页面：https://www.npmjs.com/package/vite-plugin-rollbar
+
+## 历史版本号
+
+- 当前版本：0.0.14
+
+- 0.0.10
+- 0.0.13
+- 0.0.14
+- 0.0.6
+- 0.0.7
+- 0.0.7-beta.0
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install vite-plugin-rollbar`
+- npm registry：https://registry.npmjs.org/vite-plugin-rollbar

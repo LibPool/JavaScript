@@ -1,0 +1,33 @@
+# vite-plugin-vibe3-inspector
+
+> 标签: debugging, development, inspector, plugin, vibe3, vite
+
+## 简介
+
+A Vite plugin for debugging Vibe3 applications with visual element inspection
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/vite-plugin-vibe3-inspector
+
+## 历史版本号
+
+- 当前版本：1.0.14
+
+- 1.0.11
+- 1.0.12
+- 1.0.13
+- 1.0.14
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+
+## 获取地址
+
+- npm 安装：`npm install vite-plugin-vibe3-inspector`
+- npm registry：https://registry.npmjs.org/vite-plugin-vibe3-inspector

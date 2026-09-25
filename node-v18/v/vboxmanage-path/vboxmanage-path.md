@@ -1,0 +1,26 @@
+# vboxmanage-path
+
+> 标签: JavaScript
+
+## 简介
+
+Reliably determines the path of VBoxManage (or VboxManage for older versions on linux)
+
+## 官网
+
+- 官网：https://github.com/davidmarkclements/vboxmanage-path#readme
+- 源码仓库：git+https://github.com/davidmarkclements/vboxmanage-path.git
+- npm 页面：https://www.npmjs.com/package/vboxmanage-path
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install vboxmanage-path`
+- npm registry：https://registry.npmjs.org/vboxmanage-path
