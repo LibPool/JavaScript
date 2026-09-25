@@ -1,0 +1,24 @@
+# xiao-huojian-erlingyiwulingqi-erlingerlingyiyi-pt8
+
+> 标签: JavaScript
+
+## 简介
+
+小火箭 201507-202011 PT8
+
+## 官网
+
+- 官网：https://github.com/apachecn/xiao-huojian-201507-202011-pt8#readme
+- 源码仓库：git+https://github.com/apachecn/xiao-huojian-201507-202011-pt8.git
+- npm 页面：https://www.npmjs.com/package/xiao-huojian-erlingyiwulingqi-erlingerlingyiyi-pt8
+
+## 历史版本号
+
+- 当前版本：2023.422.0
+
+- 2023.422.0
+
+## 获取地址
+
+- npm 安装：`npm install xiao-huojian-erlingyiwulingqi-erlingerlingyiyi-pt8`
+- npm registry：https://registry.npmjs.org/xiao-huojian-erlingyiwulingqi-erlingerlingyiyi-pt8

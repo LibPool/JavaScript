@@ -1,0 +1,29 @@
+# xre
+
+> 标签: regex, regexp, tagged template literals, template literals, xregexp
+
+## 简介
+
+Template string tag for XRegExp.
+
+## 官网
+
+- 官网：https://github.com/aliceklipper/xre#readme
+- 源码仓库：git+https://github.com/aliceklipper/xre.git
+- npm 页面：https://www.npmjs.com/package/xre
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+
+## 获取地址
+
+- npm 安装：`npm install xre`
+- npm registry：https://registry.npmjs.org/xre

@@ -1,0 +1,31 @@
+# xbroker
+
+> 标签: microservices, middleware, redis, web-socket, ws, xbroker
+
+## 简介
+
+Simple web-socket server that connects any web browser to microservices like KV store, mongo, redis
+
+## 官网
+
+- 官网：https://github.com/xbroker/xbroker#readme
+- 源码仓库：git+https://github.com/xbroker/xbroker.git
+- npm 页面：https://www.npmjs.com/package/xbroker
+
+## 历史版本号
+
+- 当前版本：0.6.3
+
+- 0.4.0
+- 0.4.1
+- 0.4.3
+- 0.5.0
+- 0.6.0
+- 0.6.1
+- 0.6.2
+- 0.6.3
+
+## 获取地址
+
+- npm 安装：`npm install xbroker`
+- npm registry：https://registry.npmjs.org/xbroker
