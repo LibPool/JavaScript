@@ -1,0 +1,27 @@
+# grimoirejs-webvr
+
+> 标签: grimoire
+
+## 简介
+
+The web vr extension for grimoire.js
+
+## 官网
+
+- 官网：https://github.com/GrimoireGL/grimoirejs-webvr#readme
+- 源码仓库：git+https://github.com/GrimoireGL/grimoirejs-webvr.git
+- npm 页面：https://www.npmjs.com/package/grimoirejs-webvr
+
+## 历史版本号
+
+- 当前版本：1.3.0
+
+- 1.0.1
+- 1.2.0
+- 1.2.1
+- 1.3.0
+
+## 获取地址
+
+- npm 安装：`npm install grimoirejs-webvr`
+- npm registry：https://registry.npmjs.org/grimoirejs-webvr

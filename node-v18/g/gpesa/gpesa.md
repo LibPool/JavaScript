@@ -1,0 +1,30 @@
+# gpesa
+
+> 标签: JavaScript
+
+## 简介
+
+Tanzanian Mobile Network Configurations and Matching Functions
+
+## 官网
+
+- 源码仓库：https://github.com/BossBele/gpesa.git
+- npm 页面：https://www.npmjs.com/package/gpesa
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 0.0.1
+- 0.1.0
+- 0.2.0
+- 0.3.0
+- 0.3.1
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install gpesa`
+- npm registry：https://registry.npmjs.org/gpesa
+- Node 要求：>=10

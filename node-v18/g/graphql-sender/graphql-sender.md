@@ -1,0 +1,25 @@
+# graphql-sender
+
+> 标签: GraphQL
+
+## 简介
+
+A script for conveniently building queries to GraphQL server
+
+## 官网
+
+- 官网：https://github.com/McRain/graphql-client#readme
+- 源码仓库：git+https://github.com/McRain/graphql-client.git
+- npm 页面：https://www.npmjs.com/package/graphql-sender
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install graphql-sender`
+- npm registry：https://registry.npmjs.org/graphql-sender

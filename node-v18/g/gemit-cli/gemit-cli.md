@@ -1,0 +1,33 @@
+# gemit-cli
+
+> 标签: ai, branch, cli, commit, conventional-commits, git
+
+## 简介
+
+CLI para sugerir commit/branch com IA, com config global e fluxo opcional de push
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/gemit-cli
+
+## 历史版本号
+
+- 当前版本：2.3.0
+
+- 1.7.1
+- 1.7.2
+- 1.7.5
+- 1.8.0
+- 1.8.1
+- 1.9.0
+- 2.0.0
+- 2.1.0
+- 2.1.2
+- 2.2.0
+- 2.2.1
+- 2.3.0
+
+## 获取地址
+
+- npm 安装：`npm install gemit-cli`
+- npm registry：https://registry.npmjs.org/gemit-cli

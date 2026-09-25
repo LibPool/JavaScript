@@ -1,0 +1,36 @@
+# gh-commit-history
+
+> 标签: cli, commit-history, commits, contributions, github, plotly, visualization
+
+## 简介
+
+Visualize your GitHub commit history across multiple years as an interactive chart, powered by gh CLI
+
+## 官网
+
+- 官网：https://github.com/ykdojo/gh-commit-history#readme
+- 源码仓库：git+https://github.com/ykdojo/gh-commit-history.git
+- npm 页面：https://www.npmjs.com/package/gh-commit-history
+
+## 历史版本号
+
+- 当前版本：0.6.2
+
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.2.0
+- 0.3.0
+- 0.4.0
+- 0.4.1
+- 0.4.2
+- 0.5.0
+- 0.6.0
+- 0.6.1
+- 0.6.2
+
+## 获取地址
+
+- npm 安装：`npm install gh-commit-history`
+- npm registry：https://registry.npmjs.org/gh-commit-history
+- Node 要求：>=16

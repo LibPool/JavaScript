@@ -1,0 +1,26 @@
+# grunt-jsttojs-micah
+
+> 标签: grunt, gruntplugin, jsttojs
+
+## 简介
+
+Building js template with grunt
+
+## 官网
+
+- 官网：http://upwards.github.com/grunt-jsttojs/
+- 源码仓库：https://github.com/kupriyanenko/grunt-jsttojs.git
+- npm 页面：https://www.npmjs.com/package/grunt-jsttojs-micah
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install grunt-jsttojs-micah`
+- npm registry：https://registry.npmjs.org/grunt-jsttojs-micah
+- Node 要求：>=0.8.0

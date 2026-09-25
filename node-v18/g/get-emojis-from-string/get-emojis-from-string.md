@@ -1,0 +1,31 @@
+# get-emojis-from-string
+
+> 标签: default, discord, emoji, emojis, from, get, string
+
+## 简介
+
+Get Default or Discord emojis from string
+
+## 官网
+
+- 官网：https://github.com/Ivan-Da-Dev/get-emojis-from-string#readme
+- 源码仓库：git+https://github.com/Ivan-Da-Dev/get-emojis-from-string.git
+- npm 页面：https://www.npmjs.com/package/get-emojis-from-string
+
+## 历史版本号
+
+- 当前版本：1.6.1
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 1.4.0
+- 1.5.0
+- 1.5.1
+- 1.6.1
+
+## 获取地址
+
+- npm 安装：`npm install get-emojis-from-string`
+- npm registry：https://registry.npmjs.org/get-emojis-from-string

@@ -1,0 +1,36 @@
+# git-mob-core
+
+> 标签: cli, cli-app, co-author, extreme programming, git, git-duet, git-pair, github, mob programming, pair programming, pairing, social coding, xp
+
+## 简介
+
+Git Mob Core library to manage co-authoring
+
+## 官网
+
+- 官网：https://github.com/rkotze/git-mob/blob/master/packages/git-mob-core/README.md
+- 源码仓库：git+ssh://git@github.com/rkotze/git-mob.git
+- npm 页面：https://www.npmjs.com/package/git-mob-core
+
+## 历史版本号
+
+- 当前版本：0.10.1
+
+- 0.7.0
+- 0.7.0-beta.1
+- 0.8.0
+- 0.8.1
+- 0.8.1-beta.1
+- 0.8.1-beta.2
+- 0.8.2
+- 0.9.0
+- 0.9.1
+- 0.9.2
+- 0.9.2-rc.0
+- 0.9.3
+
+## 获取地址
+
+- npm 安装：`npm install git-mob-core`
+- npm registry：https://registry.npmjs.org/git-mob-core
+- Node 要求：>=16

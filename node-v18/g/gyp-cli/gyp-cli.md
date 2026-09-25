@@ -1,0 +1,25 @@
+# gyp-cli
+
+> 标签: gyp, manager, node
+
+## 简介
+
+npm CLI to create and manage .gyp files
+
+## 官网
+
+- 官网：https://github.com/fraxken/gyp-cli#readme
+- 源码仓库：git+https://github.com/fraxken/gyp-cli.git
+- npm 页面：https://www.npmjs.com/package/gyp-cli
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install gyp-cli`
+- npm registry：https://registry.npmjs.org/gyp-cli
+- Node 要求：>=10

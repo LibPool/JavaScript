@@ -1,0 +1,26 @@
+# gulp-manifest-replace
+
+> 标签: gulp, manifest, replace
+
+## 简介
+
+A gulp plugin that replace specified sources from manifes json.
+
+## 官网
+
+- 官网：https://github.com/j1ngit/gulp-manifest-replace#readme
+- 源码仓库：git://github.com/j1ngit/gulp-manifest-replace.git
+- npm 页面：https://www.npmjs.com/package/gulp-manifest-replace
+
+## 历史版本号
+
+- 当前版本：1.0.1-rc.1
+
+- 1.0.1
+- 1.0.1-rc.1
+
+## 获取地址
+
+- npm 安装：`npm install gulp-manifest-replace`
+- npm registry：https://registry.npmjs.org/gulp-manifest-replace
+- Node 要求：>=0.10

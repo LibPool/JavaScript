@@ -1,0 +1,25 @@
+# grep-mcp-ts
+
+> 标签: ai-assistant, code-search, github, grep, mcp, search, typescript
+
+## 简介
+
+Grep MCP Server - TypeScript implementation for grep.app GitHub code search
+
+## 官网
+
+- 官网：https://github.com/your-username/grep-mcp-ts#readme
+- 源码仓库：git+https://github.com/your-username/grep-mcp-ts.git
+- npm 页面：https://www.npmjs.com/package/grep-mcp-ts
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install grep-mcp-ts`
+- npm registry：https://registry.npmjs.org/grep-mcp-ts
+- Node 要求：>=18.0.0

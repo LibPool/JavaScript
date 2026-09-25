@@ -1,0 +1,25 @@
+# github-shoutouts
+
+> 标签: contributors, github
+
+## 简介
+
+list contributions for your github organisation
+
+## 官网
+
+- 官网：https://github.com/finnp/github-shoutouts#readme
+- 源码仓库：git+https://github.com/finnp/github-shoutouts.git
+- npm 页面：https://www.npmjs.com/package/github-shoutouts
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install github-shoutouts`
+- npm registry：https://registry.npmjs.org/github-shoutouts
