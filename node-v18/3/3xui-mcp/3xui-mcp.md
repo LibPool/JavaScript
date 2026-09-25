@@ -1,0 +1,27 @@
+# 3xui-mcp
+
+> 标签: 3x-ui, 3xui, mcp, model-context-protocol, vpn, xray
+
+## 简介
+
+MCP server exposing 3x-ui panel read operations and inbound/client CRUD to LLM agents, built on 3xui-api-client
+
+## 官网
+
+- 官网：https://github.com/iamhelitha/3xui-mcp#readme
+- 源码仓库：git+https://github.com/iamhelitha/3xui-mcp.git
+- npm 页面：https://www.npmjs.com/package/3xui-mcp
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install 3xui-mcp`
+- npm registry：https://registry.npmjs.org/3xui-mcp
+- Node 要求：>=18.0.0

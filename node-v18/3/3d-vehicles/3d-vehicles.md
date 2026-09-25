@@ -1,0 +1,22 @@
+# 3d-vehicles
+
+> 标签: JavaScript
+
+## 简介
+
+Track vehicles in 3D from 2D detections
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/3d-vehicles
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install 3d-vehicles`
+- npm registry：https://registry.npmjs.org/3d-vehicles
