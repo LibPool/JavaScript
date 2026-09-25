@@ -1,0 +1,23 @@
+# zip-object
+
+> 标签: array, lodash, object, zip
+
+## 简介
+
+Create an object from from arrays of keys and values
+
+## 官网
+
+- 源码仓库：https://github.com/scottcorgan/zip-object.git
+- npm 页面：https://www.npmjs.com/package/zip-object
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install zip-object`
+- npm registry：https://registry.npmjs.org/zip-object

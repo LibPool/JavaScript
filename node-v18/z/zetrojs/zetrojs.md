@@ -1,0 +1,24 @@
+# zetrojs
+
+> 标签: angular, esbuild, jsx, jsx-runtime, react, vue, zetro
+
+## 简介
+
+Zetro - Powerful JSX Runtime
+
+## 官网
+
+- 官网：https://github.com/KhairyK/zetro#readme
+- 源码仓库：git+https://github.com/KhairyK/zetro.git
+- npm 页面：https://www.npmjs.com/package/zetrojs
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install zetrojs`
+- npm registry：https://registry.npmjs.org/zetrojs

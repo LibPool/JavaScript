@@ -1,0 +1,31 @@
+# zstorage-node
+
+> 标签: expiration, localstorage
+
+## 简介
+
+It is the localstorage that has valid time, can use in node
+
+## 官网
+
+- 官网：https://github.com/klren0312/localStorage_hasExpiration/tree/feature/node#readme
+- 源码仓库：git+https://github.com/klren0312/localStorage_hasExpiration.git
+- npm 页面：https://www.npmjs.com/package/zstorage-node
+
+## 历史版本号
+
+- 当前版本：3.2.0
+
+- 1.0.0
+- 2.0.0
+- 2.0.1
+- 2.1.0
+- 2.1.2
+- 2.1.3
+- 3.0.0
+- 3.2.0
+
+## 获取地址
+
+- npm 安装：`npm install zstorage-node`
+- npm registry：https://registry.npmjs.org/zstorage-node

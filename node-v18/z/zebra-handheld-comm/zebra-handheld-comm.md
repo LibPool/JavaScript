@@ -1,0 +1,24 @@
+# zebra-handheld-comm
+
+> 标签: JavaScript
+
+## 简介
+
+Module to use Zebra Scanner in a React Native Expo app
+
+## 官网
+
+- 官网：https://github.com/Shipcom-dev/zebra-handheld-comm#readme
+- 源码仓库：git+https://github.com/Shipcom-dev/zebra-handheld-comm.git
+- npm 页面：https://www.npmjs.com/package/zebra-handheld-comm
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install zebra-handheld-comm`
+- npm registry：https://registry.npmjs.org/zebra-handheld-comm

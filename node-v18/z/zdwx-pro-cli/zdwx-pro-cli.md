@@ -1,0 +1,24 @@
+# zdwx-pro-cli
+
+> 标签: admin, cli, vue, 脚手架
+
+## 简介
+
+一个Vue脚手架
+
+## 官网
+
+- 官网：https://github.com/gaothing/vue-admin-cil#readme
+- 源码仓库：git+https://github.com/gaothing/vue-admin-cil.git
+- npm 页面：https://www.npmjs.com/package/zdwx-pro-cli
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install zdwx-pro-cli`
+- npm registry：https://registry.npmjs.org/zdwx-pro-cli
