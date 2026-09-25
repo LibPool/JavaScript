@@ -1,0 +1,34 @@
+# debounce-button
+
+> 标签: confirm-button, debounce-button, element-ui
+
+## 简介
+
+element-ui 按钮加上loading效果及按钮的二次确认的二次封装
+
+## 官网
+
+- 官网：https://github.com/senbochen/eslint-vue-config
+- 源码仓库：git+https://github.com/senbochen/eslint-vue-config.git
+- npm 页面：https://www.npmjs.com/package/debounce-button
+
+## 历史版本号
+
+- 当前版本：0.4.7
+
+- 0.3.7
+- 0.3.8
+- 0.3.9
+- 0.4.0
+- 0.4.1
+- 0.4.2
+- 0.4.3
+- 0.4.4
+- 0.4.5
+- 0.4.6
+- 0.4.7
+
+## 获取地址
+
+- npm 安装：`npm install debounce-button`
+- npm registry：https://registry.npmjs.org/debounce-button

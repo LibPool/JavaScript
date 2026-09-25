@@ -1,0 +1,32 @@
+# datestone
+
+> 标签: JavaScript
+
+## 简介
+
+Apply a range of dates to a long list of values. Useful for saving on data transfer/bundle size as the "date column" can be removed from the dataset, and applied at run time.
+
+## 官网
+
+- 官网：https://github.com/mbradds/datestone#readme
+- 源码仓库：git+https://github.com/mbradds/datestone.git
+- npm 页面：https://www.npmjs.com/package/datestone
+
+## 历史版本号
+
+- 当前版本：1.0.7
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+
+## 获取地址
+
+- npm 安装：`npm install datestone`
+- npm registry：https://registry.npmjs.org/datestone
+- Node 要求：16.x

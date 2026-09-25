@@ -1,0 +1,24 @@
+# dingtalk-notifier-mcp
+
+> 标签: JavaScript
+
+## 简介
+
+Policy-enforced MCP facade for proactive DingTalk messages through route-selected delivery adapters
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/dingtalk-notifier-mcp
+
+## 历史版本号
+
+- 当前版本：0.6.0
+
+- 0.5.0
+- 0.6.0
+
+## 获取地址
+
+- npm 安装：`npm install dingtalk-notifier-mcp`
+- npm registry：https://registry.npmjs.org/dingtalk-notifier-mcp
+- Node 要求：>=22.13.0

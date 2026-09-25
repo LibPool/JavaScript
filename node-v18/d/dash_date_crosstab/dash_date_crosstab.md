@@ -1,0 +1,23 @@
+# dash_date_crosstab
+
+> 标签: JavaScript
+
+## 简介
+
+A cross-tabular date-displaying Dash component (for Capsida internal website) (WIP)
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/dash_date_crosstab
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install dash_date_crosstab`
+- npm registry：https://registry.npmjs.org/dash_date_crosstab
+- Node 要求：>=8.11.0

@@ -1,0 +1,24 @@
+# decky.gl
+
+> 标签: layer, overlay, visualization, webgl
+
+## 简介
+
+A suite of 3D-enabled data visualization overlays, suitable for react-map-gl
+
+## 官网
+
+- 源码仓库：https://github.com/galleon/decky.gl.git
+- npm 页面：https://www.npmjs.com/package/decky.gl
+
+## 历史版本号
+
+- 当前版本：7.0.0-alpha.6
+
+- 7.0.0-alpha.5
+- 7.0.0-alpha.6
+
+## 获取地址
+
+- npm 安装：`npm install decky.gl`
+- npm registry：https://registry.npmjs.org/decky.gl

@@ -1,0 +1,24 @@
+# darklistown.js
+
+> 标签: API, Bot, Discord, List, Wrapper
+
+## 简介
+
+The main wrapper for Dark Bot List to post server count and shard count
+
+## 官网
+
+- 官网：https://github.com/Discord-DarkList/darklistown.js#readme
+- 源码仓库：git+https://github.com/Discord-DarkList/darklistown.js.git
+- npm 页面：https://www.npmjs.com/package/darklistown.js
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install darklistown.js`
+- npm registry：https://registry.npmjs.org/darklistown.js

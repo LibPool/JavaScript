@@ -1,0 +1,25 @@
+# darwinism
+
+> 标签: atributos, attributes, colors, habilidades, personagens, skills
+
+## 简介
+
+references: https://www.digitalocean.com/community/tutorials/how-to-create-a-node-js-module-pt https://www.alura.com.br/artigos/criando-e-publicando-uma-biblioteca-javascript-no-npm
+
+## 官网
+
+- 官网：https://github.com/ahsouza/darwinism-module-tipergunto#readme
+- 源码仓库：git+https://github.com/ahsouza/darwinism-module-tipergunto.git
+- npm 页面：https://www.npmjs.com/package/darwinism
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install darwinism`
+- npm registry：https://registry.npmjs.org/darwinism

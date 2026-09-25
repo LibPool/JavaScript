@@ -1,0 +1,27 @@
+# dndc-ttmp-analytics
+
+> 标签: miniprogram, wx
+
+## 简介
+
+微信小程序用户数据统计工具
+
+## 官网
+
+- 源码仓库：git@gitlab.chebaba.com:frontend/node-statistics-miniprogram.git
+- npm 页面：https://www.npmjs.com/package/dndc-ttmp-analytics
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install dndc-ttmp-analytics`
+- npm registry：https://registry.npmjs.org/dndc-ttmp-analytics

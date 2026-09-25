@@ -1,0 +1,25 @@
+# degendragon-finance-sdk
+
+> 标签: bunny, matic
+
+## 简介
+
+🛠 An SDK for building applications on top of bunny Finance.
+
+## 官网
+
+- 官网：https://github.com/bunny-finance/bunny-sdk#readme
+- 源码仓库：git+https://github.com/bunny-finance/bunny-sdk.git
+- npm 页面：https://www.npmjs.com/package/degendragon-finance-sdk
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install degendragon-finance-sdk`
+- npm registry：https://registry.npmjs.org/degendragon-finance-sdk
+- Node 要求：>=10

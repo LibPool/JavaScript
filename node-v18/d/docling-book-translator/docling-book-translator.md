@@ -1,0 +1,29 @@
+# docling-book-translator
+
+> 标签: cli, docling, epub, huggingface, offline, pdf, translation
+
+## 简介
+
+Local-first CLI to convert English PDF books to Portuguese (Brazil) EPUB files using Docling and Hugging Face.
+
+## 官网
+
+- 官网：https://github.com/EduardoXavier16/docling-book-translator#readme
+- 源码仓库：git+https://github.com/EduardoXavier16/docling-book-translator.git
+- npm 页面：https://www.npmjs.com/package/docling-book-translator
+
+## 历史版本号
+
+- 当前版本：0.2.2
+
+- 0.1.0
+- 0.1.1
+- 0.2.0
+- 0.2.1
+- 0.2.2
+
+## 获取地址
+
+- npm 安装：`npm install docling-book-translator`
+- npm registry：https://registry.npmjs.org/docling-book-translator
+- Node 要求：>=18.0.0

@@ -1,0 +1,22 @@
+# daytonajs-say
+
+> 标签: events, process, say, speak
+
+## 简介
+
+Speaks text in background when using nodemon and saving source files
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/daytonajs-say
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install daytonajs-say`
+- npm registry：https://registry.npmjs.org/daytonajs-say

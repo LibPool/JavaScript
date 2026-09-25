@@ -1,0 +1,26 @@
+# do-assign
+
+> 标签: JavaScript
+
+## 简介
+
+Merge local values into the host custom element or a remote peer element, when events on the adorned element fire.
+
+## 官网
+
+- 官网：https://github.com/bahrus/do-assign#readme
+- 源码仓库：git+https://github.com/bahrus/do-assign.git
+- npm 页面：https://www.npmjs.com/package/do-assign
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.0
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install do-assign`
+- npm registry：https://registry.npmjs.org/do-assign

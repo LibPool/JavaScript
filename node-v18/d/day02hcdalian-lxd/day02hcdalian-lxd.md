@@ -1,0 +1,22 @@
+# day02hcdalian-lxd
+
+> 标签: day02hcdalian
+
+## 简介
+
+day02hcdalian-lxd - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/day02hcdalian-lxd
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install day02hcdalian-lxd`
+- npm registry：https://registry.npmjs.org/day02hcdalian-lxd

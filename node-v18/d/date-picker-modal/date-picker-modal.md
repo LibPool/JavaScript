@@ -1,0 +1,27 @@
+# date-picker-modal
+
+> 标签: date-picker, modal, persian-date-picker, react
+
+## 简介
+
+A React date picker modal for selecting dates with a Persian calendar
+
+## 官网
+
+- 官网：https://github.com/your-username/date-picker-modal#readme
+- 源码仓库：git+https://github.com/your-username/date-picker-modal.git
+- npm 页面：https://www.npmjs.com/package/date-picker-modal
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install date-picker-modal`
+- npm registry：https://registry.npmjs.org/date-picker-modal

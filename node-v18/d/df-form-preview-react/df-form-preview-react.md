@@ -1,0 +1,26 @@
+# df-form-preview-react
+
+> 标签: components, digital-forms, form, form-builder, preview, react, responsive, typescript, validation
+
+## 简介
+
+A comprehensive React form preview component library with form controls, validation, and responsive design
+
+## 官网
+
+- 官网：https://github.com/your-org/df-form-preview-react#readme
+- 源码仓库：git+https://github.com/your-org/df-form-preview-react.git
+- npm 页面：https://www.npmjs.com/package/df-form-preview-react
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install df-form-preview-react`
+- npm registry：https://registry.npmjs.org/df-form-preview-react
+- Node 要求：>=14.0.0

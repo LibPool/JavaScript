@@ -1,0 +1,24 @@
+# dbb-react-native-pure-notification
+
+> 标签: android, local, notification, simple
+
+## 简介
+
+Local notification for react-native android
+
+## 官网
+
+- 官网：https://github.com/anysome/react-native-pure-notification#readme
+- 源码仓库：git+https://github.com/anysome/react-native-pure-notification.git
+- npm 页面：https://www.npmjs.com/package/dbb-react-native-pure-notification
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install dbb-react-native-pure-notification`
+- npm registry：https://registry.npmjs.org/dbb-react-native-pure-notification
