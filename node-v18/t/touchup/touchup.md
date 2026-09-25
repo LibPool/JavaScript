@@ -1,0 +1,27 @@
+# touchup
+
+> 标签: crop, image, overlay, repeat, scale, tile
+
+## 简介
+
+quick & dirty image manipulation using HTML5 canvas
+
+## 官网
+
+- 官网：https://github.com/deathcap/touchup#readme
+- 源码仓库：git+ssh://git@github.com/deathcap/touchup.git
+- npm 页面：https://www.npmjs.com/package/touchup
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.1
+- 0.1.0
+- 0.1.2
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install touchup`
+- npm registry：https://registry.npmjs.org/touchup

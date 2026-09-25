@@ -1,0 +1,24 @@
+# titl
+
+> 标签: case, format, formatting, human-readable, readable, string, title
+
+## 简介
+
+Converts your string into a readable title
+
+## 官网
+
+- 官网：https://github.com/garrettmac/titl#readme
+- 源码仓库：git+https://github.com/garrettmac/titl.git
+- npm 页面：https://www.npmjs.com/package/titl
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install titl`
+- npm registry：https://registry.npmjs.org/titl

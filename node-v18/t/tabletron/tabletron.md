@@ -1,0 +1,25 @@
+# tabletron
+
+> 标签: cli, columns, readable, responsive, table, typescript, wrapping
+
+## 简介
+
+🎨✨ Transform your terminal output into a clear, easily readable table with just one command! 📊🔍
+
+## 官网
+
+- 官网：https://github.com/nyxblabs/tabletron#readme
+- 源码仓库：git+https://github.com/nyxblabs/tabletron.git
+- npm 页面：https://www.npmjs.com/package/tabletron
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install tabletron`
+- npm registry：https://registry.npmjs.org/tabletron

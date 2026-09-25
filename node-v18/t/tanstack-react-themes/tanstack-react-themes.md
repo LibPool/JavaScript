@@ -1,0 +1,36 @@
+# tanstack-react-themes
+
+> 标签: react, tanstack, tanstack-react-start-themes, tanstack-react-themes, tanstack-start-themes, theme, themes
+
+## 简介
+
+An abstraction for themes in your TanStack Start app
+
+## 官网
+
+- 官网：git+https://github.com/BadgerBloke/tanstack-react-themes.git
+- 源码仓库：git+https://github.com/BadgerBloke/tanstack-react-themes.git
+- npm 页面：https://www.npmjs.com/package/tanstack-react-themes
+
+## 历史版本号
+
+- 当前版本：0.1.16
+
+- 0.1.13
+- 0.1.14
+- 0.1.15
+- 0.1.16
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install tanstack-react-themes`
+- npm registry：https://registry.npmjs.org/tanstack-react-themes
+- Node 要求：>=18

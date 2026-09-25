@@ -1,0 +1,34 @@
+# ticketvr
+
+> 标签: refeicao, saldo, ticket, ticketvr
+
+## 简介
+
+check your ticketVR balance in the command line - Brazilian tickets only
+
+## 官网
+
+- 源码仓库：https://github.com/vitorleal/ticketvr-cli.git
+- npm 页面：https://www.npmjs.com/package/ticketvr
+
+## 历史版本号
+
+- 当前版本：0.3.8
+
+- 0.2.1
+- 0.2.3
+- 0.2.4
+- 0.2.9
+- 0.3.0
+- 0.3.1
+- 0.3.2
+- 0.3.3
+- 0.3.4
+- 0.3.6
+- 0.3.7
+- 0.3.8
+
+## 获取地址
+
+- npm 安装：`npm install ticketvr`
+- npm registry：https://registry.npmjs.org/ticketvr

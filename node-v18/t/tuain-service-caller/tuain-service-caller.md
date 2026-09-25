@@ -1,0 +1,35 @@
+# tuain-service-caller
+
+> 标签: "Tuain, Caller, Framework", Service
+
+## 简介
+
+Tuain Platform Componnent to standarize the way a Framework component is called
+
+## 官网
+
+- 官网：https://bitbucket.org/imixconsulting/tuain_service_caller#readme
+- 源码仓库：git+https://bitbucket.org/imixconsulting/tuain_service_caller.git
+- npm 页面：https://www.npmjs.com/package/tuain-service-caller
+
+## 历史版本号
+
+- 当前版本：1.1.21
+
+- 1.1.18
+- 1.1.19
+- 1.1.2
+- 1.1.20
+- 1.1.21
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.1.6
+- 1.1.7
+- 1.1.8
+- 1.1.9
+
+## 获取地址
+
+- npm 安装：`npm install tuain-service-caller`
+- npm registry：https://registry.npmjs.org/tuain-service-caller

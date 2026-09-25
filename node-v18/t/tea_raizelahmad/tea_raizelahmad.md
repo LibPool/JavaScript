@@ -1,0 +1,24 @@
+# tea_raizelahmad
+
+> 标签: JavaScript
+
+## 简介
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## 官网
+
+- 官网：https://github.com/raizelahmad01/tea_raizelahmad#readme
+- 源码仓库：git+https://github.com/raizelahmad01/tea_raizelahmad.git
+- npm 页面：https://www.npmjs.com/package/tea_raizelahmad
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install tea_raizelahmad`
+- npm registry：https://registry.npmjs.org/tea_raizelahmad

@@ -1,0 +1,22 @@
+# test_pack_hello_version_one
+
+> 标签: nodejstask, testpackage
+
+## 简介
+
+testing package upload to npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/test_pack_hello_version_one
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install test_pack_hello_version_one`
+- npm registry：https://registry.npmjs.org/test_pack_hello_version_one

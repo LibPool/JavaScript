@@ -1,0 +1,35 @@
+# transitive-peerdeps
+
+> 标签: dependency, deps, peerDependency, peerDeps, transitive
+
+## 简介
+
+List and install peerDependencies of your direct dependencies
+
+## 官网
+
+- 官网：https://github.com/alxlchnr/transitive-peerdeps#readme
+- 源码仓库：git+https://github.com/alxlchnr/transitive-peerdeps.git
+- npm 页面：https://www.npmjs.com/package/transitive-peerdeps
+
+## 历史版本号
+
+- 当前版本：0.4.13
+
+- 0.4.10
+- 0.4.11
+- 0.4.12
+- 0.4.13
+- 0.4.2
+- 0.4.3
+- 0.4.4
+- 0.4.5
+- 0.4.6
+- 0.4.7
+- 0.4.8
+- 0.4.9
+
+## 获取地址
+
+- npm 安装：`npm install transitive-peerdeps`
+- npm registry：https://registry.npmjs.org/transitive-peerdeps

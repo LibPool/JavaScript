@@ -1,0 +1,25 @@
+# tailwind-aspect-ratio
+
+> 标签: JavaScript
+
+## 简介
+
+Tailwind plugin for aspect ratio containers
+
+## 官网
+
+- 官网：https://github.com/onedarnleyroad/tailwind-aspect-ratio#readme
+- 源码仓库：git+https://github.com/onedarnleyroad/tailwind-aspect-ratio.git
+- npm 页面：https://www.npmjs.com/package/tailwind-aspect-ratio
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install tailwind-aspect-ratio`
+- npm registry：https://registry.npmjs.org/tailwind-aspect-ratio

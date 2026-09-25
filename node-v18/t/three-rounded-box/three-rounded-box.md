@@ -1,0 +1,25 @@
+# three-rounded-box
+
+> 标签: 3d, box, geometry, javascript, rounded, smooth, threejs
+
+## 简介
+
+Box geometry for three.js with filleted edges
+
+## 官网
+
+- 官网：https://github.com/pailhead/three-rounded-box#readme
+- 源码仓库：git+https://github.com/pailhead/three-rounded-box.git
+- npm 页面：https://www.npmjs.com/package/three-rounded-box
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install three-rounded-box`
+- npm registry：https://registry.npmjs.org/three-rounded-box

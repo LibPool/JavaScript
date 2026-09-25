@@ -1,0 +1,29 @@
+# tailwind-custom-utilities
+
+> 标签: plugin, tailwindcss
+
+## 简介
+
+tailwind plugin
+
+## 官网
+
+- 官网：https://github.com/Ali-Hussein-dev/tailwind-custom-utilities#readme
+- 源码仓库：git+https://github.com/Ali-Hussein-dev/tailwind-custom-utilities.git
+- npm 页面：https://www.npmjs.com/package/tailwind-custom-utilities
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+
+## 获取地址
+
+- npm 安装：`npm install tailwind-custom-utilities`
+- npm registry：https://registry.npmjs.org/tailwind-custom-utilities

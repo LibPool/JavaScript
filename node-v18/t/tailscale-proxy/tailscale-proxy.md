@@ -1,0 +1,36 @@
+# tailscale-proxy
+
+> 标签: dev, discovery, funnel, localhost, localtunnel, ngrok, ngrok-alternative, proxy, reverse-proxy, serve, tailscale, tailscale-funnel, tailscale-serve, tunnel
+
+## 简介
+
+Discover local dev servers by port and expose them through one Tailscale Serve/Funnel entry, routed by project name.
+
+## 官网
+
+- 官网：https://github.com/meabed/tailscale-proxy#readme
+- 源码仓库：git+https://github.com/meabed/tailscale-proxy.git
+- npm 页面：https://www.npmjs.com/package/tailscale-proxy
+
+## 历史版本号
+
+- 当前版本：1.6.2
+
+- 1.0.1
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 1.4.0
+- 1.5.0
+- 1.5.1
+- 1.5.2
+- 1.5.3
+- 1.6.0
+- 1.6.1
+- 1.6.2
+
+## 获取地址
+
+- npm 安装：`npm install tailscale-proxy`
+- npm registry：https://registry.npmjs.org/tailscale-proxy
+- Node 要求：>= 18.0

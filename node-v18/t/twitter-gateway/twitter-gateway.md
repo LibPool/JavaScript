@@ -1,0 +1,29 @@
+# twitter-gateway
+
+> 标签: driver+, simulation, test-bed, twitter
+
+## 简介
+
+A gateway that post tweets, published to the Apache Kafka-based Test-bed, to twitter.
+
+## 官网
+
+- 官网：https://github.com/DRIVER-EU/twitter-gateway#readme
+- 源码仓库：git+https://github.com/DRIVER-EU/twitter-gateway.git
+- npm 页面：https://www.npmjs.com/package/twitter-gateway
+
+## 历史版本号
+
+- 当前版本：0.1.5
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+
+## 获取地址
+
+- npm 安装：`npm install twitter-gateway`
+- npm registry：https://registry.npmjs.org/twitter-gateway

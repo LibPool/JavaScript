@@ -1,0 +1,29 @@
+# tweakpane-json-plugin
+
+> 标签: code-editor, json, tweakpane
+
+## 简介
+
+JSON Plugin for Tweakpane
+
+## 官网
+
+- 官网：https://github.com/Jor-ban/tweakpane-json-plugin#readme
+- 源码仓库：git+https://github.com/Jor-ban/tweakpane-json-plugin.git
+- npm 页面：https://www.npmjs.com/package/tweakpane-json-plugin
+
+## 历史版本号
+
+- 当前版本：0.5.4
+
+- 0.0.0
+- 0.5.0
+- 0.5.1
+- 0.5.2
+- 0.5.3
+- 0.5.4
+
+## 获取地址
+
+- npm 安装：`npm install tweakpane-json-plugin`
+- npm registry：https://registry.npmjs.org/tweakpane-json-plugin

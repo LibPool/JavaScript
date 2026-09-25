@@ -1,0 +1,27 @@
+# treecat
+
+> 标签: cat, cli, file-system, folder-structure, terminal, tree
+
+## 简介
+
+View folder structure like tree and display file contents like cat — all in one CLI.
+
+## 官网
+
+- 官网：https://github.com/nzingx/treecat#readme
+- 源码仓库：git+https://github.com/nzingx/treecat.git
+- npm 页面：https://www.npmjs.com/package/treecat
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install treecat`
+- npm registry：https://registry.npmjs.org/treecat
+- Node 要求：>=16

@@ -1,0 +1,32 @@
+# tart-revocable
+
+> 标签: actor, reference, revocable, tart
+
+## 简介
+
+Tart implementation of a revocable reference
+
+## 官网
+
+- 官网：https://github.com/tristanls/tart-revocable
+- 源码仓库：git@github.com:tristanls/tart-revocable.git
+- npm 页面：https://www.npmjs.com/package/tart-revocable
+
+## 历史版本号
+
+- 当前版本：0.1.8
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+
+## 获取地址
+
+- npm 安装：`npm install tart-revocable`
+- npm registry：https://registry.npmjs.org/tart-revocable

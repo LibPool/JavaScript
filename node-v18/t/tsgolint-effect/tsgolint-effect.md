@@ -1,0 +1,28 @@
+# tsgolint-effect
+
+> 标签: JavaScript
+
+## 简介
+
+Type-aware Effect linter powered by typescript-go, for use with oxlint
+
+## 官网
+
+- 官网：https://github.com/cevr/effect-oxlint#readme
+- 源码仓库：git+https://github.com/cevr/effect-oxlint.git
+- npm 页面：https://www.npmjs.com/package/tsgolint-effect
+
+## 历史版本号
+
+- 当前版本：0.3.2
+
+- 0.1.0
+- 0.2.0
+- 0.3.0
+- 0.3.1
+- 0.3.2
+
+## 获取地址
+
+- npm 安装：`npm install tsgolint-effect`
+- npm registry：https://registry.npmjs.org/tsgolint-effect

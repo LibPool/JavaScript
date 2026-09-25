@@ -1,0 +1,26 @@
+# td-cordova-sdk
+
+> 标签: ecosystem:cordova
+
+## 简介
+
+Treasure Data Mobiles SDKs Plugin for Cordova
+
+## 官网
+
+- 官网：https://github.com/treasure-data/td-cordova-sdk#readme
+- 源码仓库：git+https://github.com/treasure-data/td-cordova-sdk.git
+- npm 页面：https://www.npmjs.com/package/td-cordova-sdk
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.0.1
+- 1.1.0
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install td-cordova-sdk`
+- npm registry：https://registry.npmjs.org/td-cordova-sdk

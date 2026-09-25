@@ -1,0 +1,36 @@
+# tlive
+
+> 标签: ai-coding, claude-code, codex, feishu, monitoring, remote-approval, remote-terminal, telegram, terminal
+
+## 简介
+
+Vendor-neutral, self-hosted remote-approval + live-monitoring layer for Claude Code / Codex (Telegram, Feishu, web terminal + dashboard)
+
+## 官网
+
+- 官网：https://github.com/y49/tlive#readme
+- 源码仓库：git+https://github.com/y49/tlive.git
+- npm 页面：https://www.npmjs.com/package/tlive
+
+## 历史版本号
+
+- 当前版本：5.3.1
+
+- 2.0.0
+- 2.1.0
+- 3.0.0
+- 4.0.0
+- 4.1.0
+- 4.1.1
+- 5.0.0
+- 5.0.1
+- 5.1.0
+- 5.2.0
+- 5.3.0
+- 5.3.1
+
+## 获取地址
+
+- npm 安装：`npm install tlive`
+- npm registry：https://registry.npmjs.org/tlive
+- Node 要求：>=20.0.0

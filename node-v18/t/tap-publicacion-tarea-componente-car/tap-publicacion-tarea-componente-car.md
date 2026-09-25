@@ -1,0 +1,22 @@
+# tap-publicacion-tarea-componente-car
+
+> 标签: CAR, ITSUR, TAP
+
+## 简介
+
+Topicos Componente de GUI que representa un carrito en un formato de Card.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/tap-publicacion-tarea-componente-car
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install tap-publicacion-tarea-componente-car`
+- npm registry：https://registry.npmjs.org/tap-publicacion-tarea-componente-car

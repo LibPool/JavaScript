@@ -1,0 +1,37 @@
+# tencentcloud-sdk-nodejs-sqlserver
+
+> 标签: js, nodejs, qcloud, sdk, tencentcloud, tencentcloudapi
+
+## 简介
+
+腾讯云 API NODEJS SDK
+
+## 官网
+
+- 官网：https://github.com/tencentcloud/tencentcloud-sdk-nodejs#readme
+- 源码仓库：git+https://github.com/tencentcloud/tencentcloud-sdk-nodejs.git
+- npm 页面：https://www.npmjs.com/package/tencentcloud-sdk-nodejs-sqlserver
+
+## 历史版本号
+
+- 当前版本：4.1.260
+
+- 4.1.44
+- 4.1.55
+- 4.1.56
+- 4.1.7
+- 4.1.70
+- 4.1.71
+- 4.1.8
+- 4.1.92
+- 4.1.93
+- 4.1.94
+- 4.1.95
+- 4.1.96
+- 共 688 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install tencentcloud-sdk-nodejs-sqlserver`
+- npm registry：https://registry.npmjs.org/tencentcloud-sdk-nodejs-sqlserver
+- Node 要求：>=10

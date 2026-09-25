@@ -1,0 +1,24 @@
+# tey_lalala
+
+> 标签: tey
+
+## 简介
+
+common.toolkit
+
+## 官网
+
+- 官网：https://github.com/xjn987/tey_lalala#readme
+- 源码仓库：git+https://github.com/xjn987/tey_lalala.git
+- npm 页面：https://www.npmjs.com/package/tey_lalala
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install tey_lalala`
+- npm registry：https://registry.npmjs.org/tey_lalala

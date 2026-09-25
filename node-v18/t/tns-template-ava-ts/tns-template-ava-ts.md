@@ -1,0 +1,32 @@
+# tns-template-ava-ts
+
+> 标签: dewstudio, nativescript, template, tns, typescript, {N}
+
+## 简介
+
+A template for Nativescript core - Typescript app from Andrea Vincenzo Abbondanza
+
+## 官网
+
+- 官网：https://github.com/andreabbondanza/tns-template-ava-ts#readme
+- 源码仓库：git+https://github.com/andreabbondanza/tns-template-ava-ts.git
+- npm 页面：https://www.npmjs.com/package/tns-template-ava-ts
+
+## 历史版本号
+
+- 当前版本：1.0.8
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+
+## 获取地址
+
+- npm 安装：`npm install tns-template-ava-ts`
+- npm registry：https://registry.npmjs.org/tns-template-ava-ts

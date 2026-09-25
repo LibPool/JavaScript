@@ -1,0 +1,25 @@
+# thiings
+
+> 标签: Node.js, core, thiings
+
+## 简介
+
+THi!NGS
+
+## 官网
+
+- 官网：https://github.com/thiings/thiings-js#readme
+- 源码仓库：git+https://github.com/thiings/thiings-js.git
+- npm 页面：https://www.npmjs.com/package/thiings
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install thiings`
+- npm registry：https://registry.npmjs.org/thiings

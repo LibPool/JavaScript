@@ -1,0 +1,25 @@
+# taco-dev-js
+
+> 标签: JavaScript
+
+## 简介
+
+Some stupid things that you can use. Made by Taco.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/taco-dev-js
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install taco-dev-js`
+- npm registry：https://registry.npmjs.org/taco-dev-js

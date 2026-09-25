@@ -1,0 +1,24 @@
+# tea-ajaah
+
+> 标签: JavaScript
+
+## 简介
+
+tea-ajaah
+
+## 官网
+
+- 官网：https://github.com/habibiaja123/tea-ajaah#readme
+- 源码仓库：git+https://github.com/habibiaja123/tea-ajaah.git
+- npm 页面：https://www.npmjs.com/package/tea-ajaah
+
+## 历史版本号
+
+- 当前版本：1.2.1
+
+- 1.2.1
+
+## 获取地址
+
+- npm 安装：`npm install tea-ajaah`
+- npm registry：https://registry.npmjs.org/tea-ajaah

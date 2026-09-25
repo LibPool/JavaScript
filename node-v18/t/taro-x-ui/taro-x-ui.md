@@ -1,0 +1,25 @@
+# taro-x-ui
+
+> 标签: taro, taro-ui, ui
+
+## 简介
+
+taro-x-ui, 一个基于 Taro + React 的第三方组件库
+
+## 官网
+
+- 官网：https://github.com/lexmin0412/taro-xui
+- 源码仓库：git+https://github.com/lexmin0412/taro-xui.git
+- npm 页面：https://www.npmjs.com/package/taro-x-ui
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install taro-x-ui`
+- npm registry：https://registry.npmjs.org/taro-x-ui

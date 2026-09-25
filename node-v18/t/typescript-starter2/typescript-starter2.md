@@ -1,0 +1,24 @@
+# typescript-starter2
+
+> 标签: directive, directives, graphql, validation
+
+## 简介
+
+A package that provides directives to validate GraphQL inputs and arguments.
+
+## 官网
+
+- 官网：https://github.com/adamlesniak/typescript-starter#readme
+- 源码仓库：git+ssh://git@github.com/adamlesniak/typescript-starter.git
+- npm 页面：https://www.npmjs.com/package/typescript-starter2
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install typescript-starter2`
+- npm registry：https://registry.npmjs.org/typescript-starter2

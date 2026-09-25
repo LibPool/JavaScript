@@ -1,0 +1,23 @@
+# trie-hard
+
+> 标签: trie
+
+## 简介
+
+Native JavaScript trie implementation
+
+## 官网
+
+- 源码仓库：git://github.com/BinaryMuse/trie-hard.git
+- npm 页面：https://www.npmjs.com/package/trie-hard
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install trie-hard`
+- npm registry：https://registry.npmjs.org/trie-hard

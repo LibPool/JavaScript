@@ -1,0 +1,25 @@
+# tfp-game-of-life
+
+> 标签: JavaScript
+
+## 简介
+
+game of life behavior driven development with cucumber.js
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/tfp-game-of-life
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 0.0.1
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install tfp-game-of-life`
+- npm registry：https://registry.npmjs.org/tfp-game-of-life
+- Node 要求：>=14.0

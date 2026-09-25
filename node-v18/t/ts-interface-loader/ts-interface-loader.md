@@ -1,0 +1,24 @@
+# ts-interface-loader
+
+> 标签: ts-interface-builder, typechecking, types, typescript, webpack, webpack-loader
+
+## 简介
+
+Webpack support for validating TypeScript definitions at runtime.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/ts-interface-loader
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install ts-interface-loader`
+- npm registry：https://registry.npmjs.org/ts-interface-loader

@@ -1,0 +1,36 @@
+# ts-routeways
+
+> 标签: codecs, querystring, router, routes, routeways, routing, typesafe, typescript
+
+## 简介
+
+Lightweight and type-safe! All-in-one solution to define and consume routes
+
+## 官网
+
+- 官网：https://joselion.github.io/ts-routeways/
+- 源码仓库：git@github.com:JoseLion/ts-routeways.git
+- npm 页面：https://www.npmjs.com/package/ts-routeways
+
+## 历史版本号
+
+- 当前版本：2.1.0
+
+- 1.4.7
+- 1.5.0
+- 1.5.1
+- 1.5.2
+- 1.6.0
+- 1.7.0
+- 1.8.0
+- 1.9.0
+- 2.0.0
+- 2.0.1
+- 2.0.2
+- 2.1.0
+
+## 获取地址
+
+- npm 安装：`npm install ts-routeways`
+- npm registry：https://registry.npmjs.org/ts-routeways
+- Node 要求：>=18

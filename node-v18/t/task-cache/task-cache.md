@@ -1,0 +1,23 @@
+# task-cache
+
+> 标签: cache, functional-programming, typescript
+
+## 简介
+
+A small library implementing a cache layer over remote functions
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/task-cache
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+- 1.1.0-beta.1
+
+## 获取地址
+
+- npm 安装：`npm install task-cache`
+- npm registry：https://registry.npmjs.org/task-cache

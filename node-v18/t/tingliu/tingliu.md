@@ -1,0 +1,24 @@
+# tingliu
+
+> 标签: JavaScript
+
+## 简介
+
+我的模块介绍： 主要功能： 1、问候，自我介绍
+
+## 官网
+
+- 源码仓库：http://github.com
+- npm 页面：https://www.npmjs.com/package/tingliu
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install tingliu`
+- npm registry：https://registry.npmjs.org/tingliu
+- Node 要求：g

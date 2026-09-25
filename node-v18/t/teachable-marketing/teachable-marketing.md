@@ -1,0 +1,26 @@
+# teachable-marketing
+
+> 标签: JavaScript
+
+## 简介
+
+== README
+
+## 官网
+
+- 官网：https://github.com/plemiszki/teachable-marketing#readme
+- 源码仓库：git://github.com/plemiszki/teachable-marketing.git
+- npm 页面：https://www.npmjs.com/package/teachable-marketing
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+- 1.0.0-beta.1
+
+## 获取地址
+
+- npm 安装：`npm install teachable-marketing`
+- npm registry：https://registry.npmjs.org/teachable-marketing
+- Node 要求：^12.14.0

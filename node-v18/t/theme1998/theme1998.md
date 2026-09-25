@@ -1,0 +1,22 @@
+# theme1998
+
+> 标签: WSO2, WSO2 IS, WSO2 Identity Apps, WSO2 Identity Server, theme
+
+## 简介
+
+Theme for web components of WSO2 Identity Server Webapps.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/theme1998
+
+## 历史版本号
+
+- 当前版本：1.1.48
+
+- 1.1.48
+
+## 获取地址
+
+- npm 安装：`npm install theme1998`
+- npm registry：https://registry.npmjs.org/theme1998

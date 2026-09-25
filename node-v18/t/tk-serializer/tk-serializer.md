@@ -1,0 +1,35 @@
+# tk-serializer
+
+> 标签: typescript
+
+## 简介
+
+Typescript/Javascript serializer, with full object reconstruction
+
+## 官网
+
+- 官网：https://code.thunderk.net/tslib/tk-serializer
+- 源码仓库：https://code.thunderk.net/tslib/tk-serializer.git
+- npm 页面：https://www.npmjs.com/package/tk-serializer
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install tk-serializer`
+- npm registry：https://registry.npmjs.org/tk-serializer

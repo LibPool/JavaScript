@@ -1,0 +1,24 @@
+# taksadocs
+
+> 标签: components, docs, generator, lib, taksadocs, ui
+
+## 简介
+
+...
+
+## 官网
+
+- 官网：https://github.com/ManushovRodion/taksadocs
+- 源码仓库：git+https://github.com/ManushovRodion/taksadocs.git
+- npm 页面：https://www.npmjs.com/package/taksadocs
+
+## 历史版本号
+
+- 当前版本：1.0.0-alpha.0
+
+- 1.0.0-alpha.0
+
+## 获取地址
+
+- npm 安装：`npm install taksadocs`
+- npm registry：https://registry.npmjs.org/taksadocs

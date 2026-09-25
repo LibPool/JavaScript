@@ -1,0 +1,26 @@
+# tailbits-js
+
+> 标签: JavaScript
+
+## 简介
+
+A lightweight, framework-agnostic SDK for Tailbits experiences. Components are implemented as Web Components using Lit, with real-time updates over a resilient reconnecting WebSocket (via `reconnecting-websocket`) and background data fetching powered by T
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/tailbits-js
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install tailbits-js`
+- npm registry：https://registry.npmjs.org/tailbits-js

@@ -1,0 +1,28 @@
+# typed-field
+
+> 标签: JavaScript
+
+## 简介
+
+A simple TypeScript library to create a type safe field accessor/mutator in an unknown store.
+
+## 官网
+
+- 官网：https://amgelo563.github.io/typed-field/
+- 源码仓库：git+https://github.com/Amgelo563/typed-field.git
+- npm 页面：https://www.npmjs.com/package/typed-field
+
+## 历史版本号
+
+- 当前版本：1.3.0
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.3.0
+
+## 获取地址
+
+- npm 安装：`npm install typed-field`
+- npm registry：https://registry.npmjs.org/typed-field
+- Node 要求：>=20.0.0

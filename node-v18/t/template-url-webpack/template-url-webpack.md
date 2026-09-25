@@ -1,0 +1,25 @@
+# template-url-webpack
+
+> 标签: loader, template, url, webpack
+
+## 简介
+
+Template loader
+
+## 官网
+
+- 官网：https://github.com/VagnerSilva/template-url#readme
+- 源码仓库：git+https://github.com/VagnerSilva/template-url.git
+- npm 页面：https://www.npmjs.com/package/template-url-webpack
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install template-url-webpack`
+- npm registry：https://registry.npmjs.org/template-url-webpack

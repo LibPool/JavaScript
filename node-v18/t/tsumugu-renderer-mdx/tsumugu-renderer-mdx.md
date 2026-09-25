@@ -1,0 +1,35 @@
+# tsumugu-renderer-mdx
+
+> 标签: JavaScript
+
+## 简介
+
+Executing MDX renderer for Tsumugu. Compiles and evaluates .mdx to static HTML under the operator's --trust declaration (ADR 7).
+
+## 官网
+
+- 源码仓库：git+https://github.com/37108/tsumugu.git
+- npm 页面：https://www.npmjs.com/package/tsumugu-renderer-mdx
+
+## 历史版本号
+
+- 当前版本：0.12.0
+
+- 0.10.0
+- 0.11.0
+- 0.12.0
+- 0.4.0
+- 0.4.1
+- 0.5.0
+- 0.6.0
+- 0.6.1
+- 0.7.0
+- 0.7.1
+- 0.8.0
+- 0.9.0
+
+## 获取地址
+
+- npm 安装：`npm install tsumugu-renderer-mdx`
+- npm registry：https://registry.npmjs.org/tsumugu-renderer-mdx
+- Node 要求：>=24.0.0

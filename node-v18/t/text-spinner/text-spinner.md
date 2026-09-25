@@ -1,0 +1,28 @@
+# text-spinner
+
+> 标签: spin,spinner,spinning,progress,indicator,console
+
+## 简介
+
+Spinning progress indicator for console applications
+
+## 官网
+
+- 官网：https://github.com/alykoshin/text-spinner
+- 源码仓库：https://github.com/alykoshin/text-spinner.git
+- npm 页面：https://www.npmjs.com/package/text-spinner
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install text-spinner`
+- npm registry：https://registry.npmjs.org/text-spinner
+- Node 要求：>=0.10

@@ -1,0 +1,27 @@
+# timeoutable-promise
+
+> 标签: JavaScript
+
+## 简介
+
+simple promise wrapper,support timeout
+
+## 官网
+
+- 官网：https://github.com/ljx0517/timeoutable-promise#readme
+- 源码仓库：git+https://github.com/ljx0517/timeoutable-promise.git
+- npm 页面：https://www.npmjs.com/package/timeoutable-promise
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install timeoutable-promise`
+- npm registry：https://registry.npmjs.org/timeoutable-promise

@@ -1,0 +1,36 @@
+# typeioc
+
+> 标签: container, control, dependency, injection, inversion, ioc, typescript
+
+## 简介
+
+Dependency injection container for node typescript / javascript
+
+## 官网
+
+- 官网：https://github.com/typeioc/typeioc
+- 源码仓库：git+https://github.com/typeioc/typeioc.git
+- npm 页面：https://www.npmjs.com/package/typeioc
+
+## 历史版本号
+
+- 当前版本：3.0.3
+
+- 2.1.1
+- 2.1.2
+- 2.1.3
+- 2.1.4
+- 2.1.5
+- 2.1.6
+- 2.1.7
+- 2.1.8
+- 3.0.0
+- 3.0.1
+- 3.0.2
+- 3.0.3
+
+## 获取地址
+
+- npm 安装：`npm install typeioc`
+- npm registry：https://registry.npmjs.org/typeioc
+- Node 要求：>=10.0.0

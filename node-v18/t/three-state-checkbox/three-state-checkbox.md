@@ -1,0 +1,32 @@
+# three-state-checkbox
+
+> 标签: ecosystem:jquery, jquery-plugin, three-state-checkbox
+
+## 简介
+
+jQuery plugin, which helps selecting and de-selecting group of checkboxes and enabling the action button based on the selection
+
+## 官网
+
+- 官网：https://github.com/sebastiansulinski/three-state-checkbox
+- 源码仓库：git+https://github.com/sebastiansulinski/three-state-checkbox.git
+- npm 页面：https://www.npmjs.com/package/three-state-checkbox
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.3.0
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install three-state-checkbox`
+- npm registry：https://registry.npmjs.org/three-state-checkbox
