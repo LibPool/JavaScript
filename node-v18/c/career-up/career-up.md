@@ -1,0 +1,36 @@
+# career-up
+
+> 标签: career, cli, experience-archiving, job-hunting, resume
+
+## 简介
+
+Career experience archiving & job application management CLI
+
+## 官网
+
+- 官网：https://github.com/ldhldh07/career_up#readme
+- 源码仓库：git+https://github.com/ldhldh07/career_up.git
+- npm 页面：https://www.npmjs.com/package/career-up
+
+## 历史版本号
+
+- 当前版本：0.7.24
+
+- 0.7.20
+- 0.7.21
+- 0.7.22
+- 0.7.23
+- 0.7.24
+- 0.7.3
+- 0.7.4
+- 0.7.5
+- 0.7.6
+- 0.7.7
+- 0.7.8
+- 0.7.9
+
+## 获取地址
+
+- npm 安装：`npm install career-up`
+- npm registry：https://registry.npmjs.org/career-up
+- Node 要求：>=18

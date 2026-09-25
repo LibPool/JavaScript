@@ -1,0 +1,22 @@
+# create-goodthing-boilerplate-site-dev
+
+> 标签: cli, create-app, goodthing, pnpm, sanity, setup, theme
+
+## 简介
+
+CLI to scaffold Our Rivers projects by fetching a single theme from the boiler-plate repo.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/create-goodthing-boilerplate-site-dev
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install create-goodthing-boilerplate-site-dev`
+- npm registry：https://registry.npmjs.org/create-goodthing-boilerplate-site-dev

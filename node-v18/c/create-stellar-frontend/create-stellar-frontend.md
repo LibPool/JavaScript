@@ -1,0 +1,26 @@
+# create-stellar-frontend
+
+> 标签: frontend, react, scaffold, stellar, stellar-indonesia, template, vite
+
+## 简介
+
+Scaffold a new Stellar Indonesia frontend project
+
+## 官网
+
+- 官网：https://github.com/stellarindonesia/create-stellar-frontend#readme
+- 源码仓库：git+https://github.com/stellarindonesia/create-stellar-frontend.git
+- npm 页面：https://www.npmjs.com/package/create-stellar-frontend
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install create-stellar-frontend`
+- npm registry：https://registry.npmjs.org/create-stellar-frontend
+- Node 要求：>=18

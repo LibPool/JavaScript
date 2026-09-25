@@ -1,0 +1,35 @@
+# common-reducers
+
+> 标签: reducers, redux
+
+## 简介
+
+Redux reducers you'll probably need in any webapp.
+
+## 官网
+
+- 官网：https://github.com/luispablo/common-reducers#readme
+- 源码仓库：git+https://github.com/luispablo/common-reducers.git
+- npm 页面：https://www.npmjs.com/package/common-reducers
+
+## 历史版本号
+
+- 当前版本：2.3.1
+
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.3.0
+- 2.0.0
+- 2.0.1
+- 2.1.0
+- 2.1.1
+- 2.2.0
+- 2.2.1
+- 2.3.0
+- 2.3.1
+
+## 获取地址
+
+- npm 安装：`npm install common-reducers`
+- npm registry：https://registry.npmjs.org/common-reducers

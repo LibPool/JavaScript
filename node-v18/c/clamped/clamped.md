@@ -1,0 +1,22 @@
+# clamped
+
+> 标签: JavaScript
+
+## 简介
+
+clamped - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/clamped
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install clamped`
+- npm registry：https://registry.npmjs.org/clamped

@@ -1,0 +1,25 @@
+# chillypotato-plugins
+
+> 标签: addons, plugins, recipes
+
+## 简介
+
+Official plugins and recipes for ChillyPotato
+
+## 官网
+
+- 官网：https://github.com/chillypotato/chillypotato#readme
+- 源码仓库：git+https://github.com/chillypotato/chillypotato.git
+- npm 页面：https://www.npmjs.com/package/chillypotato-plugins
+
+## 历史版本号
+
+- 当前版本：2.0.2
+
+- 2.0.1
+- 2.0.2
+
+## 获取地址
+
+- npm 安装：`npm install chillypotato-plugins`
+- npm registry：https://registry.npmjs.org/chillypotato-plugins

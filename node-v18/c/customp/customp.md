@@ -1,0 +1,29 @@
+# customp
+
+> 标签: -
+
+## 简介
+
+-
+
+## 官网
+
+- 官网：https://github.com/EldarTSoft/testsomething#readme
+- 源码仓库：git+https://github.com/EldarTSoft/testsomething.git
+- npm 页面：https://www.npmjs.com/package/customp
+
+## 历史版本号
+
+- 当前版本：0.2.3
+
+- 0.0.1
+- 0.0.12
+- 0.2.1
+- 0.2.2
+- 0.2.3
+
+## 获取地址
+
+- npm 安装：`npm install customp`
+- npm registry：https://registry.npmjs.org/customp
+- Node 要求：>=4.2.4

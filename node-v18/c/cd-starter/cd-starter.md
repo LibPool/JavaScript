@@ -1,0 +1,22 @@
+# cd-starter
+
+> 标签: angular, angular-material, bootstrap, codedungeon, es6, eslint, javascript, js, karma, mocha, starter, webpack
+
+## 简介
+
+CodeDungeon JS Starter
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/cd-starter
+
+## 历史版本号
+
+- 当前版本：0.3.1
+
+- 0.3.1
+
+## 获取地址
+
+- npm 安装：`npm install cd-starter`
+- npm registry：https://registry.npmjs.org/cd-starter

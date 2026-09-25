@@ -1,0 +1,34 @@
+# create-restroom
+
+> 标签: JavaScript
+
+## 简介
+
+Create a restroom-mw powered app with one command
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/create-restroom
+
+## 历史版本号
+
+- 当前版本：0.13.0
+
+- 0.13.1-c16e462.76
+- 0.13.1-c26cfde.53
+- 0.13.1-c7a63be.40
+- 0.13.1-cd3a085.74
+- 0.13.1-cfa0f9b.44
+- 0.13.1-d453a3d.67
+- 0.13.1-d5956ce.62
+- 0.13.1-dc28fc2.106
+- 0.13.1-e20f69a.78
+- 0.13.1-ec9eb62.77
+- 0.13.1-ece5147.80
+- 0.13.1-f083d5a.117
+- 共 111 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install create-restroom`
+- npm registry：https://registry.npmjs.org/create-restroom

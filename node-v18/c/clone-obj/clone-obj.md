@@ -1,0 +1,24 @@
+# clone-obj
+
+> 标签: JavaScript
+
+## 简介
+
+Clone object with circular references, property descriptors, non-enumerable properties and more.
+
+## 官网
+
+- 官网：https://github.com/chrisyip/node-clone-object#readme
+- 源码仓库：git+https://github.com/chrisyip/node-clone-object.git
+- npm 页面：https://www.npmjs.com/package/clone-obj
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install clone-obj`
+- npm registry：https://registry.npmjs.org/clone-obj

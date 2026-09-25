@@ -1,0 +1,27 @@
+# craco
+
+> 标签: async, cross, cross-spawn, spawn
+
+## 简介
+
+high level api for interacting with webpack config
+
+## 官网
+
+- 官网：https://github.com/codejamninja/craco
+- 源码仓库：https://github.com/codejamninja/craco
+- npm 页面：https://www.npmjs.com/package/craco
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install craco`
+- npm registry：https://registry.npmjs.org/craco
+- Node 要求：>=6.0.0

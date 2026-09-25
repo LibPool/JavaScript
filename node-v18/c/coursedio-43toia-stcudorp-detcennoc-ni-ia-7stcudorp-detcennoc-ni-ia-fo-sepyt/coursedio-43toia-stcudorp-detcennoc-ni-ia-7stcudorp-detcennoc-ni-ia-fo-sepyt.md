@@ -1,0 +1,22 @@
+# coursedio-43toia-stcudorp-detcennoc-ni-ia-7stcudorp-detcennoc-ni-ia-fo-sepyt
+
+> 标签: JavaScript
+
+## 简介
+
+coursedio-43toia-stcudorp-detcennoc-ni-ia-7stcudorp-detcennoc-ni-ia-fo-sepyt - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/coursedio-43toia-stcudorp-detcennoc-ni-ia-7stcudorp-detcennoc-ni-ia-fo-sepyt
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install coursedio-43toia-stcudorp-detcennoc-ni-ia-7stcudorp-detcennoc-ni-ia-fo-sepyt`
+- npm registry：https://registry.npmjs.org/coursedio-43toia-stcudorp-detcennoc-ni-ia-7stcudorp-detcennoc-ni-ia-fo-sepyt

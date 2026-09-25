@@ -1,0 +1,37 @@
+# cordova-plugin-iosrtc
+
+> 标签: cordova, cordova-ios, cordova:plugin, ecosystem:cordova, ios, webrtc
+
+## 简介
+
+Cordova iOS plugin exposing the full WebRTC W3C JavaScript APIs
+
+## 官网
+
+- 官网：https://github.com/cordova-rtc/cordova-plugin-iosrtc
+- 源码仓库：git+https://github.com/cordova-rtc/cordova-plugin-iosrtc.git
+- npm 页面：https://www.npmjs.com/package/cordova-plugin-iosrtc
+
+## 历史版本号
+
+- 当前版本：8.0.4
+
+- 6.0.3
+- 6.0.4
+- 6.0.5
+- 6.0.6
+- 6.0.7
+- 6.0.8
+- 6.0.9
+- 8.0.0
+- 8.0.1
+- 8.0.2
+- 8.0.3
+- 8.0.4
+- 共 61 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install cordova-plugin-iosrtc`
+- npm registry：https://registry.npmjs.org/cordova-plugin-iosrtc
+- Node 要求：{'name': 'cordova-ios', 'version': '>=5.0.1'}

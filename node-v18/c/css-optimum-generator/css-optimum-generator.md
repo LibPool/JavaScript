@@ -1,0 +1,24 @@
+# css-optimum-generator
+
+> 标签: css selection, css selector, css-extractor, css-selector, manishwaran
+
+## 简介
+
+Module for finding relative css-selector
+
+## 官网
+
+- 官网：https://github.com/manishwaran/css-selector#readme
+- 源码仓库：git+https://github.com/manishwaran/css-selector.git
+- npm 页面：https://www.npmjs.com/package/css-optimum-generator
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install css-optimum-generator`
+- npm registry：https://registry.npmjs.org/css-optimum-generator

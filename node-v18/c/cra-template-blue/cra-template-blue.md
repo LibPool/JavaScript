@@ -1,0 +1,35 @@
+# cra-template-blue
+
+> 标签: blue, cra, create-react-app, react, template
+
+## 简介
+
+Blue React template for Create React App
+
+## 官网
+
+- 官网：https://github.com/bruegmann/cra-template-blue#readme
+- 源码仓库：git+https://github.com/bruegmann/cra-template-blue.git
+- npm 页面：https://www.npmjs.com/package/cra-template-blue
+
+## 历史版本号
+
+- 当前版本：9.0.1
+
+- 1.2.0
+- 1.2.1
+- 1.3.0
+- 1.4.0
+- 1.5.0
+- 7.5.0
+- 8.0.0
+- 8.0.1
+- 8.0.2
+- 8.1.0
+- 9.0.0
+- 9.0.1
+
+## 获取地址
+
+- npm 安装：`npm install cra-template-blue`
+- npm registry：https://registry.npmjs.org/cra-template-blue

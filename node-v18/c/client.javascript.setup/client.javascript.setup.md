@@ -1,0 +1,24 @@
+# client.javascript.setup
+
+> 标签: JavaScript
+
+## 简介
+
+Setup project for all JavaScript client projects. Reusable setup.
+
+## 官网
+
+- 官网：https://github.com/Cratis/Client.JavaScript.Setup#readme
+- 源码仓库：git+https://github.com/Cratis/Client.JavaScript.Setup.git
+- npm 页面：https://www.npmjs.com/package/client.javascript.setup
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install client.javascript.setup`
+- npm registry：https://registry.npmjs.org/client.javascript.setup

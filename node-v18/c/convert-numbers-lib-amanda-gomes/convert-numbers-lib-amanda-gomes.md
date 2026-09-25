@@ -1,0 +1,24 @@
+# convert-numbers-lib-amanda-gomes
+
+> 标签: JavaScript
+
+## 简介
+
+Conversor de algarismos romanos para arábicos (e vice-versa).
+
+## 官网
+
+- 官网：https://github.com/amanda-gomes/convert-numbers-lib#readme
+- 源码仓库：git+https://github.com/amanda-gomes/convert-numbers-lib.git
+- npm 页面：https://www.npmjs.com/package/convert-numbers-lib-amanda-gomes
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install convert-numbers-lib-amanda-gomes`
+- npm registry：https://registry.npmjs.org/convert-numbers-lib-amanda-gomes

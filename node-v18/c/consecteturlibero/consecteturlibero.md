@@ -1,0 +1,32 @@
+# consecteturlibero
+
+> 标签: amet, css modules, declare, possimus, qui, recusandae, sass, typescript
+
+## 简介
+
+PostCSS plugin generates `.d.ts` for all processed style sheets
+
+## 官网
+
+- 官网：https://github.com/PriceJacobs/consecteturlibero#readme
+- 源码仓库：git+https://github.com/PriceJacobs/consecteturlibero.git
+- npm 页面：https://www.npmjs.com/package/consecteturlibero
+
+## 历史版本号
+
+- 当前版本：1.5.0
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.2.1
+- 1.3.0
+- 1.4.0
+- 1.4.1
+- 1.5.0
+
+## 获取地址
+
+- npm 安装：`npm install consecteturlibero`
+- npm registry：https://registry.npmjs.org/consecteturlibero
+- Node 要求：>=10.0.0

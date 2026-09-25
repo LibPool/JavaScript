@@ -1,0 +1,22 @@
+# cartdemo_training_ravilohan
+
+> 标签: cart, demo, ravilohan
+
+## 简介
+
+a demo for npm package
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/cartdemo_training_ravilohan
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install cartdemo_training_ravilohan`
+- npm registry：https://registry.npmjs.org/cartdemo_training_ravilohan

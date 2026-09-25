@@ -1,0 +1,24 @@
+# clyra-loader
+
+> 标签: JavaScript
+
+## 简介
+
+**Official Repository for the SEAL Loader Script**
+
+## 官网
+
+- 官网：https://github.com/gc-nexora/clyra-loader#readme
+- 源码仓库：git+https://github.com/gc-nexora/clyra-loader.git
+- npm 页面：https://www.npmjs.com/package/clyra-loader
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install clyra-loader`
+- npm registry：https://registry.npmjs.org/clyra-loader

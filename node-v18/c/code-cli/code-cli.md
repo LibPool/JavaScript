@@ -1,0 +1,25 @@
+# code-cli
+
+> 标签: cli, code, init
+
+## 简介
+
+code init tool
+
+## 官网
+
+- 官网：https://github.com/dj-fe/code-cli#readme
+- 源码仓库：git+https://github.com/dj-fe/code-cli.git
+- npm 页面：https://www.npmjs.com/package/code-cli
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install code-cli`
+- npm registry：https://registry.npmjs.org/code-cli
+- Node 要求：>=4.0.0

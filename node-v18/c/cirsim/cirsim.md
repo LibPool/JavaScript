@@ -1,0 +1,33 @@
+# cirsim
+
+> 标签: Circuits, Computer Architecture, Education
+
+## 简介
+
+Cirsim Circuit Simulator
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/cirsim
+
+## 历史版本号
+
+- 当前版本：2.1.17
+
+- 2.1.13
+- 2.1.14
+- 2.1.15
+- 2.1.16
+- 2.1.17
+- 2.1.2
+- 2.1.3
+- 2.1.4
+- 2.1.5
+- 2.1.6
+- 2.1.8
+- 2.1.9
+
+## 获取地址
+
+- npm 安装：`npm install cirsim`
+- npm registry：https://registry.npmjs.org/cirsim

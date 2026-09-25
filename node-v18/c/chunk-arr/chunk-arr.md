@@ -1,0 +1,29 @@
+# chunk-arr
+
+> 标签: array, chunk, group, seperate, slice, split, utility
+
+## 简介
+
+A collection of utility functions to split an array into chunks by size or certain condition
+
+## 官网
+
+- 官网：https://github.com/nam288/chunk-arr#readme
+- 源码仓库：git+https://github.com/nam288/chunk-arr.git
+- npm 页面：https://www.npmjs.com/package/chunk-arr
+
+## 历史版本号
+
+- 当前版本：2.1.2
+
+- 1.0.2
+- 2.0.0
+- 2.1.0
+- 2.1.1
+- 2.1.2
+
+## 获取地址
+
+- npm 安装：`npm install chunk-arr`
+- npm registry：https://registry.npmjs.org/chunk-arr
+- Node 要求：>=10

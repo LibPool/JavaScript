@@ -1,0 +1,26 @@
+# coorpacademy-www-static
+
+> 标签: JavaScript
+
+## 简介
+
+Static Coorporate WebSite
+
+## 官网
+
+- 官网：https://github.com/CoorpAcademy/coorpacademy-www-static#readme
+- 源码仓库：git+https://github.com/CoorpAcademy/coorpacademy-www-static.git
+- npm 页面：https://www.npmjs.com/package/coorpacademy-www-static
+
+## 历史版本号
+
+- 当前版本：1.1.5
+
+- 1.1.2
+- 1.1.5
+
+## 获取地址
+
+- npm 安装：`npm install coorpacademy-www-static`
+- npm registry：https://registry.npmjs.org/coorpacademy-www-static
+- Node 要求：6.5.0

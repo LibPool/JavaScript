@@ -1,0 +1,27 @@
+# code-lens-cli
+
+> 标签: chalk, cli, code-lens, code-reader, dev-utility, developer-tool, file-search, file-viewer, highlight, interactive, nodejs, terminal
+
+## 简介
+
+A powerful Node.js CLI tool to search, view, edit, and delete files and folders directly from the terminal.
+
+## 官网
+
+- 官网：https://github.com/AliAbdullah0/code-lens-cli#readme
+- 源码仓库：git+https://github.com/AliAbdullah0/code-lens-cli.git
+- npm 页面：https://www.npmjs.com/package/code-lens-cli
+
+## 历史版本号
+
+- 当前版本：2.0.2
+
+- 1.0.0
+- 2.0.0
+- 2.0.1
+- 2.0.2
+
+## 获取地址
+
+- npm 安装：`npm install code-lens-cli`
+- npm registry：https://registry.npmjs.org/code-lens-cli

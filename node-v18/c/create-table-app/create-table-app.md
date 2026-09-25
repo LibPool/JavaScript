@@ -1,0 +1,28 @@
+# create-table-app
+
+> 标签: android-tv, cli, create-app, smart-tv, tizen, webos
+
+## 简介
+
+Create a new Table.js Smart TV app in one command
+
+## 官网
+
+- 官网：https://github.com/tablejs/tablejs#readme
+- 源码仓库：git+https://github.com/tablejs/tablejs.git
+- npm 页面：https://www.npmjs.com/package/create-table-app
+
+## 历史版本号
+
+- 当前版本：0.0.5
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+
+## 获取地址
+
+- npm 安装：`npm install create-table-app`
+- npm registry：https://registry.npmjs.org/create-table-app

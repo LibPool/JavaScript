@@ -1,0 +1,27 @@
+# cookiesmonster
+
+> 标签: cookie, cookiemonster, cookieparser, cookies, parse, parsing
+
+## 简介
+
+A small cookie parsing library
+
+## 官网
+
+- 官网：https://github.com/Amanej/cookiemonster#readme
+- 源码仓库：git+https://github.com/Amanej/cookiemonster.git
+- npm 页面：https://www.npmjs.com/package/cookiesmonster
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install cookiesmonster`
+- npm registry：https://registry.npmjs.org/cookiesmonster

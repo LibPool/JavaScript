@@ -1,0 +1,25 @@
+# closevector-readable-stream
+
+> 标签: pipe, readable, stream
+
+## 简介
+
+Streams3, a user-land copy of the stream library from Node.js
+
+## 官网
+
+- 官网：https://github.com/nodejs/readable-stream#readme
+- 源码仓库：git://github.com/nodejs/readable-stream.git
+- npm 页面：https://www.npmjs.com/package/closevector-readable-stream
+
+## 历史版本号
+
+- 当前版本：0.1.0-alpha.1
+
+- 0.1.0-alpha.1
+
+## 获取地址
+
+- npm 安装：`npm install closevector-readable-stream`
+- npm registry：https://registry.npmjs.org/closevector-readable-stream
+- Node 要求：>= 6

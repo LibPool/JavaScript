@@ -1,0 +1,37 @@
+# cosmicjs
+
+> 标签: api, cms, content, headlesscms, nextjs, node, react, reactjs, vue, vuejs
+
+## 简介
+
+The official client module for Cosmic. This module helps you easily add dynamic content to your website or application using the Cosmic headless CMS.
+
+## 官网
+
+- 官网：https://www.cosmicjs.com
+- 源码仓库：git+https://github.com/cosmicjs/cosmicjs-node.git
+- npm 页面：https://www.npmjs.com/package/cosmicjs
+
+## 历史版本号
+
+- 当前版本：4.3.7
+
+- 4.3.1
+- 4.3.2
+- 4.3.3
+- 4.3.4
+- 4.3.5
+- 4.3.6
+- 4.3.7
+- 5.0.1
+- 5.0.2
+- 5.0.3
+- 5.0.4
+- 5.0.5
+- 共 187 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install cosmicjs`
+- npm registry：https://registry.npmjs.org/cosmicjs
+- Node 要求：>=6.0

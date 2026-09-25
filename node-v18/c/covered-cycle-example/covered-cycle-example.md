@@ -1,0 +1,30 @@
+# covered-cycle-example
+
+> 标签: code, coverage, cycle, cycle.js, example, istanbul
+
+## 简介
+
+Example Cycle.js counter demo with parts not covered by test coverage removed
+
+## 官网
+
+- 官网：https://github.com/bahmutov/covered-cycle-example#readme
+- 源码仓库：git+https://github.com/bahmutov/covered-cycle-example.git
+- npm 页面：https://www.npmjs.com/package/covered-cycle-example
+
+## 历史版本号
+
+- 当前版本：1.5.1
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 1.4.0
+- 1.5.0
+- 1.5.1
+
+## 获取地址
+
+- npm 安装：`npm install covered-cycle-example`
+- npm registry：https://registry.npmjs.org/covered-cycle-example

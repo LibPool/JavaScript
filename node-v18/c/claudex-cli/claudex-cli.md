@@ -1,0 +1,23 @@
+# claudex-cli
+
+> 标签: ai, claude, claude-code, cli, mcp, npx, scaffold
+
+## 简介
+
+Scaffold a super .claude folder for any repo — rules, commands, hooks, agents, teams, and more
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/claudex-cli
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install claudex-cli`
+- npm registry：https://registry.npmjs.org/claudex-cli
+- Node 要求：>=18

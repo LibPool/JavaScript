@@ -1,0 +1,25 @@
+# codex-ops-linux-x64-bin
+
+> 标签: JavaScript
+
+## 简介
+
+Prebuilt static codex-ops Rust binary for Linux x64.
+
+## 官网
+
+- 官网：https://github.com/ChenLuoi/codex-ops#readme
+- 源码仓库：git+https://github.com/ChenLuoi/codex-ops.git
+- npm 页面：https://www.npmjs.com/package/codex-ops-linux-x64-bin
+
+## 历史版本号
+
+- 当前版本：0.1.3
+
+- 0.1.2
+- 0.1.3
+
+## 获取地址
+
+- npm 安装：`npm install codex-ops-linux-x64-bin`
+- npm registry：https://registry.npmjs.org/codex-ops-linux-x64-bin

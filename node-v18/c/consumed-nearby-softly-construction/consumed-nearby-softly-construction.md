@@ -1,0 +1,24 @@
+# consumed-nearby-softly-construction
+
+> 标签: consumed-nearby-softly-construction, package-manager, tea
+
+## 简介
+
+Consumed Nearby Softly Construction - This function is used to convert multiple words into an interesting sentence containing the word Consumed Nearby Softly Construction.
+
+## 官网
+
+- 官网：https://github.com/npmtea2024/consumed-nearby-softly-construction#readme
+- 源码仓库：git+https://github.com/npmtea2024/consumed-nearby-softly-construction.git
+- npm 页面：https://www.npmjs.com/package/consumed-nearby-softly-construction
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install consumed-nearby-softly-construction`
+- npm registry：https://registry.npmjs.org/consumed-nearby-softly-construction

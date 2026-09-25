@@ -1,0 +1,23 @@
+# color-picker-artusview
+
+> 标签: JavaScript
+
+## 简介
+
+基于 Vue 的颜色选择器
+
+## 官网
+
+- 官网：https://github.com/zuley/vue-color-picker
+- npm 页面：https://www.npmjs.com/package/color-picker-artusview
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install color-picker-artusview`
+- npm registry：https://registry.npmjs.org/color-picker-artusview

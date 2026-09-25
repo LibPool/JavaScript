@@ -1,0 +1,26 @@
+# create-uivault
+
+> 标签: components, framer-motion, landing-page, react, tailwind, ui, uivault
+
+## 简介
+
+Add beautiful React + Tailwind components to your project. 290+ components, 17 templates.
+
+## 官网
+
+- 官网：https://github.com/your-username/uivault#readme
+- 源码仓库：git+https://github.com/your-username/uivault.git
+- npm 页面：https://www.npmjs.com/package/create-uivault
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install create-uivault`
+- npm registry：https://registry.npmjs.org/create-uivault

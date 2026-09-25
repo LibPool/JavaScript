@@ -1,0 +1,32 @@
+# calendar-schedules-js
+
+> 标签: calendar, events, schedules, vue3-calendar, vue3-vite-calendar
+
+## 简介
+
+An advanced calendar for annotating schedules and efficiently managing important events
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/calendar-schedules-js
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install calendar-schedules-js`
+- npm registry：https://registry.npmjs.org/calendar-schedules-js

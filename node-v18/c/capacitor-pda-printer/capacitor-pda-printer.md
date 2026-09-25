@@ -1,0 +1,25 @@
+# capacitor-pda-printer
+
+> 标签: capacitor, native, pda, plugin, printer
+
+## 简介
+
+Capacitor plugin to integrate PDA printer SDK
+
+## 官网
+
+- 官网：https://bitbucket.infordata.it/projects/~ELAZEM/repos/pda-printer-plugin/browse
+- 源码仓库：https://bitbucket.infordata.it/scm/~elazem/pda-printer-plugin.git
+- npm 页面：https://www.npmjs.com/package/capacitor-pda-printer
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install capacitor-pda-printer`
+- npm registry：https://registry.npmjs.org/capacitor-pda-printer
