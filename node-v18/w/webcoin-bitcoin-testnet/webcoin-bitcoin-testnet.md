@@ -1,0 +1,35 @@
+# webcoin-bitcoin-testnet
+
+> 标签: bitcoin, blockchain, constants, network, webcoin
+
+## 简介
+
+Bitcoin testnet parameters for webcoin
+
+## 官网
+
+- 官网：https://github.com/mappum/webcoin-bitcoin-testnet#readme
+- 源码仓库：git+https://github.com/mappum/webcoin-bitcoin-testnet.git
+- npm 页面：https://www.npmjs.com/package/webcoin-bitcoin-testnet
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.1.0
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.0
+- 1.1.1
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install webcoin-bitcoin-testnet`
+- npm registry：https://registry.npmjs.org/webcoin-bitcoin-testnet

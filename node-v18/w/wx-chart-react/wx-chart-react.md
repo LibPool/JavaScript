@@ -1,0 +1,25 @@
+# wx-chart-react
+
+> 标签: react, wx-chart
+
+## 简介
+
+A react adapter for wx-chart
+
+## 官网
+
+- 官网：https://github.com/xch89820/wx-chart-react#readme
+- 源码仓库：git+https://github.com/xch89820/wx-chart-react.git
+- npm 页面：https://www.npmjs.com/package/wx-chart-react
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install wx-chart-react`
+- npm registry：https://registry.npmjs.org/wx-chart-react

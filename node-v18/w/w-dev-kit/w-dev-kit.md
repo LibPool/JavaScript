@@ -1,0 +1,24 @@
+# w-dev-kit
+
+> 标签: JavaScript
+
+## 简介
+
+A Complete Set Of Tools Needed For Web Development
+
+## 官网
+
+- 官网：https://github.com/ShardulNalegave/web-dev-kit__cli#readme
+- 源码仓库：git+https://github.com/ShardulNalegave/web-dev-kit__cli.git
+- npm 页面：https://www.npmjs.com/package/w-dev-kit
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install w-dev-kit`
+- npm registry：https://registry.npmjs.org/w-dev-kit

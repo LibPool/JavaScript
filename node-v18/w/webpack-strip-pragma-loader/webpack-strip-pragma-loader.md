@@ -1,0 +1,24 @@
+# webpack-strip-pragma-loader
+
+> 标签: block, comments, debug, pragmas, require, requirejs, strip, webpack
+
+## 简介
+
+A webpack loader to strip out code blocks between RequireJS pragma style comments.
+
+## 官网
+
+- 官网：https://github.com/AnalyticalGraphicsInc/strip-pragma-loader
+- 源码仓库：git+https://github.com/Flowm/webpack-strip-pragma-loader.git
+- npm 页面：https://www.npmjs.com/package/webpack-strip-pragma-loader
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install webpack-strip-pragma-loader`
+- npm registry：https://registry.npmjs.org/webpack-strip-pragma-loader

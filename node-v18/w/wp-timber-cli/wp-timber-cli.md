@@ -1,0 +1,30 @@
+# wp-timber-cli
+
+> 标签: timber, twig, wordpress
+
+## 简介
+
+CLI for wordpress and Timber-WP with Twig
+
+## 官网
+
+- 官网：https://github.com/nclud/wp-timber-cli#readme
+- 源码仓库：git+https://github.com/nclud/wp-timber-cli.git
+- npm 页面：https://www.npmjs.com/package/wp-timber-cli
+
+## 历史版本号
+
+- 当前版本：0.4.1
+
+- 0.1.0
+- 0.2.0
+- 0.3.0
+- 0.3.1
+- 0.3.2
+- 0.4.0
+- 0.4.1
+
+## 获取地址
+
+- npm 安装：`npm install wp-timber-cli`
+- npm registry：https://registry.npmjs.org/wp-timber-cli

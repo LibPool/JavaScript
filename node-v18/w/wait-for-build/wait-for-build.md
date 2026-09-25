@@ -1,0 +1,26 @@
+# wait-for-build
+
+> 标签: JavaScript
+
+## 简介
+
+Middleware for building assets on demand.
+
+## 官网
+
+- 官网：https://github.com/tobyn/wait-for-build#readme
+- 源码仓库：git+https://github.com/tobyn/wait-for-build.git
+- npm 页面：https://www.npmjs.com/package/wait-for-build
+
+## 历史版本号
+
+- 当前版本：2.0.1
+
+- 1.0.0
+- 2.0.0
+- 2.0.1
+
+## 获取地址
+
+- npm 安装：`npm install wait-for-build`
+- npm registry：https://registry.npmjs.org/wait-for-build

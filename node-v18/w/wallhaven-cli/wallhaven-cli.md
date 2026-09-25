@@ -1,0 +1,24 @@
+# wallhaven-cli
+
+> 标签: JavaScript
+
+## 简介
+
+Wallhaven-CLI ==============================================================================
+
+## 官网
+
+- 官网：https://github.com/GregSithole/wallhaven-cli#readme
+- 源码仓库：git+https://github.com/GregSithole/wallhaven-cli.git
+- npm 页面：https://www.npmjs.com/package/wallhaven-cli
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install wallhaven-cli`
+- npm registry：https://registry.npmjs.org/wallhaven-cli

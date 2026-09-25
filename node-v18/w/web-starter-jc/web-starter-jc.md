@@ -1,0 +1,31 @@
+# web-starter-jc
+
+> 标签: JustCoded, jc, markup, starter
+
+## 简介
+
+Starter kit for markup projects
+
+## 官网
+
+- 官网：https://github.com/justcoded/web-starter-kit
+- 源码仓库：git+https://github.com/justcoded/web-starter-kit.git
+- npm 页面：https://www.npmjs.com/package/web-starter-jc
+
+## 历史版本号
+
+- 当前版本：5.3.0
+
+- 2.0.2
+- 2.2.0
+- 2.3.0
+- 2.3.3
+- 2.4.0
+- 5.0.0
+- 5.3.0
+
+## 获取地址
+
+- npm 安装：`npm install web-starter-jc`
+- npm registry：https://registry.npmjs.org/web-starter-jc
+- Node 要求：>=10.0.0 <=14.0.0

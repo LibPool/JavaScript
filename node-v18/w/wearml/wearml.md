@@ -1,0 +1,23 @@
+# wearml
+
+> 标签: ASR, hmt-1, realwear, voice, wearml
+
+## 简介
+
+Optimize your web application for voice control on the RealWear HMT-1
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/wearml
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install wearml`
+- npm registry：https://registry.npmjs.org/wearml

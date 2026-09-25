@@ -1,0 +1,25 @@
+# weather-taiwan-timesearch
+
+> 标签: taiwan, weather
+
+## 简介
+
+Search the weather record by time and StationID or longitude/latitude
+
+## 官网
+
+- 官网：https://github.com/wtsai/weather-taiwan-TimeSearch
+- 源码仓库：git+https://github.com/wtsai/weather-taiwan-TimeSearch.git
+- npm 页面：https://www.npmjs.com/package/weather-taiwan-timesearch
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install weather-taiwan-timesearch`
+- npm registry：https://registry.npmjs.org/weather-taiwan-timesearch

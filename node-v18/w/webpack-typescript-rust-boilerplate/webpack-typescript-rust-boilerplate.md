@@ -1,0 +1,26 @@
+# webpack-typescript-rust-boilerplate
+
+> 标签: boilerplate, rust, setup, template, typescript, wasm, wasm-bindgen, webpack
+
+## 简介
+
+Starter project template boilerplate based on Webpack with Rust, Typescript, SASS/PostCSS and babel ES6/7 support.
+
+## 官网
+
+- 官网：https://github.com/lagleki/webpack-typescript-rust-boilerplate#readme
+- 源码仓库：git+ssh://git@github.com/lagleki/webpack-typescript-rust-boilerplate.git
+- npm 页面：https://www.npmjs.com/package/webpack-typescript-rust-boilerplate
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install webpack-typescript-rust-boilerplate`
+- npm registry：https://registry.npmjs.org/webpack-typescript-rust-boilerplate
+- Node 要求：^12 || >=14

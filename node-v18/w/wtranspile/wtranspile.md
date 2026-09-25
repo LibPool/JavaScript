@@ -1,0 +1,36 @@
+# wtranspile
+
+> 标签: Transpilation, beautify, ecmascript, javascript, minifier, minify, minimize, optimize, transpilation strategies, uglify, uglify-es, uglify-js, wTools
+
+## 简介
+
+Aggregator of strategies to transpile JS code. It provides unified programmatic and CL interfaces to transpile/optimize/minimize/beautify code by one or several transpilers in series. More strategies could be added as plugins. Default options of transpila
+
+## 官网
+
+- 官网：https://github.com/Wandalen/wTranspile#readme
+- 源码仓库：git+https://github.com/Wandalen/wTranspile.git
+- npm 页面：https://www.npmjs.com/package/wtranspile
+
+## 历史版本号
+
+- 当前版本：0.3.301
+
+- 0.3.290
+- 0.3.291
+- 0.3.292
+- 0.3.293
+- 0.3.294
+- 0.3.295
+- 0.3.296
+- 0.3.297
+- 0.3.298
+- 0.3.299
+- 0.3.300
+- 0.3.301
+- 共 142 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install wtranspile`
+- npm registry：https://registry.npmjs.org/wtranspile

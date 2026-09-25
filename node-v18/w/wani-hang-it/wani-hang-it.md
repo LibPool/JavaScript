@@ -1,0 +1,29 @@
+# wani-hang-it
+
+> 标签: hangit, wani, wani-hang-it, wanihangit
+
+## 简介
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## 官网
+
+- 官网：https://github.com/hamdanssp07/wanihangit#readme
+- 源码仓库：git+https://github.com/hamdanssp07/wanihangit.git
+- npm 页面：https://www.npmjs.com/package/wani-hang-it
+
+## 历史版本号
+
+- 当前版本：1.1.6
+
+- 0.1.0
+- 1.1.2
+- 1.1.4
+- 1.1.5
+- 1.1.6
+- 20.11.1
+
+## 获取地址
+
+- npm 安装：`npm install wani-hang-it`
+- npm registry：https://registry.npmjs.org/wani-hang-it

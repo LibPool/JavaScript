@@ -1,0 +1,29 @@
+# whatsapp-universal
+
+> 标签: api, cross-platform, messaging, nodejs, universal, whatsapp
+
+## 简介
+
+Un package WhatsApp universel qui fonctionne sur tous les systèmes sans dépendre du navigateur
+
+## 官网
+
+- 官网：https://github.com/yourusername/whatsapp-universal#readme
+- 源码仓库：git+https://github.com/yourusername/whatsapp-universal.git
+- npm 页面：https://www.npmjs.com/package/whatsapp-universal
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install whatsapp-universal`
+- npm registry：https://registry.npmjs.org/whatsapp-universal
+- Node 要求：>=14.0.0

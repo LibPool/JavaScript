@@ -1,0 +1,24 @@
+# webhook-me
+
+> 标签: ci, deploy, nodejs, server, webhook
+
+## 简介
+
+Webhook for deploy applications
+
+## 官网
+
+- 官网：https://github.com/somadl/webhook-me
+- 源码仓库：https://github.com/somadl/webhook-me
+- npm 页面：https://www.npmjs.com/package/webhook-me
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install webhook-me`
+- npm registry：https://registry.npmjs.org/webhook-me

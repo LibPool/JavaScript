@@ -1,0 +1,22 @@
+# waniaazam-rock-paper-scissors
+
+> 标签: JavaScript
+
+## 简介
+
+waniaazam-rock-paper-scissors - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/waniaazam-rock-paper-scissors
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install waniaazam-rock-paper-scissors`
+- npm registry：https://registry.npmjs.org/waniaazam-rock-paper-scissors

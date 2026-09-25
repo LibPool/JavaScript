@@ -1,0 +1,27 @@
+# whacky-elements
+
+> 标签: custom-element, draggable, image, mustache, overlay, web-component
+
+## 简介
+
+Fun web components
+
+## 官网
+
+- 官网：https://github.com/rasmusfrederiksen/whacky-elements#readme
+- 源码仓库：git+https://github.com/rasmusfrederiksen/whacky-elements.git
+- npm 页面：https://www.npmjs.com/package/whacky-elements
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install whacky-elements`
+- npm registry：https://registry.npmjs.org/whacky-elements

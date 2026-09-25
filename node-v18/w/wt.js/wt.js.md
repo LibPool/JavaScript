@@ -1,0 +1,24 @@
+# wt.js
+
+> 标签: track, wt, wt.js, wtjs
+
+## 简介
+
+web-tracking tool
+
+## 官网
+
+- 官网：https://github.com/XiangnianZhou/wt.js#readme
+- 源码仓库：git+https://github.com/XiangnianZhou/wt.js.git
+- npm 页面：https://www.npmjs.com/package/wt.js
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install wt.js`
+- npm registry：https://registry.npmjs.org/wt.js

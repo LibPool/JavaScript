@@ -1,0 +1,24 @@
+# web-to-dat
+
+> 标签: JavaScript
+
+## 简介
+
+Save a website to folder and share via Dat
+
+## 官网
+
+- 官网：https://github.com/joehand/web-to-dat#readme
+- 源码仓库：git+https://github.com/joehand/web-to-dat.git
+- npm 页面：https://www.npmjs.com/package/web-to-dat
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install web-to-dat`
+- npm registry：https://registry.npmjs.org/web-to-dat
