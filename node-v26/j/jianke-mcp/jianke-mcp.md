@@ -1,0 +1,26 @@
+# jianke-mcp
+
+> 标签: ai, chatgpt, claude, health, jianke, mcp, medical, model-context-protocol
+
+## 简介
+
+MCP Server for Jianke Medical Portal - enables AI assistants to query medical health information
+
+## 官网
+
+- 官网：https://github.com/jianke/medical-portal/tree/main/mcp#readme
+- 源码仓库：git+https://github.com/jianke/medical-portal.git
+- npm 页面：https://www.npmjs.com/package/jianke-mcp
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install jianke-mcp`
+- npm registry：https://registry.npmjs.org/jianke-mcp
+- Node 要求：>=18.0.0

@@ -1,0 +1,33 @@
+# icloud-mcp
+
+> 标签: claude, email, icloud, imap, mcp
+
+## 简介
+
+A Model Context Protocol (MCP) server for iCloud Mail
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/icloud-mcp
+
+## 历史版本号
+
+- 当前版本：2.5.1
+
+- 1.5.1
+- 1.6.0
+- 1.7.0
+- 1.8.0
+- 1.8.1
+- 1.9.0
+- 2.0.0
+- 2.2.0
+- 2.3.0
+- 2.4.0
+- 2.5.0
+- 2.5.1
+
+## 获取地址
+
+- npm 安装：`npm install icloud-mcp`
+- npm registry：https://registry.npmjs.org/icloud-mcp

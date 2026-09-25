@@ -1,0 +1,27 @@
+# brand-digitalbooting
+
+> 标签: Booting, Branding, Digital
+
+## 简介
+
+A footer component for indicate if another website is developed of designed for digital booting
+
+## 官网
+
+- 官网：https://gitlab.com/digitalbooting/brandbooting#readme
+- 源码仓库：git+https://gitlab.com/digitalbooting/brandbooting.git
+- npm 页面：https://www.npmjs.com/package/brand-digitalbooting
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install brand-digitalbooting`
+- npm registry：https://registry.npmjs.org/brand-digitalbooting

@@ -1,0 +1,30 @@
+# full-copy
+
+> 标签: copy, copy nested objects, deep, full, javascript, object, types
+
+## 简介
+
+This package allows you to create a copy of a given value. It is especially focused on making deep copies to objects in JavaScript.
+
+## 官网
+
+- 官网：https://github.com/ChristBM/full-copy
+- 源码仓库：git+https://github.com/ChristBM/full-copy.git
+- npm 页面：https://www.npmjs.com/package/full-copy
+
+## 历史版本号
+
+- 当前版本：2.0.1
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 2.0.0
+- 2.0.1
+
+## 获取地址
+
+- npm 安装：`npm install full-copy`
+- npm registry：https://registry.npmjs.org/full-copy
+- Node 要求：>=18

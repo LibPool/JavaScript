@@ -1,0 +1,36 @@
+# @ifc-lite/parser
+
+> 标签: aec, bim, ifc, parser, step
+
+## 简介
+
+IFC/STEP parser for IFC-Lite
+
+## 官网
+
+- 官网：https://ifclite.dev/docs/
+- 源码仓库：git+https://github.com/LTplus-AG/ifc-lite.git
+- npm 页面：https://www.npmjs.com/package/@ifc-lite/parser
+
+## 历史版本号
+
+- 当前版本：8.0.0
+
+- 4.3.2
+- 5.0.0
+- 5.1.0
+- 5.2.0
+- 6.1.0
+- 6.2.1
+- 6.3.0
+- 6.4.0
+- 6.5.0
+- 7.0.0
+- 7.1.0
+- 8.0.0
+- 共 96 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @ifc-lite/parser`
+- npm registry：https://registry.npmjs.org/@ifc-lite/parser

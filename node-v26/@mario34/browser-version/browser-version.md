@@ -1,0 +1,28 @@
+# @mario34/browser-version
+
+> 标签: browser version
+
+## 简介
+
+browser version tool.
+
+## 官网
+
+- 官网：https://github.com/Mario34/browser-version#readme
+- 源码仓库：git+https://github.com/Mario34/browser-version.git
+- npm 页面：https://www.npmjs.com/package/@mario34/browser-version
+
+## 历史版本号
+
+- 当前版本：0.5.0
+
+- 0.1.0
+- 0.2.0
+- 0.3.0
+- 0.4.0
+- 0.5.0
+
+## 获取地址
+
+- npm 安装：`npm install @mario34/browser-version`
+- npm registry：https://registry.npmjs.org/@mario34/browser-version

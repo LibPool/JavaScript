@@ -1,0 +1,35 @@
+# tick-map
+
+> 标签: list, map, seconds, time
+
+## 简介
+
+A bucket list-like data structure for decimal time ticks within a time period
+
+## 官网
+
+- 官网：https://github.com/eoinsha/tick-map#readme
+- 源码仓库：git://github.com/eoinsha/tick-map.git
+- npm 页面：https://www.npmjs.com/package/tick-map
+
+## 历史版本号
+
+- 当前版本：1.10.0
+
+- 1.1.0
+- 1.10.0
+- 1.2.0
+- 1.3.0
+- 1.4.0
+- 1.5.0
+- 1.6.0
+- 1.6.1
+- 1.6.2
+- 1.7.0
+- 1.7.1
+- 1.8.0
+
+## 获取地址
+
+- npm 安装：`npm install tick-map`
+- npm registry：https://registry.npmjs.org/tick-map

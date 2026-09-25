@@ -1,0 +1,30 @@
+# koa-mountify
+
+> 标签: directory, koa, middleware, mount, route
+
+## 简介
+
+mount anything, by directory
+
+## 官网
+
+- 官网：https://github.com/dhcmrlchtdj/koa-mountify
+- 源码仓库：git+https://github.com/dhcmrlchtdj/koa-mountify.git
+- npm 页面：https://www.npmjs.com/package/koa-mountify
+
+## 历史版本号
+
+- 当前版本：0.1.5
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+
+## 获取地址
+
+- npm 安装：`npm install koa-mountify`
+- npm registry：https://registry.npmjs.org/koa-mountify
+- Node 要求：>= 4.0.0

@@ -1,0 +1,23 @@
+# cleverelements-soap
+
+> 标签: api, newsletter, soap, subscriber
+
+## 简介
+
+Use CleverElements SOAP API
+
+## 官网
+
+- 源码仓库：https://github.com/alappe/cleverelements-soap
+- npm 页面：https://www.npmjs.com/package/cleverelements-soap
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install cleverelements-soap`
+- npm registry：https://registry.npmjs.org/cleverelements-soap

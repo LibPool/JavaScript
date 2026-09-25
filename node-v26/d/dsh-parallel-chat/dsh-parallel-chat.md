@@ -1,0 +1,25 @@
+# dsh-parallel-chat
+
+> 标签: cordis, deepseek, deepseek-harness, dsh, dsh-plugin, parallel-chat, sidechat
+
+## 简介
+
+Run isolated, read-only parallel conversations alongside an active DeepSeek Harness agent.
+
+## 官网
+
+- 官网：https://github.com/Glaz-j/dsh-parallel-chat#readme
+- 源码仓库：git+https://github.com/Glaz-j/dsh-parallel-chat.git
+- npm 页面：https://www.npmjs.com/package/dsh-parallel-chat
+
+## 历史版本号
+
+- 当前版本：0.1.0-beta.1
+
+- 0.1.0-beta.1
+
+## 获取地址
+
+- npm 安装：`npm install dsh-parallel-chat`
+- npm registry：https://registry.npmjs.org/dsh-parallel-chat
+- Node 要求：^22.19.0 || >=24.0.0

@@ -1,0 +1,32 @@
+# @stll/aho-corasick-wasm
+
+> 标签: aho-corasick, multi-pattern, napi-rs, rust, string-search, wasm
+
+## 简介
+
+Exact many-pattern string search for browsers via WebAssembly. Same API as @stll/aho-corasick.
+
+## 官网
+
+- 官网：https://github.com/stella/aho-corasick#readme
+- 源码仓库：git+https://github.com/stella/aho-corasick.git
+- npm 页面：https://www.npmjs.com/package/@stll/aho-corasick-wasm
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 1.0.0
+- 1.0.0-rc.1
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @stll/aho-corasick-wasm`
+- npm registry：https://registry.npmjs.org/@stll/aho-corasick-wasm

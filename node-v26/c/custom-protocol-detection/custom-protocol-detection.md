@@ -1,0 +1,25 @@
+# custom-protocol-detection
+
+> 标签: JavaScript
+
+## 简介
+
+Detect whether a custom protocol is available in browser (FF, Chrome, IE8, IE9, IE10, IE11, and Edge)
+
+## 官网
+
+- 官网：https://github.com/ismailhabib/custom-protocol-detection#readme
+- 源码仓库：git+https://github.com/ismailhabib/custom-protocol-detection.git
+- npm 页面：https://www.npmjs.com/package/custom-protocol-detection
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install custom-protocol-detection`
+- npm registry：https://registry.npmjs.org/custom-protocol-detection

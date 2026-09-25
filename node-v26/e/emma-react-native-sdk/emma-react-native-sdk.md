@@ -1,0 +1,35 @@
+# emma-react-native-sdk
+
+> 标签: emma, native, react, react-native
+
+## 简介
+
+React Native EMMA SDK libs and examples
+
+## 官网
+
+- 官网：https://emma.io
+- 源码仓库：git+https://github.com/EMMADevelopment/emma-react-native-sdk.git
+- npm 页面：https://www.npmjs.com/package/emma-react-native-sdk
+
+## 历史版本号
+
+- 当前版本：1.10.0
+
+- 1.5.0
+- 1.5.1
+- 1.6.0
+- 1.6.1
+- 1.7.0
+- 1.7.1
+- 1.8.0
+- 1.8.1
+- 1.8.2
+- 1.8.3
+- 1.8.4
+- 1.9.0
+
+## 获取地址
+
+- npm 安装：`npm install emma-react-native-sdk`
+- npm registry：https://registry.npmjs.org/emma-react-native-sdk

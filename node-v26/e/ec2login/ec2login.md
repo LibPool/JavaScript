@@ -1,0 +1,29 @@
+# ec2login
+
+> 标签: AWS, EC2, SSH
+
+## 简介
+
+SSH login helper for EC2 instances
+
+## 官网
+
+- 官网：https://github.com/taimos/ec2login#readme
+- 源码仓库：git+ssh://git@github.com/taimos/ec2login.git
+- npm 页面：https://www.npmjs.com/package/ec2login
+
+## 历史版本号
+
+- 当前版本：1.5.0
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 1.4.0
+- 1.5.0
+
+## 获取地址
+
+- npm 安装：`npm install ec2login`
+- npm registry：https://registry.npmjs.org/ec2login

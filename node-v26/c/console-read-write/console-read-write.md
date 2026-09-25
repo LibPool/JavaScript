@@ -1,0 +1,26 @@
+# console-read-write
+
+> 标签: cli, console, prompt, readline, util
+
+## 简介
+
+Utilities for reading from and writing to the Node.js console
+
+## 官网
+
+- 官网：https://github.com/assister-ai/console-read-write#readme
+- 源码仓库：git+https://github.com/assister-ai/console-read-write.git
+- npm 页面：https://www.npmjs.com/package/console-read-write
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.0.1
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install console-read-write`
+- npm registry：https://registry.npmjs.org/console-read-write

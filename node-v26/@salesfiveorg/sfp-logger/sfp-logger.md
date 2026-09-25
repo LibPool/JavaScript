@@ -1,0 +1,27 @@
+# @salesfiveorg/sfp-logger
+
+> 标签: logger, salesfive, salesforce, sfp
+
+## 简介
+
+sfp logger library — Salesfive fork of @flxbl-io/sfp-logger
+
+## 官网
+
+- 官网：https://github.com/salesfive/sfp-logger#readme
+- 源码仓库：git+https://github.com/salesfive/sfp-logger.git
+- npm 页面：https://www.npmjs.com/package/@salesfiveorg/sfp-logger
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @salesfiveorg/sfp-logger`
+- npm registry：https://registry.npmjs.org/@salesfiveorg/sfp-logger
+- Node 要求：>=18.0.0

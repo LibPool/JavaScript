@@ -1,0 +1,34 @@
+# @co4/components
+
+> 标签: component, design, library, pattern
+
+## 简介
+
+The component library for the CO4 project.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@co4/components
+
+## 历史版本号
+
+- 当前版本：0.12.22
+
+- 0.12.4
+- 0.12.4-beta.14
+- 0.12.5
+- 0.12.5-beta.15
+- 0.12.6
+- 0.12.6-beta.16
+- 0.12.7-beta.17
+- 0.12.7-beta.18
+- 0.12.8-beta.19
+- 0.12.8-beta.20
+- 0.12.9
+- 0.12.9-beta.21
+- 共 245 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @co4/components`
+- npm registry：https://registry.npmjs.org/@co4/components

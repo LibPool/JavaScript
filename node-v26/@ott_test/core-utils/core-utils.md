@@ -1,0 +1,27 @@
+# @ott_test/core-utils
+
+> 标签: JavaScript
+
+## 简介
+
+Core functionality that is shared among numerous UI components
+
+## 官网
+
+- 官网：https://github.com/opentripplanner/otp-ui#readme
+- 源码仓库：git+https://github.com/opentripplanner/otp-ui.git
+- npm 页面：https://www.npmjs.com/package/@ott_test/core-utils
+
+## 历史版本号
+
+- 当前版本：11.3.2-alpha.0
+
+- 0.0.14-dev
+- 0.1.1
+- 11.3.2-alpha.0
+
+## 获取地址
+
+- npm 安装：`npm install @ott_test/core-utils`
+- npm registry：https://registry.npmjs.org/@ott_test/core-utils
+- Node 要求：>=13

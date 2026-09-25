@@ -1,0 +1,24 @@
+# @ofk/uripath
+
+> 标签: JavaScript
+
+## 简介
+
+uripath provides utilities for node:path compatible uri operation.
+
+## 官网
+
+- 官网：https://github.com/ofk/uripath#readme
+- 源码仓库：git+https://github.com/ofk/uripath.git
+- npm 页面：https://www.npmjs.com/package/@ofk/uripath
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @ofk/uripath`
+- npm registry：https://registry.npmjs.org/@ofk/uripath

@@ -1,0 +1,22 @@
+# nuvidio-video
+
+> 标签: JavaScript
+
+## 简介
+
+Construção da biblioteca webrtc da nuvidio.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/nuvidio-video
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install nuvidio-video`
+- npm registry：https://registry.npmjs.org/nuvidio-video

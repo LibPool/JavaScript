@@ -1,0 +1,34 @@
+# textlint-rule-ja-space-around-link
+
+> 标签: textlint, textlintrule
+
+## 简介
+
+リンクの周りをスペースで囲むかどうかを決めるtextlintルール
+
+## 官网
+
+- 官网：https://github.com/textlint-ja/textlint-rule-preset-ja-spacing
+- 源码仓库：git+https://github.com/textlint-ja/textlint-rule-preset-ja-spacing.git
+- npm 页面：https://www.npmjs.com/package/textlint-rule-ja-space-around-link
+
+## 历史版本号
+
+- 当前版本：3.0.3
+
+- 2.1.0
+- 2.1.2
+- 2.1.3
+- 2.2.0
+- 2.3.1
+- 2.4.1
+- 2.4.2
+- 3.0.0
+- 3.0.1
+- 3.0.2
+- 3.0.3
+
+## 获取地址
+
+- npm 安装：`npm install textlint-rule-ja-space-around-link`
+- npm registry：https://registry.npmjs.org/textlint-rule-ja-space-around-link

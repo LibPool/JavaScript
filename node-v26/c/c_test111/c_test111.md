@@ -1,0 +1,35 @@
+# c_test111
+
+> 标签: JavaScript
+
+## 简介
+
+> TODO: description
+
+## 官网
+
+- 官网：https://gitlab.com/xzdry/lerna_test#readme
+- 源码仓库：git+ssh://git@gitlab.com/xzdry/lerna_test.git
+- npm 页面：https://www.npmjs.com/package/c_test111
+
+## 历史版本号
+
+- 当前版本：0.0.17
+
+- 0.0.13
+- 0.0.14
+- 0.0.15
+- 0.0.15-test.10
+- 0.0.15-test.11
+- 0.0.15-test.4
+- 0.0.15-test.5
+- 0.0.15-test.8
+- 0.0.15-test.9
+- 0.0.16
+- 0.0.17
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install c_test111`
+- npm registry：https://registry.npmjs.org/c_test111

@@ -1,0 +1,28 @@
+# uniter-loader
+
+> 标签: loader, php, uniter, webpack
+
+## 简介
+
+Uniter-Loader - Webpack loader for requiring PHP files from JavaScript with Uniter
+
+## 官网
+
+- 官网：https://github.com/uniter/loader
+- 源码仓库：git+https://github.com/uniter/loader.git
+- npm 页面：https://www.npmjs.com/package/uniter-loader
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install uniter-loader`
+- npm registry：https://registry.npmjs.org/uniter-loader
+- Node 要求：>=8

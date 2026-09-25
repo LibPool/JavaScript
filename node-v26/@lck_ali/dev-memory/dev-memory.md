@@ -1,0 +1,26 @@
+# @lck_ali/dev-memory
+
+> 标签: best-practices, cli, code-snippets, development-tools, devops, knowledge-base, problem-tracking
+
+## 简介
+
+Development Knowledge Base - A CLI tool for managing development knowledge across any tech stack
+
+## 官网
+
+- 官网：https://github.com/your-org/dev-memory#readme
+- 源码仓库：git+https://github.com/your-org/dev-memory.git
+- npm 页面：https://www.npmjs.com/package/@lck_ali/dev-memory
+
+## 历史版本号
+
+- 当前版本：2.1.0
+
+- 2.0.0
+- 2.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @lck_ali/dev-memory`
+- npm registry：https://registry.npmjs.org/@lck_ali/dev-memory
+- Node 要求：>=18.0.0

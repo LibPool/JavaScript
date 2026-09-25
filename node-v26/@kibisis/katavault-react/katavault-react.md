@@ -1,0 +1,32 @@
+# @kibisis/katavault-react
+
+> 标签: JavaScript
+
+## 简介
+
+The React implementation of Katavault that allows dApps to create/import embedded wallets.
+
+## 官网
+
+- 官网：https://github.com/kibis-is/katavault#readme
+- 源码仓库：git+https://github.com/kibis-is/katavault.git
+- npm 页面：https://www.npmjs.com/package/@kibisis/katavault-react
+
+## 历史版本号
+
+- 当前版本：1.5.0
+
+- 1.0.0
+- 1.0.0-beta.1
+- 1.1.0
+- 1.1.0-beta.1
+- 1.1.0-beta.2
+- 1.2.0
+- 1.3.0
+- 1.4.0
+- 1.5.0
+
+## 获取地址
+
+- npm 安装：`npm install @kibisis/katavault-react`
+- npm registry：https://registry.npmjs.org/@kibisis/katavault-react

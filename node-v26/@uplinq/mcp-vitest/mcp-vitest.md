@@ -1,0 +1,34 @@
+# @uplinq/mcp-vitest
+
+> 标签: mcp, model-context-protocol, testing, vitest, watch-mode
+
+## 简介
+
+MCP server for Vitest with watch-mode support for fast test feedback
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@uplinq/mcp-vitest
+
+## 历史版本号
+
+- 当前版本：0.4.4
+
+- 0.3.3
+- 0.3.4
+- 0.3.5
+- 0.3.6
+- 0.3.7
+- 0.3.8
+- 0.3.9
+- 0.4.0
+- 0.4.1
+- 0.4.2
+- 0.4.3
+- 0.4.4
+
+## 获取地址
+
+- npm 安装：`npm install @uplinq/mcp-vitest`
+- npm registry：https://registry.npmjs.org/@uplinq/mcp-vitest
+- Node 要求：>=18.0.0

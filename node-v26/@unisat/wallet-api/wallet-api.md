@@ -1,0 +1,33 @@
+# @unisat/wallet-api
+
+> 标签: api, bitcoin, brc20, inscriptions, runes, unisat, wallet
+
+## 简介
+
+UniSat wallet API client with comprehensive Bitcoin ecosystem support
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@unisat/wallet-api
+
+## 历史版本号
+
+- 当前版本：1.4.0
+
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 1.4.0
+
+## 获取地址
+
+- npm 安装：`npm install @unisat/wallet-api`
+- npm registry：https://registry.npmjs.org/@unisat/wallet-api

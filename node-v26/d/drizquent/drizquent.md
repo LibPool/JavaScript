@@ -1,0 +1,26 @@
+# drizquent
+
+> 标签: drizquent, drizzle, drizzle-orm, eloquent, laravel, migration, mysql, orm, postgres, postgresql, query-builder, schema-builder, sqlite, typescript
+
+## 简介
+
+Eloquent-style ORM for Drizzle — Schema Builder, Artisan CLI, native Drizzle escape hatch
+
+## 官网
+
+- 官网：https://github.com/nazrull/drizquent#readme
+- 源码仓库：git+https://github.com/nazrull/drizquent.git
+- npm 页面：https://www.npmjs.com/package/drizquent
+
+## 历史版本号
+
+- 当前版本：0.3.3
+
+- 0.3.0
+- 0.3.3
+
+## 获取地址
+
+- npm 安装：`npm install drizquent`
+- npm registry：https://registry.npmjs.org/drizquent
+- Node 要求：>=18

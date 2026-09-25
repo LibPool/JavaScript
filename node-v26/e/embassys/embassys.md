@@ -1,0 +1,27 @@
+# embassys
+
+> 标签: JavaScript
+
+## 简介
+
+Local Ambassador for the Embassys agent network
+
+## 官网
+
+- 官网：https://github.com/embassys/ambassador#readme
+- 源码仓库：git+https://github.com/embassys/ambassador.git
+- npm 页面：https://www.npmjs.com/package/embassys
+
+## 历史版本号
+
+- 当前版本：0.2.22
+
+- 0.0.0
+- 0.2.21
+- 0.2.22
+
+## 获取地址
+
+- npm 安装：`npm install embassys`
+- npm registry：https://registry.npmjs.org/embassys
+- Node 要求：>=24.19.0

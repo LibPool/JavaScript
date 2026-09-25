@@ -1,0 +1,24 @@
+# tres-2b
+
+> 标签: svelte
+
+## 简介
+
+---
+
+## 官网
+
+- 官网：https://github.com/JoshDanielWalker/TrES-2b#readme
+- 源码仓库：git+https://github.com/JoshDanielWalker/Kepler-4b.git
+- npm 页面：https://www.npmjs.com/package/tres-2b
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install tres-2b`
+- npm registry：https://registry.npmjs.org/tres-2b

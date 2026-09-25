@@ -1,0 +1,26 @@
+# @pkpass/schema
+
+> 标签: JavaScript
+
+## 简介
+
+This library provides [Zod schemas](https://zod.dev) for [Apple's Wallet Passes format](https://developer.apple.com/documentation/walletpasses/pass) (also known as Passbook Passes, or PKPass).
+
+## 官网
+
+- 官网：https://github.com/cprecioso/pkpass/tree/main/packages/schema#readme
+- 源码仓库：git+https://github.com/cprecioso/pkpass.git
+- npm 页面：https://www.npmjs.com/package/@pkpass/schema
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @pkpass/schema`
+- npm registry：https://registry.npmjs.org/@pkpass/schema

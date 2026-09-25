@@ -1,0 +1,26 @@
+# @solidusnetwork/react-native-quick-crypto
+
+> 标签: android, c++, crypto, cryptocurrency, cryptography, fast, ios, jsi, nitro, quick, react-native, web3
+
+## 简介
+
+A fast implementation of Node's `crypto` module written in C/C++ JSI
+
+## 官网
+
+- 官网：https://github.com/solidus-network/react-native-quick-crypto#readme
+- 源码仓库：git+https://github.com/solidus-network/react-native-quick-crypto.git
+- npm 页面：https://www.npmjs.com/package/@solidusnetwork/react-native-quick-crypto
+
+## 历史版本号
+
+- 当前版本：1.0.17
+
+- 1.0.15
+- 1.0.16
+- 1.0.17
+
+## 获取地址
+
+- npm 安装：`npm install @solidusnetwork/react-native-quick-crypto`
+- npm registry：https://registry.npmjs.org/@solidusnetwork/react-native-quick-crypto

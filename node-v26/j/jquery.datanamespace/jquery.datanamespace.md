@@ -1,0 +1,26 @@
+# jquery.datanamespace
+
+> 标签: attribute, data, jquery, npm
+
+## 简介
+
+Namespaces for jquery data attributes
+
+## 官网
+
+- 官网：https://github.com/gustarus/jquery.datanamespace#readme
+- 源码仓库：git+https://github.com/gustarus/jquery.datanamespace.git
+- npm 页面：https://www.npmjs.com/package/jquery.datanamespace
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install jquery.datanamespace`
+- npm registry：https://registry.npmjs.org/jquery.datanamespace

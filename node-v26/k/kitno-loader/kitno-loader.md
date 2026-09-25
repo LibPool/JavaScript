@@ -1,0 +1,29 @@
+# kitno-loader
+
+> 标签: JavaScript
+
+## 简介
+
+Killing in the namespace of. Stop using the global namespace in favor of modules.
+
+## 官网
+
+- 官网：https://github.com/mavenlink/kitno-loader#readme
+- 源码仓库：git+https://github.com/mavenlink/kitno-loader.git
+- npm 页面：https://www.npmjs.com/package/kitno-loader
+
+## 历史版本号
+
+- 当前版本：0.0.6
+
+- 0.0.0
+- 0.0.1
+- 0.0.3
+- 0.0.4-a
+- 0.0.5
+- 0.0.6
+
+## 获取地址
+
+- npm 安装：`npm install kitno-loader`
+- npm registry：https://registry.npmjs.org/kitno-loader

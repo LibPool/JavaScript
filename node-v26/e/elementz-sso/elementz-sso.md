@@ -1,0 +1,26 @@
+# elementz-sso
+
+> 标签: Elementz, SSO
+
+## 简介
+
+An SSO module for Elementz
+
+## 官网
+
+- 官网：https://github.com/johnnyx3m/elementz-sso#readme
+- 源码仓库：git+https://github.com/johnnyx3m/elementz-sso.git
+- npm 页面：https://www.npmjs.com/package/elementz-sso
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install elementz-sso`
+- npm registry：https://registry.npmjs.org/elementz-sso

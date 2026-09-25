@@ -1,0 +1,33 @@
+# chawan
+
+> 标签: bdd, tdd, test
+
+## 简介
+
+Simple ES module-based testing framework to help you write beautiful code
+
+## 官网
+
+- 源码仓库：https://github.com/andcake/chawan.git
+- npm 页面：https://www.npmjs.com/package/chawan
+
+## 历史版本号
+
+- 当前版本：1.0.10
+
+- 1.0.1
+- 1.0.10
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+
+## 获取地址
+
+- npm 安装：`npm install chawan`
+- npm registry：https://registry.npmjs.org/chawan
+- Node 要求：>=8

@@ -1,0 +1,26 @@
+# @quarks.studio/ui-app
+
+> 标签: JavaScript
+
+## 简介
+
+This application runs independently of Server. It renders the public React components using fixtures, at `/`, `/packages/:packageName` and `/packages/:packageName/:versionPackage`.
+
+## 官网
+
+- 官网：https://github.com/quarksstudio/manager#readme
+- 源码仓库：git+https://github.com/quarksstudio/manager.git
+- npm 页面：https://www.npmjs.com/package/@quarks.studio/ui-app
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.0
+- 0.1.1
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @quarks.studio/ui-app`
+- npm registry：https://registry.npmjs.org/@quarks.studio/ui-app

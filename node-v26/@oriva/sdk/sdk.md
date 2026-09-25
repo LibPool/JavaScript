@@ -1,0 +1,28 @@
+# @oriva/sdk
+
+> 标签: api-client, openapi, oriva, sdk, typescript
+
+## 简介
+
+Typed TypeScript SDK for the Oriva public API. Generated from the OpenAPI v3 spec.
+
+## 官网
+
+- 官网：https://api.oriva.io
+- 源码仓库：git+https://github.com/0riva/o-platform.git
+- npm 页面：https://www.npmjs.com/package/@oriva/sdk
+
+## 历史版本号
+
+- 当前版本：0.4.0
+
+- 0.1.0
+- 0.2.0
+- 0.3.0
+- 0.4.0
+
+## 获取地址
+
+- npm 安装：`npm install @oriva/sdk`
+- npm registry：https://registry.npmjs.org/@oriva/sdk
+- Node 要求：>=18.0.0

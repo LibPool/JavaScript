@@ -1,0 +1,25 @@
+# drupal-react-metatag
+
+> 标签: 8, D8, Drupal, Metadata, Metatag, React, meta, tags
+
+## 简介
+
+This react package maps Drupal 8 Metatag to key-value pair in order to render these metadata via React.
+
+## 官网
+
+- 官网：https://github.com/nerdmj/drupal-react-metatag#readme
+- 源码仓库：git+https://github.com/nerdmj/drupal-react-metatag.git
+- npm 页面：https://www.npmjs.com/package/drupal-react-metatag
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install drupal-react-metatag`
+- npm registry：https://registry.npmjs.org/drupal-react-metatag

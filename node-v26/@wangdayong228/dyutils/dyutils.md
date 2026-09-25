@@ -1,0 +1,22 @@
+# @wangdayong228/dyutils
+
+> 标签: JavaScript
+
+## 简介
+
+@wangdayong228/dyutils - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@wangdayong228/dyutils
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @wangdayong228/dyutils`
+- npm registry：https://registry.npmjs.org/@wangdayong228/dyutils

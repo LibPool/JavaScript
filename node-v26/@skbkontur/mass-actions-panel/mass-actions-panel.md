@@ -1,0 +1,25 @@
+# @skbkontur/mass-actions-panel
+
+> 标签: JavaScript
+
+## 简介
+
+Components for building mass actions panel
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@skbkontur/mass-actions-panel
+
+## 历史版本号
+
+- 当前版本：0.7.3
+
+- 0.7.0
+- 0.7.1
+- 0.7.2
+- 0.7.3
+
+## 获取地址
+
+- npm 安装：`npm install @skbkontur/mass-actions-panel`
+- npm registry：https://registry.npmjs.org/@skbkontur/mass-actions-panel

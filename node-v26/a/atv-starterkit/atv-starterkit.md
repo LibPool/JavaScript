@@ -1,0 +1,36 @@
+# atv-starterkit
+
+> 标签: agentic, agents, copilot, github-copilot, mcp, scaffolding, skills, starter-kit
+
+## 简介
+
+ATV Starter Kit — scaffold a complete GitHub Copilot agentic coding environment into any project
+
+## 官网
+
+- 官网：https://github.com/All-The-Vibes/ATV-StarterKit#readme
+- 源码仓库：git+https://github.com/All-The-Vibes/ATV-StarterKit.git
+- npm 页面：https://www.npmjs.com/package/atv-starterkit
+
+## 历史版本号
+
+- 当前版本：2.6.3
+
+- 2.1.4
+- 2.2.0
+- 2.4.0
+- 2.5.0
+- 2.5.3
+- 2.5.5
+- 2.5.7
+- 2.5.9
+- 2.6.0
+- 2.6.1
+- 2.6.2
+- 2.6.3
+
+## 获取地址
+
+- npm 安装：`npm install atv-starterkit`
+- npm registry：https://registry.npmjs.org/atv-starterkit
+- Node 要求：>=16.0.0

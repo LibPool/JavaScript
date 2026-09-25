@@ -1,0 +1,27 @@
+# bad-line
+
+> 标签: cute, cute-stack, error, plugin, stack
+
+## 简介
+
+Plugin for cute-stack that prints bad line for local source files
+
+## 官网
+
+- 官网：https://github.com/bahmutov/bad-line
+- 源码仓库：https://github.com/bahmutov/bad-line.git
+- npm 页面：https://www.npmjs.com/package/bad-line
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.0.1
+- 0.0.2
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install bad-line`
+- npm registry：https://registry.npmjs.org/bad-line

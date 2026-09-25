@@ -1,0 +1,22 @@
+# @tiledev/onesignal
+
+> 标签: expo, notifications, onesignal, push, react-native, tile, tilepacket
+
+## 简介
+
+OneSignal push notifications for TilePacket apps — real on iOS/Android, no-op on web. Powers audience targeting for the Tile notification center.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@tiledev/onesignal
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @tiledev/onesignal`
+- npm registry：https://registry.npmjs.org/@tiledev/onesignal

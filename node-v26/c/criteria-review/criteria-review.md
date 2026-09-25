@@ -1,0 +1,33 @@
+# criteria-review
+
+> 标签: acceptance-criteria, bdd, gherkin, playwright, qa, traceability
+
+## 简介
+
+Review acceptance criteria across projects, and generate the scenario clauses your tests cite.
+
+## 官网
+
+- 官网：https://github.com/KyleyHarris/criteria-review#readme
+- 源码仓库：git+https://github.com/KyleyHarris/criteria-review.git
+- npm 页面：https://www.npmjs.com/package/criteria-review
+
+## 历史版本号
+
+- 当前版本：0.11.2
+
+- 0.10.0
+- 0.11.1
+- 0.11.2
+- 0.3.0
+- 0.3.2
+- 0.3.3
+- 0.7.1
+- 0.7.2
+- 0.8.0
+
+## 获取地址
+
+- npm 安装：`npm install criteria-review`
+- npm registry：https://registry.npmjs.org/criteria-review
+- Node 要求：>=20

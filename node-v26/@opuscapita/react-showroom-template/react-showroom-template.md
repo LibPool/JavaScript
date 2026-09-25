@@ -1,0 +1,35 @@
+# @opuscapita/react-showroom-template
+
+> 标签: JavaScript
+
+## 简介
+
+Start write new project with no effort.
+
+## 官网
+
+- 官网：https://github.com/OpusCapita/react-showroom-client#readme
+- 源码仓库：git+https://github.com/OpusCapita/react-showroom-client.git
+- npm 页面：https://www.npmjs.com/package/@opuscapita/react-showroom-template
+
+## 历史版本号
+
+- 当前版本：1.4.7
+
+- 1.3.3
+- 1.3.4
+- 1.3.5
+- 1.3.6
+- 1.4.0
+- 1.4.1
+- 1.4.2
+- 1.4.3
+- 1.4.4
+- 1.4.5
+- 1.4.6
+- 1.4.7
+
+## 获取地址
+
+- npm 安装：`npm install @opuscapita/react-showroom-template`
+- npm registry：https://registry.npmjs.org/@opuscapita/react-showroom-template

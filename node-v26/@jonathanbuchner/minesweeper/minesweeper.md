@@ -1,0 +1,26 @@
+# @jonathanbuchner/minesweeper
+
+> 标签: Minesweeper, Typescript
+
+## 简介
+
+Minesweeper typescript project
+
+## 官网
+
+- 官网：https://github.com/JonathanBuchner/Minesweeper#readme
+- 源码仓库：git+https://github.com/JonathanBuchner/Minesweeper.git
+- npm 页面：https://www.npmjs.com/package/@jonathanbuchner/minesweeper
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @jonathanbuchner/minesweeper`
+- npm registry：https://registry.npmjs.org/@jonathanbuchner/minesweeper

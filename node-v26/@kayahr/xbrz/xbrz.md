@@ -1,0 +1,27 @@
+# @kayahr/xbrz
+
+> 标签: assemblyscript, image-processing, image-scaling, pixel-art, pixel-scaling, scaling, typescript, upscaling, wasm, xbrz
+
+## 简介
+
+A high-quality image upscaling filter for creating beautiful HD representations from low-resolution images
+
+## 官网
+
+- 官网：https://github.com/kayahr/xbrz
+- 源码仓库：git+https://github.com/kayahr/xbrz.git
+- npm 页面：https://www.npmjs.com/package/@kayahr/xbrz
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @kayahr/xbrz`
+- npm registry：https://registry.npmjs.org/@kayahr/xbrz

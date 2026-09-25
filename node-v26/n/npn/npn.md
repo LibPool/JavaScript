@@ -1,0 +1,25 @@
+# npn
+
+> 标签: distributed, npm, npn, p2p, package, version
+
+## 简介
+
+Node Package Network - Decentralized Code Deployment - Beyond 'npm'
+
+## 官网
+
+- 官网：https://github.com/automenta/npn
+- 源码仓库：git://github.com/automenta/npn.git
+- npm 页面：https://www.npmjs.com/package/npn
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.0
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install npn`
+- npm registry：https://registry.npmjs.org/npn

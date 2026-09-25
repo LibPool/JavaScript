@@ -1,0 +1,26 @@
+# @nodert-win10-19h1/windows.media.capture
+
+> 标签: AdvancedCapturedPhoto, AdvancedPhotoCapture, AppBroadcastBackgroundService, AppBroadcastBackgroundServiceSignInInfo, AppBroadcastBackgroundServiceStreamInfo, AppBroadcastCameraCaptureState, AppBroadcastCameraCaptureStateChangedEventArgs, AppBroadcastCameraOverlayLocation, AppBroadcastCameraOverlaySize, AppBroadcastCaptureTargetType, AppBroadcastContract, AppBroadcastExitBroadcastModeReason, AppBroadcastGlobalSettings, AppBroadcastHeartbeatRequestedEventArgs, AppBroadcastManager, AppBroadcastMicrophoneCaptureState, AppBroadcastMicrophoneCaptureStateChangedEventArgs, AppBroadcastPlugIn, AppBroadcastPlugInManager, AppBroadcastPlugInState, AppBroadcastPlugInStateChangedEventArgs, AppBroadcastPreview, AppBroadcastPreviewState, AppBroadcastPreviewStateChangedEventArgs, AppBroadcastPreviewStreamReader, AppBroadcastPreviewStreamVideoFrame, AppBroadcastPreviewStreamVideoHeader, AppBroadcastProviderSettings, AppBroadcastServices, AppBroadcastSignInResult, AppBroadcastSignInState, AppBroadcastSignInStateChangedEventArgs, AppBroadcastState, AppBroadcastStreamAudioFrame, AppBroadcastStreamAudioHeader, AppBroadcastStreamReader, AppBroadcastStreamState, AppBroadcastStreamStateChangedEventArgs, AppBroadcastStreamVideoFrame, AppBroadcastStreamVideoHeader, AppBroadcastTerminationReason, AppBroadcastTriggerDetails, AppBroadcastVideoEncodingBitrateMode, AppBroadcastVideoEncodingResolutionMode, AppBroadcastViewerCountChangedEventArgs, AppCapture, AppCaptureAlternateShortcutKeys, AppCaptureContract, AppCaptureDurationGeneratedEventArgs, AppCaptureFileGeneratedEventArgs, AppCaptureHistoricalBufferLengthUnit, AppCaptureManager, AppCaptureMetadataContract, AppCaptureMetadataPriority, AppCaptureMetadataWriter, AppCaptureMicrophoneCaptureState, AppCaptureMicrophoneCaptureStateChangedEventArgs, AppCaptureRecordOperation, AppCaptureRecordingState, AppCaptureRecordingStateChangedEventArgs, AppCaptureServices, AppCaptureSettings, AppCaptureState, AppCaptureVideoEncodingBitrateMode, AppCaptureVideoEncodingFrameRateMode, AppCaptureVideoEncodingResolutionMode, CameraCaptureUI, CameraCaptureUIContract, CameraCaptureUIMaxPhotoResolution, CameraCaptureUIMaxVideoResolution, CameraCaptureUIMode, CameraCaptureUIPhotoCaptureSettings, CameraCaptureUIPhotoFormat, CameraCaptureUIVideoCaptureSettings, CameraCaptureUIVideoFormat, CameraOptionsUI, Capture, CapturedFrame, CapturedFrameControlValues, CapturedPhoto, ForegroundActivationArgument, GameBarCommand, GameBarCommandOrigin, GameBarContract, GameBarServices, GameBarServicesCommandEventArgs, GameBarServicesDisplayMode, GameBarServicesManager, GameBarServicesManagerGameBarServicesCreatedEventArgs, GameBarServicesTargetInfo, GameBarTargetCapturePolicy, KnownVideoProfile, LowLagMediaRecording, LowLagPhotoCapture, LowLagPhotoSequenceCapture, Media, MediaCapture, MediaCaptureDeviceExclusiveControlStatus, MediaCaptureDeviceExclusiveControlStatusChangedEventArgs, MediaCaptureFailedEventArgs, MediaCaptureFocusChangedEventArgs, MediaCaptureInitializationSettings, MediaCaptureMemoryPreference, MediaCapturePauseResult, MediaCaptureSettings, MediaCaptureSharingMode, MediaCaptureStopResult, MediaCaptureThermalStatus, MediaCaptureVideoProfile, MediaCaptureVideoProfileMediaDescription, MediaCategory, MediaStreamType, Microsoft, NodeRT, OptionalReferencePhotoCapturedEventArgs, PhotoCaptureSource, PhotoCapturedEventArgs, PhotoConfirmationCapturedEventArgs, PowerlineFrequency, ScreenCapture, SourceSuspensionChangedEventArgs, StreamingCaptureMode, VideoDeviceCharacteristic, VideoRotation, VideoStreamConfiguration, WhiteBalanceGain, WinRT, Windows, Windows.Media.Capture
+
+## 简介
+
+Use the Windows.Media.Capture UWP API directly from Node.js
+
+## 官网
+
+- 官网：https://github.com/demosjarco/NodeRT/tree/vs2022
+- 源码仓库：git://github.com/demosjarco/NodeRT.git
+- npm 页面：https://www.npmjs.com/package/@nodert-win10-19h1/windows.media.capture
+
+## 历史版本号
+
+- 当前版本：0.1.6
+
+- 0.1.0
+- 0.1.1
+- 0.1.6
+
+## 获取地址
+
+- npm 安装：`npm install @nodert-win10-19h1/windows.media.capture`
+- npm registry：https://registry.npmjs.org/@nodert-win10-19h1/windows.media.capture

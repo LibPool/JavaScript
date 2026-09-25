@@ -1,0 +1,26 @@
+# @kamod-ch/otok-search
+
+> 标签: JavaScript
+
+## 简介
+
+Lightweight full-text search index for Otok apps — CRM company indexing.
+
+## 官网
+
+- 官网：https://github.com/kamod-ch/otok/tree/main/packages/otok-search#readme
+- 源码仓库：git+https://github.com/kamod-ch/otok.git
+- npm 页面：https://www.npmjs.com/package/@kamod-ch/otok-search
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.1.1
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @kamod-ch/otok-search`
+- npm registry：https://registry.npmjs.org/@kamod-ch/otok-search
+- Node 要求：>=20

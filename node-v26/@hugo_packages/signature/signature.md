@@ -1,0 +1,27 @@
+# @hugo_packages/signature
+
+> 标签: author, contact, credits, hire, hugo-dessaud, next, nextjs, react, signature
+
+## 简介
+
+Drop-in author signature for Next.js apps: a clickable contact UI (badge + card) plus a multi-vector build imprint so end users and developers can find & hire Hugo Dessaud.
+
+## 官网
+
+- 官网：https://github.com/H-uG0/Author-signature#readme
+- 源码仓库：git+https://github.com/H-uG0/Author-signature.git
+- npm 页面：https://www.npmjs.com/package/@hugo_packages/signature
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @hugo_packages/signature`
+- npm registry：https://registry.npmjs.org/@hugo_packages/signature
+- Node 要求：>=18.17

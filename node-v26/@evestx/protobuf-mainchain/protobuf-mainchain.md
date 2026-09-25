@@ -1,0 +1,27 @@
+# @evestx/protobuf-mainchain
+
+> 标签: gRPC, mainchain, protobuf
+
+## 简介
+
+eVESTX Mainchain protobuf schemas with methods for encoding and decoding protobuf messages as well as working with gRPC services.
+
+## 官网
+
+- 官网：https://github.com/eVESTXCOIN/protobuf-mainchain#readme
+- 源码仓库：git+https://github.com/eVESTXCOIN/protobuf-mainchain.git
+- npm 页面：https://www.npmjs.com/package/@evestx/protobuf-mainchain
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @evestx/protobuf-mainchain`
+- npm registry：https://registry.npmjs.org/@evestx/protobuf-mainchain

@@ -1,0 +1,25 @@
+# baileysrstw
+
+> 标签: automation, baileys, rust, wasm, webassembly, whatsapp, whatsapp-api, whatsapp-web
+
+## 简介
+
+A Rust-powered WhatsApp Web library for JavaScript, with a Baileys-compatible API
+
+## 官网
+
+- 官网：https://github.com/oxidezap/baileyrs#readme
+- 源码仓库：git+https://github.com/oxidezap/baileyrs.git
+- npm 页面：https://www.npmjs.com/package/baileysrstw
+
+## 历史版本号
+
+- 当前版本：0.0.20
+
+- 0.0.20
+
+## 获取地址
+
+- npm 安装：`npm install baileysrstw`
+- npm registry：https://registry.npmjs.org/baileysrstw
+- Node 要求：>=20.0.0

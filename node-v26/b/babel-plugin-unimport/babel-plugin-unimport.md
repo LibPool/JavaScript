@@ -1,0 +1,25 @@
+# babel-plugin-unimport
+
+> 标签: babel-plugin, unimport
+
+## 简介
+
+remove some libary code on babel build
+
+## 官网
+
+- 官网：https://github.com/tao-zeng/babel-plugin-unimport#readme
+- 源码仓库：git+https://github.com/tao-zeng/babel-plugin-unimport.git
+- npm 页面：https://www.npmjs.com/package/babel-plugin-unimport
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install babel-plugin-unimport`
+- npm registry：https://registry.npmjs.org/babel-plugin-unimport

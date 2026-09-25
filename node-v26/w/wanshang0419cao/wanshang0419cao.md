@@ -1,0 +1,23 @@
+# wanshang0419cao
+
+> 标签: JavaScript
+
+## 简介
+
+wanshang0419cao - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/wanshang0419cao
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install wanshang0419cao`
+- npm registry：https://registry.npmjs.org/wanshang0419cao

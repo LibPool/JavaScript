@@ -1,0 +1,29 @@
+# @theinfluencecompany/ai-cmo
+
+> 标签: aeo, ai-search, brand-visibility, generative-engine-optimization, geo, llm, share-of-voice
+
+## 简介
+
+GeoVouch client — measure whether AI assistants name your brand, know when the evidence can carry a decision, and prove whether what you shipped worked. Bring an API key; the storage, the engines and the statistics are ours.
+
+## 官网
+
+- 官网：https://github.com/theinfluencecompany/geovouch#readme
+- 源码仓库：git+https://github.com/theinfluencecompany/geovouch.git
+- npm 页面：https://www.npmjs.com/package/@theinfluencecompany/ai-cmo
+
+## 历史版本号
+
+- 当前版本：0.8.0
+
+- 0.4.0
+- 0.5.0
+- 0.6.0
+- 0.7.0
+- 0.8.0
+
+## 获取地址
+
+- npm 安装：`npm install @theinfluencecompany/ai-cmo`
+- npm registry：https://registry.npmjs.org/@theinfluencecompany/ai-cmo
+- Node 要求：>=20

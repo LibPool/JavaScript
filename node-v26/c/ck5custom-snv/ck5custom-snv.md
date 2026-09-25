@@ -1,0 +1,25 @@
+# ck5custom-snv
+
+> 标签: ckeditor, ckeditor 5, ckeditor5, ckeditor5-build, collaboration, collaborative, contentEditable, editing, editor, framework, html, operational transformation, ot, real-time, rich text, wysiwyg
+
+## 简介
+
+The inline editor build of CKEditor 5 – the best browser-based rich text editor.
+
+## 官网
+
+- 官网：https://ckeditor.com/ckeditor-5
+- 源码仓库：git+https://github.com/sonnv25/ckeditor5-custom-build-alignment.git
+- npm 页面：https://www.npmjs.com/package/ck5custom-snv
+
+## 历史版本号
+
+- 当前版本：23.1.0
+
+- 23.1.0
+
+## 获取地址
+
+- npm 安装：`npm install ck5custom-snv`
+- npm registry：https://registry.npmjs.org/ck5custom-snv
+- Node 要求：>=12.0.0

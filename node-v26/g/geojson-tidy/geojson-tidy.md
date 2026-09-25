@@ -1,0 +1,31 @@
+# geojson-tidy
+
+> 标签: filter, geojson, noise, tidy
+
+## 简介
+
+tidy up a geojson input by filtering out noisy point clusters
+
+## 官网
+
+- 官网：https://github.com/mapbox/geojson-tidy
+- 源码仓库：git@github.com:mapbox/geojson-tidy.git
+- npm 页面：https://www.npmjs.com/package/geojson-tidy
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.6
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install geojson-tidy`
+- npm registry：https://registry.npmjs.org/geojson-tidy

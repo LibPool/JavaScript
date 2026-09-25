@@ -1,0 +1,35 @@
+# @josemarinho/unleash
+
+> 标签: nestjs
+
+## 简介
+
+NestJS library integrate with Unleash
+
+## 官网
+
+- 官网：https://github.com/jusemarinho/unleash#readme
+- 源码仓库：git+https://github.com/jusemarinho/unleash.git
+- npm 页面：https://www.npmjs.com/package/@josemarinho/unleash
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 0.0.21
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @josemarinho/unleash`
+- npm registry：https://registry.npmjs.org/@josemarinho/unleash

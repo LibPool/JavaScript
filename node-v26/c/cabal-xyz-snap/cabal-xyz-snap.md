@@ -1,0 +1,29 @@
+# cabal-xyz-snap
+
+> 标签: JavaScript
+
+## 简介
+
+Metamask snap fo cabal.xyz
+
+## 官网
+
+- 官网：https://github.com/0xPARC/cabal#readme
+- 源码仓库：git+ssh://git@github.com/0xPARC/cabal.git
+- npm 页面：https://www.npmjs.com/package/cabal-xyz-snap
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install cabal-xyz-snap`
+- npm registry：https://registry.npmjs.org/cabal-xyz-snap
+- Node 要求：>=12.11.0

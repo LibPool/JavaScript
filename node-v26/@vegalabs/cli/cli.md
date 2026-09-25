@@ -1,0 +1,35 @@
+# @vegalabs/cli
+
+> 标签: ai, byok, cli, coding-agent, llm, terminal, vega
+
+## 简介
+
+VEGA — AI coding agent for the terminal. BYOK: works with any OpenAI-compatible endpoint. Made by CocoCopi.
+
+## 官网
+
+- 官网：https://github.com/CocoCopi/vega-cli#readme
+- 源码仓库：git+https://github.com/CocoCopi/vega-cli.git
+- npm 页面：https://www.npmjs.com/package/@vegalabs/cli
+
+## 历史版本号
+
+- 当前版本：0.3.3
+
+- 0.2.2
+- 0.2.3
+- 0.2.4
+- 0.2.5
+- 0.2.6
+- 0.2.7
+- 0.2.8
+- 0.2.9
+- 0.3.0
+- 0.3.1
+- 0.3.2
+- 0.3.3
+
+## 获取地址
+
+- npm 安装：`npm install @vegalabs/cli`
+- npm registry：https://registry.npmjs.org/@vegalabs/cli

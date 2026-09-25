@@ -1,0 +1,26 @@
+# @tcpkit/protocol
+
+> 标签: protocol, tcp, tcpkit
+
+## 简介
+
+TCP Kit protocol - frame encoders/decoders for tcpkit and NestJS transports
+
+## 官网
+
+- 官网：https://github.com/shivam-070208/tcpkit#readme
+- 源码仓库：git+https://github.com/shivam-070208/tcpkit.git
+- npm 页面：https://www.npmjs.com/package/@tcpkit/protocol
+
+## 历史版本号
+
+- 当前版本：0.1.6
+
+- 0.1.2
+- 0.1.5
+- 0.1.6
+
+## 获取地址
+
+- npm 安装：`npm install @tcpkit/protocol`
+- npm registry：https://registry.npmjs.org/@tcpkit/protocol

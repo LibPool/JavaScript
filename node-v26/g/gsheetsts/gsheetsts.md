@@ -1,0 +1,35 @@
+# gsheetsts
+
+> 标签: Apps, Google, Script, SheetsAPIv4, TypeScript
+
+## 简介
+
+Google Apps Script and SheetsAPIv4 wrappers in TypeScript
+
+## 官网
+
+- 官网：https://github.com/kevincar/GSheetsTS#readme
+- 源码仓库：git+https://github.com/kevincar/GSheetsTS.git
+- npm 页面：https://www.npmjs.com/package/gsheetsts
+
+## 历史版本号
+
+- 当前版本：0.3.82
+
+- 0.3.21
+- 0.3.22
+- 0.3.3
+- 0.3.31
+- 0.3.32
+- 0.3.4
+- 0.3.5
+- 0.3.6
+- 0.3.7
+- 0.3.8
+- 0.3.81
+- 0.3.82
+
+## 获取地址
+
+- npm 安装：`npm install gsheetsts`
+- npm registry：https://registry.npmjs.org/gsheetsts

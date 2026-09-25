@@ -1,0 +1,33 @@
+# react-functional
+
+> 标签: component, functional, react, stateless
+
+## 简介
+
+Add life cycle methods to stateless functional components, without the class noise.
+
+## 官网
+
+- 官网：https://github.com/davidmarkclements/react-functional#readme
+- 源码仓库：git+https://github.com/davidmarkclements/react-functional.git
+- npm 页面：https://www.npmjs.com/package/react-functional
+
+## 历史版本号
+
+- 当前版本：3.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.0
+- 1.1.1
+- 1.2.0
+- 2.0.0
+- 3.0.0
+- 3.0.1
+- 3.0.2
+
+## 获取地址
+
+- npm 安装：`npm install react-functional`
+- npm registry：https://registry.npmjs.org/react-functional

@@ -1,0 +1,28 @@
+# @telemetry-dev/omp
+
+> 标签: agents, coding-agent, genai, llm, observability, oh-my-pi, omp, opentelemetry, telemetry, tracing
+
+## 简介
+
+Oh My Pi (omp) coding-agent telemetry integration for telemetry.dev.
+
+## 官网
+
+- 官网：https://telemetry.dev
+- 源码仓库：git+https://github.com/telemetry-dev/telemetry.git
+- npm 页面：https://www.npmjs.com/package/@telemetry-dev/omp
+
+## 历史版本号
+
+- 当前版本：0.1.5
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.5
+
+## 获取地址
+
+- npm 安装：`npm install @telemetry-dev/omp`
+- npm registry：https://registry.npmjs.org/@telemetry-dev/omp

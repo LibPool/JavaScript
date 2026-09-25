@@ -1,0 +1,25 @@
+# nbp-skills-cluster
+
+> 标签: JavaScript
+
+## 简介
+
+This is a Node.js Bot Platform skills cluster with ability to build part of the global decision tree and run tree traverse.
+
+## 官网
+
+- 官网：https://github.com/evilai/nbp-skills-cluster#readme
+- 源码仓库：git+https://github.com/evilai/nbp-skills-cluster.git
+- npm 页面：https://www.npmjs.com/package/nbp-skills-cluster
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install nbp-skills-cluster`
+- npm registry：https://registry.npmjs.org/nbp-skills-cluster

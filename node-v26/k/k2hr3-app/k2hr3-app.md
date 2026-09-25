@@ -1,0 +1,36 @@
+# k2hr3-app
+
+> 标签: CHMPX, K2HASH, K2HDKC, K2HR3, POLICY, RESOURCE, ROLE, RULE, babel, ejs, express, material-ui, react, webpack
+
+## 简介
+
+K2HR3 Web Application is K2hdkc based Resource and Roles and policy Rules
+
+## 官网
+
+- 官网：https://demo.k2hr3.antpick.ax/
+- 源码仓库：git+ssh://git@github.com/yahoojapan/k2hr3_app.git
+- npm 页面：https://www.npmjs.com/package/k2hr3-app
+
+## 历史版本号
+
+- 当前版本：2.0.1
+
+- 1.0.4
+- 1.0.40
+- 1.0.41
+- 1.0.42
+- 1.0.43
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+- 2.0.0
+- 2.0.1
+- 共 55 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install k2hr3-app`
+- npm registry：https://registry.npmjs.org/k2hr3-app

@@ -1,0 +1,26 @@
+# ratatoskr-log
+
+> 标签: JavaScript
+
+## 简介
+
+Shorthand to avoid [object Object] log in Node.js
+
+## 官网
+
+- 官网：https://github.com/stscoundrel/ratatoskr-log#readme
+- 源码仓库：git+https://github.com/stscoundrel/ratatoskr-log.git
+- npm 页面：https://www.npmjs.com/package/ratatoskr-log
+
+## 历史版本号
+
+- 当前版本：0.9.1
+
+- 0.9.0
+- 0.9.1
+
+## 获取地址
+
+- npm 安装：`npm install ratatoskr-log`
+- npm registry：https://registry.npmjs.org/ratatoskr-log
+- Node 要求：>=12.0.0

@@ -1,0 +1,24 @@
+# jsdoc-cdxd
+
+> 标签: JavaScript
+
+## 简介
+
+JsDoc Plugin and Template with CDXD features
+
+## 官网
+
+- 官网：https://github.com/jemacchi/cdxd#readme
+- 源码仓库：git+ssh://git@github.com/jemacchi/cdxd.git
+- npm 页面：https://www.npmjs.com/package/jsdoc-cdxd
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install jsdoc-cdxd`
+- npm registry：https://registry.npmjs.org/jsdoc-cdxd

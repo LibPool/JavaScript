@@ -1,0 +1,27 @@
+# @lodder/time-grunt
+
+> 标签: grunt, measure, perf, performance, profile, stat, stats, tasks, time
+
+## 简介
+
+Display the elapsed execution time of grunt tasks
+
+## 官网
+
+- 官网：https://github.com/C-Lodder/time-grunt#readme
+- 源码仓库：git+https://github.com/C-Lodder/time-grunt.git
+- npm 页面：https://www.npmjs.com/package/@lodder/time-grunt
+
+## 历史版本号
+
+- 当前版本：4.0.0
+
+- 3.0.0
+- 3.0.1
+- 4.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @lodder/time-grunt`
+- npm registry：https://registry.npmjs.org/@lodder/time-grunt
+- Node 要求：>=6

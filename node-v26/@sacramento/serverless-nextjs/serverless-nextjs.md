@@ -1,0 +1,24 @@
+# @sacramento/serverless-nextjs
+
+> 标签: api gateway, lambda, next, nextjs, serverless
+
+## 简介
+
+Deploy your serverless next applications using the serverless framework
+
+## 官网
+
+- 官网：https://github.com/serverless-nextjs/serverless-next.js#readme
+- 源码仓库：git+https://github.com/serverless-nextjs/serverless-next.js.git
+- npm 页面：https://www.npmjs.com/package/@sacramento/serverless-nextjs
+
+## 历史版本号
+
+- 当前版本：1.8.1
+
+- 1.8.1
+
+## 获取地址
+
+- npm 安装：`npm install @sacramento/serverless-nextjs`
+- npm registry：https://registry.npmjs.org/@sacramento/serverless-nextjs

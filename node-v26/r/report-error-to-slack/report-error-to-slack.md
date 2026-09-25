@@ -1,0 +1,24 @@
+# report-error-to-slack
+
+> 标签: JavaScript
+
+## 简介
+
+report to slack when get unexpect error
+
+## 官网
+
+- 官网：https://github.com/isayme/report-error-to-slack
+- 源码仓库：https://github.com/isayme/report-error-to-slack.git
+- npm 页面：https://www.npmjs.com/package/report-error-to-slack
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install report-error-to-slack`
+- npm registry：https://registry.npmjs.org/report-error-to-slack

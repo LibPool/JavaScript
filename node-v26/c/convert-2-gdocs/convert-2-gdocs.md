@@ -1,0 +1,29 @@
+# convert-2-gdocs
+
+> 标签: converter, docs-api, google-docs, google-docs-api, html, html-to-gdocs, typescript
+
+## 简介
+
+Convert HTML content to Google Docs API requests
+
+## 官网
+
+- 官网：https://github.com/k3b0/convert-2-gdocs#readme
+- 源码仓库：git+https://github.com/k3b0/convert-2-gdocs.git
+- npm 页面：https://www.npmjs.com/package/convert-2-gdocs
+
+## 历史版本号
+
+- 当前版本：0.3.3
+
+- 0.1.0
+- 0.2.0
+- 0.3.0
+- 0.3.1
+- 0.3.2
+- 0.3.3
+
+## 获取地址
+
+- npm 安装：`npm install convert-2-gdocs`
+- npm registry：https://registry.npmjs.org/convert-2-gdocs

@@ -1,0 +1,26 @@
+# pecli
+
+> 标签: cli, command, explorer, inspect, line, node, package.json
+
+## 简介
+
+node cli to inspect package.json
+
+## 官网
+
+- 官网：https://github.com/fraasi/pecli
+- 源码仓库：git+https://github.com/fraasi/pecli.git
+- npm 页面：https://www.npmjs.com/package/pecli
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install pecli`
+- npm registry：https://registry.npmjs.org/pecli
+- Node 要求：>=8

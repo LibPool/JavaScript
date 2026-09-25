@@ -1,0 +1,25 @@
+# @thatsgolden/vite-vue3pdf
+
+> 标签: pdf, viewer, vite, vue 3, vue.js
+
+## 简介
+
+vite-vue.js pdf viewer
+
+## 官网
+
+- 官网：https://github.com/JBtje/vite-vue3pdf#readme
+- 源码仓库：git+https://github.com/JBtje/vite-vue3pdf.git
+- npm 页面：https://www.npmjs.com/package/@thatsgolden/vite-vue3pdf
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @thatsgolden/vite-vue3pdf`
+- npm registry：https://registry.npmjs.org/@thatsgolden/vite-vue3pdf

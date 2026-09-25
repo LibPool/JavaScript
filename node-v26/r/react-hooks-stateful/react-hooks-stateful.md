@@ -1,0 +1,29 @@
+# react-hooks-stateful
+
+> 标签: async, dependent, hooks, pure, react, state, stateful
+
+## 简介
+
+React Hooks for flexible state management with TypeScript safety
+
+## 官网
+
+- 官网：https://github.com/nukisman/react-hooks-stateful
+- 源码仓库：https://github.com/nukisman/react-hooks-stateful.git
+- npm 页面：https://www.npmjs.com/package/react-hooks-stateful
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install react-hooks-stateful`
+- npm registry：https://registry.npmjs.org/react-hooks-stateful
+- Node 要求：>=8

@@ -1,0 +1,23 @@
+# skype-applescript
+
+> 标签: applescript, client, skype
+
+## 简介
+
+SkypeAPI AppleScript client
+
+## 官网
+
+- 源码仓库：https://github.com/sidorares/node-skype-applescript
+- npm 页面：https://www.npmjs.com/package/skype-applescript
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install skype-applescript`
+- npm registry：https://registry.npmjs.org/skype-applescript

@@ -1,0 +1,30 @@
+# @plasius/dungeon-crafting
+
+> 标签: authority, chaos, divine, dungeon-crafting, plasius, typescript
+
+## 简介
+
+DIS-gated dungeon-crafting and chaos-sealing authority contracts for Plasius
+
+## 官网
+
+- 官网：https://github.com/Plasius-LTD/dungeon-crafting#readme
+- 源码仓库：git+https://github.com/Plasius-LTD/dungeon-crafting.git
+- npm 页面：https://www.npmjs.com/package/@plasius/dungeon-crafting
+
+## 历史版本号
+
+- 当前版本：0.2.1
+
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.2.0
+- 0.2.1
+
+## 获取地址
+
+- npm 安装：`npm install @plasius/dungeon-crafting`
+- npm registry：https://registry.npmjs.org/@plasius/dungeon-crafting
+- Node 要求：>=24

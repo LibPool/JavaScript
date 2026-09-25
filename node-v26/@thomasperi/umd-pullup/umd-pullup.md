@@ -1,0 +1,26 @@
+# @thomasperi/umd-pullup
+
+> 标签: JavaScript
+
+## 简介
+
+A gulp-umd template that preserves the source file's line numbers
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@thomasperi/umd-pullup
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @thomasperi/umd-pullup`
+- npm registry：https://registry.npmjs.org/@thomasperi/umd-pullup

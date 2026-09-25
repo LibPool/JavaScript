@@ -1,0 +1,25 @@
+# gen-ts-api
+
+> 标签: api, backend, cli, typescript
+
+## 简介
+
+Cli to create an initial typescript backend template
+
+## 官网
+
+- 官网：https://github.com/AnndreJunior/gen-ts-api-cli#readme
+- 源码仓库：git+https://github.com/AnndreJunior/gen-ts-api-cli.git
+- npm 页面：https://www.npmjs.com/package/gen-ts-api
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install gen-ts-api`
+- npm registry：https://registry.npmjs.org/gen-ts-api

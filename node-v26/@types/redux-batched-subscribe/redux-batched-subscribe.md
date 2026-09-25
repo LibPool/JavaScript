@@ -1,0 +1,31 @@
+# @types/redux-batched-subscribe
+
+> 标签: JavaScript
+
+## 简介
+
+TypeScript definitions for redux-batched-subscribe
+
+## 官网
+
+- 官网：https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/redux-batched-subscribe
+- 源码仓库：https://github.com/DefinitelyTyped/DefinitelyTyped.git
+- npm 页面：https://www.npmjs.com/package/@types/redux-batched-subscribe
+
+## 历史版本号
+
+- 当前版本：0.1.7
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+
+## 获取地址
+
+- npm 安装：`npm install @types/redux-batched-subscribe`
+- npm registry：https://registry.npmjs.org/@types/redux-batched-subscribe

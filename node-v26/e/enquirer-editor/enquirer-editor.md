@@ -1,0 +1,24 @@
+# enquirer-editor
+
+> 标签: cli, commandline, editor, editor-prompt, enquirer, enquirer-editor, input, prompt
+
+## 简介
+
+An editor prompt for enquirer.js
+
+## 官网
+
+- 官网：https://github.com/ginsm/enquirer-editor#readme
+- 源码仓库：git+https://github.com/ginsm/enquirer-editor.git
+- npm 页面：https://www.npmjs.com/package/enquirer-editor
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install enquirer-editor`
+- npm registry：https://registry.npmjs.org/enquirer-editor

@@ -1,0 +1,27 @@
+# simpler-extend
+
+> 标签: 'extend', Simple, for, helper, subclassign
+
+## 简介
+
+Simple 'extend' helper for inheritance and subclassing
+
+## 官网
+
+- 官网：https://github.com/rstacruz/simpler-extend
+- 源码仓库：https://github.com/rstacruz/simpler-extend.git
+- npm 页面：https://www.npmjs.com/package/simpler-extend
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 0.0.1
+- 1.0.0
+- 1.0.1
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install simpler-extend`
+- npm registry：https://registry.npmjs.org/simpler-extend

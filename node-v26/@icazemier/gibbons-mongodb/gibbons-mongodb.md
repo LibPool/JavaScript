@@ -1,0 +1,37 @@
+# @icazemier/gibbons-mongodb
+
+> 标签: MongoDB, NoSQL, bitwise, cli, user groups, user permissions
+
+## 简介
+
+Gibbons is a Node.js module which helps in managing user groups and user permissions with `bitwise` efficiency.
+
+## 官网
+
+- 官网：https://github.com/icazemier/gibbons-monorepo/tree/main/packages/gibbons-mongodb#readme
+- 源码仓库：git+https://github.com/icazemier/gibbons-monorepo.git
+- npm 页面：https://www.npmjs.com/package/@icazemier/gibbons-mongodb
+
+## 历史版本号
+
+- 当前版本：3.1.1
+
+- 2.0.0-beta.2
+- 2.0.0-beta.3
+- 2.0.0-beta.4
+- 3.0.0
+- 3.0.1
+- 3.0.2
+- 3.0.2-beta.1
+- 3.1.0
+- 3.1.0-beta.1
+- 3.1.0-beta.2
+- 3.1.1
+- 3.1.1-beta.0
+- 共 52 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @icazemier/gibbons-mongodb`
+- npm registry：https://registry.npmjs.org/@icazemier/gibbons-mongodb
+- Node 要求：>=22.0.0

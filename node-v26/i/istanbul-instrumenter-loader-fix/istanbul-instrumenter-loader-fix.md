@@ -1,0 +1,26 @@
+# istanbul-instrumenter-loader-fix
+
+> 标签: coverage, istanbul, loader, webpack
+
+## 简介
+
+Istanbul instrumenter loader for webpack
+
+## 官网
+
+- 官网：https://github.com/webpack-contrib/istanbul-instrumenter-loader
+- 源码仓库：git+https://github.com/webpack-contrib/istanbul-instrumenter-loader.git
+- npm 页面：https://www.npmjs.com/package/istanbul-instrumenter-loader-fix
+
+## 历史版本号
+
+- 当前版本：3.0.2
+
+- 3.0.2
+- 3.1.0
+
+## 获取地址
+
+- npm 安装：`npm install istanbul-instrumenter-loader-fix`
+- npm registry：https://registry.npmjs.org/istanbul-instrumenter-loader-fix
+- Node 要求：>= 4.8 < 5.0.0 || >= 5.10

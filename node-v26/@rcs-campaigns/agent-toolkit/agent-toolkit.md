@@ -1,0 +1,28 @@
+# @rcs-campaigns/agent-toolkit
+
+> 标签: agent, cli, mcp, messaging, rcs, templates, twilio, whatsapp
+
+## 简介
+
+Agent skins for the RCS Campaigns gateway: an MCP server (rcs-mcp / wa-mcp) and a CLI (rcs / wa) over one shared client.
+
+## 官网
+
+- 官网：https://www.rcs-campaigns.com/docs
+- 源码仓库：git+https://github.com/RethinkLedgers/rcs-templates.git
+- npm 页面：https://www.npmjs.com/package/@rcs-campaigns/agent-toolkit
+
+## 历史版本号
+
+- 当前版本：0.1.9
+
+- 0.1.5
+- 0.1.6
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install @rcs-campaigns/agent-toolkit`
+- npm registry：https://registry.npmjs.org/@rcs-campaigns/agent-toolkit
+- Node 要求：>=22.0.0

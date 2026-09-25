@@ -1,0 +1,24 @@
+# eslint-plugin-no-hyogo-police
+
+> 标签: eslint, eslint-plugin, eslintplugin, loop
+
+## 简介
+
+ESLint rule for check easy infinite loop.
+
+## 官网
+
+- 官网：https://github.com/pipboy3000/eslint-plugin-no-hyogo-police
+- 源码仓库：git+https://github.com/pipboy3000/eslint-plugin-no-hyogo-police.git
+- npm 页面：https://www.npmjs.com/package/eslint-plugin-no-hyogo-police
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install eslint-plugin-no-hyogo-police`
+- npm registry：https://registry.npmjs.org/eslint-plugin-no-hyogo-police

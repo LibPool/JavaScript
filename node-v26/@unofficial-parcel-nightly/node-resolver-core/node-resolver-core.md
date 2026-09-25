@@ -1,0 +1,32 @@
+# @unofficial-parcel-nightly/node-resolver-core
+
+> 标签: JavaScript
+
+## 简介
+
+@unofficial-parcel-nightly/node-resolver-core - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/parcel-bundler/parcel#readme
+- 源码仓库：git+https://github.com/parcel-bundler/parcel.git
+- npm 页面：https://www.npmjs.com/package/@unofficial-parcel-nightly/node-resolver-core
+
+## 历史版本号
+
+- 当前版本：2.0.0-alpha.3.2-85-g66216505test-10
+
+- 2.0.0-alpha.3.2-74-g108769a8test-10
+- 2.0.0-alpha.3.2-75-g526415fatest-10
+- 2.0.0-alpha.3.2-77-g97a6ceaftest-10
+- 2.0.0-alpha.3.2-78-g287ac639test-10
+- 2.0.0-alpha.3.2-82-gecdc7016test-10
+- 2.0.0-alpha.3.2-83-g5b7be2f0test-10
+- 2.0.0-alpha.3.2-84-ge33d9161test-10
+- 2.0.0-alpha.3.2-85-g66216505test-10
+
+## 获取地址
+
+- npm 安装：`npm install @unofficial-parcel-nightly/node-resolver-core`
+- npm registry：https://registry.npmjs.org/@unofficial-parcel-nightly/node-resolver-core
+- Node 要求：>= 10.0.0

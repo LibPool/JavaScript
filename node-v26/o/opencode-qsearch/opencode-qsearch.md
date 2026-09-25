@@ -1,0 +1,27 @@
+# opencode-qsearch
+
+> 标签: google, grok, openai, opencode, plugin, web-search, xai, zhipu
+
+## 简介
+
+OpenCode plugin: unified configurable web search tool
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/opencode-qsearch
+
+## 历史版本号
+
+- 当前版本：0.6.0
+
+- 0.1.1
+- 0.2.0
+- 0.3.0
+- 0.4.0
+- 0.5.0
+- 0.6.0
+
+## 获取地址
+
+- npm 安装：`npm install opencode-qsearch`
+- npm registry：https://registry.npmjs.org/opencode-qsearch

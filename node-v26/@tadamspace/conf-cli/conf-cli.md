@@ -1,0 +1,27 @@
+# @tadamspace/conf-cli
+
+> 标签: cli, conf, config, oclif
+
+## 简介
+
+[ts] simple cli for configuration and key/value's
+
+## 官网
+
+- 官网：https://github.com/codeiqne/conf-cli
+- 源码仓库：git+https://github.com/codeiqne/conf-cli.git
+- npm 页面：https://www.npmjs.com/package/@tadamspace/conf-cli
+
+## 历史版本号
+
+- 当前版本：0.1.1-0.1
+
+- 0.1.1-0.1
+- 0.1.10
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install @tadamspace/conf-cli`
+- npm registry：https://registry.npmjs.org/@tadamspace/conf-cli
+- Node 要求：>=18.0.0

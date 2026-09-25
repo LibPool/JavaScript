@@ -1,0 +1,26 @@
+# element-ui-rtl
+
+> 标签: components, eleme, vue
+
+## 简介
+
+A Component Library for Vue.js.
+
+## 官网
+
+- 官网：http://element.eleme.io
+- 源码仓库：git+ssh://git@github.com/mocheaz/element.git
+- npm 页面：https://www.npmjs.com/package/element-ui-rtl
+
+## 历史版本号
+
+- 当前版本：2.2.2-rc-1
+
+- 2.2.1
+- 2.2.2
+- 2.2.2-rc-1
+
+## 获取地址
+
+- npm 安装：`npm install element-ui-rtl`
+- npm registry：https://registry.npmjs.org/element-ui-rtl

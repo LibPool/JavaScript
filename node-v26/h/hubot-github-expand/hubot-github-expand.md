@@ -1,0 +1,25 @@
+# hubot-github-expand
+
+> 标签: atlassian, hubot, jira, node
+
+## 简介
+
+Hubot script which listens and expands github resources
+
+## 官网
+
+- 官网：http://github.com/chamerling/hubot-github-expand
+- 源码仓库：git+ssh://git@github.com/chamerling/hubot-github-expand.git
+- npm 页面：https://www.npmjs.com/package/hubot-github-expand
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install hubot-github-expand`
+- npm registry：https://registry.npmjs.org/hubot-github-expand
+- Node 要求：>6

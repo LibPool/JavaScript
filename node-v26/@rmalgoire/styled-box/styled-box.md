@@ -1,0 +1,35 @@
+# @rmalgoire/styled-box
+
+> 标签: JavaScript
+
+## 简介
+
+Yet another box using React and Styled-component that aims to reinvent the wheel.
+
+## 官网
+
+- 官网：https://github.com/robinmalgoire/styled-box#readme
+- 源码仓库：git+https://github.com/robinmalgoire/styled-box.git
+- npm 页面：https://www.npmjs.com/package/@rmalgoire/styled-box
+
+## 历史版本号
+
+- 当前版本：1.2.1
+
+- 0.7.6
+- 0.7.7
+- 0.8.1
+- 0.8.7
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.1.0
+- 1.1.1
+- 1.2.1
+
+## 获取地址
+
+- npm 安装：`npm install @rmalgoire/styled-box`
+- npm registry：https://registry.npmjs.org/@rmalgoire/styled-box

@@ -1,0 +1,26 @@
+# ember-cli-import-polyfill
+
+> 标签: ember-addon
+
+## 简介
+
+The default blueprint for ember-cli addons.
+
+## 官网
+
+- 官网：https://github.com/ember-cli/ember-cli-import-polyfill#readme
+- 源码仓库：git+ssh://git@github.com/ember-cli/ember-cli-import-polyfill.git
+- npm 页面：https://www.npmjs.com/package/ember-cli-import-polyfill
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.0
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install ember-cli-import-polyfill`
+- npm registry：https://registry.npmjs.org/ember-cli-import-polyfill
+- Node 要求：>= 0.10.0

@@ -1,0 +1,35 @@
+# @aptre/bldr-saucer
+
+> 标签: bldr, native, saucer, webview
+
+## 简介
+
+Native webview bridge for Bldr using Saucer
+
+## 官网
+
+- 官网：https://github.com/aperturerobotics/bldr-saucer#readme
+- 源码仓库：git+https://github.com/aperturerobotics/bldr-saucer.git
+- npm 页面：https://www.npmjs.com/package/@aptre/bldr-saucer
+
+## 历史版本号
+
+- 当前版本：0.4.4
+
+- 0.1.0
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.3
+- 0.2.5
+- 0.2.6
+- 0.3.1
+- 0.4.1
+- 0.4.2
+- 0.4.3
+- 0.4.4
+
+## 获取地址
+
+- npm 安装：`npm install @aptre/bldr-saucer`
+- npm registry：https://registry.npmjs.org/@aptre/bldr-saucer

@@ -1,0 +1,25 @@
+# cypress-cdp-client
+
+> 标签: Cypres, Cypress, Cyprss, cdp, chrome, clip, clipboard, clp, condition, copy, cpress, cprs, cprss, cy, cy.get, cypress, cypress-condition, cypress-if, cypress-test, cyprss, dev, extend, extender, extending, extnd, if, loop, paste, pptr, press, protocol, selenium, test, tools, wait, while
+
+## 简介
+
+Adds ability to copy and paste from clipboard to Cypress
+
+## 官网
+
+- 官网：https://github.com/shaynet10/cypress-clipboard#readme
+- 源码仓库：git+https://github.com/shaynet10/cypress-clipboard.git
+- npm 页面：https://www.npmjs.com/package/cypress-cdp-client
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install cypress-cdp-client`
+- npm registry：https://registry.npmjs.org/cypress-cdp-client

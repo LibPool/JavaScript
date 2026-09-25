@@ -1,0 +1,25 @@
+# antamino
+
+> 标签: path, radix, routing, storage, url
+
+## 简介
+
+A lightweight, zero-dependency routing storage solution.
+
+## 官网
+
+- 官网：https://github.com/kamtugeza/antamino#readme
+- 源码仓库：git+https://github.com/kamtugeza/antamino.git
+- npm 页面：https://www.npmjs.com/package/antamino
+
+## 历史版本号
+
+- 当前版本：0.4.0
+
+- 0.4.0
+
+## 获取地址
+
+- npm 安装：`npm install antamino`
+- npm registry：https://registry.npmjs.org/antamino
+- Node 要求：>=14

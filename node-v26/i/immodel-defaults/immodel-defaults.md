@@ -1,0 +1,26 @@
+# immodel-defaults
+
+> 标签: default, defaults, immodel, values
+
+## 简介
+
+Add default value support to immodel
+
+## 官网
+
+- 官网：https://github.com/immodel/defaults
+- 源码仓库：http://github.com/immodel/defaults
+- npm 页面：https://www.npmjs.com/package/immodel-defaults
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install immodel-defaults`
+- npm registry：https://registry.npmjs.org/immodel-defaults

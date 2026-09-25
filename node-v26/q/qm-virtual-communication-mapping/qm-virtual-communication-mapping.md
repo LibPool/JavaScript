@@ -1,0 +1,29 @@
+# qm-virtual-communication-mapping
+
+> 标签: JIG, hub, quimera
+
+## 简介
+
+virtual-communication mapping module - Node-Red
+
+## 官网
+
+- 官网：https://github.com/modulesQuimera/qm-virtual-communication-mapping#readme
+- 源码仓库：git+https://github.com/modulesQuimera/qm-virtual-communication-mapping.git
+- npm 页面：https://www.npmjs.com/package/qm-virtual-communication-mapping
+
+## 历史版本号
+
+- 当前版本：1.0.7
+
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+
+## 获取地址
+
+- npm 安装：`npm install qm-virtual-communication-mapping`
+- npm registry：https://registry.npmjs.org/qm-virtual-communication-mapping

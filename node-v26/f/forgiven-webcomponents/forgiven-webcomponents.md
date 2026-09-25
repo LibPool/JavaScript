@@ -1,0 +1,25 @@
+# forgiven-webcomponents
+
+> 标签: JavaScript
+
+## 简介
+
+Forgiven extensions for web-component-tester test-fixtures
+
+## 官网
+
+- 官网：https://github.com/pghalliday/forgiven-webcomponents#readme
+- 源码仓库：git+https://github.com/pghalliday/forgiven-webcomponents.git
+- npm 页面：https://www.npmjs.com/package/forgiven-webcomponents
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install forgiven-webcomponents`
+- npm registry：https://registry.npmjs.org/forgiven-webcomponents

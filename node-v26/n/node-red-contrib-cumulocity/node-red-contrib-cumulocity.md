@@ -1,0 +1,34 @@
+# node-red-contrib-cumulocity
+
+> 标签: cumulocity, node-red
+
+## 简介
+
+Library of node-red nodes supporting integration with Cumulocity
+
+## 官网
+
+- 官网：https://github.com/computerFriend/node-red-contrib-cumulocity#readme
+- 源码仓库：git+https://github.com/computerFriend/node-red-contrib-cumulocity.git
+- npm 页面：https://www.npmjs.com/package/node-red-contrib-cumulocity
+
+## 历史版本号
+
+- 当前版本：0.2.6
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.2.1
+- 0.2.2
+- 0.2.5
+- 0.2.6
+
+## 获取地址
+
+- npm 安装：`npm install node-red-contrib-cumulocity`
+- npm registry：https://registry.npmjs.org/node-red-contrib-cumulocity

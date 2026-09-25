@@ -1,0 +1,26 @@
+# crackwatch
+
+> 标签: aggregator, api, client, crack, crackwatch, games, news
+
+## 简介
+
+Node.js unofficial client to Crackwatch.com API
+
+## 官网
+
+- 官网：https://github.com/roccomuso/crackwatch#readme
+- 源码仓库：git+https://github.com/roccomuso/crackwatch.git
+- npm 页面：https://www.npmjs.com/package/crackwatch
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install crackwatch`
+- npm registry：https://registry.npmjs.org/crackwatch
+- Node 要求：>=6

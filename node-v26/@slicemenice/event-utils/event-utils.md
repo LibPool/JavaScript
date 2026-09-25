@@ -1,0 +1,27 @@
+# @slicemenice/event-utils
+
+> 标签: ES6, Event, Utilities
+
+## 简介
+
+ECMAScript 6 Event Utilities
+
+## 官网
+
+- 官网：https://github.com/SliceMeNice-ES6/event-utils
+- 源码仓库：git+https://github.com/SliceMeNice-ES6/event-utils.git
+- npm 页面：https://www.npmjs.com/package/@slicemenice/event-utils
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @slicemenice/event-utils`
+- npm registry：https://registry.npmjs.org/@slicemenice/event-utils

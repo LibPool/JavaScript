@@ -1,0 +1,26 @@
+# @nodert-win10-21h1/windows.web.http
+
+> 标签: Http, HttpBufferContent, HttpClient, HttpCompletionOption, HttpCookie, HttpCookieCollection, HttpCookieManager, HttpFormUrlEncodedContent, HttpGetBufferResult, HttpGetInputStreamResult, HttpGetStringResult, HttpMethod, HttpMultipartContent, HttpMultipartFormDataContent, HttpProgress, HttpProgressStage, HttpRequestMessage, HttpRequestResult, HttpResponseMessage, HttpResponseMessageSource, HttpStatusCode, HttpStreamContent, HttpStringContent, HttpTransportInformation, HttpVersion, IHttpContent, Microsoft, NodeRT, Web, WinRT, Windows, Windows.Web.Http
+
+## 简介
+
+Use the Windows.Web.Http UWP API directly from Node.js
+
+## 官网
+
+- 官网：https://github.com/demosjarco/NodeRT/tree/vs2022
+- 源码仓库：git://github.com/demosjarco/NodeRT.git
+- npm 页面：https://www.npmjs.com/package/@nodert-win10-21h1/windows.web.http
+
+## 历史版本号
+
+- 当前版本：0.1.6
+
+- 0.1.1
+- 0.1.2
+- 0.1.6
+
+## 获取地址
+
+- npm 安装：`npm install @nodert-win10-21h1/windows.web.http`
+- npm registry：https://registry.npmjs.org/@nodert-win10-21h1/windows.web.http

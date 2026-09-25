@@ -1,0 +1,29 @@
+# @wangeditor/plugin-link-card
+
+> 标签: link, link card, wangeditor
+
+## 简介
+
+wangEditor link-card plugin
+
+## 官网
+
+- 官网：https://github.com/wangeditor-team/wangEditor-plugin-link-card#readme
+- 源码仓库：git+https://github.com/wangeditor-team/wangEditor-plugin-link-card.git
+- npm 页面：https://www.npmjs.com/package/@wangeditor/plugin-link-card
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @wangeditor/plugin-link-card`
+- npm registry：https://registry.npmjs.org/@wangeditor/plugin-link-card

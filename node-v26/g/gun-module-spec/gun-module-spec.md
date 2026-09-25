@@ -1,0 +1,26 @@
+# gun-module-spec
+
+> 标签: gun, module, spec, specification, suite, test
+
+## 简介
+
+Gun module spec test suite
+
+## 官网
+
+- 官网：https://github.com/PsychoLlama/gun-module-spec#readme
+- 源码仓库：git+https://github.com/PsychoLlama/gun-module-spec.git
+- npm 页面：https://www.npmjs.com/package/gun-module-spec
+
+## 历史版本号
+
+- 当前版本：3.0.0
+
+- 0.1.0
+- 2.0.0
+- 3.0.0
+
+## 获取地址
+
+- npm 安装：`npm install gun-module-spec`
+- npm registry：https://registry.npmjs.org/gun-module-spec

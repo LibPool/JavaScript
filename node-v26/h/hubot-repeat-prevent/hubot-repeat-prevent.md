@@ -1,0 +1,29 @@
+# hubot-repeat-prevent
+
+> 标签: hubot, script
+
+## 简介
+
+A hubot script to prevent responses if they repeat a recent response
+
+## 官网
+
+- 官网：https://github.com/resin-io-modules/hubot-monorepo#readme
+- 源码仓库：git+https://github.com/resin-io-modules/hubot-monorepo.git
+- npm 页面：https://www.npmjs.com/package/hubot-repeat-prevent
+
+## 历史版本号
+
+- 当前版本：0.1.3
+
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.3.0
+- 0.3.1
+- 0.3.2
+
+## 获取地址
+
+- npm 安装：`npm install hubot-repeat-prevent`
+- npm registry：https://registry.npmjs.org/hubot-repeat-prevent

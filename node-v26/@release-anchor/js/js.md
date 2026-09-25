@@ -1,0 +1,28 @@
+# @release-anchor/js
+
+> 标签: feature-flags, feature-toggle, release-anchor
+
+## 简介
+
+ReleaseAnchor JavaScript SDK for feature flag evaluation
+
+## 官网
+
+- 官网：https://github.com/ozturkaburak/release-anchor-js#readme
+- 源码仓库：git+https://github.com/ozturkaburak/release-anchor-js.git
+- npm 页面：https://www.npmjs.com/package/@release-anchor/js
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+
+## 获取地址
+
+- npm 安装：`npm install @release-anchor/js`
+- npm registry：https://registry.npmjs.org/@release-anchor/js
+- Node 要求：>=18

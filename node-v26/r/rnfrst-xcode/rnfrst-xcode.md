@@ -1,0 +1,25 @@
+# rnfrst-xcode
+
+> 标签: JavaScript
+
+## 简介
+
+CLI to help on the insertion and removal of the Rainforest.framework on iOS apps
+
+## 官网
+
+- 官网：https://github.com/rainforestapp/rnfrst-xcode#readme
+- 源码仓库：git+https://github.com/rainforestapp/rnfrst-xcode.git
+- npm 页面：https://www.npmjs.com/package/rnfrst-xcode
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install rnfrst-xcode`
+- npm registry：https://registry.npmjs.org/rnfrst-xcode

@@ -1,0 +1,27 @@
+# @outofsync/express-ip-blacklist
+
+> 标签: blacklist, express, expressJS, ip, ip blacklist, security
+
+## 简介
+
+A cache-based, IP blacklist for ExpressJS.
+
+## 官网
+
+- 官网：https://github.com/OutofSyncStudios/express-ip-blacklist#readme
+- 源码仓库：git+https://github.com/OutofSyncStudios/express-ip-blacklist.git
+- npm 页面：https://www.npmjs.com/package/@outofsync/express-ip-blacklist
+
+## 历史版本号
+
+- 当前版本：1.3.2
+
+- 1.2.0
+- 1.3.0
+- 1.3.1
+- 1.3.2
+
+## 获取地址
+
+- npm 安装：`npm install @outofsync/express-ip-blacklist`
+- npm registry：https://registry.npmjs.org/@outofsync/express-ip-blacklist

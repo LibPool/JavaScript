@@ -1,0 +1,35 @@
+# @williamthorsen/toolbelt.async
+
+> 标签: async, debounce, delay, esm, promise, toolbelt, typescript, utilities
+
+## 简介
+
+Async utilities
+
+## 官网
+
+- 官网：https://github.com/williamthorsen/toolbelt/tree/main/packages/async#readme
+- 源码仓库：git+https://github.com/williamthorsen/toolbelt.git
+- npm 页面：https://www.npmjs.com/package/@williamthorsen/toolbelt.async
+
+## 历史版本号
+
+- 当前版本：3.3.1
+
+- 3.0.3
+- 3.0.4
+- 3.0.5
+- 3.0.7
+- 3.0.8
+- 3.0.9
+- 3.1.0
+- 3.1.1
+- 3.2.0
+- 3.3.0
+- 3.3.1
+
+## 获取地址
+
+- npm 安装：`npm install @williamthorsen/toolbelt.async`
+- npm registry：https://registry.npmjs.org/@williamthorsen/toolbelt.async
+- Node 要求：>=24.0.0

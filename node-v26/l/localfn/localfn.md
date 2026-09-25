@@ -1,0 +1,23 @@
+# localfn
+
+> 标签: JavaScript
+
+## 简介
+
+Portable local development environments and worktree-aware port orchestration
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/localfn
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install localfn`
+- npm registry：https://registry.npmjs.org/localfn
+- Node 要求：>=22

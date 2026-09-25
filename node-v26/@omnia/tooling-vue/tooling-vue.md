@@ -1,0 +1,36 @@
+# @omnia/tooling-vue
+
+> 标签: JavaScript
+
+## 简介
+
+Used to bundle and serve manifests web component that build on Vue framework.
+
+## 官网
+
+- 官网：https://github.com/omniaintranet/OmniaFx#readme
+- 源码仓库：git+https://github.com/omniaintranet/OmniaFx.git
+- npm 页面：https://www.npmjs.com/package/@omnia/tooling-vue
+
+## 历史版本号
+
+- 当前版本：7.11.30
+
+- 7.9.29
+- 7.9.30
+- 7.9.34
+- 7.9.35
+- 7.9.36
+- 7.9.37
+- 7.9.38
+- 7.9.39
+- 7.9.40
+- 7.9.41
+- 7.9.42
+- 7.9.43
+- 共 6,152 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @omnia/tooling-vue`
+- npm registry：https://registry.npmjs.org/@omnia/tooling-vue

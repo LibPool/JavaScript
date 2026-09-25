@@ -1,0 +1,35 @@
+# @kanziw/time
+
+> 标签: cancellable delay, delay, kanziw, stopwatch, time, timezone, timezone format
+
+## 简介
+
+A collection of utility libraries about time
+
+## 官网
+
+- 官网：https://github.com/kanziw/kanziwjs/tree/main/packages/time#readme
+- 源码仓库：git+https://github.com/kanziw/kanziwjs.git
+- npm 页面：https://www.npmjs.com/package/@kanziw/time
+
+## 历史版本号
+
+- 当前版本：0.3.3
+
+- 0.2.3
+- 0.3.0
+- 0.3.1
+- 0.3.1-rc.0
+- 0.3.1-rc.1
+- 0.3.1-rc.2
+- 0.3.1-rc.3
+- 0.3.2
+- 0.3.3
+- 0.3.3-rc.0
+- 0.3.3-rc.1
+- 0.3.3-rc.2
+
+## 获取地址
+
+- npm 安装：`npm install @kanziw/time`
+- npm registry：https://registry.npmjs.org/@kanziw/time

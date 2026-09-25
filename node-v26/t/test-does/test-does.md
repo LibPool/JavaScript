@@ -1,0 +1,27 @@
+# test-does
+
+> 标签: JavaScript
+
+## 简介
+
+A minimal testing library - currently mainly for my own educational purposes.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/test-does
+
+## 历史版本号
+
+- 当前版本：0.3.5
+
+- 0.3.0
+- 0.3.1
+- 0.3.2
+- 0.3.3
+- 0.3.4
+- 0.3.5
+
+## 获取地址
+
+- npm 安装：`npm install test-does`
+- npm registry：https://registry.npmjs.org/test-does

@@ -1,0 +1,25 @@
+# @jollypoints/elements
+
+> 标签: JavaScript
+
+## 简介
+
+Standalone, publishable React Native component package — pure, themeable Jolly UI widgets (charts, pills, campaign rows, countdown banners) that render in any RN app with zero build-tool setup.
+
+## 官网
+
+- 官网：https://github.com/jollypoints/jolly-elements#readme
+- 源码仓库：git+https://github.com/jollypoints/jolly-elements.git
+- npm 页面：https://www.npmjs.com/package/@jollypoints/elements
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+- 1.0.0-beta.1
+
+## 获取地址
+
+- npm 安装：`npm install @jollypoints/elements`
+- npm registry：https://registry.npmjs.org/@jollypoints/elements

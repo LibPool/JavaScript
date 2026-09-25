@@ -1,0 +1,27 @@
+# ziko-chart
+
+> 标签: chart, plot, visualisation, ziko
+
+## 简介
+
+<!-- use requestAnimationFrame -->
+
+## 官网
+
+- 官网：https://github.com/zakarialaoui10/ziko-chart#readme
+- 源码仓库：git+https://github.com/zakarialaoui10/ziko-chart.git
+- npm 页面：https://www.npmjs.com/package/ziko-chart
+
+## 历史版本号
+
+- 当前版本：0.4.0
+
+- 0.1.0
+- 0.2.0
+- 0.3.0
+- 0.4.0
+
+## 获取地址
+
+- npm 安装：`npm install ziko-chart`
+- npm registry：https://registry.npmjs.org/ziko-chart

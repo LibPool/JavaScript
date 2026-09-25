@@ -1,0 +1,36 @@
+# rapscallion
+
+> 标签: asynchronous, html, react, render, ssr, stream
+
+## 简介
+
+Asynchronous React VirtualDOM renderer for SSR.
+
+## 官网
+
+- 官网：https://github.com/FormidableLabs/rapscallion#readme
+- 源码仓库：git://github.com/FormidableLabs/rapscallion.git
+- npm 页面：https://www.npmjs.com/package/rapscallion
+
+## 历史版本号
+
+- 当前版本：2.1.16
+
+- 2.1.13
+- 2.1.14
+- 2.1.15
+- 2.1.16
+- 2.1.2
+- 2.1.3
+- 2.1.4
+- 2.1.5
+- 2.1.6
+- 2.1.7
+- 2.1.8
+- 2.1.9
+
+## 获取地址
+
+- npm 安装：`npm install rapscallion`
+- npm registry：https://registry.npmjs.org/rapscallion
+- Node 要求：>=6.0.0

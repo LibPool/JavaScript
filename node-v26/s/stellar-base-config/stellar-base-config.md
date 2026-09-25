@@ -1,0 +1,25 @@
+# stellar-base-config
+
+> 标签: stellar
+
+## 简介
+
+Low level stellar support library
+
+## 官网
+
+- 官网：https://github.com/stellar/js-stellar-base
+- 源码仓库：git://github.com/mukeunkim/stellar-base-config.git
+- npm 页面：https://www.npmjs.com/package/stellar-base-config
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install stellar-base-config`
+- npm registry：https://registry.npmjs.org/stellar-base-config
+- Node 要求：>=4

@@ -1,0 +1,25 @@
+# brainfuck-interpreter
+
+> 标签: Brainfuck, Interpreter, JavaScript
+
+## 简介
+
+A Brainfuck Programming Language Interpreter for JavaScript
+
+## 官网
+
+- 官网：https://github.com/treker7/brainfuck-interpreter#readme
+- 源码仓库：git+https://github.com/treker7/brainfuck-interpreter.git
+- npm 页面：https://www.npmjs.com/package/brainfuck-interpreter
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install brainfuck-interpreter`
+- npm registry：https://registry.npmjs.org/brainfuck-interpreter

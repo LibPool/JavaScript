@@ -1,0 +1,24 @@
+# open-innovation-license
+
+> 标签: Concensus, Decentralized, Engineering, Ethics, Governence, Innovation, Open, Source
+
+## 简介
+
+The Open Innovation License (Open Source)
+
+## 官网
+
+- 官网：https://github.com/StarkDrones/OPNL#readme
+- 源码仓库：git+https://github.com/StarkDrones/OPNL.git
+- npm 页面：https://www.npmjs.com/package/open-innovation-license
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install open-innovation-license`
+- npm registry：https://registry.npmjs.org/open-innovation-license

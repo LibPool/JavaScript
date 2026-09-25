@@ -1,0 +1,35 @@
+# create-min-app
+
+> 标签: cli, create-app, create-min-app
+
+## 简介
+
+Generate most minimum projects easily.
+
+## 官网
+
+- 官网：https://github.com/hisamafahri/create-min-app#readme
+- 源码仓库：git+ssh://git@github.com/hisamafahri/create-min-app.git
+- npm 页面：https://www.npmjs.com/package/create-min-app
+
+## 历史版本号
+
+- 当前版本：1.6.1
+
+- 1.0.1
+- 1.1.0
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.3.0
+- 1.3.1
+- 1.3.2
+- 1.3.3
+- 1.4.0
+- 1.5.0
+- 1.6.1
+
+## 获取地址
+
+- npm 安装：`npm install create-min-app`
+- npm registry：https://registry.npmjs.org/create-min-app

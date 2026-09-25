@@ -1,0 +1,36 @@
+# @stripe/cli
+
+> 标签: JavaScript
+
+## 简介
+
+The Stripe CLI
+
+## 官网
+
+- 官网：https://stripe.com/docs/stripe-cli
+- 源码仓库：git+https://github.com/stripe/stripe-cli.git
+- npm 页面：https://www.npmjs.com/package/@stripe/cli
+
+## 历史版本号
+
+- 当前版本：1.51.1
+
+- 1.50.1
+- 1.50.10
+- 1.50.11
+- 1.50.2
+- 1.50.3
+- 1.50.4
+- 1.50.5
+- 1.50.6
+- 1.50.8
+- 1.50.9
+- 1.51.0
+- 1.51.1
+
+## 获取地址
+
+- npm 安装：`npm install @stripe/cli`
+- npm registry：https://registry.npmjs.org/@stripe/cli
+- Node 要求：>=18.0.0

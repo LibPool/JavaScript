@@ -1,0 +1,25 @@
+# danger-plugin-flow-typed
+
+> 标签: danger, danger-plugin
+
+## 简介
+
+Ensure all new JS files in a project are flow typed
+
+## 官网
+
+- 官网：https://github.com/withspectrum/danger-plugin-flow#readme
+- 源码仓库：https://github.com/withspectrum/danger-plugin-flow.git
+- npm 页面：https://www.npmjs.com/package/danger-plugin-flow-typed
+
+## 历史版本号
+
+- 当前版本：1.5.0
+
+- 1.5.0
+
+## 获取地址
+
+- npm 安装：`npm install danger-plugin-flow-typed`
+- npm registry：https://registry.npmjs.org/danger-plugin-flow-typed
+- Node 要求：>=4.0.0

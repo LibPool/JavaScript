@@ -1,0 +1,30 @@
+# @liwb/cloud-form
+
+> 标签: JavaScript
+
+## 简介
+
+表单设计器和生成器，实现表单可配置化，使表单开发更高效。
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@liwb/cloud-form
+
+## 历史版本号
+
+- 当前版本：0.1.8
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+
+## 获取地址
+
+- npm 安装：`npm install @liwb/cloud-form`
+- npm registry：https://registry.npmjs.org/@liwb/cloud-form

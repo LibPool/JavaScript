@@ -1,0 +1,35 @@
+# appcenter-crashes
+
+> 标签: appcenter, crash, error, react-native, reporting
+
+## 简介
+
+React Native plugin for AppCenter Crashes
+
+## 官网
+
+- 官网：https://github.com/Microsoft/appcenter-sdk-react-native/blob/master/appcenter-crashes/README.md
+- 源码仓库：git+https://github.com/Microsoft/appcenter-sdk-react-native.git
+- npm 页面：https://www.npmjs.com/package/appcenter-crashes
+
+## 历史版本号
+
+- 当前版本：5.0.3
+
+- 4.0.0
+- 4.0.2
+- 4.1.0
+- 4.2.0
+- 4.3.0
+- 4.4.3
+- 4.4.4
+- 4.4.5
+- 5.0.0
+- 5.0.1
+- 5.0.2
+- 5.0.3
+
+## 获取地址
+
+- npm 安装：`npm install appcenter-crashes`
+- npm registry：https://registry.npmjs.org/appcenter-crashes

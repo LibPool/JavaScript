@@ -1,0 +1,31 @@
+# @ngx-cupertino/tokens
+
+> 标签: angular, apple, cupertino, design-tokens, ios, macos, scss
+
+## 简介
+
+Design tokens for Apple iOS/macOS design system
+
+## 官网
+
+- 官网：https://github.com/gacc94/ngx-cupertino#readme
+- 源码仓库：git+https://github.com/gacc94/ngx-cupertino.git
+- npm 页面：https://www.npmjs.com/package/@ngx-cupertino/tokens
+
+## 历史版本号
+
+- 当前版本：0.6.0-alpha.1
+
+- 0.1.0-alpha.1
+- 0.2.3-alpha.1
+- 0.2.4-alpha.1
+- 0.2.6-alpha.1
+- 0.3.1-alpha.1
+- 0.4.0-alpha.1
+- 0.5.0-alpha.1
+- 0.6.0-alpha.1
+
+## 获取地址
+
+- npm 安装：`npm install @ngx-cupertino/tokens`
+- npm registry：https://registry.npmjs.org/@ngx-cupertino/tokens

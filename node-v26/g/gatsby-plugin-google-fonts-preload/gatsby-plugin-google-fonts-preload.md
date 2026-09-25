@@ -1,0 +1,24 @@
+# gatsby-plugin-google-fonts-preload
+
+> 标签: fonts, gatsby, gatsby-plugin, google, react
+
+## 简介
+
+Bring Google Fonts to Gatsby using preload
+
+## 官网
+
+- 官网：https://github.com/rkclearlink/gatsby-plugin-google-fonts-preload#readme
+- 源码仓库：git+ssh://git@github.com/rkclearlink/gatsby-plugin-google-fonts-preload.git
+- npm 页面：https://www.npmjs.com/package/gatsby-plugin-google-fonts-preload
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install gatsby-plugin-google-fonts-preload`
+- npm registry：https://registry.npmjs.org/gatsby-plugin-google-fonts-preload

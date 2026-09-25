@@ -1,0 +1,27 @@
+# printf-ts
+
+> 标签: format, printf, printf-ts, sprintf
+
+## 简介
+
+printf for typescript
+
+## 官网
+
+- 官网：https://github.com/fienestar/printf-ts#readme
+- 源码仓库：git+https://github.com/fienestar/sprintf-ts.git
+- npm 页面：https://www.npmjs.com/package/printf-ts
+
+## 历史版本号
+
+- 当前版本：2.0.1
+
+- 1.0.0
+- 1.0.2
+- 1.0.3
+- 2.0.1
+
+## 获取地址
+
+- npm 安装：`npm install printf-ts`
+- npm registry：https://registry.npmjs.org/printf-ts

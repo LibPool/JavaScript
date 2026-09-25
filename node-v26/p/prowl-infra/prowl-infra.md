@@ -1,0 +1,25 @@
+# prowl-infra
+
+> 标签: ansible, cli, infrastructure, molecule, prowl, testing
+
+## 简介
+
+Prowl Infra test CLI — validate Ansible playbooks locally or against ephemeral EC2 instances.
+
+## 官网
+
+- 官网：https://github.com/prowl-tools/prowl-infra-hub#readme
+- 源码仓库：git+https://github.com/prowl-tools/prowl-infra-hub.git
+- npm 页面：https://www.npmjs.com/package/prowl-infra
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install prowl-infra`
+- npm registry：https://registry.npmjs.org/prowl-infra
+- Node 要求：>=20.0.0

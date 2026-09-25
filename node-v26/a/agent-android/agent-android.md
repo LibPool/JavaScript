@@ -1,0 +1,25 @@
+# agent-android
+
+> 标签: adb, ai-agent, android, appium, automation, cli, llm, mobile-testing, uiautomator2
+
+## 简介
+
+LLM-friendly automation CLI for Android apps via ADB and UIAutomator2
+
+## 官网
+
+- 官网：https://github.com/zemse/agent-android#readme
+- 源码仓库：git+https://github.com/zemse/agent-android.git
+- npm 页面：https://www.npmjs.com/package/agent-android
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install agent-android`
+- npm registry：https://registry.npmjs.org/agent-android
+- Node 要求：>=18.0.0

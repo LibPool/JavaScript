@@ -1,0 +1,36 @@
+# @eventstore/db-client
+
+> 标签: Client, EventSourcing, EventStore
+
+## 简介
+
+NodeJS EventStoreDB version 20+ and uses gRPC as the communication protocol.
+
+## 官网
+
+- 官网：https://developers.eventstore.com/clients/grpc/getting-started?codeLanguage=NodeJS
+- 源码仓库：git+https://github.com/EventStore/EventStore-Client-NodeJS.git
+- npm 页面：https://www.npmjs.com/package/@eventstore/db-client
+
+## 历史版本号
+
+- 当前版本：6.2.1
+
+- 3.1.0
+- 3.2.0
+- 3.3.0
+- 3.3.1
+- 3.4.0
+- 4.0.0
+- 5.0.0
+- 5.0.1
+- 6.0.0
+- 6.1.0
+- 6.2.0
+- 6.2.1
+
+## 获取地址
+
+- npm 安装：`npm install @eventstore/db-client`
+- npm registry：https://registry.npmjs.org/@eventstore/db-client
+- Node 要求：^12.18.3 || >=14

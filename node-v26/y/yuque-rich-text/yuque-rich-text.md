@@ -1,0 +1,28 @@
+# yuque-rich-text
+
+> 标签: editor, lake, react, rich text editor, rich-text, vue3, wysiwyg, yuque, 语雀
+
+## 简介
+
+Yuque (语雀) Lake rich-text editor & viewer for Vue 3 and React — extract from yuque-chrome-extension.
+
+## 官网
+
+- 官网：https://github.com/Entity-Now/yuque-rich-text#readme
+- 源码仓库：git+https://github.com/Entity-Now/yuque-rich-text.git
+- npm 页面：https://www.npmjs.com/package/yuque-rich-text
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install yuque-rich-text`
+- npm registry：https://registry.npmjs.org/yuque-rich-text
+- Node 要求：>=20

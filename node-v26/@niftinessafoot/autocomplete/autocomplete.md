@@ -1,0 +1,25 @@
+# @niftinessafoot/autocomplete
+
+> 标签: autocomplete, component, dropdown, forms, react, ui
+
+## 简介
+
+React component providing selectable auto-fill dropdown under a text input.
+
+## 官网
+
+- 官网：https://github.com/niftinessafoot/autocomplete
+- 源码仓库：git+https://github.com/niftinessafoot/autocomplete.git
+- npm 页面：https://www.npmjs.com/package/@niftinessafoot/autocomplete
+
+## 历史版本号
+
+- 当前版本：0.2.1
+
+- 0.2.0
+- 0.2.1
+
+## 获取地址
+
+- npm 安装：`npm install @niftinessafoot/autocomplete`
+- npm registry：https://registry.npmjs.org/@niftinessafoot/autocomplete

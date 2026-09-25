@@ -1,0 +1,25 @@
+# formatter-json
+
+> 标签: format, json
+
+## 简介
+
+Just pass any data to it, it will format JSON for you.
+
+## 官网
+
+- 官网：https://github.com/chvin/formatter-json#readme
+- 源码仓库：git+https://github.com/chvin/formatter-json.git
+- npm 页面：https://www.npmjs.com/package/formatter-json
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install formatter-json`
+- npm registry：https://registry.npmjs.org/formatter-json

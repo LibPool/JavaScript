@@ -1,0 +1,24 @@
+# @hoshmn/scales
+
+> 标签: JavaScript
+
+## 简介
+
+![2022-02-15 15 18 51](https://user-images.githubusercontent.com/21034/154166265-3b2e4137-268f-4a6e-8a90-31aa971ed489.gif)
+
+## 官网
+
+- 官网：https://github.com/Hyperobjekt/scales#readme
+- 源码仓库：git+https://github.com/Hyperobjekt/scales.git
+- npm 页面：https://www.npmjs.com/package/@hoshmn/scales
+
+## 历史版本号
+
+- 当前版本：2.2.0
+
+- 2.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @hoshmn/scales`
+- npm registry：https://registry.npmjs.org/@hoshmn/scales

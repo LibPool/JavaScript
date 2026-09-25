@@ -1,0 +1,30 @@
+# config-difference-generator
+
+> 标签: difference, ini, json, yaml
+
+## 简介
+
+Compares two configuration files and shows a difference.
+
+## 官网
+
+- 官网：https://github.com/DmitryForsilov/config-difference-generator#readme
+- 源码仓库：git+https://github.com/DmitryForsilov/config-difference-generator.git
+- npm 页面：https://www.npmjs.com/package/config-difference-generator
+
+## 历史版本号
+
+- 当前版本：0.7.9
+
+- 0.7.3
+- 0.7.4
+- 0.7.5
+- 0.7.6
+- 0.7.7
+- 0.7.8
+- 0.7.9
+
+## 获取地址
+
+- npm 安装：`npm install config-difference-generator`
+- npm registry：https://registry.npmjs.org/config-difference-generator

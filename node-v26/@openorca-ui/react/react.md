@@ -1,0 +1,25 @@
+# @openorca-ui/react
+
+> 标签: JavaScript
+
+## 简介
+
+OpenOrca UI: agent-operations React components, hooks, runtime contracts, and the branded dashboard shell.
+
+## 官网
+
+- 官网：https://github.com/mahimailabs/openorca-ui#readme
+- 源码仓库：git+https://github.com/mahimailabs/openorca-ui.git
+- npm 页面：https://www.npmjs.com/package/@openorca-ui/react
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.1
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @openorca-ui/react`
+- npm registry：https://registry.npmjs.org/@openorca-ui/react

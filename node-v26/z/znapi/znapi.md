@@ -1,0 +1,35 @@
+# znapi
+
+> 标签: 0net, p2p, web3, zeronet
+
+## 简介
+
+Better TS/JS API for zeronet-conservancy (WIP)
+
+## 官网
+
+- 官网：https://github.com/zeronet-conservancy/znapi#readme
+- 源码仓库：git+https://github.com/zeronet-conservancy/znapi.git
+- npm 页面：https://www.npmjs.com/package/znapi
+
+## 历史版本号
+
+- 当前版本：0.0.15-alpha
+
+- 0.0.12-alpha
+- 0.0.13-alpha
+- 0.0.14-alpha
+- 0.0.15-alpha
+- 0.0.2-alpha
+- 0.0.3-alpha
+- 0.0.4-alpha
+- 0.0.5-alpha
+- 0.0.6-alpha
+- 0.0.7-alpha
+- 0.0.8-alpha
+- 0.0.9-alpha
+
+## 获取地址
+
+- npm 安装：`npm install znapi`
+- npm registry：https://registry.npmjs.org/znapi

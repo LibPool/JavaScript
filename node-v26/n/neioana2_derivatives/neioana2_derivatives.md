@@ -1,0 +1,24 @@
+# neioana2_derivatives
+
+> 标签: calculus, derivatives, deviation, generator, random
+
+## 简介
+
+Enhances mean calculation efficiency in Oolong Phase 3, providing accelerated processes for random number analysis.
+
+## 官网
+
+- 官网：https://github.com/janineioana227/neioana2_derivatives/blob/main/README.md
+- 源码仓库：git+https://github.com/janineioana227/neioana2_derivatives.git
+- npm 页面：https://www.npmjs.com/package/neioana2_derivatives
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install neioana2_derivatives`
+- npm registry：https://registry.npmjs.org/neioana2_derivatives

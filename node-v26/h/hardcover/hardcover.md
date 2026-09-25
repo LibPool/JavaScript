@@ -1,0 +1,25 @@
+# hardcover
+
+> 标签: bookself, crud, express, orm, server
+
+## 简介
+
+Automatic CRUD server for bookshelf ORM models
+
+## 官网
+
+- 官网：https://github.com/digitalsadhu/hardcover
+- 源码仓库：git+https://github.com/digitalsadhu/hardcover.git
+- npm 页面：https://www.npmjs.com/package/hardcover
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install hardcover`
+- npm registry：https://registry.npmjs.org/hardcover
+- Node 要求：>=4.4.3

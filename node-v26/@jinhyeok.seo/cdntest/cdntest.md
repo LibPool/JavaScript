@@ -1,0 +1,22 @@
+# @jinhyeok.seo/cdntest
+
+> 标签: JavaScript
+
+## 简介
+
+@jinhyeok.seo/cdntest - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@jinhyeok.seo/cdntest
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @jinhyeok.seo/cdntest`
+- npm registry：https://registry.npmjs.org/@jinhyeok.seo/cdntest

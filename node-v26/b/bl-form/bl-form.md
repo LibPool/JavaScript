@@ -1,0 +1,24 @@
+# bl-form
+
+> 标签: form, react, react-component, react-form
+
+## 简介
+
+React High Order Form Component
+
+## 官网
+
+- 官网：https://github.com/react-component/form
+- 源码仓库：git+https://github.com/react-component/form.git
+- npm 页面：https://www.npmjs.com/package/bl-form
+
+## 历史版本号
+
+- 当前版本：2.4.8
+
+- 2.4.8
+
+## 获取地址
+
+- npm 安装：`npm install bl-form`
+- npm registry：https://registry.npmjs.org/bl-form

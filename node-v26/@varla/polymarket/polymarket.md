@@ -1,0 +1,35 @@
+# @varla/polymarket
+
+> 标签: clob, defi, orderbook, polymarket, prediction-markets, trading, viem, web3
+
+## 简介
+
+High-performance Polymarket SDK
+
+## 官网
+
+- 官网：https://github.com/Varla-xyz/varla-api#readme
+- 源码仓库：git+https://github.com/Varla-xyz/varla-api.git
+- npm 页面：https://www.npmjs.com/package/@varla/polymarket
+
+## 历史版本号
+
+- 当前版本：5.4.0
+
+- 4.3.3
+- 4.3.4
+- 4.3.5
+- 4.3.6
+- 4.3.8
+- 4.3.9
+- 5.0.2
+- 5.1.0
+- 5.1.1
+- 5.2.0
+- 5.3.0
+- 5.4.0
+
+## 获取地址
+
+- npm 安装：`npm install @varla/polymarket`
+- npm registry：https://registry.npmjs.org/@varla/polymarket

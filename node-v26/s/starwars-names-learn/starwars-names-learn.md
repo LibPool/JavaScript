@@ -1,0 +1,26 @@
+# starwars-names-learn
+
+> 标签: names, random, star, wars
+
+## 简介
+
+get randomly starwars names
+
+## 官网
+
+- 官网：https://github.com/miladr0/starwars-names#readme
+- 源码仓库：git+https://github.com/miladr0/starwars-names.git
+- npm 页面：https://www.npmjs.com/package/starwars-names-learn
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+- 1.2.0-beta.1
+
+## 获取地址
+
+- npm 安装：`npm install starwars-names-learn`
+- npm registry：https://registry.npmjs.org/starwars-names-learn

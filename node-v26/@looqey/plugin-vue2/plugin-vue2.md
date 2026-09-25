@@ -1,0 +1,26 @@
+# @looqey/plugin-vue2
+
+> 标签: JavaScript
+
+## 简介
+
+> [!CAUTION] > Vue 2 has reached EOL, and this project is no longer actively maintained.
+
+## 官网
+
+- 官网：https://github.com/vitejs/vite-plugin-vue2/#readme
+- 源码仓库：git+https://github.com/vitejs/vite-plugin-vue2.git
+- npm 页面：https://www.npmjs.com/package/@looqey/plugin-vue2
+
+## 历史版本号
+
+- 当前版本：2.3.3
+
+- 2.3.2
+- 2.3.3
+
+## 获取地址
+
+- npm 安装：`npm install @looqey/plugin-vue2`
+- npm registry：https://registry.npmjs.org/@looqey/plugin-vue2
+- Node 要求：^14.18.0 || >= 16.0.0

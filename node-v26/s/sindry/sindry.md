@@ -1,0 +1,36 @@
+# sindry
+
+> 标签: aws, json, lambda, logger, stream
+
+## 简介
+
+A low overhead structured logs for AWS Lambda.
+
+## 官网
+
+- 官网：https://github.com/cadrogui/sindry#readme
+- 源码仓库：git+https://github.com/cadrogui/sindry.git
+- npm 页面：https://www.npmjs.com/package/sindry
+
+## 历史版本号
+
+- 当前版本：1.2.2
+
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.1.6
+- 1.1.7
+- 1.1.8
+- 1.1.9
+- 1.2.0
+- 1.2.1
+- 1.2.2
+
+## 获取地址
+
+- npm 安装：`npm install sindry`
+- npm registry：https://registry.npmjs.org/sindry
+- Node 要求：>=14.0.0

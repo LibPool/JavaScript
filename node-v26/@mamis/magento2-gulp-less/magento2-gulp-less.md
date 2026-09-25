@@ -1,0 +1,29 @@
+# @mamis/magento2-gulp-less
+
+> 标签: gulp, less, magento2, theme
+
+## 简介
+
+Magento2 Gulp Task to compile less assets
+
+## 官网
+
+- 官网：https://github.com/mamis/magento2-gulp
+- 源码仓库：git+https://github.com/mamis/magento2-gulp.git
+- npm 页面：https://www.npmjs.com/package/@mamis/magento2-gulp-less
+
+## 历史版本号
+
+- 当前版本：0.0.6
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+
+## 获取地址
+
+- npm 安装：`npm install @mamis/magento2-gulp-less`
+- npm registry：https://registry.npmjs.org/@mamis/magento2-gulp-less

@@ -1,0 +1,25 @@
+# mucolor
+
+> 标签: Color, HSL, RGB
+
+## 简介
+
+µColor is a simple class to handle colors in JS
+
+## 官网
+
+- 官网：https://github.com/long-lazuli/mucolor#readme
+- 源码仓库：git+https://github.com/long-lazuli/mucolor.git
+- npm 页面：https://www.npmjs.com/package/mucolor
+
+## 历史版本号
+
+- 当前版本：1.1.31
+
+- 1.1.3
+- 1.1.31
+
+## 获取地址
+
+- npm 安装：`npm install mucolor`
+- npm registry：https://registry.npmjs.org/mucolor

@@ -1,0 +1,25 @@
+# @simpledotstudio/simple-layout
+
+> 标签: alignment, component, flexbox, grid, layout, react, responsive, spacing, ui
+
+## 简介
+
+SimpleLayout - A versatile layout component supporting both flexbox and grid layouts with easy spacing and alignment controls
+
+## 官网
+
+- 官网：https://github.com/simpledotstudio/simple-ui#readme
+- 源码仓库：git+https://github.com/simpledotstudio/simple-ui.git
+- npm 页面：https://www.npmjs.com/package/@simpledotstudio/simple-layout
+
+## 历史版本号
+
+- 当前版本：1.0.0-alpha.2
+
+- 1.0.0-alpha.1
+- 1.0.0-alpha.2
+
+## 获取地址
+
+- npm 安装：`npm install @simpledotstudio/simple-layout`
+- npm registry：https://registry.npmjs.org/@simpledotstudio/simple-layout

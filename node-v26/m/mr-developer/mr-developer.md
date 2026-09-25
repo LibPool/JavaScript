@@ -1,0 +1,36 @@
+# mr-developer
+
+> 标签: git, multirepo
+
+## 简介
+
+Utility for installing NPM dependencies as git repos.
+
+## 官网
+
+- 官网：https://github.com/collective/mr-developer#readme
+- 源码仓库：git+https://github.com/collective/mr-developer.git
+- npm 页面：https://www.npmjs.com/package/mr-developer
+
+## 历史版本号
+
+- 当前版本：1.4.0
+
+- 0.0.12
+- 0.0.13
+- 0.0.14
+- 0.0.15
+- 0.0.16
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.3.0
+- 1.4.0
+
+## 获取地址
+
+- npm 安装：`npm install mr-developer`
+- npm registry：https://registry.npmjs.org/mr-developer
+- Node 要求：>=10.0.0

@@ -1,0 +1,25 @@
+# obj23dtiles1
+
+> 标签: 3d-tiles, cesium
+
+## 简介
+
+obj to 3d tiles
+
+## 官网
+
+- 官网：https://github.com/PrincessGod/objTo3d-tiles#readme
+- 源码仓库：git+https://github.com/PrincessGod/objTo3d-tiles.git
+- npm 页面：https://www.npmjs.com/package/obj23dtiles1
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install obj23dtiles1`
+- npm registry：https://registry.npmjs.org/obj23dtiles1

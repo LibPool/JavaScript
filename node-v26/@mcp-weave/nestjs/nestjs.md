@@ -1,0 +1,29 @@
+# @mcp-weave/nestjs
+
+> 标签: decorators, mcp, model-context-protocol, nestjs
+
+## 简介
+
+NestJS integration for MCP-Weave - decorators and runtime
+
+## 官网
+
+- 官网：https://github.com/mcp-weave/mcp-weave#readme
+- 源码仓库：git+https://github.com/mcp-weave/mcp-weave.git
+- npm 页面：https://www.npmjs.com/package/@mcp-weave/nestjs
+
+## 历史版本号
+
+- 当前版本：0.3.2
+
+- 0.1.0
+- 0.1.1
+- 0.2.0
+- 0.3.0
+- 0.3.1
+- 0.3.2
+
+## 获取地址
+
+- npm 安装：`npm install @mcp-weave/nestjs`
+- npm registry：https://registry.npmjs.org/@mcp-weave/nestjs

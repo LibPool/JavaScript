@@ -1,0 +1,30 @@
+# @aicacia/location
+
+> 标签: history, html5, location
+
+## 简介
+
+url location set/back/forward for browsers
+
+## 官网
+
+- 官网：https://gitlab.com/aicacia/libs/ts-location#readme
+- 源码仓库：git+https://gitlab.com/aicacia/libs/ts-location.git
+- npm 页面：https://www.npmjs.com/package/@aicacia/location
+
+## 历史版本号
+
+- 当前版本：0.2.3
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.3
+
+## 获取地址
+
+- npm 安装：`npm install @aicacia/location`
+- npm registry：https://registry.npmjs.org/@aicacia/location

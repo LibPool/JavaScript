@@ -1,0 +1,36 @@
+# @intisy-ai/claude-code-loader
+
+> 标签: claude, claude-code, launcher, plugin, tui
+
+## 简介
+
+TUI launcher and cc shell command for Claude Code.
+
+## 官网
+
+- 官网：https://github.com/intisy-ai/claude-code-loader#readme
+- 源码仓库：git+https://github.com/intisy-ai/claude-code-loader.git
+- npm 页面：https://www.npmjs.com/package/@intisy-ai/claude-code-loader
+
+## 历史版本号
+
+- 当前版本：1.13.0
+
+- 1.10.2
+- 1.11.0
+- 1.11.1
+- 1.12.1
+- 1.12.2
+- 1.12.3
+- 1.13.0
+- 1.5.0
+- 1.8.0
+- 1.8.1
+- 1.9.0
+- 1.9.1
+
+## 获取地址
+
+- npm 安装：`npm install @intisy-ai/claude-code-loader`
+- npm registry：https://registry.npmjs.org/@intisy-ai/claude-code-loader
+- Node 要求：>=20.19.0

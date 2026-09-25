@@ -1,0 +1,23 @@
+# @netmon-client/client
+
+> 标签: client, freifunk, netmon
+
+## 简介
+
+The Netmon Web Client is a browser based GUI frontend for the [Netmon API Server](https://git.nordwest.freifunk.net/netmon-sc/api-server). The client is written in [Typescript](https://www.typescriptlang.org/) using the [Angular2](https://angular.io/) fra
+
+## 官网
+
+- 源码仓库：git@git.ffnw.de:netmon-sc/web-client.git
+- npm 页面：https://www.npmjs.com/package/@netmon-client/client
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @netmon-client/client`
+- npm registry：https://registry.npmjs.org/@netmon-client/client

@@ -1,0 +1,28 @@
+# vglue
+
+> 标签: JavaScript
+
+## 简介
+
+* Make sure that the peer dependencies are installed in the same version and according to "ag-grid-angular" installation guide of that certain version; for example, import css files in the global css file, and more. that's a big restriction because of "a
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/vglue
+
+## 历史版本号
+
+- 当前版本：0.0.7
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+
+## 获取地址
+
+- npm 安装：`npm install vglue`
+- npm registry：https://registry.npmjs.org/vglue

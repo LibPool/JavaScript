@@ -1,0 +1,36 @@
+# @xiaohe-store/dsh-canvas
+
+> 标签: ai-canvas, deepseek-harness, dsh-plugin, mcp, xiaohe-canvas
+
+## 简介
+
+DeepSeek Harness 插件 - 小禾画布 AI 创作助手
+
+## 官网
+
+- 官网：https://github.com/wild-River2016/dsh-xiaohe-canvas#readme
+- 源码仓库：git+https://github.com/wild-river2016/dsh-xiaohe-canvas.git
+- npm 页面：https://www.npmjs.com/package/@xiaohe-store/dsh-canvas
+
+## 历史版本号
+
+- 当前版本：0.1.15
+
+- 0.1.12
+- 0.1.13
+- 0.1.14
+- 0.1.15
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install @xiaohe-store/dsh-canvas`
+- npm registry：https://registry.npmjs.org/@xiaohe-store/dsh-canvas
+- Node 要求：>=22.18.0

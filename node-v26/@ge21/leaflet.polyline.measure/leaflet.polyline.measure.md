@@ -1,0 +1,25 @@
+# @ge21/leaflet.polyline.measure
+
+> 标签: JavaScript
+
+## 简介
+
+Leaflet Plugin to measure distances of simple lines as well as of complex polylines
+
+## 官网
+
+- 官网：https://github.com/ppete2/Leaflet.PolylineMeasure#readme
+- 源码仓库：git+https://github.com/ppete2/Leaflet.PolylineMeasure.git
+- npm 页面：https://www.npmjs.com/package/@ge21/leaflet.polyline.measure
+
+## 历史版本号
+
+- 当前版本：1.0.0-pt
+
+- 1.0.0
+- 1.0.0-pt
+
+## 获取地址
+
+- npm 安装：`npm install @ge21/leaflet.polyline.measure`
+- npm registry：https://registry.npmjs.org/@ge21/leaflet.polyline.measure

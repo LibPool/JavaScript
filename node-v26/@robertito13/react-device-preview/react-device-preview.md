@@ -1,0 +1,26 @@
+# @robertito13/react-device-preview
+
+> 标签: devicepreview, preview, react-component
+
+## 简介
+
+react-device-preview React component
+
+## 官网
+
+- 官网：https://github.com/robertito13
+- 源码仓库：git+https://github.com/robertito13/react-device-preview.git
+- npm 页面：https://www.npmjs.com/package/@robertito13/react-device-preview
+
+## 历史版本号
+
+- 当前版本：2.0.3
+
+- 2.0.1
+- 2.0.2
+- 2.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @robertito13/react-device-preview`
+- npm registry：https://registry.npmjs.org/@robertito13/react-device-preview

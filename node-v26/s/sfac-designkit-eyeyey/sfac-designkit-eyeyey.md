@@ -1,0 +1,22 @@
+# sfac-designkit-eyeyey
+
+> 标签: JavaScript
+
+## 简介
+
+디자인 시스템은 디자인에서 개발(코드) 협업이 아우러지는 스타일 가이드(Style Guide)를 말합니다. 디자이너만 공유하는 스타일 가이드가 아닙니다. 기획자, 디자이너, 개발자, 관리자를 포함한 모든 팀원이 공유하는 가이드를 말합니다. 결과적으로 디자인 시스템은 디자인과 코드를 제공하는 문서로, 역동적이고 재사용 가능하며 실시간으로 유지보수 할 수 있어야 합니다.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/sfac-designkit-eyeyey
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install sfac-designkit-eyeyey`
+- npm registry：https://registry.npmjs.org/sfac-designkit-eyeyey

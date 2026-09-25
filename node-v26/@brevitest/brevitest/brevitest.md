@@ -1,0 +1,24 @@
+# @brevitest/brevitest
+
+> 标签: brevitest
+
+## 简介
+
+Shared code library for Brevitest system
+
+## 官网
+
+- 官网：https://github.com/leo3linbeck/brevitest#readme
+- 源码仓库：git+https://github.com/leo3linbeck/brevitest.git
+- npm 页面：https://www.npmjs.com/package/@brevitest/brevitest
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @brevitest/brevitest`
+- npm registry：https://registry.npmjs.org/@brevitest/brevitest

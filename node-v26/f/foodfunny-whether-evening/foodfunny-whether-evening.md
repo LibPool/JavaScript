@@ -1,0 +1,24 @@
+# foodfunny-whether-evening
+
+> 标签: foodfunny-whether-evening, indoxcapital, package-manager, tea
+
+## 简介
+
+(foodfunny-whether-evening) - This function is used to convert multiple words into an interesting sentence containing the word foodfunny-whether-evening.
+
+## 官网
+
+- 官网：https://github.com/zubaidahnurcahya/zubaidahnurcahya#readme
+- 源码仓库：git+https://github.com/zubaidahnurcahya/zubaidahnurcahya.git
+- npm 页面：https://www.npmjs.com/package/foodfunny-whether-evening
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install foodfunny-whether-evening`
+- npm registry：https://registry.npmjs.org/foodfunny-whether-evening

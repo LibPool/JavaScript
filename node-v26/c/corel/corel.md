@@ -1,0 +1,23 @@
+# corel
+
+> 标签: JavaScript
+
+## 简介
+
+Corel (kəˈrɑːl) ================== Corel is a typescript library used for developing [my personal portfolio application][] (named as 'GET IT JOB') in a modular way.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/corel
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install corel`
+- npm registry：https://registry.npmjs.org/corel
+- Node 要求：>=13.7

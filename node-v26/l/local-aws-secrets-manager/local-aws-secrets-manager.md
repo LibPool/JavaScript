@@ -1,0 +1,26 @@
+# local-aws-secrets-manager
+
+> 标签: aws, local, secrets-manager
+
+## 简介
+
+> Run AWS Secrets Manager locally without external dependencies.
+
+## 官网
+
+- 官网：https://github.com/Inqnuam/local-aws-secrets-manager
+- 源码仓库：git+ssh://git@github.com/Inqnuam/local-aws-secrets-manager.git
+- npm 页面：https://www.npmjs.com/package/local-aws-secrets-manager
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.0
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install local-aws-secrets-manager`
+- npm registry：https://registry.npmjs.org/local-aws-secrets-manager

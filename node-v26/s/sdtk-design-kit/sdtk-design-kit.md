@@ -1,0 +1,36 @@
+# sdtk-design-kit
+
+> 标签: cli, design, mvp, sdtk-design, toolkit, wireframe
+
+## 简介
+
+Local-first MVP design planner and reviewer for SDTK workspaces.
+
+## 官网
+
+- 官网：https://github.com/codexsdtk/sdtk-toolkit/tree/main/products/sdtk-design/distribution/sdtk-design-kit
+- 源码仓库：git+https://github.com/codexsdtk/sdtk-toolkit.git
+- npm 页面：https://www.npmjs.com/package/sdtk-design-kit
+
+## 历史版本号
+
+- 当前版本：0.14.1
+
+- 0.2.1
+- 0.3.0
+- 0.3.1
+- 0.3.2
+- 0.4.0
+- 0.5.0
+- 0.5.1
+- 0.6.0
+- 0.7.0
+- 0.8.0
+- 0.8.1
+- 0.9.0
+
+## 获取地址
+
+- npm 安装：`npm install sdtk-design-kit`
+- npm registry：https://registry.npmjs.org/sdtk-design-kit
+- Node 要求：>=18.13.0

@@ -1,0 +1,24 @@
+# @schift-io/cdot
+
+> 标签: ai-agent, claude-code, proxy, rag, schift
+
+## 简介
+
+Attach Schift RAG/memory to Claude Code via CCS integration
+
+## 官网
+
+- 官网：https://schift.io
+- 源码仓库：git+https://github.com/schift-io/cdot.git
+- npm 页面：https://www.npmjs.com/package/@schift-io/cdot
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @schift-io/cdot`
+- npm registry：https://registry.npmjs.org/@schift-io/cdot

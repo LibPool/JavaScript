@@ -1,0 +1,24 @@
+# chatbinapi
+
+> 标签: api, chatbin
+
+## 简介
+
+Npm package for easier dealing with github.com/readyyyk/ChatBin-Server
+
+## 官网
+
+- 官网：https://github.com/readyyyk/ChatBinApi-npm#readme
+- 源码仓库：git+https://github.com/readyyyk/ChatBinApi-npm.git
+- npm 页面：https://www.npmjs.com/package/chatbinapi
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install chatbinapi`
+- npm registry：https://registry.npmjs.org/chatbinapi

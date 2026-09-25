@@ -1,0 +1,35 @@
+# @types/pebblekitjs
+
+> 标签: JavaScript
+
+## 简介
+
+TypeScript definitions for pebblekitjs
+
+## 官网
+
+- 官网：https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/pebblekitjs
+- 源码仓库：https://github.com/DefinitelyTyped/DefinitelyTyped.git
+- npm 页面：https://www.npmjs.com/package/@types/pebblekitjs
+
+## 历史版本号
+
+- 当前版本：4.0.33
+
+- 255.0.21-alpha
+- 255.0.22-alpha
+- 255.0.23-alpha
+- 255.0.24-alpha
+- 255.0.25-alpha
+- 255.0.26-alpha
+- 4.0.28
+- 4.0.29
+- 4.0.30
+- 4.0.31
+- 4.0.32
+- 4.0.33
+
+## 获取地址
+
+- npm 安装：`npm install @types/pebblekitjs`
+- npm registry：https://registry.npmjs.org/@types/pebblekitjs

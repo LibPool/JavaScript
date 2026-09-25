@@ -1,0 +1,24 @@
+# react18-split-pane
+
+> 标签: es6, react, react-component, react-split-pane, split-pane
+
+## 简介
+
+React split-pane component
+
+## 官网
+
+- 官网：http://git@github.com:dahel/react18-split-pane
+- 源码仓库：git+ssh://git@github.com/dahel/react18-split-pane.git
+- npm 页面：https://www.npmjs.com/package/react18-split-pane
+
+## 历史版本号
+
+- 当前版本：0.1.95
+
+- 0.1.95
+
+## 获取地址
+
+- npm 安装：`npm install react18-split-pane`
+- npm registry：https://registry.npmjs.org/react18-split-pane

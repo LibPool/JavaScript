@@ -1,0 +1,35 @@
+# validate-framework
+
+> 标签: form, formValidate, validate, validate-form, validate-framework, validate.js, validation, validator, validator.js
+
+## 简介
+
+轻量、强大、无依赖的 JavaScript 验证组件
+
+## 官网
+
+- 官网：https://github.com/MinJieLiu/validate-framework
+- 源码仓库：git+https://github.com/MinJieLiu/validate-framework.git
+- npm 页面：https://www.npmjs.com/package/validate-framework
+
+## 历史版本号
+
+- 当前版本：4.0.6
+
+- 2.0.0
+- 2.0.1
+- 2.0.2
+- 2.1.0
+- 2.1.1
+- 3.0.0
+- 3.0.1
+- 3.1.0
+- 3.1.1
+- 3.1.2
+- 4.0.5
+- 4.0.6
+
+## 获取地址
+
+- npm 安装：`npm install validate-framework`
+- npm registry：https://registry.npmjs.org/validate-framework

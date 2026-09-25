@@ -1,0 +1,27 @@
+# tokentown
+
+> 标签: claude, claude-code, cli, codex, leaderboard, nortown, opencode, tokens, tokentown, usage
+
+## 简介
+
+Turn local Claude Code, Codex and OpenCode usage into a NORTOWN pixel city.
+
+## 官网
+
+- 官网：https://nort.works
+- 源码仓库：git+https://github.com/AElise08/tokentown.git
+- npm 页面：https://www.npmjs.com/package/tokentown
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.1.0
+- 0.2.0
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install tokentown`
+- npm registry：https://registry.npmjs.org/tokentown
+- Node 要求：>=18

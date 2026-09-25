@@ -1,0 +1,36 @@
+# @ip-location-db/dbip-country
+
+> 标签: country, ip, ip-location, ip-location-db, ipv4, ipv6, location
+
+## 简介
+
+Ip to location database
+
+## 官网
+
+- 官网：https://github.com/sapics/ip-location-db#readme
+- 源码仓库：git+https://github.com/sapics/ip-location-db.git
+- npm 页面：https://www.npmjs.com/package/@ip-location-db/dbip-country
+
+## 历史版本号
+
+- 当前版本：2.3.2026060120
+
+- 2.3.2025060119
+- 2.3.2025070119
+- 2.3.2025080119
+- 2.3.2025090119
+- 2.3.2025100119
+- 2.3.2025110118
+- 2.3.2025120119
+- 2.3.2026020119
+- 2.3.2026030119
+- 2.3.2026040119
+- 2.3.2026050119
+- 2.3.2026060120
+- 共 78 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @ip-location-db/dbip-country`
+- npm registry：https://registry.npmjs.org/@ip-location-db/dbip-country

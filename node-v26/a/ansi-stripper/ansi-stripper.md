@@ -1,0 +1,23 @@
+# ansi-stripper
+
+> 标签: ansi, colors, terminal
+
+## 简介
+
+Strip ansi color codes from a string
+
+## 官网
+
+- 源码仓库：git://github.com/SpiderStrategies/node-ansi-stripper.git
+- npm 页面：https://www.npmjs.com/package/ansi-stripper
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install ansi-stripper`
+- npm registry：https://registry.npmjs.org/ansi-stripper

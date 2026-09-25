@@ -1,0 +1,33 @@
+# @sdkwork/sdk-common
+
+> 标签: auth, common, http-client, sdk, sdkwork, typescript
+
+## 简介
+
+SDKwork SDK Common - High cohesion, low coupling SDK foundation library
+
+## 官网
+
+- 官网：https://github.com/sdkwork/sdk-common-typescript#readme
+- 源码仓库：git+https://github.com/sdkwork/sdk-common-typescript.git
+- npm 页面：https://www.npmjs.com/package/@sdkwork/sdk-common
+
+## 历史版本号
+
+- 当前版本：1.0.9
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @sdkwork/sdk-common`
+- npm registry：https://registry.npmjs.org/@sdkwork/sdk-common
+- Node 要求：>=18.0.0

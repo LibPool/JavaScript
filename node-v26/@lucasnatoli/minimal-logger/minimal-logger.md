@@ -1,0 +1,25 @@
+# @lucasnatoli/minimal-logger
+
+> 标签: JavaScript
+
+## 简介
+
+File-based severity logger (info/warn/error) with log statistics and HTTP routes for log access
+
+## 官网
+
+- 官网：https://github.com/LucasNatoli/minimal-logger#readme
+- 源码仓库：git+https://github.com/LucasNatoli/minimal-logger.git
+- npm 页面：https://www.npmjs.com/package/@lucasnatoli/minimal-logger
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @lucasnatoli/minimal-logger`
+- npm registry：https://registry.npmjs.org/@lucasnatoli/minimal-logger

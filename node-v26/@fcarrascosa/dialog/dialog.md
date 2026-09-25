@@ -1,0 +1,25 @@
+# @fcarrascosa/dialog
+
+> 标签: JavaScript
+
+## 简介
+
+A simple dialog element that accepts any kind of content as slot
+
+## 官网
+
+- 官网：https://github.com/fcarrascosa/fcarrascosa-elements#readme
+- 源码仓库：git+https://github.com/fcarrascosa/fcarrascosa-elements.git
+- npm 页面：https://www.npmjs.com/package/@fcarrascosa/dialog
+
+## 历史版本号
+
+- 当前版本：0.4.0
+
+- 0.3.0
+- 0.4.0
+
+## 获取地址
+
+- npm 安装：`npm install @fcarrascosa/dialog`
+- npm registry：https://registry.npmjs.org/@fcarrascosa/dialog

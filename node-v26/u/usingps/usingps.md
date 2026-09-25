@@ -1,0 +1,25 @@
+# usingps
+
+> 标签: JavaScript
+
+## 简介
+
+If you're a fan of promises and named arguments, this package is for you. It is like [`join`](https://github.com/tjconcept/psjoin) but with named arguments rather than relying on order.
+
+## 官网
+
+- 官网：https://github.com/tjconcept/usingps#readme
+- 源码仓库：git+https://github.com/tjconcept/usingps.git
+- npm 页面：https://www.npmjs.com/package/usingps
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install usingps`
+- npm registry：https://registry.npmjs.org/usingps

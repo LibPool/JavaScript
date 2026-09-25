@@ -1,0 +1,24 @@
+# @cool-hero/examples
+
+> 标签: cool-hero
+
+## 简介
+
+preview cool-hero example
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@cool-hero/examples
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 1.0.2
+- 1.0.3
+- 1.0.5
+
+## 获取地址
+
+- npm 安装：`npm install @cool-hero/examples`
+- npm registry：https://registry.npmjs.org/@cool-hero/examples

@@ -1,0 +1,24 @@
+# kidnet.js
+
+> 标签: bot-framework, chat-api, javascript, kidnet, kidnet-bot, nodejs
+
+## 简介
+
+A developer library for building bots on the KidNet platform, inspired by discord.js
+
+## 官网
+
+- 官网：https://github.com/stetup/kn.js#readme
+- 源码仓库：git+https://github.com/stetup/kn.js.git
+- npm 页面：https://www.npmjs.com/package/kidnet.js
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install kidnet.js`
+- npm registry：https://registry.npmjs.org/kidnet.js

@@ -1,0 +1,25 @@
+# @saalim192/seedforge
+
+> 标签: codegen, devtools, generator, prisma, seed
+
+## 简介
+
+Schema-aware Prisma seed generator
+
+## 官网
+
+- 官网：https://github.com/SxxAq/seedforge#readme
+- 源码仓库：git+https://github.com/SxxAq/seedforge.git
+- npm 页面：https://www.npmjs.com/package/@saalim192/seedforge
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @saalim192/seedforge`
+- npm registry：https://registry.npmjs.org/@saalim192/seedforge

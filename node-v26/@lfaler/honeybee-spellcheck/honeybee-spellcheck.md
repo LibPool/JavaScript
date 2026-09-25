@@ -1,0 +1,22 @@
+# @lfaler/honeybee-spellcheck
+
+> 标签: JavaScript
+
+## 简介
+
+## To Install ``` npm i -S @lfaler/spellcheck ```
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@lfaler/honeybee-spellcheck
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @lfaler/honeybee-spellcheck`
+- npm registry：https://registry.npmjs.org/@lfaler/honeybee-spellcheck

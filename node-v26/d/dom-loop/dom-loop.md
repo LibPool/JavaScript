@@ -1,0 +1,28 @@
+# dom-loop
+
+> 标签: animation, animation loop, batch, dom, fastdom, game loop, loop, read, requestanimationframe, trashing, write
+
+## 简介
+
+Batches DOM read/write operations within a constant requestAnimationFrame loop
+
+## 官网
+
+- 官网：https://github.com/stephenjjbrown/dom-loop#readme
+- 源码仓库：git+ssh://git@github.com/stephenjjbrown/dom-loop.git
+- npm 页面：https://www.npmjs.com/package/dom-loop
+
+## 历史版本号
+
+- 当前版本：2.1.0
+
+- 1.0.0
+- 1.0.1
+- 2.0.0-beta
+- 2.0.1-beta
+- 2.1.0
+
+## 获取地址
+
+- npm 安装：`npm install dom-loop`
+- npm registry：https://registry.npmjs.org/dom-loop

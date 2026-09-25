@@ -1,0 +1,35 @@
+# polaris-excel-viewer
+
+> 标签: csv, excel, viewer, xls, xlsx
+
+## 简介
+
+这是一个excel文件查看器，支持xls、xlsx、csv格式，你可以用它在指定DOM渲染excel，也可以将它内嵌在iframe中。This is an excel file viewer that supports xls, xlsx, csv and ods. You can use it to render excel in the specified DOM or embedded it in the iframe.
+
+## 官网
+
+- 官网：https://yesifang.com
+- 源码仓库：git+ssh://git@github.com/SuperYesifang/excel-viewer.git
+- npm 页面：https://www.npmjs.com/package/polaris-excel-viewer
+
+## 历史版本号
+
+- 当前版本：1.4.4
+
+- 1.2.9
+- 1.3.0
+- 1.3.1
+- 1.3.2
+- 1.3.3
+- 1.3.4
+- 1.3.9
+- 1.4.0
+- 1.4.1
+- 1.4.2
+- 1.4.3
+- 1.4.4
+
+## 获取地址
+
+- npm 安装：`npm install polaris-excel-viewer`
+- npm registry：https://registry.npmjs.org/polaris-excel-viewer

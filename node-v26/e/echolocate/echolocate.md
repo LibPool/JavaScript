@@ -1,0 +1,27 @@
+# echolocate
+
+> 标签: ASK, alexa, geolocation, time zone
+
+## 简介
+
+Get an Echo device's physical location and timezone using the Alexa API and Geo-location.
+
+## 官网
+
+- 官网：https://github.com/josephschmitt/echolocate#readme
+- 源码仓库：git+https://github.com/josephschmitt/echolocate.git
+- npm 页面：https://www.npmjs.com/package/echolocate
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install echolocate`
+- npm registry：https://registry.npmjs.org/echolocate

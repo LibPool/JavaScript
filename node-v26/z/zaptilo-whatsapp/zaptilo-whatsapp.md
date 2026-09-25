@@ -1,0 +1,25 @@
+# zaptilo-whatsapp
+
+> 标签: api, sdk, whatsapp, whatsapp-business, zaptilo
+
+## 简介
+
+Zaptilo WhatsApp Business API SDK (RAW)
+
+## 官网
+
+- 官网：https://github.com/zaptilo/NodeJs-WhatsApp-Business-API#readme
+- 源码仓库：git+https://github.com/zaptilo/NodeJs-WhatsApp-Business-API.git
+- npm 页面：https://www.npmjs.com/package/zaptilo-whatsapp
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install zaptilo-whatsapp`
+- npm registry：https://registry.npmjs.org/zaptilo-whatsapp

@@ -1,0 +1,31 @@
+# create-angular-capacitor-workspace
+
+> 标签: angular, capacitor, create, generator, scaffold
+
+## 简介
+
+Scaffold an Angular workspace that ships as a web app, a Capacitor mobile app, a prerendered marketing site and shared libraries — audit-clean on the day it is generated.
+
+## 官网
+
+- 官网：https://github.com/karimaounn/angular-capacitor-workspace/tree/main/packages/create-angular-capacitor-workspace#readme
+- 源码仓库：git+https://github.com/karimaounn/angular-capacitor-workspace.git
+- npm 页面：https://www.npmjs.com/package/create-angular-capacitor-workspace
+
+## 历史版本号
+
+- 当前版本：22.3.2
+
+- 22.0.0
+- 22.1.0
+- 22.2.0
+- 22.2.1
+- 22.3.0
+- 22.3.1
+- 22.3.2
+
+## 获取地址
+
+- npm 安装：`npm install create-angular-capacitor-workspace`
+- npm registry：https://registry.npmjs.org/create-angular-capacitor-workspace
+- Node 要求：>=24.8.0

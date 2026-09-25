@@ -1,0 +1,25 @@
+# big-collection-view
+
+> 标签: ampersand-view
+
+## 简介
+
+Ampersand.js View
+
+## 官网
+
+- 官网：https://bitbucket.org/zeropaper/big-collection-view#readme
+- 源码仓库：git+ssh://git@bitbucket.org/zeropaper/big-collection-view.git
+- npm 页面：https://www.npmjs.com/package/big-collection-view
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install big-collection-view`
+- npm registry：https://registry.npmjs.org/big-collection-view

@@ -1,0 +1,25 @@
+# did-resolver-module-test4
+
+> 标签: JavaScript
+
+## 简介
+
+did-resolver-module-test4 - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/AhmedBenRouha2/did-resolver#readme
+- 源码仓库：git+https://github.com/AhmedBenRouha2/did-resolver.git
+- npm 页面：https://www.npmjs.com/package/did-resolver-module-test4
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install did-resolver-module-test4`
+- npm registry：https://registry.npmjs.org/did-resolver-module-test4

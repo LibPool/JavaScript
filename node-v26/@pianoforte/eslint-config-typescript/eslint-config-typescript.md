@@ -1,0 +1,36 @@
+# @pianoforte/eslint-config-typescript
+
+> 标签: eslint, eslintconfig
+
+## 简介
+
+Pianoforte style eslint config for typescript
+
+## 官网
+
+- 官网：https://github.com/team-pianforte/eslint-ronfig/tree/master/packages/eslint-config-typescript
+- 源码仓库：git+ssh://git@github.com/pianoforte/eslint-config.git
+- npm 页面：https://www.npmjs.com/package/@pianoforte/eslint-config-typescript
+
+## 历史版本号
+
+- 当前版本：1.3.3
+
+- 0.22.1
+- 0.23.0
+- 0.24.0
+- 0.25.0
+- 0.26.0
+- 0.27.0
+- 0.28.0
+- 0.29.0
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.3.3
+
+## 获取地址
+
+- npm 安装：`npm install @pianoforte/eslint-config-typescript`
+- npm registry：https://registry.npmjs.org/@pianoforte/eslint-config-typescript
+- Node 要求：>=12

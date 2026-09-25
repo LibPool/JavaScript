@@ -1,0 +1,30 @@
+# findfile-in-folder-by-pathname
+
+> 标签: fs, pusudb
+
+## 简介
+
+Find a file in a folder by the pathname.
+
+## 官网
+
+- 官网：https://github.com/yamigr/findfile-in-folder-by-pathname#readme
+- npm 页面：https://www.npmjs.com/package/findfile-in-folder-by-pathname
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install findfile-in-folder-by-pathname`
+- npm registry：https://registry.npmjs.org/findfile-in-folder-by-pathname

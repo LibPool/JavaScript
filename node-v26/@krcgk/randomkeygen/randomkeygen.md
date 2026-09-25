@@ -1,0 +1,28 @@
+# @krcgk/randomkeygen
+
+> 标签: JavaScript
+
+## 简介
+
+A cli tool for quick random password and secret key generator
+
+## 官网
+
+- 官网：https://github.com/krcgk/randomkeygen#readme
+- 源码仓库：git+https://github.com/krcgk/randomkeygen.git
+- npm 页面：https://www.npmjs.com/package/@krcgk/randomkeygen
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @krcgk/randomkeygen`
+- npm registry：https://registry.npmjs.org/@krcgk/randomkeygen

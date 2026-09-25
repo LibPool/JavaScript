@@ -1,0 +1,22 @@
+# @ist-402-group-1/kmbtn
+
+> 标签: JavaScript
+
+## 简介
+
+Webcomponent anything-under-the-sun following open-wc recommendations
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@ist-402-group-1/kmbtn
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @ist-402-group-1/kmbtn`
+- npm registry：https://registry.npmjs.org/@ist-402-group-1/kmbtn

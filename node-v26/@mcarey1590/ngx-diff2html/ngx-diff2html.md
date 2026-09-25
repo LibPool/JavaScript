@@ -1,0 +1,25 @@
+# @mcarey1590/ngx-diff2html
+
+> 标签: Angular, Diff, Google, Library, diff2html
+
+## 简介
+
+A text diff component library for Angular.
+
+## 官网
+
+- 官网：https://axel-dev.github.io/ngx-diff2html
+- 源码仓库：git+https://github.com/AXeL-dev/ngx-diff2html.git
+- npm 页面：https://www.npmjs.com/package/@mcarey1590/ngx-diff2html
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.1.3
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @mcarey1590/ngx-diff2html`
+- npm registry：https://registry.npmjs.org/@mcarey1590/ngx-diff2html

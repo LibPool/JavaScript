@@ -1,0 +1,22 @@
+# ajax-feyenoord-live-op-kijken-gratis-tv
+
+> 标签: JavaScript
+
+## 简介
+
+Live stream Feyenoord Ajax | 05 april 2023 | Dutch KNVB Beker halve finale
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/ajax-feyenoord-live-op-kijken-gratis-tv
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 1.0.5
+
+## 获取地址
+
+- npm 安装：`npm install ajax-feyenoord-live-op-kijken-gratis-tv`
+- npm registry：https://registry.npmjs.org/ajax-feyenoord-live-op-kijken-gratis-tv

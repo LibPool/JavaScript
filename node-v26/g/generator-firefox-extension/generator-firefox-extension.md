@@ -1,0 +1,31 @@
+# generator-firefox-extension
+
+> 标签: addon, extension, ff, firefox, firefox-extension, yeoman-generator
+
+## 简介
+
+Yeoman generator for Firefox Extensions
+
+## 官网
+
+- 官网：https://github.com/dgil/generator-firefox-extension#readme
+- 源码仓库：git://github.com/dgil/generator-firefox-extension.git
+- npm 页面：https://www.npmjs.com/package/generator-firefox-extension
+
+## 历史版本号
+
+- 当前版本：0.4.0
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.2.0
+- 0.3.0
+- 0.3.1
+- 0.4.0
+
+## 获取地址
+
+- npm 安装：`npm install generator-firefox-extension`
+- npm registry：https://registry.npmjs.org/generator-firefox-extension
+- Node 要求：>=0.10.0

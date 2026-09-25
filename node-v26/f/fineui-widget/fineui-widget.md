@@ -1,0 +1,34 @@
+# fineui-widget
+
+> 标签: fineui, fix, react
+
+## 简介
+
+fineui-widget
+
+## 官网
+
+- 源码仓库：http://guy@cloud.finedevelop.com:2015/scm/~guy/fineui-widget.git
+- npm 页面：https://www.npmjs.com/package/fineui-widget
+
+## 历史版本号
+
+- 当前版本：0.0.23
+
+- 0.0.2
+- 0.0.20
+- 0.0.21
+- 0.0.22
+- 0.0.23
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install fineui-widget`
+- npm registry：https://registry.npmjs.org/fineui-widget

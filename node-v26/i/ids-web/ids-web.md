@@ -1,0 +1,23 @@
+# ids-web
+
+> 标签: JavaScript
+
+## 简介
+
+ids-web - JavaScript library from npm
+
+## 官网
+
+- 源码仓库：http://gitlab.iwhalecloud.com/ids/base/ids-web
+- npm 页面：https://www.npmjs.com/package/ids-web
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install ids-web`
+- npm registry：https://registry.npmjs.org/ids-web

@@ -1,0 +1,23 @@
+# com.cl.cordova.plugin.csrmesh
+
+> 标签: cordova, cordova-android, csrmesh, ecosystem:cordova
+
+## 简介
+
+CSRmesh cordova plugin sdk
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/com.cl.cordova.plugin.csrmesh
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.1.0
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install com.cl.cordova.plugin.csrmesh`
+- npm registry：https://registry.npmjs.org/com.cl.cordova.plugin.csrmesh

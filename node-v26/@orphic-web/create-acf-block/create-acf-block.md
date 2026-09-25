@@ -1,0 +1,27 @@
+# @orphic-web/create-acf-block
+
+> 标签: JavaScript
+
+## 简介
+
+commande line to create acf block in plugin/blocks folder
+
+## 官网
+
+- 官网：https://github.com/orphic-web/create-acf-block#readme
+- 源码仓库：git+https://github.com/orphic-web/create-acf-block.git
+- npm 页面：https://www.npmjs.com/package/@orphic-web/create-acf-block
+
+## 历史版本号
+
+- 当前版本：1.0.7
+
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+
+## 获取地址
+
+- npm 安装：`npm install @orphic-web/create-acf-block`
+- npm registry：https://registry.npmjs.org/@orphic-web/create-acf-block

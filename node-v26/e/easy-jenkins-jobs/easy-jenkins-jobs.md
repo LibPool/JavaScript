@@ -1,0 +1,25 @@
+# easy-jenkins-jobs
+
+> 标签: jenkins
+
+## 简介
+
+An easy way to create multiple Jenkins jobs based on a common name.
+
+## 官网
+
+- 官网：https://github.com/ingshtrom/easy-jenkins-jobs
+- 源码仓库：https://github.com/ingshtrom/easy-jenkins-jobs.git
+- npm 页面：https://www.npmjs.com/package/easy-jenkins-jobs
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install easy-jenkins-jobs`
+- npm registry：https://registry.npmjs.org/easy-jenkins-jobs
+- Node 要求：>= 0.10.x

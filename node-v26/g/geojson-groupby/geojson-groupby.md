@@ -1,0 +1,25 @@
+# geojson-groupby
+
+> 标签: categories, classify, geojson, group, group-by, json
+
+## 简介
+
+Group geojson features or array of json based on associated properties.
+
+## 官网
+
+- 官网：https://github.com/geosquare/geojson-groupby
+- 源码仓库：git+https://github.com/geosquare/geojson-groupby.git
+- npm 页面：https://www.npmjs.com/package/geojson-groupby
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.0
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install geojson-groupby`
+- npm registry：https://registry.npmjs.org/geojson-groupby

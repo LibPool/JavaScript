@@ -1,0 +1,32 @@
+# prevent-pull-refresh
+
+> 标签: browser, chrome, mobile, overscroll, prevent, pull refresh, refresh, scroll
+
+## 简介
+
+Preventing the pull-to-refresh effect browser on mobile
+
+## 官网
+
+- 官网：https://github.com/nghiepit/prevent-pull-refresh
+- 源码仓库：https://github.com/nghiepit/prevent-pull-refresh
+- npm 页面：https://www.npmjs.com/package/prevent-pull-refresh
+
+## 历史版本号
+
+- 当前版本：1.0.6
+
+- 0.0.1
+- 0.0.2
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+
+## 获取地址
+
+- npm 安装：`npm install prevent-pull-refresh`
+- npm registry：https://registry.npmjs.org/prevent-pull-refresh

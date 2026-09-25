@@ -1,0 +1,25 @@
+# hexo-renderer-arender
+
+> 标签: hexo, markdown, marked, renderer
+
+## 简介
+
+Markdown renderer plugin for Hexo
+
+## 官网
+
+- 官网：https://github.com/hexojs/hexo-renderer-marked#readme
+- 源码仓库：git+https://github.com/hexojs/hexo-renderer-marked.git
+- npm 页面：https://www.npmjs.com/package/hexo-renderer-arender
+
+## 历史版本号
+
+- 当前版本：4.1.0
+
+- 4.1.0
+
+## 获取地址
+
+- npm 安装：`npm install hexo-renderer-arender`
+- npm registry：https://registry.npmjs.org/hexo-renderer-arender
+- Node 要求：>=12

@@ -1,0 +1,35 @@
+# aux4
+
+> 标签: automation, cli, command-line, devops, generator, infrastructure-as-code, shell
+
+## 简介
+
+CLI (command-line interface) generator
+
+## 官网
+
+- 官网：https://aux4.io
+- 源码仓库：git+ssh://git@github.com/aux4/aux4.git
+- npm 页面：https://www.npmjs.com/package/aux4
+
+## 历史版本号
+
+- 当前版本：4.0.18
+
+- 4.0.13
+- 4.0.14
+- 4.0.15
+- 4.0.17
+- 4.0.18
+- 4.0.2
+- 4.0.4
+- 4.0.5
+- 4.0.6
+- 4.0.7
+- 4.0.8
+- 4.0.9
+
+## 获取地址
+
+- npm 安装：`npm install aux4`
+- npm registry：https://registry.npmjs.org/aux4

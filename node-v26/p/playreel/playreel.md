@@ -1,0 +1,32 @@
+# playreel
+
+> 标签: demo, demo-as-code, ffmpeg, playwright, promo, screen-recording, video, virtual-time
+
+## 简介
+
+Video as code, for the live web: give your LLM the vocabulary of human website gestures (scroll, swipe, hover, type, zoom) and render deterministic 60fps film of real pages
+
+## 官网
+
+- 官网：https://github.com/rdtsm/playreel#readme
+- 源码仓库：git+https://github.com/rdtsm/playreel.git
+- npm 页面：https://www.npmjs.com/package/playreel
+
+## 历史版本号
+
+- 当前版本：0.7.2
+
+- 0.1.0
+- 0.3.0
+- 0.6.1
+- 0.6.4
+- 0.6.7
+- 0.7.0
+- 0.7.1
+- 0.7.2
+
+## 获取地址
+
+- npm 安装：`npm install playreel`
+- npm registry：https://registry.npmjs.org/playreel
+- Node 要求：>=20

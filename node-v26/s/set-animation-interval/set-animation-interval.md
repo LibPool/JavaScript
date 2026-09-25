@@ -1,0 +1,25 @@
+# set-animation-interval
+
+> 标签: delay, requestanimationframe, setInterval, settimeout, timeout, timing
+
+## 简介
+
+Delay a function call without the use of setTimeout()
+
+## 官网
+
+- 官网：https://github.com/julienetie/set-animation-interval#readme
+- 源码仓库：git+https://github.com/julienetie/set-animation-interval.git
+- npm 页面：https://www.npmjs.com/package/set-animation-interval
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install set-animation-interval`
+- npm registry：https://registry.npmjs.org/set-animation-interval

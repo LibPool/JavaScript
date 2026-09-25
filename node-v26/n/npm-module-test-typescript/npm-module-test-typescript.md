@@ -1,0 +1,24 @@
+# npm-module-test-typescript
+
+> 标签: module, npm, test
+
+## 简介
+
+Test to create a module
+
+## 官网
+
+- 官网：https://github.com/PatrizioR/npm-module-test#readme
+- 源码仓库：git+https://github.com/PatrizioR/npm-module-test.git
+- npm 页面：https://www.npmjs.com/package/npm-module-test-typescript
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install npm-module-test-typescript`
+- npm registry：https://registry.npmjs.org/npm-module-test-typescript

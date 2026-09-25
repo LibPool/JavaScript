@@ -1,0 +1,35 @@
+# @tryghost/theme-translations
+
+> 标签: ghost, i18n, locales, theme, translations
+
+## 简介
+
+Shared translations for Ghost themes
+
+## 官网
+
+- 官网：https://github.com/TryGhost/Themes#readme
+- 源码仓库：git+https://github.com/TryGhost/Themes.git
+- npm 页面：https://www.npmjs.com/package/@tryghost/theme-translations
+
+## 历史版本号
+
+- 当前版本：0.0.22
+
+- 0.0.13
+- 0.0.14
+- 0.0.15
+- 0.0.16
+- 0.0.17
+- 0.0.18
+- 0.0.19
+- 0.0.2
+- 0.0.20
+- 0.0.21
+- 0.0.22
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @tryghost/theme-translations`
+- npm registry：https://registry.npmjs.org/@tryghost/theme-translations

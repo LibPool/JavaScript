@@ -1,0 +1,25 @@
+# @kyleupton/glob-copy
+
+> 标签: copy, node, progress, stream
+
+## 简介
+
+Copy utility based on Node.js streams with glob support
+
+## 官网
+
+- 官网：https://github.com/kyleaupton/glob-copy#readme
+- 源码仓库：git+https://github.com/kyleaupton/glob-copy.git
+- npm 页面：https://www.npmjs.com/package/@kyleupton/glob-copy
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @kyleupton/glob-copy`
+- npm registry：https://registry.npmjs.org/@kyleupton/glob-copy

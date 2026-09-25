@@ -1,0 +1,25 @@
+# @wxhccc/subtitle-parser
+
+> 标签: ass, captions, json, lrc, lyrics, sami, sbv, smi, srt, ssa, sub, subrip, subtitle, vtt
+
+## 简介
+
+Subtitle JavaScript library
+
+## 官网
+
+- 官网：https://github.com/wxhccc/subtitle-parser#readme
+- 源码仓库：git+https://github.com/wxhccc/subtitle-parser.git
+- npm 页面：https://www.npmjs.com/package/@wxhccc/subtitle-parser
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @wxhccc/subtitle-parser`
+- npm registry：https://registry.npmjs.org/@wxhccc/subtitle-parser

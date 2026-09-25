@@ -1,0 +1,30 @@
+# llm-cli-remote-server
+
+> 标签: api, claude, cli, codex, gemini, llm, opencode, remote, server
+
+## 简介
+
+Remote HTTP server for controlling multiple LLM CLIs (Claude, Gemini, opencode, Codex)
+
+## 官网
+
+- 官网：https://github.com/kotsutsumi/llm-cli-remote-server#readme
+- 源码仓库：git+https://github.com/kotsutsumi/llm-cli-remote-server.git
+- npm 页面：https://www.npmjs.com/package/llm-cli-remote-server
+
+## 历史版本号
+
+- 当前版本：0.0.6
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+
+## 获取地址
+
+- npm 安装：`npm install llm-cli-remote-server`
+- npm registry：https://registry.npmjs.org/llm-cli-remote-server
+- Node 要求：>=18.0.0

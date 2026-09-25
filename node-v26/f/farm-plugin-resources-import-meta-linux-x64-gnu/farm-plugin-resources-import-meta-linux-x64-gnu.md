@@ -1,0 +1,23 @@
+# farm-plugin-resources-import-meta-linux-x64-gnu
+
+> 标签: JavaScript
+
+## 简介
+
+This is the **x86_64-unknown-linux-gnu** binary for `farm-plugin-resources-import-meta`
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/farm-plugin-resources-import-meta-linux-x64-gnu
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install farm-plugin-resources-import-meta-linux-x64-gnu`
+- npm registry：https://registry.npmjs.org/farm-plugin-resources-import-meta-linux-x64-gnu
+- Node 要求：>= 10

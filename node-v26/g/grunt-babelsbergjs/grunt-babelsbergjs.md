@@ -1,0 +1,28 @@
+# grunt-babelsbergjs
+
+> 标签: gruntplugin
+
+## 简介
+
+Helper for BabelsbergJS for Node.
+
+## 官网
+
+- 官网：https://github.com/babelsbergjs/babelsbergjs-grunt
+- 源码仓库：git+https://github.com/babelsbergjs/babelsbergjs-grunt.git
+- npm 页面：https://www.npmjs.com/package/grunt-babelsbergjs
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install grunt-babelsbergjs`
+- npm registry：https://registry.npmjs.org/grunt-babelsbergjs
+- Node 要求：>= 0.8.0

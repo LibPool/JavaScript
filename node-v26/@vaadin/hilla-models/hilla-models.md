@@ -1,0 +1,36 @@
+# @vaadin/hilla-models
+
+> 标签: Form, Hilla, Models
+
+## 简介
+
+Generative form models for Hilla
+
+## 官网
+
+- 官网：https://hilla.dev
+- 源码仓库：git+https://github.com/vaadin/hilla.git
+- npm 页面：https://www.npmjs.com/package/@vaadin/hilla-models
+
+## 历史版本号
+
+- 当前版本：25.1.11
+
+- 25.3.0-alpha3
+- 25.3.0-alpha4
+- 25.3.0-alpha5
+- 25.3.0-alpha6
+- 25.3.0-alpha7
+- 25.3.0-alpha8
+- 25.3.0-alpha9
+- 25.3.0-beta1
+- 25.3.0-beta2
+- 25.3.0-beta3
+- 25.3.0-rc1
+- 25.3.0-rc2
+- 共 267 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @vaadin/hilla-models`
+- npm registry：https://registry.npmjs.org/@vaadin/hilla-models

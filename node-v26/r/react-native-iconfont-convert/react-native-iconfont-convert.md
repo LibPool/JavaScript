@@ -1,0 +1,25 @@
+# react-native-iconfont-convert
+
+> 标签: icon, iconfont, iconfont.cn, icons, react-native, react-native-iconfont
+
+## 简介
+
+用纯JS把iconfont.cn的图标转换成RN组件，不依赖字体，支持多色彩，支持热更新
+
+## 官网
+
+- 官网：https://github.com/obvzh/react-native-iconfont-convert#readme
+- 源码仓库：git+ssh://git@github.com/obvzh/react-native-iconfont-convert.git
+- npm 页面：https://www.npmjs.com/package/react-native-iconfont-convert
+
+## 历史版本号
+
+- 当前版本：2.2.6
+
+- 2.2.5
+- 2.2.6
+
+## 获取地址
+
+- npm 安装：`npm install react-native-iconfont-convert`
+- npm registry：https://registry.npmjs.org/react-native-iconfont-convert

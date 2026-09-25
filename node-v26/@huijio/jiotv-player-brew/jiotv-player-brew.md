@@ -1,0 +1,22 @@
+# @huijio/jiotv-player-brew
+
+> 标签: jiotv, samsung-tv, tizen, tizenbrew
+
+## 简介
+
+Add TV remote control support to Jio TV player website for Samsung Tizen TVs
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@huijio/jiotv-player-brew
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @huijio/jiotv-player-brew`
+- npm registry：https://registry.npmjs.org/@huijio/jiotv-player-brew

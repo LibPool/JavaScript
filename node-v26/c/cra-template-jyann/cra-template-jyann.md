@@ -1,0 +1,34 @@
+# cra-template-jyann
+
+> 标签: bytedance-fe, create-react-app, react, template, typescript
+
+## 简介
+
+The base TypeScript template for Create React App.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/cra-template-jyann
+
+## 历史版本号
+
+- 当前版本：0.7.0
+
+- 0.3.2
+- 0.3.3
+- 0.3.4
+- 0.3.5
+- 0.3.6
+- 0.3.7
+- 0.4.0
+- 0.4.1
+- 0.5.0
+- 0.6.0
+- 0.6.1
+- 0.7.0
+
+## 获取地址
+
+- npm 安装：`npm install cra-template-jyann`
+- npm registry：https://registry.npmjs.org/cra-template-jyann
+- Node 要求：>=12

@@ -1,0 +1,27 @@
+# esbuld-visualizer
+
+> 标签: JavaScript
+
+## 简介
+
+[![NPM Version](https://img.shields.io/npm/v/esbuild-visualizer.svg)](https://npmjs.org/package/esbuild-visualizer) [![Travis CI build status](https://img.shields.io/travis/com/btd/esbuild-visualizer.svg)](https://travis-ci.com/btd/esbuild-visualizer)
+
+## 官网
+
+- 官网：https://github.com/btd/esbuild-visualizer
+- 源码仓库：git+ssh://git@github.com/btd/esbuild-visualizer.git
+- npm 页面：https://www.npmjs.com/package/esbuld-visualizer
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.0
+- 0.1.1
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install esbuld-visualizer`
+- npm registry：https://registry.npmjs.org/esbuld-visualizer
+- Node 要求：>=10

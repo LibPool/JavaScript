@@ -1,0 +1,24 @@
+# spread-out
+
+> 标签: enumeration
+
+## 简介
+
+Spread out all of the possibilities, given an object with iterable values
+
+## 官网
+
+- 官网：https://github.com/SivanMehta/spread-out
+- 源码仓库：git+https://github.com/SivanMehta/spread-out.git
+- npm 页面：https://www.npmjs.com/package/spread-out
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install spread-out`
+- npm registry：https://registry.npmjs.org/spread-out

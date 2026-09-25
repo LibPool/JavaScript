@@ -1,0 +1,32 @@
+# ev-components-ui-library
+
+> 标签: JavaScript
+
+## 简介
+
+evergent components ui library
+
+## 官网
+
+- 源码仓库：https://gitlab.evergent.com/ev-components/ui-library.git
+- npm 页面：https://www.npmjs.com/package/ev-components-ui-library
+
+## 历史版本号
+
+- 当前版本：1.2.4
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.2.3
+- 1.2.4
+
+## 获取地址
+
+- npm 安装：`npm install ev-components-ui-library`
+- npm registry：https://registry.npmjs.org/ev-components-ui-library
+- Node 要求：>=10

@@ -1,0 +1,36 @@
+# kwiz
+
+> 标签: examination, kwiz, quiz, survey
+
+## 简介
+
+Quiz/Survey engine
+
+## 官网
+
+- 官网：https://github.com/telegraf/kwiz#readme
+- 源码仓库：git+ssh://git@github.com/telegraf/kwiz.git
+- npm 页面：https://www.npmjs.com/package/kwiz
+
+## 历史版本号
+
+- 当前版本：3.0.0
+
+- 0.0.0
+- 0.0.1
+- 0.2.0
+- 0.3.0
+- 0.3.1
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.0
+- 1.2.0
+- 2.0.0
+- 3.0.0
+
+## 获取地址
+
+- npm 安装：`npm install kwiz`
+- npm registry：https://registry.npmjs.org/kwiz
+- Node 要求：>=6.2.1

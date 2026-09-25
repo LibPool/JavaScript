@@ -1,0 +1,35 @@
+# @markii/stdlib
+
+> 标签: contracts, directive, mark, markdown, mk.md, stdlib
+
+## 简介
+
+Neutral, framework-agnostic standard component contracts for Mark (.mk.md) — the kind/attribute-schema seam every renderer (e.g. @markii/react) implements against. No React, zero dependencies.
+
+## 官网
+
+- 官网：https://github.com/markii-org/markii#readme
+- 源码仓库：git+https://github.com/markii-org/markii.git
+- npm 页面：https://www.npmjs.com/package/@markii/stdlib
+
+## 历史版本号
+
+- 当前版本：0.16.0
+
+- 0.3.0
+- 0.3.1
+- 0.4.0
+- 0.5.0
+- 0.6.0
+- 0.7.0
+- 0.7.1
+- 0.7.2
+- 0.7.3
+- 0.8.0
+- 0.8.1
+- 0.9.0
+
+## 获取地址
+
+- npm 安装：`npm install @markii/stdlib`
+- npm registry：https://registry.npmjs.org/@markii/stdlib

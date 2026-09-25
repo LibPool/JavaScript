@@ -1,0 +1,22 @@
+# louislabs-first-npm-package
+
+> 标签: JavaScript
+
+## 简介
+
+My first npm package tutorial
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/louislabs-first-npm-package
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install louislabs-first-npm-package`
+- npm registry：https://registry.npmjs.org/louislabs-first-npm-package

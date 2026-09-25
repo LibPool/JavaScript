@@ -1,0 +1,28 @@
+# @intrnl/esbuild-plugin-vanilla-extract
+
+> 标签: JavaScript
+
+## 简介
+
+Fork of the official vanilla-extract esbuild plugin
+
+## 官网
+
+- 源码仓库：https://codeberg.org/intrnl/esbuild-plugin-vanilla-extract
+- npm 页面：https://www.npmjs.com/package/@intrnl/esbuild-plugin-vanilla-extract
+
+## 历史版本号
+
+- 当前版本：0.3.1
+
+- 0.1.0
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.3.0
+- 0.3.1
+
+## 获取地址
+
+- npm 安装：`npm install @intrnl/esbuild-plugin-vanilla-extract`
+- npm registry：https://registry.npmjs.org/@intrnl/esbuild-plugin-vanilla-extract

@@ -1,0 +1,36 @@
+# @useknockout/cli
+
+> 标签: ai, background-removal, birefnet, cli, command-line, image-processing, remove-background, useknockout
+
+## 简介
+
+CLI for useknockout — remove backgrounds, replace backgrounds, batch process. No install required via npx.
+
+## 官网
+
+- 官网：https://github.com/useknockout/cli
+- 源码仓库：git+https://github.com/useknockout/cli.git
+- npm 页面：https://www.npmjs.com/package/@useknockout/cli
+
+## 历史版本号
+
+- 当前版本：0.8.0
+
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.1.0
+- 0.2.0
+- 0.3.0
+- 0.4.0
+- 0.5.0
+- 0.6.0
+- 0.7.0
+- 0.8.0
+
+## 获取地址
+
+- npm 安装：`npm install @useknockout/cli`
+- npm registry：https://registry.npmjs.org/@useknockout/cli
+- Node 要求：>=18

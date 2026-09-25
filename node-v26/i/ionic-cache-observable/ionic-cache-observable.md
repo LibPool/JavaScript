@@ -1,0 +1,29 @@
+# ionic-cache-observable
+
+> 标签: angular2, cache, ionic, ionic2, observable, observables, performance, storage
+
+## 简介
+
+Ionic cache service to sync observables with local storage.
+
+## 官网
+
+- 官网：https://github.com/westphalen/ionic-cache-observable
+- 源码仓库：git+https://github.com/westphalen/ionic-cache-observable.git
+- npm 页面：https://www.npmjs.com/package/ionic-cache-observable
+
+## 历史版本号
+
+- 当前版本：0.0.6
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+
+## 获取地址
+
+- npm 安装：`npm install ionic-cache-observable`
+- npm registry：https://registry.npmjs.org/ionic-cache-observable

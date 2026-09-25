@@ -1,0 +1,36 @@
+# diy-pwa
+
+> 标签: diy, engineer, entrepreneurs, pwa, sales, salesucation, serverless, static
+
+## 简介
+
+Rapid 80% working prototype for entrepreneur engineers
+
+## 官网
+
+- 官网：https://diy-pwa.github.io/diy-pwa
+- 源码仓库：git+https://github.com/diy-pwa/diy-pwa.git
+- npm 页面：https://www.npmjs.com/package/diy-pwa
+
+## 历史版本号
+
+- 当前版本：1.1.19
+
+- 1.1.15
+- 1.1.16
+- 1.1.17
+- 1.1.18
+- 1.1.19
+- 1.1.2
+- 1.1.4
+- 1.1.5
+- 1.1.6
+- 1.1.7
+- 1.1.8
+- 1.1.9
+- 共 117 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install diy-pwa`
+- npm registry：https://registry.npmjs.org/diy-pwa

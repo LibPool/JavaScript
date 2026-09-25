@@ -1,0 +1,23 @@
+# watteco-hygrotemp_o_remote
+
+> 标签: JavaScript
+
+## 简介
+
+Driver for hygrotemp'o_remote sensor
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/watteco-hygrotemp_o_remote
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 1.1.1
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install watteco-hygrotemp_o_remote`
+- npm registry：https://registry.npmjs.org/watteco-hygrotemp_o_remote

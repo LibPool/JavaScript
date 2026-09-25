@@ -1,0 +1,25 @@
+# solids-ui-kit
+
+> 标签: button, component-library, frontend, react-alternative, solid-js, solidjs, tailwind-css, tailwindcss, typescript, ui-components, ui-library, web-components
+
+## 简介
+
+A modern Solid.js UI component library with Tailwind CSS
+
+## 官网
+
+- 官网：https://github.com/wllcyg/solids#readme
+- 源码仓库：git+https://github.com/wllcyg/solids.git
+- npm 页面：https://www.npmjs.com/package/solids-ui-kit
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install solids-ui-kit`
+- npm registry：https://registry.npmjs.org/solids-ui-kit
+- Node 要求：>=16.0.0

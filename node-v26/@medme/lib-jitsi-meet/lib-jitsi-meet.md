@@ -1,0 +1,28 @@
+# @medme/lib-jitsi-meet
+
+> 标签: browser, jingle, jitsi, webrtc, xmpp
+
+## 简介
+
+JS library for accessing Jitsi server side deployments
+
+## 官网
+
+- 官网：https://github.com/GbookingLTD/lib-jitsi-meet#readme
+- 源码仓库：git://github.com/GbookingLTD/lib-jitsi-meet.git
+- npm 页面：https://www.npmjs.com/package/@medme/lib-jitsi-meet
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @medme/lib-jitsi-meet`
+- npm registry：https://registry.npmjs.org/@medme/lib-jitsi-meet

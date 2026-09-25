@@ -1,0 +1,27 @@
+# mimosa-restart
+
+> 标签: mimosa, mmodule, reboot, reload, restart
+
+## 简介
+
+A Mimosa module that will automatically restart Mimosa when your compiled directory is removed
+
+## 官网
+
+- 官网：https://github.com/dbashford/mimosa-restart
+- 源码仓库：https://github.com/dbashford/mimosa-restart
+- npm 页面：https://www.npmjs.com/package/mimosa-restart
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.1.0
+- 0.2.0
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install mimosa-restart`
+- npm registry：https://registry.npmjs.org/mimosa-restart
+- Node 要求：>=0.10

@@ -1,0 +1,24 @@
+# popular-reader-soil5
+
+> 标签: component, components, design, framework, frontend, react, react-component, ui, web3
+
+## 简介
+
+popular-reader-soil5
+
+## 官网
+
+- 官网：https://github.com/popular-reader-soil5/popular-reader-soil5#readme
+- 源码仓库：git+https://github.com/popular-reader-soil5/popular-reader-soil5.git
+- npm 页面：https://www.npmjs.com/package/popular-reader-soil5
+
+## 历史版本号
+
+- 当前版本：83.6.59
+
+- 83.6.59
+
+## 获取地址
+
+- npm 安装：`npm install popular-reader-soil5`
+- npm registry：https://registry.npmjs.org/popular-reader-soil5

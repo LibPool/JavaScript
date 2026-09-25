@@ -1,0 +1,36 @@
+# @springworks/input-validator
+
+> 标签: JavaScript
+
+## 简介
+
+Simple module to validate input parameters.
+
+## 官网
+
+- 官网：https://github.com/Springworks/m2h-mono/tree/master/packages/input-validator#readme
+- 源码仓库：https://github.com/Springworks/m2h-mono.git
+- npm 页面：https://www.npmjs.com/package/@springworks/input-validator
+
+## 历史版本号
+
+- 当前版本：3005.464.1
+
+- 3005.458.0
+- 3005.464.1
+- 3005.76.0
+- 3005.77.0
+- 3005.79.0
+- 3005.80.0
+- 3005.86.0
+- 3005.86.1
+- 3005.86.2
+- 3005.86.3
+- 3005.86.6
+- 3005.90.3
+- 共 453 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @springworks/input-validator`
+- npm registry：https://registry.npmjs.org/@springworks/input-validator

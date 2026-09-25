@@ -1,0 +1,25 @@
+# @lattice-ai/core
+
+> 标签: confidence, context, domain-agnostic, events, inference, signals, type-safe, typescript
+
+## 简介
+
+Lattice: A domain-agnostic context and confidence engine. Transform raw signals into structured understanding with explicit confidence bounds.
+
+## 官网
+
+- 官网：https://github.com/jordanranz/lattice#readme
+- 源码仓库：git+https://github.com/jordanranz/lattice.git
+- npm 页面：https://www.npmjs.com/package/@lattice-ai/core
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @lattice-ai/core`
+- npm registry：https://registry.npmjs.org/@lattice-ai/core
+- Node 要求：>=18.0.0

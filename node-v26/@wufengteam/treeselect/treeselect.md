@@ -1,0 +1,33 @@
+# @wufengteam/treeselect
+
+> 标签: alita, wufengteam
+
+## 简介
+
+@wufengteam/treeselect
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@wufengteam/treeselect
+
+## 历史版本号
+
+- 当前版本：4.1.1
+
+- 3.5.4
+- 3.5.5
+- 3.6.0
+- 3.7.0
+- 3.7.1
+- 3.7.2
+- 3.8.0
+- 3.8.1
+- 4.0.0
+- 4.0.1
+- 4.0.2
+- 4.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @wufengteam/treeselect`
+- npm registry：https://registry.npmjs.org/@wufengteam/treeselect

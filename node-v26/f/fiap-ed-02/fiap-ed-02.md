@@ -1,0 +1,24 @@
+# fiap-ed-02
+
+> 标签: Criação, Modulos, Nodejs, Packages, de
+
+## 简介
+
+Estudo e apresentação da criação e publicação de modulos em node
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/fiap-ed-02
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install fiap-ed-02`
+- npm registry：https://registry.npmjs.org/fiap-ed-02

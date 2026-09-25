@@ -1,0 +1,25 @@
+# color-tween
+
+> 标签: JavaScript
+
+## 简介
+
+Tween between any two colors
+
+## 官网
+
+- 官网：https://github.com/alanguir/color-tween#readme
+- 源码仓库：git+https://github.com/alanguir/color-tween.git
+- npm 页面：https://www.npmjs.com/package/color-tween
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install color-tween`
+- npm registry：https://registry.npmjs.org/color-tween

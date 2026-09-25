@@ -1,0 +1,28 @@
+# @woleet/woleet-widgetv2
+
+> 标签: File Hasher, Woleet, widgets
+
+## 简介
+
+Woleet web widgets V2
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@woleet/woleet-widgetv2
+
+## 历史版本号
+
+- 当前版本：1.0.6
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+
+## 获取地址
+
+- npm 安装：`npm install @woleet/woleet-widgetv2`
+- npm registry：https://registry.npmjs.org/@woleet/woleet-widgetv2

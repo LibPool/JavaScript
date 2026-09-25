@@ -1,0 +1,24 @@
+# fontify
+
+> 标签: bootstrap, copy, fonts, front-end, modules
+
+## 简介
+
+Copy font files from node_modules folder
+
+## 官网
+
+- 官网：https://github.com/YoussefKababe/fontify#readme
+- 源码仓库：git+https://github.com/YoussefKababe/fontify.git
+- npm 页面：https://www.npmjs.com/package/fontify
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install fontify`
+- npm registry：https://registry.npmjs.org/fontify

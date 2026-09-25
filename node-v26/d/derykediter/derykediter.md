@@ -1,0 +1,36 @@
+# derykediter
+
+> 标签: angular, angular2
+
+## 简介
+
+npm install derykediter
+
+## 官网
+
+- 官网：https://github.com/dking3876/bf-text#readme
+- 源码仓库：git+https://github.com/dking3876/bf-text.git
+- npm 页面：https://www.npmjs.com/package/derykediter
+
+## 历史版本号
+
+- 当前版本：2.1.3
+
+- 1.0.6
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 2.0.0
+- 2.0.1
+- 2.0.5
+- 2.0.9
+- 2.1.0
+- 2.1.1
+- 2.1.2
+- 2.1.3
+
+## 获取地址
+
+- npm 安装：`npm install derykediter`
+- npm registry：https://registry.npmjs.org/derykediter
+- Node 要求：>=0.8.0

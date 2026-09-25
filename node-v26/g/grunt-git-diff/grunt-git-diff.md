@@ -1,0 +1,31 @@
+# grunt-git-diff
+
+> 标签: diff, git, gruntplugin, html, jade
+
+## 简介
+
+Grunt Task that uses the git diff information to modify the content of files
+
+## 官网
+
+- 官网：https://github.com/paulpflug/grunt-git-diff/
+- 源码仓库：git://github.com/paulpflug/grunt-git-diff.git
+- npm 页面：https://www.npmjs.com/package/grunt-git-diff
+
+## 历史版本号
+
+- 当前版本：0.0.7
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+
+## 获取地址
+
+- npm 安装：`npm install grunt-git-diff`
+- npm registry：https://registry.npmjs.org/grunt-git-diff
+- Node 要求：*

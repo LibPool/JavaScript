@@ -1,0 +1,23 @@
+# demo-1809b
+
+> 标签: JavaScript
+
+## 简介
+
+```javascript const fs = require("fs"); const path = require("path"); const dirToJSON = (dir) => {     // 完成代码     const isFile = fs.statSync(dir).isFile();
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/demo-1809b
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install demo-1809b`
+- npm registry：https://registry.npmjs.org/demo-1809b

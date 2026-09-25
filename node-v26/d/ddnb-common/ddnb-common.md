@@ -1,0 +1,25 @@
+# ddnb-common
+
+> 标签: common, ddnb
+
+## 简介
+
+ddnb-common
+
+## 官网
+
+- 源码仓库：git@gitee.com:lemonzzy/lerna-mono-demo.git
+- npm 页面：https://www.npmjs.com/package/ddnb-common
+
+## 历史版本号
+
+- 当前版本：1.0.6
+
+- 1.0.4
+- 1.0.5
+- 1.0.6
+
+## 获取地址
+
+- npm 安装：`npm install ddnb-common`
+- npm registry：https://registry.npmjs.org/ddnb-common

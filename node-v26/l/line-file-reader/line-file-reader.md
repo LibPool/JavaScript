@@ -1,0 +1,30 @@
+# line-file-reader
+
+> 标签: JavaScript
+
+## 简介
+
+A simple ES2018 asynchronous browser File reader
+
+## 官网
+
+- 官网：https://github.com/alkihis/line-file-reader
+- 源码仓库：git+https://github.com/alkihis/line-file-reader.git
+- npm 页面：https://www.npmjs.com/package/line-file-reader
+
+## 历史版本号
+
+- 当前版本：1.1.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+
+## 获取地址
+
+- npm 安装：`npm install line-file-reader`
+- npm registry：https://registry.npmjs.org/line-file-reader

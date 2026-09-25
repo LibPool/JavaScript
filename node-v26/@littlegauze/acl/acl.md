@@ -1,0 +1,26 @@
+# @littlegauze/acl
+
+> 标签: acl, middleware, web
+
+## 简介
+
+An Access Control List module, based on Redis with Express middleware support
+
+## 官网
+
+- 官网：https://github.com/littleGauze/node_acl
+- 源码仓库：git://github.com/littleGauze/node_acl.git
+- npm 页面：https://www.npmjs.com/package/@littlegauze/acl
+
+## 历史版本号
+
+- 当前版本：0.5.1
+
+- 0.5.0
+- 0.5.1
+
+## 获取地址
+
+- npm 安装：`npm install @littlegauze/acl`
+- npm registry：https://registry.npmjs.org/@littlegauze/acl
+- Node 要求：>= 0.10

@@ -1,0 +1,30 @@
+# gulp-file-content-to-json
+
+> 标签: gulpplugin, json
+
+## 简介
+
+Create json file mapping sources to their content. Modified from https://github.com/danielhusar
+
+## 官网
+
+- 官网：https://github.com/kfryauff-mw/gulp-file-content-to-json#readme
+- 源码仓库：git+https://github.com/kfryauff-mw/gulp-file-content-to-json.git
+- npm 页面：https://www.npmjs.com/package/gulp-file-content-to-json
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.5
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install gulp-file-content-to-json`
+- npm registry：https://registry.npmjs.org/gulp-file-content-to-json
+- Node 要求：>=0.10.0

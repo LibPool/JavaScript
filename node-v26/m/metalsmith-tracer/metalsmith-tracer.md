@@ -1,0 +1,36 @@
+# metalsmith-tracer
+
+> 标签: metalsmith, metalsmith-plugin, plugin
+
+## 简介
+
+A Metalsmith plugin to find related files within collections.
+
+## 官网
+
+- 官网：https://github.com/emmercm/metalsmith-plugins/tree/main/packages/metalsmith-tracer#readme
+- 源码仓库：git+https://github.com/emmercm/metalsmith-plugins.git
+- npm 页面：https://www.npmjs.com/package/metalsmith-tracer
+
+## 历史版本号
+
+- 当前版本：2.1.6
+
+- 2.0.2
+- 2.0.3
+- 2.0.4
+- 2.0.5
+- 2.0.6
+- 2.0.7
+- 2.1.0
+- 2.1.1
+- 2.1.3
+- 2.1.4
+- 2.1.5
+- 2.1.6
+
+## 获取地址
+
+- npm 安装：`npm install metalsmith-tracer`
+- npm registry：https://registry.npmjs.org/metalsmith-tracer
+- Node 要求：^12.20.0 || ^14.13.1 || >=16.0.0

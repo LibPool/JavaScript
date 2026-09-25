@@ -1,0 +1,25 @@
+# hacksoft-interpreter
+
+> 标签: hacksoft, hks, interpreter
+
+## 简介
+
+A library for interpreting .hks files
+
+## 官网
+
+- 官网：https://github.com/yourusername/hack-soft#readme
+- 源码仓库：git+https://github.com/yourusername/hack-soft.git
+- npm 页面：https://www.npmjs.com/package/hacksoft-interpreter
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install hacksoft-interpreter`
+- npm registry：https://registry.npmjs.org/hacksoft-interpreter

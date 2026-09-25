@@ -1,0 +1,24 @@
+# @kaiachain/hardhat-utils
+
+> 标签: ethereum, hardhat, hardhat-plugin, smart-contracts
+
+## 简介
+
+Hardhat utility tasks
+
+## 官网
+
+- 官网：https://github.com/kaiachain/hardhat-utils#readme
+- 源码仓库：git+https://github.com/kaiachain/hardhat-utils.git
+- npm 页面：https://www.npmjs.com/package/@kaiachain/hardhat-utils
+
+## 历史版本号
+
+- 当前版本：0.0.20
+
+- 0.0.20
+
+## 获取地址
+
+- npm 安装：`npm install @kaiachain/hardhat-utils`
+- npm registry：https://registry.npmjs.org/@kaiachain/hardhat-utils

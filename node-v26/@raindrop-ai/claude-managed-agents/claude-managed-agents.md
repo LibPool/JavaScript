@@ -1,0 +1,31 @@
+# @raindrop-ai/claude-managed-agents
+
+> 标签: JavaScript
+
+## 简介
+
+Claude Managed Agents integration for Raindrop
+
+## 官网
+
+- 官网：https://www.raindrop.ai/docs/integrations/claude-managed-agents/
+- npm 页面：https://www.npmjs.com/package/@raindrop-ai/claude-managed-agents
+
+## 历史版本号
+
+- 当前版本：0.0.10
+
+- 0.0.10
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @raindrop-ai/claude-managed-agents`
+- npm registry：https://registry.npmjs.org/@raindrop-ai/claude-managed-agents

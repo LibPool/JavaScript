@@ -1,0 +1,35 @@
+# @ligrila/background-remover
+
+> 标签: JavaScript
+
+## 简介
+
+![Screenshot of the component in action](https://github.com/Ligrila/background-remover/blob/main/src/assets/screenshot.webp?raw=true)
+
+## 官网
+
+- 官网：https://github.com/ligrila/background-remover#readme
+- 源码仓库：git+https://github.com/ligrila/background-remover.git
+- npm 页面：https://www.npmjs.com/package/@ligrila/background-remover
+
+## 历史版本号
+
+- 当前版本：0.3.8
+
+- 0.1.0
+- 0.2.0
+- 0.2.1
+- 0.3.0
+- 0.3.1
+- 0.3.2
+- 0.3.3
+- 0.3.4
+- 0.3.5
+- 0.3.6
+- 0.3.7
+- 0.3.8
+
+## 获取地址
+
+- npm 安装：`npm install @ligrila/background-remover`
+- npm registry：https://registry.npmjs.org/@ligrila/background-remover

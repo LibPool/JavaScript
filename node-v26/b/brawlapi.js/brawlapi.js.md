@@ -1,0 +1,28 @@
+# brawlapi.js
+
+> 标签: JavaScript
+
+## 简介
+
+NodeJS API wrapper for https://brawlapi.com
+
+## 官网
+
+- 官网：https://github.com/kurbyrr/brawlapi.js#readme
+- 源码仓库：git+https://github.com/kurbyrr/brawlapi.js.git
+- npm 页面：https://www.npmjs.com/package/brawlapi.js
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 0.0.1
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install brawlapi.js`
+- npm registry：https://registry.npmjs.org/brawlapi.js

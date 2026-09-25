@@ -1,0 +1,25 @@
+# @sixi/editor
+
+> 标签: vue quil, vue quil editor
+
+## 简介
+
+vue quil editor
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@sixi/editor
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @sixi/editor`
+- npm registry：https://registry.npmjs.org/@sixi/editor

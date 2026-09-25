@@ -1,0 +1,29 @@
+# react-tabledata
+
+> 标签: component, datatable, json, react
+
+## 简介
+
+A react component for displaying data in a table. Yup. Simple as that
+
+## 官网
+
+- 官网：https://github.com/nicklayb/react-tabledata#readme
+- 源码仓库：git+https://github.com/nicklayb/react-tabledata.git
+- npm 页面：https://www.npmjs.com/package/react-tabledata
+
+## 历史版本号
+
+- 当前版本：0.1.4
+
+- 0.0.1
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+
+## 获取地址
+
+- npm 安装：`npm install react-tabledata`
+- npm registry：https://registry.npmjs.org/react-tabledata

@@ -1,0 +1,22 @@
+# @mob2con/mc2-react-commons
+
+> 标签: JavaScript
+
+## 简介
+
+Some text...
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@mob2con/mc2-react-commons
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @mob2con/mc2-react-commons`
+- npm registry：https://registry.npmjs.org/@mob2con/mc2-react-commons

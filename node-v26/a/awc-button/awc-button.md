@@ -1,0 +1,25 @@
+# awc-button
+
+> 标签: Web Component, webpack
+
+## 简介
+
+Web Components
+
+## 官网
+
+- 官网：https://github.com/ynqc/awc-button#readme
+- 源码仓库：git+https://github.com/ynqc/awc-button.git
+- npm 页面：https://www.npmjs.com/package/awc-button
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install awc-button`
+- npm registry：https://registry.npmjs.org/awc-button

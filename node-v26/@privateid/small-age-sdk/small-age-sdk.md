@@ -1,0 +1,35 @@
+# @privateid/small-age-sdk
+
+> 标签: AWS, CAPTCHA, CCPA, Cognito, FHE, Face recognition, GDPR, SSO, access control, biometric authentication, biometric recognition, call center, face mask, homomorphic, identity, mfa, passport, payments, privacy, recognition, tensorflow, ticketless, verification, verify
+
+## 简介
+
+Age SDK
+
+## 官网
+
+- 官网：https://github.com/prividentity/CryptoNets/tree/devel/wasm_module
+- 源码仓库：git+https://github.com/openinfer/privIDFHEAge.git
+- npm 页面：https://www.npmjs.com/package/@privateid/small-age-sdk
+
+## 历史版本号
+
+- 当前版本：2.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 2.0.0
+- 2.0.1
+- 2.0.2
+- 2.0.3
+- 2.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @privateid/small-age-sdk`
+- npm registry：https://registry.npmjs.org/@privateid/small-age-sdk

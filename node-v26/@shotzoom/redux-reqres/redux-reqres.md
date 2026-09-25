@@ -1,0 +1,24 @@
+# @shotzoom/redux-reqres
+
+> 标签: JavaScript
+
+## 简介
+
+Redux request/response middleware.
+
+## 官网
+
+- 官网：https://github.com/Shotzoom/redux-reqres#readme
+- 源码仓库：git+https://github.com/Shotzoom/redux-reqres.git
+- npm 页面：https://www.npmjs.com/package/@shotzoom/redux-reqres
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @shotzoom/redux-reqres`
+- npm registry：https://registry.npmjs.org/@shotzoom/redux-reqres

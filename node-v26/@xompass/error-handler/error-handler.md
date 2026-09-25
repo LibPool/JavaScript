@@ -1,0 +1,26 @@
+# @xompass/error-handler
+
+> 标签: JavaScript
+
+## 简介
+
+Error handler for use in development and production environments.
+
+## 官网
+
+- 官网：https://github.com/xompass/strong-error-handler#readme
+- 源码仓库：git+https://github.com/xompass/strong-error-handler.git
+- npm 页面：https://www.npmjs.com/package/@xompass/error-handler
+
+## 历史版本号
+
+- 当前版本：10.0.0
+
+- 10.0.0
+- 5.0.29
+
+## 获取地址
+
+- npm 安装：`npm install @xompass/error-handler`
+- npm registry：https://registry.npmjs.org/@xompass/error-handler
+- Node 要求：>=20

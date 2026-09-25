@@ -1,0 +1,29 @@
+# workfront-api-constants
+
+> 标签: API, AtTask, Constants, Workfront
+
+## 简介
+
+Definitions for all constants which can be used to interact with Workfront API
+
+## 官网
+
+- 官网：https://github.com/Workfront/workfront-api-constants
+- 源码仓库：git+https://github.com/Workfront/workfront-api-constants.git
+- npm 页面：https://www.npmjs.com/package/workfront-api-constants
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install workfront-api-constants`
+- npm registry：https://registry.npmjs.org/workfront-api-constants

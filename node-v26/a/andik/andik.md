@@ -1,0 +1,24 @@
+# andik
+
+> 标签: JavaScript
+
+## 简介
+
+React button package for trial...
+
+## 官网
+
+- 官网：https://github.com/ulutas/andik#readme
+- 源码仓库：git+https://github.com/ulutas/andik.git
+- npm 页面：https://www.npmjs.com/package/andik
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install andik`
+- npm registry：https://registry.npmjs.org/andik

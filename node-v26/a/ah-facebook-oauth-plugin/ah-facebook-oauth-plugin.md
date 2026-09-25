@@ -1,0 +1,25 @@
+# ah-facebook-oauth-plugin
+
+> 标签: actionhero, ah, formatting, tag, tags, utilities, utility, validation
+
+## 简介
+
+I provide OAuth utilities for ActionHero
+
+## 官网
+
+- 官网：https://github.com/dangerdespain/ah-facebook-oauth-plugin
+- 源码仓库：git@github.com/ah-facebook-oauth-plugin.git
+- npm 页面：https://www.npmjs.com/package/ah-facebook-oauth-plugin
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install ah-facebook-oauth-plugin`
+- npm registry：https://registry.npmjs.org/ah-facebook-oauth-plugin
+- Node 要求：>=0.8.0

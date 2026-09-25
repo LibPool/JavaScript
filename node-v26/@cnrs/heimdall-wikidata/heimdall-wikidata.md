@@ -1,0 +1,25 @@
+# @cnrs/heimdall-wikidata
+
+> 标签: heimdall, hera, wikidata
+
+## 简介
+
+Wikidata connector for Heimdall.js.
+
+## 官网
+
+- 官网：https://gitlab.huma-num.fr/datasphere/heimdall/js
+- 源码仓库：git@gitlab.huma-num.fr:datasphere/heimdall/js.git
+- npm 页面：https://www.npmjs.com/package/@cnrs/heimdall-wikidata
+
+## 历史版本号
+
+- 当前版本：0.7.1
+
+- 0.1.0
+- 0.7.1
+
+## 获取地址
+
+- npm 安装：`npm install @cnrs/heimdall-wikidata`
+- npm registry：https://registry.npmjs.org/@cnrs/heimdall-wikidata

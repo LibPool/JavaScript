@@ -1,0 +1,26 @@
+# coro-py
+
+> 标签: coronavirus
+
+## 简介
+
+新型冠状病毒爬虫
+
+## 官网
+
+- 官网：https://github.com/iotcat/coro-py#readme
+- 源码仓库：git+https://github.com/iotcat/coro-py.git
+- npm 页面：https://www.npmjs.com/package/coro-py
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install coro-py`
+- npm registry：https://registry.npmjs.org/coro-py

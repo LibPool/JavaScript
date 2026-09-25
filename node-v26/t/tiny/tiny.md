@@ -1,0 +1,31 @@
+# tiny
+
+> 标签: database, in-process, nosql
+
+## 简介
+
+An in-process key-value store
+
+## 官网
+
+- 官网：https://github.com/chjj/tiny
+- 源码仓库：git://github.com/chjj/tiny.git
+- npm 页面：https://www.npmjs.com/package/tiny
+
+## 历史版本号
+
+- 当前版本：0.0.10
+
+- 0.0.10
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install tiny`
+- npm registry：https://registry.npmjs.org/tiny
+- Node 要求：>= 0.8.0

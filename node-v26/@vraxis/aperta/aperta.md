@@ -1,0 +1,25 @@
+# @vraxis/aperta
+
+> 标签: JavaScript
+
+## 简介
+
+See which parts of your codebase you can actually explain.
+
+## 官网
+
+- 官网：https://github.com/Vequan23/aperta#readme
+- 源码仓库：git+https://github.com/Vequan23/aperta.git
+- npm 页面：https://www.npmjs.com/package/@vraxis/aperta
+
+## 历史版本号
+
+- 当前版本：1.0.0-beta.4
+
+- 1.0.0-beta.4
+
+## 获取地址
+
+- npm 安装：`npm install @vraxis/aperta`
+- npm registry：https://registry.npmjs.org/@vraxis/aperta
+- Node 要求：>=22.12

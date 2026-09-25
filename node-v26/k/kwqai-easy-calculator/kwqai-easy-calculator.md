@@ -1,0 +1,22 @@
+# kwqai-easy-calculator
+
+> 标签: JavaScript
+
+## 简介
+
+This is my personal easy calculator.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/kwqai-easy-calculator
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install kwqai-easy-calculator`
+- npm registry：https://registry.npmjs.org/kwqai-easy-calculator

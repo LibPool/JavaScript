@@ -1,0 +1,35 @@
+# hyper-website-theme
+
+> 标签: hyper, hyper-theme
+
+## 简介
+
+a theme for hyper based on the hyper.is website
+
+## 官网
+
+- 官网：https://github.com/mmcbride1007/hyper-website-theme#readme
+- 源码仓库：git+https://github.com/mmcbride1007/hyper-website-theme.git
+- npm 页面：https://www.npmjs.com/package/hyper-website-theme
+
+## 历史版本号
+
+- 当前版本：3.0.2
+
+- 2.2.0
+- 2.2.1
+- 2.2.2
+- 2.2.3
+- 2.2.4
+- 2.2.5
+- 2.2.6
+- 2.2.7
+- 2.2.8
+- 3.0.0
+- 3.0.1
+- 3.0.2
+
+## 获取地址
+
+- npm 安装：`npm install hyper-website-theme`
+- npm registry：https://registry.npmjs.org/hyper-website-theme

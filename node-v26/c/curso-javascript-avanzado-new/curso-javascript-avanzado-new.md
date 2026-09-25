@@ -1,0 +1,23 @@
+# curso-javascript-avanzado-new
+
+> 标签: npm-library
+
+## 简介
+
+Nuevos ejemplos
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/curso-javascript-avanzado-new
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.1.0
+- 1.1.0-beta.0
+
+## 获取地址
+
+- npm 安装：`npm install curso-javascript-avanzado-new`
+- npm registry：https://registry.npmjs.org/curso-javascript-avanzado-new

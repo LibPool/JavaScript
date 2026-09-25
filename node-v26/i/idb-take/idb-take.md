@@ -1,0 +1,24 @@
+# idb-take
+
+> 标签: idb, indexeddb, take, treo
+
+## 简介
+
+Take values from IDBStore or IDBIndex
+
+## 官网
+
+- 官网：https://github.com/treojs/idb-schema#readme
+- 源码仓库：git+https://github.com/treojs/idb-schema.git
+- npm 页面：https://www.npmjs.com/package/idb-take
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install idb-take`
+- npm registry：https://registry.npmjs.org/idb-take

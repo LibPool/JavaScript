@@ -1,0 +1,24 @@
+# ol-opacity
+
+> 标签: LayerControl, Opacity, OpenLayers, plugin, tile
+
+## 简介
+
+ol-opacity is a OpenLayers plugin that makes multiple tile layers transparent.
+
+## 官网
+
+- 官网：https://github.com/dayjournal/ol-opacity#readme
+- 源码仓库：git+https://github.com/dayjournal/ol-opacity.git
+- npm 页面：https://www.npmjs.com/package/ol-opacity
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install ol-opacity`
+- npm registry：https://registry.npmjs.org/ol-opacity

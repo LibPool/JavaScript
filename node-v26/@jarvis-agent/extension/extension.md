@@ -1,0 +1,35 @@
+# @jarvis-agent/extension
+
+> 标签: browser-extension, chrome-extension, jarvis, jarvis-agent
+
+## 简介
+
+Browser extension support for Jarvis Agent framework.
+
+## 官网
+
+- 官网：https://github.com/yourusername/jarvis-agent#readme
+- 源码仓库：git+https://github.com/yourusername/jarvis-agent.git
+- npm 页面：https://www.npmjs.com/package/@jarvis-agent/extension
+
+## 历史版本号
+
+- 当前版本：0.3.1
+
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.3
+- 0.2.4
+- 0.2.5
+- 0.2.6
+- 0.3.0
+- 0.3.1
+
+## 获取地址
+
+- npm 安装：`npm install @jarvis-agent/extension`
+- npm registry：https://registry.npmjs.org/@jarvis-agent/extension

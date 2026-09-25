@@ -1,0 +1,27 @@
+# @mnemoscope/mcp-server
+
+> 标签: JavaScript
+
+## 简介
+
+MCP server exposing Mnemoscope's predict_rot, get_tiered_read, and journal tools to any MCP-compatible client.
+
+## 官网
+
+- 官网：https://github.com/toonight/Mnemoscope#readme
+- 源码仓库：git+https://github.com/toonight/Mnemoscope.git
+- npm 页面：https://www.npmjs.com/package/@mnemoscope/mcp-server
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.0
+- 0.1.1
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @mnemoscope/mcp-server`
+- npm registry：https://registry.npmjs.org/@mnemoscope/mcp-server
+- Node 要求：>=22

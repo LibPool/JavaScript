@@ -1,0 +1,24 @@
+# chirag_resume
+
+> 标签: "Chirag", "Gupta", "Resume", "TechGeek"
+
+## 简介
+
+Hey folks! That's my resume in the node version.. Dont forget to check it out
+
+## 官网
+
+- 官网：https://github.com/infochirag/resume-chirag#readme
+- 源码仓库：git+https://github.com/infochirag/resume-chirag.git
+- npm 页面：https://www.npmjs.com/package/chirag_resume
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install chirag_resume`
+- npm registry：https://registry.npmjs.org/chirag_resume

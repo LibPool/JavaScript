@@ -1,0 +1,24 @@
+# @ng-zi/extensions-date-fns-adapter
+
+> 标签: JavaScript
+
+## 简介
+
+Angular Material Extensions date-fns Adapter
+
+## 官网
+
+- 官网：https://github.com/ng-zi/extensions#readme
+- 源码仓库：git+https://github.com/ng-zi/extensions.git
+- npm 页面：https://www.npmjs.com/package/@ng-zi/extensions-date-fns-adapter
+
+## 历史版本号
+
+- 当前版本：18.0.0
+
+- 18.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @ng-zi/extensions-date-fns-adapter`
+- npm registry：https://registry.npmjs.org/@ng-zi/extensions-date-fns-adapter

@@ -1,0 +1,24 @@
+# @josharsh/webmcp-bridge
+
+> 标签: agents, ai, bridge, browser, mcp, model-context-protocol, postmessage, webmcp
+
+## 简介
+
+Expose webmcp-tools tools as a real MCP server — lets browser extensions, iframe agents, and devtools list and call the page's WebMCP tools over postMessage.
+
+## 官网
+
+- 官网：https://github.com/josharsh/webmcp-tools#readme
+- 源码仓库：git+https://github.com/josharsh/webmcp-tools.git
+- npm 页面：https://www.npmjs.com/package/@josharsh/webmcp-bridge
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @josharsh/webmcp-bridge`
+- npm registry：https://registry.npmjs.org/@josharsh/webmcp-bridge

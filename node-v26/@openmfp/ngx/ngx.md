@@ -1,0 +1,36 @@
+# @openmfp/ngx
+
+> 标签: JavaScript
+
+## 简介
+
+Angular component library for OpenMFP — declarative UI components built with Angular 21 signal-based APIs.
+
+## 官网
+
+- 官网：https://github.com/openmfp/webcomponents#readme
+- 源码仓库：git+https://github.com/openmfp/webcomponents.git
+- npm 页面：https://www.npmjs.com/package/@openmfp/ngx
+
+## 历史版本号
+
+- 当前版本：1.6.0
+
+- 0.18.8
+- 0.18.9
+- 0.19.0
+- 0.20.0
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 1.4.0
+- 1.4.1
+- 1.4.2
+- 1.5.0
+- 1.6.0
+- 共 85 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @openmfp/ngx`
+- npm registry：https://registry.npmjs.org/@openmfp/ngx

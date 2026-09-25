@@ -1,0 +1,24 @@
+# footblue-broken-whenever
+
+> 标签: footblue-broken-whenever, indoxcapital, package-manager, tea
+
+## 简介
+
+(footblue-broken-whenever) - This function is used to convert multiple words into an interesting sentence containing the word footblue-broken-whenever.
+
+## 官网
+
+- 官网：https://github.com/siwildanwildan/builder-injected#readme
+- 源码仓库：git+https://github.com/siwildanwildan/builder-injected.git
+- npm 页面：https://www.npmjs.com/package/footblue-broken-whenever
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install footblue-broken-whenever`
+- npm registry：https://registry.npmjs.org/footblue-broken-whenever

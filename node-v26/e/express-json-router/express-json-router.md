@@ -1,0 +1,36 @@
+# express-json-router
+
+> 标签: api, express, handler, json, request
+
+## 简介
+
+Express router wrapper to send json response
+
+## 官网
+
+- 官网：https://github.com/junminahn/express-toolkit#readme
+- 源码仓库：git+https://github.com/junminahn/express-toolkit.git
+- npm 页面：https://www.npmjs.com/package/express-json-router
+
+## 历史版本号
+
+- 当前版本：0.6.8
+
+- 0.4.1
+- 0.5.1
+- 0.6.0
+- 0.6.1
+- 0.6.2
+- 0.6.3
+- 0.6.4
+- 0.6.5
+- 0.6.6
+- 0.6.7
+- 0.6.8
+- 0.7.0
+
+## 获取地址
+
+- npm 安装：`npm install express-json-router`
+- npm registry：https://registry.npmjs.org/express-json-router
+- Node 要求：>= 12.18.3

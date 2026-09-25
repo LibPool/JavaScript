@@ -1,0 +1,33 @@
+# @razorlabs/m1-wallet-sdk
+
+> 标签: JavaScript
+
+## 简介
+
+<p align="center"><a href="https://razorwallet.xyz"> <img width="480" src="/assets/logo.png"/> </a></p>
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@razorlabs/m1-wallet-sdk
+
+## 历史版本号
+
+- 当前版本：0.5.0
+
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+- 0.3.0
+- 0.4.0
+- 0.4.1
+- 0.5.0
+
+## 获取地址
+
+- npm 安装：`npm install @razorlabs/m1-wallet-sdk`
+- npm registry：https://registry.npmjs.org/@razorlabs/m1-wallet-sdk

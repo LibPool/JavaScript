@@ -1,0 +1,22 @@
+# my-modile-1var
+
+> 标签: JavaScript
+
+## 简介
+
+my-modile-1var - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/my-modile-1var
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install my-modile-1var`
+- npm registry：https://registry.npmjs.org/my-modile-1var

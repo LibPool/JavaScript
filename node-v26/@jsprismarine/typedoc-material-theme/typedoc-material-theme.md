@@ -1,0 +1,25 @@
+# @jsprismarine/typedoc-material-theme
+
+> 标签: documentation, material, material-3, material-design, typedoc-plugin, typedoc-theme, typedocplugin, typescript
+
+## 简介
+
+A TypeDoc theme based on Material 3.
+
+## 官网
+
+- 官网：https://github.com/dmnsgn/typedoc-material-theme
+- 源码仓库：git+https://github.com/dmnsgn/typedoc-material-theme.git
+- npm 页面：https://www.npmjs.com/package/@jsprismarine/typedoc-material-theme
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @jsprismarine/typedoc-material-theme`
+- npm registry：https://registry.npmjs.org/@jsprismarine/typedoc-material-theme
+- Node 要求：>=18.0.0

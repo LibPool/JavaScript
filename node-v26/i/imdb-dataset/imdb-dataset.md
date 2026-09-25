@@ -1,0 +1,29 @@
+# imdb-dataset
+
+> 标签: imdb, movie, parser, tsv
+
+## 简介
+
+Parse data coming from https://www.imdb.com/interfaces/
+
+## 官网
+
+- 官网：https://github.com/andreivinaga/imdb-dataset#readme
+- 源码仓库：git+https://github.com/andreivinaga/imdb-dataset.git
+- npm 页面：https://www.npmjs.com/package/imdb-dataset
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.1-RC
+- 0.0.2-RC
+- 0.0.3-RC
+- 0.0.4-RC
+- 0.0.5-RC
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install imdb-dataset`
+- npm registry：https://registry.npmjs.org/imdb-dataset

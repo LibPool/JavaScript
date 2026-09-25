@@ -1,0 +1,28 @@
+# react-native-short-style-devtools
+
+> 标签: react-native-short-style-devtools
+
+## 简介
+
+devtools for inpecting rendered views
+
+## 官网
+
+- 官网：https://github.com/1-AlenToma/react-native-short-style#readme
+- 源码仓库：git+https://github.com/1-AlenToma/react-native-short-style.git
+- npm 页面：https://www.npmjs.com/package/react-native-short-style-devtools
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install react-native-short-style-devtools`
+- npm registry：https://registry.npmjs.org/react-native-short-style-devtools

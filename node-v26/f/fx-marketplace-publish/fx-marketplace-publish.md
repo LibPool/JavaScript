@@ -1,0 +1,25 @@
+# fx-marketplace-publish
+
+> 标签: firefox, marketplace, publish, webapp
+
+## 简介
+
+Easily publish an application on the Firefox Marketplace
+
+## 官网
+
+- 官网：https://github.com/freaktechnik/fx-marketplace-publish#readme
+- 源码仓库：git+https://github.com/freaktechnik/fx-marketplace-publish.git
+- npm 页面：https://www.npmjs.com/package/fx-marketplace-publish
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install fx-marketplace-publish`
+- npm registry：https://registry.npmjs.org/fx-marketplace-publish

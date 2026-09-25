@@ -1,0 +1,26 @@
+# purecloud-sdk-upgrade
+
+> 标签: api, inin, mypurecloud, purecloud, sdk
+
+## 简介
+
+A package to upgrade method names in files using the PureCloud SDKs (Java, JavaScript, and .NET only)
+
+## 官网
+
+- 官网：https://github.com/MyPureCloud/sdk-upgrade-script
+- 源码仓库：git+https://github.com/MyPureCloud/sdk-upgrade-script.git
+- npm 页面：https://www.npmjs.com/package/purecloud-sdk-upgrade
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.0
+- 0.1.1
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install purecloud-sdk-upgrade`
+- npm registry：https://registry.npmjs.org/purecloud-sdk-upgrade

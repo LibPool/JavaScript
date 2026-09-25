@@ -1,0 +1,24 @@
+# @yurukusa/cc-think
+
+> 标签: ai, analytics, claude, claude-code, developer-tools, thinking
+
+## 简介
+
+How deeply does Claude Code think before acting? Thinking block frequency, depth distribution, and hidden reasoning volume.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@yurukusa/cc-think
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @yurukusa/cc-think`
+- npm registry：https://registry.npmjs.org/@yurukusa/cc-think
+- Node 要求：>=18

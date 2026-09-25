@@ -1,0 +1,25 @@
+# employee-directory
+
+> 标签: directory, employee
+
+## 简介
+
+Empolyee directory with create, read, update, delete option
+
+## 官网
+
+- 官网：https://github.com/BalaBsm/employee-directory#readme
+- 源码仓库：git+https://github.com/BalaBsm/employee-directory.git
+- npm 页面：https://www.npmjs.com/package/employee-directory
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install employee-directory`
+- npm registry：https://registry.npmjs.org/employee-directory

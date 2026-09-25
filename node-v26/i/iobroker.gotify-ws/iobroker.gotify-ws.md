@@ -1,0 +1,36 @@
+# iobroker.gotify-ws
+
+> 标签: Discord, Gotify, Mail, Notification-Manager, Pushover, Signal, Telegram, Websocket, Whatsapp, ioBroker
+
+## 简介
+
+Gotify web socket for connection to various notification systems
+
+## 官网
+
+- 官网：https://github.com/simatec/ioBroker.gotify-ws
+- 源码仓库：git+https://github.com/simatec/ioBroker.gotify-ws.git
+- npm 页面：https://www.npmjs.com/package/iobroker.gotify-ws
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.3
+- 0.2.4
+- 0.2.5
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install iobroker.gotify-ws`
+- npm registry：https://registry.npmjs.org/iobroker.gotify-ws
+- Node 要求：>= 22

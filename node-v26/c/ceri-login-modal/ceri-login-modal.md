@@ -1,0 +1,33 @@
+# ceri-login-modal
+
+> 标签: ceri, component, login-modal
+
+## 简介
+
+A simple, themed login-modal
+
+## 官网
+
+- 官网：https://github.com/ceri-widgets
+- 源码仓库：git://github.com/ceri-widgets/ceri-login-modal.git
+- npm 页面：https://www.npmjs.com/package/ceri-login-modal
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.1.0
+- 0.2.0
+- 0.2.1
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install ceri-login-modal`
+- npm registry：https://registry.npmjs.org/ceri-login-modal
+- Node 要求：*

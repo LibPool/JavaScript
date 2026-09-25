@@ -1,0 +1,34 @@
+# budget-control-fm-core
+
+> 标签: budget, budget-control, finance, financial-management, personal-finance
+
+## 简介
+
+Core functionality for the budget control financial management system
+
+## 官网
+
+- 官网：https://github.com/budget-control-fm/budget-control-fm-core#readme
+- 源码仓库：git+https://github.com/budget-control-fm/budget-control-fm-core.git
+- npm 页面：https://www.npmjs.com/package/budget-control-fm-core
+
+## 历史版本号
+
+- 当前版本：0.6.3
+
+- 0.1.0
+- 0.1.4
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.3.0
+- 0.4.0
+- 0.5.0
+- 0.6.2
+- 0.6.3
+
+## 获取地址
+
+- npm 安装：`npm install budget-control-fm-core`
+- npm registry：https://registry.npmjs.org/budget-control-fm-core
+- Node 要求：24

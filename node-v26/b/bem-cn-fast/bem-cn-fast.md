@@ -1,0 +1,26 @@
+# bem-cn-fast
+
+> 标签: bem, react
+
+## 简介
+
+Fast BEM class name generator
+
+## 官网
+
+- 官网：https://github.com/GREENpoint/bem-cn-fast#readme
+- 源码仓库：git+https://github.com/GREENpoint/bem-cn-fast.git
+- npm 页面：https://www.npmjs.com/package/bem-cn-fast
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install bem-cn-fast`
+- npm registry：https://registry.npmjs.org/bem-cn-fast

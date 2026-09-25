@@ -1,0 +1,31 @@
+# @torpadev/orpa-node-msexcel
+
+> 标签: excel, opal
+
+## 简介
+
+MS Excel Read/Write nodes for OPAL
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@torpadev/orpa-node-msexcel
+
+## 历史版本号
+
+- 当前版本：0.2.4
+
+- 0.1.0
+- 0.1.1
+- 0.1.1-0
+- 0.1.3
+- 0.1.4
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.4
+
+## 获取地址
+
+- npm 安装：`npm install @torpadev/orpa-node-msexcel`
+- npm registry：https://registry.npmjs.org/@torpadev/orpa-node-msexcel
+- Node 要求：>= 6.9.0

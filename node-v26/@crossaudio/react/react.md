@@ -1,0 +1,35 @@
+# @crossaudio/react
+
+> 标签: JavaScript
+
+## 简介
+
+A browser way to make synthesizers in javascript using an audio context, in react
+
+## 官网
+
+- 官网：http://konsumer.js.org/crossaudio/
+- 源码仓库：git+https://github.com/konsumer/crossaudio.git
+- npm 页面：https://www.npmjs.com/package/@crossaudio/react
+
+## 历史版本号
+
+- 当前版本：0.1.21
+
+- 0.0.9
+- 0.1.0
+- 0.1.1
+- 0.1.16
+- 0.1.18
+- 0.1.21
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install @crossaudio/react`
+- npm registry：https://registry.npmjs.org/@crossaudio/react

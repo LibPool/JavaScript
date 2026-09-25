@@ -1,0 +1,24 @@
+# emojibar
+
+> 标签: bar, emoji, text, textarea, toolbar
+
+## 简介
+
+Toolbar to choose emoji
+
+## 官网
+
+- 官网：https://github.com/Sylvain59650/emojibar#readme
+- 源码仓库：git+https://github.com/Sylvain59650/emojibar.git
+- npm 页面：https://www.npmjs.com/package/emojibar
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install emojibar`
+- npm registry：https://registry.npmjs.org/emojibar

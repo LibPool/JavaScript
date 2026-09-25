@@ -1,0 +1,28 @@
+# ge-weapp-session
+
+> 标签: JavaScript
+
+## 简介
+
+为微信小程序提供会话管理功能
+
+## 官网
+
+- 官网：https://github.com/Im-Kevin/weapp-session#readme
+- 源码仓库：git+https://github.com/Im-Kevin/weapp-session.git
+- npm 页面：https://www.npmjs.com/package/ge-weapp-session
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install ge-weapp-session`
+- npm registry：https://registry.npmjs.org/ge-weapp-session
+- Node 要求：>=6.0.0

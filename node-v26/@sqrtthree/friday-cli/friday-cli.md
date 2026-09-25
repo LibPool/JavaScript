@@ -1,0 +1,29 @@
+# @sqrtthree/friday-cli
+
+> 标签: JavaScript
+
+## 简介
+
+Command line tools for Friday. Generate, write and run an application with one single command.
+
+## 官网
+
+- 官网：https://github.com/sqrthree/friday-cli#readme
+- 源码仓库：git+https://github.com/sqrthree/friday-cli.git
+- npm 页面：https://www.npmjs.com/package/@sqrtthree/friday-cli
+
+## 历史版本号
+
+- 当前版本：0.4.0
+
+- 0.1.0
+- 0.2.0
+- 0.2.1
+- 0.3.0
+- 0.3.1
+- 0.4.0
+
+## 获取地址
+
+- npm 安装：`npm install @sqrtthree/friday-cli`
+- npm registry：https://registry.npmjs.org/@sqrtthree/friday-cli

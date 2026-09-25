@@ -1,0 +1,28 @@
+# create-nfdd
+
+> 标签: create, docker, drizzle, enterprise, fastify, generator, monorepo, nextjs, starter, typescript
+
+## 简介
+
+Bootstrap NFDD (Next.js + Fastify + Drizzle + Docker) enterprise monorepo projects
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/create-nfdd
+
+## 历史版本号
+
+- 当前版本：1.0.6
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+
+## 获取地址
+
+- npm 安装：`npm install create-nfdd`
+- npm registry：https://registry.npmjs.org/create-nfdd

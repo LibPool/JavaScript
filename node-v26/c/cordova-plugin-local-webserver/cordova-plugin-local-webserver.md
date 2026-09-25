@@ -1,0 +1,25 @@
+# cordova-plugin-local-webserver
+
+> 标签: cordova, cordova-ios, ecosystem:cordova, local web server
+
+## 简介
+
+Cordova Local Web Server Plugin
+
+## 官网
+
+- 官网：https://github.com/Collaborne/cordova-plugins#readme
+- 源码仓库：git+https://speige/cordova-plugin-local-webserver.git
+- npm 页面：https://www.npmjs.com/package/cordova-plugin-local-webserver
+
+## 历史版本号
+
+- 当前版本：2.3.1
+
+- 2.3.1
+
+## 获取地址
+
+- npm 安装：`npm install cordova-plugin-local-webserver`
+- npm registry：https://registry.npmjs.org/cordova-plugin-local-webserver
+- Node 要求：{'name': 'cordova-ios', 'version': '>=4.0.0-dev'}

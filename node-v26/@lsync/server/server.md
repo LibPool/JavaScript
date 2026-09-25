@@ -1,0 +1,26 @@
+# @lsync/server
+
+> 标签: JavaScript
+
+## 简介
+
+Cloudflare Durable Object server support for lsync.
+
+## 官网
+
+- 官网：https://github.com/Myrannas/lsync#readme
+- 源码仓库：git+https://github.com/Myrannas/lsync.git
+- npm 页面：https://www.npmjs.com/package/@lsync/server
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @lsync/server`
+- npm registry：https://registry.npmjs.org/@lsync/server

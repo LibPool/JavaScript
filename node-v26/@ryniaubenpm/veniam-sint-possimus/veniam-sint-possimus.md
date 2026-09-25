@@ -1,0 +1,24 @@
+# @ryniaubenpm/veniam-sint-possimus
+
+> 标签: .env, 0, @@toStringTag, Array.prototype.contains, Array.prototype.flatMap, Array.prototype.flatten, Array.prototype.includes, ArrayBuffer, ArrayBuffer#slice, ArrayBuffer.prototype.slice, AsyncIterator, BigUint64Array, CSS, CSSStyleDeclaration, ECMAScript 2015, ECMAScript 2019, ECMAScript 2023, ECMAScript 6, ES2016, ES2017, ES2018, ES2022, ES2023, ES5, ES6, ES7, ESnext, Float32Array, Function.prototype.name, HyBi, Int16Array, Int32Array, Int8Array, Iterator, Map, Microsoft, Object.defineProperty, Object.fromEntries, Object.getPrototypeOf, Object.values, Observable, Promise, Push, RFC-6455, ReactiveExtensions, Reflect.getPrototypeOf, RegExp#flags, RxJS, Streams, String.prototype.trim, StyleSheet, Symbol, Symbol.toStringTag, TypeBox, TypedArray, URL, URLSearchParams, Uint16Array, Uint32Array, Uint8ClampedArray, Underscore, WeakSet, WebSocket, WebSockets, YAML, [[Prototype]], _.extend, __proto__, a11y, accessibility, accessor, ajax, apollo, argparse, array, arraybuffer, arrays, art, ascii, authentication, autoprefixer, autoscaling, await, awesomesauce, bcrypt, bluebird, bootstrap css, bound, browser, browserslist, buffer, bundling, busy, byte, byteLength, call, call-bind, callback, callbound, censor, chai, channel, character, characters, check, chinese, chrome, classes, classname, classnames, cli, client, cloudformation, cloudsearch, cloudwatch, codes, collection, color, colors, columns, command, commander, concurrency, config, configurable, consume, copy, core, crypt, crypto, css less, css nesting, css variable, curl, data, dataView, datastructure, dataview, dayjs, debug, debugger, deep-clone, deep-copy, deepcopy, define, defineProperty, dependencies, dependency manager, description, descriptor, descriptors, deterministic, diff, dom-testing-library, east-asian-width, elb, electron, elm, emit, emoji, encryption, ender, enumerable, environment, equal, equality, error, es, es-abstract, es-shims, es2015, es2016, es2018, es8, escape, eventDispatcher, events, every, exec, exit, exit-code, extend, extra, fast, fast-clone, fast-deep-copy, fetch, file, find, find-up, findLastIndex, fixed-width, flag, flatMap, flux, folder, form, format, from, fs, full, fullwidth, function, functional, gdpr, getPrototypeOf, getintrinsic, glacier, glob, global, globals, gradients css, gradients css3, guid, hasOwn, hash, helpers, higher-order, hookform, hooks, hot, http, iam, identifiers, immer, import, importexport, includes, indicator, install, installer, internal slot, interrupts, intrinsic, irq, is, isConcatSpreadable, iterator, jasmine, jest, joi, jsdom, json, jwt, key, keys, l10n, language, lazy, length, less compiler, less mixins, less.js, lesscss, limit, link, live, loading, lockfile, log, logger, logging, lru, macos, make dir, map, matchAll, matches, middleware, mime, mime-db, minimal, mkdirs, module, moment, monorepo, move, mru, multi-package, name, names, native, nested css, nodejs, nope, npm, number, obj, offset, once, optimist, optimizer, package, package manager, parents, parsing, password, performance, performant, pipe, pnpm9, polyfill, ponyfill, positive, postcss, postcss-plugin, predictable, private, process, progress, promise, properties, proto, protobuf, protocol-buffers, prototype, proxy, prune, pyyaml, query, querystring, queue, queueMicrotask, quote, react-hooks, react-testing-library, real-time, recursive, reducer, redux, regular, regular expression, remove, require, reuse, rfc4122, rm, rm -fr, rmdir, route53, router, runtime, sameValueZero, schema, serialization, serialize, serializer, ses, set, setImmediate, setPrototypeOf, sharedarraybuffer, shebang, shell, side, signals, sinatra, slot, spinner, spinners, sqs, stable, starter, stateless, status, stdlib, storagegateway, stream, streams2, stringifier, stringify, structuredClone, style, styleguide, styles, styling, symbol, symbols, symlinks, syntax, take, tap, tc39, term, tester, throat, throttle, time, toStringTag, toobject, toolkit, tostringtag, traverse, trim, trimEnd, trimLeft, trimRight, trimStart, ts, tty, typed array, typedarray, typedarrays, typeerror, typeof, unicode, uninstall, up, util.inspect, uuid, valid, validate, validation, variables, vars, vest, vpc, waf, wait, walk, walking, watch, watchFile, web, width, windows, wordwrap, worker, workspace:*, wrap, xhr, xterm, yaml
+
+## 简介
+
+The algorithm continuously evaluates and scores open source software projects in supported package managers based on their impact and value to the OSS ecosystem.
+
+## 官网
+
+- 官网：https://github.com/ryniaubenpm/veniam-sint-possimus/#readme
+- 源码仓库：git+https://github.com/ryniaubenpm/veniam-sint-possimus.git
+- npm 页面：https://www.npmjs.com/package/@ryniaubenpm/veniam-sint-possimus
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @ryniaubenpm/veniam-sint-possimus`
+- npm registry：https://registry.npmjs.org/@ryniaubenpm/veniam-sint-possimus

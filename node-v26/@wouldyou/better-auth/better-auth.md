@@ -1,0 +1,26 @@
+# @wouldyou/better-auth
+
+> 标签: JavaScript
+
+## 简介
+
+The most comprehensive authentication library for TypeScript.
+
+## 官网
+
+- 官网：https://github.com/better-auth/better-auth#readme
+- 源码仓库：git+https://github.com/better-auth/better-auth.git
+- npm 页面：https://www.npmjs.com/package/@wouldyou/better-auth
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.1.10
+- 1.1.100
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @wouldyou/better-auth`
+- npm registry：https://registry.npmjs.org/@wouldyou/better-auth

@@ -1,0 +1,24 @@
+# yixingyun-aieditor
+
+> 标签: ai, ai editor, editor
+
+## 简介
+
+<h4 align="right"> <a href="./readme.md">English</a> | <a href="./readme.zh.md">简体中文</a> | <strong>日本語</strong></h4>
+
+## 官网
+
+- 官网：https://github.com/aieditor-team/aieditor#readme
+- 源码仓库：git+https://github.com/aieditor-team/aieditor.git
+- npm 页面：https://www.npmjs.com/package/yixingyun-aieditor
+
+## 历史版本号
+
+- 当前版本：1.3.17
+
+- 1.3.17
+
+## 获取地址
+
+- npm 安装：`npm install yixingyun-aieditor`
+- npm registry：https://registry.npmjs.org/yixingyun-aieditor

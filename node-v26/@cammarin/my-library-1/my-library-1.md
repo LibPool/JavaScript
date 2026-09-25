@@ -1,0 +1,22 @@
+# @cammarin/my-library-1
+
+> 标签: JavaScript
+
+## 简介
+
+@cammarin/my-library-1 - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@cammarin/my-library-1
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @cammarin/my-library-1`
+- npm registry：https://registry.npmjs.org/@cammarin/my-library-1

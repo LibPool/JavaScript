@@ -1,0 +1,36 @@
+# @nvif1989/compositions
+
+> 标签: 1989, acids, amino, carbohydrates, composition, fats, food, indian, institute, minerals, national, nutrition, nutritive, nvif, proteins, research, table, value, vitamins
+
+## 简介
+
+Detailed nutrient composition of 592 key foods in India.
+
+## 官网
+
+- 官网：https://github.com/nvif1989/compositions#readme
+- 源码仓库：git+https://github.com/nvif1989/compositions.git
+- npm 页面：https://www.npmjs.com/package/@nvif1989/compositions
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 0.0.93
+- 0.0.94
+- 0.0.95
+- 0.0.96
+- 0.0.97
+- 0.0.98
+- 0.0.99
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 共 128 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @nvif1989/compositions`
+- npm registry：https://registry.npmjs.org/@nvif1989/compositions

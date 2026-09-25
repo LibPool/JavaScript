@@ -1,0 +1,24 @@
+# frappuccino
+
+> 标签: coffeescript, frappuccino, promise
+
+## 简介
+
+Promise library with coffee, ice and sugar!
+
+## 官网
+
+- 官网：https://github.com/otaviopace/frappuccino#readme
+- 源码仓库：git+https://github.com/otaviopace/frappuccino.git
+- npm 页面：https://www.npmjs.com/package/frappuccino
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install frappuccino`
+- npm registry：https://registry.npmjs.org/frappuccino

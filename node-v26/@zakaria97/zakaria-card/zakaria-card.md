@@ -1,0 +1,22 @@
+# @zakaria97/zakaria-card
+
+> 标签: JavaScript
+
+## 简介
+
+@zakaria97/zakaria-card - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@zakaria97/zakaria-card
+
+## 历史版本号
+
+- 当前版本：1.22.10
+
+- 1.22.10
+
+## 获取地址
+
+- npm 安装：`npm install @zakaria97/zakaria-card`
+- npm registry：https://registry.npmjs.org/@zakaria97/zakaria-card

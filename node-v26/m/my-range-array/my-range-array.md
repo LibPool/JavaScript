@@ -1,0 +1,26 @@
+# my-range-array
+
+> 标签: JavaScript
+
+## 简介
+
+Модуль предоставляет ф-ию для приведение к строке специального массива
+
+## 官网
+
+- 官网：https://github.com/SteppeEagle/range-array#readme
+- 源码仓库：git+https://github.com/SteppeEagle/range-array.git
+- npm 页面：https://www.npmjs.com/package/my-range-array
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install my-range-array`
+- npm registry：https://registry.npmjs.org/my-range-array

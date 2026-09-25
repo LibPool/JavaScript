@@ -1,0 +1,27 @@
+# underpants-gagecantrelle
+
+> 标签: JavaScript
+
+## 简介
+
+Functional Functions for Fun
+
+## 官网
+
+- 官网：https://github.com/gagecantrelle/underpants
+- 源码仓库：git+https://github.com/gagecantrelle/underpants.git
+- npm 页面：https://www.npmjs.com/package/underpants-gagecantrelle
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install underpants-gagecantrelle`
+- npm registry：https://registry.npmjs.org/underpants-gagecantrelle

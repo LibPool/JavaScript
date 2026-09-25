@@ -1,0 +1,26 @@
+# locales-normalizer
+
+> 标签: JavaScript
+
+## 简介
+
+Small project for normalizing locale codes across different standards.
+
+## 官网
+
+- 官网：https://github.com/lengoo/locale-normalizer#readme
+- 源码仓库：git+https://github.com/lengoo/locale-normalizer.git
+- npm 页面：https://www.npmjs.com/package/locales-normalizer
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install locales-normalizer`
+- npm registry：https://registry.npmjs.org/locales-normalizer

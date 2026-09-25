@@ -1,0 +1,24 @@
+# @praiselane/react
+
+> 标签: embed, praiselane, react, testimonials, widget
+
+## 简介
+
+React component for embedding PraiseLane testimonials
+
+## 官网
+
+- 官网：https://github.com/praiselane/praiselane#readme
+- 源码仓库：git+https://github.com/praiselane/praiselane.git
+- npm 页面：https://www.npmjs.com/package/@praiselane/react
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @praiselane/react`
+- npm registry：https://registry.npmjs.org/@praiselane/react

@@ -1,0 +1,25 @@
+# lite-player
+
+> 标签: lite, lite player, player, tiny, tiny player
+
+## 简介
+
+LitePlayer
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/lite-player
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.0-alpha.0
+- 0.0.0-alpha.1
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install lite-player`
+- npm registry：https://registry.npmjs.org/lite-player

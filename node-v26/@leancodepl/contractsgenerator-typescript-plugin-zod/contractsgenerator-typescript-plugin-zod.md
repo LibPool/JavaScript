@@ -1,0 +1,24 @@
+# @leancodepl/contractsgenerator-typescript-plugin-zod
+
+> 标签: JavaScript
+
+## 简介
+
+Plugin for generating Zod schemas for DTOs (Data Transfer Objects), Commands, Queries, Operations, Topics, and Enums.
+
+## 官网
+
+- 官网：https://github.com/leancodepl/contractsgenerator-typescript#readme
+- 源码仓库：git+https://github.com/leancodepl/contractsgenerator-typescript.git
+- npm 页面：https://www.npmjs.com/package/@leancodepl/contractsgenerator-typescript-plugin-zod
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @leancodepl/contractsgenerator-typescript-plugin-zod`
+- npm registry：https://registry.npmjs.org/@leancodepl/contractsgenerator-typescript-plugin-zod

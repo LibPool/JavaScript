@@ -1,0 +1,30 @@
+# vtk-ugs-union.js
+
+> 标签: 3d, geometry, gl-vis, graphics, medical, mesh, paraview, paraviewweb, point cloud, scientific, visualization, volume, vtk, webgl
+
+## 简介
+
+Visualization Toolkit for the Web
+
+## 官网
+
+- 官网：https://github.com/kitware/vtk-js#readme
+- 源码仓库：git+https://github.com/kitware/vtk-js.git
+- npm 页面：https://www.npmjs.com/package/vtk-ugs-union.js
+
+## 历史版本号
+
+- 当前版本：7.1.9
+
+- 1.1.9
+- 2.0.0
+- 3.1.9
+- 4.1.9
+- 5.1.9
+- 6.1.9
+- 7.1.9
+
+## 获取地址
+
+- npm 安装：`npm install vtk-ugs-union.js`
+- npm registry：https://registry.npmjs.org/vtk-ugs-union.js

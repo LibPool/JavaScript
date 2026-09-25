@@ -1,0 +1,26 @@
+# n8n-nodes-invoiceninja-extended
+
+> 标签: invoice, invoiceninja, n8n, n8n-community-node-package
+
+## 简介
+
+Extended Invoice Ninja node for n8n with Archive, Download, Mark Paid, and Mark Sent operations
+
+## 官网
+
+- 官网：https://github.com/pvass24/n8n/tree/feat/invoice-ninja-additional-operations
+- 源码仓库：git+https://github.com/pvass24/n8n.git
+- npm 页面：https://www.npmjs.com/package/n8n-nodes-invoiceninja-extended
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install n8n-nodes-invoiceninja-extended`
+- npm registry：https://registry.npmjs.org/n8n-nodes-invoiceninja-extended

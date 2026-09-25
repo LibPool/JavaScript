@@ -1,0 +1,25 @@
+# plugin-shared-forms
+
+> 标签: JavaScript
+
+## 简介
+
+Share forms that require authentication and role-based access control
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/plugin-shared-forms
+
+## 历史版本号
+
+- 当前版本：2.0.20
+
+- 2.0.16
+- 2.0.17
+- 2.0.19
+- 2.0.20
+
+## 获取地址
+
+- npm 安装：`npm install plugin-shared-forms`
+- npm registry：https://registry.npmjs.org/plugin-shared-forms

@@ -1,0 +1,27 @@
+# @linyun-host/frpc
+
+> 标签: JavaScript
+
+## 简介
+
+这是一款极简且代码很烂的 RPC 库
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@linyun-host/frpc
+
+## 历史版本号
+
+- 当前版本：0.0.8
+
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+
+## 获取地址
+
+- npm 安装：`npm install @linyun-host/frpc`
+- npm registry：https://registry.npmjs.org/@linyun-host/frpc

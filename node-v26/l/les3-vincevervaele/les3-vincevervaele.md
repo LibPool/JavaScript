@@ -1,0 +1,24 @@
+# les3-vincevervaele
+
+> 标签: JavaScript
+
+## 简介
+
+1. In file index.js installeer en importeer de lodash package
+
+## 官网
+
+- 官网：https://github.com/VivesMDima/les3-VinceVervaele#readme
+- 源码仓库：git+https://github.com/VivesMDima/les3-VinceVervaele.git
+- npm 页面：https://www.npmjs.com/package/les3-vincevervaele
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install les3-vincevervaele`
+- npm registry：https://registry.npmjs.org/les3-vincevervaele

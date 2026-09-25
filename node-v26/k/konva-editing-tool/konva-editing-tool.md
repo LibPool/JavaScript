@@ -1,0 +1,24 @@
+# konva-editing-tool
+
+> 标签: animations, canvas, graphic, html5
+
+## 简介
+
+HTML5 2d canvas library.
+
+## 官网
+
+- 官网：http://konvajs.org/
+- 源码仓库：git+https://git.hblab.vn/toanlb/konva-editing-tool.git
+- npm 页面：https://www.npmjs.com/package/konva-editing-tool
+
+## 历史版本号
+
+- 当前版本：9.3.22
+
+- 9.3.22
+
+## 获取地址
+
+- npm 安装：`npm install konva-editing-tool`
+- npm registry：https://registry.npmjs.org/konva-editing-tool

@@ -1,0 +1,24 @@
+# tsconfig-earlycross
+
+> 标签: tsconfig, typescript
+
+## 简介
+
+TSConfig presets for EarlyCross TypeScript project
+
+## 官网
+
+- 官网：https://github.com/earlycross-inc/tsconfig-earlycross#readme
+- 源码仓库：git+https://github.com/earlycross-inc/tsconfig-earlycross.git
+- npm 页面：https://www.npmjs.com/package/tsconfig-earlycross
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install tsconfig-earlycross`
+- npm registry：https://registry.npmjs.org/tsconfig-earlycross

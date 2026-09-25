@@ -1,0 +1,36 @@
+# @pixiv/types-vrmc-springbone-1.0
+
+> 标签: JavaScript
+
+## 简介
+
+Type definitions of VRMC_springBone 1.0 schema
+
+## 官网
+
+- 官网：https://github.com/pixiv/three-vrm#readme
+- 源码仓库：git+https://github.com/pixiv/three-vrm.git
+- npm 页面：https://www.npmjs.com/package/@pixiv/types-vrmc-springbone-1.0
+
+## 历史版本号
+
+- 当前版本：3.5.5
+
+- 3.4.1
+- 3.4.2
+- 3.4.3
+- 3.4.3-alpha.0
+- 3.4.4
+- 3.4.5
+- 3.5.0
+- 3.5.1
+- 3.5.2
+- 3.5.3
+- 3.5.4
+- 3.5.5
+- 共 73 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @pixiv/types-vrmc-springbone-1.0`
+- npm registry：https://registry.npmjs.org/@pixiv/types-vrmc-springbone-1.0

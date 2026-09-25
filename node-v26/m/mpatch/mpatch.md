@@ -1,0 +1,26 @@
+# mpatch
+
+> 标签: match, patch
+
+## 简介
+
+Match and patch a file
+
+## 官网
+
+- 官网：https://github.com/arniu/mpatch#readme
+- 源码仓库：git+https://github.com/arniu/mpatch.git
+- npm 页面：https://www.npmjs.com/package/mpatch
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install mpatch`
+- npm registry：https://registry.npmjs.org/mpatch

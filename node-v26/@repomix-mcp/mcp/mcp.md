@@ -1,0 +1,25 @@
+# @repomix-mcp/mcp
+
+> 标签: ai, code-analysis, context, mcp, model-context-protocol, repomix
+
+## 简介
+
+MCP server for intelligent context gathering using repomix
+
+## 官网
+
+- 官网：https://github.com/lotarcc/repomix-mcp#readme
+- 源码仓库：git+https://github.com/lotarcc/repomix-mcp.git
+- npm 页面：https://www.npmjs.com/package/@repomix-mcp/mcp
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @repomix-mcp/mcp`
+- npm registry：https://registry.npmjs.org/@repomix-mcp/mcp
+- Node 要求：>=16

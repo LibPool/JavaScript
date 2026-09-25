@@ -1,0 +1,28 @@
+# deflight
+
+> 标签: express, middleware, preflight
+
+## 简介
+
+Bypass express middlewares for pre-flight requests
+
+## 官网
+
+- 官网：https://github.com/zignis/deflight#readme
+- 源码仓库：git+https://github.com/zignis/deflight.git
+- npm 页面：https://www.npmjs.com/package/deflight
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install deflight`
+- npm registry：https://registry.npmjs.org/deflight

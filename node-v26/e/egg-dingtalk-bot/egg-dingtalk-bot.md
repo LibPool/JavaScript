@@ -1,0 +1,26 @@
+# egg-dingtalk-bot
+
+> 标签: egg, egg-plugin, eggPlugin
+
+## 简介
+
+an egg plugin for dingtalk robot
+
+## 官网
+
+- 官网：https://github.com/zozowind/egg-dingtalk-bot#readme
+- 源码仓库：git+https://github.com/zozowind/egg-dingtalk-bot.git
+- npm 页面：https://www.npmjs.com/package/egg-dingtalk-bot
+
+## 历史版本号
+
+- 当前版本：3.0.0
+
+- 2.0.2
+- 3.0.0
+
+## 获取地址
+
+- npm 安装：`npm install egg-dingtalk-bot`
+- npm registry：https://registry.npmjs.org/egg-dingtalk-bot
+- Node 要求：>=8.0.0

@@ -1,0 +1,22 @@
+# mrddg1704
+
+> 标签: JavaScript
+
+## 简介
+
+mrddg1704 - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/mrddg1704
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install mrddg1704`
+- npm registry：https://registry.npmjs.org/mrddg1704

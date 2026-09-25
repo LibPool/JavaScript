@@ -1,0 +1,26 @@
+# dwid
+
+> 标签: cli, dwid, scaffold
+
+## 简介
+
+A starter project for command line scaffolding of Hello World tutorial projects.
+
+## 官网
+
+- 官网：https://github.com/richjava/dwid
+- 源码仓库：git+https://github.com/richjava/dwid.git
+- npm 页面：https://www.npmjs.com/package/dwid
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install dwid`
+- npm registry：https://registry.npmjs.org/dwid

@@ -1,0 +1,25 @@
+# koishi-plugin-jx3tools-flyneverride
+
+> 标签: JX3, chatbot, koishi, plugin, 剑网3
+
+## 简介
+
+收录零散小工具。为消除大佬们是否公开接口的影响，所有功能需自行填入接口地址及鉴权。详情见主页
+
+## 官网
+
+- 官网：https://github.com/CrystalSight/koishi-plugin-jx3tools-flyneverride.git
+- 源码仓库：git+https://github.com/CrystalSight/koishi-plugin-jx3tools-flyneverride.git
+- npm 页面：https://www.npmjs.com/package/koishi-plugin-jx3tools-flyneverride
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install koishi-plugin-jx3tools-flyneverride`
+- npm registry：https://registry.npmjs.org/koishi-plugin-jx3tools-flyneverride

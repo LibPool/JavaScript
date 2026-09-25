@@ -1,0 +1,36 @@
+# @hasna/hooks
+
+> 标签: bun, claude-code, cli, code-quality, git-safety, hooks, security, typescript
+
+## 简介
+
+Open source hooks library for AI coding agents - Install safety, quality, and automation hooks with a single command
+
+## 官网
+
+- 官网：https://github.com/hasna/apps/tree/main/apps/hooks#readme
+- 源码仓库：git+https://github.com/hasna/apps.git
+- npm 页面：https://www.npmjs.com/package/@hasna/hooks
+
+## 历史版本号
+
+- 当前版本：0.10.7
+
+- 0.7.6
+- 0.7.7
+- 0.7.8
+- 0.7.9
+- 0.8.0
+- 0.9.0
+- 0.9.1
+- 0.9.2
+- 0.9.3
+- 0.9.4
+- 0.9.5
+- 0.9.6
+- 共 79 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @hasna/hooks`
+- npm registry：https://registry.npmjs.org/@hasna/hooks

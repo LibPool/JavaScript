@@ -1,0 +1,22 @@
+# @dikshagoyal/test-npm-user
+
+> 标签: JavaScript
+
+## 简介
+
+@dikshagoyal/test-npm-user - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@dikshagoyal/test-npm-user
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @dikshagoyal/test-npm-user`
+- npm registry：https://registry.npmjs.org/@dikshagoyal/test-npm-user

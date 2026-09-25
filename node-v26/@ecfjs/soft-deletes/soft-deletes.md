@@ -1,0 +1,25 @@
+# @ecfjs/soft-deletes
+
+> 标签: ecf, orm, soft-delete
+
+## 简介
+
+ECF ORM plugin that adds soft-delete behavior to models with deleted_at timestamps
+
+## 官网
+
+- 官网：https://github.com/linkmewaseem/ECF-Elegant-Core-Framework#readme
+- 源码仓库：git+https://github.com/linkmewaseem/ECF-Elegant-Core-Framework.git
+- npm 页面：https://www.npmjs.com/package/@ecfjs/soft-deletes
+
+## 历史版本号
+
+- 当前版本：1.0.0-rc.2
+
+- 1.0.0-rc.2
+
+## 获取地址
+
+- npm 安装：`npm install @ecfjs/soft-deletes`
+- npm registry：https://registry.npmjs.org/@ecfjs/soft-deletes
+- Node 要求：>=22

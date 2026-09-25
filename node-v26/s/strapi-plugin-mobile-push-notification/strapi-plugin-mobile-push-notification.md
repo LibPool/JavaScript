@@ -1,0 +1,25 @@
+# strapi-plugin-mobile-push-notification
+
+> 标签: JavaScript
+
+## 简介
+
+Strapi plugin for mobile push notifications
+
+## 官网
+
+- 官网：https://github.com/AugustusCosta/strapi-plugin-mobile-push-notification#readme
+- 源码仓库：git://github.com/AugustusCosta/strapi-plugin-mobile-push-notification.git
+- npm 页面：https://www.npmjs.com/package/strapi-plugin-mobile-push-notification
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install strapi-plugin-mobile-push-notification`
+- npm registry：https://registry.npmjs.org/strapi-plugin-mobile-push-notification
+- Node 要求：>=10.0.0

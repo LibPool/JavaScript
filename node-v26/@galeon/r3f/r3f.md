@@ -1,0 +1,26 @@
+# @galeon/r3f
+
+> 标签: galeon, game-engine, r3f, react
+
+## 简介
+
+React Three Fiber adapter for Galeon render snapshots
+
+## 官网
+
+- 官网：https://github.com/galeon-engine/galeon#readme
+- 源码仓库：git+https://github.com/galeon-engine/galeon.git
+- npm 页面：https://www.npmjs.com/package/@galeon/r3f
+
+## 历史版本号
+
+- 当前版本：0.5.1
+
+- 0.4.0
+- 0.5.0
+- 0.5.1
+
+## 获取地址
+
+- npm 安装：`npm install @galeon/r3f`
+- npm registry：https://registry.npmjs.org/@galeon/r3f

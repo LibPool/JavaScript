@@ -1,0 +1,27 @@
+# focus-outline
+
+> 标签: a11y, accessibility, focus, outline
+
+## 简介
+
+Remove element outlines on mouse click, show them on TAB key
+
+## 官网
+
+- 官网：https://github.com/stamat/focus-outline
+- 源码仓库：git+https://github.com/stamat/focus-outline.git
+- npm 页面：https://www.npmjs.com/package/focus-outline
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install focus-outline`
+- npm registry：https://registry.npmjs.org/focus-outline

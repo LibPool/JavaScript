@@ -1,0 +1,25 @@
+# ssn-mask
+
+> 标签: input, mask, socialsecurity-mask, ssn
+
+## 简介
+
+Mask Social Security Input using Angular JS
+
+## 官网
+
+- 官网：https://github.com/deepakkoirala/SSN-Mask-AngularJS#readme
+- 源码仓库：git+https://github.com/deepakkoirala/SSN-Mask-AngularJS.git
+- npm 页面：https://www.npmjs.com/package/ssn-mask
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install ssn-mask`
+- npm registry：https://registry.npmjs.org/ssn-mask

@@ -1,0 +1,30 @@
+# @oasissys/bitbucket-cli
+
+> 标签: agent, axi, bitbucket, cli, oasis, toon
+
+## 简介
+
+oasis-bitbucket — AXI CLI for the Oasis Bitbucket Server: repos, branches, and pull requests with token-efficient TOON output
+
+## 官网
+
+- 官网：https://github.com/oasissys/bitbucket-cli#readme
+- 源码仓库：git+https://github.com/oasissys/bitbucket-cli.git
+- npm 页面：https://www.npmjs.com/package/@oasissys/bitbucket-cli
+
+## 历史版本号
+
+- 当前版本：0.2.4
+
+- 0.1.1
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.3
+- 0.2.4
+
+## 获取地址
+
+- npm 安装：`npm install @oasissys/bitbucket-cli`
+- npm registry：https://registry.npmjs.org/@oasissys/bitbucket-cli
+- Node 要求：>=20

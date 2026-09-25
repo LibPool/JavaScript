@@ -1,0 +1,24 @@
+# @ryniaubenpm/magnam-dolorum-tempora
+
+> 标签: -0, 0, 256, 6to5, Array, Array.prototype.filter, Array.prototype.findLastIndex, Array.prototype.flatten, Array.prototype.includes, ArrayBuffer, AsyncIterator, BigInt64Array, BigUint64Array, ECMAScript 2015, ECMAScript 2016, ECMAScript 2017, ECMAScript 2018, ECMAScript 2020, ECMAScript 2022, ES, ES2015, ES2016, ES2017, ES2019, ES2020, ES2021, ES2022, ES2023, ES5, ES6, ES8, ESnext, Float32Array, Float64Array, Int32Array, Iterator, JSON, JSON-Schema, Map, Object, Object.assign, Object.defineProperty, Object.fromEntries, Object.keys, Object.values, Promise, RFC-6455, ReactiveX, RegExp.prototype.flags, Rx, String.prototype.trim, StyleSheet, URL, URLSearchParams, Uint16Array, Uint32Array, Uint8ClampedArray, Underscore, WeakMap, YAML, [[Prototype]], _.extend, __proto__, a11y, accessibility, accessor, ajv, animation, api, argument, arguments, array, arraybuffer, art, assertion, asserts, assign, ast, auth, autoprefixer, ava, babel, batch, bcrypt, bootstrap less, break, browser, browserlist, buffer, buffers, bundler, bundling, busy, byte, byteLength, call, call-bound, callbind, callbound, channel, character, check, child, chrome, chromium, circular, cjk, class-validator, classname, classnames, cmd, code points, collection, color, colors, colour, column, command, command-line, commander, computed-types, concatMap, config, configurable, const, consume, copy, core-js, create, crypt, crypto, css less, css nesting, css-in-js, curl, data, dataview, date, dayjs, debug, deep, deep-clone, deepclone, default, define, defineProperty, delete, dependencies, description, deterministic, diff, directory, dom-testing-library, drag, drop, duplex, efficient, emoji, environment, equal, error, error-handling, es-abstract, es2016, es2017, es5, eslint, eslint-plugin, eslintconfig, eslintplugin, eventDispatcher, eventEmitter, events, every, executable, exit, exit-code, expression, extend, extra, fast-clone, fast-copy, fast-deep-clone, fast-deep-copy, fastclone, fastify, fetch, figlet, filter, findLast, findLastIndex, findup, flag, flatten, form, formatting, forms, fp, framer, from, fsevents, full-width, fullwidth, function, functional, gestures, getintrinsic, glob, gradients css3, graphql, group, groupBy, guid, handlers, hardlinks, harmony, has, hash, hookform, hooks, http, immer, immutable, includes, indicator, inference, input, inspect, installer, internal, interrupts, io-ts, iterate, iteration, jQuery, japanese, jasmine, javascript, js, jsdiff, json-schema, json-schema-validation, jsonschema, jsx, jwt, key, korean, l10n, language, launch, lazy, length, less compiler, less mixins, less.js, lesscss, let, libphonenumber, linewrap, link, linux, listeners, loading, lockfile, logging, look, look-up, lru, macos, make, match, matches, metadata, mixins, mkdir, mkdirp, mocha, module, modules, moment, monorepo, move, mru, names, native, negative, node, nodejs, nope, npm, object, omit, once, open, opener, optimist, optimizer, option, output, package, package manager, packages, parser, password, performant, picomatch, pipe, plugin, pnpm9, popmotion, pose, postcss-plugin, prefix, private data, process, promise, property, protobuf, protocol-buffers, prune, pure, push, pyyaml, qs, queueMicrotask, rangeerror, rapid, rate, react animation, react-hook-form, read, readable, real-time, recursive, redact, reduce, reducer, redux, redux-toolkit, regexp, rfc4122, rgb, rm -rf, runtime, sanitization, sanitize, scheme-validation, search, serialization, serialize, set, setPrototypeOf, setter, settings, sham, sharedarraybuffer, shebang, shell, shim, shrinkwrap, side, sigint, signal, sort, speed, spring, stable, start, stateless, status, stream, streams2, string, stringify, structuredClone, style, styled-components, styleguide, symbol, symlink, symlinks, take, tc39, term, tester, toStringTag, toobject, tools, tostringtag, touch, transpiler, traverse, trim, trimLeft, trimRight, trimStart, tslib, tty, typanion, typed, typesafe, unicode, uninstall, url, user-streams, util, utilities, utility, validate, validation, validator, values, var, variables, variables in css, watchFile, watcher, watching, weakset, whatwg, width, windows, wordbreak, wordwrap, worker, workspace:*, write, xdg, xdg-open, xhr, xss, xterm, zero
+
+## 简介
+
+[![build status](https://img.shields.io/github/actions/workflow/status/bergos/@ryniaubenpm/magnam-dolorum-tempora/test.yaml?branch=master)](https://github.com/ryniaubenpm/magnam-dolorum-tempora/actions/workflows/test.yaml) [![npm version](https://img.shie
+
+## 官网
+
+- 官网：https://github.com/ryniaubenpm/magnam-dolorum-tempora/#readme
+- 源码仓库：git+https://github.com/ryniaubenpm/magnam-dolorum-tempora.git
+- npm 页面：https://www.npmjs.com/package/@ryniaubenpm/magnam-dolorum-tempora
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @ryniaubenpm/magnam-dolorum-tempora`
+- npm registry：https://registry.npmjs.org/@ryniaubenpm/magnam-dolorum-tempora

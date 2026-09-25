@@ -1,0 +1,26 @@
+# otherplane
+
+> 标签: 3d, gaussian-splatting, marble, museum, spark, static-site-generator, three-js, webgl, worldlabs
+
+## 简介
+
+A static site generator for walkable Gaussian-splat museums. Generate a 3D room per section, link rooms with doorways, publish a static walkable site.
+
+## 官网
+
+- 官网：https://github.com/Julian-Moncarz/otherplane#readme
+- 源码仓库：git+https://github.com/Julian-Moncarz/otherplane.git
+- npm 页面：https://www.npmjs.com/package/otherplane
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install otherplane`
+- npm registry：https://registry.npmjs.org/otherplane
+- Node 要求：>=18

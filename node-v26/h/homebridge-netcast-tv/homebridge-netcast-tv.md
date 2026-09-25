@@ -1,0 +1,27 @@
+# homebridge-netcast-tv
+
+> 标签: homebridge-plugin
+
+## 简介
+
+Homebridge plugin to interact with LG Netcast TVs
+
+## 官网
+
+- 官网：https://github.com/dvcrn/homebridge-netcast-tv#readme
+- 源码仓库：git+https://github.com/dvcrn/homebridge-netcast-tv.git
+- npm 页面：https://www.npmjs.com/package/homebridge-netcast-tv
+
+## 历史版本号
+
+- 当前版本：2.0.2
+
+- 2.0.0
+- 2.0.1
+- 2.0.2
+
+## 获取地址
+
+- npm 安装：`npm install homebridge-netcast-tv`
+- npm registry：https://registry.npmjs.org/homebridge-netcast-tv
+- Node 要求：>=10.17.0

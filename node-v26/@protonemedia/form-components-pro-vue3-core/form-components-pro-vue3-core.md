@@ -1,0 +1,35 @@
+# @protonemedia/form-components-pro-vue3-core
+
+> 标签: JavaScript
+
+## 简介
+
+@protonemedia/form-components-pro-vue3-core - JavaScript library from npm
+
+## 官网
+
+- 官网：https://formcomponents.pro
+- 源码仓库：git://github.com/protonemedia/form-components-pro.git
+- npm 页面：https://www.npmjs.com/package/@protonemedia/form-components-pro-vue3-core
+
+## 历史版本号
+
+- 当前版本：2.0.14-beta1.0
+
+- 2.0.11-beta1.0
+- 2.0.12-beta1.0
+- 2.0.13-beta1.0
+- 2.0.14-beta1.0
+- 2.0.2-beta1.0
+- 2.0.3-beta1.0
+- 2.0.4-beta1.0
+- 2.0.5-beta1.0
+- 2.0.6-beta1.0
+- 2.0.7-beta1.0
+- 2.0.8-beta1.0
+- 2.0.9-beta1.0
+
+## 获取地址
+
+- npm 安装：`npm install @protonemedia/form-components-pro-vue3-core`
+- npm registry：https://registry.npmjs.org/@protonemedia/form-components-pro-vue3-core

@@ -1,0 +1,25 @@
+# gl-react-native-filters
+
+> 标签: filters, gl-react, gl-react-native, instagram-filters, react, react-native
+
+## 简介
+
+Includes the instagram filters for gl-react-native, see examples folder as the usage tip.
+
+## 官网
+
+- 官网：https://github.com/beqaweb/gl-react-native-filters#readme
+- 源码仓库：git+https://github.com/beqaweb/gl-react-native-filters.git
+- npm 页面：https://www.npmjs.com/package/gl-react-native-filters
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install gl-react-native-filters`
+- npm registry：https://registry.npmjs.org/gl-react-native-filters

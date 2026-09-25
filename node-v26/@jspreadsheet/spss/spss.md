@@ -1,0 +1,25 @@
+# @jspreadsheet/spss
+
+> 标签: data grid, data table, excel, google spreadsheet, grid, grid editor, javascript grid, jexcel, jspreadsheet, online spreadsheet, spreadsheet, spreadsheet formulas, spss, table, tables
+
+## 简介
+
+Export your spreadsheets from jspreadsheet to SPSS.
+
+## 官网
+
+- 官网：https://github.com/jspreadsheet/pro
+- 源码仓库：git+https://github.com/jspreadsheet/pro.git
+- npm 页面：https://www.npmjs.com/package/@jspreadsheet/spss
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @jspreadsheet/spss`
+- npm registry：https://registry.npmjs.org/@jspreadsheet/spss

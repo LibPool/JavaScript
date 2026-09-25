@@ -1,0 +1,23 @@
+# ctx-old-ftp-updated
+
+> 标签: cortex
+
+## 简介
+
+Front-end package management, publish tools for CI & automation
+
+## 官网
+
+- 源码仓库：git@github.com:cortexjs/ctx-old.git
+- npm 页面：https://www.npmjs.com/package/ctx-old-ftp-updated
+
+## 历史版本号
+
+- 当前版本：1.2.23
+
+- 1.2.23
+
+## 获取地址
+
+- npm 安装：`npm install ctx-old-ftp-updated`
+- npm registry：https://registry.npmjs.org/ctx-old-ftp-updated

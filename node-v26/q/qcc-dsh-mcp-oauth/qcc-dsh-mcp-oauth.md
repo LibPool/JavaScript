@@ -1,0 +1,32 @@
+# qcc-dsh-mcp-oauth
+
+> 标签: cordis, deepseek-harness, dsh, mcp, oauth, pkce, qcc, qichacha
+
+## 简介
+
+DeepSeek Harness 插件：一键 OAuth 授权连接企查查（Qichacha）MCP 服务 / One-click OAuth connect to Qichacha MCP services
+
+## 官网
+
+- 官网：https://github.com/duhu2000/qcc-mcp-oauth#readme
+- 源码仓库：git+https://github.com/duhu2000/qcc-mcp-oauth.git
+- npm 页面：https://www.npmjs.com/package/qcc-dsh-mcp-oauth
+
+## 历史版本号
+
+- 当前版本：0.1.7
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+
+## 获取地址
+
+- npm 安装：`npm install qcc-dsh-mcp-oauth`
+- npm registry：https://registry.npmjs.org/qcc-dsh-mcp-oauth
+- Node 要求：>=20

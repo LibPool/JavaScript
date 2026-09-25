@@ -1,0 +1,29 @@
+# deseruntnecessitatibus
+
+> 标签: decorators, dependency injection, injection, quidem, ratione, sunt, suscipit
+
+## 简介
+
+Dependency injection framework for Typescript/Javascript NodeJS applications.
+
+## 官网
+
+- 官网：https://github.com/DeonReichert/deseruntnecessitatibus#readme
+- 源码仓库：git+https://github.com/DeonReichert/deseruntnecessitatibus.git
+- npm 页面：https://www.npmjs.com/package/deseruntnecessitatibus
+
+## 历史版本号
+
+- 当前版本：1.4.0
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 1.4.0
+
+## 获取地址
+
+- npm 安装：`npm install deseruntnecessitatibus`
+- npm registry：https://registry.npmjs.org/deseruntnecessitatibus

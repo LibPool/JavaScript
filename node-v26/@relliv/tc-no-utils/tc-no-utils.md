@@ -1,0 +1,29 @@
+# @relliv/tc-no-utils
+
+> 标签: tc id, tc id validation, tc no, tc no testing, tc no utils, tc no validation
+
+## 简介
+
+Simple TC No utilities for form input validation and testing.
+
+## 官网
+
+- 官网：https://github.com/relliv/tc-no-utils#readme
+- 源码仓库：git+https://github.com/relliv/tc-no-utils.git
+- npm 页面：https://www.npmjs.com/package/@relliv/tc-no-utils
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+
+## 获取地址
+
+- npm 安装：`npm install @relliv/tc-no-utils`
+- npm registry：https://registry.npmjs.org/@relliv/tc-no-utils

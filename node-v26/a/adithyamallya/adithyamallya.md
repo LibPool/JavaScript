@@ -1,0 +1,24 @@
+# adithyamallya
+
+> 标签: adithya, cli, interactive, mallya, portfolio, terminal
+
+## 简介
+
+Terminal portfolio of Adithya Mallya (interactive CLI)
+
+## 官网
+
+- 官网：https://github.com/adma77ya/adithyamallya#readme
+- 源码仓库：git+ssh://git@github.com/adma77ya/adithyamallya.git
+- npm 页面：https://www.npmjs.com/package/adithyamallya
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install adithyamallya`
+- npm registry：https://registry.npmjs.org/adithyamallya

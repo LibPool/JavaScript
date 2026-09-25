@@ -1,0 +1,31 @@
+# @solent/eslint-config-react
+
+> 标签: config, eslint, react, solent
+
+## 简介
+
+ESLint configuration for Solent University - with React
+
+## 官网
+
+- 官网：https://gitlab.com/solent-university/external-relations/eslint-config-solent-react#readme
+- 源码仓库：git+ssh://git@gitlab.com/solent-university/external-relations/eslint-config-solent-react.git
+- npm 页面：https://www.npmjs.com/package/@solent/eslint-config-react
+
+## 历史版本号
+
+- 当前版本：2.0.2
+
+- 1.0.0
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.2.0
+- 2.0.0
+- 2.0.1
+- 2.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @solent/eslint-config-react`
+- npm registry：https://registry.npmjs.org/@solent/eslint-config-react

@@ -1,0 +1,24 @@
+# theme-nightly
+
+> 标签: color-theme, dark, dracula, theme
+
+## 简介
+
+Nightly Theme
+
+## 官网
+
+- 源码仓库：https://github.com/felipebarcelospro/vscode-nightly-theme.git
+- npm 页面：https://www.npmjs.com/package/theme-nightly
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install theme-nightly`
+- npm registry：https://registry.npmjs.org/theme-nightly

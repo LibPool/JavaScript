@@ -1,0 +1,34 @@
+# xbsj-xe2-assets
+
+> 标签: JavaScript
+
+## 简介
+
+xbsj-xe2的资源文件，分拆开，避免每次更新的资源太大
+
+## 官网
+
+- 官网：http://www.earthsdk.com
+- npm 页面：https://www.npmjs.com/package/xbsj-xe2-assets
+
+## 历史版本号
+
+- 当前版本：0.1.21
+
+- 0.1.18
+- 0.1.19
+- 0.1.2
+- 0.1.20
+- 0.1.21
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install xbsj-xe2-assets`
+- npm registry：https://registry.npmjs.org/xbsj-xe2-assets

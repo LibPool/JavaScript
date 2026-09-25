@@ -1,0 +1,27 @@
+# influx-syslog
+
+> 标签: JavaScript
+
+## 简介
+
+Node.js InfluxDB syslog logger
+
+## 官网
+
+- 官网：https://github.com/mgcrea/node-influx-syslog-logger#readme
+- 源码仓库：git+https://github.com/mgcrea/node-influx-syslog-logger.git
+- npm 页面：https://www.npmjs.com/package/influx-syslog
+
+## 历史版本号
+
+- 当前版本：0.2.4
+
+- 0.2.1
+- 0.2.2
+- 0.2.3
+- 0.2.4
+
+## 获取地址
+
+- npm 安装：`npm install influx-syslog`
+- npm registry：https://registry.npmjs.org/influx-syslog

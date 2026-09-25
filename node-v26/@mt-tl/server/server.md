@@ -1,0 +1,30 @@
+# @mt-tl/server
+
+> 标签: framework, mtproto, protocol, server, tcp, telegram, tl, websocket
+
+## 简介
+
+An MTProto 2.0 server framework (Fastify-style): createServer, routes, plugins, hooks, server-push. Ships the full protocol engine — WebSocket/raw-TCP transport, handshake, AES-IGE crypto, sessions, TL (de)serialization, layered encoding — plus the handle
+
+## 官网
+
+- 官网：https://github.com/joeberetta/mt-tl/tree/master/packages/server#readme
+- 源码仓库：git+https://github.com/joeberetta/mt-tl.git
+- npm 页面：https://www.npmjs.com/package/@mt-tl/server
+
+## 历史版本号
+
+- 当前版本：0.1.13
+
+- 0.1.1
+- 0.1.12
+- 0.1.13
+- 0.1.2
+- 0.1.3
+- 0.1.4
+
+## 获取地址
+
+- npm 安装：`npm install @mt-tl/server`
+- npm registry：https://registry.npmjs.org/@mt-tl/server
+- Node 要求：>=20

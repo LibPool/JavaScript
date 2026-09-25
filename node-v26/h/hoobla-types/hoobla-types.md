@@ -1,0 +1,31 @@
+# hoobla-types
+
+> 标签: JavaScript
+
+## 简介
+
+Hoobla Types Package
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/hoobla-types
+
+## 历史版本号
+
+- 当前版本：1.0.9
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+
+## 获取地址
+
+- npm 安装：`npm install hoobla-types`
+- npm registry：https://registry.npmjs.org/hoobla-types

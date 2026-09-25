@@ -1,0 +1,27 @@
+# @lyove/monaco-editor-react
+
+> 标签: code-editor, monaco-editor, monaco-editor-react, react-monaco-editor
+
+## 简介
+
+🌴 Monaco Code Editor for React, without need of configuration files or plugins
+
+## 官网
+
+- 官网：https://github.com/lyove/monaco-editor-react#readme
+- 源码仓库：git+https://github.com/lyove/monaco-editor-react.git
+- npm 页面：https://www.npmjs.com/package/@lyove/monaco-editor-react
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @lyove/monaco-editor-react`
+- npm registry：https://registry.npmjs.org/@lyove/monaco-editor-react

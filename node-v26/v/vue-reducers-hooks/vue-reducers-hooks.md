@@ -1,0 +1,30 @@
+# vue-reducers-hooks
+
+> 标签: combine, composables, hooks, reducer, reducers, state, stateManagement, useReducer, vue, vue3
+
+## 简介
+
+Redux-like hooks for vue applications
+
+## 官网
+
+- 官网：https://github.com/omar-baldi/vue-reducer#readme
+- 源码仓库：git+https://github.com/omar-baldi/vue-reducer.git
+- npm 页面：https://www.npmjs.com/package/vue-reducers-hooks
+
+## 历史版本号
+
+- 当前版本：0.0.8
+
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+
+## 获取地址
+
+- npm 安装：`npm install vue-reducers-hooks`
+- npm registry：https://registry.npmjs.org/vue-reducers-hooks

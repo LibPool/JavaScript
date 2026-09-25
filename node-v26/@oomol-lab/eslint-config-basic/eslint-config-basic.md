@@ -1,0 +1,24 @@
+# @oomol-lab/eslint-config-basic
+
+> 标签: code-style, eslint, eslint-config, oomol
+
+## 简介
+
+@oomol-lab/eslint-config-basic - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/oomol-lab/code-style#readme
+- 源码仓库：git+https://github.com/oomol-lab/code-style.git
+- npm 页面：https://www.npmjs.com/package/@oomol-lab/eslint-config-basic
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @oomol-lab/eslint-config-basic`
+- npm registry：https://registry.npmjs.org/@oomol-lab/eslint-config-basic

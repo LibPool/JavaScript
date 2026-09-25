@@ -1,0 +1,26 @@
+# focus-fly
+
+> 标签: accessibility, focus, focus-lock, focus-management, focus-trap, keyboard, tab-sequence
+
+## 简介
+
+焦点管理。Focus management.
+
+## 官网
+
+- 官网：https://github.com/wswmsword/focus-fly#readme
+- 源码仓库：git+https://github.com/wswmsword/focus-fly.git
+- npm 页面：https://www.npmjs.com/package/focus-fly
+
+## 历史版本号
+
+- 当前版本：2.1.0
+
+- 2.0.0
+- 2.0.1
+- 2.1.0
+
+## 获取地址
+
+- npm 安装：`npm install focus-fly`
+- npm registry：https://registry.npmjs.org/focus-fly

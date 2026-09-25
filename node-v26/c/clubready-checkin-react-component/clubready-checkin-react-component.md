@@ -1,0 +1,24 @@
+# clubready-checkin-react-component
+
+> 标签: modules, npm, react
+
+## 简介
+
+React Input that takes a barcode or phone number to checkin a member, returns the usersdata and whether they were checkedin successfully
+
+## 官网
+
+- 官网：https://github.com/BaReinhard/ClubReady-Checkin-React-Component#readme
+- 源码仓库：git+https://github.com/BaReinhard/ClubReady-Checkin-React-Component.git
+- npm 页面：https://www.npmjs.com/package/clubready-checkin-react-component
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install clubready-checkin-react-component`
+- npm registry：https://registry.npmjs.org/clubready-checkin-react-component

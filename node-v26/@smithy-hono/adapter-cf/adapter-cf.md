@@ -1,0 +1,27 @@
+# @smithy-hono/adapter-cf
+
+> 标签: JavaScript
+
+## 简介
+
+Cloudflare (Workers KV + Durable Objects) runtime adapter for @smithy-hono/security-core. Implements the four storage interfaces plus platform glue (forwarded-proto / client-IP resolvers, console logger, SecretProvider) over narrow structural ports — no C
+
+## 官网
+
+- 官网：https://github.com/MYoung25/smithy-hono#readme
+- 源码仓库：git+https://github.com/MYoung25/smithy-hono.git
+- npm 页面：https://www.npmjs.com/package/@smithy-hono/adapter-cf
+
+## 历史版本号
+
+- 当前版本：0.2.7
+
+- 0.2.2
+- 0.2.5
+- 0.2.6
+- 0.2.7
+
+## 获取地址
+
+- npm 安装：`npm install @smithy-hono/adapter-cf`
+- npm registry：https://registry.npmjs.org/@smithy-hono/adapter-cf

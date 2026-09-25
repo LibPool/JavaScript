@@ -1,0 +1,22 @@
+# @ademattos/web-ifc
+
+> 标签: JavaScript
+
+## 简介
+
+ifc loading on the web
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@ademattos/web-ifc
+
+## 历史版本号
+
+- 当前版本：0.0.75
+
+- 0.0.75
+
+## 获取地址
+
+- npm 安装：`npm install @ademattos/web-ifc`
+- npm registry：https://registry.npmjs.org/@ademattos/web-ifc

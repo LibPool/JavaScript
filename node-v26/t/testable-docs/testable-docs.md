@@ -1,0 +1,25 @@
+# testable-docs
+
+> 标签: docs, testable
+
+## 简介
+
+Parses your code, checks if your docs are complete, exports them as structured data
+
+## 官网
+
+- 官网：https://github.com/distributed-systems/testable-docs#readme
+- 源码仓库：git+https://github.com/distributed-systems/testable-docs.git
+- npm 页面：https://www.npmjs.com/package/testable-docs
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.1
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install testable-docs`
+- npm registry：https://registry.npmjs.org/testable-docs

@@ -1,0 +1,35 @@
+# @madebyheyday/sentry-util
+
+> 标签: JavaScript
+
+## 简介
+
+Provides basic sentry integration for Node and Browser based projects and includes Typescript type declarations.
+
+## 官网
+
+- 官网：https://github.com/madebyheyday/sentry-util#readme
+- 源码仓库：git+ssh://git@github.com/madebyheyday/sentry-util.git
+- npm 页面：https://www.npmjs.com/package/@madebyheyday/sentry-util
+
+## 历史版本号
+
+- 当前版本：1.3.0
+
+- 1.0.20
+- 1.0.22
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+- 1.1.0
+- 1.2.0
+- 1.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @madebyheyday/sentry-util`
+- npm registry：https://registry.npmjs.org/@madebyheyday/sentry-util

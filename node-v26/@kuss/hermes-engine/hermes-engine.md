@@ -1,0 +1,32 @@
+# @kuss/hermes-engine
+
+> 标签: JavaScript
+
+## 简介
+
+A JavaScript engine optimized for running React Native on Android
+
+## 官网
+
+- 官网：https://github.com/facebook/hermes#readme
+- 源码仓库：git+ssh://git@github.com/facebook/hermes.git
+- npm 页面：https://www.npmjs.com/package/@kuss/hermes-engine
+
+## 历史版本号
+
+- 当前版本：0.12.0-0.56.7
+
+- 0.12.0
+- 0.12.0-0.56.1
+- 0.12.0-0.56.2
+- 0.12.0-0.56.3
+- 0.12.0-0.56.4
+- 0.12.0-0.56.5
+- 0.12.0-0.56.6
+- 0.12.0-0.56.7
+- 0.12.0-0.72
+
+## 获取地址
+
+- npm 安装：`npm install @kuss/hermes-engine`
+- npm registry：https://registry.npmjs.org/@kuss/hermes-engine

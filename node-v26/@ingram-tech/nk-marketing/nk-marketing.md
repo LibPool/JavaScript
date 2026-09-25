@@ -1,0 +1,35 @@
+# @ingram-tech/nk-marketing
+
+> 标签: JavaScript
+
+## 简介
+
+Postgres-backed marketing & lifecycle email: contacts, consent, newsletter audiences, and idempotent triggered campaigns with RFC 8058 one-click unsubscribe. Sends via @ingram-tech/nk-email.
+
+## 官网
+
+- 官网：https://github.com/ingram-technologies/nextkit#readme
+- 源码仓库：git+https://github.com/ingram-technologies/nextkit.git
+- npm 页面：https://www.npmjs.com/package/@ingram-tech/nk-marketing
+
+## 历史版本号
+
+- 当前版本：0.5.2
+
+- 0.2.1
+- 0.2.2
+- 0.2.3
+- 0.2.4
+- 0.3.0
+- 0.3.1
+- 0.4.0
+- 0.4.1
+- 0.4.2
+- 0.5.0
+- 0.5.1
+- 0.5.2
+
+## 获取地址
+
+- npm 安装：`npm install @ingram-tech/nk-marketing`
+- npm registry：https://registry.npmjs.org/@ingram-tech/nk-marketing

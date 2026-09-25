@@ -1,0 +1,23 @@
+# ctrl-shift-aeth-call-me-daddy
+
+> 标签: JavaScript
+
+## 简介
+
+ctrl-shift-aeth-call-me-daddy - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/ctrl-shift-aeth-call-me-daddy
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install ctrl-shift-aeth-call-me-daddy`
+- npm registry：https://registry.npmjs.org/ctrl-shift-aeth-call-me-daddy

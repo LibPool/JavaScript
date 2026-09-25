@@ -1,0 +1,25 @@
+# @samagra-x/uci-adapters-discord
+
+> 标签: JavaScript
+
+## 简介
+
+A discord wrapper for @samagra-x/uci-adapters-factory
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@samagra-x/uci-adapters-discord
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @samagra-x/uci-adapters-discord`
+- npm registry：https://registry.npmjs.org/@samagra-x/uci-adapters-discord

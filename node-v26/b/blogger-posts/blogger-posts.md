@@ -1,0 +1,25 @@
+# blogger-posts
+
+> 标签: JavaScript
+
+## 简介
+
+Blogger posts for research and training
+
+## 官网
+
+- 官网：https://github.com/khrome/blogger-posts
+- 源码仓库：git://github.com/khrome/blogger-posts.git
+- npm 页面：https://www.npmjs.com/package/blogger-posts
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install blogger-posts`
+- npm registry：https://registry.npmjs.org/blogger-posts
+- Node 要求：*

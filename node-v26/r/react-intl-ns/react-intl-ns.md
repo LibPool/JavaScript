@@ -1,0 +1,29 @@
+# react-intl-ns
+
+> 标签: react, react-intl
+
+## 简介
+
+Intl namespaces and shortcuts for reusable components.
+
+## 官网
+
+- 官网：https://github.com/wrwrwr/react-intl-ns#readme
+- 源码仓库：git+https://github.com/wrwrwr/react-intl-ns.git
+- npm 页面：https://www.npmjs.com/package/react-intl-ns
+
+## 历史版本号
+
+- 当前版本：0.4.0
+
+- 0.0.1
+- 0.0.2
+- 0.1.0
+- 0.2.0
+- 0.3.0
+- 0.4.0
+
+## 获取地址
+
+- npm 安装：`npm install react-intl-ns`
+- npm registry：https://registry.npmjs.org/react-intl-ns

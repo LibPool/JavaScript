@@ -1,0 +1,26 @@
+# @jschirrmacher/csv-file
+
+> 标签: csv, logging
+
+## 简介
+
+Comma separated files (CSV) for use as log output
+
+## 官网
+
+- 官网：https://github.com/jschirrmacher/csv-file#readme
+- 源码仓库：git+https://github.com/jschirrmacher/csv-file.git
+- npm 页面：https://www.npmjs.com/package/@jschirrmacher/csv-file
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @jschirrmacher/csv-file`
+- npm registry：https://registry.npmjs.org/@jschirrmacher/csv-file

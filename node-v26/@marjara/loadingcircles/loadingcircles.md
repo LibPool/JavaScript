@@ -1,0 +1,22 @@
+# @marjara/loadingcircles
+
+> 标签: JavaScript
+
+## 简介
+
+testing the component
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@marjara/loadingcircles
+
+## 历史版本号
+
+- 当前版本：0.1.3
+
+- 0.1.3
+
+## 获取地址
+
+- npm 安装：`npm install @marjara/loadingcircles`
+- npm registry：https://registry.npmjs.org/@marjara/loadingcircles

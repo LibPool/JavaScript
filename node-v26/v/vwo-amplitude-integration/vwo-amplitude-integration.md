@@ -1,0 +1,27 @@
+# vwo-amplitude-integration
+
+> 标签: Amplitude, VWO
+
+## 简介
+
+VWO Amplitude integration
+
+## 官网
+
+- 官网：https://github.com/wingify/vwo-amplitude-integration#readme
+- 源码仓库：git+ssh://git@github.com/wingify/vwo-amplitude-integration.git
+- npm 页面：https://www.npmjs.com/package/vwo-amplitude-integration
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install vwo-amplitude-integration`
+- npm registry：https://registry.npmjs.org/vwo-amplitude-integration

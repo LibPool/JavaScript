@@ -1,0 +1,26 @@
+# @s2ui/justified-gallery
+
+> 标签: justified-gallery, library, s2-ui, s2sharpit, ui
+
+## 简介
+
+A justifed gallery by s2ui.
+
+## 官网
+
+- 官网：https://github.com/s2sharpit/s2ui-justified-gallery#readme
+- 源码仓库：git+https://github.com/s2sharpit/s2ui-justified-gallery.git
+- npm 页面：https://www.npmjs.com/package/@s2ui/justified-gallery
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @s2ui/justified-gallery`
+- npm registry：https://registry.npmjs.org/@s2ui/justified-gallery

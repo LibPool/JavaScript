@@ -1,0 +1,28 @@
+# cordova-plugin-jb-statusbar
+
+> 标签: channelid
+
+## 简介
+
+statusbar plugin
+
+## 官网
+
+- 官网：https://github.com/XiaoyuZheng666/StatusbarPlugin#readme
+- 源码仓库：git+https://github.com/XiaoyuZheng666/StatusbarPlugin.git
+- npm 页面：https://www.npmjs.com/package/cordova-plugin-jb-statusbar
+
+## 历史版本号
+
+- 当前版本：2.4.6
+
+- 2.4.2
+- 2.4.3
+- 2.4.4
+- 2.4.5
+- 2.4.6
+
+## 获取地址
+
+- npm 安装：`npm install cordova-plugin-jb-statusbar`
+- npm registry：https://registry.npmjs.org/cordova-plugin-jb-statusbar

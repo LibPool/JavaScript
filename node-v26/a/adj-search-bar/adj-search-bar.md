@@ -1,0 +1,23 @@
+# adj-search-bar
+
+> 标签: component, library, search-bar, ui, vue3
+
+## 简介
+
+My custom Vue3 component library
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/adj-search-bar
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install adj-search-bar`
+- npm registry：https://registry.npmjs.org/adj-search-bar

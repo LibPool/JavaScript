@@ -1,0 +1,22 @@
+# nest-default-confing
+
+> 标签: JavaScript
+
+## 简介
+
+Defaolt config nest for stasBook
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/nest-default-confing
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install nest-default-confing`
+- npm registry：https://registry.npmjs.org/nest-default-confing

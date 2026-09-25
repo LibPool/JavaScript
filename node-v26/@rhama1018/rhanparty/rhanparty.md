@@ -1,0 +1,23 @@
+# @rhama1018/rhanparty
+
+> 标签: rhanparty
+
+## 简介
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## 官网
+
+- 源码仓库：party
+- npm 页面：https://www.npmjs.com/package/@rhama1018/rhanparty
+
+## 历史版本号
+
+- 当前版本：1.1.4
+
+- 1.1.4
+
+## 获取地址
+
+- npm 安装：`npm install @rhama1018/rhanparty`
+- npm registry：https://registry.npmjs.org/@rhama1018/rhanparty

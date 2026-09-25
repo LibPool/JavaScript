@@ -1,0 +1,32 @@
+# @pureproxy/mitmproxy
+
+> 标签: http, https, mitm, proxy, server, ssl, stream, tls, websocket, websockets
+
+## 简介
+
+Mitm, intercepting proxy server designed with simplicity and extensibility in mind
+
+## 官网
+
+- 官网：https://github.com/pureproxy/mitmproxy#readme
+- 源码仓库：git+https://github.com/pureproxy/mitmproxy.git
+- npm 页面：https://www.npmjs.com/package/@pureproxy/mitmproxy
+
+## 历史版本号
+
+- 当前版本：2.2.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.1.0
+- 1.2.0
+- 2.0.0
+- 2.1.0
+- 2.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @pureproxy/mitmproxy`
+- npm registry：https://registry.npmjs.org/@pureproxy/mitmproxy

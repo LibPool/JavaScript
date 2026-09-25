@@ -1,0 +1,22 @@
+# mybailesy
+
+> 标签: JavaScript
+
+## 简介
+
+mybailesy - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/mybailesy
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install mybailesy`
+- npm registry：https://registry.npmjs.org/mybailesy

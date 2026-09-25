@@ -1,0 +1,27 @@
+# @hashtagchris/test-package
+
+> 标签: JavaScript
+
+## 简介
+
+version 1.0.3 has a string value for repository
+
+## 官网
+
+- 官网：https://github.com/hashtagchris/test-package#readme
+- 源码仓库：git+https://github.com/hashtagchris/test-package.git
+- npm 页面：https://www.npmjs.com/package/@hashtagchris/test-package
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @hashtagchris/test-package`
+- npm registry：https://registry.npmjs.org/@hashtagchris/test-package

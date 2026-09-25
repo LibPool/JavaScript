@@ -1,0 +1,35 @@
+# brace_document_navlink
+
+> 标签: documentation, generation, markdown, navbar, navigation, navlist
+
+## 简介
+
+A Brace Document plugin which injects a navigation list into markdown documents
+
+## 官网
+
+- 官网：https://github.com/restarian/brace_document_navlink#readme
+- 源码仓库：git+https://github.com/restarian/brace_document_navlink.git
+- npm 页面：https://www.npmjs.com/package/brace_document_navlink
+
+## 历史版本号
+
+- 当前版本：1.1.12
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.0
+- 1.1.1
+- 1.1.12
+- 1.1.2
+- 1.1.3
+- 1.1.6
+- 1.1.7
+- 1.1.8
+- 1.1.9
+
+## 获取地址
+
+- npm 安装：`npm install brace_document_navlink`
+- npm registry：https://registry.npmjs.org/brace_document_navlink

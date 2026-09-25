@@ -1,0 +1,26 @@
+# gryadka
+
+> 标签: paxos, redis
+
+## 简介
+
+Gryadka is a minimalistic Paxos-based master-master replicated consistent key/value layer on top of multiple instances of Redis
+
+## 官网
+
+- 官网：https://github.com/gryadka/js/blob/master/README.md
+- 源码仓库：git+https://github.com/gryadka/js.git
+- npm 页面：https://www.npmjs.com/package/gryadka
+
+## 历史版本号
+
+- 当前版本：1.61.10
+
+- 1.61.10
+- 1.61.8
+- 1.61.9
+
+## 获取地址
+
+- npm 安装：`npm install gryadka`
+- npm registry：https://registry.npmjs.org/gryadka

@@ -1,0 +1,25 @@
+# @teacss/preset-official
+
+> 标签: JavaScript
+
+## 简介
+
+TeaCSS official structural component preset.
+
+## 官网
+
+- 官网：https://css.teasim.com
+- npm 页面：https://www.npmjs.com/package/@teacss/preset-official
+
+## 历史版本号
+
+- 当前版本：0.5.2
+
+- 0.5.1
+- 0.5.2
+
+## 获取地址
+
+- npm 安装：`npm install @teacss/preset-official`
+- npm registry：https://registry.npmjs.org/@teacss/preset-official
+- Node 要求：>=22.12.0

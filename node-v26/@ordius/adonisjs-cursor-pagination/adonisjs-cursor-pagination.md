@@ -1,0 +1,31 @@
+# @ordius/adonisjs-cursor-pagination
+
+> 标签: adonisjs, cursor, cursor-pagination, cursor-paginator, lucid, pagination, paginator
+
+## 简介
+
+Cursor-based pagination for AdonisJS Lucid ORM
+
+## 官网
+
+- 官网：https://github.com/ordius/adonisjs-cursor-pagination#readme
+- 源码仓库：git+https://github.com/ordius/adonisjs-cursor-pagination.git
+- npm 页面：https://www.npmjs.com/package/@ordius/adonisjs-cursor-pagination
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @ordius/adonisjs-cursor-pagination`
+- npm registry：https://registry.npmjs.org/@ordius/adonisjs-cursor-pagination
+- Node 要求：>=24

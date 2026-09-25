@@ -1,0 +1,24 @@
+# @dao-vue/alert
+
+> 标签: @dao, @dao-alert, Alert, DaoAlert, vuejs-alert
+
+## 简介
+
+A reusable, free alert components set for VueJS.
+
+## 官网
+
+- 官网：https://github.com/OtabekSadiridinov/DaoAlert#readme
+- 源码仓库：git+https://github.com/OtabekSadiridinov/DaoAlert.git
+- npm 页面：https://www.npmjs.com/package/@dao-vue/alert
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @dao-vue/alert`
+- npm registry：https://registry.npmjs.org/@dao-vue/alert

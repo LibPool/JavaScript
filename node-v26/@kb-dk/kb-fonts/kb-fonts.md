@@ -1,0 +1,24 @@
+# @kb-dk/kb-fonts
+
+> 标签: fonts, kb
+
+## 简介
+
+KB fonts and font styles.
+
+## 官网
+
+- 官网：https://github.com/kb-dk/kb-web-components#readme
+- 源码仓库：git+https://github.com/kb-dk/kb-web-components.git
+- npm 页面：https://www.npmjs.com/package/@kb-dk/kb-fonts
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @kb-dk/kb-fonts`
+- npm registry：https://registry.npmjs.org/@kb-dk/kb-fonts

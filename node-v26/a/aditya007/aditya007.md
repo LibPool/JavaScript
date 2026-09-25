@@ -1,0 +1,25 @@
+# aditya007
+
+> 标签: JavaScript
+
+## 简介
+
+A personal card for Aditya Tandon (@adityatandon007)
+
+## 官网
+
+- 官网：https://github.com/adityatandon007/aditya007#readme
+- 源码仓库：git+https://github.com/adityatandon007/aditya007.git
+- npm 页面：https://www.npmjs.com/package/aditya007
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.1.0
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install aditya007`
+- npm registry：https://registry.npmjs.org/aditya007

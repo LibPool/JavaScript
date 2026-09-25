@@ -1,0 +1,35 @@
+# @coco-platform/cli
+
+> 标签: JavaScript
+
+## 简介
+
+private scaffolding tool.
+
+## 官网
+
+- 官网：https://github.com/bornkiller/coco-platform#readme
+- 源码仓库：git+ssh://git@github.com/bornkiller/coco-platform.git
+- npm 页面：https://www.npmjs.com/package/@coco-platform/cli
+
+## 历史版本号
+
+- 当前版本：0.4.2
+
+- 0.3.27
+- 0.3.28
+- 0.3.29
+- 0.3.30
+- 0.3.31
+- 0.3.33
+- 0.3.34
+- 0.3.35
+- 0.3.36
+- 0.4.0
+- 0.4.1
+- 0.4.2
+
+## 获取地址
+
+- npm 安装：`npm install @coco-platform/cli`
+- npm registry：https://registry.npmjs.org/@coco-platform/cli

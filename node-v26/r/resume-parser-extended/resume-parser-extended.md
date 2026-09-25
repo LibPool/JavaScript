@@ -1,0 +1,31 @@
+# resume-parser-extended
+
+> 标签: cv, cv parser, parser, pdf parser, resume, resume parser
+
+## 简介
+
+A NodeJS library to parse pdf, txt, doc and docx files to JSON and CSV
+
+## 官网
+
+- 官网：https://github.com/umairnadeem/resume-parser.git
+- 源码仓库：git+https://github.com/umairnadeem/resume-parser.git
+- npm 页面：https://www.npmjs.com/package/resume-parser-extended
+
+## 历史版本号
+
+- 当前版本：1.1.15
+
+- 1.1.10
+- 1.1.11
+- 1.1.12
+- 1.1.13
+- 1.1.14
+- 1.1.15
+- 1.1.8
+- 1.1.9
+
+## 获取地址
+
+- npm 安装：`npm install resume-parser-extended`
+- npm registry：https://registry.npmjs.org/resume-parser-extended

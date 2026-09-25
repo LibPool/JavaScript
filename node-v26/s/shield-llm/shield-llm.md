@@ -1,0 +1,36 @@
+# shield-llm
+
+> 标签: ai, chatbot, cli, llm, owasp, red-team, scanner, security
+
+## 简介
+
+AI chatbot security scanner — automated red teaming for LLMs
+
+## 官网
+
+- 官网：https://shield-llm.com
+- 源码仓库：git+https://github.com/sami-essouri/shield-ai.git
+- npm 页面：https://www.npmjs.com/package/shield-llm
+
+## 历史版本号
+
+- 当前版本：0.6.8
+
+- 0.5.1
+- 0.5.2
+- 0.5.3
+- 0.5.4
+- 0.6.0
+- 0.6.1
+- 0.6.2
+- 0.6.3
+- 0.6.4
+- 0.6.5
+- 0.6.6
+- 0.6.8
+
+## 获取地址
+
+- npm 安装：`npm install shield-llm`
+- npm registry：https://registry.npmjs.org/shield-llm
+- Node 要求：>=22

@@ -1,0 +1,24 @@
+# xuaneditor-html
+
+> 标签: JavaScript
+
+## 简介
+
+HTML source editing plugin for simditor
+
+## 官网
+
+- 官网：https://github.com/mycolorway/simditor-html
+- 源码仓库：git+ssh://git@github.com/mycolorway/simditor-html.git
+- npm 页面：https://www.npmjs.com/package/xuaneditor-html
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install xuaneditor-html`
+- npm registry：https://registry.npmjs.org/xuaneditor-html

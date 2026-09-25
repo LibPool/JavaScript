@@ -1,0 +1,27 @@
+# @glammer/mcp
+
+> 标签: ai, claude, color, design, design-system, figma, mcp, model-context-protocol, react, style-guide, tailwind, typography, ui, ux
+
+## 简介
+
+AI design generation MCP server for good UI.
+
+## 官网
+
+- 官网：https://glammer.ai
+- npm 页面：https://www.npmjs.com/package/@glammer/mcp
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @glammer/mcp`
+- npm registry：https://registry.npmjs.org/@glammer/mcp
+- Node 要求：>=20

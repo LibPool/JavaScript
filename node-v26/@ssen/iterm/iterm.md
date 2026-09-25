@@ -1,0 +1,27 @@
+# @ssen/iterm
+
+> 标签: JavaScript
+
+## 简介
+
+@ssen/iterm - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/rocket-hangar/multiplerun/tree/master/packages/src/@ssen/iterm
+- 源码仓库：git+https://github.com/rocket-hangar/multiplerun.git
+- npm 页面：https://www.npmjs.com/package/@ssen/iterm
+
+## 历史版本号
+
+- 当前版本：3.0.0
+
+- 2.0.0
+- 3.0.0
+- 3.0.0-alpha.1
+
+## 获取地址
+
+- npm 安装：`npm install @ssen/iterm`
+- npm registry：https://registry.npmjs.org/@ssen/iterm
+- Node 要求：>=12

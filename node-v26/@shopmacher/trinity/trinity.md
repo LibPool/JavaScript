@@ -1,0 +1,27 @@
+# @shopmacher/trinity
+
+> 标签: less, media, mixins, query, responsive
+
+## 简介
+
+Media query mixins for multiple devices and grid systems using LESS
+
+## 官网
+
+- 官网：https://github.com/SHOPMACHER/trinity#readme
+- 源码仓库：git+https://github.com/SHOPMACHER/trinity/trinity.git
+- npm 页面：https://www.npmjs.com/package/@shopmacher/trinity
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 0.1.0
+- 0.2.0
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @shopmacher/trinity`
+- npm registry：https://registry.npmjs.org/@shopmacher/trinity

@@ -1,0 +1,24 @@
+# elijahforms.js
+
+> 标签: JavaScript
+
+## 简介
+
+elijahform.js is simple JavaScript library for managing HTML forms and input elements. This library was created because of dissatisfaction with other simuliar libraries. It will either be enhanced, maintained or will be abandoned once a better library is
+
+## 官网
+
+- 官网：https://github.com/TBN-ORG/elijahforms.js#readme
+- 源码仓库：git+https://github.com/TBN-ORG/elijahforms.js.git
+- npm 页面：https://www.npmjs.com/package/elijahforms.js
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install elijahforms.js`
+- npm registry：https://registry.npmjs.org/elijahforms.js

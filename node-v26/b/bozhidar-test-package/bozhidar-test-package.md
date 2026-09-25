@@ -1,0 +1,29 @@
+# bozhidar-test-package
+
+> 标签: JavaScript
+
+## 简介
+
+## Warning This is a test package. ## Install package ``` npm install --save bozhidar-test-package ```
+
+## 官网
+
+- 官网：https://github.com/Bojidar00/bozhidar-test-package#readme
+- 源码仓库：git+https://github.com/Bojidar00/bozhidar-test-package.git
+- npm 页面：https://www.npmjs.com/package/bozhidar-test-package
+
+## 历史版本号
+
+- 当前版本：0.1.6
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.5
+- 0.1.6
+
+## 获取地址
+
+- npm 安装：`npm install bozhidar-test-package`
+- npm registry：https://registry.npmjs.org/bozhidar-test-package

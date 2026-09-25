@@ -1,0 +1,24 @@
+# shadowizardtest
+
+> 标签: Front-End, Helpers
+
+## 简介
+
+Util functions for Front End developers
+
+## 官网
+
+- 官网：https://github.com/profiks/shadowizard#readme
+- 源码仓库：git+https://github.com/profiks/shadowizard.git
+- npm 页面：https://www.npmjs.com/package/shadowizardtest
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install shadowizardtest`
+- npm registry：https://registry.npmjs.org/shadowizardtest

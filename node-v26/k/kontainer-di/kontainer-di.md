@@ -1,0 +1,33 @@
+# kontainer-di
+
+> 标签: container, dependency, injection, ioc
+
+## 简介
+
+A simple lightweight Dependency Injection container
+
+## 官网
+
+- 官网：https://github.com/redradix/kontainer
+- 源码仓库：git+https://github.com/redradix/kontainer.git
+- npm 页面：https://www.npmjs.com/package/kontainer-di
+
+## 历史版本号
+
+- 当前版本：0.9.9
+
+- 0.9.0
+- 0.9.1
+- 0.9.2
+- 0.9.3
+- 0.9.4
+- 0.9.5
+- 0.9.6
+- 0.9.7
+- 0.9.8
+- 0.9.9
+
+## 获取地址
+
+- npm 安装：`npm install kontainer-di`
+- npm registry：https://registry.npmjs.org/kontainer-di

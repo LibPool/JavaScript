@@ -1,0 +1,33 @@
+# jquery-packir
+
+> 标签: blocks, jquery, pack, packir
+
+## 简介
+
+jQuery plugin for Packir
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/jquery-packir
+
+## 历史版本号
+
+- 当前版本：0.7.10
+
+- 0.1.8
+- 0.1.9
+- 0.5.0
+- 0.6.0
+- 0.7.0
+- 0.7.10
+- 0.7.4
+- 0.7.5
+- 0.7.6
+- 0.7.7
+- 0.7.8
+- 0.7.9
+
+## 获取地址
+
+- npm 安装：`npm install jquery-packir`
+- npm registry：https://registry.npmjs.org/jquery-packir

@@ -1,0 +1,23 @@
+# createhash-chaintor
+
+> 标签: crypto
+
+## 简介
+
+create hashes for browserify
+
+## 官网
+
+- 官网：https://github.com/crypto-browserify/createHash
+- npm 页面：https://www.npmjs.com/package/createhash-chaintor
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install createhash-chaintor`
+- npm registry：https://registry.npmjs.org/createhash-chaintor

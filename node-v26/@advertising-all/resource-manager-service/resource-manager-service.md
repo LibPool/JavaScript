@@ -1,0 +1,34 @@
+# @advertising-all/resource-manager-service
+
+> 标签: JavaScript
+
+## 简介
+
+栏目管理service
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@advertising-all/resource-manager-service
+
+## 历史版本号
+
+- 当前版本：1.0.148
+
+- 1.0.144
+- 1.0.145
+- 1.0.146
+- 1.0.148
+- 1.0.91
+- 1.0.92
+- 1.0.93
+- 1.0.95
+- 1.0.96
+- 1.0.97
+- 1.0.98
+- 1.0.99
+- 共 117 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @advertising-all/resource-manager-service`
+- npm registry：https://registry.npmjs.org/@advertising-all/resource-manager-service

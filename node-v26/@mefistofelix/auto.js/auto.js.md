@@ -1,0 +1,29 @@
+# @mefistofelix/auto.js
+
+> 标签: accessibility, automation, deno, desktop, ffi, ocr
+
+## 简介
+
+Minimal desktop automation for Deno using native operating-system APIs and AAF scenarios.
+
+## 官网
+
+- 官网：https://github.com/mefistofelix/auto.js#readme
+- 源码仓库：git+https://github.com/mefistofelix/auto.js.git
+- npm 页面：https://www.npmjs.com/package/@mefistofelix/auto.js
+
+## 历史版本号
+
+- 当前版本：0.1.5
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+
+## 获取地址
+
+- npm 安装：`npm install @mefistofelix/auto.js`
+- npm registry：https://registry.npmjs.org/@mefistofelix/auto.js

@@ -1,0 +1,29 @@
+# advoluptas
+
+> 标签: JavaScript
+
+## 简介
+
+A fully type safe mocking, call verification and import replacement library for jasmine and jest
+
+## 官网
+
+- 官网：https://github.com/FranciscoWatsica/advoluptas#readme
+- 源码仓库：git+https://github.com/FranciscoWatsica/advoluptas.git
+- npm 页面：https://www.npmjs.com/package/advoluptas
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.1.0
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install advoluptas`
+- npm registry：https://registry.npmjs.org/advoluptas

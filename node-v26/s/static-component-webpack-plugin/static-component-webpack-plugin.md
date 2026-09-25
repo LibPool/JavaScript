@@ -1,0 +1,24 @@
+# static-component-webpack-plugin
+
+> 标签: component, plugin, static, static-component-webpack-plugin, webpack
+
+## 简介
+
+webpack静态组件插件
+
+## 官网
+
+- 官网：https://github.com/wanglei8381/static-component-webpack-plugin#readme
+- 源码仓库：git+ssh://git@github.com/wanglei8381/static-component-webpack-plugin.git
+- npm 页面：https://www.npmjs.com/package/static-component-webpack-plugin
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install static-component-webpack-plugin`
+- npm registry：https://registry.npmjs.org/static-component-webpack-plugin

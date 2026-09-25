@@ -1,0 +1,36 @@
+# pingdictate
+
+> 标签: anybar, indicator, latency, ping
+
+## 简介
+
+get visual indication of average latency to host(s) in your menu bar
+
+## 官网
+
+- 官网：https://github.com/skibz/pingdicate#readme
+- 源码仓库：git+https://github.com/skibz/pingdicate.git
+- npm 页面：https://www.npmjs.com/package/pingdictate
+
+## 历史版本号
+
+- 当前版本：0.0.15
+
+- 0.0.12
+- 0.0.13
+- 0.0.14
+- 0.0.15
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install pingdictate`
+- npm registry：https://registry.npmjs.org/pingdictate
+- Node 要求：>=0.10

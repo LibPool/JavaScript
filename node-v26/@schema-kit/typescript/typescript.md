@@ -1,0 +1,25 @@
+# @schema-kit/typescript
+
+> 标签: JavaScript
+
+## 简介
+
+Create TypeScript types using Schema Kit
+
+## 官网
+
+- 官网：https://gitlab.com/seangenabe/schema-kit
+- 源码仓库：git+https://gitlab.com/seangenabe/schema-kit.git
+- npm 页面：https://www.npmjs.com/package/@schema-kit/typescript
+
+## 历史版本号
+
+- 当前版本：1.5.0
+
+- 1.4.4
+- 1.5.0
+
+## 获取地址
+
+- npm 安装：`npm install @schema-kit/typescript`
+- npm registry：https://registry.npmjs.org/@schema-kit/typescript

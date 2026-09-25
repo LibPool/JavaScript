@@ -1,0 +1,28 @@
+# @o2oa/tidy-jsdoc-o2
+
+> 标签: jsdoc, template
+
+## 简介
+
+A clean JSDoc3 template
+
+## 官网
+
+- 官网：https://github.com/o2shine/tidy-jsdoc-o2
+- 源码仓库：git+https://github.com/o2shine/tidy-jsdoc-o2.git
+- npm 页面：https://www.npmjs.com/package/@o2oa/tidy-jsdoc-o2
+
+## 历史版本号
+
+- 当前版本：0.0.26
+
+- 0.0.22
+- 0.0.23
+- 0.0.24
+- 0.0.25
+- 0.0.26
+
+## 获取地址
+
+- npm 安装：`npm install @o2oa/tidy-jsdoc-o2`
+- npm registry：https://registry.npmjs.org/@o2oa/tidy-jsdoc-o2

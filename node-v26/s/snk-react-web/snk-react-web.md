@@ -1,0 +1,25 @@
+# snk-react-web
+
+> 标签: ERP, React, dashboards, sankhya
+
+## 简介
+
+Make Sankhya dashboards with React Web tools and facilities.
+
+## 官网
+
+- 官网：https://github.com/williamciva/snk-react-web#readme
+- 源码仓库：git+https://github.com/williamciva/snk-react-web.git
+- npm 页面：https://www.npmjs.com/package/snk-react-web
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install snk-react-web`
+- npm registry：https://registry.npmjs.org/snk-react-web

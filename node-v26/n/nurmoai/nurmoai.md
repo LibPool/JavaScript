@@ -1,0 +1,23 @@
+# nurmoai
+
+> 标签: Character AI API, NurmoAI, NurmoAI API, chatgpt, gpt4
+
+## 简介
+
+Official API Library for NurmoAI API
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/nurmoai
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install nurmoai`
+- npm registry：https://registry.npmjs.org/nurmoai

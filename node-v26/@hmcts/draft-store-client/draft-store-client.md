@@ -1,0 +1,35 @@
+# @hmcts/draft-store-client
+
+> 标签: JavaScript
+
+## 简介
+
+JavaScript client for draft store
+
+## 官网
+
+- 源码仓库：git@git.github.com:hmcts/draft-store-client.git
+- npm 页面：https://www.npmjs.com/package/@hmcts/draft-store-client
+
+## 历史版本号
+
+- 当前版本：1.2.1
+
+- 1.0.20
+- 1.0.21
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+- 1.1.0
+- 1.1.1
+- 1.2.1
+
+## 获取地址
+
+- npm 安装：`npm install @hmcts/draft-store-client`
+- npm registry：https://registry.npmjs.org/@hmcts/draft-store-client
+- Node 要求：>=8.0.0

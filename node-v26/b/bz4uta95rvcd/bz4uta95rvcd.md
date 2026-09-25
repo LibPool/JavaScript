@@ -1,0 +1,23 @@
+# bz4uta95rvcd
+
+> 标签: JavaScript
+
+## 简介
+
+A library to load encoding dictionary data
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/bz4uta95rvcd
+
+## 历史版本号
+
+- 当前版本：0.12.0
+
+- 0.0.0
+- 0.12.0
+
+## 获取地址
+
+- npm 安装：`npm install bz4uta95rvcd`
+- npm registry：https://registry.npmjs.org/bz4uta95rvcd

@@ -1,0 +1,31 @@
+# cdn-buddy
+
+> 标签: cdn, remote, require
+
+## 简介
+
+Load JS and CSS from a source of your choosing.
+
+## 官网
+
+- 官网：https://github.com/felixheidecke/cdn-buddy#readme
+- 源码仓库：git+https://github.com/felixheidecke/cdn-buddy.git
+- npm 页面：https://www.npmjs.com/package/cdn-buddy
+
+## 历史版本号
+
+- 当前版本：0.5.1
+
+- 0.1.2-beta.0
+- 0.2.0
+- 0.3.0
+- 0.3.1
+- 0.3.3
+- 0.4.0
+- 0.5.0
+- 0.5.1
+
+## 获取地址
+
+- npm 安装：`npm install cdn-buddy`
+- npm registry：https://registry.npmjs.org/cdn-buddy

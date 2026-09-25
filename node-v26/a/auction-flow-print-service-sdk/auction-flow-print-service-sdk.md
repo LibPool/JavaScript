@@ -1,0 +1,22 @@
+# auction-flow-print-service-sdk
+
+> 标签: electron, escpos, nitro, printer, printing
+
+## 简介
+
+JavaScript/TypeScript client for Nitro local printer service
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/auction-flow-print-service-sdk
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install auction-flow-print-service-sdk`
+- npm registry：https://registry.npmjs.org/auction-flow-print-service-sdk

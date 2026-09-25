@@ -1,0 +1,24 @@
+# expo-call-detector
+
+> 标签: ExpoCallDetector, expo, expo-call-detector, react-native
+
+## 简介
+
+Simple module to detect calls inside your expo app
+
+## 官网
+
+- 官网：https://github.com/sudodaksh/expo-call-detector#readme
+- 源码仓库：git+https://github.com/sudodaksh/expo-call-detector.git
+- npm 页面：https://www.npmjs.com/package/expo-call-detector
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install expo-call-detector`
+- npm registry：https://registry.npmjs.org/expo-call-detector

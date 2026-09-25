@@ -1,0 +1,36 @@
+# zation-assured
+
+> 标签: application, big, client, cluster, esay, fast, http, intergrationTests, realtime, scalable, secure, testing, tools, websocket
+
+## 简介
+
+Library For Testing Zation Servers
+
+## 官网
+
+- 官网：https://github.com/ZationServer/zation-assured#readme
+- 源码仓库：git+https://github.com/ZationServer/zation-assured.git
+- npm 页面：https://www.npmjs.com/package/zation-assured
+
+## 历史版本号
+
+- 当前版本：3.0.0-beta.1
+
+- 3.0.0-dev.2
+- 3.0.0-dev.3
+- 3.0.0-dev.4
+- 3.0.0-dev.5
+- 3.0.0-dev.6
+- 3.0.0-dev.7
+- 3.0.0-dev.8
+- 3.0.0-dev.9
+- 3.0.0-pre-alpha.3
+- 3.0.0-pre-alpha.4
+- 3.0.0-pre-alpha.5
+- 3.0.0-pre-alpha.6
+- 共 59 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install zation-assured`
+- npm registry：https://registry.npmjs.org/zation-assured

@@ -1,0 +1,23 @@
+# get-installed-package-version
+
+> 标签: check, package, version
+
+## 简介
+
+Gets version of currently installed package
+
+## 官网
+
+- 官网：https://github.com/ianbrode/get-package-version#readme
+- npm 页面：https://www.npmjs.com/package/get-installed-package-version
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install get-installed-package-version`
+- npm registry：https://registry.npmjs.org/get-installed-package-version

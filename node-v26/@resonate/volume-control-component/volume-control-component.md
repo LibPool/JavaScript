@@ -1,0 +1,31 @@
+# @resonate/volume-control-component
+
+> 标签: nanocomponent
+
+## 简介
+
+Volume control using rangeslider-js
+
+## 官网
+
+- 官网：https://github.com/resonatecoop/stream2own#readme
+- 源码仓库：git+https://github.com/resonatecoop/stream2own.git
+- npm 页面：https://www.npmjs.com/package/@resonate/volume-control-component
+
+## 历史版本号
+
+- 当前版本：2.2.0
+
+- 1.0.0
+- 1.1.0
+- 2.0.0
+- 2.1.0
+- 2.1.1
+- 2.1.2
+- 2.1.3
+- 2.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @resonate/volume-control-component`
+- npm registry：https://registry.npmjs.org/@resonate/volume-control-component

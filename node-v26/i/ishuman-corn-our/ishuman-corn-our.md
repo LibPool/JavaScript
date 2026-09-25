@@ -1,0 +1,24 @@
+# ishuman-corn-our
+
+> 标签: indoxcapital, ishuman-corn-our, package-manager, tea
+
+## 简介
+
+(ishuman-corn-our) - This function is used to convert multiple words into an interesting sentence containing the word ishuman-corn-our.
+
+## 官网
+
+- 官网：https://github.com/nemanjavidika/nemanjavidika#readme
+- 源码仓库：git+https://github.com/nemanjavidika/nemanjavidika.git
+- npm 页面：https://www.npmjs.com/package/ishuman-corn-our
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install ishuman-corn-our`
+- npm registry：https://registry.npmjs.org/ishuman-corn-our

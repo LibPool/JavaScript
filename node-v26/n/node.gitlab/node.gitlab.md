@@ -1,0 +1,25 @@
+# node.gitlab
+
+> 标签: gitlab, node gitlab
+
+## 简介
+
+nodejs library of gitlab API.
+
+## 官网
+
+- 官网：https://github.com/wiky/node.gitlab.git
+- 源码仓库：git@github.com:wiky/node.gitlab.git
+- npm 页面：https://www.npmjs.com/package/node.gitlab
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install node.gitlab`
+- npm registry：https://registry.npmjs.org/node.gitlab

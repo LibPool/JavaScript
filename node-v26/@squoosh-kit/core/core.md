@@ -1,0 +1,37 @@
+# @squoosh-kit/core
+
+> 标签: bun, codec, compression, image, image-processing, lightweight, modern, resize, squoosh, typescript, wasm, web-assembly, webp, worker
+
+## 简介
+
+Per-feature adapters around Squoosh codecs, worker/client runtimes.
+
+## 官网
+
+- 官网：http://squoosh-kit.dev
+- 源码仓库：git+https://github.com/bnowak008/squoosh-kit.git
+- npm 页面：https://www.npmjs.com/package/@squoosh-kit/core
+
+## 历史版本号
+
+- 当前版本：0.2.10
+
+- 0.1.8
+- 0.1.9
+- 0.2.1
+- 0.2.10
+- 0.2.2
+- 0.2.3
+- 0.2.4
+- 0.2.5
+- 0.2.6
+- 0.2.7
+- 0.2.8
+- 0.2.9
+- 共 74 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @squoosh-kit/core`
+- npm registry：https://registry.npmjs.org/@squoosh-kit/core
+- Node 要求：>=18.0.0

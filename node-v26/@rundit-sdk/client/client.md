@@ -1,0 +1,35 @@
+# @rundit-sdk/client
+
+> 标签: JavaScript
+
+## 简介
+
+Rundit client SDK for third-party integrations authenticated with a Rundit API key.
+
+## 官网
+
+- 官网：https://github.com/Rundit/rundit-sdk#readme
+- 源码仓库：git+https://github.com/Rundit/rundit-sdk.git
+- npm 页面：https://www.npmjs.com/package/@rundit-sdk/client
+
+## 历史版本号
+
+- 当前版本：0.3.5
+
+- 0.3.1-rc.9
+- 0.3.2
+- 0.3.3
+- 0.3.4
+- 0.3.4-rc.11
+- 0.3.5
+- 0.3.5-rc.13
+- 0.3.5-rc.14
+- 0.3.5-rc.15
+- 0.3.5-rc.16
+- 0.3.5-rc.17
+- 0.3.6-rc.19
+
+## 获取地址
+
+- npm 安装：`npm install @rundit-sdk/client`
+- npm registry：https://registry.npmjs.org/@rundit-sdk/client

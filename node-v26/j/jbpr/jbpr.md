@@ -1,0 +1,24 @@
+# jbpr
+
+> 标签: JavaScript
+
+## 简介
+
+The CLI package for jbpr
+
+## 官网
+
+- 官网：https://github.com/xc2/jbpr
+- 源码仓库：git+https://github.com/xc2/jbpr.git
+- npm 页面：https://www.npmjs.com/package/jbpr
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install jbpr`
+- npm registry：https://registry.npmjs.org/jbpr

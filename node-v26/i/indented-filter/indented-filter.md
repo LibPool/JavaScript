@@ -1,0 +1,25 @@
+# indented-filter
+
+> 标签: hyperpug, markdown, showdown, showdown-extension
+
+## 简介
+
+Indented filter maker for Showdown extension / Hyperpug
+
+## 官网
+
+- 官网：https://github.com/patarapolw/showdown-ext-helper#readme
+- 源码仓库：git+https://github.com/patarapolw/showdown-ext-helper.git
+- npm 页面：https://www.npmjs.com/package/indented-filter
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install indented-filter`
+- npm registry：https://registry.npmjs.org/indented-filter

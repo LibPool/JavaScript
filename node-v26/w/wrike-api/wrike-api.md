@@ -1,0 +1,27 @@
+# wrike-api
+
+> 标签: api, management, productivity, task, wrike
+
+## 简介
+
+Wrike api wrapper for nodejs
+
+## 官网
+
+- 官网：https://github.com/famthegeek/wrike-api#readme
+- 源码仓库：git+https://github.com/famthegeek/wrike-api.git
+- npm 页面：https://www.npmjs.com/package/wrike-api
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install wrike-api`
+- npm registry：https://registry.npmjs.org/wrike-api

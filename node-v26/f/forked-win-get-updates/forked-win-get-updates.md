@@ -1,0 +1,26 @@
+# forked-win-get-updates
+
+> 标签: cli, update, windows, winget
+
+## 简介
+
+Forked third party CLI frontend for winget update runs.
+
+## 官网
+
+- 官网：https://github.com/gigabitzauber/fwgu
+- 源码仓库：git+https://github.com/gigabitzauber/fwgu.git
+- npm 页面：https://www.npmjs.com/package/forked-win-get-updates
+
+## 历史版本号
+
+- 当前版本：0.0.8
+
+- 0.0.7
+- 0.0.8
+
+## 获取地址
+
+- npm 安装：`npm install forked-win-get-updates`
+- npm registry：https://registry.npmjs.org/forked-win-get-updates
+- Node 要求：>=18.0.0

@@ -1,0 +1,33 @@
+# @knpkv/control-center
+
+> 标签: JavaScript
+
+## 简介
+
+Human- and agent-oriented delivery control center
+
+## 官网
+
+- 源码仓库：https://github.com/knpkv/npm.git
+- npm 页面：https://www.npmjs.com/package/@knpkv/control-center
+
+## 历史版本号
+
+- 当前版本：0.8.1
+
+- 0.1.0
+- 0.1.1
+- 0.2.0
+- 0.3.0
+- 0.4.0
+- 0.5.0
+- 0.6.1
+- 0.7.0
+- 0.8.0
+- 0.8.1
+
+## 获取地址
+
+- npm 安装：`npm install @knpkv/control-center`
+- npm registry：https://registry.npmjs.org/@knpkv/control-center
+- Node 要求：>=26

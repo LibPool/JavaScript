@@ -1,0 +1,24 @@
+# @lambrioanpm/omnis-debitis-iste
+
+> 标签: $.extend, .env, 0, 256, 3d, 6to5, @@toStringTag, Array.prototype.contains, Array.prototype.flat, Array.prototype.flatMap, Array.prototype.flatten, Array.prototype.includes, ArrayBuffer#slice, AsyncIterator, BigUint64Array, CSS, ECMAScript 2015, ECMAScript 2016, ECMAScript 2017, ECMAScript 2018, ECMAScript 2019, ECMAScript 2020, ECMAScript 2023, ECMAScript 3, ECMAScript 5, ECMAScript 6, ES, ES2015, ES2018, ES2019, ES2020, ES2021, ES2023, ES3, ES8, ESnext, HyBi, Int16Array, Iterator, Map, Microsoft, Object.assign, Object.defineProperty, Object.entries, Object.fromEntries, Object.keys, Object.values, Observable, ReactiveExtensions, ReactiveX, RegExp.prototype.flags, RxJS, Stream, Streams, String.prototype.matchAll, StyleSheet, TypeBox, TypeScript, TypedArray, Uint8Array, WeakMap, WebSocket, YAML, [[Prototype]], accessibility, airbnb, ajax, ajv, animation, ansi, apollo, app, arktype, array, arraybuffer, arrays, art, assert, asserts, ast, async, authentication, autoprefixer, ava, await, awesomesauce, babel, banner, batch, bcrypt, bdd, bootstrap css, break, browserslist, bundler, bundling, busy, byteLength, byteOffset, cache, call, call-bind, call-bound, callback, callbind, censor, chai, channel, characters, check, chrome, chromium, circular, classes, classnames, client, cmd, code points, codes, coercible, collection.es6, colors, column, columns, command-line, commander, compare, compile less, computed-types, concurrency, config, connect, console, const, consume, core, crypto, css, css nesting, css variable, dataView, dataview, debug, deep, deep-copy, default, define, defineProperty, dependencies, descriptors, deterministic, diff, dom-testing-library, drag, duplex, east-asian-width, efficient, electron, emoji, encryption, ender, error, es2017, es2018, es5, es8, eslintplugin, eventDispatcher, eventEmitter, events, exe, exec, exit, expression, extend, extension, extra, fantasy-land, fast-deep-clone, fast-deep-copy, fastcopy, fastify, fetch, figlet, file, file system, find, findLast, findLastIndex, fixed-width, flag, flat, flatMap, flatten, formatting, framer, framework, from, fs, fsevents, full-width, function, functions, generics, getPrototypeOf, getopt, glob, gradients css, guid, handlers, hookform, hooks, https, idle, immer, immutable, includes, inference, input, inspect, install, internal slot, io-ts, irq, is, isConcatSpreadable, iteration, iterator, jQuery, jest, joi, json-schema, jsonpath, jsonschema, jsx, jwt, key, korean, language, last, lazy, less, less compiler, less css, less.js, let, libphonenumber, limited, lint, linux, loading, lockfile, logger, logging, look-up, lru, macos, make, map, match, merge, metadata, mime-db, mimetypes, minimal, mixins, mkdir, mobile, mocha, modules, monorepo, mru, multi-package, names, native, node, nope, number, obj, object, once, open, opener, operating-system, optimist, output, package, package manager, packages, patch, path, pipe, plugin, pnpm9, point-free, polyfill, popmotion, postcss, prefix, preserve-symlinks, pretty, private, private data, promise, proto, protobuf, protocol-buffers, prototype, prune, pure, push, quote, ramda, random, rapid, rate, ratelimit, react, react animation, react pose, react-hook-form, react-hooks, react-testing-library, read, redact, reducer, redux, redux-toolkit, regular expression, regular expressions, require, rfc4122, rgb, rm, rm -fr, rm -rf, runtime, sanitize, schema, scheme-validation, search, serialize, serializer, setImmediate, settings, sham, shared, sharedarraybuffer, shrinkwrap, side, signal, signals, slice, slot, some, sort, sorted, spec, speed, spinners, spring, stable, start, starter, status, stream, streams, string, stringify, style, styleguide, styles, superstruct, symbol, symbols, symlink, tacit, take, tap, tape, task, tdd, term, terminal, tester, testing, time, toobject, toolkit, tools, tostringtag, touch, transpiler, traverse, trim, trimEnd, trimLeft, tslib, tty, typanion, type, typed, typedarray, typeerror, typescript, up, util.inspect, utility, utils, valid, validate, validation, validator, var, variables, vest, visual, waapi, walk, walking, warning, watch, watchFile, web, website, wget, whatwg, wordbreak, wordwrap, worker, wrap, xdg, xdg-open, xhr, xss, xterm, yaml, zero, zod
+
+## 简介
+
+[![Gitter](https://img.shields.io/badge/GITTER-JOIN%20CHAT%20%E2%86%92-ff69b4.svg?style=flat-square)](https://gitter.im/json-schema-form/angular-schema-form?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https:
+
+## 官网
+
+- 官网：https://github.com/lambrioanpm/omnis-debitis-iste/#readme
+- 源码仓库：git+https://github.com/lambrioanpm/omnis-debitis-iste.git
+- npm 页面：https://www.npmjs.com/package/@lambrioanpm/omnis-debitis-iste
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @lambrioanpm/omnis-debitis-iste`
+- npm registry：https://registry.npmjs.org/@lambrioanpm/omnis-debitis-iste

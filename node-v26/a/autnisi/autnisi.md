@@ -1,0 +1,28 @@
+# autnisi
+
+> 标签: dolore, et, fugiat, javascript, velit
+
+## 简介
+
+Dead simple script string to function execution with arguments, context and error catching.
+
+## 官网
+
+- 官网：https://github.com/TyreeBartoletti/autnisi#readme
+- 源码仓库：git+https://github.com/TyreeBartoletti/autnisi.git
+- npm 页面：https://www.npmjs.com/package/autnisi
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install autnisi`
+- npm registry：https://registry.npmjs.org/autnisi
+- Node 要求：>=4

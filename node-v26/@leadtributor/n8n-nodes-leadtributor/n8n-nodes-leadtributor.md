@@ -1,0 +1,33 @@
+# @leadtributor/n8n-nodes-leadtributor
+
+> 标签: leadmanagement, leadtributor, n8n-community-node-package, partnermanagement, prm, sales
+
+## 简介
+
+n8n community node for leadtributor.cloud integration
+
+## 官网
+
+- 官网：https://github.com/leadtributor/n8n-nodes-leadtributor
+- 源码仓库：git+https://github.com/leadtributor/n8n-nodes-leadtributor.git
+- npm 页面：https://www.npmjs.com/package/@leadtributor/n8n-nodes-leadtributor
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 0.1.2
+- 0.2.0
+- 0.2.1
+- 0.3.0
+- 0.4.0
+- 0.5.0
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @leadtributor/n8n-nodes-leadtributor`
+- npm registry：https://registry.npmjs.org/@leadtributor/n8n-nodes-leadtributor
+- Node 要求：>=20

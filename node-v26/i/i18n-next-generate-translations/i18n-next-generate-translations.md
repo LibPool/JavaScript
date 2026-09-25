@@ -1,0 +1,29 @@
+# i18n-next-generate-translations
+
+> 标签: i18-next
+
+## 简介
+
+## Installation
+
+## 官网
+
+- 源码仓库：https://github.com/aronmoles/i18n-next-generate-translations
+- npm 页面：https://www.npmjs.com/package/i18n-next-generate-translations
+
+## 历史版本号
+
+- 当前版本：1.0.6
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+
+## 获取地址
+
+- npm 安装：`npm install i18n-next-generate-translations`
+- npm registry：https://registry.npmjs.org/i18n-next-generate-translations

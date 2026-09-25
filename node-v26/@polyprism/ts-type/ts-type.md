@@ -1,0 +1,34 @@
+# @polyprism/ts-type
+
+> 标签: codegen, esm, polyprism, prisma, prisma-7, prisma-generator, type-alias, typescript
+
+## 简介
+
+Prisma 6 & 7 generator that emits TypeScript type aliases (`export type User = { ... }`) from your schema. Pure ESM, zero runtime deps, configurable naming + annotations. Part of PolyPrism.
+
+## 官网
+
+- 官网：https://github.com/TravFitz/polyprism/tree/main/packages/ts-type
+- 源码仓库：git+https://github.com/TravFitz/polyprism.git
+- npm 页面：https://www.npmjs.com/package/@polyprism/ts-type
+
+## 历史版本号
+
+- 当前版本：0.3.1
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.2.0
+- 0.3.0
+- 0.3.1
+
+## 获取地址
+
+- npm 安装：`npm install @polyprism/ts-type`
+- npm registry：https://registry.npmjs.org/@polyprism/ts-type

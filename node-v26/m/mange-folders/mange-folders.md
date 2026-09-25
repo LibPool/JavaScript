@@ -1,0 +1,22 @@
+# mange-folders
+
+> 标签: cli, tool, web
+
+## 简介
+
+mange-folders - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/mange-folders
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install mange-folders`
+- npm registry：https://registry.npmjs.org/mange-folders

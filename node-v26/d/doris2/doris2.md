@@ -1,0 +1,25 @@
+# doris2
+
+> 标签: client, doris, dorisjs, mysql, node doris connector, node-doris, server
+
+## 简介
+
+一个基于mysql2的Nodejs Doris工具库
+
+## 官网
+
+- 官网：https://github.com/ethwillupto10000/node-doris#readme
+- 源码仓库：git+https://github.com/ethwillupto10000/node-doris.git
+- npm 页面：https://www.npmjs.com/package/doris2
+
+## 历史版本号
+
+- 当前版本：1.0.7
+
+- 1.0.7
+
+## 获取地址
+
+- npm 安装：`npm install doris2`
+- npm registry：https://registry.npmjs.org/doris2
+- Node 要求：>= 8.0

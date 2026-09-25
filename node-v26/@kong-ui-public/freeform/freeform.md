@@ -1,0 +1,36 @@
+# @kong-ui-public/freeform
+
+> 标签: JavaScript
+
+## 简介
+
+@kong-ui-public/freeform - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/Kong/public-ui-components/tree/main/packages/core/freeform
+- 源码仓库：https://github.com/Kong/public-ui-components.git
+- npm 页面：https://www.npmjs.com/package/@kong-ui-public/freeform
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.3.1-pr.3866.5e4be215c.0
+- 0.3.1-pr.3866.7d2cb8298.0
+- 0.3.1-pr.3866.b916d4a8d.0
+- 0.3.1-pr.3866.e0a1e1aa0.0
+- 0.3.1-pr.3867.3792a1caf.0
+- 0.3.1-pr.3867.472ac80a2.0
+- 0.3.1-pr.3867.50bb1b9b1.0
+- 0.3.1-pr.3867.75b14d257.0
+- 0.3.1-pr.3867.9a053ef5f.0
+- 0.3.1-pr.3867.f5a1c196b.0
+- 0.3.1-pr.3868.1a1938ff3.0
+- 0.3.1-pr.3868.ad0030598.0
+- 共 130 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @kong-ui-public/freeform`
+- npm registry：https://registry.npmjs.org/@kong-ui-public/freeform

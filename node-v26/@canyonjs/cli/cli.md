@@ -1,0 +1,33 @@
+# @canyonjs/cli
+
+> 标签: JavaScript
+
+## 简介
+
+The [Canyon](https://canyonjs.io) command-line tool. It reads and aggregates coverage data from the local `.canyon_output` directory and uploads it to your Canyon server. It supports path filtering, scenario-based reports, and can pick up CI-related envir
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@canyonjs/cli
+
+## 历史版本号
+
+- 当前版本：1.0.39
+
+- 1.0.32
+- 1.0.33
+- 1.0.34
+- 1.0.35
+- 1.0.36
+- 1.0.37
+- 1.0.38
+- 1.0.39
+- 1.0.5
+- 1.0.6
+- 1.0.8
+- 1.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @canyonjs/cli`
+- npm registry：https://registry.npmjs.org/@canyonjs/cli

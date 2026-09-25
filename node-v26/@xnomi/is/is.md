@@ -1,0 +1,25 @@
+# @xnomi/is
+
+> 标签: is, types
+
+## 简介
+
+@xnomi/is - JavaScript library from npm
+
+## 官网
+
+- 源码仓库：git+https://github.com/zhicaizhu123/xnomi.git
+- npm 页面：https://www.npmjs.com/package/@xnomi/is
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @xnomi/is`
+- npm registry：https://registry.npmjs.org/@xnomi/is

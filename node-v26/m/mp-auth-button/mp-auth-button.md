@@ -1,0 +1,29 @@
+# mp-auth-button
+
+> 标签: mpvue授权, 小程序, 小程序授权登录, 小程序授权登录按钮, 微信小程序, 授权
+
+## 简介
+
+小程序授权登录时的按钮,逻辑已经嵌入,用户只需引入注册即可使用,通过事件获取用信息,相当方便简单
+
+## 官网
+
+- 官网：https://github.com/lovelong002/mp-auth-button#readme
+- 源码仓库：git+https://github.com/lovelong002/mp-auth-button.git
+- npm 页面：https://www.npmjs.com/package/mp-auth-button
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+
+## 获取地址
+
+- npm 安装：`npm install mp-auth-button`
+- npm registry：https://registry.npmjs.org/mp-auth-button

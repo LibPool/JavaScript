@@ -1,0 +1,36 @@
+# @lou.codes/prompts
+
+> 标签: ansi, cli, lou.codes, loucyx, prompts, typescript
+
+## 简介
+
+⁉️ CLI interactive prompts
+
+## 官网
+
+- 官网：https://lou.codes/libraries/lou_codes_prompts/
+- 源码仓库：git+https://github.com/loucyx/lou.codes.git
+- npm 页面：https://www.npmjs.com/package/@lou.codes/prompts
+
+## 历史版本号
+
+- 当前版本：1.0.30
+
+- 1.0.26
+- 1.0.27
+- 1.0.28
+- 1.0.29
+- 1.0.3
+- 1.0.30
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @lou.codes/prompts`
+- npm registry：https://registry.npmjs.org/@lou.codes/prompts
+- Node 要求：>=23

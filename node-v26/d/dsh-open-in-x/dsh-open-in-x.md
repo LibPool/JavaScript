@@ -1,0 +1,25 @@
+# dsh-open-in-x
+
+> 标签: JavaScript
+
+## 简介
+
+Open a DeepSeek Harness workspace in a file manager, terminal, or supported editor from the Web UI
+
+## 官网
+
+- 官网：https://github.com/nikoart-liu/dsh-open-in-x#readme
+- 源码仓库：git+https://github.com/nikoart-liu/dsh-open-in-x.git
+- npm 页面：https://www.npmjs.com/package/dsh-open-in-x
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install dsh-open-in-x`
+- npm registry：https://registry.npmjs.org/dsh-open-in-x
+- Node 要求：^22.19 || >=24

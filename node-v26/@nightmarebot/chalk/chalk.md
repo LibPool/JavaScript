@@ -1,0 +1,22 @@
+# @nightmarebot/chalk
+
+> 标签: JavaScript
+
+## 简介
+
+forked chalk
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@nightmarebot/chalk
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @nightmarebot/chalk`
+- npm registry：https://registry.npmjs.org/@nightmarebot/chalk

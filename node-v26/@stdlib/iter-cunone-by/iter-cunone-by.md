@@ -1,0 +1,26 @@
+# @stdlib/iter-cunone-by
+
+> 标签: all, cunone, every, iter, iterate, iteration, iterator, none, stdlib, stdutil, stdutils, util, utilities, utility, utils
+
+## 简介
+
+Create an iterator which cumulatively tests whether every iterated value fails a test implemented by a predicate function.
+
+## 官网
+
+- 官网：https://stdlib.io
+- 源码仓库：git://github.com/stdlib-js/iter-cunone-by.git
+- npm 页面：https://www.npmjs.com/package/@stdlib/iter-cunone-by
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @stdlib/iter-cunone-by`
+- npm registry：https://registry.npmjs.org/@stdlib/iter-cunone-by
+- Node 要求：>=0.10.0

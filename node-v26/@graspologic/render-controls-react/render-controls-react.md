@@ -1,0 +1,34 @@
+# @graspologic/render-controls-react
+
+> 标签: JavaScript
+
+## 简介
+
+React-components for dat.gui controls for adjusting graph-view rendering
+
+## 官网
+
+- 源码仓库：https://github.com/microsoft/graspologic-js.git
+- npm 页面：https://www.npmjs.com/package/@graspologic/render-controls-react
+
+## 历史版本号
+
+- 当前版本：0.7.0
+
+- 0.7.0-10
+- 0.7.0-11
+- 0.7.0-12
+- 0.7.0-13
+- 0.7.0-2
+- 0.7.0-3
+- 0.7.0-4
+- 0.7.0-5
+- 0.7.0-6
+- 0.7.0-7
+- 0.7.0-8
+- 0.7.0-9
+
+## 获取地址
+
+- npm 安装：`npm install @graspologic/render-controls-react`
+- npm registry：https://registry.npmjs.org/@graspologic/render-controls-react

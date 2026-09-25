@@ -1,0 +1,27 @@
+# redux-form-hotfix-fork
+
+> 标签: decorator, flux, form, react, react-redux, reactjs, redux, redux-form
+
+## 简介
+
+A higher order component decorator for forms using Redux and React. HOTFIX FORK.
+
+## 官网
+
+- 官网：https://redux-form.com/
+- 源码仓库：https://github.com/erikras/redux-form
+- npm 页面：https://www.npmjs.com/package/redux-form-hotfix-fork
+
+## 历史版本号
+
+- 当前版本：6.0.0-alpha.13.4
+
+- 6.0.0-alpha.13.1
+- 6.0.0-alpha.13.2
+- 6.0.0-alpha.13.3
+- 6.0.0-alpha.13.4
+
+## 获取地址
+
+- npm 安装：`npm install redux-form-hotfix-fork`
+- npm registry：https://registry.npmjs.org/redux-form-hotfix-fork

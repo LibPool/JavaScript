@@ -1,0 +1,24 @@
+# timestamp-log
+
+> 标签: log, logger
+
+## 简介
+
+A simple logger that fork from npm@log
+
+## 官网
+
+- 官网：https://github.com/cuongquay/timestamp-log#readme
+- 源码仓库：git://github.com/cuongquay/timestamp-log.git
+- npm 页面：https://www.npmjs.com/package/timestamp-log
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install timestamp-log`
+- npm registry：https://registry.npmjs.org/timestamp-log

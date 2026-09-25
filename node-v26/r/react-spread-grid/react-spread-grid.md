@@ -1,0 +1,36 @@
+# react-spread-grid
+
+> 标签: JavaScript
+
+## 简介
+
+Fast grid for react applications
+
+## 官网
+
+- 官网：https://spread-grid.tomasz-rewak.com
+- 源码仓库：git+https://github.com/TomaszRewak/js-spread-grid.git
+- npm 页面：https://www.npmjs.com/package/react-spread-grid
+
+## 历史版本号
+
+- 当前版本：1.2.9
+
+- 0.2.7
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.2.4
+- 1.2.6
+- 1.2.7
+- 1.2.8
+- 1.2.9
+- 共 87 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install react-spread-grid`
+- npm registry：https://registry.npmjs.org/react-spread-grid

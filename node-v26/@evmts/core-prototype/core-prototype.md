@@ -1,0 +1,24 @@
+# @evmts/core-prototype
+
+> 标签: blockchain, forge, foundry, sol, solidity, typescript, web3
+
+## 简介
+
+A typesafe library for writing forge scripts in typescript
+
+## 官网
+
+- 官网：https://github.com/evmts/evmts-monorepo#readme
+- 源码仓库：git+https://github.com/evmts/evmts-monorepo.git
+- npm 页面：https://www.npmjs.com/package/@evmts/core-prototype
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @evmts/core-prototype`
+- npm registry：https://registry.npmjs.org/@evmts/core-prototype

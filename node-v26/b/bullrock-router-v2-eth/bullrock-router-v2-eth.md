@@ -1,0 +1,25 @@
+# bullrock-router-v2-eth
+
+> 标签: ethereum, pancakeswap
+
+## 简介
+
+🛠 An SDK for building applications on top of bullrock.
+
+## 官网
+
+- 官网：https://github.com/pancakeswap/pancakeswap-sdk#readme
+- 源码仓库：git+https://github.com/pancakeswap/pancakeswap-sdk.git
+- npm 页面：https://www.npmjs.com/package/bullrock-router-v2-eth
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install bullrock-router-v2-eth`
+- npm registry：https://registry.npmjs.org/bullrock-router-v2-eth
+- Node 要求：>=10

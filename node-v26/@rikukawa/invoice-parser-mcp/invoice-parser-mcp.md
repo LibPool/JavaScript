@@ -1,0 +1,24 @@
+# @rikukawa/invoice-parser-mcp
+
+> 标签: claude, google-sheets, invoice, mcp
+
+## 简介
+
+MCP server for parsing invoices and saving to Google Sheets
+
+## 官网
+
+- 官网：https://github.com/Rickyyy1116/invoice-parser-mcp#readme
+- 源码仓库：git+https://github.com/Rickyyy1116/invoice-parser-mcp.git
+- npm 页面：https://www.npmjs.com/package/@rikukawa/invoice-parser-mcp
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @rikukawa/invoice-parser-mcp`
+- npm registry：https://registry.npmjs.org/@rikukawa/invoice-parser-mcp

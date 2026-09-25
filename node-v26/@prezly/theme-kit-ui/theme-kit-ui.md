@@ -1,0 +1,36 @@
+# @prezly/theme-kit-ui
+
+> 标签: prezly, themes, ui
+
+## 简介
+
+UI components for Prezly themes
+
+## 官网
+
+- 官网：https://github.com/prezly/theme-kit-js/tree/main/packages/ui#readme
+- 源码仓库：git+https://github.com/prezly/theme-kit-js.git
+- npm 页面：https://www.npmjs.com/package/@prezly/theme-kit-ui
+
+## 历史版本号
+
+- 当前版本：10.9.1
+
+- 9.3.1-alpha.0
+- 9.3.2
+- 9.3.2-alpha.0
+- 9.4.0
+- 9.5.0
+- 9.6.0
+- 9.6.1
+- 9.7.0
+- 9.7.1
+- 9.7.2
+- 9.8.0
+- 9.8.2
+- 共 68 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @prezly/theme-kit-ui`
+- npm registry：https://registry.npmjs.org/@prezly/theme-kit-ui

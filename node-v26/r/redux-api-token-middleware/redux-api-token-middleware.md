@@ -1,0 +1,30 @@
+# redux-api-token-middleware
+
+> 标签: async, middleware, promise, redux
+
+## 简介
+
+A redux middleware for token base API endpoint, will help you request token and save it to local storage before fetching actual endpoint.
+
+## 官网
+
+- 官网：https://github.com/kyawkyawsoezhu/redux-api-token-middleware#readme
+- 源码仓库：git+https://github.com/kyawkyawsoezhu/redux-api-token-middleware.git
+- npm 页面：https://www.npmjs.com/package/redux-api-token-middleware
+
+## 历史版本号
+
+- 当前版本：0.0.7
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+
+## 获取地址
+
+- npm 安装：`npm install redux-api-token-middleware`
+- npm registry：https://registry.npmjs.org/redux-api-token-middleware

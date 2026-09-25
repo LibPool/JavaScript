@@ -1,0 +1,30 @@
+# my-typecast-node-module
+
+> 标签: typecast example
+
+## 简介
+
+changed type of params
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/my-typecast-node-module
+
+## 历史版本号
+
+- 当前版本：1.1.7
+
+- 1.0.0
+- 1.0.1
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.1.6
+- 1.1.7
+
+## 获取地址
+
+- npm 安装：`npm install my-typecast-node-module`
+- npm registry：https://registry.npmjs.org/my-typecast-node-module

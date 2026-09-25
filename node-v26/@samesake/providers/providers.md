@@ -1,0 +1,28 @@
+# @samesake/providers
+
+> 标签: cohere, embeddings, gemini, openai, rerank, samesake, voyage
+
+## 简介
+
+Ready-made model-provider adapters for samesake's BYO embed/generate/rerank/parse seams: Gemini, OpenAI, Voyage, Cohere. Zero SDK dependencies — plain fetch with retry/backoff and optional throttling.
+
+## 官网
+
+- 官网：https://github.com/asyncdotengineering/samesake#readme
+- 源码仓库：git+https://github.com/asyncdotengineering/samesake.git
+- npm 页面：https://www.npmjs.com/package/@samesake/providers
+
+## 历史版本号
+
+- 当前版本：6.0.2
+
+- 4.0.0
+- 5.0.0
+- 6.0.0
+- 6.0.1
+- 6.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @samesake/providers`
+- npm registry：https://registry.npmjs.org/@samesake/providers

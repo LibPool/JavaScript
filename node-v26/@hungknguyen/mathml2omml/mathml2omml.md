@@ -1,0 +1,26 @@
+# @hungknguyen/mathml2omml
+
+> 标签: mathml, mml, omml
+
+## 简介
+
+a MathML to OMML converter
+
+## 官网
+
+- 官网：https://github.com/fiduswriter/mathml2omml#readme
+- 源码仓库：git+https://github.com/fiduswriter/mathml2omml.git
+- npm 页面：https://www.npmjs.com/package/@hungknguyen/mathml2omml
+
+## 历史版本号
+
+- 当前版本：0.4.6
+
+- 0.4.4
+- 0.4.5
+- 0.4.6
+
+## 获取地址
+
+- npm 安装：`npm install @hungknguyen/mathml2omml`
+- npm registry：https://registry.npmjs.org/@hungknguyen/mathml2omml

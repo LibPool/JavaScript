@@ -1,0 +1,22 @@
+# @evertro/http-utils
+
+> 标签: constants, dto, http, response, utils
+
+## 简介
+
+HTTP 通用常量与统一响应体工具包
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@evertro/http-utils
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @evertro/http-utils`
+- npm registry：https://registry.npmjs.org/@evertro/http-utils

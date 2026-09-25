@@ -1,0 +1,24 @@
+# less-touch
+
+> 标签: file monitoring, less, less file monitoring, less-touch, watcher
+
+## 简介
+
+a node script to simplify your less conversion life
+
+## 官网
+
+- 源码仓库：git://github.com/influx6/less-touch.git
+- npm 页面：https://www.npmjs.com/package/less-touch
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install less-touch`
+- npm registry：https://registry.npmjs.org/less-touch
+- Node 要求：>= 0.4.0

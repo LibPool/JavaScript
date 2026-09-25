@@ -1,0 +1,25 @@
+# @vidyard/vy-cli
+
+> 标签: oclif
+
+## 简介
+
+Vidyard CLI to speed up CTA development.
+
+## 官网
+
+- 官网：https://github.com/Development/vy-cli#readme
+- 源码仓库：git+https://github.com/Development/vy-cli.git
+- npm 页面：https://www.npmjs.com/package/@vidyard/vy-cli
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @vidyard/vy-cli`
+- npm registry：https://registry.npmjs.org/@vidyard/vy-cli
+- Node 要求：>=8.0.0

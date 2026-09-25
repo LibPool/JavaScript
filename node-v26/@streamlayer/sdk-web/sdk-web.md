@@ -1,0 +1,34 @@
+# @streamlayer/sdk-web
+
+> 标签: JavaScript
+
+## 简介
+
+This library was generated with [Nx](https://nx.dev).
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@streamlayer/sdk-web
+
+## 历史版本号
+
+- 当前版本：1.20.1
+
+- 1.19.2
+- 1.19.3
+- 1.19.4
+- 1.19.5
+- 1.19.6
+- 1.20.0
+- 1.20.1
+- 1.20.2-rc.1342
+- 1.20.2-rc.1343
+- 1.20.2-rc.1344
+- 1.20.2-rc.1345
+- 1.20.2-rc.1350
+- 共 224 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @streamlayer/sdk-web`
+- npm registry：https://registry.npmjs.org/@streamlayer/sdk-web

@@ -1,0 +1,25 @@
+# @orges/errorbox
+
+> 标签: JavaScript
+
+## 简介
+
+Lightweight error notifications for NestJS applications
+
+## 官网
+
+- 官网：https://github.com/orges/errorbox#readme
+- 源码仓库：git+https://github.com/orges/errorbox.git
+- npm 页面：https://www.npmjs.com/package/@orges/errorbox
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @orges/errorbox`
+- npm registry：https://registry.npmjs.org/@orges/errorbox
+- Node 要求：>=20

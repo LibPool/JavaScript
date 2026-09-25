@@ -1,0 +1,24 @@
+# pn_wifi
+
+> 标签: capacitor, native, plugin
+
+## 简介
+
+Wifi Plugin for iOS, Android and Electron
+
+## 官网
+
+- 官网：https://github.com/digaus/community-capacitor-wifi#readme
+- 源码仓库：git+https://github.com/digaus/community-capacitor-wifi.git
+- npm 页面：https://www.npmjs.com/package/pn_wifi
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install pn_wifi`
+- npm registry：https://registry.npmjs.org/pn_wifi

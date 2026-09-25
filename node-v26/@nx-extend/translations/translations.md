@@ -1,0 +1,36 @@
+# @nx-extend/translations
+
+> 标签: deepl, formatjs, nx, poeditor, react-intl, traduora, transifex, translations
+
+## 简介
+
+<a href="https://www.npmjs.com/package/@nx-extend/translations" rel="nofollow">   <img src="https://badgen.net/npm/v/@nx-extend/translations" alt="@nx-extend/translations NPM package"> </a>
+
+## 官网
+
+- 官网：https://github.com/tripss/nx-extend#readme
+- 源码仓库：git+https://github.com/tripss/nx-extend.git
+- npm 页面：https://www.npmjs.com/package/@nx-extend/translations
+
+## 历史版本号
+
+- 当前版本：18.0.0
+
+- 17.2.5
+- 17.2.6
+- 18.0.0
+- 7.0.0
+- 7.1.0
+- 7.1.1
+- 7.1.2
+- 7.2.0
+- 7.2.1
+- 7.2.2
+- 7.2.3
+- 7.3.0-alpha.1
+- 共 89 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @nx-extend/translations`
+- npm registry：https://registry.npmjs.org/@nx-extend/translations

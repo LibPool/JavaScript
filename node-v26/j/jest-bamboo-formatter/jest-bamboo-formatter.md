@@ -1,0 +1,28 @@
+# jest-bamboo-formatter
+
+> 标签: atlassian, bamboo, formatter, jest
+
+## 简介
+
+A reporter for jest which produces a report compatible with Atlassian Bamboo Mocha Test Parser.
+
+## 官网
+
+- 官网：https://github.com/adalbertoteixeira/jest-bamboo-formatter
+- 源码仓库：git+https://github.com/adalbertoteixeira/jest-bamboo-formatter.git
+- npm 页面：https://www.npmjs.com/package/jest-bamboo-formatter
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install jest-bamboo-formatter`
+- npm registry：https://registry.npmjs.org/jest-bamboo-formatter

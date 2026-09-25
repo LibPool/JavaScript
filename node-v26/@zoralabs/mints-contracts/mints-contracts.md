@@ -1,0 +1,30 @@
+# @zoralabs/mints-contracts
+
+> 标签: JavaScript
+
+## 简介
+
+A new mechanism for minting on Zora.
+
+## 官网
+
+- 官网：https://github.com/ourzora/zora-protocol#readme
+- 源码仓库：git+https://github.com/ourzora/zora-protocol.git
+- npm 页面：https://www.npmjs.com/package/@zoralabs/mints-contracts
+
+## 历史版本号
+
+- 当前版本：0.1.4
+
+- 0.0.3
+- 0.1.0
+- 0.1.0-MINT.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+
+## 获取地址
+
+- npm 安装：`npm install @zoralabs/mints-contracts`
+- npm registry：https://registry.npmjs.org/@zoralabs/mints-contracts

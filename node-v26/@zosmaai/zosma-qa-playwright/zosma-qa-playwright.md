@@ -1,0 +1,31 @@
+# @zosmaai/zosma-qa-playwright
+
+> 标签: base-config, e2e, playwright, qa, testing, zero-config
+
+## 简介
+
+Playwright runner and base config for zosma-qa
+
+## 官网
+
+- 官网：https://github.com/zosmaai/zosma-qa#readme
+- 源码仓库：git+https://github.com/zosmaai/zosma-qa.git
+- npm 页面：https://www.npmjs.com/package/@zosmaai/zosma-qa-playwright
+
+## 历史版本号
+
+- 当前版本：0.0.11
+
+- 0.0.10
+- 0.0.11
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @zosmaai/zosma-qa-playwright`
+- npm registry：https://registry.npmjs.org/@zosmaai/zosma-qa-playwright

@@ -1,0 +1,24 @@
+# @horizon-integrations/si9-crm-sdk
+
+> 标签: client, crm, horizon, imobiliario, integration, real-estate, sdk, si9
+
+## 简介
+
+SDK HTTP tipado pra consumir a API do hub horizon-integrations-hub (rotas /api/providers/si9/v1/*). Instalado nos sites das imobiliárias pra puxar imóveis/leads via hub, preservando Anti-Corruption Layer.
+
+## 官网
+
+- 官网：https://github.com/imobland/horizon-integrations#readme
+- 源码仓库：git+https://github.com/imobland/horizon-integrations.git
+- npm 页面：https://www.npmjs.com/package/@horizon-integrations/si9-crm-sdk
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @horizon-integrations/si9-crm-sdk`
+- npm registry：https://registry.npmjs.org/@horizon-integrations/si9-crm-sdk

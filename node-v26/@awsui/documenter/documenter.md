@@ -1,0 +1,35 @@
+# @awsui/documenter
+
+> 标签: JavaScript
+
+## 简介
+
+On July 19th, 2022, we launched [Cloudscape Design System](https://cloudscape.design). Cloudscape is an evolution of AWS-UI. It consists of user interface guidelines, front-end components, design resources, and development tools for building intuitive, en
+
+## 官网
+
+- 官网：https://github.com/aws/awsui-documentation
+- 源码仓库：git+https://github.com/cloudscape-design/documenter.git
+- npm 页面：https://www.npmjs.com/package/@awsui/documenter
+
+## 历史版本号
+
+- 当前版本：1.0.44
+
+- 1.0.39
+- 1.0.4
+- 1.0.40
+- 1.0.41
+- 1.0.42
+- 1.0.43
+- 1.0.44
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @awsui/documenter`
+- npm registry：https://registry.npmjs.org/@awsui/documenter

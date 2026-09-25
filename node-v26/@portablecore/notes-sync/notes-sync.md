@@ -1,0 +1,27 @@
+# @portablecore/notes-sync
+
+> 标签: apple-notes, bear, notes, obsidian, portable, sync
+
+## 简介
+
+Sync your local notes (Bear, Obsidian, Apple Notes) to the Portable platform
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@portablecore/notes-sync
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.2.0
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @portablecore/notes-sync`
+- npm registry：https://registry.npmjs.org/@portablecore/notes-sync
+- Node 要求：>=18

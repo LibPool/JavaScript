@@ -1,0 +1,27 @@
+# es5-event-source
+
+> 标签: angular, angular 2, angular 4, angular2, event-source, eventsource, polyfill, server sent events, sse, webpack
+
+## 简介
+
+This fork provide the following on top of the original:
+
+## 官网
+
+- 官网：https://github.com/nickofthyme/EventSource
+- 源码仓库：git://github.com/nickofthyme/EventSource.git
+- npm 页面：https://www.npmjs.com/package/es5-event-source
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install es5-event-source`
+- npm registry：https://registry.npmjs.org/es5-event-source

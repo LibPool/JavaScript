@@ -1,0 +1,29 @@
+# @jappyjan/swagger-axios-codegen
+
+> 标签: axios, codegen, generator, swagger, typescript
+
+## 简介
+
+A swagger client uses axios and typescript
+
+## 官网
+
+- 官网：https://github.com/jappyjan/swagger-axios-codegen#readme
+- 源码仓库：git+https://github.com/jappyjan/swagger-axios-codegen.git
+- npm 页面：https://www.npmjs.com/package/@jappyjan/swagger-axios-codegen
+
+## 历史版本号
+
+- 当前版本：0.14.2
+
+- 0.11.10
+- 0.12.0
+- 0.13.0
+- 0.14.0
+- 0.14.1
+- 0.14.2
+
+## 获取地址
+
+- npm 安装：`npm install @jappyjan/swagger-axios-codegen`
+- npm registry：https://registry.npmjs.org/@jappyjan/swagger-axios-codegen

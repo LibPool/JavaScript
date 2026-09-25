@@ -1,0 +1,24 @@
+# swopetregoning560deri
+
+> 标签: average, calculate, math, means, median
+
+## 简介
+
+It accurately computes numerical totals, averages, and offers reliable mean calculation solutions for statistical analyses, prior to the Jasmine version.
+
+## 官网
+
+- 官网：https://github.com/swopetregoning560/swopetregoning560deri/blob/main/README.md
+- 源码仓库：git+https://github.com/swopetregoning560/swopetregoning560deri.git
+- npm 页面：https://www.npmjs.com/package/swopetregoning560deri
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install swopetregoning560deri`
+- npm registry：https://registry.npmjs.org/swopetregoning560deri

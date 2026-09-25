@@ -1,0 +1,22 @@
+# micro-resource
+
+> 标签: JavaScript
+
+## 简介
+
+Firstly, install it:
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/micro-resource
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install micro-resource`
+- npm registry：https://registry.npmjs.org/micro-resource

@@ -1,0 +1,31 @@
+# akita-filters-mat-datasource
+
+> 标签: akita, angular, angular material, angular material data source, filters, matDatasource, ngx, state management
+
+## 简介
+
+Plug-in to use with akita filter plugin as datasource in Angular Material
+
+## 官网
+
+- 官网：https://manudss.github.io/akita-filters-plugin/
+- 源码仓库：git+https://github.com/manudss/akita-filters-plugin.git
+- npm 页面：https://www.npmjs.com/package/akita-filters-mat-datasource
+
+## 历史版本号
+
+- 当前版本：7.0.2
+
+- 7.0.0
+- 7.0.0-beta.4
+- 7.0.0-beta.5
+- 7.0.0-beta.6
+- 7.0.0-beta.7
+- 7.0.0-beta.8
+- 7.0.1
+- 7.0.2
+
+## 获取地址
+
+- npm 安装：`npm install akita-filters-mat-datasource`
+- npm registry：https://registry.npmjs.org/akita-filters-mat-datasource

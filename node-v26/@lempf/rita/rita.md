@@ -1,0 +1,25 @@
+# @lempf/rita
+
+> 标签: computer-graphics, delaunay, geometry, math, triangulations
+
+## 简介
+
+2D and 3D Randomized Incremental Triangulation Algorithms
+
+## 官网
+
+- 官网：https://github.com/glennDittmann/rita#readme
+- 源码仓库：git+https://github.com/glennDittmann/rita.git
+- npm 页面：https://www.npmjs.com/package/@lempf/rita
+
+## 历史版本号
+
+- 当前版本：0.2.2
+
+- 0.2.1
+- 0.2.2
+
+## 获取地址
+
+- npm 安装：`npm install @lempf/rita`
+- npm registry：https://registry.npmjs.org/@lempf/rita

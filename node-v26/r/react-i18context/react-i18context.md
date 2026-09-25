@@ -1,0 +1,25 @@
+# react-i18context
+
+> 标签: 70 lines, use new context api
+
+## 简介
+
+simple react i18 component
+
+## 官网
+
+- 官网：https://github.com/flyingalex/react-i18context
+- npm 页面：https://www.npmjs.com/package/react-i18context
+
+## 历史版本号
+
+- 当前版本：0.1.6
+
+- 0.1.0
+- 0.1.5
+- 0.1.6
+
+## 获取地址
+
+- npm 安装：`npm install react-i18context`
+- npm registry：https://registry.npmjs.org/react-i18context

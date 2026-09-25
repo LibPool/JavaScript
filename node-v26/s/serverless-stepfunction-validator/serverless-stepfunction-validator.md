@@ -1,0 +1,26 @@
+# serverless-stepfunction-validator
+
+> 标签: JavaScript
+
+## 简介
+
+Serverless plugin to validate step function Amazon State Language
+
+## 官网
+
+- 官网：https://github.com/piercus/serverless-stepfunction-validator#readme
+- 源码仓库：git+https://github.com/piercus/serverless-stepfunction-validator.git
+- npm 页面：https://www.npmjs.com/package/serverless-stepfunction-validator
+
+## 历史版本号
+
+- 当前版本：1.3.0
+
+- 1.0.0
+- 1.1.0
+- 1.3.0
+
+## 获取地址
+
+- npm 安装：`npm install serverless-stepfunction-validator`
+- npm registry：https://registry.npmjs.org/serverless-stepfunction-validator

@@ -1,0 +1,25 @@
+# @crossplatformkorea/expo-stt
+
+> 标签: ExpoStt, expo, expo-stt, react-native
+
+## 简介
+
+Unofficial Speech To Text module for Expo which supports iOS and Android
+
+## 官网
+
+- 官网：https://github.com/crossplatformkorea/expo-stt#readme
+- 源码仓库：git+https://github.com/crossplatformkorea/expo-stt.git
+- npm 页面：https://www.npmjs.com/package/@crossplatformkorea/expo-stt
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @crossplatformkorea/expo-stt`
+- npm registry：https://registry.npmjs.org/@crossplatformkorea/expo-stt

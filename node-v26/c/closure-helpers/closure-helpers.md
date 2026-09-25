@@ -1,0 +1,27 @@
+# closure-helpers
+
+> 标签: closure, closure helper, closure library, closure library boilerplate
+
+## 简介
+
+Generic helpers for the Closure Library
+
+## 官网
+
+- 官网：https://github.com/closureplease/closure-helpers
+- 源码仓库：git://github.com/closureplease/closure-helpers.git
+- npm 页面：https://www.npmjs.com/package/closure-helpers
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install closure-helpers`
+- npm registry：https://registry.npmjs.org/closure-helpers
+- Node 要求：>=0.8.0

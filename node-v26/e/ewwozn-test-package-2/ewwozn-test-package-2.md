@@ -1,0 +1,22 @@
+# ewwozn-test-package-2
+
+> 标签: JavaScript
+
+## 简介
+
+This is a placeholder package to reserve the public name `ewwozn-test-package` on npm.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/ewwozn-test-package-2
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install ewwozn-test-package-2`
+- npm registry：https://registry.npmjs.org/ewwozn-test-package-2

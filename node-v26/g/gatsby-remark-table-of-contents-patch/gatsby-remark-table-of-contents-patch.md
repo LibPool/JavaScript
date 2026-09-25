@@ -1,0 +1,24 @@
+# gatsby-remark-table-of-contents-patch
+
+> 标签: gatsby, gatsby-plugin, remark, table of contents, toc
+
+## 简介
+
+gatsby remark plugin to generate table of contents
+
+## 官网
+
+- 官网：https://github.com/signalwerk/gatsby-remark-table-of-contents#readme
+- 源码仓库：git+https://github.com/signalwerk/gatsby-remark-table-of-contents.git
+- npm 页面：https://www.npmjs.com/package/gatsby-remark-table-of-contents-patch
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install gatsby-remark-table-of-contents-patch`
+- npm registry：https://registry.npmjs.org/gatsby-remark-table-of-contents-patch

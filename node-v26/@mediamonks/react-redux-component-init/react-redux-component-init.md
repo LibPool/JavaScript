@@ -1,0 +1,28 @@
+# @mediamonks/react-redux-component-init
+
+> 标签: SSR, async, components, initializatoin, ismorphic, react, reactjs, redux, server-side rendering
+
+## 简介
+
+A library to manage async component initialization in isomorphic React/Redux applications with server-side rendering
+
+## 官网
+
+- 官网：https://github.com/mediamonks/react-redux-component-init#readme
+- 源码仓库：git+https://github.com/mediamonks/react-redux-component-init.git
+- npm 页面：https://www.npmjs.com/package/@mediamonks/react-redux-component-init
+
+## 历史版本号
+
+- 当前版本：2.0.6
+
+- 2.0.3
+- 2.0.4
+- 2.0.5
+- 2.0.6
+
+## 获取地址
+
+- npm 安装：`npm install @mediamonks/react-redux-component-init`
+- npm registry：https://registry.npmjs.org/@mediamonks/react-redux-component-init
+- Node 要求：>=14.15.1

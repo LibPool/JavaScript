@@ -1,0 +1,24 @@
+# @onlyapel/oapelsea
+
+> 标签: JavaScript
+
+## 简介
+
+@onlyapel/oapelsea - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/onlyapel/oapelsea#readme
+- 源码仓库：git+https://github.com/onlyapel/oapelsea.git
+- npm 页面：https://www.npmjs.com/package/@onlyapel/oapelsea
+
+## 历史版本号
+
+- 当前版本：1.1.4
+
+- 1.1.4
+
+## 获取地址
+
+- npm 安装：`npm install @onlyapel/oapelsea`
+- npm registry：https://registry.npmjs.org/@onlyapel/oapelsea

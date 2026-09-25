@@ -1,0 +1,24 @@
+# react-gantt-nl
+
+> 标签: baseline, chart, gantt, project-management, react, scheduling, tasks, timeline
+
+## 简介
+
+A lightweight, zero-dependency React Gantt chart with native baseline support
+
+## 官网
+
+- 官网：https://github.com/yi00it/react-gantt-nl#readme
+- 源码仓库：git+https://github.com/yi00it/react-gantt-nl.git
+- npm 页面：https://www.npmjs.com/package/react-gantt-nl
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install react-gantt-nl`
+- npm registry：https://registry.npmjs.org/react-gantt-nl

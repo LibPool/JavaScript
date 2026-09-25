@@ -1,0 +1,24 @@
+# http-status-code-json-list
+
+> 标签: code, http, json, list, status
+
+## 简介
+
+Http status code infos in a key => value object by status code
+
+## 官网
+
+- 官网：https://github.com/anonkey/http-status-code-json#readme
+- 源码仓库：git+https://github.com/anonkey/http-status-code-json.git
+- npm 页面：https://www.npmjs.com/package/http-status-code-json-list
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install http-status-code-json-list`
+- npm registry：https://registry.npmjs.org/http-status-code-json-list

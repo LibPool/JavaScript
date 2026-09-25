@@ -1,0 +1,35 @@
+# @turbox3d/reactivity-react
+
+> 标签: alibaba, framework, front-end, mobx, mobx-react, react, react-redux, redux, state-management, taobao, turbox, turbox3d, vuex
+
+## 简介
+
+Large-scale reactive state management library for react
+
+## 官网
+
+- 官网：https://github.com/turbox3d/turbox#readme
+- 源码仓库：git+https://github.com/turbox3d/turbox.git
+- npm 页面：https://www.npmjs.com/package/@turbox3d/reactivity-react
+
+## 历史版本号
+
+- 当前版本：1.1.28
+
+- 1.1.24
+- 1.1.25
+- 1.1.26
+- 1.1.27
+- 1.1.28
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.1.6
+- 1.1.7
+- 1.1.8
+- 1.1.9
+
+## 获取地址
+
+- npm 安装：`npm install @turbox3d/reactivity-react`
+- npm registry：https://registry.npmjs.org/@turbox3d/reactivity-react

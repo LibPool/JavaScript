@@ -1,0 +1,25 @@
+# pulse-migrate
+
+> 标签: migrate, migrations
+
+## 简介
+
+Abstract migration framework for node—includes tweaks for safer migration
+
+## 官网
+
+- 官网：https://github.com/DartPoll/node-migrate#readme
+- 源码仓库：git://github.com/DartPoll/node-migrate.git
+- npm 页面：https://www.npmjs.com/package/pulse-migrate
+
+## 历史版本号
+
+- 当前版本：1.6.2
+
+- 1.6.2
+
+## 获取地址
+
+- npm 安装：`npm install pulse-migrate`
+- npm registry：https://registry.npmjs.org/pulse-migrate
+- Node 要求：>= 0.4.x

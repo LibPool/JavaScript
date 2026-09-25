@@ -1,0 +1,31 @@
+# @yorozu/confirm-tooltip
+
+> 标签: JavaScript
+
+## 简介
+
+framework-agnostic pointer-anchored confirm session
+
+## 官网
+
+- 官网：https://github.com/inshinrei/yorozu#readme
+- 源码仓库：git+https://github.com/inshinrei/yorozu.git
+- npm 页面：https://www.npmjs.com/package/@yorozu/confirm-tooltip
+
+## 历史版本号
+
+- 当前版本：1.0.73
+
+- 0.5.3
+- 0.5.6
+- 1.0.25
+- 1.0.31
+- 1.0.52
+- 1.0.57
+- 1.0.66
+- 1.0.73
+
+## 获取地址
+
+- npm 安装：`npm install @yorozu/confirm-tooltip`
+- npm registry：https://registry.npmjs.org/@yorozu/confirm-tooltip

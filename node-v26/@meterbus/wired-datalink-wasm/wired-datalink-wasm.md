@@ -1,0 +1,25 @@
+# @meterbus/wired-datalink-wasm
+
+> 标签: m-bus, metering, protocol, wasm, webassembly
+
+## 简介
+
+WebAssembly wired M-Bus data-link frame codecs
+
+## 官网
+
+- 官网：https://github.com/nhedger/meterbus/tree/main/packages/meterbus-wired-datalink-wasm
+- 源码仓库：git+https://github.com/nhedger/meterbus.git
+- npm 页面：https://www.npmjs.com/package/@meterbus/wired-datalink-wasm
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @meterbus/wired-datalink-wasm`
+- npm registry：https://registry.npmjs.org/@meterbus/wired-datalink-wasm
+- Node 要求：>=24

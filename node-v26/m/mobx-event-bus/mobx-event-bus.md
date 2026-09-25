@@ -1,0 +1,24 @@
+# mobx-event-bus
+
+> 标签: eventBus, mobx
+
+## 简介
+
+Tiny library make Mobx action response events.
+
+## 官网
+
+- 官网：https://github.com/7upcat/mobx-event-bus#readme
+- 源码仓库：git+https://github.com/7upcat/mobx-event-bus.git
+- npm 页面：https://www.npmjs.com/package/mobx-event-bus
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install mobx-event-bus`
+- npm registry：https://registry.npmjs.org/mobx-event-bus

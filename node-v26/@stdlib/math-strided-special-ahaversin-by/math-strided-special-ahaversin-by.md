@@ -1,0 +1,36 @@
+# @stdlib/math-strided-special-ahaversin-by
+
+> 标签: accessor, ahav, ahaversin, ahaversine, ahaversinus, ahv, ahvs, angle, arc, archav, arcversin, arcversine, array, asin, callback, clbk, element-wise, half-value, hav, haversin, haversine, invhav, map, math, mathematics, ndarray, radians, sin, sine, stdlib, stdmath, strided, transform, trig, trigonometry, vector, versed, versedsine
+
+## 简介
+
+Compute the inverse half-value versed sine of each element retrieved from an input strided array via a callback function.
+
+## 官网
+
+- 官网：https://stdlib.io
+- 源码仓库：git://github.com/stdlib-js/math-strided-special-ahaversin-by.git
+- npm 页面：https://www.npmjs.com/package/@stdlib/math-strided-special-ahaversin-by
+
+## 历史版本号
+
+- 当前版本：0.2.3
+
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.1.0
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.3
+
+## 获取地址
+
+- npm 安装：`npm install @stdlib/math-strided-special-ahaversin-by`
+- npm registry：https://registry.npmjs.org/@stdlib/math-strided-special-ahaversin-by
+- Node 要求：>=0.10.0

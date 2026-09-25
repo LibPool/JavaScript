@@ -1,0 +1,32 @@
+# postcss-transition
+
+> 标签: postcss, postcss-plugin, postcss-transition, transition, transition defaults
+
+## 简介
+
+Allows you to set the default value for the transition shorthand property
+
+## 官网
+
+- 官网：https://github.com/notiv-nt/postcss-transition
+- 源码仓库：git+https://github.com/notiv-nt/postcss-transition.git
+- npm 页面：https://www.npmjs.com/package/postcss-transition
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install postcss-transition`
+- npm registry：https://registry.npmjs.org/postcss-transition

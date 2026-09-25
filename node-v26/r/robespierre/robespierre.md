@@ -1,0 +1,30 @@
+# robespierre
+
+> 标签: code-quality, extraneous, implicit, npm, rust
+
+## 简介
+
+Find extraneous and implicit dependencies by comparing your manifest and actual imports in your code using AST parsing
+
+## 官网
+
+- 官网：https://github.com/MarioArnt/robespierre#readme
+- 源码仓库：git+https://github.com/MarioArnt/robespierre.git
+- npm 页面：https://www.npmjs.com/package/robespierre
+
+## 历史版本号
+
+- 当前版本：1.0.0-beta.6
+
+- 0.0.8
+- 1.0.0-beta.0
+- 1.0.0-beta.2
+- 1.0.0-beta.3
+- 1.0.0-beta.4
+- 1.0.0-beta.5
+- 1.0.0-beta.6
+
+## 获取地址
+
+- npm 安装：`npm install robespierre`
+- npm registry：https://registry.npmjs.org/robespierre

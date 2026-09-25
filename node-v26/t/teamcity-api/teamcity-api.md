@@ -1,0 +1,25 @@
+# teamcity-api
+
+> 标签: api, teamcity
+
+## 简介
+
+TeamCity API for NodeJS
+
+## 官网
+
+- 官网：https://github.com/ryankelley/teamcity-api
+- 源码仓库：https://github.com/ryankelley/teamcity-api
+- npm 页面：https://www.npmjs.com/package/teamcity-api
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install teamcity-api`
+- npm registry：https://registry.npmjs.org/teamcity-api

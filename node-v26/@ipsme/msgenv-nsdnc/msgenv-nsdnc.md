@@ -1,0 +1,25 @@
+# @ipsme/msgenv-nsdnc
+
+> 标签: ipsme
+
+## 简介
+
+This library contains the wrapper code for sending messages to the macOS messaging environment (NSDistributedNotificationCenter) from plain Node.js, no Electron required
+
+## 官网
+
+- 官网：https://github.com/IPSME/npm-msgenv-NSDNC#readme
+- 源码仓库：git+https://github.com/IPSME/npm-msgenv-NSDNC.git
+- npm 页面：https://www.npmjs.com/package/@ipsme/msgenv-nsdnc
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @ipsme/msgenv-nsdnc`
+- npm registry：https://registry.npmjs.org/@ipsme/msgenv-nsdnc

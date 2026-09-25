@@ -1,0 +1,34 @@
+# mig-schema-form
+
+> 标签: JavaScript
+
+## 简介
+
+This component will render fields dynamically based on openApi schema JSON. Default field validation with ajv is also provided within this package.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/mig-schema-form
+
+## 历史版本号
+
+- 当前版本：3.0.34
+
+- 3.0.3
+- 3.0.30
+- 3.0.31
+- 3.0.32
+- 3.0.33
+- 3.0.34
+- 3.0.4
+- 3.0.5
+- 3.0.6
+- 3.0.7
+- 3.0.8
+- 3.0.9
+- 共 70 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install mig-schema-form`
+- npm registry：https://registry.npmjs.org/mig-schema-form

@@ -1,0 +1,24 @@
+# guest-system-have-dress
+
+> 标签: guest-system-have-dress, package-manager, tea
+
+## 简介
+
+Guest System Have Dress - This function is used to convert multiple words into an interesting sentence containing the word Guest System Have Dress.
+
+## 官网
+
+- 官网：https://github.com/npmtea2024/guest-system-have-dress#readme
+- 源码仓库：git+https://github.com/npmtea2024/guest-system-have-dress.git
+- npm 页面：https://www.npmjs.com/package/guest-system-have-dress
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install guest-system-have-dress`
+- npm registry：https://registry.npmjs.org/guest-system-have-dress

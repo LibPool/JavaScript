@@ -1,0 +1,36 @@
+# @nextgis/ngw-mapbox
+
+> 标签: MAP, NextGIS
+
+## 简介
+
+Single-file bundle for rapid deployment of Mapbox GL JS based web-gis applications with NextGIS services
+
+## 官网
+
+- 官网：https://github.com/nextgis/nextgis_frontend/tree/master/packages/ngw-mapbox#readme
+- 源码仓库：git+https://github.com/nextgis/nextgis_frontend.git
+- npm 页面：https://www.npmjs.com/package/@nextgis/ngw-mapbox
+
+## 历史版本号
+
+- 当前版本：1.19.6
+
+- 1.18.21
+- 1.18.3
+- 1.18.7
+- 1.18.9
+- 1.19.0
+- 1.19.1
+- 1.19.2
+- 1.19.4
+- 1.19.5
+- 1.19.6
+- 1.9.6
+- 1.9.7
+- 共 232 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @nextgis/ngw-mapbox`
+- npm registry：https://registry.npmjs.org/@nextgis/ngw-mapbox

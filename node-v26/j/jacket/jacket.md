@@ -1,0 +1,31 @@
+# jacket
+
+> 标签: Browsersync, Gulp, Sass-doc, Scss, Scss-lint
+
+## 简介
+
+Jacket is a Scss starterkit based on Gulp, Libsass and scss-lint with some sane default tasks and based on the Smacss and BEVM structures.
+
+## 官网
+
+- 官网：https://github.com/Crosscheck/jacket#readme
+- 源码仓库：git+https://github.com/Crosscheck/Jacket.git
+- npm 页面：https://www.npmjs.com/package/jacket
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 1.0.7
+- 1.0.8
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install jacket`
+- npm registry：https://registry.npmjs.org/jacket
+- Node 要求：>=5.0.0

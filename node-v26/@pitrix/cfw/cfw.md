@@ -1,0 +1,24 @@
+# @pitrix/cfw
+
+> 标签: JavaScript
+
+## 简介
+
+云防火墙-CFW
+
+## 官网
+
+- 源码仓库：git@git.internal.yunify.com:f2e-boss/cfw.git
+- npm 页面：https://www.npmjs.com/package/@pitrix/cfw
+
+## 历史版本号
+
+- 当前版本：1.1.6
+
+- 1.1.5-beat1
+- 1.1.6
+
+## 获取地址
+
+- npm 安装：`npm install @pitrix/cfw`
+- npm registry：https://registry.npmjs.org/@pitrix/cfw

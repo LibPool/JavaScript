@@ -1,0 +1,36 @@
+# my-restify-api
+
+> 标签: restify
+
+## 简介
+
+My restify API backend
+
+## 官网
+
+- 官网：https://github.com/Zenedith/npm-my-restify-api
+- 源码仓库：git+https://github.com/Zenedith/npm-my-restify-api.git
+- npm 页面：https://www.npmjs.com/package/my-restify-api
+
+## 历史版本号
+
+- 当前版本：0.6.6
+
+- 0.5.5
+- 0.5.6
+- 0.5.7
+- 0.5.8
+- 0.5.9
+- 0.6.0
+- 0.6.1
+- 0.6.2
+- 0.6.3
+- 0.6.4
+- 0.6.5
+- 0.6.6
+
+## 获取地址
+
+- npm 安装：`npm install my-restify-api`
+- npm registry：https://registry.npmjs.org/my-restify-api
+- Node 要求：>=7.6.0

@@ -1,0 +1,27 @@
+# @fox-design/antd-affix
+
+> 标签: component, foxpage
+
+## 简介
+
+foxpage component
+
+## 官网
+
+- 官网：https://github.com/foxpage/foxpage-component-antd
+- 源码仓库：git+https://github.com/foxpage/foxpage-component-antd.git
+- npm 页面：https://www.npmjs.com/package/@fox-design/antd-affix
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @fox-design/antd-affix`
+- npm registry：https://registry.npmjs.org/@fox-design/antd-affix

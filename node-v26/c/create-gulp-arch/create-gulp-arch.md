@@ -1,0 +1,26 @@
+# create-gulp-arch
+
+> 标签: boilerplate, gulp, modular architecture
+
+## 简介
+
+This project aims to build a modular architecture with Gulp and manage files in a systematic way.
+
+## 官网
+
+- 官网：https://github.com/halikali/gulp-arch#readme
+- 源码仓库：git+https://github.com/halikali/gulp-arch.git
+- npm 页面：https://www.npmjs.com/package/create-gulp-arch
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install create-gulp-arch`
+- npm registry：https://registry.npmjs.org/create-gulp-arch

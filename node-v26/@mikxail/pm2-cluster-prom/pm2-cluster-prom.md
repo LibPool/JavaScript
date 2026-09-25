@@ -1,0 +1,24 @@
+# @mikxail/pm2-cluster-prom
+
+> 标签: cluster, metrics, pm2, prom, prometheus
+
+## 简介
+
+Prometheus metrics aggregation for PM2's clustered mode.
+
+## 官网
+
+- 官网：https://github.com/JakeH/pm2-cluster-prometheus#readme
+- 源码仓库：git+https://github.com/JakeH/pm2-cluster-prometheus.git
+- npm 页面：https://www.npmjs.com/package/@mikxail/pm2-cluster-prom
+
+## 历史版本号
+
+- 当前版本：1.0.7
+
+- 1.0.7
+
+## 获取地址
+
+- npm 安装：`npm install @mikxail/pm2-cluster-prom`
+- npm registry：https://registry.npmjs.org/@mikxail/pm2-cluster-prom

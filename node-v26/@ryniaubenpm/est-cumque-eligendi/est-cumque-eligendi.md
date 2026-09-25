@@ -1,0 +1,24 @@
+# @ryniaubenpm/est-cumque-eligendi
+
+> 标签: JavaScript
+
+## 简介
+
+@ryniaubenpm/est-cumque-eligendi - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/ryniaubenpm/est-cumque-eligendi#readme
+- 源码仓库：git+https://github.com/ryniaubenpm/est-cumque-eligendi.git
+- npm 页面：https://www.npmjs.com/package/@ryniaubenpm/est-cumque-eligendi
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @ryniaubenpm/est-cumque-eligendi`
+- npm registry：https://registry.npmjs.org/@ryniaubenpm/est-cumque-eligendi

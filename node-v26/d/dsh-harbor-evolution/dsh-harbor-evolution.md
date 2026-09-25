@@ -1,0 +1,36 @@
+# dsh-harbor-evolution
+
+> 标签: agent-evaluation, agent-evolution, cordis, deepseek-harness, dsh-plugin, harbor
+
+## 简介
+
+DeepSeek Harness plugin and Skill for Harbor Candidate and Historical Session evaluation workflows.
+
+## 官网
+
+- 官网：https://github.com/istarwyh/harbor-self-evolving#readme
+- 源码仓库：git+https://github.com/istarwyh/harbor-self-evolving.git
+- npm 页面：https://www.npmjs.com/package/dsh-harbor-evolution
+
+## 历史版本号
+
+- 当前版本：0.9.8
+
+- 0.7.3
+- 0.8.0
+- 0.8.1
+- 0.8.2
+- 0.8.3
+- 0.9.2
+- 0.9.3
+- 0.9.4
+- 0.9.5
+- 0.9.6
+- 0.9.7
+- 0.9.8
+
+## 获取地址
+
+- npm 安装：`npm install dsh-harbor-evolution`
+- npm registry：https://registry.npmjs.org/dsh-harbor-evolution
+- Node 要求：>=22

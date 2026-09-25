@@ -1,0 +1,22 @@
+# nippon-amy
+
+> 标签: JavaScript
+
+## 简介
+
+Test Say Hi
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/nippon-amy
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install nippon-amy`
+- npm registry：https://registry.npmjs.org/nippon-amy

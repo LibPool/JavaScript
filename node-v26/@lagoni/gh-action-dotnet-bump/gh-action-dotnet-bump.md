@@ -1,0 +1,35 @@
+# @lagoni/gh-action-dotnet-bump
+
+> 标签: JavaScript
+
+## 简介
+
+GitHub action for bumping version of .NET libraries with semantic release
+
+## 官网
+
+- 官网：https://github.com/jonaslagoni/gh-action-dotnet-bump#readme
+- 源码仓库：git+https://github.com/jonaslagoni/gh-action-dotnet-bump.git
+- npm 页面：https://www.npmjs.com/package/@lagoni/gh-action-dotnet-bump
+
+## 历史版本号
+
+- 当前版本：0.7.0
+
+- 0.2.2
+- 0.3.0
+- 0.4.0
+- 0.4.1
+- 0.4.2
+- 0.5.0
+- 0.5.1
+- 0.5.2
+- 0.6.0
+- 0.6.1
+- 0.6.2
+- 0.7.0
+
+## 获取地址
+
+- npm 安装：`npm install @lagoni/gh-action-dotnet-bump`
+- npm registry：https://registry.npmjs.org/@lagoni/gh-action-dotnet-bump

@@ -1,0 +1,22 @@
+# @jakgonzalez/prueba-test
+
+> 标签: JavaScript
+
+## 简介
+
+@jakgonzalez/prueba-test - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@jakgonzalez/prueba-test
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @jakgonzalez/prueba-test`
+- npm registry：https://registry.npmjs.org/@jakgonzalez/prueba-test

@@ -1,0 +1,24 @@
+# @jagopakaiai/jpa-cli
+
+> 标签: JavaScript
+
+## 简介
+
+JPA CLI — AI agent rules synchronizer & workspace manager
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@jagopakaiai/jpa-cli
+
+## 历史版本号
+
+- 当前版本：1.2.2
+
+- 1.2.0
+- 1.2.1
+- 1.2.2
+
+## 获取地址
+
+- npm 安装：`npm install @jagopakaiai/jpa-cli`
+- npm registry：https://registry.npmjs.org/@jagopakaiai/jpa-cli

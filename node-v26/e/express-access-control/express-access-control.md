@@ -1,0 +1,25 @@
+# express-access-control
+
+> 标签: Access Control, Express, Middleware, Session
+
+## 简介
+
+Middleware to perform access control based on the user's session and groups.
+
+## 官网
+
+- 官网：https://github.com/Magnitus-/ExpressAccessControl
+- 源码仓库：http://github.com/Magnitus-/ExpressAccessControl
+- npm 页面：https://www.npmjs.com/package/express-access-control
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.0.0
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install express-access-control`
+- npm registry：https://registry.npmjs.org/express-access-control

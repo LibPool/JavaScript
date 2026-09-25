@@ -1,0 +1,30 @@
+# web-client-store
+
+> 标签: Cache, Cookie, IndexDb, Local, Session, cache, cookie, local, localforage, manager, session, storage
+
+## 简介
+
+Utility functions to handle Cookies, Session, Local, IndexDB (localforage) with Caching capabilities on a web client.
+
+## 官网
+
+- 官网：https://github.com/codecubers/web-client-store#readme
+- 源码仓库：git+https://github.com/codecubers/web-client-store.git
+- npm 页面：https://www.npmjs.com/package/web-client-store
+
+## 历史版本号
+
+- 当前版本：2.0.5
+
+- 1.0.0
+- 1.1.0
+- 2.0.0
+- 2.0.1
+- 2.0.2
+- 2.0.3
+- 2.0.5
+
+## 获取地址
+
+- npm 安装：`npm install web-client-store`
+- npm registry：https://registry.npmjs.org/web-client-store

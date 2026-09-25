@@ -1,0 +1,26 @@
+# @intentsolutionsio/zai-cli
+
+> 标签: claude-code, claude-plugin, github, glm-4, image-analysis, mcp, multimodal, ocr, tonsofskills, vision, web-reader, web-search, z-ai
+
+## 简介
+
+Z.AI vision, search, reader, and GitHub exploration via CLI and MCP. Analyze images, search the web, read pages as markdown, explore repos.
+
+## 官网
+
+- 官网：https://tonsofskills.com/plugins/zai-cli
+- 源码仓库：git+https://github.com/jeremylongshore/claude-code-plugins-plus-skills.git
+- npm 页面：https://www.npmjs.com/package/@intentsolutionsio/zai-cli
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @intentsolutionsio/zai-cli`
+- npm registry：https://registry.npmjs.org/@intentsolutionsio/zai-cli

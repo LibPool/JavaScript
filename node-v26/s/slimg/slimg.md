@@ -1,0 +1,25 @@
+# slimg
+
+> 标签: anonymous, cli, file, image, imgur, media, slimg, upload
+
+## 简介
+
+Anonymously upload media files to SLiMG via the CLI.
+
+## 官网
+
+- 官网：https://github.com/lukehorvat/slimg#readme
+- 源码仓库：git+https://github.com/lukehorvat/slimg.git
+- npm 页面：https://www.npmjs.com/package/slimg
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.1
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install slimg`
+- npm registry：https://registry.npmjs.org/slimg

@@ -1,0 +1,26 @@
+# @sykuang/rednote-mcp
+
+> 标签: ai-agent, claude, claude-desktop, cursor, mcp, mcp-server, model-context-protocol, npx, playwright, rednote, rednote-mcp, xhs, xiaohongshu, xiaohongshu-mcp, 小红书
+
+## 简介
+
+Xiaohongshu (rednote / 小红书) MCP server for Claude Desktop, Cursor and AI agents — search, read, comment, like and publish notes via npx. Node.js + Playwright port of xiaohongshu-mcp.
+
+## 官网
+
+- 官网：https://github.com/sykuang/rednote-mcp#readme
+- 源码仓库：git+https://github.com/sykuang/rednote-mcp.git
+- npm 页面：https://www.npmjs.com/package/@sykuang/rednote-mcp
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @sykuang/rednote-mcp`
+- npm registry：https://registry.npmjs.org/@sykuang/rednote-mcp
+- Node 要求：>=20

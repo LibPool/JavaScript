@@ -1,0 +1,27 @@
+# zcashcore-p2p
+
+> 标签: zcash
+
+## 简介
+
+Interface to the zcash P2P network for zcash bitcore
+
+## 官网
+
+- 官网：https://github.com/csiocompany/zcashcore-p2p#readme
+- 源码仓库：git+https://github.com/csiocompany/zcashcore-p2p.git
+- npm 页面：https://www.npmjs.com/package/zcashcore-p2p
+
+## 历史版本号
+
+- 当前版本：1.1.5
+
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.1.5
+
+## 获取地址
+
+- npm 安装：`npm install zcashcore-p2p`
+- npm registry：https://registry.npmjs.org/zcashcore-p2p

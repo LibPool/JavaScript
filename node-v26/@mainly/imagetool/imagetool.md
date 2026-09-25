@@ -1,0 +1,26 @@
+# @mainly/imagetool
+
+> 标签: editorJs, image
+
+## 简介
+
+A image file upload tool for editor js, inpired by editorJs official package
+
+## 官网
+
+- 官网：https://github.com/Md-Abdul-Halim-Rafi/mainly-imageTool#readme
+- 源码仓库：git+https://github.com/Md-Abdul-Halim-Rafi/mainly-imageTool.git
+- npm 页面：https://www.npmjs.com/package/@mainly/imagetool
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @mainly/imagetool`
+- npm registry：https://registry.npmjs.org/@mainly/imagetool

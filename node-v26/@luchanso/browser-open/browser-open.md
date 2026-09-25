@@ -1,0 +1,24 @@
+# @luchanso/browser-open
+
+> 标签: JavaScript
+
+## 简介
+
+@luchanso/browser-open - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/Luchanso/browser-open#readme
+- 源码仓库：git+ssh://git@github.com/Luchanso/browser-open.git
+- npm 页面：https://www.npmjs.com/package/@luchanso/browser-open
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @luchanso/browser-open`
+- npm registry：https://registry.npmjs.org/@luchanso/browser-open

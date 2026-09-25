@@ -1,0 +1,36 @@
+# @stone-js/mcp-dev
+
+> 标签: StoneJS, agent, agentic, ai, cli, knowledge, llm, llms.txt, mcp
+
+## 简介
+
+Serve Stone.js's knowledge to your coding agent. A single `stone mcp` command starts an MCP server (stdio) exposing the framework's concepts, modules and best-practices plus your own tools, so the LLM masters the context while you master the domain.
+
+## 官网
+
+- 官网：https://stonejs.dev
+- 源码仓库：git+https://github.com/stone-foundation/stone-js-framework.git
+- npm 页面：https://www.npmjs.com/package/@stone-js/mcp-dev
+
+## 历史版本号
+
+- 当前版本：0.8.19
+
+- 0.8.16
+- 0.8.17
+- 0.8.18
+- 0.8.19
+- 0.8.2
+- 0.8.3
+- 0.8.4
+- 0.8.5
+- 0.8.6
+- 0.8.7
+- 0.8.8
+- 0.8.9
+
+## 获取地址
+
+- npm 安装：`npm install @stone-js/mcp-dev`
+- npm registry：https://registry.npmjs.org/@stone-js/mcp-dev
+- Node 要求：>=18.17.0

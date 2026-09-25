@@ -1,0 +1,29 @@
+# @tomilenko/custom-template-generator
+
+> 标签: custom, generator, template
+
+## 简介
+
+generate file template
+
+## 官网
+
+- 官网：https://github.com/tomilenko/custom-template-generator
+- npm 页面：https://www.npmjs.com/package/@tomilenko/custom-template-generator
+
+## 历史版本号
+
+- 当前版本：0.2.6
+
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.3
+- 0.2.4
+- 0.2.5
+- 0.2.6
+
+## 获取地址
+
+- npm 安装：`npm install @tomilenko/custom-template-generator`
+- npm registry：https://registry.npmjs.org/@tomilenko/custom-template-generator

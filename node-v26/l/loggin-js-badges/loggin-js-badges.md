@@ -1,0 +1,23 @@
+# loggin-js-badges
+
+> 标签: JavaScript
+
+## 简介
+
+<!-- Links -->
+
+## 官网
+
+- 官网：https://github.com/loggin-js/loggin-js-badges
+- npm 页面：https://www.npmjs.com/package/loggin-js-badges
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install loggin-js-badges`
+- npm registry：https://registry.npmjs.org/loggin-js-badges

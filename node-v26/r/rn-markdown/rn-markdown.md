@@ -1,0 +1,35 @@
+# rn-markdown
+
+> 标签: android, ios, markdown, marked, react, react-component, react-native
+
+## 简介
+
+basic markdown renderer for react-native using the great [marked](https://github.com/chjj/marked) parser
+
+## 官网
+
+- 官网：https://github.com/tradle/rn-markdown#readme
+- 源码仓库：git+https://github.com/tradle/rn-markdown.git
+- npm 页面：https://www.npmjs.com/package/rn-markdown
+
+## 历史版本号
+
+- 当前版本：1.3.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.1.0
+- 1.1.1
+- 1.2.0
+- 1.2.1
+- 1.3.0
+- 1.3.1
+- 1.3.2
+- 1.3.3
+
+## 获取地址
+
+- npm 安装：`npm install rn-markdown`
+- npm registry：https://registry.npmjs.org/rn-markdown

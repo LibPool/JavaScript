@@ -1,0 +1,29 @@
+# valydet
+
+> 标签: is, json, schema, validate, validation
+
+## 简介
+
+- A tiny module to validate JSON data.
+
+## 官网
+
+- 官网：https://github.com/peek4y/valydet#readme
+- 源码仓库：git+https://github.com/peek4y/valydet.git
+- npm 页面：https://www.npmjs.com/package/valydet
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.1.0
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install valydet`
+- npm registry：https://registry.npmjs.org/valydet
+- Node 要求：>=4.0

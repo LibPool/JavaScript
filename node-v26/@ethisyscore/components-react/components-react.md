@@ -1,0 +1,37 @@
+# @ethisyscore/components-react
+
+> 标签: ethisyscore, platform-react, plugin, rfc-0003
+
+## 简介
+
+Host-bound React contract for EthisysCore PlatformReact pages (RFC 0003). Provides the typed page-props contract and `definePlatformReactPage` helper so plugin authors get type-safe access to the host realm — extensionId, organisationId, mcp transport — w
+
+## 官网
+
+- 官网：https://github.com/ethisysltd/ethisyscore-plugin-sdk#readme
+- 源码仓库：git+https://github.com/ethisysltd/ethisyscore-plugin-sdk.git
+- npm 页面：https://www.npmjs.com/package/@ethisyscore/components-react
+
+## 历史版本号
+
+- 当前版本：1.116.0
+
+- 1.91.0
+- 1.92.0
+- 1.92.1
+- 1.93.0
+- 1.94.0
+- 1.94.1
+- 1.95.0
+- 1.95.1
+- 1.96.0
+- 1.97.0
+- 1.98.0
+- 1.99.0
+- 共 134 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @ethisyscore/components-react`
+- npm registry：https://registry.npmjs.org/@ethisyscore/components-react
+- Node 要求：>=20

@@ -1,0 +1,23 @@
+# @andrewcturing/ticket_tailor
+
+> 标签: pipedream, ticket_tailor
+
+## 简介
+
+Pipedream Ticket Tailor Components
+
+## 官网
+
+- 官网：https://pipedream.com/apps/ticket_tailor
+- npm 页面：https://www.npmjs.com/package/@andrewcturing/ticket_tailor
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @andrewcturing/ticket_tailor`
+- npm registry：https://registry.npmjs.org/@andrewcturing/ticket_tailor

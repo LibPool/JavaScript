@@ -1,0 +1,27 @@
+# gatsby-source-github-pinned
+
+> 标签: gatsby, gatsby-plugin, gatsby-source-plugin
+
+## 简介
+
+Gatsby source plugin for fetching pinned repositories.
+
+## 官网
+
+- 官网：https://github.com/EdgarRMmex/gatsby-source-github-pinned#readme
+- 源码仓库：git+https://github.com/EdgarRMmex/gatsby-source-github-pinned.git
+- npm 页面：https://www.npmjs.com/package/gatsby-source-github-pinned
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install gatsby-source-github-pinned`
+- npm registry：https://registry.npmjs.org/gatsby-source-github-pinned

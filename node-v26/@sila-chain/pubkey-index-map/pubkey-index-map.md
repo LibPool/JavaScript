@@ -1,0 +1,25 @@
+# @sila-chain/pubkey-index-map
+
+> 标签: N-API, lodestar, napi, sila
+
+## 简介
+
+Small napi-rs shim with an interface similar to `Map<Uint8Array, number>` but only for length 48 Uint8Arrays for keys and unsigned 32 bit numbers for values.
+
+## 官网
+
+- 官网：https://github.com/sila-chain-dev/pubkey-index-map#readme
+- 源码仓库：git+https://github.com/sila-chain-dev/pubkey-index-map.git
+- npm 页面：https://www.npmjs.com/package/@sila-chain/pubkey-index-map
+
+## 历史版本号
+
+- 当前版本：3.0.0
+
+- 3.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @sila-chain/pubkey-index-map`
+- npm registry：https://registry.npmjs.org/@sila-chain/pubkey-index-map
+- Node 要求：>= 10

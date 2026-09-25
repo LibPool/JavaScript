@@ -1,0 +1,24 @@
+# @dotcli/generator-av
+
+> 标签: audio, threejs, tonejs, visual, yeoman-generator
+
+## 简介
+
+generator for webgl + audio experiments
+
+## 官网
+
+- 官网：https://github.com/dotcli/generator-av#readme
+- 源码仓库：git+https://github.com/dotcli/generator-av.git
+- npm 页面：https://www.npmjs.com/package/@dotcli/generator-av
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @dotcli/generator-av`
+- npm registry：https://registry.npmjs.org/@dotcli/generator-av

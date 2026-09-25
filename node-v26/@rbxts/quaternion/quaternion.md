@@ -1,0 +1,22 @@
+# @rbxts/quaternion
+
+> 标签: quaternion, rbxts, roblox
+
+## 简介
+
+A basic quaternion implementation for Roblox
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@rbxts/quaternion
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @rbxts/quaternion`
+- npm registry：https://registry.npmjs.org/@rbxts/quaternion

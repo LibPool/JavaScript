@@ -1,0 +1,35 @@
+# bch-token-sweep
+
+> 标签: apidoc, bitcoin, bitcoin cash, client, cryptocurrency, front end, javascript, react, slp, tokens, wallet
+
+## 简介
+
+An npm library for sweeping BCH and SLP Tokens from a paper wallet.
+
+## 官网
+
+- 官网：https://github.com/Permissionless-Software-Foundation/bch-token-sweep#readme
+- 源码仓库：git+https://github.com/Permissionless-Software-Foundation/bch-token-sweep.git
+- npm 页面：https://www.npmjs.com/package/bch-token-sweep
+
+## 历史版本号
+
+- 当前版本：2.2.1
+
+- 1.5.4
+- 1.5.5
+- 1.5.6
+- 1.5.7
+- 1.5.8
+- 1.5.9
+- 2.0.0
+- 2.1.0
+- 2.1.1
+- 2.1.2
+- 2.2.0
+- 2.2.1
+
+## 获取地址
+
+- npm 安装：`npm install bch-token-sweep`
+- npm registry：https://registry.npmjs.org/bch-token-sweep

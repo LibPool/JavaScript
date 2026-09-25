@@ -1,0 +1,29 @@
+# scale-maker
+
+> 标签: audio, music, musical, scales, sound, web audio
+
+## 简介
+
+Provides a variety of musical scales as arrays of values for use in the Web Audio Javascript API and other Javascript-based audio environments.
+
+## 官网
+
+- 官网：https://github.com/davidcole1977/scale-maker
+- 源码仓库：https://github.com/davidcole1977/scale-maker.git
+- npm 页面：https://www.npmjs.com/package/scale-maker
+
+## 历史版本号
+
+- 当前版本：0.2.2
+
+- 0.0.11
+- 0.1.0
+- 0.1.1
+- 0.2.0
+- 0.2.1
+- 0.2.2
+
+## 获取地址
+
+- npm 安装：`npm install scale-maker`
+- npm registry：https://registry.npmjs.org/scale-maker

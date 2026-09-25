@@ -1,0 +1,34 @@
+# @sonata-innovations/fiber-fbre
+
+> 标签: data-collection, fiber, flow-json, form-builder, form-renderer, react
+
+## 简介
+
+Fiber Render Engine — renders Flow JSON forms with conditional logic, validation, and screen transitions
+
+## 官网
+
+- 官网：https://github.com/sonata-innovations/fiber-docs
+- npm 页面：https://www.npmjs.com/package/@sonata-innovations/fiber-fbre
+
+## 历史版本号
+
+- 当前版本：5.0.0
+
+- 3.0.0
+- 3.1.0
+- 3.2.0
+- 3.2.1
+- 3.3.0
+- 3.4.0
+- 3.4.1
+- 3.5.0
+- 3.6.0
+- 4.0.0
+- 4.1.0
+- 5.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @sonata-innovations/fiber-fbre`
+- npm registry：https://registry.npmjs.org/@sonata-innovations/fiber-fbre

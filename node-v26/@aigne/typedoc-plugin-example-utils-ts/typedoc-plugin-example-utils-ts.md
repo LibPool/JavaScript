@@ -1,0 +1,25 @@
+# @aigne/typedoc-plugin-example-utils-ts
+
+> 标签: JavaScript
+
+## 简介
+
+A utils library for typedoc to process example codes
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@aigne/typedoc-plugin-example-utils-ts
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @aigne/typedoc-plugin-example-utils-ts`
+- npm registry：https://registry.npmjs.org/@aigne/typedoc-plugin-example-utils-ts

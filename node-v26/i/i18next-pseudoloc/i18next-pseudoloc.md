@@ -1,0 +1,26 @@
+# i18next-pseudoloc
+
+> 标签: globalization, i18next, i18next-pseudoloc, internationalization, localization, pseudo, pseudo localization, react, react-18next
+
+## 简介
+
+Pseudo loc test plugin for i18next
+
+## 官网
+
+- 官网：https://github.com/xxflux/i18next-pseudoloc#readme
+- 源码仓库：git+https://github.com/xxflux/i18next-pseudoloc.git
+- npm 页面：https://www.npmjs.com/package/i18next-pseudoloc
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install i18next-pseudoloc`
+- npm registry：https://registry.npmjs.org/i18next-pseudoloc

@@ -1,0 +1,24 @@
+# cordova-plugin-photo-library-wkwebview4curltech
+
+> 标签: JavaScript
+
+## 简介
+
+Plugin that just gets photos from the gallery
+
+## 官网
+
+- 官网：https://github.com/tien271/cordova-plugin-photo-library-wkwebview#readme
+- 源码仓库：git+https://github.com/tien271/cordova-plugin-photo-library-wkwebview.git
+- npm 页面：https://www.npmjs.com/package/cordova-plugin-photo-library-wkwebview4curltech
+
+## 历史版本号
+
+- 当前版本：3.0.3-curltech
+
+- 3.0.3-curltech
+
+## 获取地址
+
+- npm 安装：`npm install cordova-plugin-photo-library-wkwebview4curltech`
+- npm registry：https://registry.npmjs.org/cordova-plugin-photo-library-wkwebview4curltech

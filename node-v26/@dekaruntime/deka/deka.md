@@ -1,0 +1,36 @@
+# @dekaruntime/deka
+
+> 标签: cli, deka, dekascript, runtime
+
+## 简介
+
+deka runtime launcher. Resolves and execs the platform binary installed via optionalDependencies; ships both the deka and dsc commands.
+
+## 官网
+
+- 官网：https://deka.gg
+- 源码仓库：git+https://github.com/dekaruntime/create-deka-app.git
+- npm 页面：https://www.npmjs.com/package/@dekaruntime/deka
+
+## 历史版本号
+
+- 当前版本：0.53.6
+
+- 0.53.7-canary-a0684a8
+- 0.53.7-canary-b48d260
+- 0.53.7-canary-b5228e0
+- 0.53.7-canary-c5d7520
+- 0.53.7-canary-c71077c
+- 0.53.7-canary-c83a6b3
+- 0.53.7-canary-d5b8a5f
+- 0.53.7-canary-d770475
+- 0.53.7-canary-d812e14
+- 0.53.7-canary-e13fce2
+- 0.53.7-canary-efd1d14
+- 0.53.7-canary-f99a004
+
+## 获取地址
+
+- npm 安装：`npm install @dekaruntime/deka`
+- npm registry：https://registry.npmjs.org/@dekaruntime/deka
+- Node 要求：>=18

@@ -1,0 +1,36 @@
+# venagate
+
+> 标签: ai, ai-gateway, ai-router
+
+## 简介
+
+AI model router — CLI, headless, TUI. Multi-provider proxy with OpenAI-compatible API.
+
+## 官网
+
+- 官网：https://github.com/venenapro/venagate#readme
+- 源码仓库：git+https://github.com/venenapro/venagate.git
+- npm 页面：https://www.npmjs.com/package/venagate
+
+## 历史版本号
+
+- 当前版本：1.9.0
+
+- 1.5.0
+- 1.6.3
+- 1.7.0
+- 1.7.1
+- 1.7.3
+- 1.7.4
+- 1.7.6
+- 1.7.7
+- 1.8.0
+- 1.8.2
+- 1.8.6
+- 1.9.0
+
+## 获取地址
+
+- npm 安装：`npm install venagate`
+- npm registry：https://registry.npmjs.org/venagate
+- Node 要求：>=20.0.0

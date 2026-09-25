@@ -1,0 +1,24 @@
+# overall-panjang
+
+> 标签: JavaScript
+
+## 简介
+
+overall-panjang - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/bdm112/overall-panjang#readme
+- 源码仓库：git+https://github.com/bdm112/overall-panjang.git
+- npm 页面：https://www.npmjs.com/package/overall-panjang
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install overall-panjang`
+- npm registry：https://registry.npmjs.org/overall-panjang

@@ -1,0 +1,23 @@
+# 1iop-meta
+
+> 标签: JavaScript
+
+## 简介
+
+测试使用-go语言圣经书中代码-json转换
+
+## 官网
+
+- 源码仓库：ssh:123.123.123.123/hello_world.git
+- npm 页面：https://www.npmjs.com/package/1iop-meta
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install 1iop-meta`
+- npm registry：https://registry.npmjs.org/1iop-meta

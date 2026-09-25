@@ -1,0 +1,27 @@
+# cammesa-api
+
+> 标签: api, cammesa
+
+## 简介
+
+Web API, CLI y librería para consulta de series de datos de Cammesa
+
+## 官网
+
+- 官网：https://github.com/fcingolani/cammesa-api#readme
+- 源码仓库：git+ssh://git@github.com/fcingolani/cammesa-api.git
+- npm 页面：https://www.npmjs.com/package/cammesa-api
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install cammesa-api`
+- npm registry：https://registry.npmjs.org/cammesa-api
+- Node 要求：>=4.2.4

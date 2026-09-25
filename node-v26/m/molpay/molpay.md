@@ -1,0 +1,24 @@
+# molpay
+
+> 标签: api, molpay, node
+
+## 简介
+
+molpay is molpay npm package.
+
+## 官网
+
+- 官网：https://bitbucket.org/EdisonTKPcom/molpay#readme
+- 源码仓库：git+https://EdisonTKPcom@bitbucket.org/EdisonTKPcom/molpay.git
+- npm 页面：https://www.npmjs.com/package/molpay
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install molpay`
+- npm registry：https://registry.npmjs.org/molpay

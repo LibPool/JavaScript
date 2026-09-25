@@ -1,0 +1,24 @@
+# amis-formula-jetty-6-10
+
+> 标签: amis, formula, parser, tpl
+
+## 简介
+
+负责 amis 里面的表达式实现，内置公式，编辑器等
+
+## 官网
+
+- 官网：https://github.com/aisuda/amis-tpl#readme
+- 源码仓库：git+https://github.com/aisuda/amis-tpl.git
+- npm 页面：https://www.npmjs.com/package/amis-formula-jetty-6-10
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install amis-formula-jetty-6-10`
+- npm registry：https://registry.npmjs.org/amis-formula-jetty-6-10

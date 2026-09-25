@@ -1,0 +1,24 @@
+# seeker-rat
+
+> 标签: JavaScript
+
+## 简介
+
+CLI que busca archivos md
+
+## 官网
+
+- 官网：https://github.com/paupi-chill-e/SCL014-md-links#readme
+- 源码仓库：git+https://github.com/paupi-chill-e/SCL014-md-links.git
+- npm 页面：https://www.npmjs.com/package/seeker-rat
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install seeker-rat`
+- npm registry：https://registry.npmjs.org/seeker-rat

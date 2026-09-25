@@ -1,0 +1,23 @@
+# npmcpn2
+
+> 标签: components, jj
+
+## 简介
+
+A Vue.js project
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/npmcpn2
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install npmcpn2`
+- npm registry：https://registry.npmjs.org/npmcpn2

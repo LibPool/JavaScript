@@ -1,0 +1,29 @@
+# @react-component-library/datepicker
+
+> 标签: calendar, component, date, date-picker, datepicker, form, input, react, react-component-library, react-datepicker, time, ui
+
+## 简介
+
+A user-friendly, intuitive, reusable, and customizable datepicker for React.
+
+## 官网
+
+- 官网：https://github.com/react-component-library/datepicker
+- 源码仓库：git+ssh://git@github.com/react-component-library/datepicker.git
+- npm 页面：https://www.npmjs.com/package/@react-component-library/datepicker
+
+## 历史版本号
+
+- 当前版本：0.0.8
+
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+
+## 获取地址
+
+- npm 安装：`npm install @react-component-library/datepicker`
+- npm registry：https://registry.npmjs.org/@react-component-library/datepicker

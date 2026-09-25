@@ -1,0 +1,24 @@
+# talentjs-ui
+
+> 标签: JavaScript
+
+## 简介
+
+Tita TalentJS Framework
+
+## 官网
+
+- 源码仓库：git@gitlab.beisencorp.com:ux-tita-ui/ux-talentjs-ui.git
+- npm 页面：https://www.npmjs.com/package/talentjs-ui
+
+## 历史版本号
+
+- 当前版本：0.1.32
+
+- 0.1.30
+- 0.1.32
+
+## 获取地址
+
+- npm 安装：`npm install talentjs-ui`
+- npm registry：https://registry.npmjs.org/talentjs-ui

@@ -1,0 +1,31 @@
+# build-channel-fs
+
+> 标签: build, channel, fs, ftp
+
+## 简介
+
+Store information about different 'channels' of a product's builds by using the filesystem. e.g. via FTP
+
+## 官网
+
+- 官网：https://github.com/squaredup/build-channel-fs#readme
+- 源码仓库：git+https://github.com/squaredup/build-channel-fs.git
+- npm 页面：https://www.npmjs.com/package/build-channel-fs
+
+## 历史版本号
+
+- 当前版本：0.1.7
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+
+## 获取地址
+
+- npm 安装：`npm install build-channel-fs`
+- npm registry：https://registry.npmjs.org/build-channel-fs

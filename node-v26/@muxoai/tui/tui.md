@@ -1,0 +1,33 @@
+# @muxoai/tui
+
+> 标签: agents, cli, dashboard, ink, muxo, terminal, tui
+
+## 简介
+
+Muxo TUI — a beautiful terminal dashboard for your muxo project: status, budget, capabilities, workflows, runs, keys, and credits.
+
+## 官网
+
+- 官网：https://api.muxo.ai
+- 源码仓库：git+https://github.com/muxoai/muxo.git
+- npm 页面：https://www.npmjs.com/package/@muxoai/tui
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.3
+- 0.2.4
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @muxoai/tui`
+- npm registry：https://registry.npmjs.org/@muxoai/tui
+- Node 要求：>=18

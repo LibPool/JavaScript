@@ -1,0 +1,36 @@
+# @x-spacy/eslint-config
+
+> 标签: JavaScript
+
+## 简介
+
+ESLint configuration used by X-Spacy.
+
+## 官网
+
+- 源码仓库：git+https://github.com/x-spacy/eslint-config.git
+- npm 页面：https://www.npmjs.com/package/@x-spacy/eslint-config
+
+## 历史版本号
+
+- 当前版本：1.36.3
+
+- 1.28.1
+- 1.29.0
+- 1.29.1
+- 1.29.2
+- 1.30.0
+- 1.31.0
+- 1.32.0
+- 1.33.0
+- 1.34.0
+- 1.34.1
+- 1.35.0
+- 1.36.3
+- 共 63 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @x-spacy/eslint-config`
+- npm registry：https://registry.npmjs.org/@x-spacy/eslint-config
+- Node 要求：v22.18.0

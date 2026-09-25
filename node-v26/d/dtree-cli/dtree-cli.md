@@ -1,0 +1,25 @@
+# dtree-cli
+
+> 标签: cli, directory, dirtree, filesystem, folder, tree
+
+## 简介
+
+Cross-platform directory tree viewer with JSON, markdown, and colorful CLI output
+
+## 官网
+
+- 官网：https://github.com/Major126/dirtree-cli
+- 源码仓库：git+https://github.com/Major126/dirtree-cli.git
+- npm 页面：https://www.npmjs.com/package/dtree-cli
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install dtree-cli`
+- npm registry：https://registry.npmjs.org/dtree-cli
+- Node 要求：>=14.0.0

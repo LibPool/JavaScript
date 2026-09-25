@@ -1,0 +1,36 @@
+# botframework-webchat-fluent-theme
+
+> 标签: JavaScript
+
+## 简介
+
+Fluent theme for Bot Framework Web Chat
+
+## 官网
+
+- 官网：https://github.com/microsoft/BotFramework-WebChat/packages/core#readme
+- 源码仓库：git+https://github.com/microsoft/BotFramework-WebChat.git
+- npm 页面：https://www.npmjs.com/package/botframework-webchat-fluent-theme
+
+## 历史版本号
+
+- 当前版本：4.19.1
+
+- 4.18.1-main.20260511.8fcd02a
+- 4.18.1-main.20260518.2a3d1d3
+- 4.18.1-main.20260520.c138220
+- 4.18.1-main.20260522.4c60bbe
+- 4.18.2
+- 4.19.0
+- 4.19.1
+- 4.19.1-main.20260526.b9ad8fa
+- 4.19.1-main.20260529.6bcfcee
+- 4.19.1-main.20260604.f673783
+- 4.19.1-main.20260607.f673783
+- 4.19.1-main.20260609.8add591
+- 共 120 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install botframework-webchat-fluent-theme`
+- npm registry：https://registry.npmjs.org/botframework-webchat-fluent-theme

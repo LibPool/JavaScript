@@ -1,0 +1,35 @@
+# flowshot
+
+> 标签: dashboard, diff, playwright, screenshot, testing, user-flow, visual-regression
+
+## 简介
+
+Flow-based visual regression dashboard for Playwright. One command, one HTML file — screenshots connected as user flows with diff slider.
+
+## 官网
+
+- 官网：https://github.com/skypart/flowshot#readme
+- 源码仓库：git+https://github.com/skypart/flowshot.git
+- npm 页面：https://www.npmjs.com/package/flowshot
+
+## 历史版本号
+
+- 当前版本：0.7.4
+
+- 0.2.0
+- 0.3.0
+- 0.3.1
+- 0.4.0
+- 0.5.0
+- 0.6.0
+- 0.6.1
+- 0.7.0
+- 0.7.1
+- 0.7.2
+- 0.7.3
+- 0.7.4
+
+## 获取地址
+
+- npm 安装：`npm install flowshot`
+- npm registry：https://registry.npmjs.org/flowshot

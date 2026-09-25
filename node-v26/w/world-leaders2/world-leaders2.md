@@ -1,0 +1,25 @@
+# world-leaders2
+
+> 标签: exercise, nodejs
+
+## 简介
+
+world-leaders exercise2
+
+## 官网
+
+- 官网：https://github.com/namminammi/world-leader-list#readme
+- 源码仓库：git+https://github.com/namminammi/world-leader-list.git
+- npm 页面：https://www.npmjs.com/package/world-leaders2
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install world-leaders2`
+- npm registry：https://registry.npmjs.org/world-leaders2

@@ -1,0 +1,28 @@
+# skia-common-js
+
+> 标签: JavaScript
+
+## 简介
+
+Common JS code for Skia Infrastructure.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/skia-common-js
+
+## 历史版本号
+
+- 当前版本：1.3.2
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 1.3.1
+- 1.3.2
+
+## 获取地址
+
+- npm 安装：`npm install skia-common-js`
+- npm registry：https://registry.npmjs.org/skia-common-js

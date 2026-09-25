@@ -1,0 +1,33 @@
+# s3-guardian
+
+> 标签: aws, cli, cloud-cost, finops, multipart-upload, s3
+
+## 简介
+
+Local-first zero-runtime-dependency CLI to scan, quantify, and safely clean up zombie S3 multipart uploads
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/s3-guardian
+
+## 历史版本号
+
+- 当前版本：2.0.1
+
+- 0.4.0
+- 0.7.0
+- 0.8.0
+- 1.0.0
+- 1.0.1
+- 1.2.0
+- 1.4.0
+- 1.5.0
+- 1.6.0
+- 1.9.0
+- 2.0.0
+- 2.0.1
+
+## 获取地址
+
+- npm 安装：`npm install s3-guardian`
+- npm registry：https://registry.npmjs.org/s3-guardian

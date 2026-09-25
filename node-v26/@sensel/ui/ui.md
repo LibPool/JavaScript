@@ -1,0 +1,22 @@
+# @sensel/ui
+
+> 标签: JavaScript
+
+## 简介
+
+A component/action library for svelte 5
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@sensel/ui
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @sensel/ui`
+- npm registry：https://registry.npmjs.org/@sensel/ui

@@ -1,0 +1,31 @@
+# lumbar-style-doc
+
+> 标签: build, documentation, lumbar, module
+
+## 简介
+
+Style documentation generation plugin for lumbar
+
+## 官网
+
+- 源码仓库：git://github.com/kpdecker/lumbar-style-doc.git
+- npm 页面：https://www.npmjs.com/package/lumbar-style-doc
+
+## 历史版本号
+
+- 当前版本：0.6.4
+
+- 0.5.0
+- 0.5.1
+- 0.5.2
+- 0.6.0
+- 0.6.1
+- 0.6.2
+- 0.6.3
+- 0.6.4
+
+## 获取地址
+
+- npm 安装：`npm install lumbar-style-doc`
+- npm registry：https://registry.npmjs.org/lumbar-style-doc
+- Node 要求：>=0.4.2

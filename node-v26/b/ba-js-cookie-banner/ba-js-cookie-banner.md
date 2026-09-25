@@ -1,0 +1,34 @@
+# ba-js-cookie-banner
+
+> 标签: JavaScript
+
+## 简介
+
+ba-js-cookie-banner is an embeddable React-based cookie consent manager. In addition to cookie management, it installs and manages Bookassist and Google analytics tracking by leveraging ba-js-tracker.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/ba-js-cookie-banner
+
+## 历史版本号
+
+- 当前版本：3.2.3
+
+- 3.0.1
+- 3.0.2
+- 3.0.3
+- 3.1.0
+- 3.1.0-rc.1
+- 3.1.0-rc.2
+- 3.1.0-rc.3
+- 3.1.0-rc.4
+- 3.2.0
+- 3.2.1
+- 3.2.2
+- 3.2.3
+- 共 97 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install ba-js-cookie-banner`
+- npm registry：https://registry.npmjs.org/ba-js-cookie-banner

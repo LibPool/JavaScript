@@ -1,0 +1,26 @@
+# suitrace-sdk
+
+> 标签: agent-memory, ai-agents, audit, provenance, sui, tamper-evident, verifiable, walrus
+
+## 简介
+
+Verifiable episodic memory for AI agents on Sui + Walrus — write, read, and verify tamper-evident decision chains.
+
+## 官网
+
+- 官网：https://github.com/The16bitninja/SuiTrace/tree/main/sdk#readme
+- 源码仓库：git+https://github.com/The16bitninja/SuiTrace.git
+- npm 页面：https://www.npmjs.com/package/suitrace-sdk
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install suitrace-sdk`
+- npm registry：https://registry.npmjs.org/suitrace-sdk

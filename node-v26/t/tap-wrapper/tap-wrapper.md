@@ -1,0 +1,25 @@
+# tap-wrapper
+
+> 标签: JavaScript
+
+## 简介
+
+wrapper for unit testing node-tap test helper functions
+
+## 官网
+
+- 源码仓库：git@github.com:techjacker/tap-wrapper.git
+- npm 页面：https://www.npmjs.com/package/tap-wrapper
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install tap-wrapper`
+- npm registry：https://registry.npmjs.org/tap-wrapper
+- Node 要求：node >= 0.6.0

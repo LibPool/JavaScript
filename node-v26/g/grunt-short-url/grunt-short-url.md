@@ -1,0 +1,30 @@
+# grunt-short-url
+
+> 标签: bitly, gruntplugin, short, url
+
+## 简介
+
+URL shortener
+
+## 官网
+
+- 官网：https://github.com/mikaelguillin/grunt-short-url
+- 源码仓库：git://github.com/mikaelguillin/grunt-short-url.git
+- npm 页面：https://www.npmjs.com/package/grunt-short-url
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 0.1.0
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install grunt-short-url`
+- npm registry：https://registry.npmjs.org/grunt-short-url
+- Node 要求：>= 0.8.0

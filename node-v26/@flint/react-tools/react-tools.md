@@ -1,0 +1,27 @@
+# @flint/react-tools
+
+> 标签: jsx, react, transformer, view
+
+## 简介
+
+A set of complementary tools to React, including the JSX transformer.
+
+## 官网
+
+- 官网：https://facebook.github.io/react
+- 源码仓库：git+https://github.com/facebook/react.git
+- npm 页面：https://www.npmjs.com/package/@flint/react-tools
+
+## 历史版本号
+
+- 当前版本：0.13.5
+
+- 0.13.3
+- 0.13.4
+- 0.13.5
+
+## 获取地址
+
+- npm 安装：`npm install @flint/react-tools`
+- npm registry：https://registry.npmjs.org/@flint/react-tools
+- Node 要求：>=0.10.0

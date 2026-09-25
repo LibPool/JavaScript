@@ -1,0 +1,24 @@
+# @libar-dev/eslint-plugin-zod-convex
+
+> 标签: convex, eslint, eslint-plugin, hybrid-validation, typescript, validation, zod
+
+## 简介
+
+ESLint rules for zod-convex hybrid validation patterns
+
+## 官网
+
+- 官网：https://github.com/libar-dev/zod-convex-packages/tree/main/packages/eslint-plugin-zod-convex#readme
+- 源码仓库：git+https://github.com/libar-dev/zod-convex-packages.git
+- npm 页面：https://www.npmjs.com/package/@libar-dev/eslint-plugin-zod-convex
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @libar-dev/eslint-plugin-zod-convex`
+- npm registry：https://registry.npmjs.org/@libar-dev/eslint-plugin-zod-convex

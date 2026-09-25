@@ -1,0 +1,25 @@
+# @offthread/threadmill-win32-arm64-msvc
+
+> 标签: batch, napi-rs, native, parallel, pipeline, rayon, rust, threads
+
+## 简介
+
+Run batches of CPU-bound work on native Rust threads from Node.js — batch kernels (hashing, compression, JSON, sorting, strings) and fused pipelines, with the event loop left free.
+
+## 官网
+
+- 官网：https://github.com/Off-Thread/threadmill
+- 源码仓库：git+https://github.com/Off-Thread/threadmill.git
+- npm 页面：https://www.npmjs.com/package/@offthread/threadmill-win32-arm64-msvc
+
+## 历史版本号
+
+- 当前版本：0.2.7
+
+- 0.2.7
+
+## 获取地址
+
+- npm 安装：`npm install @offthread/threadmill-win32-arm64-msvc`
+- npm registry：https://registry.npmjs.org/@offthread/threadmill-win32-arm64-msvc
+- Node 要求：>= 18

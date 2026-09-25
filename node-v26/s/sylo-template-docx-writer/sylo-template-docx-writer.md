@@ -1,0 +1,25 @@
+# sylo-template-docx-writer
+
+> 标签: pi-package
+
+## 简介
+
+Fill any standard Word .docx template — inject AI-authored sections, images, and tables from a template bundle. Generalizes the former manual-creator; controls manuals are one template.
+
+## 官网
+
+- 官网：https://github.com/Yeti-Trix/sylo-template-docx-writer#readme
+- 源码仓库：git+https://github.com/Yeti-Trix/sylo-template-docx-writer.git
+- npm 页面：https://www.npmjs.com/package/sylo-template-docx-writer
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install sylo-template-docx-writer`
+- npm registry：https://registry.npmjs.org/sylo-template-docx-writer

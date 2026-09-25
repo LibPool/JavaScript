@@ -1,0 +1,35 @@
+# @indimeco/eslint-config-indimeco
+
+> 标签: eslint, eslint-config, prettier, prettier-config
+
+## 简介
+
+eslint config for my projects
+
+## 官网
+
+- 官网：https://github.com/indimeco/eslint-config-indimeco#readme
+- 源码仓库：git+https://github.com/indimeco/eslint-config-indimeco.git
+- npm 页面：https://www.npmjs.com/package/@indimeco/eslint-config-indimeco
+
+## 历史版本号
+
+- 当前版本：1.3.3
+
+- 1.1.3
+- 1.1.4
+- 1.1.6
+- 1.1.7
+- 1.1.8
+- 1.1.9
+- 1.2.0
+- 1.2.1
+- 1.3.0
+- 1.3.1
+- 1.3.2
+- 1.3.3
+
+## 获取地址
+
+- npm 安装：`npm install @indimeco/eslint-config-indimeco`
+- npm registry：https://registry.npmjs.org/@indimeco/eslint-config-indimeco

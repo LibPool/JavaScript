@@ -1,0 +1,35 @@
+# @aicut/vue
+
+> 标签: canvas, capcut, component, davinci, editor, filmora, final-cut, imovie, lighting, mp4, nle, premiere, three.js, timeline, timeline-editor, veed, video, video-clip, video-cutter, video-editing, video-editor, vue, vue-component, vue3
+
+## 简介
+
+Vue 3 wrapper for the AiCut video editor + lighting picker — thin declarative shells over @aicut/core.
+
+## 官网
+
+- 官网：https://github.com/ziqiangai/AiCut#readme
+- 源码仓库：git+https://github.com/ziqiangai/AiCut.git
+- npm 页面：https://www.npmjs.com/package/@aicut/vue
+
+## 历史版本号
+
+- 当前版本：0.7.5
+
+- 0.4.0
+- 0.4.1
+- 0.4.2
+- 0.4.3
+- 0.5.0
+- 0.6.0
+- 0.7.0
+- 0.7.1
+- 0.7.2
+- 0.7.3
+- 0.7.4
+- 0.7.5
+
+## 获取地址
+
+- npm 安装：`npm install @aicut/vue`
+- npm registry：https://registry.npmjs.org/@aicut/vue

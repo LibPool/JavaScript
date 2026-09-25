@@ -1,0 +1,30 @@
+# jquery-plugin-generator
+
+> 标签: jquery, plugin
+
+## 简介
+
+jQuery plugin generator from classes / functions
+
+## 官网
+
+- 官网：https://github.com/kasparsz/jquery-plugin-generator
+- 源码仓库：git+https://github.com/kasparsz/jquery-plugin-generator.git
+- npm 页面：https://www.npmjs.com/package/jquery-plugin-generator
+
+## 历史版本号
+
+- 当前版本：1.4.1
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 1.4.0
+- 1.4.1
+
+## 获取地址
+
+- npm 安装：`npm install jquery-plugin-generator`
+- npm registry：https://registry.npmjs.org/jquery-plugin-generator
+- Node 要求：>=0.10.0

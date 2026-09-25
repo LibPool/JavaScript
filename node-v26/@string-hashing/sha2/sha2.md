@@ -1,0 +1,24 @@
+# @string-hashing/sha2
+
+> 标签: bytes, hash, hashing, sha2, sha224, sha256, sha384, sha512, string
+
+## 简介
+
+SHA2 bytestring hashing for JavaScript
+
+## 官网
+
+- 官网：https://string-hashing.github.io/sha2
+- 源码仓库：https://github.com/string-hashing/sha2
+- npm 页面：https://www.npmjs.com/package/@string-hashing/sha2
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @string-hashing/sha2`
+- npm registry：https://registry.npmjs.org/@string-hashing/sha2

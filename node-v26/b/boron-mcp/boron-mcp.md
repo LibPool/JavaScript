@@ -1,0 +1,27 @@
+# boron-mcp
+
+> 标签: claude-code, developer-tools, git, git-branchless, mcp, pull-requests, stacked-prs
+
+## 简介
+
+MCP server for stacked PRs using git-branchless. A free, open-source alternative to Graphite.
+
+## 官网
+
+- 官网：https://github.com/ashikshafi08/Boron#readme
+- 源码仓库：git+https://github.com/ashikshafi08/Boron.git
+- npm 页面：https://www.npmjs.com/package/boron-mcp
+
+## 历史版本号
+
+- 当前版本：0.2.2
+
+- 0.2.0
+- 0.2.1
+- 0.2.2
+
+## 获取地址
+
+- npm 安装：`npm install boron-mcp`
+- npm registry：https://registry.npmjs.org/boron-mcp
+- Node 要求：>=18

@@ -1,0 +1,24 @@
+# label-studio-test-1
+
+> 标签: annotation, annotation-tool, data-labeling, image-annotation, image-classification, image-labeling, labeling, labeling-tool, semantic-segmentation, text-annotation
+
+## 简介
+
+Data Labeling Tool that is backend agnostic and can be embedded into your applications
+
+## 官网
+
+- 官网：https://labelstud.io
+- npm 页面：https://www.npmjs.com/package/label-studio-test-1
+
+## 历史版本号
+
+- 当前版本：1.5.0
+
+- 1.4.0
+- 1.5.0
+
+## 获取地址
+
+- npm 安装：`npm install label-studio-test-1`
+- npm registry：https://registry.npmjs.org/label-studio-test-1

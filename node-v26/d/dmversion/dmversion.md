@@ -1,0 +1,26 @@
+# dmversion
+
+> 标签: version
+
+## 简介
+
+Use the node gadget to modify the package version and the version number under the script file
+
+## 官网
+
+- 官网：https://github.com/lambGirl/dmVersion#readme
+- 源码仓库：git+https://github.com/lambGirl/dmVersion.git
+- npm 页面：https://www.npmjs.com/package/dmversion
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 1.1.0
+- 1.1.1
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install dmversion`
+- npm registry：https://registry.npmjs.org/dmversion

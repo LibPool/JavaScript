@@ -1,0 +1,27 @@
+# wanted-sans-std
+
+> 标签: JavaScript
+
+## 简介
+
+wanted-sans-std - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/wanteddev/wanted-sans
+- 源码仓库：https://github.com/wanteddev/wanted-sans
+- npm 页面：https://www.npmjs.com/package/wanted-sans-std
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install wanted-sans-std`
+- npm registry：https://registry.npmjs.org/wanted-sans-std

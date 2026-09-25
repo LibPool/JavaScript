@@ -1,0 +1,24 @@
+# adventurous-syntax
+
+> 标签: JavaScript
+
+## 简介
+
+Dark theme for Atom based on the Adventure Time Color Palette
+
+## 官网
+
+- 官网：https://github.com/philplckthun/Adventurous-Syntax#readme
+- 源码仓库：git+https://github.com/philplckthun/Adventurous-Syntax.git
+- npm 页面：https://www.npmjs.com/package/adventurous-syntax
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install adventurous-syntax`
+- npm registry：https://registry.npmjs.org/adventurous-syntax

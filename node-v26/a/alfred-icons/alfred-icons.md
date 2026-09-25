@@ -1,0 +1,31 @@
+# alfred-icons
+
+> 标签: alfred, alfy, workflow
+
+## 简介
+
+Quick search, preview directly in alfred any icons by the thenounproject.com service.
+
+## 官网
+
+- 官网：https://github.com/bikenik/alfred-icons#readme
+- 源码仓库：git+https://github.com/bikenik/alfred-icons.git
+- npm 页面：https://www.npmjs.com/package/alfred-icons
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install alfred-icons`
+- npm registry：https://registry.npmjs.org/alfred-icons
+- Node 要求：>=7.6

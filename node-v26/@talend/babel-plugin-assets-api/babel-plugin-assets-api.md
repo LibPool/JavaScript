@@ -1,0 +1,35 @@
+# @talend/babel-plugin-assets-api
+
+> 标签: JavaScript
+
+## 简介
+
+This plugin is underground friends of [@talend/assets-api](https://npmjs.com/package/@talend/assets-api) package.
+
+## 官网
+
+- 官网：https://github.com/Talend/ui#readme
+- 源码仓库：git+https://github.com/Talend/ui.git
+- npm 页面：https://www.npmjs.com/package/@talend/babel-plugin-assets-api
+
+## 历史版本号
+
+- 当前版本：1.6.1
+
+- 1.0.2
+- 1.1.0
+- 1.2.0
+- 1.2.1
+- 1.3.0
+- 1.3.1
+- 1.4.0
+- 1.4.1
+- 1.4.2
+- 1.5.0
+- 1.6.0
+- 1.6.1
+
+## 获取地址
+
+- npm 安装：`npm install @talend/babel-plugin-assets-api`
+- npm registry：https://registry.npmjs.org/@talend/babel-plugin-assets-api
