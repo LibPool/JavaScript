@@ -1,0 +1,29 @@
+# homebridge-air-bi
+
+> 标签: homebridge-plugin
+
+## 简介
+
+A short description about what your plugin does.
+
+## 官网
+
+- 官网：https://github.com/mysrob/homebridge-air-bi#readme
+- 源码仓库：git://github.com/mysrob/homebridge-air-bi.git
+- npm 页面：https://www.npmjs.com/package/homebridge-air-bi
+
+## 历史版本号
+
+- 当前版本：1.3.1
+
+- 1.0.1
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 1.3.1
+
+## 获取地址
+
+- npm 安装：`npm install homebridge-air-bi`
+- npm registry：https://registry.npmjs.org/homebridge-air-bi
+- Node 要求：>=10.17.0

@@ -1,0 +1,33 @@
+# homebridge-hsd
+
+> 标签: Gira Homeserver, KNX, homebridge-plugin
+
+## 简介
+
+Plugin to access KNX bus via Gira Homeserver
+
+## 官网
+
+- 官网：https://github.com/En3rGy/homebridge-hsd#readme
+- 源码仓库：git+https://github.com/En3rGy/homebridge-hsd.git
+- npm 页面：https://www.npmjs.com/package/homebridge-hsd
+
+## 历史版本号
+
+- 当前版本：1.1.10
+
+- 1.1.0
+- 1.1.1
+- 1.1.10
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.1.6
+- 1.1.7
+- 1.1.9
+
+## 获取地址
+
+- npm 安装：`npm install homebridge-hsd`
+- npm registry：https://registry.npmjs.org/homebridge-hsd
+- Node 要求：>=18.17.0

@@ -1,0 +1,30 @@
+# humanetype
+
+> 标签: components, design, handwriting, humane-type, humanized, indesign, react, text, typography, ui
+
+## 简介
+
+React component library for adding natural, humanized variations to text
+
+## 官网
+
+- 官网：https://github.com/MedElfadhelELHACHEMI/humane-type#readme
+- 源码仓库：git+https://github.com/MedElfadhelELHACHEMI/humane-type.git
+- npm 页面：https://www.npmjs.com/package/humanetype
+
+## 历史版本号
+
+- 当前版本：1.1.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.1.4
+
+## 获取地址
+
+- npm 安装：`npm install humanetype`
+- npm registry：https://registry.npmjs.org/humanetype

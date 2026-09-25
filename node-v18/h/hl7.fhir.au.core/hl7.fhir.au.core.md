@@ -1,0 +1,22 @@
+# hl7.fhir.au.core
+
+> 标签: JavaScript
+
+## 简介
+
+This implementation guide is provided to support the use of FHIR®© in an Australian context, and defines the minimum set of constraints on the FHIR resources to create the AU Core profiles. This implementation guide forms the foundation to build future AU
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/hl7.fhir.au.core
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install hl7.fhir.au.core`
+- npm registry：https://registry.npmjs.org/hl7.fhir.au.core

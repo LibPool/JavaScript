@@ -1,0 +1,35 @@
+# hub-clone-tool
+
+> 标签: clone, github
+
+## 简介
+
+A little helper to clone github repos
+
+## 官网
+
+- 官网：https://github.com/paul-ridgway/hub-clone-tool#readme
+- 源码仓库：git+ssh://git@github.com/paul-ridgway/hub-clone-tool.git
+- npm 页面：https://www.npmjs.com/package/hub-clone-tool
+
+## 历史版本号
+
+- 当前版本：1.0.14
+
+- 1.0.0
+- 1.0.10
+- 1.0.11
+- 1.0.13
+- 1.0.14
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.8
+- 1.0.9
+
+## 获取地址
+
+- npm 安装：`npm install hub-clone-tool`
+- npm registry：https://registry.npmjs.org/hub-clone-tool
+- Node 要求：>=18.0.0

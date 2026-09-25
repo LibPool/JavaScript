@@ -1,0 +1,25 @@
+# homebridge-digitalstrom
+
+> 标签: digitalSTROM, homebridge, homebridge-plugin, homekit, siri, smarthome
+
+## 简介
+
+digitalSTROM plugin for homebridge: https://github.com/nfarina/homebridge
+
+## 官网
+
+- 官网：https://github.com/cgHome/homebridge-digitalSTROM#readme
+- 源码仓库：git+https://github.com/cgHome/homebridge-digitalSTROM.git
+- npm 页面：https://www.npmjs.com/package/homebridge-digitalstrom
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install homebridge-digitalstrom`
+- npm registry：https://registry.npmjs.org/homebridge-digitalstrom
+- Node 要求：>=0.12.0

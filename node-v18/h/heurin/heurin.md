@@ -1,0 +1,27 @@
+# heurin
+
+> 标签: agent, ai, cli, contacts, crm, mcp, people, relationships
+
+## 简介
+
+Remember everyone. Your people memory, read and write, from any AI tool or terminal.
+
+## 官网
+
+- 官网：https://github.com/DanielEKaufman/rolodex#readme
+- 源码仓库：git+https://github.com/DanielEKaufman/rolodex.git
+- npm 页面：https://www.npmjs.com/package/heurin
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.0.1
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install heurin`
+- npm registry：https://registry.npmjs.org/heurin
+- Node 要求：>=18

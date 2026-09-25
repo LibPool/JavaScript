@@ -1,0 +1,24 @@
+# hina_felis.05
+
+> 标签: assignment, base, blockchain, crypto, typescript, wonder
+
+## 简介
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## 官网
+
+- 官网：git+https://github.com/haybarch/jigongbasi.git#readme
+- 源码仓库：git+https://github.com/haybarch/jigongbasi.git
+- npm 页面：https://www.npmjs.com/package/hina_felis.05
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install hina_felis.05`
+- npm registry：https://registry.npmjs.org/hina_felis.05

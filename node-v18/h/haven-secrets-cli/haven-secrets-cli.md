@@ -1,0 +1,25 @@
+# haven-secrets-cli
+
+> 标签: aws, centralized secrets, haven, haven-secrets, secrets management
+
+## 简介
+
+CLI client for Haven Secrets Manager
+
+## 官网
+
+- 官网：https://github.com/haven-secrets/haven-cli#readme
+- 源码仓库：git+https://github.com/haven-secrets/haven-cli.git
+- npm 页面：https://www.npmjs.com/package/haven-secrets-cli
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install haven-secrets-cli`
+- npm registry：https://registry.npmjs.org/haven-secrets-cli

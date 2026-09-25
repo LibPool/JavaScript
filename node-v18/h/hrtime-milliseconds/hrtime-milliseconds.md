@@ -1,0 +1,24 @@
+# hrtime-milliseconds
+
+> 标签: date, diff, hrtime, millisecond, milliseconds, performance
+
+## 简介
+
+Calculates a diff in milliseconds between invocations.
+
+## 官网
+
+- 官网：https://github.com/marcbachmann/hrtime-milliseconds#readme
+- 源码仓库：git+https://github.com/marcbachmann/hrtime-milliseconds.git
+- npm 页面：https://www.npmjs.com/package/hrtime-milliseconds
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install hrtime-milliseconds`
+- npm registry：https://registry.npmjs.org/hrtime-milliseconds

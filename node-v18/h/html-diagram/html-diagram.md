@@ -1,0 +1,35 @@
+# html-diagram
+
+> 标签: JavaScript
+
+## 简介
+
+<a href="https://dragunovartem99.github.io/html-diagram" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/Watch_Live_Demo-red"></a> <img alt="NPM Downloads" src="https://img.shields.io/npm/d18m/html-diagram?color=blue"> <img alt="
+
+## 官网
+
+- 官网：https://github.com/dragunovartem99/html-diagram#readme
+- 源码仓库：git+https://github.com/dragunovartem99/html-diagram.git
+- npm 页面：https://www.npmjs.com/package/html-diagram
+
+## 历史版本号
+
+- 当前版本：0.5.9
+
+- 0.4.0
+- 0.4.1
+- 0.4.2
+- 0.5.0
+- 0.5.1
+- 0.5.2
+- 0.5.3
+- 0.5.4
+- 0.5.5
+- 0.5.6
+- 0.5.8
+- 0.5.9
+
+## 获取地址
+
+- npm 安装：`npm install html-diagram`
+- npm registry：https://registry.npmjs.org/html-diagram
