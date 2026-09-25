@@ -1,0 +1,24 @@
+# usepure
+
+> 标签: checker, functional, functional-core, pure, typescript
+
+## 简介
+
+A pure subset of TypeScript — a "use pure" directive and a checker that enforces a functional core. In development.
+
+## 官网
+
+- 官网：https://github.com/artcommacode/usepure#readme
+- 源码仓库：git+https://github.com/artcommacode/usepure.git
+- npm 页面：https://www.npmjs.com/package/usepure
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install usepure`
+- npm registry：https://registry.npmjs.org/usepure

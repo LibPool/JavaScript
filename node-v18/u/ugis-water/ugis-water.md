@@ -1,0 +1,31 @@
+# ugis-water
+
+> 标签: library, vite, vite 模板, web库, 公共代码, 前端库
+
+## 简介
+
+ugis-water 称为 库构建模板，又称 公共代码构建模板 ，是专门用于构建 公共代码（如：封装的库、工具等） 的 vite 配置模板，当需要开发和构建公共代码时，直接克隆本项目即可，并默认在的 src 目录下开发即可；
+
+## 官网
+
+- 官网：https://github.com/GuoBinyong/earthsdk-water#readme
+- 源码仓库：git+https://github.com/GuoBinyong/earthsdk-water.git
+- npm 页面：https://www.npmjs.com/package/ugis-water
+
+## 历史版本号
+
+- 当前版本：2.2.5
+
+- 1.0.0
+- 1.1.0
+- 2.2.0
+- 2.2.1
+- 2.2.2
+- 2.2.3
+- 2.2.4
+- 2.2.5
+
+## 获取地址
+
+- npm 安装：`npm install ugis-water`
+- npm registry：https://registry.npmjs.org/ugis-water

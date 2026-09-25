@@ -1,0 +1,31 @@
+# uber-url-regex
+
+> 标签: regex, string, url
+
+## 简介
+
+Regular expression for matching URLs
+
+## 官网
+
+- 官网：https://github.com/averissimo/url-regex#readme
+- 源码仓库：git+https://github.com/averissimo/url-regex.git
+- npm 页面：https://www.npmjs.com/package/uber-url-regex
+
+## 历史版本号
+
+- 当前版本：5.0.9
+
+- 5.0.1
+- 5.0.2
+- 5.0.4
+- 5.0.5
+- 5.0.6
+- 5.0.8
+- 5.0.9
+
+## 获取地址
+
+- npm 安装：`npm install uber-url-regex`
+- npm registry：https://registry.npmjs.org/uber-url-regex
+- Node 要求：>=4

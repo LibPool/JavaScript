@@ -1,0 +1,26 @@
+# uuid5
+
+> 标签: hash, sha1, uuid
+
+## 简介
+
+UUID v5 generator (SHA1 hash into 128 bits)
+
+## 官网
+
+- 官网：https://github.com/velocityzen/uuid5#readme
+- 源码仓库：git+https://github.com/velocityzen/uuid5.git
+- npm 页面：https://www.npmjs.com/package/uuid5
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install uuid5`
+- npm registry：https://registry.npmjs.org/uuid5

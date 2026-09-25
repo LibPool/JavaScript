@@ -1,0 +1,26 @@
+# urlenparser
+
+> 标签: body, parser, request, urlencoded
+
+## 简介
+
+Urlencoded parser for bodies requests.
+
+## 官网
+
+- 官网：https://github.com/judgeface/urlenparser
+- 源码仓库：https://github.com/judgeface/urlenparser.git
+- npm 页面：https://www.npmjs.com/package/urlenparser
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.0
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install urlenparser`
+- npm registry：https://registry.npmjs.org/urlenparser
+- Node 要求：>= 0.10.28

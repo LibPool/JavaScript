@@ -1,0 +1,25 @@
+# unplanned
+
+> 标签: generator, name, random
+
+## 简介
+
+A simple tool that will just let you generate random names. These will be an adjective and a noun separated by a dash.
+
+## 官网
+
+- 官网：https://github.com/Mihai925/unplanned#readme
+- 源码仓库：git+https://github.com/Mihai925/unplanned.git
+- npm 页面：https://www.npmjs.com/package/unplanned
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install unplanned`
+- npm registry：https://registry.npmjs.org/unplanned

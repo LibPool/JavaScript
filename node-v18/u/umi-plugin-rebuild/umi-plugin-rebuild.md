@@ -1,0 +1,25 @@
+# umi-plugin-rebuild
+
+> 标签: JavaScript
+
+## 简介
+
+move dist files to a new directory after build
+
+## 官网
+
+- 官网：https://github.com/ziitar/umi-plugin-rebuild#readme
+- 源码仓库：git+https://github.com/ziitar/umi-plugin-rebuild.git
+- npm 页面：https://www.npmjs.com/package/umi-plugin-rebuild
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install umi-plugin-rebuild`
+- npm registry：https://registry.npmjs.org/umi-plugin-rebuild
