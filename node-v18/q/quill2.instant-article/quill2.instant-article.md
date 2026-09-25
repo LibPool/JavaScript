@@ -1,0 +1,24 @@
+# quill2.instant-article
+
+> 标签: instant-article
+
+## 简介
+
+instant article applicable for quill2.0 article plugin
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/quill2.instant-article
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install quill2.instant-article`
+- npm registry：https://registry.npmjs.org/quill2.instant-article

@@ -1,0 +1,29 @@
+# quill-qtable
+
+> 标签: multiline, quill, quilljs, quilltable, table
+
+## 简介
+
+Quill Extension to create a simple table.
+
+## 官网
+
+- 官网：https://github.com/#readme
+- 源码仓库：git+https://github.com/
+- npm 页面：https://www.npmjs.com/package/quill-qtable
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+
+## 获取地址
+
+- npm 安装：`npm install quill-qtable`
+- npm registry：https://registry.npmjs.org/quill-qtable
+- Node 要求：>=18.20.0

@@ -1,0 +1,23 @@
+# quadjs-types
+
+> 标签: JavaScript
+
+## 简介
+
+JS and TS types relating to Protocol Buffers used by Cosmos SDK and other related projects
+
+## 官网
+
+- 源码仓库：https://github.com/QuadrateOrg/quadjs-types
+- npm 页面：https://www.npmjs.com/package/quadjs-types
+
+## 历史版本号
+
+- 当前版本：0.8.0
+
+- 0.8.0
+
+## 获取地址
+
+- npm 安装：`npm install quadjs-types`
+- npm registry：https://registry.npmjs.org/quadjs-types
