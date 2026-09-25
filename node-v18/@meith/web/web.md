@@ -28,7 +28,6 @@ The board itself: the Next.js app, and the forum-web bin that materializes it in
 - 0.37.4
 - 0.37.5
 - 0.37.6
-- 共 47 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

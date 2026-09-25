@@ -16,18 +16,18 @@ Transforms NDLA articles into extended html versions
 
 - 当前版本：10.0.199-alpha.0
 
-- 9.0.17-alpha.0
-- 9.0.18-alpha.0
-- 9.0.19
-- 9.0.19-alpha.0
-- 9.0.2-alpha.0
-- 9.0.3-alpha.0
-- 9.0.4-alpha.0
-- 9.0.5-alpha.0
-- 9.0.6-alpha.0
-- 9.0.6-alpha.1
-- 9.0.8-alpha.0
-- 9.0.9-alpha.0
+- 10.0.187-alpha.0
+- 10.0.188-alpha.0
+- 10.0.189-alpha.0
+- 10.0.190-alpha.0
+- 10.0.191-alpha.0
+- 10.0.192-alpha.0
+- 10.0.193-alpha.0
+- 10.0.194-alpha.0
+- 10.0.195-alpha.0
+- 10.0.196-alpha.0
+- 10.0.198-alpha.0
+- 10.0.199-alpha.0
 - 共 456 个版本，完整清单见 npm registry。
 
 ## 获取地址

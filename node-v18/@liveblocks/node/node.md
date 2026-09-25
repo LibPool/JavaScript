@@ -16,18 +16,18 @@ A server-side utility that lets you set up a Liveblocks authentication endpoint.
 
 - 当前版本：3.24.2
 
-- 3.8.0-next2
-- 3.8.0-next3
-- 3.8.0-next4
-- 3.8.0-tiptap1
-- 3.8.1
-- 3.9.0
-- 3.9.1
-- 3.9.1-tiptap1
-- 3.9.2
-- 3.9.2-tiptap1
-- 3.9.2-tiptap2
-- 3.9.2-tiptap3
+- 3.23.0-file2
+- 3.23.0-file3
+- 3.23.0-file4
+- 3.23.1
+- 3.23.1-exp1
+- 3.23.1-exp2
+- 3.23.1-exp3
+- 3.23.2-exp1
+- 3.24.0
+- 3.24.1
+- 3.24.2
+- 3.24.3-livetextreplay
 - 共 598 个版本，完整清单见 npm registry。
 
 ## 获取地址

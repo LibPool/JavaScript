@@ -16,8 +16,8 @@ The official TypeScript library for the Kernel API
 
 - 当前版本：0.111.0
 
-- 0.9.0
-- 0.9.1
+- 0.87.1
+- 0.88.0
 - 0.90.0
 - 0.91.0
 - 0.92.0

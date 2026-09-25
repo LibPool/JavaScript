@@ -28,7 +28,6 @@ Send logs to OpenObserve from web browser pages with the browser logs SDK.
 - 0.4.2-beta.1
 - 0.4.2-beta.2
 - 0.4.2-beta.3
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

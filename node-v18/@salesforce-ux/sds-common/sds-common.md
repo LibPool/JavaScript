@@ -27,7 +27,6 @@ The common CSS file should be used to normalize HTML types and provide sensible 
 - 0.3.0
 - 0.3.1
 - 0.4.0
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

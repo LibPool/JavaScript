@@ -28,7 +28,6 @@ TypeScript definitions for when
 - 2.4.39
 - 2.4.40
 - 2.4.41
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

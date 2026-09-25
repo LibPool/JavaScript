@@ -28,7 +28,6 @@ Zero-runtime Stylesheets-in-TypeScript
 - 1.0.7-vite-compiler-no-base-20250508033042
 - 1.0.8
 - 1.0.9
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

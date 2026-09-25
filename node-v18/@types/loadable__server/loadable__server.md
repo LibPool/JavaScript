@@ -28,7 +28,6 @@ TypeScript definitions for @loadable/server
 - 5.8.0
 - 5.9.0
 - 5.9.1
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

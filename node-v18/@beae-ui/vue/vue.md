@@ -1,0 +1,24 @@
+# @beae-ui/vue
+
+> 标签: JavaScript
+
+## 简介
+
+Beae UI | Responsive and accessible Vue UI components built with Vue and Emotion
+
+## 官网
+
+- 官网：https://github.com/beae-labs/beae-ui#readme
+- 源码仓库：git+https://github.com/beae-labs/beae-ui.git
+- npm 页面：https://www.npmjs.com/package/@beae-ui/vue
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @beae-ui/vue`
+- npm registry：https://registry.npmjs.org/@beae-ui/vue

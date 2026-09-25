@@ -28,7 +28,6 @@ TypeScript definitions for freeport
 - 1.0.24
 - 1.0.5-alpha
 - 1.0.6-alpha
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -27,7 +27,6 @@ OpenAPI client for @emilgroup/notification-sdk-node
 - 1.5.1-beta.2
 - 1.5.1-beta.20
 - 1.5.1-beta.21
-- 共 43 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

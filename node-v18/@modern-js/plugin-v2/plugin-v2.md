@@ -16,7 +16,7 @@ A Progressive React Framework for modern web development.
 
 - 当前版本：2.70.4
 
-- 2.69.7
+- 0.0.0-nightly-20260203160345
 - 2.70.0
 - 2.70.1
 - 2.70.2

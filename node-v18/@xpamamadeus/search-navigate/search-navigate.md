@@ -1,0 +1,22 @@
+# @xpamamadeus/search-navigate
+
+> 标签: JavaScript
+
+## 简介
+
+This is a useSearch with navigate only function,original code from Tanstack router can be usefull in mpa.This its not router its just state for control search params
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@xpamamadeus/search-navigate
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @xpamamadeus/search-navigate`
+- npm registry：https://registry.npmjs.org/@xpamamadeus/search-navigate

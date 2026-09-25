@@ -28,7 +28,6 @@ A React component to view a PDF document
 - 3.7.0
 - 3.8.0
 - 3.9.0
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

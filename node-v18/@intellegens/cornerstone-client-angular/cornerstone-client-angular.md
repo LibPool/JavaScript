@@ -27,7 +27,6 @@ Angular integration package for Cornerstone API clients. This package provides A
 - 0.0.9999-alpha-6
 - 0.0.9999-alpha-7
 - 0.0.9999-alpha-8
-- 共 49 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

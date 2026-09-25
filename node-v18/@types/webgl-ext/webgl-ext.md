@@ -28,7 +28,6 @@ TypeScript definitions for webgl-ext
 - 1.6.23-alpha
 - 1.6.24-alpha
 - 1.6.25-alpha
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

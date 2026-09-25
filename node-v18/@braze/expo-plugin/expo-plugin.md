@@ -28,7 +28,6 @@ Config plugin for @braze/react-native-sdk package
 - 4.0.0
 - 5.0.0
 - 5.2.0
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

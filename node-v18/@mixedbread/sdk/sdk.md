@@ -16,6 +16,11 @@ The official TypeScript library for the Mixedbread API
 
 - 当前版本：0.78.0
 
+- 0.69.0
+- 0.70.0
+- 0.71.0
+- 0.72.0
+- 0.73.0
 - 0.73.1
 - 0.74.0
 - 0.74.1
@@ -23,11 +28,6 @@ The official TypeScript library for the Mixedbread API
 - 0.76.0
 - 0.77.0
 - 0.78.0
-- 0.8.0
-- 0.9.0
-- 0.9.1
-- 0.9.2
-- 0.9.3
 - 共 110 个版本，完整清单见 npm registry。
 
 ## 获取地址

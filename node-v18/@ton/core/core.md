@@ -28,7 +28,6 @@ Core TypeScript library that implements low level primitives for TON blockchain.
 - 0.62.1
 - 0.63.0
 - 0.63.1
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for react-virtualized-select
 - 3.0.7
 - 3.0.8
 - 3.0.9
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

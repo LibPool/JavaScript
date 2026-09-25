@@ -28,7 +28,7 @@ GraphQL Code Generator plugin for TypeScript plugins backward compatibility for 
 - 2.1.6-alpha-428c427d0.0
 - 3.0.0-alpha-220482c71.0
 - 3.0.0-alpha-2a3d5d099.0
-- 共 3939 个版本，完整清单见 npm registry。
+- 共 3,939 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

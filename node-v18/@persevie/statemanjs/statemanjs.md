@@ -28,7 +28,6 @@ Proper state manager for JavaScript
 - 1.7.0
 - 1.7.1
 - 1.8.0
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

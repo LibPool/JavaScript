@@ -28,7 +28,6 @@ TypeScript definitions for vscode-notebook-renderer
 - 1.72.2
 - 1.72.3
 - 1.72.4
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

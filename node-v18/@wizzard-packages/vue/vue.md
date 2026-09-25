@@ -28,7 +28,6 @@ Vue 3 composition API and components for Wizzard Stepper.
 - 1.0.0-canary-20260920083235
 - 1.0.0-canary-20260920100815
 - 1.0.0-canary-20260921125852
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

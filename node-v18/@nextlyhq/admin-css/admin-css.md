@@ -28,7 +28,6 @@ Build tooling to scope and compile Nextly admin CSS (shared by the admin build a
 - 0.0.2-alpha.64
 - 0.0.2-alpha.65
 - 0.0.2-alpha.66
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

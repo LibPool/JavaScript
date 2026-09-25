@@ -28,7 +28,6 @@ Angular JSON Schema Form builder core
 - 17.2.4
 - 17.2.5-alpha.0
 - 17.2.5-alpha.2
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

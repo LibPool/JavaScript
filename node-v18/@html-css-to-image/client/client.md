@@ -28,7 +28,6 @@ Lightweight TypeScript client for the HTML/CSS to Image API. Generate images fro
 - 0.7.0
 - 0.8.0
 - 0.9.0
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

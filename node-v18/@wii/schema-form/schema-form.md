@@ -1,0 +1,34 @@
+# @wii/schema-form
+
+> 标签: JavaScript
+
+## 简介
+
+build form with JSON-schema
+
+## 官网
+
+- 源码仓库：git@git.woa.com:tourism-fe/schema-form.git
+- npm 页面：https://www.npmjs.com/package/@wii/schema-form
+
+## 历史版本号
+
+- 当前版本：2.8.7
+
+- 2.6.0
+- 2.6.1
+- 2.6.2
+- 2.7.0
+- 2.8.0
+- 2.8.1
+- 2.8.2
+- 2.8.3
+- 2.8.4
+- 2.8.5
+- 2.8.6
+- 2.8.7
+
+## 获取地址
+
+- npm 安装：`npm install @wii/schema-form`
+- npm registry：https://registry.npmjs.org/@wii/schema-form

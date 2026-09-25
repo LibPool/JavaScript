@@ -28,7 +28,6 @@ Official Mollie API client for Node
 - 4.4.0-rc.1
 - 4.5.0
 - 4.6.0
-- 共 45 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

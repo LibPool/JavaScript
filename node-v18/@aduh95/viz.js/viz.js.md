@@ -28,7 +28,6 @@ A hack to put Graphviz on the web.
 - 3.5.0
 - 3.6.0
 - 3.7.0
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

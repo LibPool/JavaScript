@@ -1,0 +1,24 @@
+# @remix-project/engine-node
+
+> 标签: JavaScript
+
+## 简介
+
+This library was generated with [Nx](https://nx.dev).
+
+## 官网
+
+- 官网：https://github.com/ethereum/remix-plugin/tree/master/packages/engine/node#readme
+- 源码仓库：git+https://github.com/ethereum/remix-plugin.git
+- npm 页面：https://www.npmjs.com/package/@remix-project/engine-node
+
+## 历史版本号
+
+- 当前版本：0.3.44
+
+- 0.3.44
+
+## 获取地址
+
+- npm 安装：`npm install @remix-project/engine-node`
+- npm registry：https://registry.npmjs.org/@remix-project/engine-node

@@ -28,7 +28,6 @@ TypeScript definitions for serve-index
 - 1.9.2
 - 1.9.3
 - 1.9.4
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

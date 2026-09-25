@@ -28,7 +28,6 @@ SymbioteNative's Angular adapter — a Renderer2/RendererFactory2 with DOM-less 
 - 3.0.0
 - 3.0.1
 - 3.0.2
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

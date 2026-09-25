@@ -16,18 +16,18 @@ Fast JavaScript/TypeScript bundler in Rust with Rollup-compatible API.
 
 - 当前版本：1.0.0-beta.52
 
-- 1.0.0-beta.9
-- 1.0.0-beta.9-commit.0ec9e7d
-- 1.0.0-beta.9-commit.273d50e
-- 1.0.0-beta.9-commit.43425a0
-- 1.0.0-beta.9-commit.51df2b7
-- 1.0.0-beta.9-commit.76c39c6
-- 1.0.0-beta.9-commit.8371a90
-- 1.0.0-beta.9-commit.aca15b3
-- 1.0.0-beta.9-commit.b174110
-- 1.0.0-beta.9-commit.ca4e9dd
-- 1.0.0-beta.9-commit.ce72026
-- 1.0.0-beta.9-commit.d91dfb5
+- 1.0.0-beta.41
+- 1.0.0-beta.42
+- 1.0.0-beta.43
+- 1.0.0-beta.44
+- 1.0.0-beta.45
+- 1.0.0-beta.46
+- 1.0.0-beta.47
+- 1.0.0-beta.48
+- 1.0.0-beta.49
+- 1.0.0-beta.50
+- 1.0.0-beta.51
+- 1.0.0-beta.52
 - 共 565 个版本，完整清单见 npm registry。
 
 ## 获取地址

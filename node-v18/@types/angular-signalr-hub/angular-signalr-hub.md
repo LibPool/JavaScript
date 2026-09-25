@@ -28,7 +28,6 @@ TypeScript definitions for angular-signalr-hub
 - 1.5.35
 - 1.5.36
 - 1.5.37
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

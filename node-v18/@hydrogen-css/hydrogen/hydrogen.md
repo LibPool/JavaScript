@@ -28,7 +28,6 @@ An open-source, inline CSS framework powered by data-attributes. GPL-3.0 License
 - 2.0.4
 - 2.0.5
 - 2.1.0
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

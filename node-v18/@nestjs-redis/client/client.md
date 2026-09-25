@@ -28,7 +28,6 @@ Flexible, production-ready Redis client module for NestJS with multi-connection 
 - 2.0.0-1
 - 2.0.0-2
 - 2.0.1
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

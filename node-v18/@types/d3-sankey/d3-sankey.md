@@ -28,7 +28,6 @@ TypeScript definitions for d3-sankey
 - 0.7.2
 - 0.7.3
 - 0.7.4
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

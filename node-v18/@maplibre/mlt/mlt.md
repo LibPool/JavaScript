@@ -28,7 +28,6 @@ This package contains a JavaScript encoder and decoder for the experimental MapL
 - 1.2.0
 - 1.2.1
 - 1.3.0
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -15,9 +15,9 @@ Unofficial Vue UI library, built according to the Atlassian Design Guidelines.
 
 - 当前版本：0.3.8
 
+- 0.2.61
+- 0.2.62
 - 0.2.63
-- 0.2.7
-- 0.2.9
 - 0.3.0
 - 0.3.1
 - 0.3.2

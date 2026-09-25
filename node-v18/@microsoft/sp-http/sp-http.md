@@ -15,18 +15,18 @@ Base communication layer for the SharePoint Framework
 
 - 当前版本：1.23.2
 
-- 1.7.0-plusbeta
-- 1.7.1
-- 1.7.1-plusbeta
-- 1.8.0
-- 1.8.0-plusbeta
-- 1.8.1
-- 1.8.1-plusbeta
-- 1.8.2
-- 1.8.2-plusbeta
-- 1.9.0-plusbeta
-- 1.9.1
-- 1.9.1-plusbeta
+- 1.23.0-beta.0
+- 1.23.0-beta.2
+- 1.23.0-rc.0
+- 1.23.0-rc.1
+- 1.23.0-rc.2
+- 1.23.0-rc.3
+- 1.23.1
+- 1.23.2
+- 1.24.0-beta.2
+- 1.24.0-beta.3
+- 1.24.0-beta.4
+- 1.24.0-beta.5
 - 共 118 个版本，完整清单见 npm registry。
 
 ## 获取地址

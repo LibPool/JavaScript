@@ -27,7 +27,6 @@ Vue wrapper for rendering [Seats.io](https://www.seats.io) seating charts. Broug
 - 4.7.0
 - 4.8.0
 - 4.9.0
-- 共 43 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

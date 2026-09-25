@@ -28,7 +28,6 @@ TypeScript definitions for sshpk
 - 1.17.3
 - 1.17.4
 - 1.17.5
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

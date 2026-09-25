@@ -28,7 +28,6 @@ A Tailwind component to wrap emails with Tailwind CSS
 - 0.1.8
 - 0.1.9
 - 0.2.0
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

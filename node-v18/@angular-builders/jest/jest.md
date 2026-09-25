@@ -16,18 +16,18 @@ Jest runner for Angular build facade. Allows ng test run with Jest instead of Ka
 
 - 当前版本：22.0.1
 
-- 8.3.1
-- 8.3.2
-- 9.0.0
-- 9.0.0-beta.0
-- 9.0.0-beta.1
-- 9.0.0-beta.2
-- 9.0.0-beta.3
-- 9.0.0-beta.4
-- 9.0.1
-- 9.0.1-beta.0
-- 9.0.1-beta.1
-- 9.0.1-beta.2
+- 21.0.4-beta.7
+- 21.0.4-beta.8
+- 21.0.4-beta.9
+- 22.0.0
+- 22.0.0-beta.0
+- 22.0.0-beta.1
+- 22.0.1
+- 22.0.1-beta.0
+- 22.0.1-beta.1
+- 22.0.1-beta.2
+- 22.0.2-beta.0
+- 22.0.2-beta.1
 - 共 210 个版本，完整清单见 npm registry。
 
 ## 获取地址

@@ -28,7 +28,6 @@ This package generates types for JSX environments for custom elements / web comp
 - 1.8.0
 - 1.8.1
 - 1.8.2
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

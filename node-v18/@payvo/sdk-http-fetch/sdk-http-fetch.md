@@ -27,7 +27,6 @@ HTTP Client for @payvo/sdk
 - 4.0.0-next.5
 - 4.0.0-next.6
 - 4.0.0-next.7
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

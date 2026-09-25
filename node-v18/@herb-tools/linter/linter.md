@@ -28,7 +28,6 @@ HTML+ERB linter for validating HTML structure and enforcing best practices
 - 0.9.5
 - 0.9.6
 - 0.9.7
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

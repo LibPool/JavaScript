@@ -28,7 +28,6 @@ KeystoneJS WYSIWYG HTML Field Type, powered by TinyMCE
 - 5.4.0
 - 5.4.1
 - 5.4.2
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -27,7 +27,6 @@ Local HTTP service for Marifold
 - 0.73.0
 - 0.73.1
 - 0.74.2
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

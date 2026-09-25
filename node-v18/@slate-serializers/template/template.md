@@ -28,7 +28,6 @@ Serialize top-level Slate blocks to HTML strings and custom outputs via per-type
 - 2.5.4
 - 2.5.5
 - 2.6.0
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

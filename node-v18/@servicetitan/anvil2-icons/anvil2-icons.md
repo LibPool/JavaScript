@@ -27,7 +27,6 @@ Shared Lucide + custom icon set for Anvil2 AI Kit (web) and Anvil2 RN
 - 0.1.5
 - 0.1.7
 - 0.1.8
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

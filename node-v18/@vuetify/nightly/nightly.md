@@ -28,7 +28,7 @@ Vue Material Component Framework
 - 4.2.1-master.2026-09-15
 - 4.2.1-master.2026-09-16
 - 4.2.1-master.2026-09-17
-- 共 1833 个版本，完整清单见 npm registry。
+- 共 1,833 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

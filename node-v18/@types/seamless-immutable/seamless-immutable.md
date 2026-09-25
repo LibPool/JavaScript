@@ -28,7 +28,6 @@ TypeScript definitions for seamless-immutable
 - 7.1.7
 - 7.1.8
 - 7.1.9
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

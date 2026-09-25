@@ -28,7 +28,6 @@ React Native plugin for the CodePush service
 - 10.4.1
 - 10.4.2
 - 10.4.3
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

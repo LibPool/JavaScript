@@ -28,7 +28,6 @@ SDK for integrating Breeze 1CCO into your Web Application
 - 0.5.9
 - 0.6.0
 - 0.7.0
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

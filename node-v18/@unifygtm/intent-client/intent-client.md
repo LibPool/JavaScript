@@ -27,7 +27,6 @@ JavaScript client for interacting with the Unify Intent API in the browser.
 - 1.9.3
 - 1.9.4
 - 1.9.5
-- 共 49 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ A web-framework based on the ti-engine. It provides a customizable ready-to-use 
 - 1.35.3
 - 1.35.4
 - 1.36.0
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

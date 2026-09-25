@@ -15,18 +15,18 @@ SafePal Wallet integration for hub.   [Homepage](https://www.safepal.com/) | [Do
 
 - 当前版本：0.65.1
 
+- 0.63.1-next.2
+- 0.64.0
+- 0.64.1-next.0
+- 0.64.1-next.1
+- 0.64.1-next.2
+- 0.64.1-next.3
+- 0.64.1-next.4
+- 0.64.1-next.5
+- 0.64.1-next.6
+- 0.65.0
+- 0.65.1
 - 0.65.2-next.0
-- 0.7.0
-- 0.8.0
-- 0.8.1-next.0
-- 0.8.1-next.1
-- 0.8.1-next.2
-- 0.8.1-next.3
-- 0.8.1-next.4
-- 0.8.1-next.5
-- 0.8.1-next.6
-- 0.9.0
-- 0.9.1-next.0
 - 共 340 个版本，完整清单见 npm registry。
 
 ## 获取地址

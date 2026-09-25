@@ -16,8 +16,8 @@ Vue 3 framework utilities and plugins
 
 - 当前版本：2.0.109
 
+- 2.0.88
 - 2.0.89
-- 2.0.9
 - 2.0.90
 - 2.0.91
 - 2.0.92

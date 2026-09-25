@@ -28,7 +28,6 @@ Unplugin for web components auto-import
 - 1.4.1
 - 1.4.2
 - 1.4.3
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

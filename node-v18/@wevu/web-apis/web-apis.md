@@ -28,7 +28,6 @@ Web API polyfills and global installers for mini-program runtimes
 - 1.3.0
 - 1.3.1
 - 1.3.2
-- 共 48 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

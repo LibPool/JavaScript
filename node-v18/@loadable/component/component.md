@@ -28,7 +28,6 @@ React code splitting made easy.
 - 5.6.1
 - 5.7.0
 - 5.9.0
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

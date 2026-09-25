@@ -1,0 +1,24 @@
+# @cristianbgp/random-emoji
+
+> 标签: emoji, random
+
+## 简介
+
+It just returns an emoji
+
+## 官网
+
+- 官网：https://github.com/cristianbgp/random-emoji#readme
+- 源码仓库：git+ssh://git@github.com/cristianbgp/random-emoji.git
+- npm 页面：https://www.npmjs.com/package/@cristianbgp/random-emoji
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @cristianbgp/random-emoji`
+- npm registry：https://registry.npmjs.org/@cristianbgp/random-emoji

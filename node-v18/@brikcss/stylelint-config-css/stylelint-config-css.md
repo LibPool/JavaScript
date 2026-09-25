@@ -28,7 +28,6 @@ CSS stylelint shareable configuration by brikcss.
 - 0.2.1
 - 0.2.2
 - 1.0.0
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

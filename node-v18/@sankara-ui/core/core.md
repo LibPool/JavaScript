@@ -1,0 +1,33 @@
+# @sankara-ui/core
+
+> 标签: JavaScript
+
+## 简介
+
+Shared UI components for sankara:interactive projects
+
+## 官网
+
+- 官网：https://github.com/sankara-interactive/sankara-ui#readme
+- 源码仓库：git+https://github.com/sankara-interactive/sankara-ui.git
+- npm 页面：https://www.npmjs.com/package/@sankara-ui/core
+
+## 历史版本号
+
+- 当前版本：0.9.0
+
+- 0.1.0
+- 0.2.0
+- 0.3.0
+- 0.4.0
+- 0.5.0
+- 0.6.0
+- 0.7.0
+- 0.8.0
+- 0.9.0
+
+## 获取地址
+
+- npm 安装：`npm install @sankara-ui/core`
+- npm registry：https://registry.npmjs.org/@sankara-ui/core
+- Node 要求：>=22.14.0

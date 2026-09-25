@@ -28,7 +28,6 @@ TypeScript definitions for cordova
 - 11.0.1
 - 11.0.2
 - 11.0.3
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

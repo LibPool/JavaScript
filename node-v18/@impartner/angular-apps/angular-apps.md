@@ -27,7 +27,6 @@ This package contains [Angular](https://angular.io/) components, services, and t
 - 4.5.0
 - 4.5.1
 - 4.6.0
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

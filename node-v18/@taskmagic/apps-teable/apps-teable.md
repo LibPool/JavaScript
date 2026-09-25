@@ -1,0 +1,24 @@
+# @taskmagic/apps-teable
+
+> 标签: JavaScript
+
+## 简介
+
+Read and write records in [Teable](https://teable.ai), the no-code database built on Postgres — API docs: https://help.teable.ai/en/api-doc/overview
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@taskmagic/apps-teable
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @taskmagic/apps-teable`
+- npm registry：https://registry.npmjs.org/@taskmagic/apps-teable

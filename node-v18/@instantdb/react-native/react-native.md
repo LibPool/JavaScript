@@ -16,19 +16,19 @@ Instant DB for React Native
 
 - 当前版本：1.0.67
 
-- 1.0.7
-- 1.0.7-branch-add-vite-react.24533638629.1
-- 1.0.7-branch-add-vite-react.24534036974.1
-- 1.0.7-branch-add-vite-react.24534277601.1
-- 1.0.7-branch-add-vite-react.24535570732.1
-- 1.0.7-branch-drewh-fix-node-25-warning.24538360126.1
-- 1.0.7-branch-drewh-github-oauth-cli-control.24537929513.1
-- 1.0.8
-- 1.0.8-branch-drewh-fix-node-25-warning.24538367992.1
-- 1.0.9
-- 1.0.9-branch-fix-algolia.24547910742.1
-- 1.0.9-branch-rate-limit.24546610202.1
-- 共 3397 个版本，完整清单见 npm registry。
+- 1.0.64-branch-codex-indexeddb-explicit-commit.31429020112.1
+- 1.0.64-branch-idb-per-mutation-storage.31430292231.1
+- 1.0.64-branch-prefetch-downloads.31520223411.1
+- 1.0.65
+- 1.0.65-branch-disable-prefetch.32765368412.1
+- 1.0.65-branch-disable-prefetch.32771708048.1
+- 1.0.65-branch-disable-prefetch.32772433293.1
+- 1.0.66
+- 1.0.66-branch-disable-prefetch.32883253697.1
+- 1.0.66-branch-self-host-devtool.33396625506.1
+- 1.0.67
+- 1.0.67-branch-self-host-devtool.33398715032.1
+- 共 3,397 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

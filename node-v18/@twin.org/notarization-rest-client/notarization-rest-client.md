@@ -28,7 +28,6 @@ HTTP client for calling notarization service endpoints from applications.
 - 0.9.2-next.2
 - 0.9.2-next.3
 - 0.9.3-next.1
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

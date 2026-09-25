@@ -28,7 +28,6 @@ Modern and scalable routing for React applications
 - 1.120.7
 - 1.120.8
 - 1.120.9
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

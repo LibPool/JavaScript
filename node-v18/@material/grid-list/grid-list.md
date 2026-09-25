@@ -16,15 +16,15 @@ The Material Components for the web grid list component
 
 - 当前版本：4.0.0
 
+- 5.0.0-canary.d07c78daa.0
+- 5.0.0-canary.d1be53a2e.0
+- 5.0.0-canary.d405af26b.0
+- 5.0.0-canary.d4ea9a706.0
+- 5.0.0-canary.e2e764f7c.0
 - 5.0.0-canary.e8a993677.0
 - 5.0.0-canary.ebc296937.0
-- 5.0.0-canary.ec26e799c.0
-- 5.0.0-canary.ec729683b.0
-- 5.0.0-canary.ec9f16578.0
 - 5.0.0-canary.f16f15b8f.0
-- 5.0.0-canary.f1a2581ab.0
 - 5.0.0-canary.f7abc7a43.0
-- 5.0.0-canary.f978109c3.0
 - 5.0.0-canary.faa9af310.0
 - 5.0.0-canary.fe1f3ca07.0
 - 5.0.0-canary.fe3ffd2c3.0

@@ -28,7 +28,6 @@ Evervault react native sdk
 - 1.4.3
 - 1.4.4
 - 1.4.5
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

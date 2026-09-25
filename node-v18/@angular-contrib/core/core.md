@@ -27,7 +27,6 @@ Angular extensions powered by community.
 - 0.0.5
 - 0.0.6
 - 0.0.7
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

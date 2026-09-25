@@ -28,7 +28,6 @@ Swipeable list component for React
 - 1.0.0
 - 1.0.1
 - 1.0.2
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

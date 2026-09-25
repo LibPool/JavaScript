@@ -1,0 +1,26 @@
+# @vyredo/opfs-cache-storage
+
+> 标签: browser, cache, cache-storage, opfs, storage, typescript
+
+## 简介
+
+CacheStorage-like API backed by the Origin Private File System (OPFS)
+
+## 官网
+
+- 官网：https://github.com/vyredo/HeroVideo#readme
+- 源码仓库：git+https://github.com/vyredo/HeroVideo.git
+- npm 页面：https://www.npmjs.com/package/@vyredo/opfs-cache-storage
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @vyredo/opfs-cache-storage`
+- npm registry：https://registry.npmjs.org/@vyredo/opfs-cache-storage
+- Node 要求：>=18.0.0

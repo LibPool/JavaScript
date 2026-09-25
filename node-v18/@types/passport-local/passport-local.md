@@ -28,7 +28,6 @@ TypeScript definitions for passport-local
 - 1.0.36
 - 1.0.37
 - 1.0.38
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

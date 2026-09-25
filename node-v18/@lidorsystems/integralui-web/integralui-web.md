@@ -28,7 +28,6 @@ IntegralUI Web - Advanced UI Components for Angular
 - 20.1.0
 - 20.2.0
 - 20.2.1
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

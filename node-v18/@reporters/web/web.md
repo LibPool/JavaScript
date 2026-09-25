@@ -28,7 +28,6 @@ A self-contained, interactive HTML tree reporter for `node:test`
 - 3.5.1
 - 3.5.2
 - 3.5.3
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

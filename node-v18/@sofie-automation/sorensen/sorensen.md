@@ -28,7 +28,6 @@ A modern, i18n-friendly hotkey library for the Web
 - 1.5.11
 - 1.5.11-nightly-main-20251020-171007-9ecdd80
 - 1.5.8
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

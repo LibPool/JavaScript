@@ -28,7 +28,6 @@ Create custom Gutenberg blocks from the HTML templates you already have.
 - 2.3.0
 - 2.4.0
 - 2.5.0
-- 共 49 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

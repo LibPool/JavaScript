@@ -28,7 +28,6 @@ Standalone HTTP sidecar wrapping the Pi coding agent SDK
 - 4.3.9
 - 4.4.0
 - 4.4.1
-- 共 44 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

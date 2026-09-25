@@ -16,19 +16,19 @@ A small, opinionated build script for libraries that target both React Native an
 
 - 当前版本：2.7.7
 
-- 3.0.0-beta.804.1
-- 3.0.0-beta.806.1
-- 3.0.0-beta.807.1
-- 3.0.0-beta.831.1
-- 3.0.0-beta.881.1
-- 3.0.0-beta.889.1
-- 3.0.0-beta.891.1
-- 3.0.0-beta.901.1
-- 3.0.0-beta.907.1
-- 3.0.0-beta.917.1
-- 3.0.0-beta.922.1
-- 3.0.0-beta.924.1
-- 共 1866 个版本，完整清单见 npm registry。
+- 3.0.0-beta.1398.1
+- 3.0.0-beta.1401.1
+- 3.0.0-beta.1402.1
+- 3.0.0-beta.1403.1
+- 3.0.0-beta.1407.1
+- 3.0.0-beta.1408.1
+- 3.0.0-beta.1411.1
+- 3.0.0-beta.1412.1
+- 3.0.0-beta.1414.1
+- 3.0.0-beta.1414.2
+- 3.0.0-beta.1416.1
+- 3.0.0-beta.1419.1
+- 共 1,866 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for pouchdb-core
 - 7.0.7
 - 7.0.8
 - 7.0.9
-- 共 43 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -27,7 +27,6 @@ Jymfony Http Server
 - 0.1.0-alpha.31
 - 0.1.0-alpha.32
 - 0.1.0-alpha.9
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

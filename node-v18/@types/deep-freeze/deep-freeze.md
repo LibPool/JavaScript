@@ -28,7 +28,6 @@ TypeScript definitions for deep-freeze
 - 0.1.3
 - 0.1.4
 - 0.1.5
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

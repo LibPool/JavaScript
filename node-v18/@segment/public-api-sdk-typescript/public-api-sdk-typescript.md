@@ -28,7 +28,7 @@ NodeJS client for @segment/public-api-sdk-typescript
 - 73.3.0-b744
 - 73.4.0-b765
 - 73.4.0-b772
-- 共 1551 个版本，完整清单见 npm registry。
+- 共 1,551 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

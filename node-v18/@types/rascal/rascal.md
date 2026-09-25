@@ -28,7 +28,6 @@ TypeScript definitions for rascal
 - 10.2.0
 - 10.2.1
 - 8.0.0
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

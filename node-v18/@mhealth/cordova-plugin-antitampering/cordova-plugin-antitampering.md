@@ -1,0 +1,24 @@
+# @mhealth/cordova-plugin-antitampering
+
+> 标签: anti-tampering, cordova, cordova-android, cordova-ios, ecosystem:cordova, security, tampering
+
+## 简介
+
+Verify the integrity of cordova static assets - Android / iOS
+
+## 官网
+
+- 官网：https://github.com/duddu/cordova-plugin-antitampering#readme
+- 源码仓库：git+https://github.com/duddu/cordova-plugin-antitampering.git
+- npm 页面：https://www.npmjs.com/package/@mhealth/cordova-plugin-antitampering
+
+## 历史版本号
+
+- 当前版本：0.4.1
+
+- 0.4.1
+
+## 获取地址
+
+- npm 安装：`npm install @mhealth/cordova-plugin-antitampering`
+- npm registry：https://registry.npmjs.org/@mhealth/cordova-plugin-antitampering

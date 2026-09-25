@@ -28,7 +28,6 @@ TypeScript extension for Yellicode - an extensible code generator.
 - 1.8.1
 - 1.8.2
 - 1.9.0
-- 共 46 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

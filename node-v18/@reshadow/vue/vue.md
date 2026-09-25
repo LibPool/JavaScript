@@ -28,7 +28,6 @@ reshadow vue
 - 0.0.2-alpha.0
 - 0.1.0-canary.3
 - 0.1.0-canary.5
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -1,0 +1,35 @@
+# @flexilte/core
+
+> 标签: component, component-library, components, components-library, svelte, sveltekit, tailwind, tailwindcss, ui, ui-components, ui-framework
+
+## 简介
+
+A SvelteKit layout library.
+
+## 官网
+
+- 官网：https://flexilte.github.io
+- 源码仓库：git+https://github.com/flexilte/flexilte.git
+- npm 页面：https://www.npmjs.com/package/@flexilte/core
+
+## 历史版本号
+
+- 当前版本：3.3.0
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.2.0
+- 2.0.0
+- 3.0.0
+- 3.1.0
+- 3.2.0
+- 3.2.1
+- 3.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @flexilte/core`
+- npm registry：https://registry.npmjs.org/@flexilte/core

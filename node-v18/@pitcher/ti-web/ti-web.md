@@ -28,7 +28,6 @@ Ti layer simulation for web browsers
 - 2.2.2
 - 2.3.0
 - 2.4.0
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

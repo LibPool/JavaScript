@@ -28,7 +28,6 @@ Node development utilities for Tileflow configs and builds.
 - 0.1.0-alpha.6
 - 0.1.0-alpha.7
 - 0.1.0-alpha.8
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

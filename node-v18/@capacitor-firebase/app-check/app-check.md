@@ -28,7 +28,6 @@ Capacitor plugin for Firebase App Check on Android, iOS, and Web.
 - 8.5.0
 - 8.5.1
 - 8.5.2
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

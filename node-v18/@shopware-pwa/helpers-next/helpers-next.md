@@ -1,0 +1,36 @@
+# @shopware-pwa/helpers-next
+
+> 标签: api, helpers, shopware
+
+## 简介
+
+[DEPRECATED] Use @shopware/helpers instead. Shopware helpers for accessing API data
+
+## 官网
+
+- 官网：https://frontends.shopware.com/packages/helpers.html
+- 源码仓库：git+https://github.com/shopware/frontends.git
+- npm 页面：https://www.npmjs.com/package/@shopware-pwa/helpers-next
+
+## 历史版本号
+
+- 当前版本：1.3.0
+
+- 0.0.0-canary-20241206100003
+- 0.0.0-canary-20241206115245
+- 0.0.0-canary-20241209121010
+- 0.0.0-canary-20241209125200
+- 0.0.0-canary-20241210091720
+- 0.0.0-canary-20241210093704
+- 0.0.0-canary-20250116161356
+- 1.0.1
+- 1.0.2
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 共 634 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @shopware-pwa/helpers-next`
+- npm registry：https://registry.npmjs.org/@shopware-pwa/helpers-next

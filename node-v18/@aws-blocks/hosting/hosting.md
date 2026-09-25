@@ -28,7 +28,6 @@ Low-level CDK L3 constructs for deploying web applications on AWS (CloudFront, S
 - 0.2.0
 - 0.3.0
 - 0.3.1
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

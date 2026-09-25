@@ -28,7 +28,6 @@ A babel preset to automatically enable emotion's css prop
 - 11.11.0
 - 11.12.0
 - 11.2.0
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

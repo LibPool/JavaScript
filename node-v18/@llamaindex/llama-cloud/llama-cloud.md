@@ -28,7 +28,6 @@ The official TypeScript library for the Llama Cloud API
 - 2.8.0
 - 2.9.0
 - 2.9.1
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

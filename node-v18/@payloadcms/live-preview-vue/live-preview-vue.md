@@ -16,19 +16,19 @@ The official Vue SDK for Payload Live Preview
 
 - 当前版本：3.90.1
 
-- 4.0.0-internal.e16cf59
-- 4.0.0-internal.e387174
+- 4.0.0-internal.a7ca468
+- 4.0.0-internal.aa277b8
+- 4.0.0-internal.af6aad0
+- 4.0.0-internal.b8e7c89
+- 4.0.0-internal.cc18726
+- 4.0.0-internal.d1cc1d3
+- 4.0.0-internal.dee5eab
 - 4.0.0-internal.e38d3ac
-- 4.0.0-internal.e55ccef
-- 4.0.0-internal.e7d4ebc
 - 4.0.0-internal.f05c47f
 - 4.0.0-internal.f11981a
 - 4.0.0-internal.f715c6e
-- 4.0.0-internal.f851106
-- 4.0.0-internal.fa183d3
-- 4.0.0-internal.fa345ef
 - 4.0.0-internal.fec2230
-- 共 1246 个版本，完整清单见 npm registry。
+- 共 1,246 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ HAR json typescript interfaces
 - 6.1.1
 - 7.0.0
 - 8.0.0
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Abstract base class of tko Provider (HTML <-> Data Binding linker)
 - 4.0.0-beta1.3
 - 4.0.1
 - 4.1.0
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Fast, lossless HTML→Markdown conversion with structured metadata, tables, and 
 - 3.14.1
 - 3.14.2
 - 3.14.3
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

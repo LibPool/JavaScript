@@ -28,7 +28,6 @@ Remote Media File optimization for Contfu via the m4k HTTP API.
 - 0.1.6
 - 0.1.8
 - 0.1.9
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

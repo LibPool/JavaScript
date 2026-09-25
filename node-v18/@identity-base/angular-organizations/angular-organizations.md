@@ -28,7 +28,6 @@ Angular organizations client for Identity.Base (built on @identity-base/angular-
 - 0.9.3
 - 0.9.4
 - 0.9.6
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

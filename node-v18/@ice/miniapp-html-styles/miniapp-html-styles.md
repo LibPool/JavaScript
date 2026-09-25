@@ -28,7 +28,6 @@ html styles for ice miniapp
 - 1.0.0-beta.7
 - 1.0.0-beta.8
 - 1.0.0-beta.9
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

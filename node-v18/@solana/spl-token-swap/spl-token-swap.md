@@ -28,7 +28,6 @@ SPL Token Swap JavaScript API
 - 0.4.2
 - 0.4.3
 - 0.4.4
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

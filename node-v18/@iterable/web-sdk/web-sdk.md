@@ -28,7 +28,6 @@ Iterable SDK for JavaScript and Node.
 - 2.2.2
 - 2.3.0
 - 2.3.1
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

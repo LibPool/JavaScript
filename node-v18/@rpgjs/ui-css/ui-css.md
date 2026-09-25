@@ -28,7 +28,6 @@ CSS library for RPG UI components - framework-agnostic and fully customizable
 - 5.0.0-rc.2
 - 5.0.0-rc.28
 - 5.0.0-rc.4
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

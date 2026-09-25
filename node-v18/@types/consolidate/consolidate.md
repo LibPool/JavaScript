@@ -28,7 +28,6 @@ TypeScript definitions for consolidate
 - 0.14.2
 - 0.14.3
 - 0.14.4
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

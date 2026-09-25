@@ -16,6 +16,7 @@ JustiFi Web Components
 
 - 当前版本：6.14.3
 
+- 6.5.1-rc.4
 - 6.5.1-rc.5
 - 6.5.1-rc.7
 - 6.6.0
@@ -27,7 +28,6 @@ JustiFi Web Components
 - 6.8.1
 - 6.9.0
 - 6.9.1-rc.1
-- 7.0.0
 - 共 263 个版本，完整清单见 npm registry。
 
 ## 获取地址

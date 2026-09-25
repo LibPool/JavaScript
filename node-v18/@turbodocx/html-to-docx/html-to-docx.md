@@ -28,7 +28,6 @@ HTML to DOCX converter
 - 1.9.7
 - 1.9.8
 - 1.9.9
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

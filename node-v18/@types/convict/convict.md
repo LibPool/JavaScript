@@ -28,7 +28,6 @@ TypeScript definitions for convict
 - 6.1.4
 - 6.1.5
 - 6.1.6
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

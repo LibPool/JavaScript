@@ -28,7 +28,6 @@ Accept HTTP requests over libp2p streams or use libp2p protocols over HTTP
 - 2.0.4
 - 2.0.5
 - 2.0.6
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

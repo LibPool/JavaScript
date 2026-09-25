@@ -28,7 +28,6 @@ TypeScript definitions for angular-breadcrumb
 - 0.4.26
 - 0.4.4-alpha
 - 0.4.5-alpha
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

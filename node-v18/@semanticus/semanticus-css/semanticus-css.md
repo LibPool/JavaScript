@@ -28,7 +28,6 @@ lightweight CSS framework that prioritizes semantic HTML and ARIA-focused access
 - 3.1.3
 - 3.2.0
 - 3.2.1
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

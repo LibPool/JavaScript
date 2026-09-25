@@ -28,7 +28,6 @@ TypeScript Contracts Generator is an utility for generating contracts/clients/sc
 - 1.1.1
 - 1.1.2
 - 1.1.3
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

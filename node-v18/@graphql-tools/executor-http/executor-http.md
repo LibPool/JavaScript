@@ -28,7 +28,7 @@ A set of utils for faster development of GraphQL tools
 - 3.4.1-alpha-bdaf58055541ac4be711541d8853b1da29c55f59
 - 3.4.1-rc-2c59234b69d3c5864a49d5b9f93d718e60b466c8
 - 3.4.1-rc-e1e3a1170a0847a00d4673376178525f92abf760
-- 共 2277 个版本，完整清单见 npm registry。
+- 共 2,277 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

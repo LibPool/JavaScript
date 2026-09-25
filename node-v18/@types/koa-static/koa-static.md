@@ -28,7 +28,6 @@ TypeScript definitions for koa-static
 - 4.0.2
 - 4.0.3
 - 4.0.4
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

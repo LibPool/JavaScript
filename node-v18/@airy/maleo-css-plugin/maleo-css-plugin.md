@@ -27,7 +27,6 @@ CSS support for [Maleo](https://github.com/airyrooms/maleo.js) capable of extrac
 - 0.1.8
 - 0.1.9
 - 1.0.0
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -27,7 +27,6 @@ Browser SDK for AI App Bridge Web sessions.
 - 0.3.8
 - 0.4.0
 - 0.4.1
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Angular bindings for Hashbrown AI
 - 0.5.0-beta.2
 - 0.5.0-beta.3
 - 0.5.0-beta.4
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

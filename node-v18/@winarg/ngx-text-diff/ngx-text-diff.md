@@ -28,7 +28,6 @@ A Text Diff component for Angular.
 - 20.0.0
 - 20.0.1
 - 21.0.0
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

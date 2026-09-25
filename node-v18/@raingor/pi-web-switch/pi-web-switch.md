@@ -28,7 +28,6 @@ Web UI for pi coding agent — live configuration management, session browser, a
 - 0.9.7
 - 0.9.8
 - 0.9.9
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

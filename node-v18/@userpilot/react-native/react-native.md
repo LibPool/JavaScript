@@ -28,7 +28,6 @@ Userpilot React Native Module for Android and iOS mobile apps
 - 1.1.0
 - 1.1.1
 - 1.2.0
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

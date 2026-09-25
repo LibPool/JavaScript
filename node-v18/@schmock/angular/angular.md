@@ -28,7 +28,6 @@ Angular HTTP interceptor adapter for Schmock
 - 2.3.1
 - 2.4.0
 - 2.4.1
-- 共 45 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -16,7 +16,9 @@ AWS credential provider that calls STS assumeRole for temporary AWS credentials
 
 - 当前版本：3.972.78
 
-- 3.972.7
+- 3.972.67
+- 3.972.68
+- 3.972.69
 - 3.972.70
 - 3.972.71
 - 3.972.72
@@ -26,8 +28,6 @@ AWS credential provider that calls STS assumeRole for temporary AWS credentials
 - 3.972.76
 - 3.972.77
 - 3.972.78
-- 3.972.8
-- 3.972.9
 - 共 339 个版本，完整清单见 npm registry。
 
 ## 获取地址

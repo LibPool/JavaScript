@@ -15,19 +15,19 @@ SheerID JavaScript Library
 
 - 当前版本：2.230.0-alpha.0
 
-- 2.98.0-alpha.6
-- 2.98.0-alpha.7
-- 2.98.0-alpha.8
-- 2.98.0-alpha.9
-- 2.99.0-alpha.0
-- 2.99.0-alpha.1
-- 2.99.0-alpha.2
-- 2.99.0-alpha.3
-- 2.99.0-alpha.4
-- 2.99.0-alpha.5
-- 2.99.0-alpha.6
-- 2.99.0-alpha.7
-- 共 6417 个版本，完整清单见 npm registry。
+- 2.288.0-alpha.0
+- 2.288.0-alpha.1
+- 2.288.0-alpha.2
+- 2.288.0-alpha.3
+- 2.289.0-alpha.0
+- 2.289.0-alpha.1
+- 2.289.0-alpha.2
+- 2.289.0-preview.1507
+- 2.290.0-preview.1508
+- 2.290.0-preview.1509
+- 2.295.0-preview.1513
+- 2.295.0-preview.1514
+- 共 6,417 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,7 @@ Functional JavaScript helpers
 - 8.4.0-canary-20260922084122
 - 8.4.0-canary-20260922151509
 - 8.4.0-canary-20260922155338
-- 共 2322 个版本，完整清单见 npm registry。
+- 共 2,322 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

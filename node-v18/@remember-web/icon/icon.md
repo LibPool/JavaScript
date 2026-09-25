@@ -28,7 +28,6 @@ Remember Web Icons
 - 0.6.2
 - 0.6.3
 - 0.6.4
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

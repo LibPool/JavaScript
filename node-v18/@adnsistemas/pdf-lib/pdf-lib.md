@@ -28,7 +28,6 @@ Create and modify PDF files with JavaScript
 - 2.8.1
 - 2.9.0
 - 2.9.1
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

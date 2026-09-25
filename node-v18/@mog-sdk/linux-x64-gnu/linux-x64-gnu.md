@@ -28,7 +28,6 @@ Native binary for @mog-sdk/sdk Node runtime (Linux x64, glibc)
 - 0.9.4
 - 0.9.5
 - 0.9.6
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

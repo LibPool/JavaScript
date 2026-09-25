@@ -28,7 +28,6 @@ Default theme for Marko Mindful Web websites
 - 1.83.2
 - 1.89.2
 - 1.92.0
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

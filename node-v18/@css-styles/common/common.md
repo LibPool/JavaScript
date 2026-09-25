@@ -28,7 +28,6 @@ Css common classes and utilities
 - 2.0.0-beta.20250613074421
 - 2.0.1
 - 2.0.1-beta.20251113132937
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

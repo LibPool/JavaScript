@@ -28,7 +28,7 @@ This library provides a set of React chart components for use with the PatternFl
 - 8.6.1-prerelease.1
 - 8.6.1-prerelease.2
 - 8.6.1-prerelease.3
-- 共 1171 个版本，完整清单见 npm registry。
+- 共 1,171 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

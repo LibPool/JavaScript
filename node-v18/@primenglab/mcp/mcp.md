@@ -1,0 +1,25 @@
+# @primenglab/mcp
+
+> 标签: ai, angular, components, llm, mcp, model-context-protocol, primeng
+
+## 简介
+
+Model Context Protocol (MCP) server for PrimeNg component library
+
+## 官网
+
+- 官网：https://primeng.org/
+- 源码仓库：git+https://github.com/primefaces/primeng.git
+- npm 页面：https://www.npmjs.com/package/@primenglab/mcp
+
+## 历史版本号
+
+- 当前版本：22.0.0-beta.1
+
+- 22.0.0-beta.1
+
+## 获取地址
+
+- npm 安装：`npm install @primenglab/mcp`
+- npm registry：https://registry.npmjs.org/@primenglab/mcp
+- Node 要求：>=12.11.0

@@ -28,7 +28,6 @@ Autocomplete input component and directive for google-maps built with angular an
 - 9.0.1
 - 9.0.2
 - 9.0.3
-- 共 45 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

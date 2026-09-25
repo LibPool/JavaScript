@@ -28,7 +28,6 @@ TypeScript definitions for nprogress
 - 100.0.24-alpha
 - 100.0.25-alpha
 - 100.0.26-alpha
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

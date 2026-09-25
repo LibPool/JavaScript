@@ -28,7 +28,6 @@ Project initializer for cross-platform Tailwind CSS with weapp-tailwindcss. 用�
 - 1.0.8-alpha.0
 - 1.0.9
 - 2.0.0
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

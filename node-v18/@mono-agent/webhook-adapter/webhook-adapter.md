@@ -16,9 +16,9 @@ HTTP webhook invocation adapter for agent responders.
 
 - 当前版本：0.23.0
 
+- 0.21.1
+- 0.22.0
 - 0.23.0
-- 0.3.0
-- 0.4.0
 - 0.4.1
 - 0.5.0
 - 0.5.1

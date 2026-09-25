@@ -28,7 +28,6 @@ State-based routing for Angular
 - 9.0.0
 - 9.0.1
 - 9.1.0
-- 共 44 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Isomorphic library to provide a sandboxed node fs implementation for Node and Br
 - 0.8.5
 - 0.9.0
 - 0.9.1
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

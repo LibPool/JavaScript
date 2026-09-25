@@ -28,7 +28,6 @@ TypeScript definitions for angular-scenario
 - 1.3.33
 - 1.3.34
 - 1.3.35
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

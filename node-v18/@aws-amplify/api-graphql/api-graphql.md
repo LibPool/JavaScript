@@ -16,8 +16,8 @@ Api-graphql category of aws-amplify
 
 - 当前版本：4.10.0
 
-- 4.8.9-unstable-c4b1ba1-20260623114726
-- 4.8.9-unstable-ebff069-20260709092121
+- 4.8.9-unstable-aaeb630-20260714140906
+- 4.8.9-unstable-b329703-20260720140012
 - 4.8.9-unstable-ee55509-20260721090843
 - 4.8.9-unstable-eed1462-20260714133807
 - 4.9.0-unstable-556185e-20260909130940
@@ -28,7 +28,7 @@ Api-graphql category of aws-amplify
 - 4.9.1-unstable-d8f5356-20260918081218
 - 4.9.1-unstable-f87199a-20260917111111
 - 4.9.1-unstable-fb070dd-20260917114301
-- 共 2016 个版本，完整清单见 npm registry。
+- 共 2,016 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

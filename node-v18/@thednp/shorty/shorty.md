@@ -28,7 +28,6 @@ TypeScript shorties for the web
 - 2.0.7
 - 2.0.8
 - 2.0.9
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

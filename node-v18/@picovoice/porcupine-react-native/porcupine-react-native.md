@@ -28,7 +28,6 @@ Picovoice Porcupine React Native binding
 - 3.0.4
 - 3.0.5
 - 4.0.0
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

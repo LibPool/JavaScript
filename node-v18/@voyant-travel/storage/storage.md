@@ -28,7 +28,6 @@ Vendor-neutral object storage contracts and built-in Node providers for Voyant.
 - 0.114.0
 - 0.115.0
 - 0.115.1
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

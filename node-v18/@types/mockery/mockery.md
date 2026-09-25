@@ -28,7 +28,6 @@ TypeScript definitions for mockery
 - 1.4.31
 - 1.4.32
 - 1.4.33
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

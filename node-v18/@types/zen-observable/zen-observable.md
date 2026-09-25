@@ -28,7 +28,6 @@ TypeScript definitions for zen-observable
 - 0.8.5
 - 0.8.6
 - 0.8.7
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

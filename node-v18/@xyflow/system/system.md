@@ -16,14 +16,14 @@ xyflow core system that powers React Flow and Svelte Flow.
 
 - 当前版本：0.0.82
 
+- 0.0.75
+- 0.0.76
 - 0.0.77
 - 0.0.78
 - 0.0.79
-- 0.0.8
 - 0.0.80
 - 0.0.81
 - 0.0.82
-- 0.0.9
 - 1.0.0-next.0
 - 1.0.0-next.1
 - 1.0.0-next.2

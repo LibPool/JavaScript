@@ -16,18 +16,18 @@ Developer tools for React Navigation
 
 - 当前版本：7.1.15
 
+- 8.0.0-alpha.27
+- 8.0.0-alpha.29
+- 8.0.0-alpha.30
+- 8.0.0-alpha.31
+- 8.0.0-alpha.32
+- 8.0.0-alpha.33
 - 8.0.0-alpha.34
 - 8.0.0-alpha.35
 - 8.0.0-alpha.36
 - 8.0.0-alpha.37
 - 8.0.0-alpha.38
 - 8.0.0-alpha.39
-- 8.0.0-alpha.4
-- 8.0.0-alpha.5
-- 8.0.0-alpha.6
-- 8.0.0-alpha.7
-- 8.0.0-alpha.8
-- 8.0.0-alpha.9
 - 共 226 个版本，完整清单见 npm registry。
 
 ## 获取地址

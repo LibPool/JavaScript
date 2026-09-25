@@ -28,7 +28,6 @@ Keg common javascript utils
 - 9.8.2
 - 9.8.3
 - 9.9.0
-- 共 48 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

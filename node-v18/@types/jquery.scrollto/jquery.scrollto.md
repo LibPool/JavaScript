@@ -28,7 +28,6 @@ TypeScript definitions for jquery.scrollto
 - 1.4.30
 - 1.4.31
 - 1.4.32
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

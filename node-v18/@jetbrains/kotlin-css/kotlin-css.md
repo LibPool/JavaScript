@@ -28,7 +28,6 @@ Platform-agnostic CSS primitives (common module)
 - 1.0.0-pre.83
 - 1.0.0-pre.89
 - 1.0.0-pre.91
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

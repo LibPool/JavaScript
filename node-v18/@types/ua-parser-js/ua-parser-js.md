@@ -28,7 +28,6 @@ TypeScript definitions for ua-parser-js
 - 0.7.37
 - 0.7.38
 - 0.7.39
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

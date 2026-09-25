@@ -28,7 +28,6 @@ Blake2b (64-bit version) in pure JavaScript
 - 3.2.2
 - 3.2.3
 - 3.2.4
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -16,7 +16,7 @@ The node polyfill plugin of Modern.js Module
 
 - 当前版本：2.70.4
 
-- 2.69.7
+- 0.0.0-nightly-20260203160345
 - 2.70.0
 - 2.70.1
 - 2.70.2
@@ -28,7 +28,7 @@ The node polyfill plugin of Modern.js Module
 - 2.70.8
 - 2.71.0
 - 2.71.1
-- 共 2641 个版本，完整清单见 npm registry。
+- 共 2,641 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

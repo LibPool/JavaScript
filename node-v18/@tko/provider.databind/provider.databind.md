@@ -28,7 +28,6 @@ Link HTML attributes based on a `data-bind` HTML attribute
 - 4.0.0-beta1.6
 - 4.0.1
 - 4.1.0
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Use the color-mix function in CSS
 - 4.0.7
 - 4.0.8
 - 4.0.9
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

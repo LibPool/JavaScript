@@ -28,7 +28,6 @@ Manage state with style in React
 - 3.8.0
 - 3.9.0
 - 3.9.1
-- 共 48 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

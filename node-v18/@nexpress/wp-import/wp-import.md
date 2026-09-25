@@ -28,7 +28,6 @@ WordPress (WXR) importer for NexPress — HTML to Lexical conversion, media pipe
 - 0.4.5
 - 0.4.6
 - 0.5.0
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

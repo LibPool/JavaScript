@@ -28,7 +28,6 @@ Convert HTML reports to print-ready PDFs
 - 0.3.0
 - 0.4.0
 - 0.4.1
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

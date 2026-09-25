@@ -28,7 +28,6 @@ A CLI to search and fetch the web
 - 1.0.0
 - 1.0.1
 - 1.0.2
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

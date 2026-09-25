@@ -16,13 +16,13 @@ Synchronous key/value persistence over a swappable web/native backend (localStor
 
 - 当前版本：0.4.0
 
-- 0.5.1-next.904.b545d9c
-- 0.5.1-next.905.5fbf787
-- 0.5.1-next.906.419e5c9
-- 0.5.1-next.908.b072fbc
-- 0.5.1-next.909.a5d1857
-- 0.5.1-next.911.32a089f
-- 0.5.1-next.912.289aaa0
+- 0.5.1-next.1344.b88acc1
+- 0.5.1-next.1345.0995dc5
+- 0.5.1-next.1347.54f97d8
+- 0.5.1-next.1348.e71a747
+- 0.5.1-next.1349.05b053d
+- 0.5.1-next.1350.8ce488b
+- 0.5.1-next.1370.903f328
 - 0.5.1-next.914.ed01add
 - 0.5.1-next.915.d4da7e7
 - 0.5.1-next.919.354c575

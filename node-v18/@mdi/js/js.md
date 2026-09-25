@@ -28,7 +28,6 @@ Dist for Material Design Icons for JS/TypeScript
 - 7.2.96
 - 7.3.67
 - 7.4.47
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

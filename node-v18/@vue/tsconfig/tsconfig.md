@@ -28,7 +28,6 @@ A base TSConfig for working with Vue.js
 - 0.8.1
 - 0.9.0
 - 0.9.1
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

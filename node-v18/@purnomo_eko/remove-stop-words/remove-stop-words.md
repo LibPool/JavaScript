@@ -1,0 +1,27 @@
+# @purnomo_eko/remove-stop-words
+
+> 标签: english, search-query, stop-words
+
+## 简介
+
+Remove stop words from search query
+
+## 官网
+
+- 官网：https://github.com/purnomoeko/stop-words#readme
+- 源码仓库：git+ssh://git@github.com/purnomoeko/stop-words.git
+- npm 页面：https://www.npmjs.com/package/@purnomo_eko/remove-stop-words
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @purnomo_eko/remove-stop-words`
+- npm registry：https://registry.npmjs.org/@purnomo_eko/remove-stop-words

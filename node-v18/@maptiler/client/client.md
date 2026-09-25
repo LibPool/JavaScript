@@ -28,7 +28,6 @@ Javascript & Typescript wrapper to MapTiler Cloud API
 - 3.1.0-rc.6
 - 4.0.0-rc.1
 - 4.0.0-rc.2
-- 共 45 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

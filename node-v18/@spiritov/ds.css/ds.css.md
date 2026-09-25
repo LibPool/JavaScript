@@ -28,7 +28,6 @@ A css framework recreating the DS Lite's UI
 - 2.7.2
 - 2.7.3
 - 2.7.4
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -16,16 +16,16 @@ Lowdefy logging utilities for node, cli, and browser
 
 - 当前版本：6.0.0
 
-- 4.7.1
-- 4.7.2
-- 4.7.3
-- 5.0.0
-- 5.1.0
-- 5.2.0
-- 5.3.0
-- 5.4.0
-- 5.5.0
-- 5.5.1
+- 0.0.0-experimental-20260908113207
+- 0.0.0-experimental-20260908140341
+- 0.0.0-experimental-20260908154018
+- 0.0.0-experimental-20260909123240
+- 0.0.0-experimental-20260909201552
+- 0.0.0-experimental-20260910082708
+- 0.0.0-experimental-20260911113654
+- 0.0.0-experimental-20260911131031
+- 0.0.0-experimental-20260914123122
+- 0.0.0-experimental-20260914131506
 - 5.6.0
 - 6.0.0
 - 共 239 个版本，完整清单见 npm registry。

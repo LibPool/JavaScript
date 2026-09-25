@@ -1,0 +1,36 @@
+# @omnid/react-native
+
+> 标签: digital, ethereum, identity, knowledge, privacy, web3, zero, zk
+
+## 简介
+
+React Native Hooks and Components to build on omnid.io
+
+## 官网
+
+- 官网：https://github.com/anudit/omnid/tree/main/react
+- 源码仓库：git+https://github.com/anudit/omnid.git
+- npm 页面：https://www.npmjs.com/package/@omnid/react-native
+
+## 历史版本号
+
+- 当前版本：0.1.20
+
+- 0.1.17
+- 0.1.18
+- 0.1.19
+- 0.1.2
+- 0.1.20
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install @omnid/react-native`
+- npm registry：https://registry.npmjs.org/@omnid/react-native
+- Node 要求：>=18

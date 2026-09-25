@@ -28,7 +28,6 @@ Plugin for @wolfstar/http-framework adding i18next-powered internationalization 
 - 2.0.3-next-20260912190410
 - 2.0.4
 - 2.0.4-next-20260917165217
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

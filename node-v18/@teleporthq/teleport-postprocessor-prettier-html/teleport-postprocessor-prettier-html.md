@@ -16,18 +16,18 @@ A post-processing function that formats html code chunks using prettier and the 
 
 - 当前版本：0.43.67
 
+- 0.43.51
+- 0.43.53
+- 0.43.54
+- 0.43.57
+- 0.43.59
+- 0.43.60
+- 0.43.61
+- 0.43.62
 - 0.43.63
 - 0.43.65
 - 0.43.66
 - 0.43.67
-- 0.44.0-alpha.0
-- 0.45.1-alpha.0
-- 0.45.3-alpha.0
-- 0.45.5-alpha.0
-- 0.7.0
-- 0.8.0
-- 0.8.1
-- 0.9.0
 - 共 153 个版本，完整清单见 npm registry。
 
 ## 获取地址

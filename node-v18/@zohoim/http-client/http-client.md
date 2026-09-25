@@ -27,7 +27,6 @@ To have the http client
 - 1.0.0-poc7
 - 1.0.0-poc8
 - 1.0.0-poc9
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

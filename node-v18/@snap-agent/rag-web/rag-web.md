@@ -28,7 +28,6 @@ Web RAG plugin for SnapAgent SDK - Schema-agnostic content search via web crawli
 - 0.6.0
 - 0.7.0
 - 0.7.1
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

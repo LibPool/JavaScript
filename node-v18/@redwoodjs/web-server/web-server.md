@@ -16,19 +16,19 @@ Redwood's server for the Web side
 
 - 当前版本：8.9.0
 
-- 9.0.0-canary.7
-- 9.0.0-canary.8
-- 9.0.0-canary.81
-- 9.0.0-canary.86
-- 9.0.0-canary.90
-- 9.0.0-canary.91
-- 9.0.0-canary.92
-- 9.0.0-canary.93
-- 9.0.0-canary.94
-- 9.0.0-canary.95
-- 9.0.0-canary.98
-- 9.0.0-canary.99
-- 共 2096 个版本，完整清单见 npm registry。
+- 9.0.0-canary.472
+- 9.0.0-canary.473
+- 9.0.0-canary.474
+- 9.0.0-canary.476
+- 9.0.0-canary.480
+- 9.0.0-canary.481
+- 9.0.0-canary.482
+- 9.0.0-canary.485
+- 9.0.0-canary.486
+- 9.0.0-canary.487
+- 9.0.0-canary.488
+- 9.0.0-canary.489
+- 共 2,096 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

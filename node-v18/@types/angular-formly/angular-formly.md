@@ -28,7 +28,6 @@ TypeScript definitions for angular-formly
 - 7.2.38
 - 7.2.39
 - 7.2.40
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

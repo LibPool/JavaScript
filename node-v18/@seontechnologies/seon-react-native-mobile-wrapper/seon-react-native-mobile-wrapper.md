@@ -28,7 +28,6 @@ SEON Mobile SDK React Native Wrapper
 - 3.3.3
 - 3.3.4
 - 3.4.0
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for send
 - 0.17.6
 - 1.2.0
 - 1.2.1
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

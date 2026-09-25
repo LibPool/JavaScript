@@ -28,7 +28,6 @@ React lifecycle controlled motion library
 - 1.3.1
 - 1.3.2
 - 1.3.3
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

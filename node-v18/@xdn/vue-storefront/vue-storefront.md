@@ -27,7 +27,7 @@ XDN connector for Vue Storefront v2+
 - 2.53.6-next-1641895591-f1d5f1649.0
 - 2.53.7-next-1641893132-22be18a83.0
 - 2.53.7-next-1641895574-4891585a6.0
-- 共 1177 个版本，完整清单见 npm registry。
+- 共 1,177 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

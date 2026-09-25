@@ -28,7 +28,6 @@ A Angular component library for enhanced LLM display and interaction
 - 1.4.0-alpha.0
 - 1.4.0-alpha.1
 - 1.4.0-alpha.2
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

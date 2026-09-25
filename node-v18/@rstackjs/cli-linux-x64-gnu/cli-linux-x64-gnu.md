@@ -28,7 +28,6 @@ One CLI for JavaScript development, powered by Rstack.
 - 0.7.5
 - 0.7.6
 - 0.8.0
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

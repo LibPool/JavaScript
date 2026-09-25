@@ -28,7 +28,6 @@ Mobile and Web client for Claude Code and Codex
 - 1.2.2-main.6.sha.5c4c36f8b2bf
 - 1.2.2-main.7.sha.5c4c36f8b2bf
 - 1.2.2-main.8.sha.59616004524
-- 共 42 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

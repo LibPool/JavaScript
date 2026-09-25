@@ -16,16 +16,16 @@ Official React wrapper for the SuperDoc document editor
 
 - 当前版本：2.12.0
 
-- 2.9.0-next.2
-- 2.9.0-next.3
-- 2.9.0-next.4
-- 2.9.0-next.5
-- 2.9.0-next.6
-- 2.9.0-next.7
-- 2.9.0-next.8
-- 2.9.0-next.9
-- 2.9.1-next.1
-- 2.9.1-next.2
+- 2.11.1-next.6
+- 2.11.1-next.7
+- 2.11.1-next.8
+- 2.11.1-next.9
+- 2.12.0
+- 2.12.0-next.1
+- 2.12.1-next.1
+- 2.12.1-next.2
+- 2.12.1-next.3
+- 2.13.0-next.1
 - 2.9.1-next.3
 - 2.9.1-next.4
 - 共 215 个版本，完整清单见 npm registry。

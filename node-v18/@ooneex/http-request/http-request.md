@@ -27,7 +27,6 @@ HTTP request abstraction with URL parsing, query parameters, language detection,
 - 1.2.6
 - 1.2.8
 - 1.2.9
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Performance testing companion for React and React Native
 - 1.5.0
 - 1.5.1
 - 1.6.0
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

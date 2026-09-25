@@ -15,8 +15,8 @@ Create plugin for [createwebsite.io](http://createwebsite.io)
 
 - 当前版本：1.0.123
 
+- 1.0.88
 - 1.0.89
-- 1.0.9
 - 1.0.90
 - 1.0.91
 - 1.0.92

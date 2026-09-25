@@ -28,7 +28,6 @@ notification ui component for react
 - 2.0.6
 - 2.0.7
 - 2.0.8
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

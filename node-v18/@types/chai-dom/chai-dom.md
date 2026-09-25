@@ -28,7 +28,6 @@ TypeScript definitions for chai-dom
 - 1.11.1
 - 1.11.2
 - 1.11.3
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

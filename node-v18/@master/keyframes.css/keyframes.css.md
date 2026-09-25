@@ -16,8 +16,8 @@ Simple and useful CSS keyframes ~304B
 
 - 当前版本：2.0.0-beta.84
 
-- 2.0.0-beta.88
-- 2.0.0-beta.89
+- 2.0.0-beta.138
+- 2.0.0-beta.139
 - 2.0.0-beta.90
 - 2.0.0-beta.91
 - 2.0.0-beta.92

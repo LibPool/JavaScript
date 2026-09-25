@@ -28,7 +28,6 @@ TypeScript definitions for react-flatpickr
 - 3.8.7
 - 3.8.8
 - 3.8.9
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

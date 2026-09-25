@@ -28,7 +28,6 @@ Utility to convert specifications (Open API, JSON Schemas) to TypeScript using T
 - 4.0.2
 - 4.0.4
 - 4.0.5
-- 共 45 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

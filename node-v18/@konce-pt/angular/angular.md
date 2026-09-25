@@ -28,7 +28,6 @@ Open-source Angular 22 component library on Signals & Signal Forms — 70+ compo
 - 0.8.2
 - 0.8.3
 - 0.8.5
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Sondalab design tokens as CSS custom properties + the agentic core: component ca
 - 0.9.4
 - 0.9.5
 - 0.9.6
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -16,6 +16,7 @@ Fast & forgiving HTML/XML/RSS parser
 
 - 当前版本：4.1.64
 
+- 4.1.51
 - 4.1.52
 - 4.1.53
 - 4.1.54
@@ -27,7 +28,6 @@ Fast & forgiving HTML/XML/RSS parser
 - 4.1.60
 - 4.1.63
 - 4.1.64
-- 4.1.9
 - 共 53 个版本，完整清单见 npm registry。
 
 ## 获取地址

@@ -1,0 +1,25 @@
+# @jonny/remotion-confetti
+
+> 标签: confetti, remotion
+
+## 简介
+
+Confetti for Remotion
+
+## 官网
+
+- 官网：https://github.com/onion2k/remotion-confetti#readme
+- 源码仓库：git://github.com/onion2k/remotion-confetti.git
+- npm 页面：https://www.npmjs.com/package/@jonny/remotion-confetti
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @jonny/remotion-confetti`
+- npm registry：https://registry.npmjs.org/@jonny/remotion-confetti

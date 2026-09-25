@@ -28,7 +28,6 @@ TypeScript definitions for lscache
 - 1.3.2
 - 1.3.3
 - 1.3.4
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

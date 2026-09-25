@@ -28,7 +28,6 @@ A future-proof, opinionated dark Angular Material 21+ theme inspired by mucsi96/
 - 1.7.0
 - 1.8.0
 - 1.9.0
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

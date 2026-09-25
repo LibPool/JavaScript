@@ -28,7 +28,6 @@ Core functionalities for the Microsoft Graph JavaScript SDK
 - 1.0.0-preview.7
 - 1.0.0-preview.8
 - 1.0.0-preview.9
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

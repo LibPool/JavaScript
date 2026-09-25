@@ -28,7 +28,6 @@ OpenCV JavaScript version for node.js or browser
 - 4.9.0-release.2
 - 4.9.0-release.3
 - 5.0.0-release.1
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

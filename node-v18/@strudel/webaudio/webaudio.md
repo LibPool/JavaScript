@@ -28,7 +28,6 @@ Web Audio helpers for Strudel
 - 1.2.8
 - 1.2.9
 - 1.3.0
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ AIMD (Airalogy Markdown) rendering engines for HTML and Vue
 - 2.8.1
 - 2.9.0
 - 2.9.1
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Web Worker for the completion widget in Lvce Editor
 - 1.6.0
 - 1.8.0
 - 1.9.0
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

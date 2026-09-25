@@ -28,7 +28,6 @@ Presentation Exchange v1 and v2 typescript models
 - 2.3.0
 - 2.3.1
 - 2.3.2
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

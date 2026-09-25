@@ -28,7 +28,6 @@ virtual list. Features: Vue2, Vue3, TypeScript, SSR, horizontal, table.
 - 1.2.1-beta.2
 - 1.2.1-beta.3
 - 1.2.1-beta.4
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

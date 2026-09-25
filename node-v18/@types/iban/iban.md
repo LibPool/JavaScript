@@ -28,7 +28,6 @@ TypeScript definitions for iban
 - 0.0.33
 - 0.0.34
 - 0.0.35
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

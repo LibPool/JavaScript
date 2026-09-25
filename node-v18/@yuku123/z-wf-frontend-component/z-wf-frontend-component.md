@@ -1,0 +1,35 @@
+# @yuku123/z-wf-frontend-component
+
+> 标签: flow-designer, logicflow, react, workflow, z-opc
+
+## 简介
+
+z-wf FlowDesigner 组件包 - LogicFlow 驱动的可视化流程设计器
+
+## 官网
+
+- 官网：https://github.com/yuku123/z-opc-frontend/tree/main/packages/z-wf-frontend-component#readme
+- 源码仓库：git+https://github.com/yuku123/z-opc-frontend.git
+- npm 页面：https://www.npmjs.com/package/@yuku123/z-wf-frontend-component
+
+## 历史版本号
+
+- 当前版本：0.2.9
+
+- 0.1.1
+- 0.1.2
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.3
+- 0.2.4
+- 0.2.5
+- 0.2.6
+- 0.2.7
+- 0.2.8
+- 0.2.9
+
+## 获取地址
+
+- npm 安装：`npm install @yuku123/z-wf-frontend-component`
+- npm registry：https://registry.npmjs.org/@yuku123/z-wf-frontend-component

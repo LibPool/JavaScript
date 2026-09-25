@@ -16,18 +16,18 @@ Outlook Item File (.msg) reader in JavaScript Npm Module
 
 - 当前版本：1.28.0
 
-- 1.7.3-alpha.1
-- 1.7.3-alpha.2
-- 1.7.4
-- 1.7.4-alpha.1
-- 1.7.4-alpha.2
-- 1.7.4-alpha.4
-- 1.7.5-alpha.1
-- 1.8.0-alpha.1
-- 1.8.1
-- 1.8.1-alpha.1
-- 1.9.0
-- 1.9.0-alpha.1
+- 1.24.0
+- 1.24.0-beta1
+- 1.25.0-beta1
+- 1.26.0
+- 1.26.0-beta1
+- 1.27.0
+- 1.27.0-alpha.1
+- 1.27.0-alpha.2
+- 1.27.0-alpha.3
+- 1.27.1-alpha.1
+- 1.28.0
+- 1.28.0-alpha.1
 - 共 101 个版本，完整清单见 npm registry。
 
 ## 获取地址

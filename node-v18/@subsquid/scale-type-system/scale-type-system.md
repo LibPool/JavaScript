@@ -1,0 +1,31 @@
+# @subsquid/scale-type-system
+
+> 标签: JavaScript
+
+## 简介
+
+Check scale codec types against pre-defined pattern
+
+## 官网
+
+- 官网：https://github.com/subsquid/squid#readme
+- 源码仓库：git+ssh://git@github.com/subsquid/squid.git
+- npm 页面：https://www.npmjs.com/package/@subsquid/scale-type-system
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 0.0.1
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.0-beta.11e779
+- 1.1.0-beta.410414
+- 1.1.0-beta.aa7384
+- 1.1.0-beta.f0b16d
+
+## 获取地址
+
+- npm 安装：`npm install @subsquid/scale-type-system`
+- npm registry：https://registry.npmjs.org/@subsquid/scale-type-system

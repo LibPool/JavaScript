@@ -16,18 +16,18 @@ node-gamepad is a package for node that allows you to effortlessly interface you
 
 - 当前版本：1.0.9
 
-- 1.0.9-beta.79
-- 1.0.9-beta.8
-- 1.0.9-beta.81
-- 1.0.9-beta.83
-- 1.0.9-beta.85
-- 1.0.9-beta.87
-- 1.0.9-beta.89
-- 1.0.9-beta.91
-- 1.0.9-beta.93
-- 1.0.9-beta.95
-- 1.0.9-beta.97
-- 1.0.9-beta.99
+- 1.0.9-beta.295
+- 1.0.9-beta.297
+- 1.0.9-beta.299
+- 1.0.9-beta.301
+- 1.0.9-beta.303
+- 1.0.9-beta.305
+- 1.0.9-beta.307
+- 1.0.9-beta.309
+- 1.0.9-beta.311
+- 1.0.9-beta.313
+- 1.0.9-beta.315
+- 1.0.9-beta.316
 - 共 252 个版本，完整清单见 npm registry。
 
 ## 获取地址

@@ -28,7 +28,6 @@ _A one-stop solution built in javascript to provide internationalization support
 - 1.9.1
 - 1.9.2
 - 1.9.3
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

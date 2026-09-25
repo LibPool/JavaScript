@@ -28,7 +28,6 @@ Transform TypeScript into ES.next (with updated dependencies)
 - 8.0.1-depup.27
 - 8.0.1-depup.28
 - 8.0.5-depup.0
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

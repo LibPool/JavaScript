@@ -28,7 +28,6 @@ TypeScript definitions for yamljs
 - 0.2.32
 - 0.2.33
 - 0.2.34
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

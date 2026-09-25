@@ -16,18 +16,18 @@ Blazing fast, zero configuration web application bundler
 
 - 当前版本：2.0.0-alpha.3
 
+- 2.0.0-nightly.642
+- 2.0.0-nightly.643
+- 2.0.0-nightly.644
+- 2.0.0-nightly.645
+- 2.0.0-nightly.646
+- 2.0.0-nightly.648
+- 2.0.0-nightly.649
+- 2.0.0-nightly.651
+- 2.0.0-nightly.652
+- 2.0.0-nightly.653
+- 2.0.0-nightly.655
 - 2.0.0-nightly.656
-- 2.0.0-nightly.66
-- 2.0.0-nightly.67
-- 2.0.0-nightly.68
-- 2.0.0-nightly.69
-- 2.0.0-nightly.72
-- 2.0.0-nightly.79
-- 2.0.0-nightly.85
-- 2.0.0-nightly.87
-- 2.0.0-nightly.88
-- 2.0.0-nightly.92
-- 2.0.0-nightly.97
 - 共 293 个版本，完整清单见 npm registry。
 
 ## 获取地址

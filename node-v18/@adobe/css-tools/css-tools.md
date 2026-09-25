@@ -28,7 +28,6 @@ A modern CSS parser and stringifier with TypeScript support
 - 4.4.3
 - 4.4.4
 - 4.5.0
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

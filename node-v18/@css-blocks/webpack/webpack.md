@@ -28,7 +28,6 @@ Webpack plugin for css-blocks.
 - 0.22.0
 - 0.23.0
 - 0.24.0
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

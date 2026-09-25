@@ -28,7 +28,6 @@ Log4brains architecture knowledge base web UI and static site generator
 - 1.1.0-alpha.2
 - 1.1.0-alpha.3
 - 1.1.0-alpha.4
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

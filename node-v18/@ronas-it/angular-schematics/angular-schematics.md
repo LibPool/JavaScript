@@ -28,7 +28,6 @@ Ronas IT Angular Schematics
 - 12.1.0
 - 13.3.0
 - 13.3.5
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

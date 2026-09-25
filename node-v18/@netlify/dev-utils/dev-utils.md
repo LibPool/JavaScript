@@ -28,7 +28,6 @@ TypeScript utilities for the local emulation of the Netlify environment
 - 5.0.0
 - 6.0.0
 - 6.0.1
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

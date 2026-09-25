@@ -28,7 +28,6 @@ Addon storybook to themes using design tokens with css variables
 - 1.0.7
 - 1.0.9
 - 1.0.9--canary.4.7206bdb.0
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

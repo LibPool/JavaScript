@@ -28,7 +28,6 @@ TypeScript definitions for react-copy-to-clipboard
 - 5.0.5
 - 5.0.6
 - 5.0.7
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

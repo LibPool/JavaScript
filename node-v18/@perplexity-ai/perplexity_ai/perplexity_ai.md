@@ -16,13 +16,13 @@ The official TypeScript library for the Perplexity API
 
 - 当前版本：0.38.5
 
+- 0.37.0
 - 0.38.0
 - 0.38.1
 - 0.38.2
 - 0.38.3
 - 0.38.4
 - 0.38.5
-- 0.4.0
 - 0.5.0
 - 0.6.0
 - 0.7.1

@@ -28,7 +28,6 @@ SerialPort Hardware bindings for node serialport written in c++
 - 12.0.1
 - 13.0.0
 - 13.0.1
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

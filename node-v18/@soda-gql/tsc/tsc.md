@@ -28,7 +28,6 @@ TypeScript transformer and compiler plugin for soda-gql
 - 0.14.3
 - 0.14.4
 - 0.15.0
-- 共 43 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

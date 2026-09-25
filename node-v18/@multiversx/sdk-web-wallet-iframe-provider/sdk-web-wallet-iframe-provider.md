@@ -27,7 +27,6 @@ Signing provider for dApps: Web Wallet Iframe Provider
 - 4.0.0-alpha.1
 - 4.0.0-alpha.2
 - 4.0.1
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

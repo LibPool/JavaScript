@@ -27,7 +27,6 @@ Task that build html by handlebars for gulp.
 - 1.0.0-alpha.2
 - 1.0.0-alpha.3
 - 1.0.0-alpha.4
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -1,0 +1,35 @@
+# @nicolasflamel/ed25519-wasm
+
+> 标签: Ed25519
+
+## 简介
+
+WASM wrapper for parts of SUPERCOP's Ed25519 implementation
+
+## 官网
+
+- 官网：https://github.com/NicolasFlamel1/Ed25519-WASM-Wrapper#readme
+- 源码仓库：git+https://github.com/NicolasFlamel1/Ed25519-WASM-Wrapper.git
+- npm 页面：https://www.npmjs.com/package/@nicolasflamel/ed25519-wasm
+
+## 历史版本号
+
+- 当前版本：0.0.22
+
+- 0.0.19
+- 0.0.2
+- 0.0.20
+- 0.0.21
+- 0.0.22
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @nicolasflamel/ed25519-wasm`
+- npm registry：https://registry.npmjs.org/@nicolasflamel/ed25519-wasm

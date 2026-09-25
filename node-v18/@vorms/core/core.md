@@ -28,7 +28,6 @@ Vue Form Validation with Composition API
 - 1.2.0-beta.3
 - 1.2.0-beta.4
 - 1.2.0-beta.5
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

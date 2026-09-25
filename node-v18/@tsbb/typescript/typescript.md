@@ -28,7 +28,6 @@ TSBB is a zero-config CLI that helps you develop, test, and publish modern TypeS
 - 4.5.3
 - 4.5.4
 - 4.5.5
-- 共 43 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

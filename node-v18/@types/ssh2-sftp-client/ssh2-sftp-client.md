@@ -28,7 +28,6 @@ TypeScript definitions for ssh2-sftp-client
 - 9.0.4
 - 9.0.5
 - 9.0.6
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

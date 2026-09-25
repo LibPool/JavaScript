@@ -28,7 +28,6 @@ A Node-RED node to interact with Siemens S7 PLCs
 - 4.1.0
 - 4.2.0
 - 4.3.0
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

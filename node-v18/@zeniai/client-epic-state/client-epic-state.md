@@ -16,19 +16,19 @@ Shared module between Web & Mobile containing required abstractions for state ma
 
 - 当前版本：5.2.58
 
+- 5.2.52
+- 5.2.52-betaRD1
+- 5.2.53
+- 5.2.53-beta0ND
+- 5.2.54
+- 5.2.54-betaRD1
+- 5.2.55
+- 5.2.56
+- 5.2.56-betaRD1
+- 5.2.57
+- 5.2.57-beta0ND
 - 5.2.58
-- 5.2.6
-- 5.2.7
-- 5.2.7-beta0ND
-- 5.2.7-betaAK0
-- 5.2.7-betaAK1
-- 5.2.7-betaAK2
-- 5.2.7-betaRD1
-- 5.2.7-betaRD2
-- 5.2.8
-- 5.2.8-betaAK0
-- 5.2.9
-- 共 4870 个版本，完整清单见 npm registry。
+- 共 4,870 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

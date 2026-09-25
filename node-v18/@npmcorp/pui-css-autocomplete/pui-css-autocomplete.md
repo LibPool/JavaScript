@@ -28,7 +28,6 @@ CSS for react autocomplete
 - 7.0.0
 - 7.2.1
 - 8.2.4
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

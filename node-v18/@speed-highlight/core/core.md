@@ -28,7 +28,6 @@ A tiny, fast, simple syntax highlighter for the web and the terminal in JavaScri
 - 2.0.0
 - 2.0.1
 - 2.1.0
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

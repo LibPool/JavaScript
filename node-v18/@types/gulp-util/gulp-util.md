@@ -28,7 +28,6 @@ TypeScript definitions for gulp-util
 - 3.0.40
 - 3.0.41
 - 3.0.42
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ ReportPortal client for Node.js
 - 5.5.8
 - 5.5.9
 - 5.6.0
-- 共 42 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

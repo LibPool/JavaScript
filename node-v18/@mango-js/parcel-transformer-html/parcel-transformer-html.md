@@ -28,7 +28,6 @@ Parcel v2 HTML transformer for Mango
 - 1.0.0-alpha.7
 - 1.0.0-alpha.8
 - 1.0.0-alpha.9
-- 共 42 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

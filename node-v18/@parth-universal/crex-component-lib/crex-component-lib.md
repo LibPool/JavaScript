@@ -16,6 +16,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 - 当前版本：14.240.0
 
+- 14.233.0
 - 14.234.0
 - 14.235.0
 - 14.236.0
@@ -27,7 +28,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 - 14.238.3
 - 14.239.0
 - 14.240.0
-- 14.56.0
 - 共 460 个版本，完整清单见 npm registry。
 
 ## 获取地址

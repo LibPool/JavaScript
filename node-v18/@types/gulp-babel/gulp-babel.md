@@ -28,7 +28,6 @@ TypeScript definitions for gulp-babel
 - 6.1.31
 - 6.1.32
 - 6.1.33
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

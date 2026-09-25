@@ -28,7 +28,6 @@ The React component library for Formspree
 - 2.5.4
 - 2.5.5
 - 3.0.0
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

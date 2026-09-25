@@ -15,11 +15,11 @@ A React-based toolkit for building UI extensions on top of the Netlify platform.
 
 - 当前版本：2.1.1
 
-- 1.8.2-pre.fa70110
-- 1.8.2-pre.fe54d31
-- 1.8.2-pre.fee3b41
-- 1.9.0
-- 1.9.1
+- 1.22.3-pre.9b56e16
+- 1.22.3-pre.d7c06f3
+- 1.22.3-pre.ecd7edc
+- 1.23.0
+- 1.23.0-pre.51d4ae8
 - 2.0.0
 - 2.0.1
 - 2.0.2

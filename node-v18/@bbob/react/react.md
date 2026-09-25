@@ -16,11 +16,11 @@ A BBCode to React Renderer part of @bbob
 
 - 当前版本：4.4.1
 
-- 3.0.0
-- 3.0.2
-- 4.0.0
-- 4.0.1
-- 4.0.2
+- 0.0.0-alpha.d9ea378
+- 0.0.0-alpha.e677bd1
+- 0.0.0-alpha.e763e31
+- 0.0.0-alpha.ede7040
+- 0.0.0-alpha.edf2069
 - 4.0.3
 - 4.1.0
 - 4.1.1

@@ -28,7 +28,6 @@ Core for Shower HTML presentation engine
 - 3.5.1
 - 3.5.2
 - 3.6.0
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

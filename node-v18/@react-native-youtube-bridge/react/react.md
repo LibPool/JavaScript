@@ -28,7 +28,6 @@ React implementation for react-native-youtube-bridge
 - 2.1.6
 - 2.1.7
 - 2.1.8
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

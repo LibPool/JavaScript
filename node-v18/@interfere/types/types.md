@@ -28,7 +28,6 @@ TypeScript & Zod types for Interfere
 - 9.0.3-canary.2
 - 9.0.3-canary.3
 - 9.0.3-canary.4
-- 共 45 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

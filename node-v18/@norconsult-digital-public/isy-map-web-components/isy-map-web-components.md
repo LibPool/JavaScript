@@ -27,7 +27,6 @@ Norconsult Digital's product. Subset of IsyMap (an openlayers based web map clie
 - 1.0.7
 - 1.0.8
 - 1.0.9
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

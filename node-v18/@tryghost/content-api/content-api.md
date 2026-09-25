@@ -16,11 +16,11 @@ JavaScript Client Library for the Ghost [Content API](https://ghost.org/docs/con
 
 - 当前版本：1.12.12
 
-- 1.7.2
-- 1.7.3
-- 1.8.0
-- 1.9.0
-- 1.9.1
+- 1.12.5
+- 1.12.6
+- 1.12.7
+- 1.12.8
+- 1.12.9
 - 1.9.2
 - 1.9.3
 - 1.9.4

@@ -15,18 +15,18 @@ Framework abstraction to make HTTP calls with tracing
 
 - 当前版本：0.13.0
 
-- 0.9.2-next.40ae759.0
-- 0.9.2-next.52c7f0a.0
-- 0.9.2-next.9d7a870.0
-- 0.9.2-next.d8fa1ad.0
-- 0.9.3-next.01f20d3.0
-- 0.9.3-next.105840b.0
-- 0.9.3-next.14a0cfc.0
-- 0.9.3-next.1ad3dbc.0
-- 0.9.3-next.5289bca.0
-- 0.9.3-next.62d9754.0
-- 0.9.3-next.67c8141.0
-- 0.9.3-next.c318502.0
+- 0.12.1-next.ce54578.0
+- 0.12.1-next.d1d27f7.0
+- 0.13.0
+- 0.13.1-next.318b2e6.0
+- 0.13.1-next.357174a.0
+- 0.13.1-next.38c895c.0
+- 0.13.1-next.3d517c0.0
+- 0.13.1-next.41b143a.0
+- 0.13.1-next.5829438.0
+- 0.13.1-next.83d37f1.0
+- 0.13.1-next.a28b894.0
+- 0.13.1-next.a4f6bd4.0
 - 共 350 个版本，完整清单见 npm registry。
 
 ## 获取地址

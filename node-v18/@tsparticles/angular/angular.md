@@ -28,7 +28,6 @@ Official tsParticles Angular Component - Easily create highly customizable parti
 - 4.3.1
 - 4.3.2
 - 4.4.0
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

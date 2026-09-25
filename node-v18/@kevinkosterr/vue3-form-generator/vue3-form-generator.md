@@ -28,7 +28,6 @@ A schema-based form generator component for Vue 3, based on the original  [`vue-
 - 2.5.0
 - 2.6.0
 - 2.7.0
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

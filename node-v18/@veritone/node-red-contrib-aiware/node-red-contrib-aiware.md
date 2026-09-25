@@ -16,8 +16,8 @@ veritone aiware nodes for node-red community
 
 - 当前版本：2.0.0-alpha.107
 
+- 2.0.0-alpha.87
 - 2.0.0-alpha.88
-- 2.0.0-alpha.9
 - 2.0.0-alpha.90
 - 2.0.0-alpha.91
 - 2.0.0-alpha.92

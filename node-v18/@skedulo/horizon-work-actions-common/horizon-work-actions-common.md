@@ -1,0 +1,35 @@
+# @skedulo/horizon-work-actions-common
+
+> 标签: JavaScript
+
+## 简介
+
+A central repository store for all the common utils, interfaces etc that are used across work actions.
+
+## 官网
+
+- 源码仓库：git@github.com:Skedulo/horizon-work-actions-common.git
+- npm 页面：https://www.npmjs.com/package/@skedulo/horizon-work-actions-common
+
+## 历史版本号
+
+- 当前版本：0.0.220
+
+- 0.0.205
+- 0.0.206
+- 0.0.207
+- 0.0.208
+- 0.0.209
+- 0.0.210
+- 0.0.211
+- 0.0.212
+- 0.0.213
+- 0.0.214
+- 0.0.216
+- 0.0.220
+- 共 198 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @skedulo/horizon-work-actions-common`
+- npm registry：https://registry.npmjs.org/@skedulo/horizon-work-actions-common

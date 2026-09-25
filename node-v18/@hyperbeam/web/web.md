@@ -27,7 +27,6 @@ Web client library for the Hyperbeam multiplayer browser API
 - 0.0.37
 - 0.0.38
 - 0.0.38-alpha.0
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ http for nelts worker
 - 1.0.52
 - 1.0.53
 - 1.0.9
-- 共 45 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

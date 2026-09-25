@@ -16,6 +16,8 @@ Workers-grade Neon DatabaseAdapter for @porulle/core: Neon HTTP queries with req
 
 - 当前版本：0.49.0
 
+- 0.40.0
+- 0.40.1
 - 0.41.0
 - 0.42.0
 - 0.43.0
@@ -26,8 +28,6 @@ Workers-grade Neon DatabaseAdapter for @porulle/core: Neon HTTP queries with req
 - 0.48.0
 - 0.48.1
 - 0.49.0
-- 0.8.0
-- 0.9.0
 - 共 55 个版本，完整清单见 npm registry。
 
 ## 获取地址

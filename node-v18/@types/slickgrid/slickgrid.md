@@ -28,7 +28,6 @@ TypeScript definitions for slickgrid
 - 2.1.4-alpha
 - 2.1.40
 - 2.1.5-alpha
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

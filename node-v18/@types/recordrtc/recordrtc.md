@@ -28,7 +28,6 @@ TypeScript definitions for recordrtc
 - 5.6.7
 - 5.6.8
 - 5.6.9
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

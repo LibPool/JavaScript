@@ -28,7 +28,6 @@ Vue/Nuxt composables and SSR cookie storage for Fluxbase SDK
 - 2026.8.9
 - 2026.9.1
 - 2026.9.2
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

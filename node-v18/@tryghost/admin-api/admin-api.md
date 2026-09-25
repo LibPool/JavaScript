@@ -16,8 +16,8 @@ JavaScript Client Library for the Ghost [Admin API](https://ghost.org/docs/admin
 
 - 当前版本：1.14.13
 
-- 1.4.1
-- 1.4.2
+- 1.14.8
+- 1.14.9
 - 1.4.3
 - 1.4.4
 - 1.4.5

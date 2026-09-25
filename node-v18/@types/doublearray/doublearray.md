@@ -28,7 +28,6 @@ TypeScript definitions for doublearray
 - 0.0.30
 - 0.0.31
 - 0.0.32
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -1,0 +1,30 @@
+# @polkadot-react/api
+
+> 标签: Polkadot, React, RxJs
+
+## 简介
+
+A collection of RxJs React components the Polkadot JS API
+
+## 官网
+
+- 官网：https://github.com/czl1378/polkadot-react/tree/master/packages/api#readme
+- 源码仓库：git+https://github.com/czl1378/polkadot-react.git
+- npm 页面：https://www.npmjs.com/package/@polkadot-react/api
+
+## 历史版本号
+
+- 当前版本：0.0.8
+
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+
+## 获取地址
+
+- npm 安装：`npm install @polkadot-react/api`
+- npm registry：https://registry.npmjs.org/@polkadot-react/api

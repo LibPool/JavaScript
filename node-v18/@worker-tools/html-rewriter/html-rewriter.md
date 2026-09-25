@@ -28,7 +28,6 @@ WASM-based implementation of Cloudflare's HTML Rewriter for use in Deno, browser
 - 0.1.0-pre.7
 - 0.1.0-pre.8
 - 0.1.0-pre.9
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

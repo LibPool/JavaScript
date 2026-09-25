@@ -16,9 +16,9 @@ Prisma Client is an auto-generated, type-safe and modern JavaScript/TypeScript O
 
 - 当前版本：7.10.0
 
-- 7.9.0-dev.7
-- 7.9.0-dev.8
-- 7.9.0-dev.9
+- 7.10.0-dev.58
+- 7.10.0-integration-fix-prisma-publish-token.1
+- 7.10.0-integration-prisma7-project-closeout.10
 - 7.9.1
 - 7.9.1-dev.1
 - 8.1.0-dev.1
@@ -28,7 +28,7 @@ Prisma Client is an auto-generated, type-safe and modern JavaScript/TypeScript O
 - 8.1.0-dev.5
 - 8.1.0-dev.6
 - 8.1.0-dev.7
-- 共 10658 个版本，完整清单见 npm registry。
+- 共 10,658 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

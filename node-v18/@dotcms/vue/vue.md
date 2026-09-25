@@ -28,7 +28,6 @@ Official Vue components library to render a dotCMS page.
 - 26.9.9-1
 - 26.9.9-1-next.2665
 - 26.9.9-1-next.2669
-- 共 49 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

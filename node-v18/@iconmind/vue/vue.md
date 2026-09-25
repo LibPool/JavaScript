@@ -28,7 +28,6 @@ Vue 3 components for IconMind — 5,287 tree-shakeable icons for AI-era software
 - 0.7.1
 - 0.8.0
 - 0.8.1
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

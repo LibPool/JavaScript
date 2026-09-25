@@ -28,7 +28,7 @@ This library provides a set of React table components for use with the PatternFl
 - 6.6.1-prerelease.8
 - 6.6.1-prerelease.9
 - 6.6.2
-- 共 2504 个版本，完整清单见 npm registry。
+- 共 2,504 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

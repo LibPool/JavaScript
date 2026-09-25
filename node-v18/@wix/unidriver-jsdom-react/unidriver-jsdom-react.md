@@ -27,7 +27,6 @@ JSDOM React UniDriver
 - 1.5.3
 - 1.5.5
 - 1.5.6
-- 共 47 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

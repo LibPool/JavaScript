@@ -28,7 +28,6 @@ Angular HTTP over Web Workers — off-main-thread HTTP pipelines with configurab
 - 22.1.0
 - 22.2.0
 - 22.3.0
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

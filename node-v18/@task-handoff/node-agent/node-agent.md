@@ -27,7 +27,6 @@ Prebuilt TaskHandoff node agent runtime.
 - 0.0.9-alpha.3
 - 0.0.9-alpha.4
 - 0.0.9-alpha.5
-- 共 49 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

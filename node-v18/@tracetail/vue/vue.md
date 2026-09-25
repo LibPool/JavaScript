@@ -28,7 +28,6 @@ Vue SDK for TraceTail browser fingerprinting - over 99.5% accuracy
 - 2.3.7
 - 2.3.8
 - 2.3.9
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

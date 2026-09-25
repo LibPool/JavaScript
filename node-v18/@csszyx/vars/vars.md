@@ -16,9 +16,9 @@ CSS custom property helpers — inject and patch CSS variables for runtime-drive
 
 - 当前版本：0.17.2
 
-- 0.8.0
-- 0.9.0
-- 0.9.1
+- 0.17.0
+- 0.17.1
+- 0.17.2
 - 0.9.10
 - 0.9.2
 - 0.9.3

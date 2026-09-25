@@ -16,19 +16,19 @@ Gravitee.io - UI Policy Studio Angular
 
 - 当前版本：18.0.0
 
-- 9.5.1-apim-3442-fix-background-color-4dc8af2
-- 9.5.1-apim-3442-fix-background-color-b2149af
-- 9.5.2
-- 9.5.2-archi-332-support-expired-org-licenses-d18ff72
-- 9.6.0
-- 9.6.0-9-x-f0ab9f9
-- 9.6.0-angular-16-615de4d
-- 9.6.0-angular-16-9270e16
-- 9.6.0-angular-16-c8d84dc
-- 9.6.0-confirm-dialog-e0200c9
-- 9.6.0-fix-license-direc-8298ebd
-- 9.6.1
-- 共 2556 个版本，完整清单见 npm registry。
+- 17.9.1-renovate-npm-storybook-vulnerability-9b3c0a1
+- 17.9.1-renovate-npm-storybook-vulnerability-a2cf15d
+- 17.9.1-renovate-npm-storybook-vulnerability-a579a2c
+- 17.9.1-renovate-npm-storybook-vulnerability-f561e07
+- 18.0.0
+- 18.0.0-renovate-all-devdependencies-minor-patch-ce98010
+- 18.0.0-renovate-all-devdependencies-minor-patch-f8e1a99
+- 18.0.0-renovate-all-devdependencies-minor-patch-fc7165a
+- 18.0.0-renovate-all-devdependencies-minor-patch-fcc0ba7
+- 18.0.0-renovate-all-devdependencies-minor-patch-fd0b232
+- 18.0.0-renovate-angular-158f278
+- 18.0.0-renovate-commitlint-f8dd2d4
+- 共 2,556 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

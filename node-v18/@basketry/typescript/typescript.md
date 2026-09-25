@@ -28,7 +28,6 @@ Basketry generator for generating Typescript interfaces
 - 0.2.4
 - 0.2.4-alpha.0
 - 0.3.0-alpha.0
-- 共 42 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

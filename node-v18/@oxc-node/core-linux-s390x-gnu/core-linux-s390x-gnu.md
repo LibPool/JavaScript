@@ -28,7 +28,6 @@ This is the **s390x-unknown-linux-gnu** binary for `@oxc-node/core`
 - 0.1.1
 - 0.1.2
 - 0.1.3
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

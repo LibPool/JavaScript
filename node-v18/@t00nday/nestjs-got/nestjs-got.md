@@ -28,7 +28,6 @@ A simple nestjs http module built on got
 - 2.2.6
 - 2.2.7
 - 2.2.8
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

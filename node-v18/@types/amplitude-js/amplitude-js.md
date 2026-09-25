@@ -28,7 +28,6 @@ TypeScript definitions for amplitude-js
 - 8.9.4
 - 8.9.5
 - 8.9.6
-- 共 45 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

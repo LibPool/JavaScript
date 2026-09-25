@@ -15,15 +15,15 @@ Used for transforming or calculating values from complex JSON data (result of HT
 
 - 当前版本：2.2.16
 
-- 3.0.0-alpha.1
+- 2.4.0-alpha.2
+- 2.4.0-alpha.3
+- 2.4.0-alpha.4
+- 2.4.0-alpha.5
+- 2.4.0-alpha.6
+- 2.4.0-alpha.7
 - 3.0.0-alpha.11
 - 3.0.0-alpha.12
 - 3.0.0-alpha.13
-- 3.0.0-alpha.2
-- 3.0.0-alpha.3
-- 3.0.0-alpha.4
-- 3.0.0-alpha.5
-- 3.0.0-alpha.6
 - 3.0.0-alpha.7
 - 3.0.0-alpha.8
 - 3.0.0-alpha.9

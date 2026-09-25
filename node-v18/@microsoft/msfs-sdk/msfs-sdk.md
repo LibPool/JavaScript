@@ -28,7 +28,6 @@ HTML and Typescript SDK for MSFS Coherent based instruments and aircraft develop
 - 2.1.1
 - 2.2.3
 - 2.3.3
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ web-gRPC state manager for grpc-connection.
 - 2.5.2
 - 2.5.3
 - 2.5.4
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

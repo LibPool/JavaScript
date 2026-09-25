@@ -28,7 +28,6 @@ Node request utils
 - 0.1.6
 - 0.1.7
 - 0.1.8
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

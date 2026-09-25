@@ -28,7 +28,6 @@ Cross Platform React Native UI Toolkit
 - 4.0.0-rc.8
 - 5.0.0
 - 5.0.0-beta.1
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

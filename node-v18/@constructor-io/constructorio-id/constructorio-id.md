@@ -28,7 +28,6 @@ A JavaScript module for managing identity and sessions
 - 2.7.1
 - 2.7.2
 - 2.8.0
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

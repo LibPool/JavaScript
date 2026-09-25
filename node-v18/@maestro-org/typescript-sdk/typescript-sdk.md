@@ -27,7 +27,6 @@ TypeScript SDK for the Maestro Dapp Platform
 - 1.6.1
 - 1.6.2
 - 1.6.3
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Screeb's browser sdk, optimized for React.
 - 0.6.0
 - 0.7.1
 - 0.8.0
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

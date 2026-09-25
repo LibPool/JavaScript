@@ -28,7 +28,6 @@ Business-agnostic PrivOS MCP App server runtime — Direct HTTP + Relay WebSocke
 - 0.8.3
 - 0.8.4
 - 0.9.0
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for dagre
 - 0.7.52
 - 0.7.53
 - 0.7.54
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

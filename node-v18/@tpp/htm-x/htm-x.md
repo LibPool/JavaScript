@@ -28,7 +28,6 @@ Simple and Clean HTML Node Generator
 - 5.8.0
 - 5.8.1
 - 5.8.2
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -27,7 +27,6 @@ Core platform abstractions for React Native Harness
 - 1.4.0-rc.1
 - 1.4.1
 - 1.5.0
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

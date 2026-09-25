@@ -16,17 +16,17 @@ Angular multiselect dropdown for Angular 22 with maintained release lines, acces
 
 - 当前版本：22.1.0
 
-- 4.0.1
+- 22.0.0
+- 22.0.1
+- 22.0.2
+- 22.0.3
+- 22.0.4
+- 22.1.0
 - 4.0.2
-- 5.0.0
 - 5.0.1
-- 6.0.0
 - 6.0.1
-- 7.0.0
 - 7.0.1
-- 8.0.0
 - 8.0.1
-- 9.0.0
 - 9.0.1
 - 共 61 个版本，完整清单见 npm registry。
 

@@ -28,7 +28,6 @@ Vue library for Iconoir, the biggest open source icon library with tons of free 
 - 7.7.0
 - 7.8.0
 - 7.9.0
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

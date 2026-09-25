@@ -28,7 +28,6 @@ An Angular component for intl-tel-input, for entering, formatting, and validatin
 - 29.5.0
 - 29.5.1
 - 29.5.2
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

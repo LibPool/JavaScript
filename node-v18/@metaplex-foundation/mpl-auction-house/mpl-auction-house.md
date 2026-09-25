@@ -28,7 +28,6 @@ MPL Auction House JavaScript API.
 - 2.3.2
 - 2.5.0
 - 2.5.1
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

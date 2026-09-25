@@ -28,7 +28,6 @@ Bibliothèque de composants Angular headless + thémés par tokens CSS.
 - 0.9.7
 - 0.9.8
 - 0.9.9
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

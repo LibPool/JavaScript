@@ -28,7 +28,6 @@ Parse CSS media query lists.
 - 4.0.2
 - 4.0.3
 - 5.0.0
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -1,0 +1,36 @@
+# @intentic/registry-scan
+
+> 标签: JavaScript
+
+## 简介
+
+The nightly scan behind the extension registry, finds topic-tagged repos, refreshes upstream facts, and proposes listings as pull requests
+
+## 官网
+
+- 官网：https://github.com/intentic/intentic#readme
+- 源码仓库：git+https://github.com/intentic/intentic.git
+- npm 页面：https://www.npmjs.com/package/@intentic/registry-scan
+
+## 历史版本号
+
+- 当前版本：1.310.0
+
+- 1.300.1
+- 1.301.0
+- 1.302.0
+- 1.303.0
+- 1.304.0
+- 1.305.0
+- 1.306.0
+- 1.307.0
+- 1.308.0
+- 1.308.2
+- 1.309.0
+- 1.310.0
+- 共 115 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @intentic/registry-scan`
+- npm registry：https://registry.npmjs.org/@intentic/registry-scan

@@ -1,0 +1,24 @@
+# @refparo/tooling
+
+> 标签: scaffold, tooling
+
+## 简介
+
+Shared frontend tooling for Paro's personal projects
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@refparo/tooling
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @refparo/tooling`
+- npm registry：https://registry.npmjs.org/@refparo/tooling
+- Node 要求：>=26.4

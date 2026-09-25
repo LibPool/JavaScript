@@ -16,6 +16,7 @@ Harness React Chaos Manager Service Client - APIs integrated with react hooks
 
 - 当前版本：1.87.1
 
+- 1.79.0
 - 1.80.0
 - 1.80.1
 - 1.80.2
@@ -27,7 +28,6 @@ Harness React Chaos Manager Service Client - APIs integrated with react hooks
 - 1.86.0
 - 1.87.0
 - 1.87.1
-- 1.9.0
 - 共 149 个版本，完整清单见 npm registry。
 
 ## 获取地址

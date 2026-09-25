@@ -28,7 +28,6 @@ Tailwind CSS integration for ReactLynx and Rspeedy cross-platform builds. 面向
 - 0.3.7
 - 0.3.8
 - 0.3.9
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -16,13 +16,13 @@ Context Engine MCP bridge (http/stdio proxy combining indexer + memory servers)
 
 - 当前版本：0.0.94
 
+- 0.0.83
 - 0.0.84
 - 0.0.85
 - 0.0.86
 - 0.0.87
 - 0.0.88
 - 0.0.89
-- 0.0.9
 - 0.0.90
 - 0.0.91
 - 0.0.92

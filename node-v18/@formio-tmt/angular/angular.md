@@ -16,7 +16,9 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 
 - 当前版本：6.0.0-rc.3-tmt-106
 
-- 6.0.0-rc.3-tmt-9
+- 6.0.0-rc.3-tmt-87
+- 6.0.0-rc.3-tmt-88
+- 6.0.0-rc.3-tmt-89
 - 6.0.0-rc.3-tmt-90
 - 6.0.0-rc.3-tmt-91
 - 6.0.0-rc.3-tmt-92
@@ -26,8 +28,6 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 - 6.0.0-rc.3-tmt-97
 - 6.0.0-rc.3-tmt-98
 - 6.0.0-rc.3-tmt-99
-- 6.0.0-rc.4-tmt
-- 6.0.0-rc.5-tmt
 - 共 104 个版本，完整清单见 npm registry。
 
 ## 获取地址

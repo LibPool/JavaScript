@@ -28,7 +28,6 @@ The time-based use-recency-unaware cousin of [`lru-cache`](http://npm.im/lru-cac
 - 2.1.3
 - 2.1.4
 - 2.1.5
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

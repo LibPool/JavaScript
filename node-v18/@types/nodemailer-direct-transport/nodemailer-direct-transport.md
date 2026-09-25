@@ -28,7 +28,6 @@ TypeScript definitions for nodemailer-direct-transport
 - 1.0.33
 - 1.0.34
 - 1.0.35
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

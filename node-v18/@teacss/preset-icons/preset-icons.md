@@ -27,7 +27,6 @@ Pure-CSS Iconify icon utilities for TeaCSS — one class per icon, no runtime.
 - 0.5.0
 - 0.5.1
 - 0.5.2
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

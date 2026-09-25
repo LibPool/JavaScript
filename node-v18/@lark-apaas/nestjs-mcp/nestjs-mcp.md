@@ -27,7 +27,6 @@ NestJS MCP Server module for Miaoda fullstack apps (Streamable HTTP + MCP Apps)
 - 0.1.1-alpha.20260917183017
 - 0.1.1-alpha.20260918073534
 - 0.1.1-beta.0
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

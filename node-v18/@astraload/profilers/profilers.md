@@ -28,7 +28,6 @@ CPU profiler and heap dumper for multi-instance Meteor web apps
 - 3.0.1
 - 4.0.0
 - 4.0.1
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

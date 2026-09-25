@@ -28,7 +28,6 @@ TypeScript definitions for highland
 - 2.12.8
 - 2.12.9
 - 2.13.0
-- 共 44 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

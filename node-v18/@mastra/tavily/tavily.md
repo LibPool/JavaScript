@@ -16,13 +16,13 @@ Tavily web search, extract, crawl, and map tools for Mastra agents
 
 - 当前版本：1.1.2
 
-- 1.0.1-alpha.0
-- 1.0.2
-- 1.0.2-alpha.0
-- 1.0.4
-- 1.0.5-alpha.0
-- 1.1.0
-- 1.1.0-alpha.0
+- 0.0.0-platform-sandbox-sidecar-probe-20260809163846
+- 0.0.0-platform-turn-end-wiring-20260811044905
+- 0.0.0-relic-pressure-20260828160621
+- 0.0.0-sandbox-private-exec-20260804211430
+- 0.0.0-subconscious-alpha-20260901173138
+- 0.0.0-tags-preview-alpha-20260906184827
+- 0.0.0-workshop-yj-20260903030708
 - 1.1.1
 - 1.1.1-alpha.0
 - 1.1.2

@@ -28,7 +28,6 @@ LangGraph adapter for the Angular AI agent UI — provideAgent()/injectAgent() e
 - 0.0.66
 - 0.1.0
 - 0.2.0
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Official build system for Angular (with updated dependencies)
 - 22.1.8-depup.3
 - 22.1.8-depup.4
 - 22.1.8-depup.5
-- 共 43 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

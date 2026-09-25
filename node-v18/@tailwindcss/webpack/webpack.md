@@ -16,16 +16,16 @@ A webpack loader for Tailwind CSS v4.
 
 - 当前版本：4.3.3
 
-- 0.0.0-insiders.f9216b2
-- 0.0.0-insiders.fc17df0
-- 0.0.0-insiders.fc432e0
-- 4.2.0
-- 4.2.1
-- 4.2.2
-- 4.2.3
-- 4.2.4
-- 4.3.0
-- 4.3.1
+- 0.0.0-insiders.d494a78
+- 0.0.0-insiders.de9e71c
+- 0.0.0-insiders.e46b3d7
+- 0.0.0-insiders.e48c5e8
+- 0.0.0-insiders.e566a92
+- 0.0.0-insiders.ef79119
+- 0.0.0-insiders.f6b7c58
+- 0.0.0-insiders.f723e83
+- 0.0.0-insiders.f7f58f0
+- 0.0.0-insiders.f861d5c
 - 4.3.2
 - 4.3.3
 - 共 215 个版本，完整清单见 npm registry。

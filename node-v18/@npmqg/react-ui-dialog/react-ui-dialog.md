@@ -1,0 +1,33 @@
+# @npmqg/react-ui-dialog
+
+> 标签: JavaScript
+
+## 简介
+
+对话框
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@npmqg/react-ui-dialog
+
+## 历史版本号
+
+- 当前版本：1.19.2
+
+- 1.19.0
+- 1.19.1
+- 1.19.2
+- 1.2.1
+- 1.2.10
+- 1.2.11
+- 1.2.12
+- 1.2.5
+- 1.2.6
+- 1.2.8
+- 1.2.9
+- 1.6.0
+
+## 获取地址
+
+- npm 安装：`npm install @npmqg/react-ui-dialog`
+- npm registry：https://registry.npmjs.org/@npmqg/react-ui-dialog

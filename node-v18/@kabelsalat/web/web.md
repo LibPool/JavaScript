@@ -27,7 +27,6 @@ This package allows you to use kabelsalat anywhere on the web.
 - 0.3.3
 - 0.4.0
 - 0.4.1
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ A Vue checkbox field component.
 - 3.0.8
 - 3.0.9
 - 4.0.0
-- 共 44 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

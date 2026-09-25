@@ -28,7 +28,6 @@ A data grid for Angular
 - 4.8.5
 - 4.9.0
 - 4.9.1
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

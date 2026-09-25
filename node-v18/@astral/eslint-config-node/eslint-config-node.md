@@ -28,7 +28,6 @@ Eslint config for node
 - 2.6.3
 - 3.0.0-alpha.1
 - 3.0.0-rc.1
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

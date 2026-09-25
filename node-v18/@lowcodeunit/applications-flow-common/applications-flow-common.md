@@ -15,6 +15,11 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 
 - 当前版本：1.39.0
 
+- 1.39.88-enterprise-switch-fix
+- 1.39.89-enterprise-switch-fix
+- 1.39.90-enterprise-switch-fix
+- 1.39.91-enterprise-switch-fix
+- 1.39.92-enterprise-switch-fix
 - 1.39.93-enterprise-switch-fix
 - 1.39.94-fix-undefined-path
 - 1.39.95-fix-undefined-path
@@ -22,12 +27,7 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 - 1.39.96-merge
 - 1.39.98-merge
 - 1.39.99-integration
-- 1.5.7
-- 1.6.8
-- 1.7.9
-- 1.8.10
-- 1.9.11
-- 共 1182 个版本，完整清单见 npm registry。
+- 共 1,182 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

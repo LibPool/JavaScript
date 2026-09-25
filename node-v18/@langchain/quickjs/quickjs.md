@@ -28,7 +28,6 @@ Sandboxed JavaScript REPL for deepagents using QuickJS (WASM)
 - 1.0.0
 - 1.0.0-alpha.0
 - 1.0.0-rc.0
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

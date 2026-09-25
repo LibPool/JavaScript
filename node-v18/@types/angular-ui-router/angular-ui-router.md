@@ -28,7 +28,6 @@ TypeScript definitions for angular-ui-router
 - 1.1.42
 - 1.1.43
 - 1.1.44
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

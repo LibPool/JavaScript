@@ -28,7 +28,6 @@ Standalone CSS design tokens + .ori-* utility classes for oriUI — no framework
 - 1.0.0-alpha.9
 - 1.0.0-rc.18
 - 1.0.0-rc.19
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

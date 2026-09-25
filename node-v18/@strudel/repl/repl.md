@@ -28,7 +28,6 @@ Strudel REPL as a Web Component
 - 1.2.8
 - 1.2.9
 - 1.3.0
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

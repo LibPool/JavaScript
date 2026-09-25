@@ -28,7 +28,6 @@ The MAIC pluggable persistence layer: document / runtime / KV / asset primitives
 - 0.31.1
 - 0.4.0
 - 0.5.0
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

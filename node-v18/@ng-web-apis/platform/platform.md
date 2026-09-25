@@ -28,7 +28,6 @@ A basic library for web apis
 - 5.1.0
 - 5.2.0
 - 5.3.0
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

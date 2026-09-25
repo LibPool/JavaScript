@@ -28,7 +28,6 @@ Devtools, for TanStack React form.
 - 1.0.0-alpha.0
 - 1.0.0-alpha.1
 - 1.0.0-alpha.2
-- 共 49 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

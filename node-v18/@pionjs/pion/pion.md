@@ -28,7 +28,6 @@ Hooks for web components
 - 2.8.2
 - 2.8.3
 - 2.9.0
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

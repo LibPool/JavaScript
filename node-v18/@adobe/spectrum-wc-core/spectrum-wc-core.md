@@ -28,7 +28,6 @@ Abstract base classes for Spectrum Web Components
 - 2.0.0-snapshot-test.20260917145743
 - 2.0.0-snapshot-test.20260917153929
 - 2.0.0-snapshot.20260916091811
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

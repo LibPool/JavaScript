@@ -15,6 +15,10 @@ A web console for Claude Code, Codex, OpenCode, and other local CLI tools.
 
 - 当前版本：4.72.2
 
+- 4.71.2-beta.ga589bb6
+- 4.72.0
+- 4.72.0-beta.gfc56736
+- 4.72.1
 - 4.72.1-beta.g78b7918
 - 4.72.2
 - 4.72.2-beta.g26c27fb
@@ -23,10 +27,6 @@ A web console for Claude Code, Codex, OpenCode, and other local CLI tools.
 - 4.72.2-beta.g8e8e0dd
 - 4.72.2-beta.gb5246a0
 - 4.72.2-beta.gcc5d57e
-- 4.8.0
-- 4.8.0-beta.g8688b5c
-- 4.9.0
-- 4.9.0-beta.g68a0791
 - 共 600 个版本，完整清单见 npm registry。
 
 ## 获取地址

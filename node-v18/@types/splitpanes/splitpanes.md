@@ -28,7 +28,6 @@ TypeScript definitions for splitpanes
 - 2.2.4
 - 2.2.5
 - 2.2.6
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -16,6 +16,11 @@ Constraint based CSS in JS for building scalable design systems
 
 - 当前版本：1.1.0
 
+- 1.1.1-alpha.c19f83.0
+- 1.1.1-alpha.ceb7af.0
+- 1.1.1-alpha.d06af5.0
+- 1.1.1-alpha.d49ddd.0
+- 1.1.1-alpha.d682ce.0
 - 1.1.1-alpha.d991a9.0
 - 1.1.1-alpha.da75e5.0
 - 1.1.1-alpha.e10dec.0
@@ -23,12 +28,7 @@ Constraint based CSS in JS for building scalable design systems
 - 1.1.1-alpha.e787e5.0
 - 1.1.1-alpha.efefef.0
 - 1.1.1-alpha.f92633.0
-- 67.0.0-alpha.09ad1e.0
-- 67.0.0-alpha.35c6c5.0
-- 67.0.0-alpha.387605.0
-- 67.0.0-alpha.7455bb.0
-- 67.0.0-alpha.ccfdc5.0
-- 共 1934 个版本，完整清单见 npm registry。
+- 共 1,934 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

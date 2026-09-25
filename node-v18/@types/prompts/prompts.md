@@ -28,7 +28,6 @@ TypeScript definitions for prompts
 - 2.4.7
 - 2.4.8
 - 2.4.9
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

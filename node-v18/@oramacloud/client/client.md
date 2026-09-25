@@ -1,0 +1,34 @@
+# @oramacloud/client
+
+> 标签: orama, sdk, search engine
+
+## 简介
+
+Orama SDK client for Node.js, Deno, and Browsers
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@oramacloud/client
+
+## 历史版本号
+
+- 当前版本：2.1.4
+
+- 1.3.6
+- 1.3.7
+- 1.3.8
+- 1.3.9
+- 2.0.0
+- 2.0.1
+- 2.0.2
+- 2.1.0
+- 2.1.1
+- 2.1.2
+- 2.1.3
+- 2.1.4
+- 共 78 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @oramacloud/client`
+- npm registry：https://registry.npmjs.org/@oramacloud/client

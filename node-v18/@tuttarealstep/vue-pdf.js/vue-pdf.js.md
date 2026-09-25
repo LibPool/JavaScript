@@ -28,7 +28,6 @@ A Vue component for displaying PDF files using the standard `pdf.js` viewer. Thi
 - 2.0.2
 - 2.0.3
 - 2.1.0
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

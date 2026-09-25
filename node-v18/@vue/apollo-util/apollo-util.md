@@ -28,7 +28,6 @@ Apollo GraphQL for Vue - Utilities
 - 4.0.0-beta.5
 - 4.0.0-beta.6
 - 4.2.2
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

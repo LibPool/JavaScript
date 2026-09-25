@@ -28,7 +28,6 @@ Leaders Program Vue components
 - 1.39.4
 - 1.52.0
 - 1.92.0
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

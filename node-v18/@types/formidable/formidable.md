@@ -28,7 +28,6 @@ TypeScript definitions for formidable
 - 3.4.7
 - 3.5.0
 - 3.5.1
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

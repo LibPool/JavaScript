@@ -28,7 +28,6 @@ TypeScript definitions for winston-syslog
 - 2.4.2
 - 2.4.3
 - 2.4.4
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

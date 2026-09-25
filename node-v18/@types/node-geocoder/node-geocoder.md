@@ -28,7 +28,6 @@ TypeScript definitions for node-geocoder
 - 4.2.4
 - 4.2.5
 - 4.2.6
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

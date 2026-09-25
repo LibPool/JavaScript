@@ -28,7 +28,6 @@ TypeScript definitions for orchestrator
 - 1.5.25-alpha
 - 1.5.26-alpha
 - 1.5.28-alpha
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Lightweight routing to reduce boilerplate for API Gateway REST/HTTP API, ALB, La
 - 2.33.1
 - 2.34.0
 - 2.35.0
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

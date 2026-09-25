@@ -1,0 +1,24 @@
+# @parameshdev/react-psh-image-editor-modal
+
+> 标签: canvas, editor, image, image-editor, modal, psh, react
+
+## 简介
+
+Premium psh image editor component for React
+
+## 官网
+
+- 官网：https://github.com/Parameshwaran-P/react-psh-image-editor-modal.git
+- 源码仓库：git+https://github.com/Parameshwaran-P/react-psh-image-editor-modal.git
+- npm 页面：https://www.npmjs.com/package/@parameshdev/react-psh-image-editor-modal
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @parameshdev/react-psh-image-editor-modal`
+- npm registry：https://registry.npmjs.org/@parameshdev/react-psh-image-editor-modal

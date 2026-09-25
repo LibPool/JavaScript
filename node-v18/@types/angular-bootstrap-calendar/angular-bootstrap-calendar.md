@@ -28,7 +28,6 @@ TypeScript definitions for angular-bootstrap-calendar
 - 0.0.43
 - 0.0.44
 - 0.0.45
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

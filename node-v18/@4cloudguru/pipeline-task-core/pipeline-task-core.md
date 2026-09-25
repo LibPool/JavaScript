@@ -28,7 +28,6 @@ Shared HTTP, retry, egress and redaction primitives for the Azure Pipelines task
 - 0.9.0
 - 0.9.1
 - 0.9.3
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for css
 - 1.0.26-alpha
 - 1.0.27-alpha
 - 1.0.28-alpha
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

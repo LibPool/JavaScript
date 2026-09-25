@@ -16,18 +16,18 @@ Fusion CLI: HTTP API server, daemon, dashboard launcher, and task tooling for th
 
 - 当前版本：0.77.0
 
+- 0.77.0-beta.4
+- 0.77.0-beta.5
+- 0.77.0-beta.6
+- 0.77.0-beta.7
+- 0.77.0-beta.8
+- 0.77.0-beta.9
+- 0.78.0-beta.0
+- 0.78.0-beta.1
+- 0.78.0-beta.2
+- 0.78.0-beta.3
+- 0.78.0-beta.4
 - 0.78.0-beta.5
-- 0.8.0
-- 0.8.1
-- 0.8.2
-- 0.8.3
-- 0.8.4
-- 0.9.0
-- 0.9.1
-- 0.9.2
-- 0.9.3
-- 0.9.4
-- 1.0.0
 - 共 158 个版本，完整清单见 npm registry。
 
 ## 获取地址

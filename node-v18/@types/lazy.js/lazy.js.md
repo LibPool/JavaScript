@@ -28,7 +28,6 @@ TypeScript definitions for lazy.js
 - 0.5.7
 - 0.5.8
 - 0.5.9
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

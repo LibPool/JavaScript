@@ -28,7 +28,6 @@ Honeycomb OpenTelemetry Wrapper for Browser Applications
 - 1.4.0
 - 1.5.0
 - 1.5.1
-- 共 42 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

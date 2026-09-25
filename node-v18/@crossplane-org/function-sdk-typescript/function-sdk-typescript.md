@@ -28,7 +28,6 @@ A Crossplane Function SDK for Typescript
 - 0.7.0-20260921064531-6d4e5834d45b
 - 0.7.0-20260921065322-0b652c5b6888
 - 0.7.0-20260921070303-6511f1ccf985
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

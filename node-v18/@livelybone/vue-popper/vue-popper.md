@@ -28,7 +28,6 @@ A vue component of popper.js, and the arrow position control is implemented
 - 2.3.0
 - 2.3.1
 - 2.4.0
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

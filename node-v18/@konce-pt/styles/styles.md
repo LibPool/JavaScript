@@ -28,7 +28,6 @@ Base CSS for Koncept UI — reset, cascade @layer ordering and neutral light/dar
 - 0.8.2
 - 0.8.3
 - 0.8.5
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

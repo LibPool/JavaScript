@@ -28,7 +28,6 @@ Angular Components using Bulma.io css
 - 9.1.3
 - 9.1.4
 - 9.1.5
-- 共 46 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

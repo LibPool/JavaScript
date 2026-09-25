@@ -28,7 +28,6 @@ Typescript express server
 - 11.0.0-beta.17
 - 11.0.0-beta.18
 - 11.0.0-beta.19
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

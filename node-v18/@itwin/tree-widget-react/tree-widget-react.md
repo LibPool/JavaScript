@@ -16,18 +16,18 @@ Tree Widget React
 
 - 当前版本：3.18.0
 
+- 4.0.0-alpha.22
+- 4.0.0-alpha.23
+- 4.0.0-alpha.24
+- 4.0.0-alpha.25
+- 4.0.0-alpha.26
+- 4.0.0-alpha.27
+- 4.0.0-alpha.28
 - 4.0.0-alpha.29
-- 4.0.0-alpha.3
 - 4.0.0-alpha.30
 - 4.0.0-alpha.31
 - 4.0.0-alpha.32
 - 4.0.0-alpha.33
-- 4.0.0-alpha.4
-- 4.0.0-alpha.5
-- 4.0.0-alpha.6
-- 4.0.0-alpha.7
-- 4.0.0-alpha.8
-- 4.0.0-alpha.9
 - 共 147 个版本，完整清单见 npm registry。
 
 ## 获取地址

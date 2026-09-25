@@ -28,7 +28,6 @@ Awesome TypeScript and JavaScript for the Web
 - 1.2.7
 - 1.2.8
 - 1.2.9
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

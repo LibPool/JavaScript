@@ -1,0 +1,36 @@
+# @jucie.io/reactive
+
+> 标签: computed, fine-grained, jucie, reactive, reactivity, signals, state
+
+## 简介
+
+Fine-grained reactivity with signals, computed values and effects, plus optional Vue and React entry points
+
+## 官网
+
+- 官网：https://github.com/adrianjonmiller/state#readme
+- 源码仓库：git+https://github.com/adrianjonmiller/state.git
+- npm 页面：https://www.npmjs.com/package/@jucie.io/reactive
+
+## 历史版本号
+
+- 当前版本：1.1.3
+
+- 1.0.43
+- 1.0.44
+- 1.0.45
+- 1.0.46
+- 1.0.47
+- 1.0.48
+- 1.0.49
+- 1.0.50
+- 1.0.8
+- 1.1.0
+- 1.1.2
+- 1.1.3
+
+## 获取地址
+
+- npm 安装：`npm install @jucie.io/reactive`
+- npm registry：https://registry.npmjs.org/@jucie.io/reactive
+- Node 要求：>=18.0.0

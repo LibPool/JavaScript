@@ -28,7 +28,6 @@ JavaScript client for Nakama server written in TypeScript.
 - 2.7.0
 - 2.7.1
 - 2.8.0
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -27,7 +27,6 @@ Vue adapter (Vue Version 3) for csvbox.io
 - 1.1.7
 - 1.1.8
 - 1.1.9
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

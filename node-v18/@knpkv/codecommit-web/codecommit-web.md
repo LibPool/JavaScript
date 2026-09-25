@@ -27,7 +27,6 @@ Web server and frontend for CodeCommit PR browser
 - 0.8.0
 - 0.9.0
 - 0.9.1
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

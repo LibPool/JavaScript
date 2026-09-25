@@ -28,7 +28,7 @@ The Node Plugin for Nx contains generators to manage Node applications within an
 - 23.3.0-pr.36841.f66e88b
 - 23.3.0-pr.36958.5270397
 - 23.3.0-pr.37068.f95e11e
-- 共 1921 个版本，完整清单见 npm registry。
+- 共 1,921 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

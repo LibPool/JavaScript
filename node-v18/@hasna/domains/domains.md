@@ -28,7 +28,6 @@ Domain portfolio, registrar, marketplace, and DNS management for AI agents — C
 - 0.2.0
 - 0.3.0
 - 0.3.1
-- 共 48 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

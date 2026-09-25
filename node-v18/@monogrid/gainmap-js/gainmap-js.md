@@ -28,7 +28,6 @@ A Javascript (TypeScript) Port of Adobe Gainmap Technology for storing HDR Image
 - 3.2.0
 - 3.3.0
 - 3.4.0
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

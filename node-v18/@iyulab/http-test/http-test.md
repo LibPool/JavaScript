@@ -28,7 +28,6 @@ API testing library, by .http files, Automatic assertion
 - 1.2.1
 - 1.2.3
 - 1.3.0
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

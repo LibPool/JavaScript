@@ -28,7 +28,6 @@ TypeScript definitions for react-calendar-timeline
 - 0.8.6
 - 0.8.7
 - 0.8.8
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

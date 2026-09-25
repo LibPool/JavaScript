@@ -28,7 +28,6 @@ React Native HMS Location Kit
 - 6.4.0-300
 - 6.4.0-301
 - 6.8.0-300
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

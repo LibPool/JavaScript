@@ -28,7 +28,6 @@ Transforms JSX trees into lit-html template literals
 - 1.0.0-next.4
 - 1.0.0-next.5
 - 1.0.0-next.6
-- 共 48 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Pi package for reliable web access with explicit search, fetch, and headless bou
 - 1.7.2
 - 1.8.0
 - 1.9.0
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for @ember/error
 - 4.0.4
 - 4.0.5
 - 4.0.6
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

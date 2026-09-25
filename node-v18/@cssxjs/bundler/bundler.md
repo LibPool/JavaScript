@@ -27,7 +27,6 @@ Compile CSSX styles in React Native and Web bundlers
 - 0.4.0-alpha.4
 - 0.4.0-alpha.5
 - 0.4.0-alpha.6
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

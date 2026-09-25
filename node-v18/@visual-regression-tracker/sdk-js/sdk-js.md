@@ -28,7 +28,6 @@ JavaScript SDK for Visual Regression Tracker
 - 5.6.0
 - 5.7.0
 - 5.7.1
-- 共 42 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

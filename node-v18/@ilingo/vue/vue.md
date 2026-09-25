@@ -28,7 +28,6 @@ Vue 3 integration for ilingo — provide/inject, reactive locale, the <ITranslat
 - 6.0.0
 - 6.1.0
 - 6.1.1
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

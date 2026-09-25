@@ -28,7 +28,6 @@ Glide.js is a dependency-free JavaScript ES6 slider and carousel. It’s lightwe
 - 3.6.2
 - 3.7.0
 - 3.7.1
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

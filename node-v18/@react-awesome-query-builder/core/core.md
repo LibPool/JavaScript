@@ -28,7 +28,6 @@ User-friendly query builder for React. Core
 - 6.6.8
 - 6.6.9
 - 6.7.0-alpha.0
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

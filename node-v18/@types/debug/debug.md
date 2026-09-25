@@ -28,7 +28,6 @@ TypeScript definitions for debug
 - 4.1.7
 - 4.1.8
 - 4.1.9
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

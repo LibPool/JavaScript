@@ -28,7 +28,6 @@ TypeScript definitions for got
 - 9.6.7
 - 9.6.8
 - 9.6.9
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

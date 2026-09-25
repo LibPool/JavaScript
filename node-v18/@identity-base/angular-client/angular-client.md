@@ -28,7 +28,6 @@ Angular authentication client for Identity.Base (built on @identity-base/client-
 - 0.9.3
 - 0.9.4
 - 0.9.6
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

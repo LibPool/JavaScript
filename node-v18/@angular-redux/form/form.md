@@ -28,7 +28,6 @@ Build Angular 2+ forms with Redux
 - 9.0.0
 - 9.0.0-beta.0
 - 9.0.1
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

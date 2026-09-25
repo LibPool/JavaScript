@@ -1,0 +1,26 @@
+# @foxswap/core
+
+> 标签: core, ethereum, farmersonly, foxswap, uniswap, uniswap-v2, v2
+
+## 简介
+
+🎛 Core contracts for the FOX exchanges
+
+## 官网
+
+- 官网：https://farmersonly.fi/
+- 源码仓库：https://github.com/FarmersOnlyFi/foxswap-core
+- npm 页面：https://www.npmjs.com/package/@foxswap/core
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @foxswap/core`
+- npm registry：https://registry.npmjs.org/@foxswap/core
+- Node 要求：>=10

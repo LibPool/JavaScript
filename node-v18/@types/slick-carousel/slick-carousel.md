@@ -28,7 +28,6 @@ TypeScript definitions for slick-carousel
 - 1.6.38
 - 1.6.39
 - 1.6.40
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

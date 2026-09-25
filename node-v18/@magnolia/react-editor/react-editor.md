@@ -28,7 +28,6 @@ Magnolia React Editor
 - 2.0.0-rc.2
 - 2.1.0
 - 2.1.1
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

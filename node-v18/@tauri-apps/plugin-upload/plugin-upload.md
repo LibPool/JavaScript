@@ -28,7 +28,6 @@ Upload files from disk to a remote server over HTTP.
 - 2.4.1
 - 3.0.0-alpha.0
 - 3.0.0-alpha.1
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

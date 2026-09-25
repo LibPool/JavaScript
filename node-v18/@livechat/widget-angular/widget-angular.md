@@ -28,7 +28,6 @@ This library allows to render and interact with the LiveChat Chat Widget inside 
 - 1.3.5
 - 1.4.0
 - 1.4.1
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

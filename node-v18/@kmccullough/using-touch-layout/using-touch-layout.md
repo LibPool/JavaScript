@@ -1,0 +1,25 @@
+# @kmccullough/using-touch-layout
+
+> 标签: input, layout, touch, utility
+
+## 简介
+
+Adds one of two classes to body to indicate whether touch input is currently in use
+
+## 官网
+
+- 官网：https://github.com/kmccullough/using-touch-layout#readme
+- 源码仓库：git+https://github.com/kmccullough/using-touch-layout.git
+- npm 页面：https://www.npmjs.com/package/@kmccullough/using-touch-layout
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @kmccullough/using-touch-layout`
+- npm registry：https://registry.npmjs.org/@kmccullough/using-touch-layout

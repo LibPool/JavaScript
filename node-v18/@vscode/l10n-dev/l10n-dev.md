@@ -28,7 +28,6 @@ Development time npm module to generate strings bundles from TypeScript files
 - 0.0.7
 - 0.0.8
 - 0.0.9
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

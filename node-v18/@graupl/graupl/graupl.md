@@ -16,6 +16,8 @@ A modular and modern CSS framework.
 
 - 当前版本：1.0.0-beta.34
 
+- 1.0.0-beta.48
+- 1.0.0-beta.49
 - 1.0.0-beta.50
 - 1.0.0-beta.51
 - 1.0.0-beta.52
@@ -24,8 +26,6 @@ A modular and modern CSS framework.
 - 1.0.0-beta.55
 - 1.0.0-beta.56
 - 1.0.0-beta.57
-- 1.0.0-beta.6
-- 1.0.0-beta.7
 - 1.0.0-beta.8
 - 1.0.0-beta.9
 - 共 75 个版本，完整清单见 npm registry。

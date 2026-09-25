@@ -28,7 +28,6 @@ TypeScript definitions for Stats.js 0.16.0
 - 0.16.28
 - 0.16.29
 - 0.16.30
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

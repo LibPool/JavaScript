@@ -28,7 +28,6 @@ TypeScript definitions for pouchdb-mapreduce
 - 6.1.7
 - 6.1.8
 - 6.1.9
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

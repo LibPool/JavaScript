@@ -27,7 +27,6 @@ A Node In Layers package used for handling databases.
 - 1.4.0
 - 1.4.1
 - 1.5.0
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ JSON CRDT peritext node bindings to any generic rich-text editor.
 - 18.7.0
 - 18.8.0
 - 18.9.0
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

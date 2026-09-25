@@ -28,7 +28,6 @@ Plugin for CodeMirror web editor
 - 1.2.2
 - 1.2.3
 - 1.2.4
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ A Tailwind CSS plugin to fluidify layout.
 - 0.9.2
 - 1.0.0
 - 1.0.2
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

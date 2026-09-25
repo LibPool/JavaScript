@@ -28,7 +28,6 @@ Fast JavaScript/TypeScript bundler in Rust with Rollup-compatible API.
 - 1.2.7
 - 1.2.8
 - 1.2.9
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

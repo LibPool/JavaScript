@@ -28,7 +28,6 @@ Web-based Process Visualization (SCADA/HMI/Dashboard) software
 - 1.3.2
 - 1.3.3
 - 1.3.4
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

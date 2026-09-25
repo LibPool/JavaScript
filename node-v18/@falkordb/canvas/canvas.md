@@ -28,7 +28,6 @@ A standalone web component for visualizing FalkorDB graphs using force-directed 
 - 0.2.6
 - 0.2.7
 - 0.2.8
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

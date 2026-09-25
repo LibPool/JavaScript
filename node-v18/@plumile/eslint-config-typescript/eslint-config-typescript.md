@@ -16,7 +16,7 @@ Shared ESLint flat config tuned for TypeScript-forward React projects
 
 - 当前版本：0.2.13
 
-- 0.1.99
+- 0.1.206
 - 0.2.10
 - 0.2.11
 - 0.2.12

@@ -28,7 +28,6 @@ Angular nuvo importer adapter
 - 4.9.4
 - 4.9.5
 - 4.9.8
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

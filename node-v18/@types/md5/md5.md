@@ -28,7 +28,6 @@ TypeScript definitions for md5
 - 2.3.4
 - 2.3.5
 - 2.3.6
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

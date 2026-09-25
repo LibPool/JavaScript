@@ -28,7 +28,6 @@ Vimers Angular component library - standalone components cho CXM, Portal, Loyalt
 - 0.7.3
 - 0.7.4
 - 1.0.0
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

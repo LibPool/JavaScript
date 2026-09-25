@@ -28,7 +28,6 @@ A web component wrapper for monaco-editor.
 - 0.5.0-pre9
 - 0.5.1
 - 0.5.2
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

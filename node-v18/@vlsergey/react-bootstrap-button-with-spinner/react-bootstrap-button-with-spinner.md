@@ -1,0 +1,31 @@
+# @vlsergey/react-bootstrap-button-with-spinner
+
+> 标签: async, autodisable, bootstrap, button, react, spinner, vlsergey
+
+## 简介
+
+Wrapper around React Bootstrap Button component with spinner and auto-disabled functionality (to prevent doubleclick)
+
+## 官网
+
+- 官网：https://github.com/vlsergey/react-bootstrap-button-with-spinner#readme
+- 源码仓库：git+https://github.com/vlsergey/react-bootstrap-button-with-spinner.git
+- npm 页面：https://www.npmjs.com/package/@vlsergey/react-bootstrap-button-with-spinner
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 0.0.1
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.2.0
+- 1.2.1
+- 1.3.0
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @vlsergey/react-bootstrap-button-with-spinner`
+- npm registry：https://registry.npmjs.org/@vlsergey/react-bootstrap-button-with-spinner

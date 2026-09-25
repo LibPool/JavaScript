@@ -28,7 +28,6 @@ Angular material date+time picker
 - 12.10.0-beta.1
 - 13.0.0-beta.0
 - 13.0.0-beta.1
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Magic Authentication Admin JavaScript SDK.
 - 2.8.0
 - 2.8.1
 - 2.8.2
-- 共 45 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

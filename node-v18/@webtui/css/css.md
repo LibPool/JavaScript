@@ -27,7 +27,6 @@ Modular CSS Library that brings the beauty of Terminal UIs to the browser
 - 0.1.7
 - 0.1.8
 - 0.1.9
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Node skills plugin: embeds @matatbread/matbot-skills CRUD and adds a local files
 - 0.4.5
 - 0.4.6
 - 0.4.7
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

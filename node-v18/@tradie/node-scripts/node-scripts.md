@@ -28,7 +28,6 @@ An opinionated set of scripts for creating and maintaining node packages.
 - 1.1.1
 - 1.1.2
 - 1.2.1
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ SAML 2.0 implementation for Node.js
 - 5.0.0
 - 5.0.1
 - 5.1.0
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -16,18 +16,18 @@ Common library for Angular apps
 
 - 当前版本：4.31.0
 
-- 4.4.0-alpha.1
-- 4.4.0-alpha.2
-- 4.4.0-alpha.3
-- 4.4.0-alpha.4
-- 4.5.0-alpha.0
-- 4.6.0
-- 4.6.0-alpha.1
-- 4.7.0-alpha.0
-- 4.7.0-alpha.2
-- 4.8.0-alpha.0
-- 4.9.0-alpha.0
-- 4.9.1-alpha.0
+- 4.28.0-alpha.1
+- 4.28.0-alpha.3
+- 4.28.0-alpha.4
+- 4.28.50-alpha.0
+- 4.28.50-alpha.1
+- 4.28.50-alpha.2
+- 4.29.0-alpha.0
+- 4.29.0-alpha.1
+- 4.29.0-alpha.2
+- 4.29.0-alpha.3
+- 4.29.1-alpha.0
+- 4.31.0
 - 共 235 个版本，完整清单见 npm registry。
 
 ## 获取地址

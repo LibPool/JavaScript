@@ -28,7 +28,6 @@ Event for clicking outside a node
 - 4.0.0-next.2
 - 4.0.0-next.3
 - 4.0.0-next.4
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

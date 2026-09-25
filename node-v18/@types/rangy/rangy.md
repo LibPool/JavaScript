@@ -28,7 +28,6 @@ TypeScript definitions for rangy
 - 0.0.37
 - 0.0.38
 - 1.3.0
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

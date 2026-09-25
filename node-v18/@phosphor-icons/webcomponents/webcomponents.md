@@ -28,7 +28,6 @@ A flexible icon family for the web
 - 2.1.3
 - 2.1.4
 - 2.1.5
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

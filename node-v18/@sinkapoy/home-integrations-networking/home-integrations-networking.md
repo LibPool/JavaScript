@@ -1,0 +1,29 @@
+# @sinkapoy/home-integrations-networking
+
+> 标签: JavaScript
+
+## 简介
+
+the networking module for sinkahome project
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@sinkapoy/home-integrations-networking
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.2.0
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @sinkapoy/home-integrations-networking`
+- npm registry：https://registry.npmjs.org/@sinkapoy/home-integrations-networking

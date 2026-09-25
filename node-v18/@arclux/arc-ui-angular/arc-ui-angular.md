@@ -28,7 +28,6 @@ Angular standalone component wrappers for ARC UI Web Components.
 - 4.0.1
 - 4.1.0
 - 4.2.0
-- 共 48 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

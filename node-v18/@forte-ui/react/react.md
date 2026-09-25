@@ -28,7 +28,6 @@ A React UI component library built on Base UI, styled with CSS Modules and a the
 - 1.8.2
 - 1.8.3
 - 1.9.0
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

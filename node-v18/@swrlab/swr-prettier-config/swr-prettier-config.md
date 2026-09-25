@@ -1,0 +1,30 @@
+# @swrlab/swr-prettier-config
+
+> 标签: prettier, swrlab
+
+## 简介
+
+SWR Audio Lab Prettier config
+
+## 官网
+
+- 官网：https://github.com/swrlab/swr-prettier-config#readme
+- 源码仓库：git+https://github.com/swrlab/swr-prettier-config.git
+- npm 页面：https://www.npmjs.com/package/@swrlab/swr-prettier-config
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.0.1
+- 0.0.2
+- 0.1.1
+- 0.1.2
+- 0.2.0
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @swrlab/swr-prettier-config`
+- npm registry：https://registry.npmjs.org/@swrlab/swr-prettier-config
+- Node 要求：>=16

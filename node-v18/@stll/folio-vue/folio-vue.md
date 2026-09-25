@@ -28,7 +28,6 @@ Vue 3 editor for folio: a Word-document (.docx) editor for the browser, built on
 - 0.8.0
 - 0.8.1
 - 0.9.0
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

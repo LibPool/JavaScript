@@ -27,7 +27,6 @@ ZDS package with Angular Components ready to be used.
 - 0.7.1
 - 0.8.0
 - 0.8.1
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

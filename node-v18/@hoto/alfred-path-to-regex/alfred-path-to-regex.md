@@ -1,0 +1,25 @@
+# @hoto/alfred-path-to-regex
+
+> 标签: JavaScript
+
+## 简介
+
+Convert endpoint path to regex
+
+## 官网
+
+- 官网：https://github.com/hoto/alfred-path-to-regex#readme
+- 源码仓库：git+https://github.com/hoto/alfred-path-to-regex.git
+- npm 页面：https://www.npmjs.com/package/@hoto/alfred-path-to-regex
+
+## 历史版本号
+
+- 当前版本：1.0.8
+
+- 1.0.8
+
+## 获取地址
+
+- npm 安装：`npm install @hoto/alfred-path-to-regex`
+- npm registry：https://registry.npmjs.org/@hoto/alfred-path-to-regex
+- Node 要求：>=16.0.0

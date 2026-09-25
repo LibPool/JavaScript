@@ -28,7 +28,6 @@ support for asynchronous development with a Promise based task Scheduler, severa
 - 0.5.5
 - 0.6.0
 - 0.6.1
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

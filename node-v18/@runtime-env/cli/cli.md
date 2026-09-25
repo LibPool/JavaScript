@@ -28,7 +28,6 @@ Build once, deploy anywhere. Startup/runtime environment variable solution for J
 - 1.2.1
 - 1.2.2
 - 1.2.3
-- 共 43 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

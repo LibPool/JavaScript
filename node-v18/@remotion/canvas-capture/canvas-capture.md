@@ -28,7 +28,6 @@ Capture HTML-in-canvas content as a video
 - 4.0.500
 - 4.0.501
 - 4.0.502
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

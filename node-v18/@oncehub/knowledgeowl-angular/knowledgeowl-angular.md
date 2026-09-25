@@ -28,7 +28,6 @@ Knowledge Owl Angular
 - 6.0.0-beta.1
 - 6.0.1
 - 6.0.1-beta.1
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

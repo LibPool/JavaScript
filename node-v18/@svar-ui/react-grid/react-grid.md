@@ -28,7 +28,6 @@ Fast, feature-rich React DataGrid with virtual scrolling, cell editing, sorting,
 - 2.7.2
 - 2.7.3
 - 2.7.4
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

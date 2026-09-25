@@ -16,16 +16,16 @@ A React renderer for Threejs
 
 - 当前版本：9.8.0
 
-- 9.1.3
-- 9.1.4
-- 9.2.0
-- 9.3.0
-- 9.4.0
-- 9.4.1
-- 9.4.2
-- 9.5.0
-- 9.6.0
-- 9.6.1
+- 10.0.0-canary.c6846c3
+- 10.0.0-canary.cdaab7c
+- 10.0.0-canary.ce4bd5f
+- 10.0.0-canary.d91831d
+- 10.0.0-canary.da7a768
+- 10.0.0-canary.e881a4a
+- 10.0.0-canary.eb6c14f
+- 10.0.0-canary.f49e56e
+- 10.0.0-canary.f5d9cbd
+- 10.0.0-canary.fd3335d
 - 9.7.0
 - 9.8.0
 - 共 348 个版本，完整清单见 npm registry。

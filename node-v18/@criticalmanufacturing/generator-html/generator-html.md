@@ -28,7 +28,6 @@ CMF HTML GUI Scaffolding
 - 8.0.7
 - 8.1.0
 - 8.1.1
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

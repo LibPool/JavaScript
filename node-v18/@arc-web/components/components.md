@@ -28,7 +28,6 @@ Web-components built on the ARC design system
 - 3.4.1
 - 3.5.0
 - 3.6.0
-- 共 49 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

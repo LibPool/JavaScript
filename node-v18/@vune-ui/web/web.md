@@ -27,7 +27,6 @@ DOM and HTML renderers for the renderer-independent Vune core.
 - 0.1.3
 - 0.1.5
 - 0.1.6
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

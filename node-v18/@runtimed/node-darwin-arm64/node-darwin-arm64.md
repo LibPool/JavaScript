@@ -28,7 +28,6 @@ macOS arm64 native N-API binding for @runtimed/node.
 - 0.5.4
 - 0.5.5
 - 0.5.6
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

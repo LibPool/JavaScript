@@ -27,7 +27,6 @@ Trillet Web SDK for real-time audio communication with AI agents
 - 1.7.0
 - 1.7.1
 - 1.9.1
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

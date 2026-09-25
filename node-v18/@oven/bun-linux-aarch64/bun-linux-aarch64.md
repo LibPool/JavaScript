@@ -28,7 +28,7 @@ This is the macOS arm64 binary for Bun, a fast all-in-one JavaScript runtime.
 - 1.4.2-canary.20260919.1
 - 1.4.2-canary.20260921.1
 - 1.4.2-canary.20260922.1
-- 共 1354 个版本，完整清单见 npm registry。
+- 共 1,354 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Emit Instructure design tokens as @property-typed CSS with light-dark() and icon
 - 0.3.7
 - 0.3.8
 - 0.3.9
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

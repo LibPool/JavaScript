@@ -16,7 +16,7 @@ This module contains SCSS and CSS styles used by Maggioli Design System, it also
 
 - 当前版本：16.0.1
 
-- 6.4.0
+- 16.0.1
 - 6.5.0
 - 6.5.1
 - 6.5.2

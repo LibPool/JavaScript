@@ -28,7 +28,6 @@ React Native TextInput replacement to allow pasting files (Fabric only)
 - 0.8.1
 - 2.0.0
 - 2.0.1
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

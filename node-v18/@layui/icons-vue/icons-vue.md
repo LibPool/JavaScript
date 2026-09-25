@@ -27,7 +27,6 @@ a component library for Vue 3 base on layui-vue
 - 1.1.1-alpha.1
 - 1.1.2
 - 1.1.3
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -16,18 +16,18 @@ Blazing fast, zero configuration web application bundler
 
 - 当前版本：2.16.4
 
-- 2.9.4-nightly.2993
-- 2.9.4-nightly.2996
-- 2.9.4-nightly.2997
-- 2.9.4-nightly.2999
-- 2.9.4-nightly.3003
-- 2.9.4-nightly.3004
-- 2.9.4-nightly.3008
-- 2.9.4-nightly.3009
-- 2.9.4-nightly.3014
-- 2.9.4-nightly.3018
-- 2.9.4-nightly.3022
-- 2.9.4-nightly.3023
+- 2.15.5-canary.3483
+- 2.15.5-canary.3484
+- 2.16.0
+- 2.16.1
+- 2.16.1-canary.3486
+- 2.16.1-canary.3487
+- 2.16.2
+- 2.16.2-canary.3489
+- 2.16.3
+- 2.16.4
+- 2.16.4-canary.3496
+- 2.16.5-canary.3498
 - 共 361 个版本，完整清单见 npm registry。
 
 ## 获取地址

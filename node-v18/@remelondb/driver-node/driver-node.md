@@ -28,7 +28,6 @@ remelonDB SqliteDriver for Node (better-sqlite3)
 - 0.3.1
 - 0.3.1-dev.0
 - 0.3.1-dev.2
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

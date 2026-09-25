@@ -1,0 +1,22 @@
+# @iarna/testpkg
+
+> 标签: JavaScript
+
+## 简介
+
+<!-- Can a comment in the markdown be used to pass through arbitrary info? -->
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@iarna/testpkg
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @iarna/testpkg`
+- npm registry：https://registry.npmjs.org/@iarna/testpkg

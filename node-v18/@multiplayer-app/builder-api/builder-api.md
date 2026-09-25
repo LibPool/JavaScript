@@ -27,7 +27,6 @@ Embeddable Builder HTTP API and agent runtime
 - 0.0.46-beta.5
 - 0.0.46-beta.6
 - 0.0.46-beta.7
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

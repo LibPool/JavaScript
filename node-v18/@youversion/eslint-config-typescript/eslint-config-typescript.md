@@ -27,7 +27,6 @@ YouVersion ESLint configuration for TypeScript and Next.js
 - 4.0.3
 - 4.0.4
 - 4.0.5
-- 共 42 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -27,7 +27,6 @@ Unified snapshot persistence + append-only log abstraction. Backends: memory, fi
 - 0.1.0-alpha.29
 - 0.1.0-alpha.30
 - 0.1.0-alpha.9
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

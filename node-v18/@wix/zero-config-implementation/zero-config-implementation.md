@@ -15,8 +15,8 @@ Core library for extracting component manifests from JS and CSS files
 
 - 当前版本：1.103.0
 
+- 1.88.0
 - 1.89.0
-- 1.9.0
 - 1.90.0
 - 1.91.0
 - 1.92.0

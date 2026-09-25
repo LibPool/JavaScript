@@ -28,7 +28,6 @@ A Vue activity button component.
 - 4.0.7
 - 4.0.8
 - 4.0.9
-- 共 49 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

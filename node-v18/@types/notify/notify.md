@@ -28,7 +28,6 @@ TypeScript definitions for notify
 - 5000.0.24-alpha
 - 5000.0.25-alpha
 - 5000.0.26-alpha
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

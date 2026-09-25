@@ -28,7 +28,7 @@ This library provides several features which make it easier to run your Angular 
 - 22.1.0-dev.202609210054
 - 22.1.0-dev.202609220050
 - 22.1.0-dev.202609230049
-- 共 1581 个版本，完整清单见 npm registry。
+- 共 1,581 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

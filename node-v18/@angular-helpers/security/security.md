@@ -28,7 +28,6 @@ Angular security helpers for preventing ReDoS and other security vulnerabilities
 - 22.6.0
 - 22.7.0
 - 22.8.0
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

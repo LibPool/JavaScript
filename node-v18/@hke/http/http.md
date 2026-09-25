@@ -28,7 +28,6 @@ Small and easy HTTP request wrapper
 - 0.2.4
 - 0.2.6
 - 0.2.7
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

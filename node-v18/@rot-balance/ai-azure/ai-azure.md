@@ -1,0 +1,27 @@
+# @rot-balance/ai-azure
+
+> 标签: ai, azure, gpt, llm, multi-model, openai, orchestration, rot-balance, workflow
+
+## 简介
+
+Azure OpenAI adapter for rot-balance AI engine — GPT-4o, GPT-4o-mini, Phi-4 support via Azure OpenAI Service
+
+## 官网
+
+- 官网：https://github.com/arbade/rot-balance#readme
+- 源码仓库：git+https://github.com/arbade/rot-balance.git
+- npm 页面：https://www.npmjs.com/package/@rot-balance/ai-azure
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.1.0
+- 0.2.0
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @rot-balance/ai-azure`
+- npm registry：https://registry.npmjs.org/@rot-balance/ai-azure
+- Node 要求：>=20.0.0

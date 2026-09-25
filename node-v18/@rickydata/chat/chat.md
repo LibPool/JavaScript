@@ -1,0 +1,30 @@
+# @rickydata/chat
+
+> 标签: JavaScript
+
+## 简介
+
+Reusable floating chat bubble with wallet auth, SSE streaming, agent actions, and theming
+
+## 官网
+
+- 官网：https://github.com/rickycambrian/rickydata_SDK#readme
+- 源码仓库：git+https://github.com/rickycambrian/rickydata_SDK.git
+- npm 页面：https://www.npmjs.com/package/@rickydata/chat
+
+## 历史版本号
+
+- 当前版本：0.1.12
+
+- 0.1.1
+- 0.1.10
+- 0.1.11
+- 0.1.12
+- 0.1.5
+- 0.1.6
+- 0.1.7
+
+## 获取地址
+
+- npm 安装：`npm install @rickydata/chat`
+- npm registry：https://registry.npmjs.org/@rickydata/chat

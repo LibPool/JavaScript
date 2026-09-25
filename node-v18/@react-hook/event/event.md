@@ -28,7 +28,6 @@ A React hook for managing event listeners, e.g. removing events when a component
 - 1.2.4
 - 1.2.5
 - 1.2.6
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

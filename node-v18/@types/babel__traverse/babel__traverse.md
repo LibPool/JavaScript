@@ -28,7 +28,6 @@ TypeScript definitions for @babel/traverse
 - 7.20.6
 - 7.20.7
 - 7.28.0
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

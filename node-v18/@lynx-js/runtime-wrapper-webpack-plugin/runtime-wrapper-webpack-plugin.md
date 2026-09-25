@@ -28,7 +28,6 @@ Use runtime wrapper which allow JavaScript to be load by Lynx.
 - 0.2.2
 - 0.2.3
 - 0.2.4
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

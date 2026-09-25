@@ -28,7 +28,6 @@ Reads/Writes CSS variables (CSS custom properties) in javascript property.
 - 3.2.0
 - 3.3.0
 - 4.0.0
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

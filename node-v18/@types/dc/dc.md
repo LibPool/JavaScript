@@ -28,7 +28,6 @@ TypeScript definitions for dc
 - 4.2.3
 - 4.2.4
 - 4.2.5
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

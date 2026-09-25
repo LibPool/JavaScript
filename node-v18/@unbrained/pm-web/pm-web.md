@@ -28,7 +28,6 @@ Full web UI for pm-cli — browse, create, update, search and manage pm projects
 - 2026.9.6
 - 2026.9.8
 - 2026.9.9
-- 共 48 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

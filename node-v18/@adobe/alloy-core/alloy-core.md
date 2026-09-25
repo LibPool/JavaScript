@@ -28,7 +28,6 @@ Adobe Experience Platform Web SDK Core
 - 1.2.3-beta.0
 - 1.2.3-beta.1
 - 1.2.3-beta.2
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

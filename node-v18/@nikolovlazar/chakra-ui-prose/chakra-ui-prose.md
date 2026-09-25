@@ -28,7 +28,6 @@ A custom Chakra UI component that adds ready-made styles for rendering remote HT
 - 1.1.0
 - 1.2.0
 - 1.2.1
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

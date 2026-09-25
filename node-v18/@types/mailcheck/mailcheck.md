@@ -28,7 +28,6 @@ TypeScript definitions for mailcheck
 - 1.1.35
 - 1.1.36
 - 1.1.37
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

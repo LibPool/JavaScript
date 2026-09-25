@@ -28,7 +28,6 @@ Simple, secure, & standards compliant web server for the most demanding of appli
 - 20.4.0-unofficial.4
 - 20.4.0-unofficial.5
 - 20.8.0-unofficial.0
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

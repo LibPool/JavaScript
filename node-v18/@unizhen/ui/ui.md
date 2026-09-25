@@ -15,8 +15,8 @@ This template should help get you started developing with Vue 3 in Vite.
 
 - 当前版本：0.1.119
 
+- 0.1.88
 - 0.1.89
-- 0.1.9
 - 0.1.90
 - 0.1.91
 - 0.1.92

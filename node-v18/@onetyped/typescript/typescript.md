@@ -28,7 +28,6 @@ onetyped TypeScript integration
 - 1.0.1
 - 1.0.1-canary.980a702llc8
 - 1.0.2-canary.2dfb1delosg
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

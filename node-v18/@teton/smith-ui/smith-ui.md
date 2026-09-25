@@ -28,7 +28,6 @@ Smith dashboard design-system primitives (React + Tailwind CSS v4).
 - 0.2.199
 - 0.2.200
 - 0.2.201
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

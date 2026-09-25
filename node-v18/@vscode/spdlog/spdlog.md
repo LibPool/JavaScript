@@ -28,7 +28,6 @@ Node bindings for spdlog
 - 0.15.6
 - 0.15.7
 - 0.15.8
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Web component that displays a binary on/off switch control
 - 25.3.0-dev.1fa5a51482
 - 25.3.0-dev.3a3c2d7d2a
 - 25.3.0-rc1
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

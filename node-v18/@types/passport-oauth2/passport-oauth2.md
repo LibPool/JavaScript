@@ -28,7 +28,6 @@ TypeScript definitions for passport-oauth2
 - 1.4.8
 - 1.4.9
 - 1.8.0
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

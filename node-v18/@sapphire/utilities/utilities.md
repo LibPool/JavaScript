@@ -16,19 +16,19 @@ Common JavaScript utilities for the Sapphire Community
 
 - 当前版本：3.18.2
 
-- 3.9.4-next.ef71fa9.0
-- 3.9.4-next.f224a82.0
-- 3.9.4-next.ff9cb61.0
-- 4.0.0-next.582ebde0.0
-- 4.0.0-pr-584.b444d5b.0
-- 4.0.0-pr-587.03cfe5a.0
-- 4.0.0-pr-587.0d75167.0
-- 4.0.0-pr-587.205914b.0
-- 4.0.0-pr-587.e9607661.0
-- 4.0.0-pr-589.aa473f9.0
-- 4.0.0-pr-601.2f2c308a.0
+- 3.18.3-next.ceacefc4
+- 3.18.3-next.d57ec0d7
+- 3.18.3-next.db5e97fc
+- 3.18.3-next.e6d4bac4
+- 3.18.3-next.ee9cdb94
+- 3.18.3-next.f3515ea3
+- 3.18.3-next.f5dc58df
+- 3.18.3-next.fff340cc
+- 3.18.3-pr-996.17c2bfe6
+- 3.18.3-pr-996.4cfde08c
+- 3.18.3-pr-996.e96e6181
 - 4.0.0-pr-935.7da5c8bb
-- 共 1040 个版本，完整清单见 npm registry。
+- 共 1,040 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

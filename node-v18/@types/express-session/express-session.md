@@ -28,7 +28,6 @@ TypeScript definitions for express-session
 - 1.18.1
 - 1.18.2
 - 1.19.0
-- 共 46 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,7 @@ Application components using Polymer and/or Vue components for webcomponents-ui.
 - 4.1.1
 - 4.1.1-td-3688.1
 - 4.1.1-td-3688.2
-- 共 1655 个版本，完整清单见 npm registry。
+- 共 1,655 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

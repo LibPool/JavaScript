@@ -28,7 +28,6 @@ TypeScript definitions for react-tag-autocomplete
 - 6.3.1
 - 6.3.2
 - 6.3.3
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

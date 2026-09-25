@@ -28,7 +28,6 @@ An embeddable solution for connecting frames of HTML publications with a Readium
 - 2.8.0
 - 2.8.1
 - 2.8.2
-- 共 46 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

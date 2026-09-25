@@ -27,7 +27,6 @@ Nimbus http client
 - 1.0.7-alpha.0
 - 1.0.8-alpha.0
 - 1.0.9-alpha.0
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

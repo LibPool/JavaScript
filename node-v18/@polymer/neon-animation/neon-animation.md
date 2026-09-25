@@ -28,7 +28,6 @@ A system for animating Polymer-based web components
 - 3.0.0-pre.7
 - 3.0.0-pre.8
 - 3.0.1
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

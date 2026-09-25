@@ -28,7 +28,6 @@ Parse HTML content for gitbook
 - 6.2.0
 - 6.2.1
 - 6.2.2
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

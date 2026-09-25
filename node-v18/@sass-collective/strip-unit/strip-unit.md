@@ -28,7 +28,6 @@ Strip unit on CSS value.
 - 3.1.0
 - 3.1.1
 - 3.1.2
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

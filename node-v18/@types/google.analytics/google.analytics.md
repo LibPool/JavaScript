@@ -28,7 +28,6 @@ TypeScript definitions for google.analytics
 - 0.0.44
 - 0.0.45
 - 0.0.46
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

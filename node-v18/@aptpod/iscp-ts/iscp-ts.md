@@ -27,7 +27,6 @@ iSCP 2.0 client library for TypeScript
 - 1.1.1-beta.0
 - 1.1.2-beta.0
 - 1.1.2-beta.1
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

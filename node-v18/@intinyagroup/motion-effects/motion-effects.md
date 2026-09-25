@@ -28,7 +28,6 @@ CSS effects and transitions for @intinyagroup/motion
 - 0.1.1-alpha.7
 - 0.1.1-alpha.8
 - 0.1.1-alpha.9
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

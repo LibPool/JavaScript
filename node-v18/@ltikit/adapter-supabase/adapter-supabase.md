@@ -1,0 +1,29 @@
+# @ltikit/adapter-supabase
+
+> 标签: JavaScript
+
+## 简介
+
+Supabase/Postgres PlatformStore + NonceStore adapters for ltikit.
+
+## 官网
+
+- 官网：https://liberate-labs.github.io/ltikit-sdk/guides/supabase-adapter/
+- 源码仓库：git+https://github.com/Liberate-Labs/ltikit-sdk.git
+- npm 页面：https://www.npmjs.com/package/@ltikit/adapter-supabase
+
+## 历史版本号
+
+- 当前版本：1.0.0-rc.5
+
+- 1.0.0-rc.0
+- 1.0.0-rc.1
+- 1.0.0-rc.2
+- 1.0.0-rc.3
+- 1.0.0-rc.4
+- 1.0.0-rc.5
+
+## 获取地址
+
+- npm 安装：`npm install @ltikit/adapter-supabase`
+- npm registry：https://registry.npmjs.org/@ltikit/adapter-supabase

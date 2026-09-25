@@ -28,7 +28,6 @@ This package contains the macOS arm64 prebuilt used by `@floegence/flowersec-nod
 - 5.3.1
 - 5.4.0
 - 5.4.1
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

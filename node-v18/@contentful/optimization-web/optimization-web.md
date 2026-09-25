@@ -28,7 +28,6 @@ Framework-agnostic Web client SDK for Contentful Optimization
 - 1.2.0
 - 1.3.0
 - 2.0.0
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

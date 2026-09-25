@@ -28,7 +28,6 @@ Web-based terminal emulator using Ghostty's VT100 parser via WebAssembly
 - 0.4.5-next.2.gcbcb3b2
 - 0.4.6
 - 0.4.6-next.0.g71c16ee
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

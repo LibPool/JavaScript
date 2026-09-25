@@ -16,6 +16,8 @@ Lime Web Components Testing (deprecated)
 
 - 当前版本：1.0.0
 
+- 4.49.1-alpha.6
+- 4.50.0-alpha.1
 - 4.50.0-alpha.3
 - 4.50.0-alpha.4
 - 4.50.1-alpha.0
@@ -26,8 +28,6 @@ Lime Web Components Testing (deprecated)
 - 4.51.2
 - 4.51.8
 - 4.53.1
-- 4.6.0
-- 4.9.0
 - 共 102 个版本，完整清单见 npm registry。
 
 ## 获取地址

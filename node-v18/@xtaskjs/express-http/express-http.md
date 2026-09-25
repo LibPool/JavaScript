@@ -28,7 +28,6 @@ Express HTTP adapter for xtaskjs.
 - 1.0.44
 - 1.0.46
 - 1.0.9
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

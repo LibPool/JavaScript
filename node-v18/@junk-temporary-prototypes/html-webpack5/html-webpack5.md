@@ -28,7 +28,6 @@ Storybook for HTML: View HTML snippets in isolation with Hot Reloading.
 - 7.2.3
 - 7.2.4
 - 7.2.5
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

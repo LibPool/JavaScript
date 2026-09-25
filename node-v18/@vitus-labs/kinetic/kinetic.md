@@ -28,7 +28,6 @@ Lightweight CSS-transition-based animation components for React
 - 2.7.1
 - 2.7.2
 - 2.7.4
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

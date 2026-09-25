@@ -16,6 +16,8 @@ Shared TypeScript configuration for the monorepo
 
 - 当前版本：0.9.1
 
+- 0.5.0-canary.7
+- 0.5.0-canary.8
 - 0.5.0-canary.9
 - 0.6.0
 - 0.6.1
@@ -26,8 +28,6 @@ Shared TypeScript configuration for the monorepo
 - 0.9.1
 - 1.0.0-canary.6
 - 1.0.0-canary.7
-- 1.0.1-canary.2
-- 1.0.1-canary.3
 - 共 144 个版本，完整清单见 npm registry。
 
 ## 获取地址

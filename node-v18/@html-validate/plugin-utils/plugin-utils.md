@@ -28,7 +28,6 @@ Plugin utilities and helpers for writing plugins to HTML-Validate
 - 4.0.0
 - 4.1.0
 - 4.2.0
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Flexible field, textarea, and select component for Vue.
 - 1.3.1
 - 1.4.0
 - 1.5.0
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Fully Type-Safe Integration for React Native WebView and Web
 - 1.7.8
 - 1.7.9
 - 1.8.0
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -16,18 +16,18 @@ Rebase design system — React components and design tokens built on Radix UI, T
 
 - 当前版本：0.22.0
 
-- 0.9.1-canary.c0d4c07
-- 0.9.1-canary.d198c11
-- 0.9.1-canary.d906fb7
-- 0.9.1-canary.e2fc7b6
-- 0.9.1-canary.e3f810f
-- 0.9.1-canary.eab7ae2
-- 0.9.1-canary.ed943fa
-- 0.9.1-canary.f0ac103
-- 0.9.1-canary.f2f61da
-- 0.9.1-canary.faee831
-- 0.9.1-canary.fd3754b
-- 0.9.1-canary.ff338b5
+- 0.19.2-canary.g3502017
+- 0.19.2-canary.g7199920
+- 0.19.2-canary.g98b88fd
+- 0.19.2-canary.g9b599d4
+- 0.19.2-canary.gef769df
+- 0.20.0
+- 0.20.1-canary.g4d882ca
+- 0.21.0
+- 0.21.1
+- 0.21.1-canary.g8c5a265
+- 0.21.2-canary.g1ea48be
+- 0.22.0
 - 共 260 个版本，完整清单见 npm registry。
 
 ## 获取地址

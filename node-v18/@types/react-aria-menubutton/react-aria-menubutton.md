@@ -28,7 +28,6 @@ TypeScript definitions for react-aria-menubutton
 - 6.2.7
 - 6.2.8
 - 6.2.9
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

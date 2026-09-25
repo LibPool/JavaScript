@@ -28,7 +28,6 @@ TypeScript definitions for passport-google-oauth
 - 1.0.43
 - 1.0.44
 - 1.0.45
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

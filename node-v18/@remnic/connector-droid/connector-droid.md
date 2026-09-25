@@ -16,10 +16,11 @@ Factory Droid connector for Remnic — connect Droid to your shared memory store
 
 - 当前版本：9.69.56
 
+- 9.69.75
+- 9.69.76
 - 9.69.77
 - 9.69.78
 - 9.69.79
-- 9.69.8
 - 9.69.80
 - 9.69.81
 - 9.69.82
@@ -27,7 +28,6 @@ Factory Droid connector for Remnic — connect Droid to your shared memory store
 - 9.69.84
 - 9.69.85
 - 9.69.86
-- 9.69.9
 - 共 126 个版本，完整清单见 npm registry。
 
 ## 获取地址

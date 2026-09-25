@@ -1,0 +1,23 @@
+# @mozhou-tech/editor
+
+> 标签: tiptap, tiptap-extension
+
+## 简介
+
+The non-official starter kit of the Tiptap editor contains common extensions.
+
+## 官网
+
+- 官网：https://github.com/auleti/aieditor
+- npm 页面：https://www.npmjs.com/package/@mozhou-tech/editor
+
+## 历史版本号
+
+- 当前版本：0.5.7
+
+- 0.5.7
+
+## 获取地址
+
+- npm 安装：`npm install @mozhou-tech/editor`
+- npm registry：https://registry.npmjs.org/@mozhou-tech/editor

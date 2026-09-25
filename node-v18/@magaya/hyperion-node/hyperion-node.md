@@ -16,19 +16,19 @@ Hyperion project to be used with node.
 
 - 当前版本：11.64.12
 
+- 14.50.9-blue-staging.0
+- 14.60.2-blue-beta.0
+- 14.60.2-blue-staging.0
+- 14.60.3-blue-beta.0
+- 14.60.3-blue-staging.0
+- 14.60.4-blue-beta.0
+- 14.60.4-blue-staging.0
+- 14.60.5-blue-beta.0
+- 14.60.5-blue-staging.0
+- 14.60.6-blue-beta.0
 - 14.70.2-blue-beta.0
 - 14.70.3-blue-beta.0
-- 2.0.0
-- 2.0.1
-- 2.0.2
-- 2.0.3
-- 3.0.0
-- 3.0.1
-- 3.1.0
-- 3.1.1
-- 3.1.2
-- 3.1.3
-- 共 1410 个版本，完整清单见 npm registry。
+- 共 1,410 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

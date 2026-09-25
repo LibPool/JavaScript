@@ -28,7 +28,6 @@ Gracefully exit HTTP servers  (Express/Koa/Fastify/etc), databases (Mongo/Mongoo
 - 4.1.0
 - 4.2.0
 - 5.0.0
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

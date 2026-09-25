@@ -28,7 +28,6 @@ TypeScript definitions for passport-azure-ad
 - 4.3.4
 - 4.3.5
 - 4.3.6
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

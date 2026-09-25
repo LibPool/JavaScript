@@ -28,7 +28,6 @@ TypeScript definitions for webcomponents.js
 - 0.6.37
 - 0.6.38
 - 0.6.39
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

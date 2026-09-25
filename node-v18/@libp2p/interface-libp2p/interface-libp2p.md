@@ -28,7 +28,6 @@ The interface implemented by a libp2p node
 - 3.2.0-d2f1eff4
 - 3.2.0-d853d124
 - 3.2.0-ea8a0637
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

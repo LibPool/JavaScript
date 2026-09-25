@@ -16,7 +16,7 @@ A fast and modern bundler for Node.js and TypeScript.
 
 - 当前版本：2.1.0
 
-- 2.0.0-alpha.9
+- 2.0.0-alpha.89
 - 2.0.0-alpha.90
 - 2.0.0-alpha.91
 - 2.0.0-alpha.92

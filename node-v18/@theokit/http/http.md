@@ -28,7 +28,6 @@ NestJS-style decorators (@Controller, @Get, @Post, @Body, @UseGuards) over Web S
 - 2.1.0-next.0
 - 2.2.0
 - 2.3.0
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

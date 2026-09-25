@@ -28,7 +28,6 @@ TypeScript definitions for prop-types
 - 15.7.7
 - 15.7.8
 - 15.7.9
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ The core engine of GestureEvents, a modern and robust multi-pointer gesture dete
 - 9.7.0
 - 9.8.0
 - 9.9.0
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

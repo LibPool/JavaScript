@@ -1,0 +1,22 @@
+# @serafort/nuxt
+
+> 标签: JavaScript
+
+## 简介
+
+Nuxt 3 module for Serafort B2B authentication, reactive composables (useUser, useSerafort), and Nitro server guards.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@serafort/nuxt
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @serafort/nuxt`
+- npm registry：https://registry.npmjs.org/@serafort/nuxt

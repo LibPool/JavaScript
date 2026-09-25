@@ -28,7 +28,6 @@ TypeScript definitions for webpack-hot-middleware
 - 2.25.7
 - 2.25.8
 - 2.25.9
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

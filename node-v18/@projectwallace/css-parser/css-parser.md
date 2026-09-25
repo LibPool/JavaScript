@@ -16,8 +16,8 @@ High-performance CSS lexer and parser, optimized for CSS inspection and analysis
 
 - 当前版本：0.18.7
 
-- 0.8.0
-- 0.8.1
+- 0.18.6
+- 0.18.7
 - 0.8.10
 - 0.8.2
 - 0.8.3

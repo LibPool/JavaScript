@@ -28,7 +28,6 @@ Model Context Protocol integration for Ts.ED HTTP adapters.
 - 8.38.6
 - 8.38.7
 - 8.38.8
-- 共 42 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

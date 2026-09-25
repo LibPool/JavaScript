@@ -28,7 +28,6 @@ Interact with css custom properties dynamically in the Storybook UI
 - 5.0.2
 - 6.0.0
 - 6.1.0
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

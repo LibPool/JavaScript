@@ -28,7 +28,6 @@ A fast, efficient parser for multipart streams in any JavaScript environment
 - 0.16.3
 - 0.16.4
 - 0.16.5
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

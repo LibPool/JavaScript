@@ -27,7 +27,6 @@ Official React bindings for embedding [Myop](https://myop.dev) components in you
 - 0.1.2
 - 0.1.3
 - 0.1.4
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

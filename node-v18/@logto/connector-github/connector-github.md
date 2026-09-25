@@ -27,7 +27,6 @@ Github web connector implementation.
 - 1.7.4
 - 1.7.5
 - 1.7.6
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

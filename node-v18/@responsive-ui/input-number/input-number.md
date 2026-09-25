@@ -1,0 +1,36 @@
+# @responsive-ui/input-number
+
+> 标签: input-number, number, responsive-ui, svelte, svelte-input-number, ui-component
+
+## 简介
+
+A input number component of responsive-ui.
+
+## 官网
+
+- 官网：https://github.com/wetix/responsive-ui/blob/main/components/input-number#README.md
+- 源码仓库：git+https://github.com/wetix/responsive-ui.git
+- npm 页面：https://www.npmjs.com/package/@responsive-ui/input-number
+
+## 历史版本号
+
+- 当前版本：1.1.0-alpha.58
+
+- 1.1.0-alpha.4
+- 1.1.0-alpha.5
+- 1.1.0-alpha.51
+- 1.1.0-alpha.52
+- 1.1.0-alpha.53
+- 1.1.0-alpha.54
+- 1.1.0-alpha.58
+- 1.1.0-alpha.6
+- 1.1.0-alpha.7
+- 1.1.0-alpha.8
+- 1.1.1-alpha.0
+- 1.1.1-alpha.2
+- 共 65 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @responsive-ui/input-number`
+- npm registry：https://registry.npmjs.org/@responsive-ui/input-number

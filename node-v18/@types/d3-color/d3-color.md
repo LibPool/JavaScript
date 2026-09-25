@@ -28,7 +28,6 @@ TypeScript definitions for d3-color
 - 3.1.1
 - 3.1.2
 - 3.1.3
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

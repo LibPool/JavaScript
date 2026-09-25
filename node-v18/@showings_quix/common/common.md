@@ -1,0 +1,23 @@
+# @showings_quix/common
+
+> 标签: JavaScript
+
+## 简介
+
+UI公共函数
+
+## 官网
+
+- 源码仓库：https://github.com/wuxinzhe/QuixUI/tree/master/Avatar
+- npm 页面：https://www.npmjs.com/package/@showings_quix/common
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @showings_quix/common`
+- npm registry：https://registry.npmjs.org/@showings_quix/common

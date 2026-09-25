@@ -28,7 +28,6 @@ A plugin for Tailwind CSS v3.2+ that provides utilities for container queries.
 - 0.0.0-insiders.fffc233
 - 0.1.0
 - 0.1.1
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

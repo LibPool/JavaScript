@@ -1,0 +1,27 @@
+# @pithos-kit/skills
+
+> 标签: ears, iso-29148, pi-package, pi-prompt-template, pi-skill, pithos, requirements, srs, tdd, test-driven-development
+
+## 简介
+
+SRS prompting and test-driven development guidance for Pi.
+
+## 官网
+
+- 官网：https://github.com/anton-kochev/pithos-kit#readme
+- 源码仓库：git+https://github.com/anton-kochev/pithos-kit.git
+- npm 页面：https://www.npmjs.com/package/@pithos-kit/skills
+
+## 历史版本号
+
+- 当前版本：0.5.0
+
+- 0.0.0
+- 0.3.2
+- 0.4.0
+- 0.5.0
+
+## 获取地址
+
+- npm 安装：`npm install @pithos-kit/skills`
+- npm registry：https://registry.npmjs.org/@pithos-kit/skills

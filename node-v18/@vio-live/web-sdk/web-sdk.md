@@ -28,7 +28,6 @@ Vio Web SDK — in-site shoppable + native checkout, designed for editorial comm
 - 0.8.0
 - 0.9.0
 - 0.9.1
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

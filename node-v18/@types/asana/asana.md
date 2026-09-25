@@ -28,7 +28,6 @@ TypeScript definitions for asana
 - 0.18.7
 - 0.18.8
 - 0.18.9
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

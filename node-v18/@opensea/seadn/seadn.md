@@ -28,7 +28,6 @@ Javascript SDK to work with SeaDN
 - 2.3.8
 - 2.3.9
 - 2.4.0
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

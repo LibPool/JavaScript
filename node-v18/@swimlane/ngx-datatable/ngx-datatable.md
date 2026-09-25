@@ -16,18 +16,18 @@ ngx-datatable is an Angular table grid component for presenting large and comple
 
 - 当前版本：25.1.0
 
-- 7.2.1
-- 7.3.0
-- 8.0.0
-- 8.0.1
-- 8.1.0
-- 8.2.0
-- 8.2.1
-- 9.0.0
-- 9.1.0
-- 9.2.0
-- 9.3.0
-- 9.3.1
+- 22.0.0-alpha.0
+- 22.0.0-alpha.1
+- 23.0.1
+- 24.0.0
+- 24.0.0-alpha.0
+- 24.0.1
+- 25.0.0
+- 25.1.0
+- 25.1.0-beta.0
+- 25.1.0-beta.1
+- 26.0.0-beta.0
+- 26.0.0-beta.1
 - 共 97 个版本，完整清单见 npm registry。
 
 ## 获取地址

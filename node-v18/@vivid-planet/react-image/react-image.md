@@ -1,0 +1,32 @@
+# @vivid-planet/react-image
+
+> 标签: image, img, loading, react, reactjs
+
+## 简介
+
+Image component with loading animation for react
+
+## 官网
+
+- 官网：https://github.com/vivid-planet/react-image#readme
+- 源码仓库：git+https://github.com/vivid-planet/react-image.git
+- npm 页面：https://www.npmjs.com/package/@vivid-planet/react-image
+
+## 历史版本号
+
+- 当前版本：1.3.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.1.0
+- 1.1.1
+- 1.2.0
+- 1.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @vivid-planet/react-image`
+- npm registry：https://registry.npmjs.org/@vivid-planet/react-image

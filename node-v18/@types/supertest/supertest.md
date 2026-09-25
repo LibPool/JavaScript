@@ -28,7 +28,6 @@ TypeScript definitions for supertest
 - 6.0.3
 - 7.2.0
 - 7.2.1
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

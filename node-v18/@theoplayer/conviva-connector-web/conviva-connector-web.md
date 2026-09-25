@@ -28,7 +28,6 @@ A connector implementing Conviva for web.
 - 3.3.0
 - 3.3.1
 - 3.3.2
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

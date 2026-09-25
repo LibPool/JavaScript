@@ -28,7 +28,6 @@ TypeScript library for reading and writing Excel xlsx files in Node and the brow
 - 0.9.0
 - 0.9.1
 - 0.9.2
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

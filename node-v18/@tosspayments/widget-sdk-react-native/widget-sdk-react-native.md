@@ -28,7 +28,6 @@ PaymentWidget SDK for React Native
 - 1.5.2-alpha.1
 - 1.5.2-beta.1
 - 1.5.2-beta.2
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

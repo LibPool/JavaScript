@@ -1,0 +1,35 @@
+# @turing-machine-js/builder
+
+> 标签: builder, machine, turing
+
+## 简介
+
+A turing machine builder — declarative state-table construction. Not actively developed by the author; the same state-table pattern is also shown as an inline example in @turing-machine-js/machine's README. Contributions welcome.
+
+## 官网
+
+- 官网：https://github.com/mellonis/turing-machine-js#readme
+- 源码仓库：git+https://github.com/mellonis/turing-machine-js.git
+- npm 页面：https://www.npmjs.com/package/@turing-machine-js/builder
+
+## 历史版本号
+
+- 当前版本：7.1.0
+
+- 6.3.0
+- 6.4.0
+- 7.0.0
+- 7.0.0-alpha.1
+- 7.0.0-alpha.2
+- 7.0.0-alpha.3
+- 7.0.0-alpha.4
+- 7.0.0-alpha.5
+- 7.0.0-alpha.6
+- 7.0.0-alpha.7
+- 7.0.0-alpha.8
+- 7.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @turing-machine-js/builder`
+- npm registry：https://registry.npmjs.org/@turing-machine-js/builder

@@ -28,7 +28,6 @@ TypeScript definitions for swipe
 - 2.0.29
 - 2.0.30
 - 2.0.31
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

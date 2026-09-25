@@ -28,7 +28,6 @@ Node.js vibrant ImageClass implementation
 - 4.0.0-alpha.5
 - 4.0.0-beta.1
 - 4.0.4
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

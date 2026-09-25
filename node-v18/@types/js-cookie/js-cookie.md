@@ -28,7 +28,6 @@ TypeScript definitions for js-cookie
 - 3.0.4
 - 3.0.5
 - 3.0.6
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for react-fontawesome
 - 1.6.6
 - 1.6.7
 - 1.6.8
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

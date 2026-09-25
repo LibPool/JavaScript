@@ -28,7 +28,6 @@ A blockchain indexing node with extended capabilities using bitcore
 - 11.8.1
 - 11.8.2
 - 11.9.0
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

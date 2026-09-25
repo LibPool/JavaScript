@@ -28,7 +28,6 @@ Constructor UI Components library for web applications
 - 1.6.1
 - 1.6.2
 - 1.7.0
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Vue Stripe elements and composables for Stripe.js
 - 5.5.0
 - 5.6.0
 - 5.7.0
-- 共 44 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

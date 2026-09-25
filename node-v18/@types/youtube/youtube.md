@@ -28,7 +28,6 @@ TypeScript definitions for youtube
 - 0.1.2
 - 0.2.0
 - 0.3.0
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

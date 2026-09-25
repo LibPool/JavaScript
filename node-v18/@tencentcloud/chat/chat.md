@@ -28,7 +28,6 @@ Tencent Cloud Chat SDK for Web/Mini Program/uni-app/React Native/Donut
 - 3.6.5
 - 3.6.6
 - 3.6.7
-- 共 49 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

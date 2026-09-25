@@ -28,7 +28,6 @@ Web color picker with opacity channel (alpha channel) and custom palette. Suppor
 - 2.5.0
 - 2.5.1
 - 2.5.2
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

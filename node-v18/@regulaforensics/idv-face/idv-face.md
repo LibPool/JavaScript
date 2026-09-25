@@ -15,18 +15,18 @@ Regula framework agnostic web components to work with face idv
 
 - 当前版本：3.8.481
 
-- 3.9.504-nightly
-- 3.9.505-nightly
-- 3.9.506-nightly
-- 4.0.507-nightly
-- 4.0.508-nightly
-- 4.0.509-rc
-- 4.0.510-nightly
-- 4.0.511-rc
-- 4.0.512-nightly
-- 4.0.513-rc
-- 4.0.514-nightly
-- 4.0.518-nightly
+- 3.10.570-rc
+- 3.10.571-nightly
+- 3.10.572-nightly
+- 3.10.573-nightly
+- 3.10.574-nightly
+- 3.10.575-rc
+- 3.10.576-nightly
+- 3.10.577-nightly
+- 3.10.578-rc
+- 3.10.579-nightly
+- 3.10.580-rc
+- 3.10.581-nightly
 - 共 415 个版本，完整清单见 npm registry。
 
 ## 获取地址

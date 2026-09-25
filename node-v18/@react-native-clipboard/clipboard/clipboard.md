@@ -28,7 +28,6 @@ React Native Clipboard API for macOS, iOS, Android, and Windows
 - 1.8.4
 - 1.8.5
 - 1.9.0
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

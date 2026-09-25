@@ -28,7 +28,6 @@ The Vue components for the Courier web UI
 - 1.1.1
 - 1.1.2
 - 1.1.3
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

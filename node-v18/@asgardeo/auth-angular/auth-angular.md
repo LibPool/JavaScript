@@ -28,7 +28,6 @@ Asgardeo Auth Angular SDK for Angular Applications.
 - 0.3.3
 - 0.3.4
 - 0.3.6
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

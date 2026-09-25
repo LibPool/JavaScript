@@ -28,7 +28,6 @@ HTTP Client for the iTwin Platform Reality Management APIs
 - 1.5.1
 - 1.6.0
 - 3.0.0-dev.80
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

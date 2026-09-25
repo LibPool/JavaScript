@@ -28,7 +28,6 @@ TypeScript definitions for custom-functions-runtime
 - 1.6.7
 - 1.6.8
 - 1.6.9
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

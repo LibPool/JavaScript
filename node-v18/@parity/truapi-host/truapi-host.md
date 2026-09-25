@@ -28,7 +28,6 @@ WASM-backed TrUAPI host runtime: embeds the Rust core, with web iframe and Web W
 - 0.7.0
 - 0.8.0
 - 0.9.0
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

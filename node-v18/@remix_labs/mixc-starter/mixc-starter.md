@@ -28,7 +28,7 @@ start the compiler in a web worker
 - 2.9022.0-dev
 - 2.9024.0-dev
 - 2.9026.0-dev
-- 共 2632 个版本，完整清单见 npm registry。
+- 共 2,632 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

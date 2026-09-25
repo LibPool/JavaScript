@@ -28,7 +28,6 @@ Node specifications for the Kinobi standard
 - 0.21.4
 - 0.21.5
 - 0.22.0
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

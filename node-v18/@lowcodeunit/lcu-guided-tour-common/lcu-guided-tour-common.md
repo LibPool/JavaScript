@@ -15,18 +15,18 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 
 - 当前版本：1.24.223
 
-- 1.9.54-8021-update-welcome-blade
-- 1.9.55-8021-update-welcome-blade
-- 1.9.56-8193-angular-10
-- 1.9.57-integration
-- 1.9.59-8021-update-welcome-blade
-- 1.9.61-8193-angular-10
-- 1.9.62-integration
-- 1.9.63-8021-update-welcome-blade
-- 1.9.64-8193-angular-10
-- 1.9.65-integration
-- 1.9.66-8021-update-welcome-blade
-- 1.9.67-8193-angular-10
+- 1.23.214-8193-angular-10
+- 1.23.215-integration
+- 1.23.216-integration
+- 1.23.217-8812-angular11
+- 1.23.220-8812-angular11
+- 1.23.221-integration
+- 1.23.222-textchanges
+- 1.24.223
+- 1.24.224-integration
+- 1.24.225-textchanges
+- 1.24.226-integration
+- 1.24.227-integration
 - 共 209 个版本，完整清单见 npm registry。
 
 ## 获取地址

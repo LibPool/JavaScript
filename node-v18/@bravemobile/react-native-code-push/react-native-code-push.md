@@ -16,8 +16,8 @@ React Native plugin for the CodePush service
 
 - 当前版本：13.3.1
 
-- 9.0.0-alpha.4
-- 9.0.0-beta.0
+- 13.3.1
+- 9.0.0
 - 9.0.0-beta.1
 - 9.0.0-beta.2
 - 9.0.0-beta.3

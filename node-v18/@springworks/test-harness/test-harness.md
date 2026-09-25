@@ -1,0 +1,37 @@
+# @springworks/test-harness
+
+> 标签: JavaScript
+
+## 简介
+
+Setup should and sinon with plugins
+
+## 官网
+
+- 官网：https://github.com/Springworks/node-test-harness#readme
+- 源码仓库：git+https://github.com/Springworks/node-test-harness.git
+- npm 页面：https://www.npmjs.com/package/@springworks/test-harness
+
+## 历史版本号
+
+- 当前版本：3.0.2
+
+- 1.5.3
+- 1.5.4
+- 1.5.5
+- 1.5.6
+- 1.5.7
+- 2.0.0
+- 2.0.1
+- 2.0.2
+- 2.0.3
+- 3.0.0
+- 3.0.1
+- 3.0.2
+- 共 51 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @springworks/test-harness`
+- npm registry：https://registry.npmjs.org/@springworks/test-harness
+- Node 要求：>=6

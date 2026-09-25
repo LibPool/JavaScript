@@ -28,7 +28,6 @@ Better Stack Node.js logger (formerly Logtail)
 - 0.5.6
 - 0.5.8
 - 0.5.9
-- 共 45 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

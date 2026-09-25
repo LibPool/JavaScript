@@ -28,7 +28,6 @@ TypeScript definitions for @styled-system/css
 - 5.0.7
 - 5.0.8
 - 5.0.9
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ An simple, relational SDK for querying TypeScript and JavaScript data structures
 - 0.5.0
 - 0.5.1-dev.1572754685
 - 0.6.0
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

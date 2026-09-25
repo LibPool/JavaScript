@@ -28,7 +28,6 @@ Common TypeScript (React) config for Silverhand.
 - 4.0.0
 - 5.0.0
 - 6.0.0
-- 共 48 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

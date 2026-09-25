@@ -28,7 +28,6 @@ fbl plugin to generate PDF documents based on HTML files
 - 1.1.1
 - 1.3.0
 - 1.3.1
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

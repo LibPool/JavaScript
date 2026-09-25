@@ -28,7 +28,6 @@ A plugin for the OgmaInterceptor to properly handle HTTP requests from Express
 - 5.0.0
 - 5.0.1
 - 5.1.0
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

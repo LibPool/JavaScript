@@ -28,7 +28,6 @@ TypeScript definitions for phoenix
 - 1.6.5
 - 1.6.6
 - 1.6.7
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

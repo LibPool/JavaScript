@@ -28,7 +28,6 @@ No-dependencies, low-level, high-performance JIT code generation package for Jav
 - 18.7.0
 - 18.8.0
 - 18.9.0
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

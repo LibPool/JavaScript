@@ -28,7 +28,6 @@ Use text-decoration in it's shorthand form in CSS
 - 5.0.3
 - 5.0.4
 - 5.0.5
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

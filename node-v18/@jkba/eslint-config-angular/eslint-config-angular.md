@@ -28,7 +28,6 @@ Opinionated ESLint config for Angular projects
 - 3.6.1
 - 3.6.2
 - 3.7.0
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

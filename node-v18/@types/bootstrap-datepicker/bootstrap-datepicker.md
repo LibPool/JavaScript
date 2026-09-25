@@ -28,7 +28,6 @@ TypeScript definitions for bootstrap-datepicker
 - 0.0.9
 - 1.10.0
 - 1.10.1
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

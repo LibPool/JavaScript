@@ -27,7 +27,6 @@ Container that style box model for HTML element.
 - 6.2.4-canary.0
 - 7.0.0-beta.0
 - 7.0.0-beta.2
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

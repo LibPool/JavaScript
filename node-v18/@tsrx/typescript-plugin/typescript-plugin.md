@@ -16,6 +16,7 @@ TypeScript plugin for TSRX
 
 - 当前版本：0.4.7
 
+- 0.3.96
 - 0.3.97
 - 0.3.98
 - 0.3.99
@@ -27,7 +28,6 @@ TypeScript plugin for TSRX
 - 0.4.5
 - 0.4.6
 - 0.4.7
-- 1.0.0
 - 共 118 个版本，完整清单见 npm registry。
 
 ## 获取地址

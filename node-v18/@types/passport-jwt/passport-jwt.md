@@ -28,7 +28,6 @@ TypeScript definitions for passport-jwt
 - 3.0.9
 - 4.0.0
 - 4.0.1
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

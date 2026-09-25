@@ -28,7 +28,6 @@ Google OAuth2 using Google Identity Services for React 🚀
 - 0.8.1
 - 0.9.0
 - 0.9.1
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

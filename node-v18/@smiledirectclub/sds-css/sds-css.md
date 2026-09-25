@@ -28,7 +28,6 @@ SDC Design System CSS Framework
 - 1.8.2-alpha.1
 - 1.9.0
 - 1.9.1
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

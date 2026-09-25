@@ -27,7 +27,6 @@ Foundation of CSS used in WaveMaker with custom widgets.
 - 12.0.0-rc.335
 - 12.0.0-rc.647733
 - 12.0.1-rc.338
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

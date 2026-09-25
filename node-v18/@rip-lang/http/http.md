@@ -16,8 +16,8 @@ Zero-dependency HTTP client for Rip - ky-inspired convenience over native fetch
 
 - 当前版本：1.1.123
 
+- 1.1.88
 - 1.1.89
-- 1.1.9
 - 1.1.90
 - 1.1.91
 - 1.1.92

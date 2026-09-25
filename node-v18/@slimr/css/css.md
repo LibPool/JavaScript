@@ -16,12 +16,12 @@ tiny css-in-js features, inspired by the popular emotion library
 
 - 当前版本：2.1.97
 
-- 2.1.8
+- 2.1.76
+- 2.1.78
 - 2.1.80
 - 2.1.84
 - 2.1.86
 - 2.1.88
-- 2.1.9
 - 2.1.90
 - 2.1.92
 - 2.1.94

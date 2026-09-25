@@ -28,7 +28,6 @@ Angular wrapper for rendering [Seats.io](https://www.seats.io) seating charts. B
 - 8.1.0
 - 8.2.0
 - 9.0.0
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

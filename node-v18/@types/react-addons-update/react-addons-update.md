@@ -28,7 +28,6 @@ TypeScript definitions for react-addons-update
 - 0.14.7-alpha
 - 0.14.8-alpha
 - 0.14.9-alpha
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

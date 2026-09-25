@@ -28,7 +28,6 @@ Vue 3 adapter for shimmer-from-structure
 - 2.4.3
 - 2.4.5
 - 2.4.6
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

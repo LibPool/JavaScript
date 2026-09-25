@@ -27,7 +27,6 @@ Dev/build toolchain for the miaoda-coding html (pure HTML) stack. Wraps vite (de
 - 0.1.9
 - 0.1.9-alpha.20260825123233
 - 0.1.9-alpha.20260825130533
-- 共 45 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

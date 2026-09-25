@@ -28,7 +28,6 @@ MCP server for lism-css documentation and API reference.
 - 0.29.1
 - 0.3.0
 - 0.30.0
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

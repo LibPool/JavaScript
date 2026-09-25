@@ -28,7 +28,6 @@ Vue JavaScript/TypeScript SDK for Localess's API.
 - 4.0.1-dev.20260915143617
 - 4.0.1-dev.20260915190418
 - 4.0.1-dev.20260916085732
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

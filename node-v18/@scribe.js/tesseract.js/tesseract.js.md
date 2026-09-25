@@ -28,7 +28,6 @@ Fork of tesseract.js used for scribe.js. Pure Javascript Multilingual OCR
 - 6.0.4
 - 7.0.0
 - 7.0.1
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

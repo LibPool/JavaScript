@@ -28,7 +28,6 @@ TypeScript definitions for radium
 - 0.24.6
 - 0.24.7
 - 0.24.8
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

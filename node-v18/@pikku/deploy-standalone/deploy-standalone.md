@@ -28,7 +28,6 @@ Standalone deploy adapter for Pikku — bundles a project into a node bundle or 
 - 0.12.6
 - 0.12.7
 - 0.12.8
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

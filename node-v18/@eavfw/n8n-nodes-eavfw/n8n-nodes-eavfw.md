@@ -1,0 +1,30 @@
+# @eavfw/n8n-nodes-eavfw
+
+> 标签: n8n-community-node-package
+
+## 简介
+
+EAVFW nodes for n8n
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@eavfw/n8n-nodes-eavfw
+
+## 历史版本号
+
+- 当前版本：1.3.1
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.2.3
+- 1.3.0
+- 1.3.1
+
+## 获取地址
+
+- npm 安装：`npm install @eavfw/n8n-nodes-eavfw`
+- npm registry：https://registry.npmjs.org/@eavfw/n8n-nodes-eavfw

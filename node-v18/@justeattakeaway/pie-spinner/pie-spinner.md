@@ -16,8 +16,8 @@ PIE Design System Spinner built using Web Components
 
 - 当前版本：1.5.9
 
-- 1.4.8
-- 1.4.9
+- 1.4.18
+- 1.4.19
 - 1.5.0
 - 1.5.1
 - 1.5.2

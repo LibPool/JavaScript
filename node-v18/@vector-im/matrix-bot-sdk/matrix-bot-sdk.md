@@ -28,7 +28,6 @@ TypeScript/JavaScript SDK for Matrix bots and appservices
 - 0.8.0-element.4
 - 0.9.0-element.0
 - 0.9.0-element.1
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

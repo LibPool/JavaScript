@@ -28,7 +28,6 @@ A toolkit for working with HTTP headers in JavaScript
 - 0.21.0
 - 0.21.1
 - 0.21.2
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

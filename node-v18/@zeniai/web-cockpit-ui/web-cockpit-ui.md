@@ -15,19 +15,19 @@ Implements various UI screens by connecting business logic (from `@zeniai/client
 
 - 当前版本：2.0.34-dev
 
-- 2.2.5-dev
-- 2.2.5-qa
-- 2.2.6-dev
-- 2.2.6-qa
-- 2.2.7-dev
-- 2.2.7-next
-- 2.2.7-prod
-- 2.2.7-qa
-- 2.2.8-dev
-- 2.2.8-qa
-- 2.2.9-dev
-- 2.2.9-qa
-- 共 5069 个版本，完整清单见 npm registry。
+- 2.2.32-dev
+- 2.2.32-qa
+- 2.2.33-dev
+- 2.2.33-qa
+- 2.2.34-dev
+- 2.2.34-qa
+- 2.2.35-dev
+- 2.2.35-qa
+- 2.2.36-dev
+- 2.2.36-qa
+- 2.2.37-dev
+- 2.2.37-qa
+- 共 5,069 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

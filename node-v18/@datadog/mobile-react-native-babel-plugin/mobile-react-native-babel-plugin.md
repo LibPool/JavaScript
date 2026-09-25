@@ -28,7 +28,6 @@ A Babel plugin that enhances Datadog's React Native SDK by automatically enrichi
 - 3.6.0
 - 3.7.0
 - 3.8.0
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

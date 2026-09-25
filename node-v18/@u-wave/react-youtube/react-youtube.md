@@ -28,7 +28,6 @@ YouTube player component for React.
 - 1.0.0-alpha.6
 - 1.0.0-rc.0
 - 1.0.0-rc.1
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

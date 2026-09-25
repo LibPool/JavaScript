@@ -15,6 +15,9 @@ OpenAPI client for @emilgroup/billing-sdk-node
 
 - 当前版本：1.63.0
 
+- 1.61.0
+- 1.63.0
+- 1.63.1-beta.0
 - 1.63.1-beta.1
 - 1.63.1-beta.2
 - 1.63.1-beta.3
@@ -24,9 +27,6 @@ OpenAPI client for @emilgroup/billing-sdk-node
 - 1.63.1-beta.7
 - 1.63.1-beta.8
 - 1.63.1-beta.9
-- 1.7.0
-- 1.8.0
-- 1.9.0
 - 共 317 个版本，完整清单见 npm registry。
 
 ## 获取地址

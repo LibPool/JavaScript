@@ -28,7 +28,6 @@ Drop-in `fetch` replacement that routes HTTP/HTTPS requests through the Nym mixn
 - 2.0.1
 - 2.1.0
 - 2.1.1
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

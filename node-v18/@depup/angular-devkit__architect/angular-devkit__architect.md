@@ -28,7 +28,6 @@ Angular Build Facade (with updated dependencies)
 - 0.2201.6-depup.0
 - 0.2201.7-depup.0
 - 0.2201.8-depup.0
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

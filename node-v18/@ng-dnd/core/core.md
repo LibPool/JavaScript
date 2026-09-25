@@ -28,7 +28,6 @@ Drag and Drop for Angular
 - 3.1.0
 - 4.0.0
 - 4.1.0
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

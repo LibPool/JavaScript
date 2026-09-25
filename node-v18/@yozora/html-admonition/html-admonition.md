@@ -28,7 +28,6 @@ render Yozora Markdown AST node `Admonition` into HTML string
 - 2.0.0-alpha.7
 - 2.0.0-alpha.8
 - 2.0.0-alpha.9
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

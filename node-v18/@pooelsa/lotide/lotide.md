@@ -1,0 +1,24 @@
+# @pooelsa/lotide
+
+> 标签: JavaScript
+
+## 简介
+
+library for exercise
+
+## 官网
+
+- 官网：https://github.com/Paules2021/lotide#readme
+- 源码仓库：git+https://github.com/Paules2021/lotide.git
+- npm 页面：https://www.npmjs.com/package/@pooelsa/lotide
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @pooelsa/lotide`
+- npm registry：https://registry.npmjs.org/@pooelsa/lotide

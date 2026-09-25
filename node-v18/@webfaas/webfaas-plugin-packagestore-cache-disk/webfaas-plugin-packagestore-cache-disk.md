@@ -1,0 +1,29 @@
+# @webfaas/webfaas-plugin-packagestore-cache-disk
+
+> 标签: plugin, webfaas
+
+## 简介
+
+WebFaaS Framework - Plugin - Package Store Cache - Disk
+
+## 官网
+
+- 官网：https://github.com/webfaas/webfaas-plugin-packagestore-cache-disk#readme
+- 源码仓库：git+ssh://git@github.com/webfaas/webfaas-plugin-packagestore-cache-disk.git
+- npm 页面：https://www.npmjs.com/package/@webfaas/webfaas-plugin-packagestore-cache-disk
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.1.0
+- 0.1.0-alpha
+- 0.1.0-alpha2
+- 0.2.0
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @webfaas/webfaas-plugin-packagestore-cache-disk`
+- npm registry：https://registry.npmjs.org/@webfaas/webfaas-plugin-packagestore-cache-disk
+- Node 要求：>=10.0.0

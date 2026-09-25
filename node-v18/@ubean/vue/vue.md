@@ -27,7 +27,6 @@ Lean Vue client kernel & page-routing owner for ubean — plugin-first page rout
 - 0.5.2
 - 0.6.0-beta.1
 - 0.6.0-beta.2
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

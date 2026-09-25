@@ -28,7 +28,6 @@ The best way to integrate TypeGPU into your React app.
 - 0.11.1
 - 0.11.2
 - 0.12.0
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

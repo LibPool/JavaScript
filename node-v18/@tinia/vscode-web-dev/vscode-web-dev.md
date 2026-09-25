@@ -1,0 +1,26 @@
+# @tinia/vscode-web-dev
+
+> 标签: JavaScript
+
+## 简介
+
+This module creates a custom version of Microsoft Visual Studio Code for Web.
+
+## 官网
+
+- 官网：https://github.com/tinialabs/vscode-web#readme
+- 源码仓库：git+https://github.com/tinialabs/vscode-web.git
+- npm 页面：https://www.npmjs.com/package/@tinia/vscode-web-dev
+
+## 历史版本号
+
+- 当前版本：0.0.17
+
+- 0.0.16
+- 0.0.17
+
+## 获取地址
+
+- npm 安装：`npm install @tinia/vscode-web-dev`
+- npm registry：https://registry.npmjs.org/@tinia/vscode-web-dev
+- Node 要求：>=12

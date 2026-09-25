@@ -28,7 +28,6 @@ Write utility-first CSS with future standards in your Vue app using TailwindCSS.
 - 2.0.0
 - 2.0.0-beta.1
 - 2.0.0-beta.2
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

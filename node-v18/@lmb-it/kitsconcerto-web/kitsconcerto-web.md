@@ -28,7 +28,6 @@ KitsConcerto — Web (React) UI components
 - 0.1.255
 - 0.1.256
 - 0.1.257
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -1,0 +1,27 @@
+# @renderorange/alanbradley
+
+> 标签: filter, grid, pagination, sort, table, vanilla-js
+
+## 简介
+
+lightweight table filter, sorting, and pagination library, with optional background chunking
+
+## 官网
+
+- 官网：https://github.com/renderorange/alanbradley#readme
+- 源码仓库：git+https://github.com/renderorange/alanbradley.git
+- npm 页面：https://www.npmjs.com/package/@renderorange/alanbradley
+
+## 历史版本号
+
+- 当前版本：2.1.1
+
+- 2.0.0
+- 2.0.1
+- 2.1.0
+- 2.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @renderorange/alanbradley`
+- npm registry：https://registry.npmjs.org/@renderorange/alanbradley

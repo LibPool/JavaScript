@@ -16,18 +16,18 @@ JobRouter® JavaScript API
 
 - 当前版本：2026.1.11-stable
 
-- 5.2.3-stable
-- 5.2.4-stable
-- 5.2.5-beta.1
-- 5.2.5-stable
-- 5.2.6-beta.1
-- 5.2.6-stable
-- 5.2.7-beta.1
-- 5.2.7-stable
-- 5.2.8-beta.1
-- 5.2.8-stable
-- 5.2.9-beta.1
-- 5.2.9-stable
+- 2026.1.5-beta.1
+- 2026.1.5-stable
+- 2026.1.6-beta.1
+- 2026.1.6-stable
+- 2026.1.7-beta.1
+- 2026.1.7-stable
+- 2026.1.8-beta.1
+- 2026.1.8-stable
+- 2026.1.9-beta.1
+- 2026.1.9-stable
+- 2026.2.0-beta.1
+- 2026.2.0-beta.2
 - 共 393 个版本，完整清单见 npm registry。
 
 ## 获取地址

@@ -28,7 +28,6 @@ TypeScript definitions for react-places-autocomplete
 - 7.2.7
 - 7.2.8
 - 7.2.9
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

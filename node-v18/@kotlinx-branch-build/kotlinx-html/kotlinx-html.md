@@ -28,7 +28,6 @@ Library for building HTML in Kotlin
 - 0.7.3-build-1729
 - 0.7.3-build-1730
 - 0.7.3-build-1731
-- 共 48 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

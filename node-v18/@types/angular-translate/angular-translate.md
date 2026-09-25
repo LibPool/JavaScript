@@ -28,7 +28,6 @@ TypeScript definitions for angular-translate
 - 2.4.33
 - 2.4.34
 - 2.4.35
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

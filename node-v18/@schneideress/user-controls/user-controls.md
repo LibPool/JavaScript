@@ -15,12 +15,12 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 - 当前版本：22.1.1
 
+- 20.0.51
+- 20.0.52
 - 20.0.53
 - 20.0.54
 - 20.0.55
 - 20.0.56
-- 20.0.8
-- 20.0.9
 - 21.0.1
 - 22.0.0
 - 22.0.1

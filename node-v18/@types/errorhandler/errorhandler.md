@@ -28,7 +28,6 @@ TypeScript definitions for errorhandler
 - 1.5.1
 - 1.5.2
 - 1.5.3
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

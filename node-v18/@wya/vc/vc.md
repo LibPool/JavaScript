@@ -16,8 +16,8 @@ wya for vue@3.x components
 
 - 当前版本：3.0.0-alpha.102
 
+- 3.0.0-alpha.88
 - 3.0.0-alpha.89
-- 3.0.0-alpha.9
 - 3.0.0-alpha.90
 - 3.0.0-alpha.91
 - 3.0.0-alpha.92

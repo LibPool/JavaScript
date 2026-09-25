@@ -28,7 +28,6 @@ OpenCloud Web Extension SDK
 - 7.3.0-alpha.1
 - 7.4.0
 - 8.0.0
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

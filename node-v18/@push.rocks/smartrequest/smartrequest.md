@@ -28,7 +28,6 @@ A module for modern HTTP/HTTPS requests with support for form data, file uploads
 - 5.0.2
 - 5.0.3
 - 5.0.4
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

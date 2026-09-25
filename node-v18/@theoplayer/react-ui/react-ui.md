@@ -28,7 +28,6 @@ React component library for the THEOplayer Web SDK
 - 2.3.3
 - 2.4.0
 - 2.4.1
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

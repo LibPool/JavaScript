@@ -28,7 +28,6 @@ Shared TypeScript tooling configuration for JupiterOne projects
 - 19.2.0
 - 20.0.0
 - 20.0.1
-- 共 45 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

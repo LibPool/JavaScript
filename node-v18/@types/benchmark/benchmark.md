@@ -28,7 +28,6 @@ TypeScript definitions for benchmark
 - 2.1.3
 - 2.1.4
 - 2.1.5
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

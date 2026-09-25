@@ -28,7 +28,6 @@ TypeScript definitions for dragula
 - 3.7.3
 - 3.7.4
 - 3.7.5
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

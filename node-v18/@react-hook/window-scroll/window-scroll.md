@@ -28,7 +28,6 @@ A React hook for updating components when the scroll position of the window on t
 - 1.2.2
 - 1.2.3
 - 1.3.0
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

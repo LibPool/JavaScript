@@ -28,7 +28,6 @@ Data-only exact official-source patch for complete reverse-proxy Web base-path s
 - 0.2.0-rc.7
 - 0.2.0-rc.8
 - 0.2.0-rc.9
-- 共 42 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

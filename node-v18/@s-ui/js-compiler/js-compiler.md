@@ -15,18 +15,18 @@ JavaScript & TypeScript Compiler
 
 - 当前版本：1.30.0
 
+- 1.28.0
+- 1.28.0-typescript-support.0
+- 1.28.0-typescript-support.1
+- 1.28.0-typescript-support.2
+- 1.28.0-typescript-support.3
+- 1.28.0-typescript-support.4
+- 1.28.0-typescript-support.5
 - 1.28.0-typescript-support.6
 - 1.28.0-typescript-support.7
 - 1.28.0-typescript-support.8
 - 1.29.0
-- 1.3.0
 - 1.30.0
-- 1.4.0
-- 1.5.0
-- 1.6.0
-- 1.7.0
-- 1.8.0
-- 1.9.0
 - 共 98 个版本，完整清单见 npm registry。
 
 ## 获取地址

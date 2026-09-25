@@ -16,19 +16,19 @@
 
 - 当前版本：13.1.0
 
-- 9.12.0
-- 9.13.0
-- 9.2.0
-- 9.2.1
-- 9.3.0
-- 9.3.1
-- 9.4.0
-- 9.5.0
-- 9.6.0
-- 9.7.0
-- 9.8.0
-- 9.9.0
-- 共 1625 个版本，完整清单见 npm registry。
+- 13.0.2-fix-type-issues.1
+- 13.0.4
+- 13.0.5
+- 13.0.5-chore-react-19-web-medicules.0
+- 13.0.5-feat-sentry-reform.0
+- 13.0.5-feat-sentry-reform.1
+- 13.0.5-feat-sentry-reform.2
+- 13.0.6
+- 13.0.6-fix-aob-cancel-modal-design-fixes.0
+- 13.0.6-fix-download-application-secret-res-header.0
+- 13.0.7-feat-paypal.0
+- 13.1.0
+- 共 1,625 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

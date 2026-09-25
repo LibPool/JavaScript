@@ -28,7 +28,6 @@ Comprehensive audio processing library for React Native and Expo with recording,
 - 3.2.1-beta.2
 - 3.2.1-beta.3
 - 4.0.0-beta.0
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

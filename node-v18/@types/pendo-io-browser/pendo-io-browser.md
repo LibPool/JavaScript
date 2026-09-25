@@ -28,7 +28,6 @@ TypeScript definitions for pendo-io-browser
 - 2.19.0
 - 2.19.1
 - 2.314.0
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

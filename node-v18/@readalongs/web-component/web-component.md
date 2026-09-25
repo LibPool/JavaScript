@@ -28,7 +28,6 @@ ReadAlong Web Component
 - 1.6.2
 - 1.6.3
 - 1.6.4
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

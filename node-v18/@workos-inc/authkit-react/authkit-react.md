@@ -28,7 +28,6 @@ AuthKit React SDK
 - 0.8.1
 - 0.9.0
 - 0.9.1
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Graphistry upload client for reuse by node and browser clients
 - 5.1.6
 - 5.1.7
 - 5.1.8
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

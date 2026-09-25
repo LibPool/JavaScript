@@ -28,7 +28,6 @@ Telemetry package for Typescript/Javascript code use
 - 1.5.2
 - 2.0.0-rc.0
 - 2.0.0-rc.1
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

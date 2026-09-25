@@ -27,7 +27,6 @@ macOS Intel native addon for @awiki/im-core-node
 - 0.2.6
 - 0.2.7
 - 0.2.7-rc.1
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

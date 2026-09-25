@@ -15,6 +15,8 @@ The Voltro web framework — file-based routing, render modes (SSR / SSG / islan
 
 - 当前版本：0.78.0
 
+- 0.69.1
+- 0.70.0
 - 0.71.0
 - 0.71.1
 - 0.72.0
@@ -25,8 +27,6 @@ The Voltro web framework — file-based routing, render modes (SSR / SSG / islan
 - 0.77.0
 - 0.77.1
 - 0.78.0
-- 0.8.0
-- 0.9.0
 - 共 107 个版本，完整清单见 npm registry。
 
 ## 获取地址

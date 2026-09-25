@@ -27,7 +27,6 @@ Session archive management for DSH Web: centralized inventory, batch archive/res
 - 0.3.22
 - 0.3.23
 - 0.3.24
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

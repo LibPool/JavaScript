@@ -27,7 +27,6 @@ Material User Interface Angular
 - 15.1.7
 - 15.1.8
 - 15.1.9
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ A wrapper around ThreadsJS to make bundling and using web workers even simpler.
 - 0.2.2-canary.1
 - 0.2.2-canary.2
 - 0.2.2-canary.3
-- 共 43 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

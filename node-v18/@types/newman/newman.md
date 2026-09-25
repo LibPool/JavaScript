@@ -28,7 +28,6 @@ TypeScript definitions for newman
 - 5.3.4
 - 5.3.5
 - 5.3.6
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

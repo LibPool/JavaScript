@@ -28,7 +28,6 @@ Nest - modern, fast, powerful node.js web framework (@axios)
 - 3.1.3
 - 4.0.0
 - 4.0.1
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

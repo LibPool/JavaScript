@@ -16,18 +16,18 @@ Isomorphic Javascript SDK for Supabase
 
 - 当前版本：2.117.0
 
-- 3.0.0-next.26
-- 3.0.0-next.27
-- 3.0.0-next.28
-- 3.0.0-next.29
-- 3.0.0-next.3
-- 3.0.0-next.4
-- 3.0.0-next.5
-- 3.0.0-next.6
-- 3.0.0-next.7
-- 3.0.0-next.8
-- 3.0.0-next.9
-- 999.9.2-canary.0
+- 2.114.0-canary.0
+- 2.115.0
+- 2.115.0-canary.0
+- 2.115.1-canary.0
+- 2.116.0
+- 2.116.0-canary.0
+- 2.116.0-canary.1
+- 2.116.0-canary.2
+- 2.116.0-canary.3
+- 2.117.0
+- 2.117.0-canary.0
+- 2.117.0-canary.1
 - 共 833 个版本，完整清单见 npm registry。
 
 ## 获取地址

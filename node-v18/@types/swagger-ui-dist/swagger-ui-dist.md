@@ -28,7 +28,6 @@ TypeScript definitions for swagger-ui-dist
 - 3.30.4
 - 3.30.5
 - 3.30.6
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

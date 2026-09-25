@@ -1,0 +1,26 @@
+# @fbcmobile/signalscan
+
+> 标签: cellscan, react-native, signalscan, wifiscan
+
+## 简介
+
+This package provides React Native modules to scan Wi-Fi and Cellular networks.
+
+## 官网
+
+- 官网：https://github.com/facebookincubator/fbc-mobile-app-core#readme
+- 源码仓库：git+https://github.com/facebookincubator/fbc-mobile-app-core.git
+- npm 页面：https://www.npmjs.com/package/@fbcmobile/signalscan
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @fbcmobile/signalscan`
+- npm registry：https://registry.npmjs.org/@fbcmobile/signalscan

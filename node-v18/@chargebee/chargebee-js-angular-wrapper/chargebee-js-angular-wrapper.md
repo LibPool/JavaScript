@@ -28,7 +28,6 @@ Angular wrapper for Chargebee.js Components
 - 4.0.0
 - 5.0.0
 - 5.0.3
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

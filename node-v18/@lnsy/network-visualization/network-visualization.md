@@ -28,7 +28,6 @@ A custom HTML component for representing graph visualiations
 - 0.3.53
 - 0.3.54
 - 0.3.55
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

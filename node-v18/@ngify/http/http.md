@@ -28,7 +28,6 @@ A reactive HTTP client
 - 2.0.4
 - 2.0.5
 - 2.0.6
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

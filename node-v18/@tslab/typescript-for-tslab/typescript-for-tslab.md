@@ -28,7 +28,6 @@ TypeScript is a language for application scale JavaScript development
 - 4.9.4
 - 5.0.4
 - 5.1.3
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

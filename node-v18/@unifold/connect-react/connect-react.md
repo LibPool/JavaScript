@@ -15,18 +15,18 @@ Unifold Connect React - Complete React SDK with UI components for crypto deposit
 
 - 当前版本：0.1.84
 
+- 0.1.73
+- 0.1.74
 - 0.1.75
 - 0.1.76
 - 0.1.77
 - 0.1.78
 - 0.1.79
-- 0.1.8
 - 0.1.80
 - 0.1.81
 - 0.1.82
 - 0.1.83
 - 0.1.84
-- 0.1.9
 - 共 90 个版本，完整清单见 npm registry。
 
 ## 获取地址

@@ -16,18 +16,18 @@ An addon for [xterm.js](https://github.com/xtermjs/xterm.js) that enables xterm.
 
 - 当前版本：0.14.0
 
-- 0.15.0-beta.89
-- 0.15.0-beta.9
-- 0.15.0-beta.90
-- 0.15.0-beta.91
-- 0.15.0-beta.92
-- 0.15.0-beta.93
-- 0.15.0-beta.94
-- 0.15.0-beta.95
-- 0.15.0-beta.96
-- 0.15.0-beta.97
-- 0.15.0-beta.98
-- 0.15.0-beta.99
+- 0.15.0-beta.290
+- 0.15.0-beta.291
+- 0.15.0-beta.292
+- 0.15.0-beta.293
+- 0.15.0-beta.294
+- 0.15.0-beta.295
+- 0.15.0-beta.296
+- 0.15.0-beta.297
+- 0.15.0-beta.298
+- 0.15.0-beta.299
+- 0.15.0-beta.300
+- 0.15.0-beta.301
 - 共 493 个版本，完整清单见 npm registry。
 
 ## 获取地址

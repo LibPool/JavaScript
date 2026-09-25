@@ -28,7 +28,6 @@ Accessible, framework-agnostic web components built with Stencil
 - 0.4.2
 - 0.5.0
 - 0.5.1
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

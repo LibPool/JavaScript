@@ -28,7 +28,6 @@ Web Decoy middleware for Express.js
 - 0.8.0
 - 0.8.1
 - 0.9.0
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

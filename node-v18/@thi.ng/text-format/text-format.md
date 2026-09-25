@@ -16,7 +16,10 @@ Customizable color text formatting with presets for ANSI & HTML
 
 - 当前版本：2.2.68
 
-- 2.2.6
+- 2.2.56
+- 2.2.57
+- 2.2.58
+- 2.2.59
 - 2.2.60
 - 2.2.61
 - 2.2.62
@@ -25,9 +28,6 @@ Customizable color text formatting with presets for ANSI & HTML
 - 2.2.66
 - 2.2.67
 - 2.2.68
-- 2.2.7
-- 2.2.8
-- 2.2.9
 - 共 144 个版本，完整清单见 npm registry。
 
 ## 获取地址

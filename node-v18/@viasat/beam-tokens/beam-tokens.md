@@ -16,6 +16,8 @@ Design tokens for the Beam Design System with support for CSS, SASS, and CSS-in-
 
 - 当前版本：2.73.0
 
+- 2.64.0
+- 2.65.0
 - 2.66.0
 - 2.67.0
 - 2.67.1
@@ -26,8 +28,6 @@ Design tokens for the Beam Design System with support for CSS, SASS, and CSS-in-
 - 2.72.0
 - 2.72.1
 - 2.73.0
-- 2.8.0
-- 2.9.0
 - 共 89 个版本，完整清单见 npm registry。
 
 ## 获取地址

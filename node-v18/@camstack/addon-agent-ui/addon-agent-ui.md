@@ -15,9 +15,9 @@ Agent UI — lightweight status dashboard served by every agent node
 
 - 当前版本：1.2.139
 
-- 1.2.88
+- 1.2.138
+- 1.2.139
 - 1.2.89
-- 1.2.9
 - 1.2.90
 - 1.2.91
 - 1.2.92

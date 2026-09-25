@@ -28,7 +28,6 @@ TypeScript definitions for request-ip
 - 0.0.39
 - 0.0.40
 - 0.0.41
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

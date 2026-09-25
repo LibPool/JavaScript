@@ -28,7 +28,6 @@ The missing essentials for TypeScript (and JavaScript).
 - 2.9.1
 - 2.9.2
 - 2.9.3
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

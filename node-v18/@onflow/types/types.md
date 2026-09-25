@@ -28,7 +28,6 @@ Utilities to transform javascript values into Cadence understandable values
 - 1.4.1-alpha.0
 - 1.4.2
 - 1.5.0
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

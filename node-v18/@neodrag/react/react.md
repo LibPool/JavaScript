@@ -28,7 +28,6 @@ React library to add dragging to your apps 😉
 - 3.0.0-next.6
 - 3.0.0-next.7
 - 3.0.0-next.8
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Common utility functions shared between @angular-builders packages
 - 6.0.0-beta.1
 - 6.0.1
 - 6.0.1-beta.0
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

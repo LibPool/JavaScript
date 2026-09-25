@@ -28,7 +28,6 @@ Table node, using Tabulator-tables package, for Node-RED Dashboard 2.0
 - 0.8.1
 - 0.8.2
 - 0.9.0
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

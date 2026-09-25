@@ -28,7 +28,6 @@ Headless React primitives for AI chat — state management, streaming adapters f
 - 0.9.7
 - 0.9.8
 - 0.9.9
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -15,18 +15,18 @@ Node environment for CloudCode tasks.
 
 - 当前版本：1.15.0
 
-- 1.9.2-dev.cb447ca.7248e31
-- 1.9.3
-- 1.9.3-dev.702aba0.02451d5
-- 1.9.3-dev.bb02b78.78da707
-- 1.9.3-dev.c3a8635.c5a8af9
-- 1.9.4-dev.b9d306b.444d8c2
-- 1.9.4-dev.e04a83f.d810b47
-- 1.9.5
-- 1.9.6
-- 1.9.7-beta1
-- 1.9.7-beta2
-- 1.9.8
+- 0.0.0-dev.e74c58d
+- 0.0.0-dev.ef2af94
+- 0.0.0-dev.f24e850
+- 0.0.0-dev.f59f8ab
+- 0.0.0-dev.f613ce0
+- 0.0.0-dev.f8b8713
+- 0.0.0-dev.f929f3d
+- 0.0.0-dev.fabd2a6
+- 0.0.0-dev.fc0f547
+- 1.13.0
+- 1.14.0
+- 1.15.0
 - 共 535 个版本，完整清单见 npm registry。
 
 ## 获取地址

@@ -28,7 +28,6 @@ UiPath TypeScript SDK
 - 1.7.0
 - 1.7.1
 - 1.7.2
-- 共 44 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

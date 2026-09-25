@@ -28,7 +28,6 @@ TypeScript definitions for emscripten
 - 1.41.4
 - 1.41.5
 - 1.41.6
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

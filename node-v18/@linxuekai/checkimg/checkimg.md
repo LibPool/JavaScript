@@ -1,0 +1,22 @@
+# @linxuekai/checkimg
+
+> 标签: JavaScript
+
+## 简介
+
+check if image has error
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@linxuekai/checkimg
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @linxuekai/checkimg`
+- npm registry：https://registry.npmjs.org/@linxuekai/checkimg

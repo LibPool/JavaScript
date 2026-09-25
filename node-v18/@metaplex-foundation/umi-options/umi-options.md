@@ -28,7 +28,6 @@ A TypeScript implementation of Rust Options
 - 1.4.1
 - 1.5.1
 - 1.6.0
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

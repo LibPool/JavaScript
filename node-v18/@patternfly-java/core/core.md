@@ -28,7 +28,6 @@ CSS for PatternFly Java.
 - 0.9.6
 - 0.9.7
 - 0.9.9
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ A customizable, high-performance React Gantt chart component for building projec
 - 2.7.1
 - 2.7.2
 - 2.7.3
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

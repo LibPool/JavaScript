@@ -28,7 +28,7 @@ Input field that supports HTML elements and emojis
 - 5.5.7
 - 5.5.8
 - 5.5.9
-- 共 1202 个版本，完整清单见 npm registry。
+- 共 1,202 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

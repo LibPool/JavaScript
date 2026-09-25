@@ -27,7 +27,7 @@ with typescript supported
 - 2.9.3
 - 2.9.4
 - 2.9.5
-- 共 4417 个版本，完整清单见 npm registry。
+- 共 4,417 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Type-safe APIs with Protobuf and TypeScript.
 - 2.1.1
 - 2.1.2
 - 2.2.0
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

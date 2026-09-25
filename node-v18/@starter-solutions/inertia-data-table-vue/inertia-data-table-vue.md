@@ -28,7 +28,6 @@ Vue 3 + Inertia.js data table utilities with Laravel backend integration.
 - 0.7.1
 - 0.7.2
 - 0.8.0
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

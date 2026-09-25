@@ -15,8 +15,8 @@ This package contains rendering components for ORY Editor states. Currently, onl
 
 - 当前版本：0.30.0
 
-- 0.9.0-beta.1
-- 0.9.0-beta.2
+- 0.29.0
+- 0.30.0
 - 1.0.0-beta.1
 - 1.0.0-beta.10
 - 1.0.0-beta.11

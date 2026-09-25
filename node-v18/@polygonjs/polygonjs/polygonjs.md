@@ -16,9 +16,9 @@ node-based WebGL 3D engine https://polygonjs.com
 
 - 当前版本：1.5.98
 
+- 1.5.86
 - 1.5.88
 - 1.5.89
-- 1.5.9
 - 1.5.90
 - 1.5.91
 - 1.5.92

@@ -28,7 +28,6 @@ Harness React pipeline service client - Pipeline APIs integrated with react hook
 - 1.8.2
 - 1.8.3
 - 1.9.0
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

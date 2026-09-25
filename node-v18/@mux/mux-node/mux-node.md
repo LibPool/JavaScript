@@ -16,6 +16,7 @@ The official TypeScript library for the Mux API
 
 - 当前版本：15.2.0
 
+- 8.4.0
 - 8.4.1
 - 8.5.0
 - 8.5.1
@@ -26,7 +27,6 @@ The official TypeScript library for the Mux API
 - 8.7.1
 - 8.8.0
 - 9.0.0
-- 9.0.0-canary.0
 - 9.0.1
 - 共 122 个版本，完整清单见 npm registry。
 

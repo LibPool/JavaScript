@@ -28,7 +28,6 @@ n8n community node that extracts text, HTML or Markdown from documents (DOCX, PD
 - 1.4.4
 - 1.4.5
 - 1.5.0
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

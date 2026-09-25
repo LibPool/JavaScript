@@ -16,18 +16,18 @@ This plugin extracts CSS into separate files. It creates a CSS file per JS file 
 
 - 当前版本：0.11.0
 
-- 0.8.0-canary-20260615-7b4616b9
-- 0.8.0-canary-20260615-a6724bd7
-- 0.8.0-canary-20260615-b839f198
-- 0.8.0-canary-20260615-cb21831e
-- 0.8.0-canary-20260615-fa3b5eef
-- 0.8.0-canary-20260616-1bb0bce7
-- 0.8.0-canary-20260616-a2a95ea4
-- 0.8.0-canary-20260616-e9d18633
-- 0.8.0-canary-20260617-bb7927bd
-- 0.8.1-canary-20260715-fec4237b
-- 0.9.0
-- 0.9.0-canary-20260715-2b5d83a4
+- 0.11.0-canary-20260904-7d103825
+- 0.11.0-canary-20260904-a15b0d93
+- 0.11.0-canary-20260904-abab087d
+- 0.11.0-canary-20260904-b1096e8a
+- 0.11.0-canary-20260904-b2a8367e
+- 0.11.0-canary-20260904-b36f9ea3
+- 0.11.0-canary-20260904-c21cddd0
+- 0.11.0-canary-20260904-d0464233
+- 0.11.0-canary-20260904-ed96822e
+- 0.11.0-canary-20260904-f256648a
+- 0.11.0-canary-20260904-fa79b9ba
+- 0.11.0-canary-20260904-fe4f1e75
 - 共 597 个版本，完整清单见 npm registry。
 
 ## 获取地址

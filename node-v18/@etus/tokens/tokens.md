@@ -28,7 +28,6 @@ Seven Design System - Design tokens (CSS variables) for ETUS applications
 - 2.0.0
 - 2.1.0
 - 2.2.0
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

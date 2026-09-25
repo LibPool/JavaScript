@@ -28,7 +28,6 @@ TypeScript definitions for opossum
 - 8.1.7
 - 8.1.8
 - 8.1.9
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

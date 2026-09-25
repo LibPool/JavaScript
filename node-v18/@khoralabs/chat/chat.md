@@ -28,7 +28,6 @@ Signed chat ledger: service, persistence backends, and HTTP transport
 - 0.1.8
 - 0.1.9
 - 0.2.0
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

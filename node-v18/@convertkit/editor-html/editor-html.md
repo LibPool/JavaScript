@@ -27,7 +27,6 @@ A plugin for handling HTML in the ConvertKit Editor
 - 0.6.0
 - 0.6.0-alpha.0
 - 0.6.1
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

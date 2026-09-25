@@ -27,7 +27,6 @@ Official Vue bindings for embedding [Myop](https://myop.dev) components in your 
 - 0.1.2
 - 0.1.3
 - 0.1.4
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

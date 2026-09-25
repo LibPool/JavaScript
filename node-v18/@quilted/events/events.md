@@ -16,8 +16,8 @@ Tiny helpers for working with events in any JavaScript environment
 
 - 当前版本：2.1.5
 
-- 0.1.7
-- 0.1.8
+- 0.1.17
+- 0.1.18
 - 0.1.9
 - 1.0.0
 - 1.0.1

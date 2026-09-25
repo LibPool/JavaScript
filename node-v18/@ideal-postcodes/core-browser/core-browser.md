@@ -28,7 +28,6 @@ Browser javascript client for api.ideal-postcodes.co.uk
 - 3.0.0
 - 3.0.0-beta.1
 - 3.0.1
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

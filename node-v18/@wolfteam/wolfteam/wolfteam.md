@@ -1,0 +1,22 @@
+# @wolfteam/wolfteam
+
+> 标签: wolfman
+
+## 简介
+
+save naming
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@wolfteam/wolfteam
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @wolfteam/wolfteam`
+- npm registry：https://registry.npmjs.org/@wolfteam/wolfteam

@@ -27,7 +27,6 @@ Obfuscated build of Strato Automation nodes (parity with node-red-strato + bacne
 - 2.0.7
 - 2.0.8
 - 2.0.9
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

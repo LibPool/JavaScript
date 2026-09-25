@@ -28,7 +28,6 @@ GESF Web Dashboard - Visual compliance dashboard for teams
 - 1.6.6
 - 1.6.7
 - 1.6.8
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

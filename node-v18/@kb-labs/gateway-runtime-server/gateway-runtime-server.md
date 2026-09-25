@@ -15,18 +15,18 @@ Fastify-based HTTP server for the KB Labs API Gateway. Provides the runtime infr
 
 - 当前版本：2.117.0
 
-- 2.79.0
-- 2.80.0
-- 2.81.0
-- 2.82.0
-- 2.87.0
-- 2.88.0
-- 2.89.0
-- 2.9.0
-- 2.93.0
-- 2.94.0
-- 2.96.0
-- 2.98.0
+- 2.119.0-canary.cee505c72
+- 2.119.0-canary.e120bc0ee
+- 2.119.0-canary.f8394d5fd
+- 2.119.1-canary.1e87213c2
+- 2.119.1-canary.57c3a1e5e
+- 2.119.1-canary.6a127adf8
+- 2.119.1-canary.a6aa9b388
+- 2.119.1-canary.a73502f0d
+- 2.119.1-canary.b53bbee1d
+- 2.119.1-canary.c8f889b14
+- 2.119.1-canary.e834e2cf9
+- 2.119.1-canary.ee03bc25d
 - 共 125 个版本，完整清单见 npm registry。
 
 ## 获取地址

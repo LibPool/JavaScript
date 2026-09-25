@@ -28,7 +28,6 @@ A public-key signature system based on Ed25519 for the NATS ecosystem in javascr
 - 2.0.1
 - 2.0.2
 - 2.0.3
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

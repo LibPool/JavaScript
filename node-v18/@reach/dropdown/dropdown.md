@@ -28,7 +28,6 @@ React dropdown menu.
 - 0.18.0-pre.3
 - 0.18.0-pre.4
 - 0.18.0-pre.5
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -27,7 +27,6 @@ JavaScript library for io.Connect Desktop clients.
 - 6.9.0-rc.1
 - 6.9.1
 - 6.9.2
-- 共 48 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

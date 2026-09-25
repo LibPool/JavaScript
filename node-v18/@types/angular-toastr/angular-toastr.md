@@ -28,7 +28,6 @@ TypeScript definitions for angular-toastr
 - 1.6.36
 - 1.6.37
 - 1.6.38
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

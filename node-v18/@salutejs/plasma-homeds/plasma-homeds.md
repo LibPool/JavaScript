@@ -28,7 +28,7 @@ Salute Design System / React UI kit for PLASMA-HOMEDS web applications
 - 0.364.1-canary.3185.35707114926.0
 - 0.365.0-canary.3077.35749908859.0
 - 0.365.0-canary.3182.35728506901.0
-- 共 1420 个版本，完整清单见 npm registry。
+- 共 1,420 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

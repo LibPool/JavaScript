@@ -28,7 +28,6 @@ Easy Webpack configuration function for CSS
 - 4.0.0
 - 4.0.1
 - 4.0.2
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

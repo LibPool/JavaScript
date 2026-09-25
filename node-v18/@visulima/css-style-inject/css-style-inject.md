@@ -28,7 +28,6 @@ Inject style tag to document head.
 - 1.0.0-alpha.8
 - 1.0.0-alpha.9
 - 1.0.1
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

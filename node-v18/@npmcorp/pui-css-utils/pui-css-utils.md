@@ -28,7 +28,6 @@ utils css component for the npm fork of Pivotal UI, based on Bootstrap
 - 6.5.0
 - 8.1.0
 - 8.2.1
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ A http server service based on Hono for PURISTA backend framework
 - 3.2.2
 - 3.2.3
 - 3.2.4
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

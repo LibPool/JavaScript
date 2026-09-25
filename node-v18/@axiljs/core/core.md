@@ -28,7 +28,6 @@ AxilJS HTTP server, router, middleware, and built-in response manager
 - 0.2.8
 - 0.3.0
 - 0.3.1
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

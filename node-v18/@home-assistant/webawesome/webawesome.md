@@ -28,7 +28,6 @@ A forward-thinking library of web components.
 - 3.7.0
 - 3.7.0-ha.0
 - 3.7.0-ha.1
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

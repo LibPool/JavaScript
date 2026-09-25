@@ -28,7 +28,6 @@ A recommended babel preprocessing plugin for emotion, The Next Generation of CSS
 - 11.7.2
 - 11.9.2
 - 11.9.5
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

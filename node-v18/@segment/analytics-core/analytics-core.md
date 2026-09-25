@@ -28,7 +28,6 @@ This package represents core 'shared' functionality that is shared by analytics 
 - 1.8.1
 - 1.8.2
 - 1.8.3
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

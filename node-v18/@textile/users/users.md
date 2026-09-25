@@ -28,7 +28,6 @@ web-gRPC wrapper client for managing Textile Users.
 - 6.2.2
 - 6.2.3
 - 6.2.4
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

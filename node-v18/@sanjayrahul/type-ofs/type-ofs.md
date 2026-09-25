@@ -1,0 +1,24 @@
+# @sanjayrahul/type-ofs
+
+> 标签: typeOf
+
+## 简介
+
+@sanjayrahul/type-ofs - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/sanjayrahul19/typeOf#readme
+- 源码仓库：git+https://github.com/sanjayrahul19/typeOf.git
+- npm 页面：https://www.npmjs.com/package/@sanjayrahul/type-ofs
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @sanjayrahul/type-ofs`
+- npm registry：https://registry.npmjs.org/@sanjayrahul/type-ofs

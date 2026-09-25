@@ -28,7 +28,6 @@ TypeScript definitions for @babel/core
 - 7.20.3
 - 7.20.4
 - 7.20.5
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

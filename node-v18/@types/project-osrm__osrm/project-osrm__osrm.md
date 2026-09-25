@@ -1,0 +1,29 @@
+# @types/project-osrm__osrm
+
+> 标签: JavaScript
+
+## 简介
+
+TypeScript definitions for @project-osrm/osrm
+
+## 官网
+
+- 官网：https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/project-osrm__osrm
+- 源码仓库：https://github.com/DefinitelyTyped/DefinitelyTyped.git
+- npm 页面：https://www.npmjs.com/package/@types/project-osrm__osrm
+
+## 历史版本号
+
+- 当前版本：5.27.5
+
+- 5.27.0
+- 5.27.1
+- 5.27.2
+- 5.27.3
+- 5.27.4
+- 5.27.5
+
+## 获取地址
+
+- npm 安装：`npm install @types/project-osrm__osrm`
+- npm registry：https://registry.npmjs.org/@types/project-osrm__osrm

@@ -28,7 +28,6 @@ This package is react web package with all components
 - 9.0.0
 - 9.1.0
 - 9.2.0
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

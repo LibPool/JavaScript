@@ -28,7 +28,6 @@ A set of core FlexDash widgets for Node-RED.
 - 0.4.62
 - 0.4.63
 - 0.4.64
-- 共 48 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for reveal.js
 - 5.2.0
 - 5.2.1
 - 5.2.2
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -15,6 +15,8 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 
 - 当前版本：1.84.735
 
+- 1.84.745-integration
+- 1.84.747-74f613b-merge
 - 1.84.747-ce1ec5c-merge
 - 1.84.747-integration
 - 1.84.748-upgrade-angular-peerDeps
@@ -25,9 +27,7 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 - 1.84.755-angular-13
 - 1.84.756-integration
 - 1.84.757-json-form-validation
-- 1.9.49
-- 1.9.50-integration
-- 共 1109 个版本，完整清单见 npm registry。
+- 共 1,109 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

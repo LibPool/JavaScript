@@ -28,7 +28,6 @@ RIDI's ESLint configs for Javascript
 - 5.2.0
 - 6.0.0
 - 6.1.0
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

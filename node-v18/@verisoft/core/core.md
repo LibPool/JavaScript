@@ -27,7 +27,6 @@ Core utilities and HTTP services for Verisoft Angular applications, providing fo
 - 21.0.7
 - 21.0.8
 - 21.0.9
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

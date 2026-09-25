@@ -28,7 +28,6 @@ The ScaleBun web SDK — unified-session observability for the browser (errors, 
 - 2.0.4
 - 2.1.0
 - 2.2.2
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

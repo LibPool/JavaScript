@@ -28,7 +28,6 @@ TypeScript definitions for winreg
 - 1.2.34
 - 1.2.35
 - 1.2.36
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

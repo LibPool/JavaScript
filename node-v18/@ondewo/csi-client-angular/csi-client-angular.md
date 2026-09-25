@@ -27,7 +27,6 @@ ONDEWO Conversation System Integration (CSI) Client library for Angular
 - 5.4.2
 - 5.5.0
 - 5.5.1
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

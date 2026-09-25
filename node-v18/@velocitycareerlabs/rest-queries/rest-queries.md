@@ -28,7 +28,7 @@ Http REST Query language
 - 2.0.0-pre.1754876532
 - 2.0.0-pre.1754876579
 - 2.0.0-pre.1755033769
-- 共 1175 个版本，完整清单见 npm registry。
+- 共 1,175 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

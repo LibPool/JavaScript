@@ -28,7 +28,6 @@ Native binary for @oicana/node. Install @oicana/node instead.
 - 0.9.0-rc.1
 - 0.9.0-rc.2
 - 0.9.0-rc.3
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

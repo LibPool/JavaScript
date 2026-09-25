@@ -28,7 +28,6 @@ A toolbar component for React Flow that can be attached to a node.
 - 1.3.7
 - 1.3.8
 - 1.3.9
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

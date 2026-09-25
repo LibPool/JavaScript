@@ -28,7 +28,6 @@ TypeScript definitions for web-animations-js
 - 2.2.7
 - 2.2.8
 - 2.2.9
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

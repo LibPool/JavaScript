@@ -28,7 +28,6 @@ Pulumi Azure Native package for web
 - 3.4.0
 - 3.5.1
 - 3.8.0
-- 共 43 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

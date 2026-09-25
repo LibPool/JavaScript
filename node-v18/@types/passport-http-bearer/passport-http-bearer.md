@@ -28,7 +28,6 @@ TypeScript definitions for passport-http-bearer
 - 1.0.40
 - 1.0.41
 - 1.0.42
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for thrift
 - 0.9.26-alpha
 - 0.9.27
 - 0.9.28
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

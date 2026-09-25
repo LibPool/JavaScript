@@ -28,7 +28,6 @@ forwarded rewrite with TypeScript and ESM support
 - 2.1.0
 - 2.1.1
 - 2.1.2
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

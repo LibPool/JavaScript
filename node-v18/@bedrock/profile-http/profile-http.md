@@ -28,7 +28,6 @@ Bedrock Profile HTTP API
 - 26.2.3
 - 26.2.4
 - 26.2.5
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

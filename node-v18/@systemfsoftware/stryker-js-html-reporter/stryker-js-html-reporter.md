@@ -28,7 +28,6 @@ HTML reporter plugin for the @systemfsoftware mutation engine.
 - 4.0.3
 - 4.0.4
 - 4.0.5
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

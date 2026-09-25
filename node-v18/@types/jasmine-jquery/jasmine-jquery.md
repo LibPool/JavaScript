@@ -28,7 +28,6 @@ TypeScript definitions for jasmine-jquery
 - 1.5.35
 - 1.5.36
 - 1.5.37
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -27,7 +27,6 @@ Tailwind CSS module for Nuxt
 - 0.0.33
 - 0.0.34
 - 0.0.35
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

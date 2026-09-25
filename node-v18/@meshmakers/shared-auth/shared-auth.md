@@ -15,13 +15,13 @@ OAuth2/OIDC authentication library for Angular applications using [angular-oauth
 
 - 当前版本：3.4.1280
 
+- 3.4.740
 - 3.4.770
 - 3.4.790
 - 3.4.810
 - 3.4.820
 - 3.4.880
 - 3.4.890
-- 3.4.90
 - 3.4.900
 - 3.4.910
 - 3.4.930

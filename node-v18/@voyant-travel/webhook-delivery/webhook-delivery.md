@@ -28,7 +28,6 @@ Durable, policy-aware outbound webhook delivery for Voyant Node deployments.
 - 0.5.7
 - 0.5.8
 - 0.5.9
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

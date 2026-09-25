@@ -27,7 +27,6 @@ HTTP client for Sales Planner API
 - 0.9.3
 - 1.0.1
 - 1.1.0
-- 共 48 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

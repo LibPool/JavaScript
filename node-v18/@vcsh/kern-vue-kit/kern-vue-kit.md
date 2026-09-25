@@ -28,7 +28,6 @@ Dieses Repository enthält die VUE-Implementation des KERN Design-Systems.
 - 2.7.4
 - 2.7.5
 - 2.7.6
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

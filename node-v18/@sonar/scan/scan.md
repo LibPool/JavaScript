@@ -28,7 +28,6 @@ SonarQube/SonarCloud Scanner for the JavaScript world
 - 4.4.0-alpha.1
 - 5.0.0
 - 5.0.1
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

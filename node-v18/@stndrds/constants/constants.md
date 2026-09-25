@@ -1,0 +1,36 @@
+# @stndrds/constants
+
+> 标签: JavaScript
+
+## 简介
+
+Currency and country data with ISO codes
+
+## 官网
+
+- 官网：https://github.com/andyoucreate/standards#readme
+- 源码仓库：git+https://github.com/andyoucreate/standards.git
+- npm 页面：https://www.npmjs.com/package/@stndrds/constants
+
+## 历史版本号
+
+- 当前版本：1.0.0-alpha.350
+
+- 1.0.0-alpha.336
+- 1.0.0-alpha.337
+- 1.0.0-alpha.338
+- 1.0.0-alpha.342
+- 1.0.0-alpha.343
+- 1.0.0-alpha.344
+- 1.0.0-alpha.345
+- 1.0.0-alpha.346
+- 1.0.0-alpha.347
+- 1.0.0-alpha.348
+- 1.0.0-alpha.349
+- 1.0.0-alpha.350
+- 共 315 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @stndrds/constants`
+- npm registry：https://registry.npmjs.org/@stndrds/constants

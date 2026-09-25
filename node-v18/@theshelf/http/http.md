@@ -28,7 +28,6 @@ This package contains the definition of the http clients.
 - 0.4.4
 - 0.4.5
 - 0.5.0
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

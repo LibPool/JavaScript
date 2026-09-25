@@ -28,7 +28,6 @@ The Spectrum CSS UI icons
 - 2.0.0-s2-foundations.7
 - 2.0.0-s2-foundations.8
 - 2.0.0-s2-foundations.9
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

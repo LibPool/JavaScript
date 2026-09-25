@@ -28,7 +28,7 @@ This library provides a set of common React components for use with the PatternF
 - 6.6.1-prerelease.8
 - 6.6.1-prerelease.9
 - 6.6.2
-- 共 2480 个版本，完整清单见 npm registry。
+- 共 2,480 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

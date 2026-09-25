@@ -28,7 +28,6 @@ Link HTML attributes (e.g. ko-handler-name) to binding handlers
 - 4.0.0-beta1.3
 - 4.0.1
 - 4.1.0
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for chance
 - 1.1.6
 - 1.1.7
 - 1.1.8
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

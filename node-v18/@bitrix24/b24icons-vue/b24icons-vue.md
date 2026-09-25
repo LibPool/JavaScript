@@ -28,7 +28,6 @@ Bitrix24 SVG icons for development web-applications for Vue
 - 2.0.6
 - 2.0.7
 - 2.0.8
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

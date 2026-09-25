@@ -28,7 +28,6 @@ javascript based business reporting
 - 4.7.1
 - 4.8.0
 - 4.9.0
-- 共 48 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

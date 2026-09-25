@@ -27,7 +27,6 @@ Base stylelint config for css and scss in Quero Education's projects
 - 2.0.3
 - 2.0.3-main.2
 - 2.1.0
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

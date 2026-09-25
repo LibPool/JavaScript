@@ -28,7 +28,6 @@ React hooks and AI SDK transport for the v0 API
 - 3.0.8-canary.1c8baa0
 - 3.0.8-canary.5a5fb0f
 - 3.0.8-canary.f404a9a
-- 共 48 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

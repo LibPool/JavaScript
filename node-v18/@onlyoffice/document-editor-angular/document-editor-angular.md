@@ -28,7 +28,6 @@ This repo contains the Angular component for [ONLYOFFICE Document Server](https:
 - 8.5.1
 - 8.6.0
 - 9.6.0
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

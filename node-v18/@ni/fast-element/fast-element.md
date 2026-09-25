@@ -28,7 +28,6 @@ A library for constructing Web Components
 - 10.1.1
 - 10.1.2
 - 10.2.0
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

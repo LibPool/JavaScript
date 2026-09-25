@@ -1,0 +1,25 @@
+# @ljo-hamburg/gutenberg-image-selector
+
+> 标签: gutenberg, media, react, wordpress
+
+## 简介
+
+Image Selector Control for Gutenberg
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@ljo-hamburg/gutenberg-image-selector
+
+## 历史版本号
+
+- 当前版本：0.1.3
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+
+## 获取地址
+
+- npm 安装：`npm install @ljo-hamburg/gutenberg-image-selector`
+- npm registry：https://registry.npmjs.org/@ljo-hamburg/gutenberg-image-selector

@@ -28,7 +28,6 @@ A simple yet powerful tree component for Angular
 - 13.3.7
 - 13.3.8
 - 13.3.9
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

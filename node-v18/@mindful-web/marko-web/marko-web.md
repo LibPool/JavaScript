@@ -28,7 +28,6 @@ Core Marko+Express components for Mindful Web websites
 - 1.92.0
 - 1.92.1
 - 1.93.0
-- 共 48 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

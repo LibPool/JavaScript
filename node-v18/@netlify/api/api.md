@@ -28,7 +28,6 @@ Netlify Node.js API client
 - 15.1.0
 - 15.1.1
 - 15.1.2
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

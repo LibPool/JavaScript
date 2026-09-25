@@ -28,7 +28,6 @@ Virtualized React component for rendering masonry layouts
 - 1.4.1
 - 1.4.2
 - 1.4.3
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for cookie-session
 - 2.0.47
 - 2.0.48
 - 2.0.49
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

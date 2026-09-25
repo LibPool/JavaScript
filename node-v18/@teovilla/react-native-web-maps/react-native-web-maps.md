@@ -28,7 +28,6 @@ Cross platform maps for react & react-native
 - 0.9.3
 - 0.9.4
 - 0.9.5
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Logging node module managing json or human format
 - 5.0.0-rc.5
 - 5.0.0-rc.6
 - 5.0.0-rc.7
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

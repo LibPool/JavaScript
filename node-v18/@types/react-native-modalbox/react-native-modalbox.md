@@ -28,7 +28,6 @@ TypeScript definitions for react-native-modalbox
 - 1.4.7
 - 1.4.8
 - 1.4.9
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -27,7 +27,6 @@ OpenAPI client for @emilgroup/gdv-sdk-node
 - 2.7.1-beta.15
 - 2.7.1-beta.2
 - 2.7.1-beta.3
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

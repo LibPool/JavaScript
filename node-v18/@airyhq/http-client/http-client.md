@@ -28,7 +28,6 @@ An http library for the Airy messaging platform compatible with both Browser and
 - 0.42.0
 - 0.43.0
 - 0.47.2
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

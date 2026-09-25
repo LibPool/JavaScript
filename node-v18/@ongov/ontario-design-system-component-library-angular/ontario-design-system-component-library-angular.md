@@ -28,7 +28,6 @@ Angular specific wrapper for ontario-design-system-component-library
 - 9.1.0
 - 9.1.0-alpha.1
 - 9.1.0-alpha.2
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

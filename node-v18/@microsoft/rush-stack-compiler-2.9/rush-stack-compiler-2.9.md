@@ -1,0 +1,36 @@
+# @microsoft/rush-stack-compiler-2.9
+
+> 标签: JavaScript
+
+## 简介
+
+A plug-in for selecting the compiler used with the @microsoft/rush-stack toolchain. This version selects TypeScript 2.9.
+
+## 官网
+
+- 官网：https://github.com/microsoft/spfx-gulp-tools#readme
+- 源码仓库：git+https://github.com/microsoft/spfx-gulp-tools.git
+- npm 页面：https://www.npmjs.com/package/@microsoft/rush-stack-compiler-2.9
+
+## 历史版本号
+
+- 当前版本：0.16.2
+
+- 0.14.46
+- 0.14.47
+- 0.14.48
+- 0.14.5
+- 0.14.6
+- 0.14.7
+- 0.14.8
+- 0.14.9
+- 0.15.0
+- 0.16.0
+- 0.16.1
+- 0.16.2
+- 共 174 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @microsoft/rush-stack-compiler-2.9`
+- npm registry：https://registry.npmjs.org/@microsoft/rush-stack-compiler-2.9

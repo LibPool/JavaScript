@@ -28,7 +28,6 @@ TypeScript definitions for traverse
 - 0.6.35
 - 0.6.36
 - 0.6.37
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

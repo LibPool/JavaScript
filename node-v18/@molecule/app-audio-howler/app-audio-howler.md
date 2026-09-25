@@ -1,0 +1,26 @@
+# @molecule/app-audio-howler
+
+> 标签: audio, howler, molecule
+
+## 简介
+
+Howler.js provider for @molecule/app-audio
+
+## 官网
+
+- 官网：https://www.molecule.dev/packages/app-audio-howler
+- 源码仓库：git+https://github.com/molecule-dev/molecule.git
+- npm 页面：https://www.npmjs.com/package/@molecule/app-audio-howler
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @molecule/app-audio-howler`
+- npm registry：https://registry.npmjs.org/@molecule/app-audio-howler

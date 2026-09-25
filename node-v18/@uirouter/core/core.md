@@ -28,7 +28,6 @@ UI-Router Core: Framework agnostic, State-based routing for JavaScript Single Pa
 - 7.0.0-beta.1
 - 7.0.0-beta.2
 - 7.0.0-beta.3
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

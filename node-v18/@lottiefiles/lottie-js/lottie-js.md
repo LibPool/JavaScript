@@ -28,7 +28,6 @@ Lottie JSON model for Javascript/Typescript
 - 0.4.0
 - 0.4.1
 - 0.4.2
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

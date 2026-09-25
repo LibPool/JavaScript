@@ -28,7 +28,6 @@ Shopify Admin API Client - A lightweight JS client to interact with Shopify's Ad
 - 1.1.1
 - 1.1.2
 - 2.0.0
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

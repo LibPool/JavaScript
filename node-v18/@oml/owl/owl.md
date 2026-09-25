@@ -15,6 +15,9 @@ The semantic web specific package
 
 - 当前版本：0.26.1
 
+- 0.22.1
+- 0.23.0
+- 0.24.0
 - 0.25.0
 - 0.25.1
 - 0.25.2
@@ -24,9 +27,6 @@ The semantic web specific package
 - 0.25.6
 - 0.26.0
 - 0.26.1
-- 0.7.0
-- 0.8.0
-- 0.9.0
 - 共 61 个版本，完整清单见 npm registry。
 
 ## 获取地址

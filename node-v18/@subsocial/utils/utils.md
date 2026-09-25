@@ -16,6 +16,7 @@ JavaScript utils for Subsocial blockchain.
 
 - 当前版本：0.8.14
 
+- 0.8.5
 - 0.8.6
 - 0.8.6-beta.0
 - 0.8.6-beta.1
@@ -27,7 +28,6 @@ JavaScript utils for Subsocial blockchain.
 - 0.8.8
 - 0.8.8-beta.0
 - 0.8.9
-- 6.0.3-dev.1
 - 共 224 个版本，完整清单见 npm registry。
 
 ## 获取地址

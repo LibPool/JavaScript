@@ -16,6 +16,7 @@ Modern and scalable routing for React applications
 
 - 当前版本：1.131.50
 
+- 1.131.43
 - 1.131.44
 - 1.131.45
 - 1.131.46
@@ -27,7 +28,6 @@ Modern and scalable routing for React applications
 - 1.131.6
 - 1.131.7
 - 1.131.8
-- 1.20.3-alpha.1
 - 共 205 个版本，完整清单见 npm registry。
 
 ## 获取地址

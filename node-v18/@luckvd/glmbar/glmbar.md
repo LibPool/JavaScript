@@ -1,0 +1,26 @@
+# @luckvd/glmbar
+
+> 标签: claude-code, cli, glm, glm-coding-plan, statusline, terminal
+
+## 简介
+
+Claude Code statusline for GLM Coding Plan (subscription)
+
+## 官网
+
+- 官网：https://github.com/LuckVd/glmbar#readme
+- 源码仓库：git+https://github.com/LuckVd/glmbar.git
+- npm 页面：https://www.npmjs.com/package/@luckvd/glmbar
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.0
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @luckvd/glmbar`
+- npm registry：https://registry.npmjs.org/@luckvd/glmbar
+- Node 要求：>=14

@@ -28,7 +28,6 @@ HPE Web Design System - Components, Lit web components that consume design token
 - 1.7.2
 - 1.8.0
 - 1.8.1
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

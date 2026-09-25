@@ -28,7 +28,6 @@ DeepSeek-backed search provider (native web_search via the Anthropic-compatible 
 - 0.1.7
 - 0.1.8
 - 0.1.9
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

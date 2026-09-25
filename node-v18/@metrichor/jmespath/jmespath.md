@@ -28,7 +28,6 @@ Typescript implementation of the JMESPath spec (100% compliant)
 - 0.3.0
 - 0.3.1
 - 1.0.1
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

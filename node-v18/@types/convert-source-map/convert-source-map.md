@@ -28,7 +28,6 @@ TypeScript definitions for convert-source-map
 - 2.0.1
 - 2.0.2
 - 2.0.3
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

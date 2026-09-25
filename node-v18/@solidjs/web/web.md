@@ -16,8 +16,8 @@ Solid's web runtime: client rendering, hydration, SSR, and DOM-specific control 
 
 - 当前版本：2.0.0-rc.0
 
-- 2.0.0-experimental.8
-- 2.0.0-experimental.9
+- 2.0.0-experimental.15
+- 2.0.0-experimental.16
 - 2.0.0-rc.0
 - 2.0.0-rc.1
 - 2.0.0-rc.2

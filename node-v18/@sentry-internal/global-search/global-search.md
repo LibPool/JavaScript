@@ -28,7 +28,6 @@ JavaScript library and helper utilities for searching Sentry sites via Algolia.
 - 1.1.0
 - 1.2.0
 - 1.3.0
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

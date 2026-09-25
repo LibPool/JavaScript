@@ -28,7 +28,6 @@ TypeScript definitions for @koa/cors
 - 4.0.3
 - 5.0.0
 - 5.0.1
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

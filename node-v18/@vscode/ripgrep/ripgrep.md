@@ -28,7 +28,6 @@ A module for using ripgrep in a Node project
 - 1.17.0
 - 1.17.1
 - 1.18.0
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

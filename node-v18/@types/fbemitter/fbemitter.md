@@ -28,7 +28,6 @@ TypeScript definitions for fbemitter
 - 2.0.33
 - 2.0.34
 - 2.0.35
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

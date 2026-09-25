@@ -28,7 +28,6 @@ Vite plugin that compiles Vobs TSX, turns imported HTML files into components, a
 - 1.6.4
 - 1.7.0
 - 1.7.1
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

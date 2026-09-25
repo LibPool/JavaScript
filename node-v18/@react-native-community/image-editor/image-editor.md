@@ -28,7 +28,6 @@ React Native Image Editing native modules for iOS & Android
 - 4.2.1
 - 4.3.0
 - 4.3.1
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

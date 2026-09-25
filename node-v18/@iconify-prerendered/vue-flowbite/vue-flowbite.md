@@ -28,7 +28,6 @@ Flowbite Icons components for Vue. Designed for ease of use and high performance
 - 0.28.1736838942
 - 0.28.1742794249
 - 0.28.1754899090
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

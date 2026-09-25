@@ -28,7 +28,6 @@ TypeScript definitions for ejs
 - 3.1.3
 - 3.1.4
 - 3.1.5
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

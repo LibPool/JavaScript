@@ -27,7 +27,6 @@ Official React package for Topol Editor.
 - 1.0.0-alpha.9
 - 2.0.0-alpha.1
 - 2.0.0-alpha.2
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

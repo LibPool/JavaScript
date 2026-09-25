@@ -1,0 +1,24 @@
+# @nodesol/laraql
+
+> 标签: eloquent, graphql, laraql, laravel, lighthouse, orm
+
+## 简介
+
+An Eloquent-style ORM for Laravel Lighthouse GraphQL
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@nodesol/laraql
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @nodesol/laraql`
+- npm registry：https://registry.npmjs.org/@nodesol/laraql

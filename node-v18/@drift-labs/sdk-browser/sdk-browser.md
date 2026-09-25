@@ -1,0 +1,37 @@
+# @drift-labs/sdk-browser
+
+> 标签: drift, drift-labs, perps
+
+## 简介
+
+SDK for Drift Protocol
+
+## 官网
+
+- 官网：https://www.drift.trade/
+- 源码仓库：git+ssh://git@github.com/drift-labs/protocol-v2.git
+- npm 页面：https://www.npmjs.com/package/@drift-labs/sdk-browser
+
+## 历史版本号
+
+- 当前版本：2.156.0-beta.0
+
+- 2.161.0-beta.3
+- 2.161.0-beta.4
+- 2.161.0-beta.5
+- 2.162.0-beta.0
+- 2.162.0-beta.1
+- 2.162.0-beta.2
+- 2.163.0-beta.0
+- 2.163.0-beta.10
+- 2.163.0-beta.11
+- 2.163.0-beta.12
+- 2.163.0-beta.13
+- 2.163.0-beta.9
+- 共 549 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @drift-labs/sdk-browser`
+- npm registry：https://registry.npmjs.org/@drift-labs/sdk-browser
+- Node 要求：>=22.14.0

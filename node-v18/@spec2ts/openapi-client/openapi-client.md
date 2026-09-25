@@ -28,7 +28,6 @@ Utility to convert OpenAPI v3 specifications to Typescript HTTP client using Typ
 - 4.0.3
 - 4.1.0
 - 4.1.1
-- 共 42 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

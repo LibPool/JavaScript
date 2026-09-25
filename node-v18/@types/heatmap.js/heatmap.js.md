@@ -28,7 +28,6 @@ TypeScript definitions for heatmap.js
 - 2.0.39
 - 2.0.40
 - 2.0.41
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

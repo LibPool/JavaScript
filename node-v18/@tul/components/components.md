@@ -15,18 +15,18 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 
 - 当前版本：10.7.0
 
-- 8.1.0-refactorToast.3
-- 8.1.0-refactorToast.4
-- 8.1.0-refactorToast.5
-- 8.1.0-refactorToast.6
-- 8.2.0
-- 8.2.0-autoremoveToast.1
-- 9.0.0
-- 9.0.1-CSE-1177-front-end-exportar-pipes.1
-- 9.0.1-CSE-1177-front-end-exportar-pipes.2
-- 9.1.0
-- 9.1.0-selectEntity.1
-- 9.1.1-CSE-1177-front-end-exportar-pipes.1
+- 10.7.0-CSE-1696-change-loader.2
+- 10.7.0-CSE-1696-change-loader.3
+- 10.7.0-CSE-1696-change-loader.4
+- 10.7.0-CSE-1696-change-loader.5
+- 10.7.0-CSE-1696-change-loader.6
+- 10.7.0-CSE-1696-change-loader.7
+- 10.7.0-CSE-1716-remove-vulnerability.1
+- 10.7.0-bugUrlTranslate.1
+- 10.7.0-change-style.1
+- 10.8.0-add-suscription-entity-select.1
+- 10.8.0-bugUrlTranslate.1
+- 10.8.0-can-use-checkbox-in-table.1
 - 共 294 个版本，完整清单见 npm registry。
 
 ## 获取地址

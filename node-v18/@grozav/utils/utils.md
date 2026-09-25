@@ -28,7 +28,6 @@ Collection of common JavaScript / TypeScript utils by [@alexgrozav](http://githu
 - 1.3.0
 - 1.3.1
 - 1.3.2
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

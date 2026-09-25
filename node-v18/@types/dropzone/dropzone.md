@@ -28,7 +28,6 @@ TypeScript definitions for dropzone
 - 5.7.7
 - 5.7.8
 - 5.7.9
-- 共 47 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

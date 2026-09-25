@@ -16,13 +16,13 @@ React and Next.js wrapper of the @spectrum-web-components/theme component
 
 - 当前版本：1.12.2
 
-- 1.2.0
-- 1.3.0
-- 1.4.0
-- 1.5.0
-- 1.6.0
-- 1.7.0
-- 1.8.0
+- 1.12.3-next.20260903033550
+- 1.12.3-snapshot-test.20260727145607
+- 1.12.3-snapshot-test.20260824192735
+- 1.12.3-snapshot-test.20260827054049
+- 1.12.3-snapshot-test.20260827100456
+- 1.12.3-snapshot-test.20260831180357
+- 1.12.3-test.20260827122947
 - 1.9.0
 - 1.9.1
 - 1.9.1-nightly.20251101120150

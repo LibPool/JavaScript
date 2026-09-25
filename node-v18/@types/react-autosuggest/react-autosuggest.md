@@ -28,7 +28,6 @@ TypeScript definitions for react-autosuggest
 - 9.3.7
 - 9.3.8
 - 9.3.9
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

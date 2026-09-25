@@ -28,7 +28,6 @@ The Windows 64-bit binary for @swc-node/core.
 - 0.7.4
 - 0.7.5
 - 0.7.6
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

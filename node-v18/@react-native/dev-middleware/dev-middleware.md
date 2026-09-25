@@ -28,7 +28,7 @@ Dev server middleware for React Native
 - 0.89.0-nightly-20260919-af4d8eb08
 - 0.89.0-nightly-20260920-6019ea14b
 - 0.89.0-nightly-20260922-f03f6c2b8
-- 共 1166 个版本，完整清单见 npm registry。
+- 共 1,166 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

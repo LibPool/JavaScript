@@ -28,7 +28,6 @@ Convert Markdown text to HTML text
 - 1.2.1
 - 1.2.2
 - 1.3.0
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

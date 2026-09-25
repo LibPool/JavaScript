@@ -28,7 +28,6 @@ Angular Schematics - Library (with updated dependencies)
 - 22.1.7-depup.1
 - 22.1.8-depup.0
 - 22.1.8-depup.1
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

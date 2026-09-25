@@ -28,7 +28,6 @@ Use design tokens in your CSS
 - 4.0.4
 - 4.0.5
 - 5.0.0
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

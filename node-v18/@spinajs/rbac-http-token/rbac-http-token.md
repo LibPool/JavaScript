@@ -28,7 +28,6 @@ Personal access tokens (PAT) for spinajs HTTP routes - DB persisted, rbac-aware,
 - 2.0.542
 - 2.0.543
 - 2.0.544
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

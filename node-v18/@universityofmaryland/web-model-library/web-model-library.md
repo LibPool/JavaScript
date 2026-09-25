@@ -27,7 +27,6 @@ UMD Web Component Model - Base utilities for building web components
 - 1.1.1
 - 1.1.2
 - 2.0.0
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

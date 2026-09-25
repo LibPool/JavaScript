@@ -28,7 +28,6 @@ Client-side Bitcoin JavaScript library
 - 7.1.0-master.7
 - 7.1.0-master.8
 - 7.1.0-master.9
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

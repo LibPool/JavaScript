@@ -28,7 +28,6 @@ Snail Pi Web (蜗牛派) workspace for the pi coding agent
 - 0.9.7
 - 0.9.8
 - 0.9.9
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

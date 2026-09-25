@@ -1,0 +1,26 @@
+# @asmartbear/pojo-compare
+
+> 标签: compare, diff, json, pojo
+
+## 简介
+
+Compares two POJOs, either for equality or for less/equal/greater
+
+## 官网
+
+- 官网：https://github.com/asmartbear/pojo-compare#readme
+- 源码仓库：git+ssh://git@github.com/asmartbear/pojo-compare.git
+- npm 页面：https://www.npmjs.com/package/@asmartbear/pojo-compare
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @asmartbear/pojo-compare`
+- npm registry：https://registry.npmjs.org/@asmartbear/pojo-compare

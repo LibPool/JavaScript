@@ -15,7 +15,7 @@ React component library - https://meshjs.dev/react
 
 - 当前版本：2.0.0-beta.2
 
-- 1.9.0-beta.9
+- 1.9.0-beta.89
 - 1.9.0-beta.90
 - 1.9.0-beta.91
 - 1.9.0-beta.92

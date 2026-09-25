@@ -28,7 +28,6 @@ Minimal type-safe HTTP client for the SODAX backend Swaps API v2
 - 2.2.0-rc.4
 - 2.2.0-rc.5
 - 2.2.0-rc.6
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

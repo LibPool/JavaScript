@@ -28,7 +28,6 @@ Welcome to the README of Gurx, an typescript-native reactive state management li
 - 1.2.2
 - 1.2.3
 - 1.2.4
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

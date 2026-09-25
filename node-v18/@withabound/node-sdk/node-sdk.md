@@ -16,6 +16,9 @@ The Abound Node library provides convenient access to the Abound API from applic
 
 - 当前版本：6.0.68
 
+- 6.0.57
+- 6.0.58
+- 6.0.59
 - 6.0.60
 - 6.0.61
 - 6.0.62
@@ -25,9 +28,6 @@ The Abound Node library provides convenient access to the Abound API from applic
 - 6.0.66
 - 6.0.67
 - 6.0.68
-- 6.0.7
-- 6.0.8
-- 6.0.9
 - 共 120 个版本，完整清单见 npm registry。
 
 ## 获取地址

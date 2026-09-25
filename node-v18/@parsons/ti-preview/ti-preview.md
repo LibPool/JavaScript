@@ -28,7 +28,6 @@ Mini HTML/CSS editor / preview for the Typography & Interaction class at Parsons
 - 0.0.7
 - 0.0.8
 - 0.0.9
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

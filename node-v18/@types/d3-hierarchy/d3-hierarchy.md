@@ -28,7 +28,6 @@ TypeScript definitions for d3-hierarchy
 - 3.1.5
 - 3.1.6
 - 3.1.7
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

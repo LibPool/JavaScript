@@ -27,7 +27,6 @@ Forge Web JavaScript and WASM binding facade.
 - 9.7.3
 - 9.7.4
 - 9.7.5
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -27,7 +27,6 @@ Link component with suppport for Vue Router
 - 1.1.3-beta.0
 - 1.1.4-beta.0
 - 1.1.4-beta.1
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

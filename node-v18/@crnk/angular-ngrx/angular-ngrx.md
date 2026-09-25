@@ -28,7 +28,6 @@ Angular helper library for ngrx-json-api and crnk:
 - 2.6.20180522200930
 - 2.6.20180525100530
 - 2.6.20180606171430
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

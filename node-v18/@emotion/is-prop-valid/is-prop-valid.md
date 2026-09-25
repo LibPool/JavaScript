@@ -28,7 +28,6 @@ A function to check whether a prop is valid for HTML and SVG elements
 - 10.0.0-really-unsafe-please-do-not-use.0
 - 10.0.0-really-unsafe-please-do-not-use.1
 - 10.0.0-really-unsafe-please-do-not-use.2
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

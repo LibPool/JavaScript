@@ -27,7 +27,7 @@ Kendo UI Navigation for Angular
 - 25.2.0-develop.7
 - 25.2.0-develop.8
 - 25.2.0-develop.9
-- 共 1421 个版本，完整清单见 npm registry。
+- 共 1,421 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

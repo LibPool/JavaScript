@@ -1,0 +1,25 @@
+# @ebattt/skillpress-ui
+
+> 标签: JavaScript
+
+## 简介
+
+Skillpress UI design system
+
+## 官网
+
+- 官网：https://github.com/ebattt/skillpress-ui#readme
+- 源码仓库：git+https://github.com/ebattt/skillpress-ui.git
+- npm 页面：https://www.npmjs.com/package/@ebattt/skillpress-ui
+
+## 历史版本号
+
+- 当前版本：0.5.0
+
+- 0.5.0
+
+## 获取地址
+
+- npm 安装：`npm install @ebattt/skillpress-ui`
+- npm registry：https://registry.npmjs.org/@ebattt/skillpress-ui
+- Node 要求：>=18

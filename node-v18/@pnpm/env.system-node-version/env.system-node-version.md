@@ -28,7 +28,6 @@ Detects the current system node version
 - 1000.0.8
 - 1000.0.9
 - 900.0.0
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

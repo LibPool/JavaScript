@@ -16,16 +16,16 @@ Provides bottom-sheet components for React Native.
 
 - 当前版本：0.16.2
 
-- 0.9.0
-- 0.9.0-next.1
-- 0.9.0-next.2
-- 0.9.0-next.3
-- 0.9.1
-- 0.9.1-next.1
-- 0.9.2
-- 0.9.2-next.1
-- 0.9.3
-- 0.9.3-next.1
+- 0.16.0-next.4
+- 0.16.0-next.5
+- 0.16.0-next.6
+- 0.16.0-next.7
+- 0.16.0-next.8
+- 0.16.0-next.9
+- 0.16.1
+- 0.16.2
+- 0.16.2-next.1
+- 0.17.0-next.1
 - 0.9.4
 - 0.9.5
 - 共 99 个版本，完整清单见 npm registry。

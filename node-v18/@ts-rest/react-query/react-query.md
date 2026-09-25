@@ -16,16 +16,16 @@ react-query client integration for @ts-rest
 
 - 当前版本：3.52.1
 
+- 3.52.0
+- 3.52.0-alpha.0
+- 3.52.0-alpha.1
+- 3.52.1
+- 3.53.0-alpha.0
 - 3.53.0-alpha.1
 - 3.53.0-alpha.2
 - 3.53.0-alpha.3
 - 3.53.0-rc.0
 - 3.53.0-rc.1
-- 3.6.0
-- 3.6.1
-- 3.7.0
-- 3.8.0
-- 3.9.0
 - 4.0.0-beta.0
 - 4.0.0-beta.1
 - 共 137 个版本，完整清单见 npm registry。

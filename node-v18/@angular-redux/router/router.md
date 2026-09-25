@@ -28,7 +28,6 @@ Keep your Angular 2+ router state in Redux.
 - 7.0.0-2
 - 9.0.0
 - 9.0.0-beta.0
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

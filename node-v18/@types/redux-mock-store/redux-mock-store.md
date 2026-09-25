@@ -28,7 +28,6 @@ TypeScript definitions for redux-mock-store
 - 1.0.5
 - 1.0.6
 - 1.5.0
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

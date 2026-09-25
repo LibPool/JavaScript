@@ -28,7 +28,6 @@ uws http server component
 - 0.0.1-20240315230713.commit-33415c0
 - 0.0.1-20240318121702.commit-ac5a332
 - 0.0.2
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

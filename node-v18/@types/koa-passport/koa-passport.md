@@ -28,7 +28,6 @@ TypeScript definitions for koa-passport
 - 6.0.1
 - 6.0.2
 - 6.0.3
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

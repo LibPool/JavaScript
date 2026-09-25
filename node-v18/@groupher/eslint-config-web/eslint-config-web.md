@@ -28,7 +28,6 @@ eslint rules used by groupher team for web dev
 - 2.0.7
 - 2.0.8
 - 2.0.9
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

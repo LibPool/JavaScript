@@ -28,7 +28,6 @@ A JavaScript parser for power-doctest.
 - 5.3.5
 - 6.0.0
 - 6.0.0-beta.1
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

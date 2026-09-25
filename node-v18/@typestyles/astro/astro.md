@@ -16,18 +16,18 @@ Astro integration for typestyles (dev HMR, production CSS extraction)
 
 - 当前版本：0.3.5
 
+- 0.0.0-unstable.cbf2959bc736
+- 0.0.0-unstable.d2918ae48bd0
+- 0.0.0-unstable.d46969cc186c
+- 0.0.0-unstable.d8c8bfddc1c7
+- 0.0.0-unstable.db05b288c087
+- 0.0.0-unstable.dc32065699a4
+- 0.0.0-unstable.e4f0ac414ce4
+- 0.0.0-unstable.ec685db8ddb8
+- 0.0.0-unstable.ed956d8577d4
+- 0.0.0-unstable.eeb425307b37
 - 0.0.0-unstable.f163b08f071e
-- 0.0.0-unstable.f641e3f63a6f
-- 0.0.0-unstable.f65c57002ce0
-- 0.0.0-unstable.f68e5ab6a675
-- 0.0.0-unstable.f7b9ed22e456
-- 0.0.0-unstable.f81fa665d030
 - 0.0.0-unstable.f96b13308930
-- 0.3.0
-- 0.3.2
-- 0.3.3
-- 0.3.4
-- 0.3.5
 - 共 120 个版本，完整清单见 npm registry。
 
 ## 获取地址

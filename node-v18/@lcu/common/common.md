@@ -15,6 +15,8 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 
 - 当前版本：1.84.735
 
+- 1.84.740-lcu-change
+- 1.84.741-remove-icon-service
 - 1.84.742-string-pipes
 - 1.84.743-test-getting-correct-version
 - 1.84.744-integration
@@ -25,9 +27,7 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 - 1.84.755-angular-13
 - 1.84.756-integration
 - 1.84.757-json-form-validation
-- 1.9.49
-- 1.9.50-integration
-- 共 1074 个版本，完整清单见 npm registry。
+- 共 1,074 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

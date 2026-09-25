@@ -16,18 +16,18 @@ Vue adapter for Lunora — live composables, optimistic mutations, and reactive 
 
 - 当前版本：0.0.0
 
-- 1.0.0-alpha.89
-- 1.0.0-alpha.9
-- 1.0.0-alpha.90
-- 1.0.0-alpha.91
-- 1.0.0-alpha.92
-- 1.0.0-alpha.93
-- 1.0.0-alpha.94
-- 1.0.0-alpha.95
-- 1.0.0-alpha.96
-- 1.0.0-alpha.97
-- 1.0.0-alpha.98
-- 1.0.0-alpha.99
+- 1.0.0-alpha.144
+- 1.0.0-alpha.145
+- 1.0.0-alpha.146
+- 1.0.0-alpha.147
+- 1.0.0-alpha.148
+- 1.0.0-alpha.149
+- 1.0.0-alpha.150
+- 1.0.0-alpha.151
+- 1.0.0-alpha.152
+- 1.0.0-alpha.153
+- 1.0.0-alpha.154
+- 1.0.0-alpha.155
 - 共 156 个版本，完整清单见 npm registry。
 
 ## 获取地址

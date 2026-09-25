@@ -28,7 +28,6 @@ Node.js(r) implementation of Eclipse Ditto JavaScript API.
 - 3.9.0-M1.0
 - 3.9.0-M1.1
 - 3.9.1
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

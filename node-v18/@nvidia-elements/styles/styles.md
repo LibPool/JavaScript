@@ -28,7 +28,6 @@ Core CSS foundation for the NVIDIA Elements design system, providing layout util
 - 2.1.1
 - 2.1.2
 - 2.1.3
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

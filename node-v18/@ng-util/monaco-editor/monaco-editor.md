@@ -28,7 +28,6 @@ Monaco Code Editor for Angular
 - 9.1.0
 - 9.1.1
 - 9.2.0
-- 共 43 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

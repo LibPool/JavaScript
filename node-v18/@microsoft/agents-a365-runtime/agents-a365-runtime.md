@@ -28,7 +28,6 @@ Agent 365 Runtime SDK for AI agents built with TypeScript/Node.js
 - 0.2.0-preview.5
 - 1.0.0
 - 1.1.0-preview.7
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

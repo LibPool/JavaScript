@@ -16,11 +16,11 @@ Text based canvas, drawing, plotting, tables with arbitrary formatting (incl. AN
 
 - 当前版本：3.0.129
 
+- 3.0.85
 - 3.0.86
 - 3.0.87
 - 3.0.88
 - 3.0.89
-- 3.0.9
 - 3.0.90
 - 3.0.91
 - 3.0.92

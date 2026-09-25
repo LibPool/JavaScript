@@ -16,6 +16,7 @@ This is the **x86_64-unknown-linux-gnu** binary for `@livekit/rtc-node`
 
 - 当前版本：0.13.24
 
+- 0.4.4
 - 0.5.0
 - 0.5.1
 - 0.6.0
@@ -27,7 +28,6 @@ This is the **x86_64-unknown-linux-gnu** binary for `@livekit/rtc-node`
 - 0.9.0
 - 0.9.1
 - 0.9.2
-- 1.0.0-alpha.1
 - 共 63 个版本，完整清单见 npm registry。
 
 ## 获取地址

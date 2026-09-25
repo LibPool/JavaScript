@@ -28,7 +28,6 @@ TypeScript definitions for gapi
 - 2.0.25-alpha
 - 2.0.26-alpha
 - 2.0.27-alpha
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

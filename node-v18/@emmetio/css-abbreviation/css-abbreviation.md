@@ -28,7 +28,6 @@ Parses Emmet CSS abbreviation into AST tree
 - 2.1.6
 - 2.1.7
 - 2.1.8
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

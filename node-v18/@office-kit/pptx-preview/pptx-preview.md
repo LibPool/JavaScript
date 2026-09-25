@@ -28,7 +28,6 @@ Experimental preview renderer for @office-kit/pptx: render a slide to SVG (brows
 - 0.9.7
 - 0.9.8
 - 0.9.9
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

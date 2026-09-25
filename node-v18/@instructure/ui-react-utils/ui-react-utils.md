@@ -16,19 +16,19 @@ A React utility library made by Instructure Inc.
 
 - 当前版本：11.7.6
 
-- 9.6.0
-- 9.6.1-pr-snapshot-1726659472372
-- 9.6.1-snapshot-2
-- 9.7.0
-- 9.7.2
-- 9.8.0
-- 9.8.1
-- 9.8.1-pr-snapshot-1729275373690
-- 9.8.1-pr-snapshot-1729284977591
-- 9.8.1-pr-snapshot-1729547507524
-- 9.9.0
-- 9.9.1-pr-snapshot-1731682046909
-- 共 1954 个版本，完整清单见 npm registry。
+- 11.7.6-snapshot-18
+- 11.7.6-snapshot-20
+- 11.7.6-snapshot-22
+- 11.7.6-snapshot-23
+- 11.7.6-snapshot-26
+- 11.7.6-snapshot-27
+- 11.7.6-snapshot-28
+- 11.7.6-snapshot-30
+- 11.7.6-snapshot-31
+- 11.7.7-snapshot-0
+- 11.7.7-snapshot-1
+- 11.7.7-snapshot-3
+- 共 1,954 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

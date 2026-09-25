@@ -28,7 +28,6 @@ Well-typed React Component for Facebook Login
 - 3.3.2
 - 3.3.3
 - 3.4.0
-- 共 43 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Generated Eclipse Vert.x bindings for 'vertx-web'
 - 4.4.3
 - 4.5.1
 - 4.5.14
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

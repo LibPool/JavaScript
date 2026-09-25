@@ -27,7 +27,6 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 - 1.0.5-ozsay-test
 - 1.0.6-ozsay-test
 - 1.0.7-ozsay-test
-- 共 42 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

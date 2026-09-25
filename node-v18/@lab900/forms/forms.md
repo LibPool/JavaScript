@@ -16,18 +16,18 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 
 - 当前版本：22.2.1
 
-- 4.2.0-alpha.4
-- 4.2.0-alpha.5
-- 4.2.0-alpha.6
-- 4.2.0-alpha.7
-- 4.2.0-alpha.8
-- 4.2.0-alpha.9
-- 4.2.1
-- 4.2.1-alpha.1
-- 4.2.1-alpha.2
-- 4.2.1-alpha.3
-- 4.2.1-alpha.4
-- 4.2.1-alpha.5
+- 19.1.7
+- 19.1.8
+- 19.1.9
+- 22.0.0
+- 22.0.2
+- 22.0.3
+- 22.0.4
+- 22.0.5-alpha.0
+- 22.1.0
+- 22.2.0-alpha.0
+- 22.2.1
+- 22.2.1-alpha.0
 - 共 302 个版本，完整清单见 npm registry。
 
 ## 获取地址

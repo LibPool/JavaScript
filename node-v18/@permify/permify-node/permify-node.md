@@ -28,7 +28,6 @@ Permify Node Client
 - 1.7.1
 - 1.7.2
 - 1.7.3
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

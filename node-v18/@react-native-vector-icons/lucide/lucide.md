@@ -28,7 +28,6 @@ Lucide font for react native vector icons
 - 13.1.2
 - 13.1.3
 - 13.1.4
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

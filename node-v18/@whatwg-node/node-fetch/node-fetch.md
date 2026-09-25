@@ -28,7 +28,7 @@ Fetch API implementation for Node
 - 0.9.0-alpha-20260921151921-a915a3ca7671d88368fa952333e2f2da86721f43
 - 0.9.0-alpha-20260921155350-f259ced36b30fa901acf8cc134d84476b18995ff
 - 0.9.0-alpha-20260921155404-4e912d52ebd7d8c6fa4ac85e209f04256acd42cc
-- 共 1358 个版本，完整清单见 npm registry。
+- 共 1,358 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

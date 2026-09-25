@@ -28,7 +28,6 @@ TypeScript definitions for rtree
 - 1.4.28
 - 1.4.29
 - 1.4.30
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

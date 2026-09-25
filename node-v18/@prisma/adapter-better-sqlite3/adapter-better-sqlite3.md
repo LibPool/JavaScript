@@ -16,9 +16,9 @@ Prisma's driver adapter for better-sqlite3, a fast SQLite3 driver for JavaScript
 
 - 当前版本：7.10.0
 
-- 7.9.0-dev.7
-- 7.9.0-dev.8
-- 7.9.0-dev.9
+- 7.10.0-integration-prisma7-project-closeout.7
+- 7.10.0-integration-prisma7-project-closeout.8
+- 7.10.0-integration-prisma7-project-closeout.9
 - 7.9.1
 - 7.9.1-dev.1
 - 8.1.0-dev.1
@@ -28,7 +28,7 @@ Prisma's driver adapter for better-sqlite3, a fast SQLite3 driver for JavaScript
 - 8.1.0-dev.5
 - 8.1.0-dev.6
 - 8.1.0-dev.7
-- 共 1132 个版本，完整清单见 npm registry。
+- 共 1,132 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

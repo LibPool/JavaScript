@@ -16,6 +16,10 @@ Netlify's open-api definition as a module
 
 - 当前版本：2.57.1
 
+- 2.49.1
+- 2.49.2
+- 2.50.0
+- 2.51.0
 - 2.52.0
 - 2.53.0
 - 2.54.0
@@ -24,10 +28,6 @@ Netlify's open-api definition as a module
 - 2.56.1
 - 2.57.0
 - 2.57.1
-- 2.6.0
-- 2.7.0
-- 2.8.0
-- 2.9.0
 - 共 115 个版本，完整清单见 npm registry。
 
 ## 获取地址

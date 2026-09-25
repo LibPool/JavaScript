@@ -1,0 +1,32 @@
+# @psytech/react-render-engine
+
+> 标签: react, server-driven-ui
+
+## 简介
+
+It is a server-driven client-side rendering system built with react which allows to render interfaces using templatised input data made up of individual template layout elements & styles received from the server-side.
+
+## 官网
+
+- 官网：https://github.com/asxyzp-psytech/react-render-engine#readme
+- 源码仓库：git+https://github.com/asxyzp-psytech/react-render-engine.git
+- npm 页面：https://www.npmjs.com/package/@psytech/react-render-engine
+
+## 历史版本号
+
+- 当前版本：0.0.8
+
+- 0.0.0
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+
+## 获取地址
+
+- npm 安装：`npm install @psytech/react-render-engine`
+- npm registry：https://registry.npmjs.org/@psytech/react-render-engine

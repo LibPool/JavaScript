@@ -28,7 +28,6 @@ MulmoCast deck DSL: JSON-described semantic slide layouts (stats, comparison, ti
 - 2.0.0
 - 2.0.1
 - 2.0.2
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

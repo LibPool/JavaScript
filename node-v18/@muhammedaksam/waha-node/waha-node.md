@@ -28,7 +28,6 @@ Node.js TypeScript SDK for WAHA (WhatsApp HTTP API) - auto-generated from OpenAP
 - 2026.8.1
 - 2026.8.2
 - 2026.9.1
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

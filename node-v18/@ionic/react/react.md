@@ -28,7 +28,7 @@ React specific wrapper for @ionic/core
 - 9.0.5-nightly.20260918
 - 9.0.5-nightly.20260921
 - 9.0.5-nightly.20260922
-- 共 3985 个版本，完整清单见 npm registry。
+- 共 3,985 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

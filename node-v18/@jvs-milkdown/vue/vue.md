@@ -16,6 +16,7 @@ Vue integration for [milkdown](https://milkdown.dev/).
 
 - 当前版本：1.2.59
 
+- 1.2.49
 - 1.2.50
 - 1.2.51
 - 1.2.52
@@ -25,7 +26,6 @@ Vue integration for [milkdown](https://milkdown.dev/).
 - 1.2.56
 - 1.2.58
 - 1.2.59
-- 1.2.7
 - 1.2.8
 - 1.2.9
 - 共 68 个版本，完整清单见 npm registry。

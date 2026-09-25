@@ -1,0 +1,28 @@
+# @ts-flow/core
+
+> 标签: JavaScript
+
+## 简介
+
+Simple, data driven workflow system leveraging an IoC container and event manager
+
+## 官网
+
+- 官网：https://github.com/paulingalls/ts-flow#readme
+- 源码仓库：git+https://github.com/paulingalls/ts-flow.git#main
+- npm 页面：https://www.npmjs.com/package/@ts-flow/core
+
+## 历史版本号
+
+- 当前版本：2.0.3
+
+- 0.0.1
+- 1.0.0
+- 2.0.0
+- 2.0.1
+- 2.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @ts-flow/core`
+- npm registry：https://registry.npmjs.org/@ts-flow/core

@@ -28,7 +28,6 @@ TypeScript definitions for jstree
 - 3.3.44
 - 3.3.45
 - 3.3.46
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

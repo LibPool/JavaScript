@@ -28,7 +28,6 @@ TypeScript SDK for Neon Auth and Data API - authentication and PostgreSQL queryi
 - 0.6.1-beta
 - 0.6.2-beta
 - 0.7.0-beta
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

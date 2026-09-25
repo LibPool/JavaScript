@@ -28,7 +28,6 @@ Fetch MCP server for AI agents: HTTP requests, HTML-to-markdown, reader mode, me
 - 0.7.0
 - 0.7.1
 - 0.8.0
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

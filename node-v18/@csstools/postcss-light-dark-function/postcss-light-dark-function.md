@@ -28,7 +28,6 @@ Use the light-dark() color function in CSS
 - 3.0.2
 - 3.0.3
 - 3.0.4
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

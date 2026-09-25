@@ -28,7 +28,6 @@ Angular library for building query strings
 - 19.2.6
 - 20.0.17
 - 20.0.18
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

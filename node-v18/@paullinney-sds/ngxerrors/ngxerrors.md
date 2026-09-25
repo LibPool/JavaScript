@@ -1,0 +1,26 @@
+# @paullinney-sds/ngxerrors
+
+> 标签: JavaScript
+
+## 简介
+
+A declarative validation module for reactive forms
+
+## 官网
+
+- 官网：https://github.com/paullinney/ngx-errors#readme
+- 源码仓库：git+https://github.com/paullinney/ngx-errors.git
+- npm 页面：https://www.npmjs.com/package/@paullinney-sds/ngxerrors
+
+## 历史版本号
+
+- 当前版本：1.4.2
+
+- 0.0.1
+- 1.4.2
+- 1.7.0
+
+## 获取地址
+
+- npm 安装：`npm install @paullinney-sds/ngxerrors`
+- npm registry：https://registry.npmjs.org/@paullinney-sds/ngxerrors

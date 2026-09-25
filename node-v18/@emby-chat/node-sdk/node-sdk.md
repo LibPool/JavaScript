@@ -28,7 +28,6 @@ Official Node SDK for Emby Chat
 - 1.6.3
 - 1.7.0
 - 1.8.0
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

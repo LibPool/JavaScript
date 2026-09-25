@@ -15,17 +15,17 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 
 - 当前版本：7.0.4
 
+- 3.0.54
+- 3.0.55
+- 3.0.56
+- 3.0.57
 - 3.0.58
 - 3.0.59
-- 3.0.6
 - 3.0.60
 - 3.0.61
 - 3.0.62
 - 3.0.63
 - 3.0.64
-- 3.0.7
-- 3.0.8
-- 3.0.9
 - 7.0.4
 - 共 288 个版本，完整清单见 npm registry。
 

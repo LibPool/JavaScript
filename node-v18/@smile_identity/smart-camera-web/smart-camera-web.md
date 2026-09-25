@@ -28,7 +28,6 @@ WebComponent for smartly capturing images on the web, for use with SmileIdentity
 - 10.0.5
 - 10.0.6
 - 11.0.1
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ The Spectrum CSS top-level backwards compatible package
 - 2.9.0
 - 2.9.1
 - 3.0.0
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

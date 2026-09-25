@@ -28,7 +28,6 @@ Integrate markdown styles into web components, Markdown CSS styles will not be c
 - 1.1.1
 - 1.1.2
 - 1.1.3
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for CKEditor
 - 4.9.7
 - 4.9.8
 - 4.9.9
-- 共 46 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

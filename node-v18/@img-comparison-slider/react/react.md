@@ -28,7 +28,6 @@ React wrapper for img-comparison-slider
 - 8.0.0
 - 8.0.1
 - 8.0.2
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

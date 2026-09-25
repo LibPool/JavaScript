@@ -28,7 +28,6 @@ TypeScript definitions for blueimp-md5
 - 2.18.1
 - 2.18.2
 - 2.7.0
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

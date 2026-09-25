@@ -28,7 +28,6 @@ Run and scale user-generated HTTP applications with agentOS and Rivet actors.
 - 0.2.20
 - 0.2.20-rc.1
 - 0.2.21
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

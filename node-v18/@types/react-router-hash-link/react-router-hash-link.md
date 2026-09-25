@@ -28,7 +28,6 @@ TypeScript definitions for react-router-hash-link
 - 2.4.7
 - 2.4.8
 - 2.4.9
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

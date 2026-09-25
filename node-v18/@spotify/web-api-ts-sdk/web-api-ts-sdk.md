@@ -28,7 +28,6 @@ A typescript SDK for the Spotify Web API
 - 1.1.1
 - 1.1.2
 - 1.2.0
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

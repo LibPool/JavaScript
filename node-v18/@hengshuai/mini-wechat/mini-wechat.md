@@ -1,0 +1,36 @@
+# @hengshuai/mini-wechat
+
+> 标签: 小程序ci工具, 小程序自动化发包助手
+
+## 简介
+
+ci工具微信插件，若涉及到微信平台小程序，请安装此包
+
+## 官网
+
+- 官网：https://github.com/ihengshuai/mini-ci
+- 源码仓库：git+https://github.com/ihengshuai/mini-ci.git
+- npm 页面：https://www.npmjs.com/package/@hengshuai/mini-wechat
+
+## 历史版本号
+
+- 当前版本：0.1.8
+
+- 0.0.5
+- 0.0.6
+- 0.1.0
+- 0.1.1
+- 0.1.3
+- 0.1.5
+- 0.1.6
+- 0.1.6-beta.0
+- 0.1.7
+- 0.1.7-beta.0
+- 0.1.7-beta.1
+- 0.1.8
+
+## 获取地址
+
+- npm 安装：`npm install @hengshuai/mini-wechat`
+- npm registry：https://registry.npmjs.org/@hengshuai/mini-wechat
+- Node 要求：>=18.0.0

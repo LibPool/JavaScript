@@ -1,0 +1,31 @@
+# @tedconf/react-show-more
+
+> 标签: more, pagination, react, render-prop, show
+
+## 简介
+
+A unopinionated component to handle showing more results
+
+## 官网
+
+- 官网：https://github.com/tedconf/react-show-more#readme
+- 源码仓库：https://github.com/tedconf/react-show-more.git
+- npm 页面：https://www.npmjs.com/package/@tedconf/react-show-more
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 0.5.2
+- 0.5.3
+- 0.5.4
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.1.1
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @tedconf/react-show-more`
+- npm registry：https://registry.npmjs.org/@tedconf/react-show-more

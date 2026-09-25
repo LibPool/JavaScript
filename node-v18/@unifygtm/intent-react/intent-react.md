@@ -27,7 +27,6 @@ Library for using the Unify Intent JS Client in a React app.
 - 1.8.0
 - 1.9.5
 - 1.9.5-beta.0
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

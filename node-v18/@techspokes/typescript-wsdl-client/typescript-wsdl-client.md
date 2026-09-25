@@ -16,7 +16,7 @@ Turn legacy WSDL/SOAP services into typed TypeScript clients, OpenAPI 3.1 specs,
 
 - 当前版本：1.1.0
 
-- 0.9.5
+- 0.39.0
 - 0.9.6
 - 0.9.7
 - 0.9.8

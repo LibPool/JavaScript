@@ -15,19 +15,19 @@ Kendo UI Grid for Angular - high performance data grid with paging, filtering, v
 
 - 当前版本：25.1.0
 
-- 7.3.1-dev.202209121009
-- 7.3.2
-- 7.3.2-dev.202209191513
-- 7.3.3
-- 7.3.3-dev.202210060654
-- 7.3.3-dev.202210071451
-- 7.4.0
-- 7.4.0-dev.202210140814
-- 7.4.1
-- 7.4.1-dev.202211081513
-- 7.4.2
-- 7.4.2-dev.202211170751
-- 共 2016 个版本，完整清单见 npm registry。
+- 25.1.1-develop.4
+- 25.2.0-develop.1
+- 25.2.0-develop.10
+- 25.2.0-develop.11
+- 25.2.0-develop.2
+- 25.2.0-develop.3
+- 25.2.0-develop.4
+- 25.2.0-develop.5
+- 25.2.0-develop.6
+- 25.2.0-develop.7
+- 25.2.0-develop.8
+- 25.2.0-develop.9
+- 共 2,016 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ The official TypeScript library for the Airtop API
 - 0.1.0-alpha.54
 - 0.1.0-alpha.55
 - 0.1.0-alpha.56
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

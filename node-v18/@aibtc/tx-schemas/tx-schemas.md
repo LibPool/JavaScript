@@ -28,7 +28,6 @@ Shared zod schemas for AIBTC transaction states, relay RPC/HTTP schemas, and new
 - 0.8.0
 - 1.0.0
 - 1.1.0
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

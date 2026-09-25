@@ -1,0 +1,32 @@
+# @rendr-view/btn
+
+> 标签: JavaScript
+
+## 简介
+
+A base button component that works as either a HTML button or a link depending on the given props.
+
+## 官网
+
+- 官网：https://github.com/fiveid/rendr-view#readme
+- 源码仓库：git+https://github.com/fiveid/rendr-view.git
+- npm 页面：https://www.npmjs.com/package/@rendr-view/btn
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 0.0.1
+- 0.0.1-alpha.0
+- 0.0.1-alpha.1
+- 0.0.1-alpha.2
+- 0.0.1-alpha.3
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @rendr-view/btn`
+- npm registry：https://registry.npmjs.org/@rendr-view/btn
+- Node 要求：>=20.11.0

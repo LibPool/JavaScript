@@ -28,7 +28,6 @@ Vue Flow - A highly customizable Vue library for building node-based editors, wo
 - 2.0.0-next.7
 - 2.0.0-next.8
 - 2.0.0-next.9
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

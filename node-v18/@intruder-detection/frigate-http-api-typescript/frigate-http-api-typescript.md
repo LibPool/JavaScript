@@ -28,7 +28,6 @@ Typescript client for the Frigate HTTP API
 - 0.14.16
 - 0.14.17
 - 0.14.18
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

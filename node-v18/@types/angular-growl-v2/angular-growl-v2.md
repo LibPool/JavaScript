@@ -28,7 +28,6 @@ TypeScript definitions for angular-growl-v2
 - 2.0.28-alpha
 - 2.0.29
 - 2.0.30
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

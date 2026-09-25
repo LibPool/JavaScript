@@ -28,7 +28,6 @@ TanStack Query bindings for `@archon-research/http-client-core`.
 - 0.9.0-rohit-uikit-primitives-from-hatt.2
 - 0.9.0-rohit-uikit-primitives-from-hatt.3
 - 1.0.0-rohit-ds-tokens-and-primitives.1
-- 共 45 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

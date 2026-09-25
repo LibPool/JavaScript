@@ -28,7 +28,6 @@ Shared Bun test helpers, MongoDB preload utilities, and HTTP fixtures — part o
 - 57.2.0
 - 57.3.0
 - 57.4.0
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

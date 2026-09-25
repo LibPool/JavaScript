@@ -28,7 +28,6 @@ React Native for visionOS
 - 0.77.0-rc.1
 - 0.78.0
 - 0.79.6
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

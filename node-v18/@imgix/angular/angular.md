@@ -28,7 +28,6 @@ A library that provides custom components for integrating imgix into Angular app
 - 1.1.8-rc.1
 - 1.1.9
 - 1.1.9-rc.1
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for iframe-resizer
 - 3.5.8
 - 3.5.9
 - 4.0.0
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

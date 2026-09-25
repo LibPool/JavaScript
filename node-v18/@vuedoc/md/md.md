@@ -28,7 +28,6 @@ Generate a Markdown Documentation for a Vue file component
 - 4.0.0-beta6
 - 4.0.0-beta7
 - 4.0.0-beta8
-- 共 45 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Official JavaScript library for Tavily.
 - 0.7.7
 - 0.7.8
 - 0.7.9
-- 共 45 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

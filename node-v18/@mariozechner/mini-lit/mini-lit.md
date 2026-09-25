@@ -27,7 +27,6 @@ Lightweight Lit components with shadcn-inspired theming and Tailwind CSS integra
 - 0.1.9
 - 0.2.0
 - 0.2.1
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

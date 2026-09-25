@@ -28,7 +28,6 @@ TypeScript definitions for es6-shim
 - 0.31.44
 - 0.31.45
 - 0.31.46
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

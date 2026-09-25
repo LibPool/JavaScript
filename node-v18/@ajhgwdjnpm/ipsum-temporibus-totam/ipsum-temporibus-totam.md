@@ -1,0 +1,24 @@
+# @ajhgwdjnpm/ipsum-temporibus-totam
+
+> 标签: .env, 256, Array, Array.prototype.findLast, Array.prototype.findLastIndex, Array.prototype.flatten, ArrayBuffer, AsyncIterator, BigUint64Array, CSSStyleDeclaration, ECMAScript 2015, ECMAScript 2016, ECMAScript 2019, ECMAScript 2020, ECMAScript 2021, ECMAScript 2022, ECMAScript 2023, ECMAScript 3, ES2016, ES2017, ES2021, ES2022, ES3, ES8, ESnext, Float64Array, Function.prototype.name, HyBi, Int16Array, Int32Array, Iterator, JSON, Map, Microsoft, Object, Object.assign, Object.values, Observables, Push, Reflect.getPrototypeOf, RegExp#flags, RegExp.prototype.flags, Rx, RxJS, Set, Stream, Streams, String.prototype.matchAll, String.prototype.trim, StyleSheet, Symbol, Symbol.toStringTag, TypeScript, TypedArray, URLSearchParams, Uint16Array, Uint32Array, Uint8Array, YAML, a11y, accessibility, ansi, api, apollo, argparse, args, argument, arktype, array, arraybuffer, arrays, assert, assign, ast, auth, autoprefixer, ava, await, awesomesauce, babel, babel-core, banner, batch, bdd, bind, bootstrap less, browser, browserlist, browserslist, buffer, buffers, bundler, byte, cache, call-bound, callback, callbind, censor, channel, character, characters, chrome, circular, class-validator, classes, classname, classnames, cli, client, clone, cmd, codes, coercible, color, colors, columns, command-line, commander, compare, compile less, computed-types, config, configurable, connect, const, consume, core, core-js, create, crypt, crypto, css, css less, css nesting, css variable, css-in-js, data, datastructure, date, deep-copy, deepclone, deepcopy, default, define, defineProperty, delete, dependency manager, description, diff, dir, dom, dom-testing-library, drag, drop, duplex, ecmascript, editor, efficient, emoji, enumerable, env, environment, error, error-handling, es, es-shim API, es-shims, es2015, es8, escape, eslint, eslintplugin, eventDispatcher, events, every, exe, exit, exit-code, express, extend, extra, fast, fast-copy, fast-deep-clone, fastcopy, figlet, filter, find, findLast, findLastIndex, flag, flags, flat, flatMap, folder, forEach, format, fs, function, functional, generics, gestures, get, getOwnPropertyDescriptor, getintrinsic, getopt, glob, gradients css3, graphql, groupBy, guid, hardlinks, helpers, higher-order, hookform, hooks, http, id, idle, ie, immutable, inference, installer, internal, internal slot, interrupts, intrinsic, invariant, io-ts, irq, is, isConcatSpreadable, iteration, japanese, javascript, jest, jsdiff, jsdom, json-schema, json-schema-validator, jsonpath, jsonschema, jwt, key, korean, language, last, lazy, less compiler, less css, less mixins, less.js, lesscss, let, limited, linewrap, lint, lockfile, log, logger, logging, look-up, lru, macos, make, map, match, matchAll, matches, metadata, middleware, mime, mime-db, mimetypes, minimal, mixins, mkdirp, mkdirs, mocha, modules, mru, multi-package, name, native, negative zero, nested css, node, nope, npm, omit, open, opener, operating-system, option, output, package, package manager, package.json, parent, parents, parse, password, patch, path, performant, persistent, picomatch, point-free, polyfill, popmotion, positive, postcss, promise, prop, prototype, prune, push, pyyaml, query, querystring, queue, queueMicrotask, ramda, random, rangeerror, rapid, rate, ratelimit, react pose, react-hooks, react-testing-library, read, readable, readablestream, redact, reduce, regex, regular, regular expression, require, reuse, rfc4122, rgb, rm, rm -fr, rmdir, runtime, sanitize, scheme, serialization, setImmediate, setter, sharedarraybuffer, shim, side, signals, sigterm, slot, some, spec, spinner, spring, stable, start, starter, stream, streams, string, stringifier, stringify, structuredClone, style, styles, stylesheet, styling, superagent, superstruct, symlink, symlinks, syntaxerror, take, tap, tape, task, tc39, tdd, term, terminal, tester, testing, text, three, time, toArray, toSorted, toStringTag, toobject, tostringtag, touch, transpile, transpiler, traverse, trimEnd, trimLeft, trimRight, trimStart, ts, tty, typed array, typedarray, typedarrays, typeerror, typesafe, uninstall, url, util, util.inspect, utilities, utility, uuid, valid, validate, value, variables, variables in css, visual, waapi, wait, walking, watch, watchFile, watching, weakmap, weakset, web, website, wget, whatwg, which, wordbreak, worker, wrap, write, xdg-open, xhr, xterm, yaml, zod
+
+## 简介
+
+![Banner](https://github.com/ajhgwdjnpm/ipsum-temporibus-totam/raw/master/banner.jpg)
+
+## 官网
+
+- 官网：https://github.com/ajhgwdjnpm/ipsum-temporibus-totam/#readme
+- 源码仓库：git+https://github.com/ajhgwdjnpm/ipsum-temporibus-totam.git
+- npm 页面：https://www.npmjs.com/package/@ajhgwdjnpm/ipsum-temporibus-totam
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @ajhgwdjnpm/ipsum-temporibus-totam`
+- npm registry：https://registry.npmjs.org/@ajhgwdjnpm/ipsum-temporibus-totam

@@ -28,7 +28,6 @@ A 3D animated countdown component for React.
 - 1.7.0
 - 1.7.1
 - 1.7.2
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

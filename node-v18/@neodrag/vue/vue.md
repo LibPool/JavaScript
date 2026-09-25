@@ -28,7 +28,6 @@ Vue library to add dragging to your apps 😉
 - 3.0.0-next.7
 - 3.0.0-next.8
 - 3.0.0-next.9
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

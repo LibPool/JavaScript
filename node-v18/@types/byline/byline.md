@@ -28,7 +28,6 @@ TypeScript definitions for byline
 - 4.2.34
 - 4.2.35
 - 4.2.36
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

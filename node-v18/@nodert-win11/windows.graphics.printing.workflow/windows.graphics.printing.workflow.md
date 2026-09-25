@@ -1,0 +1,28 @@
+# @nodert-win11/windows.graphics.printing.workflow
+
+> 标签: Graphics, Microsoft, NodeRT, PrintWorkflowBackgroundSession, PrintWorkflowBackgroundSetupRequestedEventArgs, PrintWorkflowConfiguration, PrintWorkflowForegroundSession, PrintWorkflowForegroundSetupRequestedEventArgs, PrintWorkflowJobAbortReason, PrintWorkflowJobActivatedEventArgs, PrintWorkflowJobBackgroundSession, PrintWorkflowJobNotificationEventArgs, PrintWorkflowJobStartingEventArgs, PrintWorkflowJobTriggerDetails, PrintWorkflowJobUISession, PrintWorkflowObjectModelSourceFileContent, PrintWorkflowObjectModelTargetPackage, PrintWorkflowPdlConversionType, PrintWorkflowPdlConverter, PrintWorkflowPdlDataAvailableEventArgs, PrintWorkflowPdlModificationRequestedEventArgs, PrintWorkflowPdlSourceContent, PrintWorkflowPdlTargetStream, PrintWorkflowPrinterJob, PrintWorkflowPrinterJobStatus, PrintWorkflowSessionStatus, PrintWorkflowSourceContent, PrintWorkflowSpoolStreamContent, PrintWorkflowStreamTarget, PrintWorkflowSubmittedEventArgs, PrintWorkflowSubmittedOperation, PrintWorkflowSubmittedStatus, PrintWorkflowTarget, PrintWorkflowTriggerDetails, PrintWorkflowUIActivatedEventArgs, PrintWorkflowUICompletionStatus, PrintWorkflowUILauncher, PrintWorkflowXpsDataAvailableEventArgs, Printing, WinRT, Windows, Windows.Graphics.Printing.Workflow, Workflow
+
+## 简介
+
+Use the Windows.Graphics.Printing.Workflow UWP API directly from Node.js
+
+## 官网
+
+- 官网：https://github.com/demosjarco/NodeRT/tree/vs2022
+- 源码仓库：git://github.com/demosjarco/NodeRT.git
+- npm 页面：https://www.npmjs.com/package/@nodert-win11/windows.graphics.printing.workflow
+
+## 历史版本号
+
+- 当前版本：0.1.6
+
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+
+## 获取地址
+
+- npm 安装：`npm install @nodert-win11/windows.graphics.printing.workflow`
+- npm registry：https://registry.npmjs.org/@nodert-win11/windows.graphics.printing.workflow

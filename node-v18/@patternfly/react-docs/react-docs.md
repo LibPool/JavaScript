@@ -28,7 +28,7 @@ PatternFly React Docs
 - 7.6.1-prerelease.8
 - 7.6.1-prerelease.9
 - 7.6.2
-- 共 2385 个版本，完整清单见 npm registry。
+- 共 2,385 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

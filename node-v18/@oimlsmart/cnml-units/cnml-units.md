@@ -1,0 +1,25 @@
+# @oimlsmart/cnml-units
+
+> 标签: JavaScript
+
+## 简介
+
+Unit resolver mapping measurement units to BIPM Digital SI definitions
+
+## 官网
+
+- 源码仓库：https://github.com/oimlsmart/cnml
+- npm 页面：https://www.npmjs.com/package/@oimlsmart/cnml-units
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @oimlsmart/cnml-units`
+- npm registry：https://registry.npmjs.org/@oimlsmart/cnml-units

@@ -28,7 +28,6 @@ TypeScript-based caching decorators
 - 9.0.1
 - 9.1.0
 - 9.2.0
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

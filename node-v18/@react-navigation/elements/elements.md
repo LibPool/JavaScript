@@ -16,18 +16,18 @@ UI Components for React Navigation
 
 - 当前版本：2.9.43
 
+- 3.0.0-alpha.41
+- 3.0.0-alpha.42
+- 3.0.0-alpha.43
+- 3.0.0-alpha.44
+- 3.0.0-alpha.45
 - 3.0.0-alpha.46
 - 3.0.0-alpha.47
 - 3.0.0-alpha.48
 - 3.0.0-alpha.49
-- 3.0.0-alpha.5
 - 3.0.0-alpha.50
 - 3.0.0-alpha.51
 - 3.0.0-alpha.52
-- 3.0.0-alpha.6
-- 3.0.0-alpha.7
-- 3.0.0-alpha.8
-- 3.0.0-alpha.9
 - 共 262 个版本，完整清单见 npm registry。
 
 ## 获取地址

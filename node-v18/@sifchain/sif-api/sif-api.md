@@ -15,17 +15,17 @@ HTTP client for sifchain Vanir data aggregation service
 
 - 当前版本：1.0.0
 
-- 0.0.0-snapshot.f226eda
+- 0.0.0-snapshot.bbc6ff7
+- 0.0.0-snapshot.c2f63d5
+- 0.0.0-snapshot.c403a5b
+- 0.0.0-snapshot.c8e28f2
+- 0.0.0-snapshot.cee6cc1
+- 0.0.0-snapshot.d434f20
+- 0.0.0-snapshot.d4e5186
+- 0.0.0-snapshot.d511c89
+- 0.0.0-snapshot.daf5782
+- 0.0.0-snapshot.e424416
 - 0.0.0-snapshot.f26b87d
-- 0.0.0-snapshot.f58f754
-- 0.0.0-snapshot.f762e08
-- 0.0.0-snapshot.f776a83
-- 0.0.0-snapshot.f835149
-- 0.0.0-snapshot.f9b3a1f
-- 0.0.0-snapshot.fa7cb22
-- 0.0.0-snapshot.fb44017
-- 0.0.0-snapshot.fdfdb99
-- 0.0.0-snapshot.fe75010
 - 1.0.0
 - 共 256 个版本，完整清单见 npm registry。
 

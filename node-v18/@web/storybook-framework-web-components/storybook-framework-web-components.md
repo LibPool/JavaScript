@@ -28,7 +28,6 @@ Storybook framework for `@web/storybook-builder` + Web Components
 - 0.2.1
 - 0.3.0
 - 1.0.0
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

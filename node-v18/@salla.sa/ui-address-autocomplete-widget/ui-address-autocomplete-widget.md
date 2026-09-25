@@ -27,7 +27,6 @@ Framework-agnostic address autocomplete web component using Lit
 - 1.1.3
 - 1.2.0
 - 1.2.1
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

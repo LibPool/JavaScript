@@ -16,18 +16,18 @@ Hono HTTP server for the Vana Personal Server — routes, middleware, compositio
 
 - 当前版本：1.24.6
 
-- 1.3.0
-- 1.3.1
-- 1.3.2
-- 1.3.3
-- 1.3.4
-- 1.3.5
-- 1.4.0
-- 1.5.0
-- 1.6.0
-- 1.7.0
-- 1.8.0
-- 1.9.0
+- 0.0.1-canary.d3d858f
+- 0.0.1-canary.def4ff7
+- 0.0.1-canary.e0bf2f8
+- 0.0.1-canary.e9cd6a9
+- 0.0.1-canary.ee2f3fb
+- 0.0.1-canary.f7730cd
+- 0.0.1-canary.face9fc
+- 1.24.2
+- 1.24.3
+- 1.24.4
+- 1.24.5
+- 1.24.6
 - 共 434 个版本，完整清单见 npm registry。
 
 ## 获取地址

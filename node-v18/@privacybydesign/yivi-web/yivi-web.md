@@ -28,7 +28,6 @@ A front-end to Yivi flows for in the web browser
 - 1.0.1
 - 1.0.2
 - 1.0.3
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

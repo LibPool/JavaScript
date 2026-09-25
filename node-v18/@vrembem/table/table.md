@@ -16,15 +16,15 @@ A table component for displaying HTML tables.
 
 - 当前版本：4.0.0
 
+- 4.0.0-next.44
+- 4.0.0-next.45
 - 4.0.0-next.46
 - 4.0.0-next.47
 - 4.0.0-next.48
 - 4.0.0-next.49
-- 4.0.0-next.5
 - 4.0.0-next.50
 - 4.0.0-next.51
 - 4.0.0-next.52
-- 4.0.0-next.6
 - 4.0.0-next.7
 - 4.0.0-next.8
 - 4.0.0-next.9

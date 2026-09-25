@@ -28,7 +28,6 @@ Experimental integrations for cross-platform Tailwind CSS. 跨端 Tailwind CSS �
 - 0.0.6
 - 0.0.7
 - 0.0.9
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

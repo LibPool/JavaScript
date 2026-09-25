@@ -28,7 +28,6 @@ macaron is a zero-runtime and type-safe CSS-in-JS library made with performance 
 - 1.4.2
 - 1.4.3
 - 1.5.1
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

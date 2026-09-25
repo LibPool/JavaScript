@@ -28,7 +28,6 @@ Transport-neutral HTTP application core built on Web Request and Response
 - 0.2.1
 - 0.2.2
 - 0.3.0
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

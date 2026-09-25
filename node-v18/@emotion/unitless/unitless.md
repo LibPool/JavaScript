@@ -28,7 +28,6 @@ An object of css properties that don't accept values with units
 - 10.0.0-really-unsafe-please-do-not-use.0
 - 10.0.0-really-unsafe-please-do-not-use.1
 - 10.0.0-really-unsafe-please-do-not-use.2
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

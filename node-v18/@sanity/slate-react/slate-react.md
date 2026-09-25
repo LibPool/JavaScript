@@ -28,7 +28,6 @@ Tools for building completely customizable richtext editors with React.
 - 2.24.2
 - 2.24.3
 - 2.30.1
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

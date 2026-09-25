@@ -28,7 +28,6 @@ CLI for Stencil - Web component compiler
 - 5.0.0-beta.8
 - 5.0.0-beta.9
 - 5.0.0-next.0
-- 共 48 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

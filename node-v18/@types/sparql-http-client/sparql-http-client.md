@@ -28,7 +28,6 @@ TypeScript definitions for sparql-http-client
 - 3.0.4
 - 3.0.5
 - 3.1.0
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

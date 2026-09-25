@@ -28,7 +28,6 @@ TypeScript definitions for gm
 - 1.25.2
 - 1.25.3
 - 1.25.4
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

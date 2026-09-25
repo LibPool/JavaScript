@@ -28,7 +28,6 @@ Le Truc: type-safe reactive Web Components – HTML-first, backend-agnostic.
 - 2.5.0
 - 2.5.1
 - 2.6.0
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

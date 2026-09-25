@@ -28,7 +28,6 @@ TypeScript definitions for angular-bootstrap-lightbox
 - 0.12.2
 - 0.12.3
 - 0.12.4
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -16,6 +16,8 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 
 - 当前版本：0.4.1
 
+- 0.5.0-ng15.2
+- 0.5.0-ng15.3
 - 0.5.0-ng16.1
 - 0.5.0-ng16.2
 - 0.5.0-ng16.3
@@ -26,9 +28,7 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 - 0.5.0-ng16.8
 - 0.5.0-ng17.1
 - 0.5.0-ng17.2
-- 1.0.0
-- 1.0.1
-- 共 1133 个版本，完整清单见 npm registry。
+- 共 1,133 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

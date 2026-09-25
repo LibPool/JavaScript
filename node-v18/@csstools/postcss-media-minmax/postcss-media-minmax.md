@@ -28,7 +28,6 @@ Use the range notation in CSS media queries
 - 3.0.3
 - 3.0.4
 - 3.0.5
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -16,8 +16,8 @@ Icon set Catppuccin Icons for Angular applications
 
 - 当前版本：0.12.33
 
+- 0.12.8
 - 0.12.9
-- 0.9.0
 - 1.0.0-alpha.0
 - 1.0.0-alpha.1
 - 1.0.0-alpha.2

@@ -1,0 +1,30 @@
+# @marianmeres/test-runner
+
+> 标签: nodejs, testing
+
+## 简介
+
+Simple javascript test runner
+
+## 官网
+
+- 官网：https://github.com/marianmeres/test-runner#readme
+- 源码仓库：git+https://github.com/marianmeres/test-runner.git
+- npm 页面：https://www.npmjs.com/package/@marianmeres/test-runner
+
+## 历史版本号
+
+- 当前版本：2.1.0
+
+- 2.0.10
+- 2.0.12
+- 2.0.13
+- 2.0.15
+- 2.0.16
+- 2.0.8
+- 2.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @marianmeres/test-runner`
+- npm registry：https://registry.npmjs.org/@marianmeres/test-runner

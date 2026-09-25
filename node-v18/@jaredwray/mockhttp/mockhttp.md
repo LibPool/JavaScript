@@ -28,7 +28,6 @@ Mock Http - Easy way to mock http with httpbin replacement
 - 1.8.1
 - 1.9.0
 - 2.0.0
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

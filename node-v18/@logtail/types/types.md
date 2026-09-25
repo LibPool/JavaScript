@@ -28,7 +28,6 @@ Better Stack Typescript types (formerly Logtail)
 - 0.5.3
 - 0.5.6
 - 0.5.8
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

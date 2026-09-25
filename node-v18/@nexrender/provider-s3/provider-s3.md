@@ -27,7 +27,6 @@ Allows nexrender to interact with an Amazon Web Services S3 storage.
 - 1.60.1
 - 1.60.2
 - 1.8.16
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

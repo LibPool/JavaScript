@@ -28,7 +28,6 @@ Gorgeous flag components for your Vue 3 and Nuxt 3 project with tree-shaking sup
 - 3.3.5
 - 3.3.6
 - 3.3.7
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

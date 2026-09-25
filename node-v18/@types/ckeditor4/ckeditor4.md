@@ -28,7 +28,6 @@ TypeScript definitions for ckeditor4
 - 4.20.5
 - 4.20.6
 - 4.20.7
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -27,7 +27,6 @@ A fixed semantic-descendant utility for readable long-form HTML in TeaCSS.
 - 0.4.5
 - 0.4.6
 - 0.4.7
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

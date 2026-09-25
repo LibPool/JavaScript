@@ -16,9 +16,9 @@ Angular web components for the Municipality of Utrecht based on the NL Design Sy
 
 - 当前版本：3.0.2
 
-- 1.0.2-alpha.7
-- 1.0.2-alpha.8
-- 1.0.2-alpha.9
+- 1.0.2-alpha.52
+- 1.0.2-alpha.53
+- 1.0.2-alpha.54
 - 1.1.0
 - 1.2.0
 - 2.0.0

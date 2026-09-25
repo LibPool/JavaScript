@@ -28,7 +28,6 @@ Sentinel Video Player Vue 3 iframe 组件:隔离沙箱接入,不引入播放内�
 - 4.0.0
 - 4.1.0
 - 5.0.0
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

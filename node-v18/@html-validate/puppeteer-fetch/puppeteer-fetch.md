@@ -28,7 +28,6 @@ Fetch HTML source from a webpage using Chrome as backend
 - 3.2.6
 - 3.2.7
 - 3.2.8
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

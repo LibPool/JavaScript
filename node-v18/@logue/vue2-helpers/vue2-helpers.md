@@ -28,7 +28,6 @@ A util package to use Vue 2 with Composition API easily
 - 2.2.1
 - 2.2.2
 - 2.3.0
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

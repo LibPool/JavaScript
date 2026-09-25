@@ -28,7 +28,6 @@ Enable hydration of lit-element elements rendered on the server with @popeindust
 - 3.1.3
 - 3.1.4
 - 3.1.5
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

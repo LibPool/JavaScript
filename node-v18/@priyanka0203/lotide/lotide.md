@@ -1,0 +1,24 @@
+# @priyanka0203/lotide
+
+> 标签: JavaScript
+
+## 简介
+
+Lotide
+
+## 官网
+
+- 官网：https://github.com/priya521/lotide#readme
+- 源码仓库：git+https://github.com/priya521/lotide.git
+- npm 页面：https://www.npmjs.com/package/@priyanka0203/lotide
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @priyanka0203/lotide`
+- npm registry：https://registry.npmjs.org/@priyanka0203/lotide

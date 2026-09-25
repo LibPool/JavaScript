@@ -28,7 +28,6 @@ card-first mobile design system, React-first: the components in src/ are thin wr
 - 0.6.2
 - 0.6.3
 - 0.6.4
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

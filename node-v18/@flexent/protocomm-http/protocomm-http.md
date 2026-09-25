@@ -27,7 +27,6 @@ HTTP handler for protocomm RPC protocols
 - 2.9.3
 - 2.9.4
 - 2.9.5
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

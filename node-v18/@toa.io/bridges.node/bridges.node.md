@@ -16,18 +16,18 @@ Toa Node Bridge (inproc)
 
 - 当前版本：0.24.0-alpha.0
 
-- 1.0.0-alpha.7
-- 1.0.0-alpha.73
-- 1.0.0-alpha.75
-- 1.0.0-alpha.79
-- 1.0.0-alpha.8
-- 1.0.0-alpha.81
-- 1.0.0-alpha.83
-- 1.0.0-alpha.86
-- 1.0.0-alpha.9
-- 1.0.0-alpha.91
-- 1.0.0-alpha.92
-- 1.0.0-alpha.93
+- 1.0.0-alpha.303
+- 1.0.0-alpha.304
+- 1.0.0-alpha.305
+- 1.0.0-alpha.306
+- 1.0.0-alpha.307
+- 1.0.0-alpha.308
+- 1.0.0-alpha.309
+- 1.0.0-alpha.310
+- 1.0.0-alpha.311
+- 1.0.0-alpha.312
+- 1.0.0-alpha.313
+- 1.0.0-alpha.314
 - 共 285 个版本，完整清单见 npm registry。
 
 ## 获取地址

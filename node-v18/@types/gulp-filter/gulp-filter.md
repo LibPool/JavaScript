@@ -28,7 +28,6 @@ TypeScript definitions for gulp-filter
 - 3.0.39
 - 3.0.40
 - 3.0.41
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

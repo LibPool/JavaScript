@@ -1,0 +1,33 @@
+# @waves/waves-signature-generator
+
+> 标签: JavaScript
+
+## 简介
+
+@waves/waves-signature-generator - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@waves/waves-signature-generator
+
+## 历史版本号
+
+- 当前版本：0.15.1
+
+- 0.3.0
+- 0.4.0
+- 0.5.0
+- 0.6.0
+- 0.7.0
+- 0.7.1
+- 0.8.0
+- 0.9.0
+- 0.9.1
+- 0.9.2
+- 0.9.3
+- 0.9.4
+
+## 获取地址
+
+- npm 安装：`npm install @waves/waves-signature-generator`
+- npm registry：https://registry.npmjs.org/@waves/waves-signature-generator

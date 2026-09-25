@@ -15,16 +15,16 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 - 当前版本：3.0.272
 
-- 3.0.6
+- 3.0.57
+- 3.0.58
+- 3.0.59
 - 3.0.61
 - 3.0.62
 - 3.0.63
-- 3.0.7
 - 3.0.82
 - 3.0.83
 - 3.0.84
 - 3.0.86
-- 3.0.9
 - 3.0.91
 - 3.0.97
 - 共 142 个版本，完整清单见 npm registry。

@@ -28,7 +28,6 @@ TypeScript definitions for jwplayer
 - 8.31.1
 - 8.31.2
 - 8.31.3
-- 共 44 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

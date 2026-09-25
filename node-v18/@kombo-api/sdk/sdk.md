@@ -28,7 +28,6 @@ The official TypeScript/JavaScript SDK for the Kombo Unified API
 - 1.3.5
 - 1.3.6
 - 1.3.7
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

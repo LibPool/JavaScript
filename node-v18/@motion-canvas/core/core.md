@@ -28,7 +28,6 @@ Web-based tool for creating animations programmatically
 - 3.8.0-alpha.0
 - 3.9.0
 - 3.9.0-alpha.0
-- 共 47 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

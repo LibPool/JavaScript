@@ -28,7 +28,6 @@ Fork of tesseract.js-core used for scribe.js. Tesseract C++ API in Pure Javascri
 - 6.0.3
 - 7.0.0
 - 7.0.1
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

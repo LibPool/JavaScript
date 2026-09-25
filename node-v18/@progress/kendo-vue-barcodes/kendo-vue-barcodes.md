@@ -28,7 +28,6 @@ Vue Barcodes provide a set of Vue components to build beautiful and customizable
 - 9.3.0-develop.5
 - 9.3.0-develop.6
 - 9.3.0-develop.7
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

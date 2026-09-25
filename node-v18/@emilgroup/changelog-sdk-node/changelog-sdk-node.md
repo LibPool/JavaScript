@@ -27,7 +27,6 @@ OpenAPI client for @emilgroup/changelog-sdk-node
 - 1.3.1-beta.1
 - 1.3.1-beta.2
 - 1.3.1-beta.3
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

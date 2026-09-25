@@ -27,7 +27,6 @@ Map control for switching map styles in the JavaScript Maps SDK.
 - 2.2.1
 - 2.2.2
 - 2.2.3
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

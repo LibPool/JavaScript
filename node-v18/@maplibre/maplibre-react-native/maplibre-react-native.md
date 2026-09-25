@@ -16,18 +16,18 @@ React Native library for creating maps with MapLibre Native for Android & iOS
 
 - 当前版本：11.4.0
 
+- 11.3.0
+- 11.3.1
+- 11.3.10
+- 11.3.2
+- 11.3.3
+- 11.3.4
 - 11.3.5
 - 11.3.6
 - 11.3.7
 - 11.3.8
 - 11.3.9
 - 11.4.0
-- 8.6.0-beta.0
-- 8.6.0-beta.1
-- 8.6.0-beta.2
-- 9.0.0
-- 9.0.1
-- 9.1.0
 - 共 169 个版本，完整清单见 npm registry。
 
 ## 获取地址

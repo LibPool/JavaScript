@@ -28,7 +28,6 @@ Vue 3 wrappers and bundler plugins for Sky UI Lit web components.
 - 0.0.6
 - 0.0.7
 - 0.0.8
-- 共 44 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

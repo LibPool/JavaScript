@@ -27,7 +27,6 @@ Helper for integrating the Birdie screen recording snippet into modern JavaScrip
 - 1.2.1
 - 1.2.2
 - 1.2.3
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for is-url
 - 1.2.30
 - 1.2.31
 - 1.2.32
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

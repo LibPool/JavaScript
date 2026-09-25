@@ -16,15 +16,15 @@ gRPC API to interact with ArmoniK built for Angular
 
 - 当前版本：3.29.3
 
-- 3.9.0-edge.97.492dfa4
-- 3.9.0-edge.99.db5fa3c
-- 3.9.1-edge.2.bc664fb
-- 3.9.2
-- 3.9.2-dbfixedgeci.1.a12b830
-- 3.9.2-edge.1.1074a81
-- 3.9.2-edge.2.c0bd5c7
-- 3.9.2-edge.3.5592c7f
-- 3.9.2-edge.6.4a63c34
+- 3.29.0-flnpmoidc.70.385cd4f0
+- 3.29.3
+- 3.29.3-edge.43.98edbc36
+- 3.29.3-edge.45.2075123f
+- 3.29.3-edge.47.46632d8d
+- 3.29.3-edge.49.1ea09bad
+- 3.29.3-edge.51.b8ced5b2
+- 3.29.3-edge.53.8691c4eb
+- 3.29.3-edge.57.1afe5d95
 - 4.0.0-edge.1.4cb270e
 - 4.0.0-edge.4.8dc75a9
 - 4.0.0-edge.6.af6b885

@@ -28,7 +28,6 @@ TypeScript definitions for gulp-rename
 - 2.0.5
 - 2.0.6
 - 2.0.7
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

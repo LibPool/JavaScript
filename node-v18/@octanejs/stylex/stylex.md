@@ -28,7 +28,6 @@ StyleX bindings for the octane renderer — reuses StyleX's framework-agnostic c
 - 0.1.54
 - 0.1.8
 - 0.1.9
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

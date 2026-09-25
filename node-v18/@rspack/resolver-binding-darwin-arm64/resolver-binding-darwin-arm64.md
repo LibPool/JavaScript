@@ -28,7 +28,6 @@ Rspack Resolver Node API
 - 0.5.3
 - 0.5.4
 - 0.6.0
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

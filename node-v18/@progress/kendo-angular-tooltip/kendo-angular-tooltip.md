@@ -15,19 +15,19 @@ Kendo UI Tooltip for Angular - A highly customizable and easily themeable toolti
 
 - 当前版本：25.1.0
 
-- 4.0.1-dev.202205311705
-- 4.0.2
-- 4.0.2-dev.202209020954
-- 4.0.3
-- 4.0.3-dev.202209151456
-- 4.0.4
-- 4.0.4-dev.202210121057
-- 4.0.4-dev.202211170814
-- 4.1.0
-- 4.1.0-dev.202211240854
-- 4.1.1
-- 4.1.1-dev.202212011448
-- 共 1481 个版本，完整清单见 npm registry。
+- 25.1.1-develop.4
+- 25.2.0-develop.1
+- 25.2.0-develop.10
+- 25.2.0-develop.11
+- 25.2.0-develop.2
+- 25.2.0-develop.3
+- 25.2.0-develop.4
+- 25.2.0-develop.5
+- 25.2.0-develop.6
+- 25.2.0-develop.7
+- 25.2.0-develop.8
+- 25.2.0-develop.9
+- 共 1,481 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

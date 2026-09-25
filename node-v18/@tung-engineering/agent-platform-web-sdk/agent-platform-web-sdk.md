@@ -27,7 +27,6 @@ Embeddable Web SDK for Agent Platform — IIFE bundle + importable ESM/CJS packa
 - 0.0.89
 - 0.0.90
 - 0.0.91
-- 共 42 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

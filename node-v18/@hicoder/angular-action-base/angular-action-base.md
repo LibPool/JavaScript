@@ -27,7 +27,6 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 - 0.9.69
 - 0.9.72
 - 0.9.9
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

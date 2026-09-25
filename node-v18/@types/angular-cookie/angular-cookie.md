@@ -28,7 +28,6 @@ TypeScript definitions for angular-cookie
 - 4.1.32
 - 4.1.33
 - 4.1.34
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

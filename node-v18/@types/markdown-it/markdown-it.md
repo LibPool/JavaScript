@@ -28,7 +28,6 @@ TypeScript definitions for markdown-it
 - 14.1.1
 - 14.1.2
 - 14.2.0
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

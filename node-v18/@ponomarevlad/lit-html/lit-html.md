@@ -28,7 +28,6 @@ HTML templates literals in JavaScript
 - 3.1.0-wintercg-exports-npm-4
 - 3.1.0-wintercg-exports-npm-5
 - 3.1.0-wintercg-exports-npm-6
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

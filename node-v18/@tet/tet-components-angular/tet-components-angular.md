@@ -15,18 +15,18 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 
 - 当前版本：1.0.1
 
-- 1.4.96-production
-- 1.4.96-staging
-- 1.4.96-testing
-- 1.4.97-production
-- 1.4.97-staging
-- 1.4.97-testing
-- 1.4.98-production
-- 1.4.98-staging
-- 1.4.98-testing
-- 1.4.99-production
-- 1.4.99-staging
-- 1.4.99-testing
+- 1.4.119-production
+- 1.4.119-staging
+- 1.4.119-testing
+- 1.4.120-production
+- 1.4.120-staging
+- 1.4.120-testing
+- 1.4.121-production
+- 1.4.121-staging
+- 1.4.121-testing
+- 1.4.122-production
+- 1.4.122-staging
+- 1.4.122-testing
 - 共 794 个版本，完整清单见 npm registry。
 
 ## 获取地址

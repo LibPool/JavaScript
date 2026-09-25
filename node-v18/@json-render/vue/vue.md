@@ -28,7 +28,6 @@ Vue renderer for @json-render/core. JSON becomes Vue components.
 - 0.20.0
 - 0.21.0
 - 0.9.1
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

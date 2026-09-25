@@ -1,0 +1,25 @@
+# @cablejs/openapi
+
+> 标签: JavaScript
+
+## 简介
+
+Optional REST routes and OpenAPI documents for cable global procedures.
+
+## 官网
+
+- 官网：https://github.com/jonahseguin/cable#readme
+- 源码仓库：git+https://github.com/jonahseguin/cable.git
+- npm 页面：https://www.npmjs.com/package/@cablejs/openapi
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @cablejs/openapi`
+- npm registry：https://registry.npmjs.org/@cablejs/openapi

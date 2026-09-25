@@ -28,7 +28,6 @@ Node-cron adapter for VitNode, enabling cron job scheduling and management.
 - 2.0.0-canary.7
 - 2.0.0-canary.8
 - 2.0.0-canary.9
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

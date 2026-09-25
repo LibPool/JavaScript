@@ -28,7 +28,6 @@ Task engine, state machine, filtering, series merging. Zero HTTP deps.
 - 1.5.5
 - 1.6.0
 - 1.6.1
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

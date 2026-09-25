@@ -28,7 +28,6 @@ UIMenu component for react-native
 - 1.2.3
 - 1.2.4
 - 2.0.0
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

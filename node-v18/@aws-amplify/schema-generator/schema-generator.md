@@ -28,7 +28,6 @@ Generates Typescript data schema from SQL schema.
 - 1.3.0
 - 1.4.0
 - 1.4.1
-- 共 46 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

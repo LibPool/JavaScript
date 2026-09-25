@@ -28,7 +28,6 @@ Angular 17 ngx-audio-player
 - 17.0.6
 - 17.0.7
 - 17.1.0
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

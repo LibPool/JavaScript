@@ -28,7 +28,6 @@ Reactive Store and Set of Utilities for Angular Signals
 - 22.0.0-beta.1
 - 22.0.0-rc.0
 - 22.0.1
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -16,6 +16,8 @@ Web component - Door-configurator2
 
 - 当前版本：10.13.6
 
+- 10.6.1
+- 10.6.2
 - 10.6.3
 - 10.6.4
 - 10.6.5
@@ -26,8 +28,6 @@ Web component - Door-configurator2
 - 10.8.1
 - 10.9.0
 - 10.9.1
-- 9.0.0
-- 9.0.1
 - 共 245 个版本，完整清单见 npm registry。
 
 ## 获取地址

@@ -16,8 +16,10 @@ Piying view For Angular;Valibot to Component
 
 - 当前版本：2.16.14
 
-- 2.9.0
-- 2.9.1
+- 2.16.6
+- 2.16.7
+- 2.16.8
+- 2.16.9
 - 2.9.10
 - 2.9.2
 - 2.9.3
@@ -26,8 +28,6 @@ Piying view For Angular;Valibot to Component
 - 2.9.6
 - 2.9.7
 - 2.9.9
-- 3.0.0
-- 3.0.1
 - 共 191 个版本，完整清单见 npm registry。
 
 ## 获取地址

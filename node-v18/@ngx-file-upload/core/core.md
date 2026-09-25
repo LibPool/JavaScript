@@ -28,7 +28,6 @@ Angular 21 file upload core package for async file uploads in angular containing
 - 7.0.0
 - 8.0.0
 - 9.0.0
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

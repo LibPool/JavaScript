@@ -28,7 +28,6 @@ A JavaScript ORM written using ES6 classes
 - 3.0.0
 - 3.0.0-alpha.1
 - 3.0.1
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

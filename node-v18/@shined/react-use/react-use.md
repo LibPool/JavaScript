@@ -28,7 +28,6 @@ A New Programming Paradigm to Reshape React Development.
 - 1.9.2
 - 1.9.3
 - 1.9.4
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

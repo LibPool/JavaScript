@@ -28,7 +28,6 @@ TypeScript definitions for nconf
 - 0.10.5
 - 0.10.6
 - 0.10.7
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

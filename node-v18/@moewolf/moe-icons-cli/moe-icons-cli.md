@@ -1,0 +1,25 @@
+# @moewolf/moe-icons-cli
+
+> 标签: JavaScript
+
+## 简介
+
+Moeicons CLI: install React, Vue, Vanilla, or Assets icon targets, manage releases and login, and expose an MCP server.
+
+## 官网
+
+- 官网：https://github.com/moewolf-dev/moe-icons-cli#readme
+- 源码仓库：git+https://github.com/moewolf-dev/moe-icons-cli.git
+- npm 页面：https://www.npmjs.com/package/@moewolf/moe-icons-cli
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @moewolf/moe-icons-cli`
+- npm registry：https://registry.npmjs.org/@moewolf/moe-icons-cli
+- Node 要求：>=20.0.0

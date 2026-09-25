@@ -28,7 +28,6 @@ TypeScript definitions for bcrypt-nodejs
 - 10.0.26-alpha
 - 10.0.27-alpha
 - 10.0.28-alpha
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

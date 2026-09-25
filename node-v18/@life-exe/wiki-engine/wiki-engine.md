@@ -16,18 +16,18 @@ Modern, multilingual documentation and wiki engine built with React, Vite, and T
 
 - 当前版本：0.1.64
 
+- 0.1.53
+- 0.1.54
+- 0.1.55
+- 0.1.56
 - 0.1.57
 - 0.1.58
 - 0.1.59
-- 0.1.6
 - 0.1.60
 - 0.1.61
 - 0.1.62
 - 0.1.63
 - 0.1.64
-- 0.1.7
-- 0.1.8
-- 0.1.9
 - 共 65 个版本，完整清单见 npm registry。
 
 ## 获取地址

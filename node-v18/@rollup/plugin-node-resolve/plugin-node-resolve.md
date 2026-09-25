@@ -16,8 +16,8 @@ Locate and bundle third-party dependencies in node_modules
 
 - 当前版本：16.0.3
 
-- 6.0.0
-- 6.1.0
+- 16.0.2
+- 16.0.3
 - 7.0.0
 - 7.1.0
 - 7.1.1

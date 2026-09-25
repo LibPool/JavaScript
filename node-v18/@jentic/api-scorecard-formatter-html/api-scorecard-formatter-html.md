@@ -28,7 +28,6 @@ HTML formatter for Jentic API Scorecard results.
 - 1.9.1
 - 1.9.2
 - 1.9.3
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

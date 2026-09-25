@@ -28,7 +28,6 @@ TypeScript client for Polymarket's CLOB
 - 1.1.0
 - 1.2.0-canary.0
 - 1.2.0-canary.1
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

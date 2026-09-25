@@ -28,7 +28,6 @@ presentMulmoScript — MulmoScript storyboard tool for MulmoClaude and MulmoTerm
 - 4.8.2
 - 5.0.0
 - 5.0.1
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

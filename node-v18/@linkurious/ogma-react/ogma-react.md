@@ -28,7 +28,6 @@ A light adaptation of Ogma for React application
 - 5.1.6
 - 5.1.7
 - 5.1.9
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Typed HTTP client utilities built on OpenAPI and Zod: an `openapi-fetch` client 
 - 0.9.0-rohit-uikit-primitives-from-hatt.2
 - 0.9.0-rohit-uikit-primitives-from-hatt.3
 - 1.0.0-rohit-ds-tokens-and-primitives.1
-- 共 46 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -16,7 +16,7 @@ An open source Mux player web component that Just Works™
 
 - 当前版本：3.13.4
 
-- 3.8.1-canary.3
+- 3.13.4-canary.2
 - 3.8.1-canary.4
 - 3.8.1-canary.5
 - 3.8.1-canary.6

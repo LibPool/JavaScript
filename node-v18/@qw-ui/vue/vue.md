@@ -28,7 +28,6 @@ L3 · Vue 3 适配 — 基于 @zag-js/vue，含 QwConfigProvider，Nuxt SSR-safe
 - 0.3.0-next.7
 - 0.3.0-next.8
 - 0.3.0-next.9
-- 共 42 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

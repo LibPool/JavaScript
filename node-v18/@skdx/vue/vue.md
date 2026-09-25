@@ -28,7 +28,6 @@ Vue 3 (Composition API) components for the SkandaDX design system
 - 0.43.1
 - 0.44.0
 - 0.45.0
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

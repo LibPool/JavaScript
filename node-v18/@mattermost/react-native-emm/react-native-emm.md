@@ -28,7 +28,6 @@ React Native package for EMM managed configurations
 - 1.6.2
 - 1.7.0
 - 2.0.0
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Supervised Bun daemon for @danypops/web-spider: authenticated loopback fetch/cra
 - 0.25.3
 - 0.25.4
 - 0.25.5
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

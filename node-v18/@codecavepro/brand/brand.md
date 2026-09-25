@@ -28,7 +28,6 @@ CODECAVE design system — colour, typography and layout tokens as CSS custom pr
 - 3.3.0
 - 3.4.0
 - 3.5.0
-- 共 49 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Opinionated Internationalization (i18n) Vue plugin.
 - 2.0.0-rc.1
 - 2.0.0-rc.2
 - 2.0.1
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for jsrsasign
 - 9.0.1
 - 9.0.2
 - 9.0.3
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ required coding standard for (S)CSS.
 - 7.0.0
 - 7.0.0-alpha.0
 - 7.0.0-alpha.1
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

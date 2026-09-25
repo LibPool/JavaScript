@@ -28,7 +28,6 @@ cre8 Web Components is a library of presentational UI web components to be consu
 - 2.3.9
 - 3.0.0
 - 3.0.1
-- 共 48 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

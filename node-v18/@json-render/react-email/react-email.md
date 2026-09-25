@@ -28,7 +28,6 @@ React Email renderer for @json-render/core. JSON becomes HTML emails.
 - 0.20.0
 - 0.21.0
 - 0.8.0
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

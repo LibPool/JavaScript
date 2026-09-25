@@ -28,7 +28,6 @@ Relay JSON-RPC API
 - 1.0.8
 - 1.0.9
 - 1.0.9-canary.0
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

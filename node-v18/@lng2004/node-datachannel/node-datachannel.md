@@ -28,7 +28,6 @@ WebRTC For Node.js and Electron. libdatachannel node bindings.
 - 0.33.2-20260825
 - 0.33.2-20260919
 - 0.33.2-20260921
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

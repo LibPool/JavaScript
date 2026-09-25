@@ -1,0 +1,26 @@
+# @kyuda/node-red-contrib-camunda
+
+> 标签: bpmn, camunda, microservice, node-red, workflow
+
+## 简介
+
+Camunda 7 for Node-RED
+
+## 官网
+
+- 官网：https://github.com/KyudaHQ/node-red#readme
+- 源码仓库：git+https://github.com/KyudaHQ/node-red.git
+- npm 页面：https://www.npmjs.com/package/@kyuda/node-red-contrib-camunda
+
+## 历史版本号
+
+- 当前版本：3.0.2
+
+- 3.0.0
+- 3.0.1
+- 3.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @kyuda/node-red-contrib-camunda`
+- npm registry：https://registry.npmjs.org/@kyuda/node-red-contrib-camunda

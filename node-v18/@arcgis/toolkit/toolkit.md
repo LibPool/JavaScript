@@ -15,9 +15,9 @@ Collection of common internal patterns and utilities for ArcGIS Maps SDK for Jav
 
 - 当前版本：5.1.25
 
+- 5.2.0-next.87
 - 5.2.0-next.88
 - 5.2.0-next.89
-- 5.2.0-next.9
 - 5.2.0-next.90
 - 5.2.0-next.91
 - 5.2.0-next.93

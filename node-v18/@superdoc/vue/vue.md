@@ -28,7 +28,6 @@ Vue 3 wrapper for the SuperDoc browser editor
 - 2.0.1-next.1
 - 2.0.1-next.2
 - 2.0.1-next.3
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

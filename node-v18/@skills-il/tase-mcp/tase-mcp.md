@@ -1,0 +1,25 @@
+# @skills-il/tase-mcp
+
+> 标签: finance, israel, mcp, stocks, tase, tel-aviv-stock-exchange
+
+## 简介
+
+MCP server for Tel Aviv Stock Exchange (TASE) market data
+
+## 官网
+
+- 官网：https://github.com/skills-il/mcps#readme
+- 源码仓库：git+https://github.com/skills-il/mcps.git
+- npm 页面：https://www.npmjs.com/package/@skills-il/tase-mcp
+
+## 历史版本号
+
+- 当前版本：2.0.1
+
+- 2.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @skills-il/tase-mcp`
+- npm registry：https://registry.npmjs.org/@skills-il/tase-mcp
+- Node 要求：>=18

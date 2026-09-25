@@ -28,7 +28,6 @@ Canonical's standard TypeScript configuration
 - 0.9.0-experimental.12
 - 0.9.0-experimental.2
 - 0.9.0-experimental.21
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

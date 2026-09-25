@@ -27,7 +27,6 @@ Http klient for familie.
 - 1.1.0
 - 1.1.1
 - 1.1.1-alpha.1
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

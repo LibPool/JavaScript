@@ -16,9 +16,9 @@ This template should help get you started developing with Vue 3 and TypeScript i
 
 - 当前版本：2.9.1
 
-- 2.3.2
-- 2.3.3
-- 2.4.0
+- 0.0.0-release-v2-7-0-20260707070341
+- 0.0.0-release-v2-8-0-20260715073433
+- 0.0.0-release-v2-9-0-20260824030637
 - 2.5.0
 - 2.5.1
 - 2.6.0

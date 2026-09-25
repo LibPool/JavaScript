@@ -28,7 +28,6 @@ Angular - the core framework (with updated dependencies)
 - 22.1.5-depup.0
 - 22.1.6-depup.0
 - 22.1.7-depup.0
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

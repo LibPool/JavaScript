@@ -27,7 +27,6 @@ Official TypeScript plugin for Poi.
 - 12.2.2-canary.585.f015dbf.0
 - 12.3.0
 - 12.3.1
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

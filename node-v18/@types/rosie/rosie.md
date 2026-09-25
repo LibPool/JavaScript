@@ -28,7 +28,6 @@ TypeScript definitions for rosie
 - 18.0.23-alpha
 - 18.0.24-alpha
 - 18.0.25-alpha
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

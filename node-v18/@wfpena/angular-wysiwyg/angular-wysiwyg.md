@@ -28,7 +28,6 @@ A rich WYSIWYG text editor for Angular 13+. Rich Text editor component for Angul
 - 1.1.9
 - 2.0.0
 - 2.0.1
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

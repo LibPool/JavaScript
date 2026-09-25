@@ -28,7 +28,6 @@ TypeScript definitions for xdate
 - 0.8.33
 - 0.8.34
 - 0.8.35
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

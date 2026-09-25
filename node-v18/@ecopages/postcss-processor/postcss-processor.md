@@ -16,6 +16,8 @@ Postcss processor, transform string or postcss file to css
 
 - 当前版本：0.2.0-rc.1
 
+- 0.2.0-beta.9
+- 0.2.0-rc.0
 - 0.2.0-rc.1
 - 0.2.0-rc.2
 - 0.2.0-rc.3
@@ -25,9 +27,7 @@ Postcss processor, transform string or postcss file to css
 - 0.2.0-rc.7
 - 0.2.0-rc.8
 - 0.2.0-rc.9
-- 0.2.1
 - 0.2.1-alpha.0
-- 0.2.1-beta.0
 - 共 110 个版本，完整清单见 npm registry。
 
 ## 获取地址

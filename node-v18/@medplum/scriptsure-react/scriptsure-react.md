@@ -28,7 +28,6 @@ Medplum ScriptSure React SDK
 - 5.1.39
 - 5.1.8
 - 5.1.9
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

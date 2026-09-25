@@ -1,0 +1,27 @@
+# @opensourcejam/validador-cups
+
+> 标签: CUPS, validador
+
+## 简介
+
+Validador CUPS
+
+## 官网
+
+- 官网：http://github.com/opensourcejam/validador-cups
+- 源码仓库：git+https://github.com/opensourcejam/validador-cups.git
+- npm 页面：https://www.npmjs.com/package/@opensourcejam/validador-cups
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @opensourcejam/validador-cups`
+- npm registry：https://registry.npmjs.org/@opensourcejam/validador-cups

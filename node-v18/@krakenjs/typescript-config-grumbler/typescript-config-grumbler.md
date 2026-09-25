@@ -28,7 +28,6 @@ Typescript configs for grumbler modules
 - 8.1.1
 - 8.1.2
 - 8.1.3
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

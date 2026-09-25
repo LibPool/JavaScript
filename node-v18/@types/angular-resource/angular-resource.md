@@ -28,7 +28,6 @@ TypeScript definitions for angular-resource
 - 1.5.7
 - 1.5.8
 - 1.5.9
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

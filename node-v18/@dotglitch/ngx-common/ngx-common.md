@@ -16,12 +16,12 @@ Angular components and utilities that are commonly used.
 
 - 当前版本：3.0.0-beta.2
 
+- 1.1.48
+- 1.1.49
 - 1.1.50
 - 1.1.51
 - 1.1.52
 - 1.1.53
-- 1.1.6
-- 1.1.7
 - 1.1.8
 - 1.1.9
 - 1.2.0

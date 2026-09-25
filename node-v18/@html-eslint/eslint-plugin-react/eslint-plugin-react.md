@@ -28,7 +28,6 @@ ESLint plugin for HTML with React support
 - 0.65.0-alpha.0
 - 0.66.0
 - 0.66.1
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

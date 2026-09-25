@@ -28,7 +28,6 @@ In-memory filesystem with Node.js fs-compatible API
 - 4.78.0
 - 4.78.1
 - 4.79.0
-- 共 48 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

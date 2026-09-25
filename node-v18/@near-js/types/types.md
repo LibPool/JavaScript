@@ -27,7 +27,6 @@ TypeScript types for working with the Near JS API
 - 2.4.1
 - 2.5.0
 - 2.5.1
-- 共 46 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -1,0 +1,23 @@
+# @hepiuscare/gen-baseview
+
+> 标签: JavaScript
+
+## 简介
+
+@hepiuscare/gen-baseview - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@hepiuscare/gen-baseview
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @hepiuscare/gen-baseview`
+- npm registry：https://registry.npmjs.org/@hepiuscare/gen-baseview

@@ -1,0 +1,26 @@
+# @everapi/numlookupapi-js
+
+> 标签: Phone Number Lookup, Phone Number Lookup API, Phone Number Verification, Phone Number Verification API, api, numlookupapi
+
+## 简介
+
+A JavaScript wrapper for the numlookupapi.com API
+
+## 官网
+
+- 官网：https://github.com/everapihq/numlookupapi-js#readme
+- 源码仓库：git+https://github.com/everapihq/numlookupapi-js.git
+- npm 页面：https://www.npmjs.com/package/@everapi/numlookupapi-js
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @everapi/numlookupapi-js`
+- npm registry：https://registry.npmjs.org/@everapi/numlookupapi-js

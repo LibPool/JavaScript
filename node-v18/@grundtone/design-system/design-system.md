@@ -28,7 +28,6 @@ Design system for Grundtone - SCSS functions, mixins, CSS utilities, and grid sy
 - 3.0.0
 - 3.1.0
 - 3.2.0
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

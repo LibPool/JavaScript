@@ -16,9 +16,9 @@ Vue VariantJS: Fully configurable Vue 3 components styled with TailwindCSS
 
 - 当前版本：0.0.22
 
-- 0.0.3-4
-- 0.0.3-5
-- 0.0.3-6
+- 0.0.3-33
+- 0.0.3-34
+- 0.0.3-35
 - 0.0.3-7
 - 0.0.3-8
 - 0.0.3-9

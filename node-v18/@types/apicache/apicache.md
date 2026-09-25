@@ -28,7 +28,6 @@ TypeScript definitions for apicache
 - 1.6.6
 - 1.6.7
 - 1.6.8
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

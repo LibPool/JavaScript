@@ -27,7 +27,6 @@ Pack an HTML file and all its linked resources into a single HTML file
 - 3.5.1
 - 3.6.3
 - 3.7.1
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

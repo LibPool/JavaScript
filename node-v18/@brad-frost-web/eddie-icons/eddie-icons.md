@@ -16,6 +16,9 @@ Eddie Icons is a library of icons to be consumed by web applications.
 
 - 当前版本：0.68.0
 
+- 0.58.0
+- 0.59.0
+- 0.60.0
 - 0.61.0
 - 0.62.0
 - 0.62.1
@@ -25,9 +28,6 @@ Eddie Icons is a library of icons to be consumed by web applications.
 - 0.66.0
 - 0.67.0
 - 0.68.0
-- 0.7.0
-- 0.8.0
-- 0.9.0
 - 共 71 个版本，完整清单见 npm registry。
 
 ## 获取地址

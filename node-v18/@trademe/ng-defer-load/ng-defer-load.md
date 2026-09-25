@@ -28,7 +28,6 @@ Angular directive to load elements lazily
 - 8.1.0-beta.0
 - 8.2.0
 - 8.2.1
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

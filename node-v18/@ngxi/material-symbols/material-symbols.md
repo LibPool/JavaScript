@@ -16,7 +16,7 @@ Icon set Material Symbols for Angular applications
 
 - 当前版本：0.12.33
 
-- 0.9.0
+- 0.12.8
 - 1.0.0-alpha.0
 - 1.0.0-alpha.1
 - 1.0.0-alpha.2

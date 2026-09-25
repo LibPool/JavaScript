@@ -15,6 +15,8 @@ HTTP API for KB Labs Marketplace Registry
 
 - 当前版本：2.117.0
 
+- 2.119.0-canary.cee505c72
+- 2.119.0-canary.e120bc0ee
 - 2.119.0-canary.f8394d5fd
 - 2.119.1-canary.1e87213c2
 - 2.119.1-canary.57c3a1e5e
@@ -25,8 +27,6 @@ HTTP API for KB Labs Marketplace Registry
 - 2.119.1-canary.c8f889b14
 - 2.119.1-canary.e834e2cf9
 - 2.119.1-canary.ee03bc25d
-- 2.96.0
-- 2.98.0
 - 共 54 个版本，完整清单见 npm registry。
 
 ## 获取地址

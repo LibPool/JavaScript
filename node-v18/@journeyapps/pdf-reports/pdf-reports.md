@@ -28,7 +28,6 @@ Node library to generate PDF reports from HTML.
 - 1.1.0-dev.1
 - 2.0.0
 - 2.0.1
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

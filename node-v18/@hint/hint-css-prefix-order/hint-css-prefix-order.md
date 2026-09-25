@@ -28,7 +28,6 @@ Ensure vendor-prefixed versions of a CSS property are listed before the unprefix
 - 1.5.6
 - 1.5.7
 - 1.5.8
-- 共 47 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

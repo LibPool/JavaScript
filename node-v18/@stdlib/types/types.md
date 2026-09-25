@@ -28,7 +28,6 @@ stdlib TypeScript type declarations.
 - 0.4.3
 - 0.5.0
 - 0.5.1
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

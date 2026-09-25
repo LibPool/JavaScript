@@ -28,7 +28,6 @@ A React 19 design system: accessible, animated UI components built on a small, c
 - 0.8.0
 - 0.9.0
 - 0.9.1
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

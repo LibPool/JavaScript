@@ -28,7 +28,6 @@ TypeScript definitions for canvas-confetti
 - 1.6.3
 - 1.6.4
 - 1.9.0
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

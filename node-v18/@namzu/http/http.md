@@ -28,7 +28,6 @@ Zero-dependency LLM provider for any OpenAI- or Anthropic-compatible HTTP endpoi
 - 4.1.1
 - 5.0.0
 - 5.0.1
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

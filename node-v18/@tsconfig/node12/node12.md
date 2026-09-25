@@ -28,7 +28,6 @@ A base TSConfig for working with Node 12.
 - 12.1.6
 - 12.1.7
 - 12.1.8
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

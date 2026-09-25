@@ -16,10 +16,10 @@ CLI for installing React Grab and configuring its activation behavior.
 
 - 当前版本：0.2.0
 
-- 0.1.6
-- 0.1.7
-- 0.1.8
-- 0.1.9
+- 0.1.50-dev.cf9533f
+- 0.1.50-dev.f350003
+- 0.1.50-dev.f4086d9
+- 0.1.50-dev.f8c2c71
 - 0.2.0
 - 0.2.0-dev.0afed86
 - 0.2.0-dev.23bce0e

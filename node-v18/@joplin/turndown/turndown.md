@@ -28,7 +28,6 @@ A library that converts HTML to Markdown
 - 4.0.82
 - 4.0.85
 - 4.0.86
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

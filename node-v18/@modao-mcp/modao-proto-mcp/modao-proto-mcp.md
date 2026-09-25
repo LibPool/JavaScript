@@ -28,7 +28,6 @@ modao-proto-mcp - A Model Context Protocol server for Modao prototype generation
 - 1.3.6
 - 1.3.7
 - 1.3.8
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

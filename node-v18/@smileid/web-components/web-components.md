@@ -28,7 +28,6 @@ A collection of Web Components used by SmileID
 - 2.0.0
 - 2.0.1
 - 2.0.2
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

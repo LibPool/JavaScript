@@ -16,19 +16,19 @@ The Material Components for the web image list component
 
 - 当前版本：14.0.0
 
-- 9.0.0-canary.e2e8aef1e.0
-- 9.0.0-canary.eabf9d5c2.0
-- 9.0.0-canary.eaeb78ce3.0
-- 9.0.0-canary.ec6b68b34.0
-- 9.0.0-canary.eff7b46ac.0
-- 9.0.0-canary.f5f1bd86a.0
-- 9.0.0-canary.f89d8b8f2.0
-- 9.0.0-canary.fb194dd35.0
-- 9.0.0-canary.fc8b045f1.0
-- 9.0.0-canary.fd22355f7.0
-- 9.0.0-canary.fd88d40c2.0
-- 9.0.0-canary.fdf9a2634.0
-- 共 1659 个版本，完整清单见 npm registry。
+- 15.0.0-canary.b994146f6.0
+- 15.0.0-canary.bc9ae6c9c.0
+- 15.0.0-canary.c0d21ecc9.0
+- 15.0.0-canary.c43b3438b.0
+- 15.0.0-canary.c51a0bbcc.0
+- 15.0.0-canary.c64a2776e.0
+- 15.0.0-canary.cfec83c74.0
+- 15.0.0-canary.d153db62b.0
+- 15.0.0-canary.d76666ad4.0
+- 15.0.0-canary.e50b478eb.0
+- 15.0.0-canary.ebb636f3d.0
+- 15.0.0-canary.f80ac92b0.0
+- 共 1,659 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

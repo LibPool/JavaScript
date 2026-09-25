@@ -28,7 +28,6 @@ Minify HTML template literal strings
 - 4.0.3-next.0
 - 4.0.3-next.1
 - 4.0.3-next.2
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

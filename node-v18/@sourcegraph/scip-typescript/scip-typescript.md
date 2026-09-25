@@ -28,7 +28,6 @@ SCIP indexer for TypeScript and JavaScript
 - 0.3.8
 - 0.3.9
 - 0.4.0
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

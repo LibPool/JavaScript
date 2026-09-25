@@ -15,19 +15,19 @@ React layer for the web planner: view and UI handlers plus planner widgets.
 
 - 当前版本：26.11.0
 
-- 7.9.0-rc.8
-- 7.9.1
-- 7.9.1-beta.0
-- 7.9.1-rc.0
-- 7.9.1-rc.1
-- 7.9.1-rc.2
-- 7.9.1-rc.3
-- 7.9.2
-- 7.9.2-rc.0
-- 7.9.3
-- 7.9.3-rc.0
-- 7.9.3-rc.1
-- 共 4164 个版本，完整清单见 npm registry。
+- 26.12.0-beta.2
+- 26.12.0-beta.20
+- 26.12.0-beta.21
+- 26.12.0-beta.22
+- 26.12.0-beta.23
+- 26.12.0-beta.3
+- 26.12.0-beta.4
+- 26.12.0-beta.5
+- 26.12.0-beta.6
+- 26.12.0-beta.7
+- 26.12.0-beta.8
+- 26.12.0-beta.9
+- 共 4,164 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

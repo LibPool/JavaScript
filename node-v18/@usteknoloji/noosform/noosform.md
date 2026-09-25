@@ -15,10 +15,10 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 
 - 当前版本：8.3.6
 
+- 8.1.71
+- 8.1.72
 - 8.1.73
 - 8.1.74
-- 8.1.8
-- 8.1.9
 - 8.2.0
 - 8.3.0
 - 8.3.1

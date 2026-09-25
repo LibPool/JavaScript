@@ -28,7 +28,6 @@ Variant of quickjs library: Variant with the WASM data embedded into a universal
 - 0.30.0
 - 0.31.0
 - 0.32.0
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ A Vite plugin for React Scan - detects performance issues in your React app.
 - 0.2.6
 - 0.2.7
 - 1.0.0
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

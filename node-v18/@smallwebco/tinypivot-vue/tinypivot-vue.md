@@ -16,11 +16,11 @@ TinyPivot Vue 3 - Lightweight data grid with free pivot tables, Pro charts, and 
 
 - 当前版本：1.3.1
 
-- 1.0.8
+- 1.0.74
+- 1.0.79
 - 1.0.80
 - 1.0.81
 - 1.0.83
-- 1.0.9
 - 1.1.0
 - 1.1.1
 - 1.1.2

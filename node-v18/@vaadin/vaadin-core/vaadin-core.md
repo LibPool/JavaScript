@@ -27,7 +27,7 @@ Vaadin components is an evolving set of free, open sourced custom HTML elements 
 - 25.3.0-beta2
 - 25.3.0-beta3
 - 25.3.0-rc1
-- 共 1074 个版本，完整清单见 npm registry。
+- 共 1,074 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

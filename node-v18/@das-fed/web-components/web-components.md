@@ -15,18 +15,18 @@ das-web-components 是 DAS 前端体系的 Web 组件库，基于 Web Components
 
 - 当前版本：7.1.2
 
+- 7.1.0-seres.18
+- 7.1.0-seres.19
+- 7.1.0-seres.20
+- 7.1.0-seres.21
+- 7.1.0-seres.22
 - 7.1.0-seres.23
 - 7.1.0-seres.24
 - 7.1.0-seres.25
-- 7.1.0-seres.3
-- 7.1.0-seres.4
-- 7.1.0-seres.5
 - 7.1.0-seres.6
 - 7.1.0-seres.7
 - 7.1.0-seres.8
 - 7.1.0-seres.9
-- 7.1.1
-- 7.1.2
 - 共 576 个版本，完整清单见 npm registry。
 
 ## 获取地址

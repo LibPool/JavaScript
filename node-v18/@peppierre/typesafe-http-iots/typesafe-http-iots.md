@@ -27,7 +27,6 @@ Type-safe HTTP client for Angular using io-ts and fp-ts
 - 2.0.0-ng21
 - 2.1.0
 - 2.2.0
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

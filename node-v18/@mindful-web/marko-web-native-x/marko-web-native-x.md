@@ -28,7 +28,6 @@ NativeX Marko components for Mindful Web websites
 - 1.92.2
 - 1.93.0
 - 1.93.1
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

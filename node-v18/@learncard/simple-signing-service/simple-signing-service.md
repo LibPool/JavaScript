@@ -1,0 +1,36 @@
+# @learncard/simple-signing-service
+
+> 标签: JavaScript
+
+## 简介
+
+[<img src="https://user-images.githubusercontent.com/2185016/190510561-294db809-09fd-4771-9749-6c0e0f4144fd.png" width="215"/>](https://learncard.com)
+
+## 官网
+
+- 官网：https://github.com/learningeconomy/LearnCard/tree/main/services/learn-card-network/simple-signing-service/README.md
+- 源码仓库：git+https://github.com/learningeconomy/LearnCard.git
+- npm 页面：https://www.npmjs.com/package/@learncard/simple-signing-service
+
+## 历史版本号
+
+- 当前版本：1.2.28
+
+- 1.2.22
+- 1.2.23
+- 1.2.24
+- 1.2.25
+- 1.2.26
+- 1.2.27
+- 1.2.28
+- 1.2.3
+- 1.2.4
+- 1.2.5
+- 1.2.6
+- 1.2.7
+- 共 60 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @learncard/simple-signing-service`
+- npm registry：https://registry.npmjs.org/@learncard/simple-signing-service

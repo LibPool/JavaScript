@@ -27,7 +27,6 @@ nSure web client sdk
 - 1.1.95
 - 1.1.96
 - 1.1.97
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

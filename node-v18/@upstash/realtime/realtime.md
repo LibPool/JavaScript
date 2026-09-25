@@ -28,7 +28,6 @@ An HTTP-based realtime client powered by Redis Streams.
 - 1.0.4
 - 1.1.0
 - 1.1.1-beta.0
-- 共 44 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

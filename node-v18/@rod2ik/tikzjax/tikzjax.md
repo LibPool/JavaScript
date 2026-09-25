@@ -28,7 +28,6 @@ TikZ & TikZ-based LaTeX Libraries and Packages loader for the Web, in Standalone
 - 1.5.0
 - 1.5.2
 - 1.6.0
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

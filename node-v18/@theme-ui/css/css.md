@@ -16,18 +16,18 @@
 
 - 当前版本：0.17.4
 
-- 0.9.2-canary.1808.ea70dad.0
-- 0.9.2-canary.1812.123509f91ca1ed5c87965bb7b4dabde7a8f03ba5.0
-- 0.9.2-canary.1812.220e734d2cae9e2bc3c5e0710e1aa2b915d443ce.0
-- 0.9.2-canary.1812.def728bb62f60fab389b93eefca5662b2385e907.0
-- 0.9.2-canary.1813.6b82d2a03bc978a0f2c515bc4daed437657d4d75.0
-- 0.9.2-canary.1836.e0a4fac3b5cd9ed6a6d7effe775c1294ed60ced7.0
-- 0.9.2-develop.0
-- 0.9.2-develop.1
-- 0.9.2-develop.4
-- 0.9.2-develop.5
-- 0.9.2-develop.6
-- 1.0.0--canary.1721.d10fcf34ecc89f0898c55c6669ea69896e9f0b5d.0
+- 0.16.2-develop.2
+- 0.16.2-develop.5
+- 0.16.2-scale-tuples.0
+- 0.17.0
+- 0.17.0-develop.0
+- 0.17.0-develop.1
+- 0.17.1
+- 0.17.1-develop.0
+- 0.17.2
+- 0.17.2-develop.0
+- 0.17.2-develop.1
+- 0.17.4
 - 共 436 个版本，完整清单见 npm registry。
 
 ## 获取地址

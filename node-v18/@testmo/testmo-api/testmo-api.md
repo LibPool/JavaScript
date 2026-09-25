@@ -27,7 +27,6 @@ Testmo REST API JavaScript binding
 - 2.7.1-beta.0
 - 2.7.2
 - 2.7.2-beta.0
-- 共 42 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

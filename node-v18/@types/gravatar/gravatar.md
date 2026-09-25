@@ -28,7 +28,6 @@ TypeScript definitions for gravatar
 - 1.8.4
 - 1.8.5
 - 1.8.6
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ A React renderer for PlayCanvas – build interactive 3D applications using Reac
 - 0.8.0
 - 0.9.0
 - 0.9.1
-- 共 46 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

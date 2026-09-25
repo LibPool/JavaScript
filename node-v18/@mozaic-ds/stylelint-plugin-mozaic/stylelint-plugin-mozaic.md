@@ -27,7 +27,6 @@ A set of rules to enforce Mozaic CSS architecture
 - 2.0.0-rc.7
 - 2.0.0-rc.8
 - 2.0.0-rc.9
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

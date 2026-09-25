@@ -28,7 +28,6 @@ TypeScript definitions for @mapbox/mapbox-sdk
 - 0.6.3
 - 0.6.4
 - 0.6.5
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,7 @@ a dev server middleware for rsbuild to serve Lynx Web Platform shell project
 - 0.26.2-canary-20260922-b994f49f
 - 0.26.2-canary-20260922-d572c410
 - 0.26.2-canary-20260923-55227d9d
-- 共 1032 个版本，完整清单见 npm registry。
+- 共 1,032 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

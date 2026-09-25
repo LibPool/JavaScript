@@ -28,7 +28,6 @@ DEPRECATED: see [@seed-design/css](../css) for the latest version.
 - 3.0.0-alpha-20241204032654
 - 3.0.0-alpha-20241212122822
 - 3.0.0-alpha-20250210081704
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for big.js
 - 6.2.1
 - 6.2.2
 - 7.0.0
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

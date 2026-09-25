@@ -27,7 +27,6 @@ The inspector UI for TeaCSS — browse generated CSS, modules, and a live REPL.
 - 0.5.0
 - 0.5.1
 - 0.5.2
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

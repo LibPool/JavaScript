@@ -28,7 +28,6 @@ TypeScript definitions for elliptic
 - 6.4.7
 - 6.4.8
 - 6.4.9
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

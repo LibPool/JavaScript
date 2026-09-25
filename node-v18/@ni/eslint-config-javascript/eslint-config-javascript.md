@@ -28,7 +28,6 @@ NI's JavaScript ESLint Shareable Config
 - 5.1.2
 - 5.1.4
 - 5.1.5
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ A vue component of datepicker, includes DatePicker, DateRangePicker, DatetimePic
 - 4.1.0
 - 4.1.2
 - 4.1.2-alpha
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -27,7 +27,6 @@ HTTP module for molecuel Application framework
 - 2.0.0-beta6
 - 2.0.0-beta7
 - 2.0.0-beta8
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

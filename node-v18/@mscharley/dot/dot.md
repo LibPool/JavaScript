@@ -28,7 +28,6 @@ A lightweight inversion of control framework for JavaScript and TypeScript
 - 2.2.1
 - 2.2.2
 - 2.2.3
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

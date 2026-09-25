@@ -28,7 +28,6 @@ This is an internal package used by [`@jscutlery/cypress-angular`](https://githu
 - 1.7.7
 - 1.7.8
 - 1.7.9
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

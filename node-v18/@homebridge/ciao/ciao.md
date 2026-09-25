@@ -16,13 +16,13 @@ ciao is a RFC 6763 compliant dns-sd library, advertising on multicast dns (RFC 6
 
 - 当前版本：1.3.12
 
-- 2.0.0-alpha.0
-- 2.0.0-alpha.1
+- 1.3.9-beta.0
+- 1.3.9-beta.1
+- 1.3.9-beta.2
+- 1.3.9-beta.3
+- 1.3.9-beta.4
 - 2.0.0-alpha.10
 - 2.0.0-alpha.11
-- 2.0.0-alpha.2
-- 2.0.0-alpha.3
-- 2.0.0-alpha.4
 - 2.0.0-alpha.5
 - 2.0.0-alpha.6
 - 2.0.0-alpha.7

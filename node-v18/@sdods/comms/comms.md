@@ -1,0 +1,24 @@
+# @sdods/comms
+
+> 标签: abstraction, communications, email, mailchimp, push, sms
+
+## 简介
+
+Unified communications layer - Email, SMS, Push with vendor abstraction
+
+## 官网
+
+- 官网：https://github.com/siri1410/sdods#readme
+- 源码仓库：git+https://github.com/siri1410/sdods.git
+- npm 页面：https://www.npmjs.com/package/@sdods/comms
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @sdods/comms`
+- npm registry：https://registry.npmjs.org/@sdods/comms

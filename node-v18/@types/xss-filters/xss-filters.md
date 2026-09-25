@@ -28,7 +28,6 @@ TypeScript definitions for xss-filters
 - 0.0.29
 - 0.0.30
 - 1.2.0
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

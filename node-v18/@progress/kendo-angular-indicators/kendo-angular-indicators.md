@@ -15,19 +15,19 @@ Kendo UI Indicators for Angular
 
 - 当前版本：25.1.0
 
+- 25.1.1-develop.4
+- 25.2.0-develop.1
+- 25.2.0-develop.10
+- 25.2.0-develop.11
+- 25.2.0-develop.2
+- 25.2.0-develop.3
 - 25.2.0-develop.4
 - 25.2.0-develop.5
 - 25.2.0-develop.6
 - 25.2.0-develop.7
 - 25.2.0-develop.8
 - 25.2.0-develop.9
-- 3.0.0
-- 3.0.0-dev.202209071131
-- 3.0.1
-- 3.0.1-dev.202210121021
-- 3.0.2
-- 3.0.2-dev.202211170752
-- 共 1406 个版本，完整清单见 npm registry。
+- 共 1,406 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

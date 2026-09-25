@@ -28,7 +28,6 @@ Harness React CG manager client - CG manager APIs integrated with react query ho
 - 1.7.0
 - 1.8.0
 - 1.9.0
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

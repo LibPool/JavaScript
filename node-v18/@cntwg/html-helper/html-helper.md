@@ -28,7 +28,6 @@ A base HTML-helper library for js
 - 0.1.3
 - 0.1.4
 - 0.2.0
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

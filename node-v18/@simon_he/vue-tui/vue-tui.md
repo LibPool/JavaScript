@@ -28,7 +28,6 @@ Vue 3 terminal UI components and renderers for browser DOM, CLI stdout, logs, ma
 - 1.1.6
 - 1.1.7
 - 1.1.9
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

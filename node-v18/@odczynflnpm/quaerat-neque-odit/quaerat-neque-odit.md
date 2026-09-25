@@ -1,0 +1,24 @@
+# @odczynflnpm/quaerat-neque-odit
+
+> 标签: -0, 0, @@toStringTag, Array, Array.prototype.findLastIndex, Array.prototype.includes, ArrayBuffer#slice, AsyncIterator, BigUint64Array, CSS, CSSStyleDeclaration, ECMAScript 2017, ECMAScript 2019, ECMAScript 2022, ECMAScript 6, ECMAScript 7, ES, ES2017, ES2018, ES2019, ES2022, ES3, ES6, ESnext, Float32Array, Function.prototype.name, HyBi, Int32Array, Iterator, JSON-Schema, Map, Microsoft, Object, Object.assign, Object.is, Object.keys, Observables, Push, Reflect.getPrototypeOf, RegExp#flags, RegExp.prototype.flags, Rx, RxJS, Streams, String.prototype.trim, StyleSheet, Symbol, URL, URLSearchParams, Uint16Array, Uint32Array, Uint8Array, Uint8ClampedArray, Underscore, WeakMap, WeakSet, WebSocket, YAML, [[Prototype]], a11y, accessibility, airbnb, ajax, ajv, animation, ansi, apollo, app, argparse, args, arguments, arraybuffer, art, assert, asserts, assign, ast, auth, authentication, autoprefixer, awesomesauce, babel-core, bdd, bind, browser, browserslist, bundler, busy, byteLength, byteOffset, call, call-bind, call-bound, callbind, callbound, channel, characters, child, chrome, chromium, circular, class-validator, classnames, cli, client, clone, cmd, codes, collection.es6, colors, colour, command-line, compare, compiler, computed-types, concat, concatMap, connect, consume, copy, create, crypt, crypto, css, curl, datastructure, dataview, date, dayjs, debugger, deep-clone, deep-copy, default, defineProperty, dependency manager, description, descriptor, diff, directory, dom, dotenv, duplex, ecmascript, editor, efficient, ender, enumerable, environment, equal, equality, es, es-abstract, es2015, es5, es6, es8, eslint, eslint-plugin, eslintconfig, eslintplugin, every, exec, exit, exit-code, express, expression, extend, extension, fast, fast-clone, file, find, find-up, findLast, findLastIndex, findup, flags, flat, flatMap, flatten, fp, framer, from, fs, full, full-width, fullwidth, function, functions, gdpr, generics, getOwnPropertyDescriptor, getopt, getter, glob, gradients css, gradients css3, guid, handlers, hardlinks, harmony, hasOwn, hooks, http, i18n, id, ie, indicator, inference, input, inspect, install, installer, internal, invariant, io-ts, irq, is, isConcatSpreadable, iterator, javascript, jsdiff, json-schema, json-schema-validator, jsonpath, jsonschema, jsx, karma, korean, l10n, language, launch, less compiler, less css, less mixins, less.js, let, libphonenumber, limit, linewrap, lint, linux, loading, logger, macos, make, make dir, matchAll, matches, merge, middleware, mime-db, mimetypes, minimal, mixins, mkdir, mkdirp, modules, monorepo, move, mru, multi-package, name, names, negative zero, nested css, nodejs, npm, number, obj, omit, once, open, opener, opens, operating-system, optimist, optimizer, output, package, parent, parser, password, performance, persistent, phone, pipe, plugin, pnpm9, point-free, pose, positive, postcss, preprocessor, private, process, promise, prop, properties, proto, protocol-buffers, prototype, pure, push, qs, query, queue, queueMicrotask, quote, ramda, rangeerror, rapid, ratelimit, react, react animation, react pose, react-hook-form, react-testing-library, recursive, redact, reduce, redux, regular, regular expression, regular expressions, remove, request, require, reuse, rgb, rm -fr, rm -rf, rmdir, robust, safe, sameValueZero, sanitize, schema, scheme-validation, search, serialize, serializer, setImmediate, setter, settings, shared, shell, shim, signal, signals, some, sort, sorted, spinner, stable, stateless, status, stream, streams, streams2, stringifier, stringify, style, styling, superstruct, symbol, symbols, symlinks, syntax, syntaxerror, tacit, tap, telephone, term, terminal, text, throat, throttle, time, toSorted, toolkit, tools, touch, transpile, traverse, trim, trimLeft, trimRight, trimStart, ts, tslib, tty, type, typed array, typedarrays, typeof, types, typescript, uninstall, up, urls, util.inspect, utility, utils, uuid, valid, validate, validation, validator, var, vest, view, waapi, wait, walking, warning, watch, watcher, watching, weakmap, weakset, website, wget, windows, wordbreak, wordwrap, worker, write, xdg-open, xhr, xss, xterm, yaml, yup
+
+## 简介
+
+[![github actions][actions-image]][actions-url] [![coverage][codecov-image]][codecov-url] [![dependency status][5]][6] [![dev dependency status][7]][8] [![License][license-image]][license-url] [![Downloads][downloads-image]][downloads-url]
+
+## 官网
+
+- 官网：https://github.com/odczynflnpm/quaerat-neque-odit/#readme
+- 源码仓库：git+https://github.com/odczynflnpm/quaerat-neque-odit.git
+- npm 页面：https://www.npmjs.com/package/@odczynflnpm/quaerat-neque-odit
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @odczynflnpm/quaerat-neque-odit`
+- npm registry：https://registry.npmjs.org/@odczynflnpm/quaerat-neque-odit

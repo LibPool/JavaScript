@@ -28,7 +28,6 @@ Universal document viewer for Vue 3 — PDFs, images, and more, with annotations
 - 3.2.0-beta.7
 - 3.2.0-beta.8
 - 3.2.0-beta.9
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ The library allows you to display html contents with react-native-webview withou
 - 0.2.6
 - 0.2.7
 - 0.2.8
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

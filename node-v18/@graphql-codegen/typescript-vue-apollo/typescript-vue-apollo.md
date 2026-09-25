@@ -28,7 +28,7 @@ GraphQL Code Generator plugin for generating ready-to-use Vue-Apollo composition
 - 5.0.0-alpha-20260308041323-8fa65c06e4f1a59ad0d098c935740ff2a50dacfc
 - 5.0.1
 - 5.0.1-alpha-20260419063702-f30ef089ec6f0c92531e65b35e3fdd8296a15407
-- 共 1857 个版本，完整清单见 npm registry。
+- 共 1,857 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

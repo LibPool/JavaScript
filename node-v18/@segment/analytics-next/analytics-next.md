@@ -16,8 +16,8 @@ Analytics Next (aka Analytics 2.0) is the latest version of Segment’s JavaScri
 
 - 当前版本：1.84.3
 
+- 1.78.1
 - 1.79.0
-- 1.8.0
 - 1.80.0
 - 1.81.0
 - 1.81.1

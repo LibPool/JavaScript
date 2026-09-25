@@ -16,18 +16,18 @@ TypeScript SDK for Codex APIs.
 
 - 当前版本：0.156.1
 
-- 0.99.0-alpha.2
-- 0.99.0-alpha.20
-- 0.99.0-alpha.21
-- 0.99.0-alpha.22
-- 0.99.0-alpha.23
-- 0.99.0-alpha.24
-- 0.99.0-alpha.25
-- 0.99.0-alpha.3
-- 0.99.0-alpha.4
-- 0.99.0-alpha.5
-- 0.99.0-alpha.6
-- 0.99.0-alpha.9
+- 0.156.0-alpha.9
+- 0.156.1
+- 0.157.0-alpha.1
+- 0.157.0-alpha.10
+- 0.157.0-alpha.2
+- 0.157.0-alpha.3
+- 0.157.0-alpha.4
+- 0.157.0-alpha.5
+- 0.157.0-alpha.6
+- 0.157.0-alpha.7
+- 0.157.0-alpha.8
+- 0.157.0-alpha.9
 - 共 939 个版本，完整清单见 npm registry。
 
 ## 获取地址

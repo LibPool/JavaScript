@@ -28,7 +28,6 @@ The Spectrum CSS meter component
 - 2.0.0-next.1
 - 2.0.0-next.2
 - 2.0.0-next.3
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

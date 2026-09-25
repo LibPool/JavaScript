@@ -28,7 +28,7 @@ SDK in TypeScript for building Injective applications in a browser, node, and re
 - 1.20.7
 - 1.20.8
 - 1.20.9
-- 共 1583 个版本，完整清单见 npm registry。
+- 共 1,583 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

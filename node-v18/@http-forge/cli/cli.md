@@ -27,7 +27,6 @@ Standalone HTTP Forge launcher and Postman alternative for UI mode, API testing,
 - 0.2.37
 - 0.2.39
 - 0.2.5
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

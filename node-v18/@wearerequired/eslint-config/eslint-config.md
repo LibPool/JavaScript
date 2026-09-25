@@ -1,0 +1,35 @@
+# @wearerequired/eslint-config
+
+> 标签: coding, config, eslint, eslintconfig, javascript, standard
+
+## 简介
+
+required coding standard for JavaScript.
+
+## 官网
+
+- 官网：https://github.com/wearerequired/coding-standards/tree/master/packages/eslint-config#readme
+- 源码仓库：git+https://github.com/wearerequired/coding-standards.git
+- npm 页面：https://www.npmjs.com/package/@wearerequired/eslint-config
+
+## 历史版本号
+
+- 当前版本：7.0.0
+
+- 3.0.0-beta.0
+- 4.0.0
+- 4.0.0-beta.1
+- 5.0.0
+- 6.0.0
+- 6.0.0-RC.0
+- 6.0.0-alpha.1
+- 6.0.1
+- 6.0.1-alpha.6
+- 7.0.0
+- 7.0.0-alpha.0
+- 7.0.0-alpha.1
+
+## 获取地址
+
+- npm 安装：`npm install @wearerequired/eslint-config`
+- npm registry：https://registry.npmjs.org/@wearerequired/eslint-config

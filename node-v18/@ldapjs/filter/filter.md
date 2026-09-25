@@ -1,0 +1,35 @@
+# @ldapjs/filter
+
+> 标签: JavaScript
+
+## 简介
+
+API for handling LDAP-style filters
+
+## 官网
+
+- 官网：https://github.com/ldapjs/filter
+- 源码仓库：git+ssh://git@github.com/ldapjs/filter.git
+- npm 页面：https://www.npmjs.com/package/@ldapjs/filter
+
+## 历史版本号
+
+- 当前版本：2.1.1
+
+- 1.0.0-rc.5
+- 1.0.0-rc.6
+- 1.0.0-rc.7
+- 1.0.0-rc.8
+- 1.0.0-rc.9
+- 2.0.0
+- 2.0.0-rc.2
+- 2.0.0-rc.3
+- 2.0.0-rc.4
+- 2.0.0-rc.5
+- 2.1.0
+- 2.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @ldapjs/filter`
+- npm registry：https://registry.npmjs.org/@ldapjs/filter

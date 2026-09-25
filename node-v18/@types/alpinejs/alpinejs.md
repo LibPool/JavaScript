@@ -28,7 +28,6 @@ TypeScript definitions for alpinejs
 - 3.7.0
 - 3.7.1
 - 3.7.2
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

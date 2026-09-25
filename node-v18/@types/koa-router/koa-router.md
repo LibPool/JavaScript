@@ -28,7 +28,6 @@ TypeScript definitions for koa-router
 - 7.4.7
 - 7.4.8
 - 7.4.9
-- 共 44 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

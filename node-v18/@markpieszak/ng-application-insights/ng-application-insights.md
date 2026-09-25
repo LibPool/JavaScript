@@ -28,7 +28,6 @@ Microsoft Azure Application Insights for Angular - Brought to you by Trilon.io
 - 9.0.0-beta.0
 - 9.0.1
 - 9.0.2
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

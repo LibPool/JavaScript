@@ -27,7 +27,6 @@ Server-side renderer and client-side hydrator for DOMQL/Symbols apps. Converts D
 - 3.8.7
 - 3.8.8
 - 3.8.9
-- 共 45 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

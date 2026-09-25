@@ -16,17 +16,17 @@ A TypeScript port of Nightly Rust's Result and Option structs
 
 - 当前版本：2.8.0
 
+- 2.8.1-next.990b25b5
+- 2.8.1-next.9fe164f2
+- 2.8.1-next.a1d31daa
+- 2.8.1-next.a44f297a
+- 2.8.1-next.a7ae88c3
+- 2.8.1-next.ad2c1b73
+- 2.8.1-next.c1299bac
 - 2.8.1-next.d57ec0d7
 - 2.8.1-next.db5e97fc
 - 2.8.1-next.e6d4bac4
 - 2.8.1-next.fff340cc
-- 3.0.0-pr-584.b444d5b.0
-- 3.0.0-pr-587.03cfe5a.0
-- 3.0.0-pr-587.0d75167.0
-- 3.0.0-pr-587.205914b.0
-- 3.0.0-pr-587.e9607661.0
-- 3.0.0-pr-589.aa473f9.0
-- 3.0.0-pr-601.2f2c308a.0
 - 3.0.0-pr-935.7da5c8bb
 - 共 878 个版本，完整清单见 npm registry。
 

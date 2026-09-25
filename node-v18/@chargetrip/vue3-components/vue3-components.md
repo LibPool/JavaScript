@@ -16,19 +16,19 @@ This template should help get you started developing with Vue 3 in Vite.
 
 - 当前版本：3.2.91
 
+- 4.0.0-beta.73
+- 4.0.0-beta.74
 - 4.0.0-beta.75
 - 4.0.0-beta.76
 - 4.0.0-beta.77
 - 4.0.0-beta.78
 - 4.0.0-beta.79
-- 4.0.0-beta.8
 - 4.0.0-beta.80
 - 4.0.0-beta.81
 - 4.0.0-beta.82
 - 4.0.0-beta.83
 - 4.0.0-beta.84
-- 4.0.0-beta.9
-- 共 1060 个版本，完整清单见 npm registry。
+- 共 1,060 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

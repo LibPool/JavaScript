@@ -28,7 +28,6 @@ Python-like JavaScript Logger
 - 4.0.4-alpha.3
 - 4.0.4-alpha.4
 - 4.0.4-alpha.5
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

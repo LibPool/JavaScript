@@ -28,7 +28,6 @@ A basic HTML block that provides HAXschema wiring
 - 9.0.3
 - 9.0.6
 - 9.0.7
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -16,6 +16,9 @@ Meta-package for the web platform
 
 - 当前版本：0.32.2
 
+- 0.29.4
+- 0.29.5
+- 0.29.6
 - 0.29.7
 - 0.30.0
 - 0.30.1
@@ -25,9 +28,6 @@ Meta-package for the web platform
 - 0.32.0
 - 0.32.1
 - 0.32.2
-- 0.8.0
-- 0.9.0
-- 0.9.1
 - 共 67 个版本，完整清单见 npm registry。
 
 ## 获取地址

@@ -27,7 +27,6 @@ Dot of CSS Library to make Line
 - 24.356.0
 - 24.78.0
 - 25.3.0
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

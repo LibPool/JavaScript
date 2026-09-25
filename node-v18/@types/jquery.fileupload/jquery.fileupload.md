@@ -28,7 +28,6 @@ TypeScript definitions for jquery.fileupload
 - 9.22.4
 - 9.22.5
 - 9.22.6
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

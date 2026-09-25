@@ -16,6 +16,7 @@ record and replay the web
 
 - 当前版本：0.0.60
 
+- 0.0.53
 - 0.0.54
 - 0.0.55
 - 0.0.56
@@ -27,7 +28,6 @@ record and replay the web
 - 0.0.7
 - 0.0.8
 - 0.0.9
-- 0.9.15-beta
 - 共 56 个版本，完整清单见 npm registry。
 
 ## 获取地址

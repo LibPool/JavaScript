@@ -28,7 +28,6 @@ A types-first markdown layer over @orkestrel/html — typed AST, both conversion
 - 0.0.7
 - 0.0.8
 - 0.0.9
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

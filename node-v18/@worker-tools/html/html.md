@@ -28,7 +28,6 @@ HTML templating and streaming response library for Worker Runtimes such as Cloud
 - 2.0.0-pre.7
 - 2.0.0-pre.8
 - 2.0.0-pre.9
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

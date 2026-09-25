@@ -28,7 +28,6 @@ TypeScript definitions for @recurly/recurly-js
 - 4.38.0
 - 4.39.0
 - 4.41.0
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

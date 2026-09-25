@@ -28,7 +28,6 @@ Tailwind3 CSS plugin for Seed Design tokens
 - 2.4.0
 - 2.4.1
 - 2.4.2
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

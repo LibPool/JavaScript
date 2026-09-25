@@ -28,7 +28,6 @@ HTTP base eventbridge core functions for PURISTA backend framework
 - 3.2.2
 - 3.2.3
 - 3.2.4
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

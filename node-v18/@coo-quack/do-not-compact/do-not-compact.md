@@ -1,0 +1,27 @@
+# @coo-quack/do-not-compact
+
+> 标签: JavaScript
+
+## 简介
+
+Claude Code plugin that reloads CLAUDE.md files into context after conversation compaction
+
+## 官网
+
+- 官网：https://github.com/coo-quack/do-not-compact
+- 源码仓库：git+https://github.com/coo-quack/do-not-compact.git
+- npm 页面：https://www.npmjs.com/package/@coo-quack/do-not-compact
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @coo-quack/do-not-compact`
+- npm registry：https://registry.npmjs.org/@coo-quack/do-not-compact

@@ -28,7 +28,6 @@ Common luca web crypto
 - 4.4.0
 - 4.4.1
 - 5.0.0
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

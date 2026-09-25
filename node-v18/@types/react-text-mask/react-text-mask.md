@@ -28,7 +28,6 @@ TypeScript definitions for react-text-mask
 - 5.4.7
 - 5.4.8
 - 5.4.9
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

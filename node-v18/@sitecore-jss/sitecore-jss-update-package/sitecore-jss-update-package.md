@@ -15,18 +15,18 @@ Allows creation of Sitecore Update Packages in JavaScript (currently files only)
 
 - 当前版本：19.0.2
 
-- 20.0.0-canary.9
-- 3.0.2
-- 4.0.0
-- 5.0.1
-- 6.0.0
-- 7.0.0
-- 8.0.0
-- 8.0.1
-- 8.0.3
-- 9.0.0
-- 9.0.1
-- 9.0.5
+- 20.0.0-canary.23
+- 20.0.0-canary.24
+- 20.0.0-canary.25
+- 20.0.0-canary.26
+- 20.0.0-canary.27
+- 20.0.0-canary.28
+- 20.0.0-canary.29
+- 20.0.0-canary.30
+- 20.0.0-canary.31
+- 20.0.0-canary.32
+- 20.0.0-canary.33
+- 20.0.0-canary.34
 - 共 271 个版本，完整清单见 npm registry。
 
 ## 获取地址

@@ -28,7 +28,6 @@ TypeScript definitions for copy-paste
 - 1.1.32
 - 1.1.33
 - 2.1.0
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

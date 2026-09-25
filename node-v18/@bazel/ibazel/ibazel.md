@@ -27,7 +27,6 @@ node distribution of ibazel
 - 0.8.2
 - 0.9.0
 - 0.9.1
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

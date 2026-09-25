@@ -1,0 +1,29 @@
+# @zalando/cms-mosaic-components
+
+> 标签: JavaScript
+
+## 简介
+
+Partner Content Components.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@zalando/cms-mosaic-components
+
+## 历史版本号
+
+- 当前版本：0.2.1
+
+- 0.1.15
+- 0.1.16
+- 0.1.17
+- 0.1.18
+- 0.1.19
+- 0.1.20
+- 0.2.0
+- 0.2.1
+
+## 获取地址
+
+- npm 安装：`npm install @zalando/cms-mosaic-components`
+- npm registry：https://registry.npmjs.org/@zalando/cms-mosaic-components

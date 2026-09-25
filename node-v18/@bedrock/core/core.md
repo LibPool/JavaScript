@@ -28,7 +28,6 @@ A core foundation for rich Web applications.
 - 6.1.3
 - 6.2.0
 - 6.3.0
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

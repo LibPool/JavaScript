@@ -28,7 +28,6 @@ TypeScript definitions for oidc-provider
 - 9.12.0
 - 9.12.1
 - 9.5.0
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

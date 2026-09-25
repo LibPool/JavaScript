@@ -27,7 +27,6 @@ Vue 3 components wrapping @leadbot/components: agent chat, forms, callback/email
 - 2.24.0
 - 2.24.1
 - 2.24.2
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

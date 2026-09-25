@@ -16,6 +16,7 @@ Browser bootstrap and layout shell for Foundry UI — bootstrapShell({ modules, 
 
 - 当前版本：0.33.3
 
+- 0.32.4
 - 0.33.0
 - 0.33.1
 - 0.33.2
@@ -27,7 +28,6 @@ Browser bootstrap and layout shell for Foundry UI — bootstrapShell({ modules, 
 - 0.7.1
 - 0.8.0
 - 0.9.0
-- 1.0.1
 - 共 59 个版本，完整清单见 npm registry。
 
 ## 获取地址

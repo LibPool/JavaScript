@@ -15,6 +15,10 @@ OpenAPI client for @emilgroup/auth-sdk-node
 
 - 当前版本：1.29.0
 
+- 1.28.0
+- 1.28.1-beta.0
+- 1.29.0
+- 1.29.1-beta.0
 - 1.29.1-beta.1
 - 1.29.1-beta.2
 - 1.29.1-beta.3
@@ -23,10 +27,6 @@ OpenAPI client for @emilgroup/auth-sdk-node
 - 1.29.1-beta.6
 - 1.29.1-beta.7
 - 1.29.1-beta.8
-- 1.3.0
-- 1.4.0
-- 1.4.1
-- 1.9.1-beta.2
 - 共 80 个版本，完整清单见 npm registry。
 
 ## 获取地址

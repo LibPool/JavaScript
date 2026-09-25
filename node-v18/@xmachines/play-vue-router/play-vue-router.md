@@ -16,8 +16,8 @@ Vue Router 4/5 adapter for XMachines Universal Player Architecture
 
 - 当前版本：5.0.1
 
-- 1.0.0-beta.8
-- 1.0.0-beta.9
+- 1.0.0-beta.57
+- 1.0.0-beta.58
 - 1.1.0
 - 2.0.0
 - 2.0.0-alpha.1

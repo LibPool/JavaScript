@@ -28,7 +28,6 @@ NodeJS http(s) agent implementation for VS Code
 - 0.44.0-next.0
 - 0.44.0-next.1
 - 0.45.0
-- 共 47 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

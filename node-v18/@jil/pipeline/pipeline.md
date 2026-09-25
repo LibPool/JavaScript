@@ -1,0 +1,34 @@
+# @jil/pipeline
+
+> 标签: jil, parallel, pipeline, routine, serial, task, work, work unit
+
+## 简介
+
+Pipe an input through a series of routines and tasks to produce an output, or simply, run logic in a series of stages
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@jil/pipeline
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.17
+- 0.1.18
+- 0.1.19
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @jil/pipeline`
+- npm registry：https://registry.npmjs.org/@jil/pipeline
+- Node 要求：>=14

@@ -28,7 +28,6 @@ Provides components and hooks for React integrations of PostHog.
 - 1.8.3
 - 1.9.0
 - 1.9.1
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

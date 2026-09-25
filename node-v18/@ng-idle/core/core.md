@@ -28,7 +28,6 @@ A module for detecting and responding to the user becoming idle in Angular appli
 - 8.0.0-beta.3
 - 8.0.0-beta.4
 - 9.0.0-beta.1
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

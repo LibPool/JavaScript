@@ -28,7 +28,6 @@ Node API for the Filecoin App (Ledger Nano S+, X, Stax and Flex)
 - 3.0.8
 - 3.0.9
 - 4.0.0
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

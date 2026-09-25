@@ -28,7 +28,6 @@ TypeScript definitions for later
 - 24.0.24-alpha
 - 24.0.25-alpha
 - 24.0.26-alpha
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

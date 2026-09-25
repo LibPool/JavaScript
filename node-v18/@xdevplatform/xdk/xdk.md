@@ -28,7 +28,6 @@ A modern TypeScript/JavaScript SDK for the X API
 - 0.6.4
 - 0.6.5
 - 0.6.6
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

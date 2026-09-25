@@ -16,18 +16,18 @@ This package contains the Angular framework extension for the @leanup/cli.
 
 - 当前版本：1.3.54
 
-- 2.0.0-rc.66
-- 2.0.0-rc.67
-- 2.0.0-rc.68
+- 1.3.49
+- 1.3.50
+- 1.3.51
+- 1.3.52
+- 1.3.53
+- 1.3.54
 - 2.0.0-rc.69
-- 2.0.0-rc.7
 - 2.0.0-rc.79
-- 2.0.0-rc.8
 - 2.0.0-rc.80
 - 2.0.0-rc.81
 - 2.0.0-rc.82
 - 2.0.0-rc.83
-- 2.0.0-rc.9
 - 共 426 个版本，完整清单见 npm registry。
 
 ## 获取地址

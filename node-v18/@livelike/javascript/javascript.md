@@ -27,7 +27,6 @@ LiveLike Javascript package
 - 1.3.3
 - 1.4.0
 - 1.4.1-alpha.0
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

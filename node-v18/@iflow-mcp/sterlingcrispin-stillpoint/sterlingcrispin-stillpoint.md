@@ -1,0 +1,24 @@
+# @iflow-mcp/sterlingcrispin-stillpoint
+
+> 标签: JavaScript
+
+## 简介
+
+Stillpoint MCP server
+
+## 官网
+
+- 官网：https://github.com/sterlingcrispin/stillpoint#readme
+- 源码仓库：git+https://github.com/sterlingcrispin/stillpoint.git
+- npm 页面：https://www.npmjs.com/package/@iflow-mcp/sterlingcrispin-stillpoint
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @iflow-mcp/sterlingcrispin-stillpoint`
+- npm registry：https://registry.npmjs.org/@iflow-mcp/sterlingcrispin-stillpoint

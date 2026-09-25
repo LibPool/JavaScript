@@ -27,7 +27,6 @@ Miaoda design-html template — buildless, self-contained HTML hosted as-is (des
 - 0.1.3-alpha.20260807130407
 - 0.1.3-alpha.20260807131855
 - 0.1.3-alpha.20260909034239
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

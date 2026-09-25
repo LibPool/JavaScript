@@ -1,0 +1,36 @@
+# @locational/application-registry-validation
+
+> 标签: JavaScript
+
+## 简介
+
+0. Test for empty function! 1. Single function `config_is_valid` or similar 2. Function return `true` to start 3. Deploy to NPM
+
+## 官网
+
+- 官网：https://github.com/locational/application-registry-validation#readme
+- 源码仓库：git+https://github.com/locational/application-registry-validation.git
+- npm 页面：https://www.npmjs.com/package/@locational/application-registry-validation
+
+## 历史版本号
+
+- 当前版本：2.4.7
+
+- 2.0.0
+- 2.1.0
+- 2.2.0
+- 2.2.1
+- 2.3.0
+- 2.4.0
+- 2.4.1
+- 2.4.2
+- 2.4.3
+- 2.4.5
+- 2.4.6
+- 2.4.7
+
+## 获取地址
+
+- npm 安装：`npm install @locational/application-registry-validation`
+- npm registry：https://registry.npmjs.org/@locational/application-registry-validation
+- Node 要求：>=8

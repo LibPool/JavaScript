@@ -28,7 +28,6 @@ ownCloud web test helpers
 - 12.4.1
 - 12.4.2
 - 12.5.0
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Marketing/landing-page focused React component library built on Tailwind CSS wit
 - 0.1.4
 - 0.1.5
 - 0.1.9
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

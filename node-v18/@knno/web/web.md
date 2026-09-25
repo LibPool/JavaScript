@@ -28,7 +28,6 @@ An light weight web framework for node-js.
 - 3.5.0
 - 3.5.1
 - 3.6.1
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

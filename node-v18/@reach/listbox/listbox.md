@@ -28,7 +28,6 @@ Accessible React listbox input.
 - 0.8.7
 - 0.9.0
 - 0.9.1
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

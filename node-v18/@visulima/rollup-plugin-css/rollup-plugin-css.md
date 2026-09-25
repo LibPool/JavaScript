@@ -16,17 +16,17 @@ CSS processing plugin for packem
 
 - 当前版本：1.0.1
 
+- 1.0.0-alpha.53
+- 1.0.0-alpha.54
+- 1.0.0-alpha.55
+- 1.0.0-alpha.56
 - 1.0.0-alpha.57
 - 1.0.0-alpha.58
 - 1.0.0-alpha.59
-- 1.0.0-alpha.6
 - 1.0.0-alpha.60
 - 1.0.0-alpha.61
 - 1.0.0-alpha.62
 - 1.0.0-alpha.63
-- 1.0.0-alpha.7
-- 1.0.0-alpha.8
-- 1.0.0-alpha.9
 - 1.0.1
 - 共 65 个版本，完整清单见 npm registry。
 

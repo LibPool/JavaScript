@@ -28,7 +28,6 @@ Easily create css variables without the need for a css file!
 - 2.6.0
 - 2.6.1
 - 2.7.0
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

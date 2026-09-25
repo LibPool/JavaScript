@@ -28,7 +28,6 @@ Split Angular utilities to simplify Split SDK browser client usage
 - 3.0.0
 - 3.0.1-rc.0
 - 4.0.0
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

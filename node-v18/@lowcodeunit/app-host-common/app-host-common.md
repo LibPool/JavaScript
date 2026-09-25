@@ -15,18 +15,18 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 
 - 当前版本：1.24.0
 
-- 1.8.78-api-access
-- 1.8.79-api-access
-- 1.8.80-api-access
-- 1.8.81-api-access
-- 1.8.82-api-access
-- 1.8.83-api-access
-- 1.8.84-api-access
-- 1.8.85-api-access
-- 1.8.86-integration
-- 1.9.87
-- 1.9.88-api-access
-- 1.9.89-integration
+- 1.23.95-angular-13
+- 1.23.96-angular-13
+- 1.23.97-angular-13
+- 1.23.98-angular-13
+- 1.23.99-angular-13
+- 1.24.0
+- 1.24.0-f6ce44f
+- 1.24.1-integration
+- 1.24.2-docLinks
+- 1.24.2-integration
+- 1.24.2-merge
+- 1.24.5-docLinks
 - 共 260 个版本，完整清单见 npm registry。
 
 ## 获取地址

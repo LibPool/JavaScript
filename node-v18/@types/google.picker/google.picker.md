@@ -28,7 +28,6 @@ TypeScript definitions for google.picker
 - 639.0.24-alpha
 - 639.0.25-alpha
 - 639.0.26-alpha
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

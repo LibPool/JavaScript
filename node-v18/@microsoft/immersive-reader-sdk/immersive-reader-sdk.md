@@ -28,7 +28,6 @@ The Immersive Reader JavaScript SDK is a JavaScript library that allows you to e
 - 1.2.0
 - 1.3.0
 - 1.4.0
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

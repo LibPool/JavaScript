@@ -28,7 +28,7 @@ SAP Cloud SDK for JavaScript resilience
 - 4.9.2-20260921013817.0
 - 4.9.2-20260922013212.0
 - 4.9.2-20260923013209.0
-- 共 1033 个版本，完整清单见 npm registry。
+- 共 1,033 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

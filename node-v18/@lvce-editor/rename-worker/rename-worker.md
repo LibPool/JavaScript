@@ -28,7 +28,6 @@ Web Worker for the color picker in Lvce Editor
 - 1.7.0
 - 1.8.0
 - 1.9.0
-- 共 43 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

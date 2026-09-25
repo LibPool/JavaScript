@@ -28,7 +28,6 @@ webhint parser needed to analyze HTML elements in JSX
 - 1.1.4
 - 1.1.5
 - 1.1.6
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

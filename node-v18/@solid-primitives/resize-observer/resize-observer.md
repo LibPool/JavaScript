@@ -28,7 +28,6 @@ Reactive primitives for observing resizing of HTML elements.
 - 4.0.0-next.1
 - 4.0.0-next.2
 - 4.0.0-next.3
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Simple http mocking for unit tests in node, and react-native, with good develope
 - 0.7.3
 - 0.7.4
 - 0.7.5
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

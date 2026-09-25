@@ -28,7 +28,6 @@ Tencent Cloud TUICallEngine SDK for Web
 - 3.3.3
 - 3.3.4
 - 3.3.5-beta.1
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

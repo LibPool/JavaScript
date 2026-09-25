@@ -1,0 +1,24 @@
+# @zkochan/fuse-shared-library-darwin
+
+> 标签: fuse, library, mac, osxfuse, prebuild, shared
+
+## 简介
+
+A module containing the dylib needed to run FUSE on Mac (darwin).
+
+## 官网
+
+- 官网：https://github.com/mafintosh/fuse-shared-library-darwin#readme
+- 源码仓库：git+https://github.com/mafintosh/fuse-shared-library-darwin.git
+- npm 页面：https://www.npmjs.com/package/@zkochan/fuse-shared-library-darwin
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @zkochan/fuse-shared-library-darwin`
+- npm registry：https://registry.npmjs.org/@zkochan/fuse-shared-library-darwin

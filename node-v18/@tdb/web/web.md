@@ -16,18 +16,18 @@ Common condiguration for serving a web-site and testing web-based UI components.
 
 - 当前版本：7.2.68
 
+- 7.2.53
+- 7.2.54
+- 7.2.56
+- 7.2.57
 - 7.2.58
 - 7.2.59
-- 7.2.6
 - 7.2.60
 - 7.2.63
 - 7.2.65
 - 7.2.66
 - 7.2.67
 - 7.2.68
-- 7.2.7
-- 7.2.8
-- 7.2.9
 - 共 226 个版本，完整清单见 npm registry。
 
 ## 获取地址

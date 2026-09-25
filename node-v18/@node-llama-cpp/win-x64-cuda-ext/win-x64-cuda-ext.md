@@ -28,7 +28,6 @@ Extension of @node-llama-cpp/win-x64-cuda - prebuilt binary for node-llama-cpp f
 - 3.20.0
 - 3.21.0
 - 3.21.1
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

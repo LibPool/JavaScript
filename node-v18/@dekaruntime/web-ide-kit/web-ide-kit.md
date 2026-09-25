@@ -28,7 +28,6 @@ Shared runtime, editor, and UI components for DekaScript web IDEs.
 - 0.3.2
 - 0.3.3
 - 0.3.4
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

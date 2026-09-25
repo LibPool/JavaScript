@@ -28,7 +28,6 @@ TypeScript definitions for depd
 - 1.1.36
 - 1.1.37
 - 1.1.38
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

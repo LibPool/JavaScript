@@ -1,0 +1,24 @@
+# @saovietproject/dolore-similique-magni-quos
+
+> 标签: JavaScript
+
+## 简介
+
+@saovietproject/dolore-similique-magni-quos - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/saovietproject/dolore-similique-magni-quos#readme
+- 源码仓库：git+https://github.com/saovietproject/dolore-similique-magni-quos.git
+- npm 页面：https://www.npmjs.com/package/@saovietproject/dolore-similique-magni-quos
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @saovietproject/dolore-similique-magni-quos`
+- npm registry：https://registry.npmjs.org/@saovietproject/dolore-similique-magni-quos

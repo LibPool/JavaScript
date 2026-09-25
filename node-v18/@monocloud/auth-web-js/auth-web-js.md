@@ -28,7 +28,6 @@ MonoCloud Web Authentication SDK
 - 0.2.7
 - 0.2.7-canary-20260823044959
 - 0.2.7-canary-20260823151016
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

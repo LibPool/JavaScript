@@ -28,7 +28,6 @@ A complete Apple Authentication services API for React Native iOS apps.
 - 2.4.2
 - 2.5.0
 - 2.5.1
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

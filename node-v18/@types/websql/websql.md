@@ -28,7 +28,6 @@ TypeScript definitions for websql
 - 0.0.28
 - 0.0.29
 - 0.0.30
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

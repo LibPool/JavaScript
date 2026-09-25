@@ -28,7 +28,6 @@ Tailwind CSS plugin for Ark UI components
 - 0.19.1
 - 0.20.0
 - 0.20.1
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

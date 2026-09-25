@@ -28,7 +28,6 @@ TypeScript definitions for sparqljs
 - 3.1.7
 - 3.1.8
 - 3.1.9
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

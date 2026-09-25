@@ -1,0 +1,24 @@
+# @scoped-elements/markdown-renderer
+
+> 标签: JavaScript
+
+## 简介
+
+Fork of prismjs-markdown-element following the @open-wc/scoped-elements pattern
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@scoped-elements/markdown-renderer
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @scoped-elements/markdown-renderer`
+- npm registry：https://registry.npmjs.org/@scoped-elements/markdown-renderer

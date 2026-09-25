@@ -28,7 +28,6 @@ libfvad compiled to WASM to run in browsers, Node, and NativeScript
 - 2.0.5
 - 2.0.6
 - 2.0.7
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Monocle React library
 - 1.2.1-canary.v20251106191611
 - 1.2.2-canary.v20260122213010
 - 1.2.2-canary.v20260123183735
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

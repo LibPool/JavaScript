@@ -28,7 +28,6 @@ Simple autocomplete component in vanilla JS and Vue
 - 3.0.1
 - 3.0.2
 - 3.0.3
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

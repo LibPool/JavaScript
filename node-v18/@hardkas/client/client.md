@@ -27,7 +27,6 @@ The official HTTP client for the HardKAS Dev Server.
 - 0.9.4-alpha
 - 0.9.6-alpha
 - 0.9.7-alpha
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

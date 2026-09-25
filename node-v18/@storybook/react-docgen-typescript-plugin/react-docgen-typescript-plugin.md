@@ -28,7 +28,6 @@ A webpack plugin to inject react typescript docgen information.
 - 1.0.6--canary.9.630821.0
 - 1.0.6--canary.9.cd77847.0
 - 1.0.6--canary.9.f9c48c0.0
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

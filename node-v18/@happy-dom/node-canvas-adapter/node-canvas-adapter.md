@@ -28,7 +28,6 @@ Pluggable canvas adapter for happy-dom using node-canvas.
 - 20.14.3
 - 20.14.4
 - 20.14.5
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

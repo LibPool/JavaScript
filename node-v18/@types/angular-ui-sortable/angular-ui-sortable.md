@@ -28,7 +28,6 @@ TypeScript definitions for angular-ui-sortable
 - 0.13.38
 - 0.13.39
 - 0.13.40
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

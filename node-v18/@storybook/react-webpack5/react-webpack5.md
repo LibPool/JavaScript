@@ -16,19 +16,19 @@ Storybook for React and Webpack: Develop, document, and test UI components in is
 
 - 当前版本：10.6.0
 
-- 9.1.20
-- 9.1.3
-- 9.1.4
-- 9.1.5
-- 9.1.6
-- 9.1.7
-- 9.1.8
-- 9.1.9
-- 9.2.0-alpha.0
-- 9.2.0-alpha.1
-- 9.2.0-alpha.2
-- 9.2.0-alpha.3
-- 共 2395 个版本，完整清单见 npm registry。
+- 10.6.0-alpha.4
+- 10.6.0-alpha.5
+- 10.6.0-alpha.6
+- 10.6.0-alpha.7
+- 10.6.0-alpha.8
+- 10.6.0-alpha.9
+- 10.6.0-beta.0
+- 10.6.0-beta.1
+- 10.6.0-beta.2
+- 10.6.0-beta.3
+- 11.0.0-alpha.0
+- 11.0.0-alpha.1
+- 共 2,395 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

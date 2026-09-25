@@ -28,7 +28,6 @@ Vue Schema.org for Simple and Automated Google Rich Results for everyone
 - 0.4.1
 - 0.5.0
 - 0.6.0
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

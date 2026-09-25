@@ -28,7 +28,6 @@ React Native Kakao Social SDK
 - 2.4.4
 - 2.4.5
 - 2.4.6
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

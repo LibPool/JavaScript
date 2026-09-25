@@ -1,0 +1,24 @@
+# @mely-ui/command-palette-group
+
+> 标签: JavaScript
+
+## 简介
+
+@mely-ui/command-palette-group - JavaScript library from npm
+
+## 官网
+
+- 官网：https://techmely.com/products/mely-ui/command-palette-groups
+- 源码仓库：git+https://github.com/techmely/command-palette-groups.git
+- npm 页面：https://www.npmjs.com/package/@mely-ui/command-palette-group
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @mely-ui/command-palette-group`
+- npm registry：https://registry.npmjs.org/@mely-ui/command-palette-group

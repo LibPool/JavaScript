@@ -28,7 +28,6 @@ G2Plot for vue, both v2 and v3
 - 3.6.9
 - 4.0.0
 - 4.0.1
-- 共 47 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

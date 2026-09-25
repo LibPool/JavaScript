@@ -28,7 +28,6 @@ Node.js, JavaScript/TypeScript client for [Reflag.com](https://reflag.com).
 - 1.7.3
 - 1.8.0
 - 1.8.1
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

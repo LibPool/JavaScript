@@ -28,7 +28,6 @@ NAPI-RS native bindings for node-webrtc-rust — WebRTC peer connections, data c
 - 0.9.7
 - 0.9.8
 - 0.9.9
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

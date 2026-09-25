@@ -28,7 +28,6 @@ Prepare input files to merge together and optionally output html/pdf/word presen
 - 3.0.0
 - 3.0.1
 - 3.0.2
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Bundle for PixiJS with support for Web Workers
 - 7.4.0
 - 7.4.2
 - 7.4.3
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

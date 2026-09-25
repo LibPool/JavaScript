@@ -28,7 +28,6 @@ Deploy Nuclio functions from Node-RED
 - 3.1.2
 - 4.0.0
 - 4.0.1
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

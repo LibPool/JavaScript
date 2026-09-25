@@ -28,7 +28,6 @@ TypeScript rewrite of type-is with CJS and ESM targets
 - 2.2.4
 - 2.2.5
 - 2.2.6
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

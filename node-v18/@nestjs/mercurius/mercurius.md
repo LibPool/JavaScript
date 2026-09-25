@@ -16,6 +16,9 @@ Nest - modern, fast, powerful node.js web framework (@graphql)
 
 - 当前版本：14.0.1
 
+- 13.2.3
+- 13.2.4
+- 13.2.5
 - 13.3.0
 - 13.4.0
 - 13.4.2
@@ -25,9 +28,6 @@ Nest - modern, fast, powerful node.js web framework (@graphql)
 - 14.0.0
 - 14.0.0-next.0
 - 14.0.1
-- 9.2.0
-- 9.2.1
-- 9.2.7
 - 共 68 个版本，完整清单见 npm registry。
 
 ## 获取地址

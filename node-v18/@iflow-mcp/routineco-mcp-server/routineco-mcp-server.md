@@ -1,0 +1,22 @@
+# @iflow-mcp/routineco-mcp-server
+
+> 标签: JavaScript
+
+## 简介
+
+The Routine Model Context Protocol server, allowing AI clients to interact with Routine
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@iflow-mcp/routineco-mcp-server
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @iflow-mcp/routineco-mcp-server`
+- npm registry：https://registry.npmjs.org/@iflow-mcp/routineco-mcp-server

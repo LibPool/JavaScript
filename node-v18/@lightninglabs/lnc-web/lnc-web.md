@@ -28,7 +28,6 @@ Lightning Node Connect npm module for web
 - 0.3.5-alpha.pre.2
 - 0.3.6-alpha
 - 0.4.0-alpha
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

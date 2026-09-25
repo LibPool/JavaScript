@@ -28,7 +28,6 @@ TypeScript definitions for react-scroll
 - 3.0.25-alpha
 - 3.0.26-alpha
 - 3.0.27
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

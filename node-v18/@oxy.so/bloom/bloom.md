@@ -28,7 +28,6 @@ Bloom UI — Oxy ecosystem component library for React Native + Expo + Web
 - 4.3.1
 - 4.4.0
 - 4.5.0
-- 共 46 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

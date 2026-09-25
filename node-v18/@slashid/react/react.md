@@ -16,18 +16,18 @@ React SDK for the /id platform
 
 - 当前版本：1.36.0
 
-- 1.6.3
-- 1.6.4
-- 1.7.0
-- 1.7.1
-- 1.8.0
-- 1.8.1
-- 1.8.2
-- 1.8.3
-- 1.9.0
-- 1.9.0-beta.0
-- 1.9.0-beta.1
-- 1.9.0-beta.2
+- 1.32.5
+- 1.32.6
+- 1.32.6-oniniterror.0
+- 1.33.0
+- 1.33.0-dynamic-flow-update.1
+- 1.33.0-dynamic-flow-update.2
+- 1.33.0-dynamic-flow-update.3
+- 1.34.0
+- 1.35.0
+- 1.35.0-hook-beta.0
+- 1.35.0-hook-beta.1
+- 1.36.0
 - 共 213 个版本，完整清单见 npm registry。
 
 ## 获取地址

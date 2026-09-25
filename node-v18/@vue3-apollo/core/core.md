@@ -28,7 +28,6 @@ Composable Apollo Client utilities for Vue 3.
 - 1.5.3
 - 1.6.0
 - 2.0.0
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

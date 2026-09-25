@@ -28,7 +28,6 @@ Android and iOS supported pure JS slider component with multiple markers for Rea
 - 2.2.0
 - 2.2.1
 - 2.2.2
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

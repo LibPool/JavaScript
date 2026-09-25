@@ -28,7 +28,6 @@ webhint parser needed to analyze HTML files
 - 3.1.2
 - 3.1.3
 - 3.1.4
-- 共 44 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

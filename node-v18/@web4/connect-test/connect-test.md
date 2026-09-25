@@ -1,0 +1,24 @@
+# @web4/connect-test
+
+> 标签: bitswarm, demo, test
+
+## 简介
+
+Create connections with peers in the 'connect-test' topic (Demo)
+
+## 官网
+
+- 官网：https://github.com/bitwebs/connect-test#readme
+- 源码仓库：git+https://github.com/bitwebs/connect-test.git
+- npm 页面：https://www.npmjs.com/package/@web4/connect-test
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @web4/connect-test`
+- npm registry：https://registry.npmjs.org/@web4/connect-test

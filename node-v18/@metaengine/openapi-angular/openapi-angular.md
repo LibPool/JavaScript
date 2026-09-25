@@ -28,7 +28,6 @@ Generate TypeScript/Angular services and models from OpenAPI specifications with
 - 1.3.1
 - 1.4.0
 - 1.4.1
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

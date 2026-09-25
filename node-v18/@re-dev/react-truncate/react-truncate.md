@@ -28,7 +28,6 @@ Provides `Truncate`, `MiddleTruncate` and `ShowMore` React components for trunca
 - 0.5.1
 - 0.5.2
 - 0.6.0
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

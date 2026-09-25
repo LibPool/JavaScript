@@ -27,7 +27,6 @@ ionite Server (Node/server-only)
 - 0.0.24-beta.20260922.10
 - 0.0.24-beta.20260922.11
 - 0.0.24-beta.20260922.9
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

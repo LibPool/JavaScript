@@ -16,6 +16,7 @@ AMD & SystemJS Module loader for Web Atoms
 
 - 当前版本：2.1.93
 
+- 2.1.81
 - 2.1.82
 - 2.1.83
 - 2.1.84
@@ -24,7 +25,6 @@ AMD & SystemJS Module loader for Web Atoms
 - 2.1.87
 - 2.1.88
 - 2.1.89
-- 2.1.9
 - 2.1.90
 - 2.1.92
 - 2.1.93

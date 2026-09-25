@@ -27,7 +27,6 @@ FullStack Nestjs server-side HTTP request forwarder (node egress, mihomo-aware)
 - 0.1.3-alpha.8
 - 0.1.3-alpha.9
 - 0.1.3-beta.0
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

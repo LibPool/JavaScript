@@ -28,7 +28,6 @@ TypeScript SDK for the Basecamp API
 - 0.7.3
 - 0.8.0
 - 0.9.0
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

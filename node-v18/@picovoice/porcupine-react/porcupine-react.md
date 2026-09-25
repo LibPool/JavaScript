@@ -27,7 +27,6 @@ React component for Porcupine Web SDK
 - 3.0.2
 - 3.0.3
 - 4.0.0
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

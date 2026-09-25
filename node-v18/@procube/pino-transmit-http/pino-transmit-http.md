@@ -28,7 +28,6 @@ A pino browser transmit that send log statements over HTTP
 - 2.0.4-rc.2
 - 2.0.5
 - 2.0.5-rc.0
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

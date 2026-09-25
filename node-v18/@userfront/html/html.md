@@ -28,7 +28,6 @@ Userfront HTML binding
 - 1.0.30
 - 1.0.31
 - 1.0.32
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

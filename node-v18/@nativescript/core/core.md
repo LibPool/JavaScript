@@ -28,7 +28,7 @@ A JavaScript library providing an easy to use api for interacting with iOS and A
 - 9.1.3-next.1
 - 9.1.3-next.2
 - 9.2.0-tvos.0
-- 共 1277 个版本，完整清单见 npm registry。
+- 共 1,277 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

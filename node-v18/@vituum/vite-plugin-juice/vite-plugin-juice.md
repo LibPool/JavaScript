@@ -28,7 +28,6 @@ Vite plugin for Juice, inlines css into HTML
 - 2.0.0-next.4
 - 2.0.0-next.5
 - 2.0.1
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

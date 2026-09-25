@@ -28,7 +28,6 @@ A plugin for lisk-framework that provides basic HTTP API endpoints to get runnin
 - 0.2.7
 - 0.3.0
 - 0.3.0-rc.0
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

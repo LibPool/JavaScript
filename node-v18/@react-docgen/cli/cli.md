@@ -28,7 +28,6 @@ A CLI to extract information from React components for documentation generation.
 - 3.0.5
 - 3.0.6
 - 3.0.7
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

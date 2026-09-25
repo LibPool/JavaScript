@@ -16,9 +16,9 @@ Nest - modern, fast, powerful node.js web framework (@swagger)
 
 - 当前版本：12.0.1
 
-- 7.4.1
-- 7.4.2
-- 8.0.0
+- 12.0.0-alpha.1
+- 12.0.0-alpha.2
+- 12.0.1
 - 8.0.1
 - 8.0.2
 - 8.0.3

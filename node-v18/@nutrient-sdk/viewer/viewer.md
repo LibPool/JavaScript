@@ -15,18 +15,18 @@ View and annotate PDF files in your web app. Full support for mobile and desktop
 
 - 当前版本：1.22.0
 
-- 1.9.0-nightly.20251109
-- 1.9.0-nightly.20251110
-- 1.9.0-nightly.20251111
-- 1.9.0-nightly.20251112
-- 1.9.0-nightly.20251113
-- 1.9.0-nightly.20251114
-- 1.9.0-nightly.20251115
-- 1.9.0-nightly.20251116
-- 1.9.0-nightly.20251117
-- 1.9.0-nightly.20251118
-- 1.9.1
-- 2.0.0-nightly.20250813
+- 1.22.0-nightly.20260912
+- 1.22.0-nightly.20260913
+- 1.22.0-nightly.20260914
+- 1.22.0-nightly.20260915
+- 1.22.0-nightly.20260916
+- 1.22.0-nightly.20260917
+- 1.22.0-nightly.20260918
+- 1.22.0-nightly.20260919
+- 1.22.0-nightly.20260920
+- 1.22.0-nightly.20260921
+- 1.22.0-nightly.20260922
+- 1.22.0-nightly.20260923
 - 共 421 个版本，完整清单见 npm registry。
 
 ## 获取地址

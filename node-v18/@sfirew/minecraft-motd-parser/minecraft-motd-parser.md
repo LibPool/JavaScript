@@ -28,7 +28,6 @@ Minecraft Server MOTD Parser, can convert to html, json, text.
 - 1.1.5-dev.1
 - 1.1.6
 - 1.1.9-dev.1
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

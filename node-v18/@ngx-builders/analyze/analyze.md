@@ -28,7 +28,6 @@ Angular Builder To Run Source Map Explorer
 - 4.0.0
 - 4.0.0-beta.0
 - 4.0.0-beta.1
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

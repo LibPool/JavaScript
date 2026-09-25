@@ -28,7 +28,6 @@ TypeScript definitions for react-d3-graph
 - 2.6.5
 - 2.6.6
 - 2.6.7
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

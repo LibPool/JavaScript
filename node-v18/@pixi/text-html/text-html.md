@@ -28,7 +28,6 @@ Multi-Style Text Rendering Plugin for PixiJS
 - 7.4.0
 - 7.4.2
 - 7.4.3
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

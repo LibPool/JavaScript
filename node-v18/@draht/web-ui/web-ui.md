@@ -27,7 +27,6 @@ Reusable web UI components for AI chat interfaces powered by @draht/ai
 - 2026.7.7
 - 2026.7.7-1
 - 2026.9.5-1
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

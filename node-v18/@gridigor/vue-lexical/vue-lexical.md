@@ -28,7 +28,6 @@ Vue 3 bindings for the Lexical editor framework
 - 1.49.0
 - 1.50.0
 - 1.51.0
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

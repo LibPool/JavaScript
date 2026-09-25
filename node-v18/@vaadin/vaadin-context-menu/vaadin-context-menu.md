@@ -16,18 +16,18 @@ Web Component for showing context dependent items for any element on the page
 
 - 当前版本：23.6.6
 
-- 4.4.0
-- 4.4.0-alpha1
-- 4.5.0
-- 4.5.0-alpha1
-- 4.5.0-alpha2
-- 4.5.0-beta1
-- 4.6.0
-- 4.6.0-alpha1
+- 23.5.6
+- 23.5.7
+- 23.5.8
+- 23.5.9
+- 23.6.0
+- 23.6.1
+- 23.6.2
+- 23.6.3
+- 23.6.4
+- 23.6.5
+- 23.6.6
 - 4.6.1
-- 5.0.0
-- 5.0.0-alpha1
-- 5.0.0-alpha2
 - 共 283 个版本，完整清单见 npm registry。
 
 ## 获取地址

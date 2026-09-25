@@ -28,7 +28,6 @@ Contactless Vue 3 datepicker
 - 0.4.6
 - 0.4.7
 - 0.4.9
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

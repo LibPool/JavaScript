@@ -28,7 +28,6 @@ TypeScript definitions for react-vis
 - 1.11.7
 - 1.11.8
 - 1.11.9
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ JQuery based http client usable by odata2ts
 - 0.9.1
 - 0.9.2
 - 0.9.3
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

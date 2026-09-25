@@ -28,7 +28,6 @@ Functional HTTP Framework for TypeScript
 - 4.0.0-beta.7
 - 4.0.0-beta.8
 - 4.0.0-beta.9
-- 共 45 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

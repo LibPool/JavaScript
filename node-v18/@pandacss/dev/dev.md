@@ -28,7 +28,7 @@ The user facing package for panda css
 - 2.0.0-beta.7
 - 2.0.0-beta.8
 - 2.0.0-beta.9
-- 共 1035 个版本，完整清单见 npm registry。
+- 共 1,035 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

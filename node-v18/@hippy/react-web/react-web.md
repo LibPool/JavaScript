@@ -16,7 +16,7 @@ Web Adapter for Hippy React
 
 - 当前版本：3.3.2
 
-- 3.0.0-alpha.6
+- 3.0.0-alpha.22
 - 3.0.0-alpha.7
 - 3.0.0-alpha.8
 - 3.0.0-alpha.9

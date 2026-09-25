@@ -16,18 +16,18 @@ MCP Server bridge for MG Tickets - connects Cursor to HTTP MCP server with image
 
 - 当前版本：3.5.84
 
+- 3.5.73
+- 3.5.74
 - 3.5.75
 - 3.5.76
 - 3.5.77
 - 3.5.78
 - 3.5.79
-- 3.5.8
 - 3.5.80
 - 3.5.81
 - 3.5.82
 - 3.5.83
 - 3.5.84
-- 3.5.9
 - 共 144 个版本，完整清单见 npm registry。
 
 ## 获取地址

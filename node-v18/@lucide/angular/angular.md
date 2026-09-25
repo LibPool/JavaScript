@@ -28,7 +28,6 @@ A Lucide icon library package for Angular applications.
 - 1.7.0
 - 1.8.0
 - 1.9.0
-- 共 46 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

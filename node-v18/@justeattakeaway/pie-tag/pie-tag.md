@@ -16,9 +16,9 @@ PIE Design System Tag built using Web Components
 
 - 当前版本：1.1.4
 
-- 0.9.7
-- 0.9.8
-- 0.9.9
+- 0.22.24
+- 0.22.25
+- 0.22.26
 - 1.0.0
 - 1.0.1
 - 1.0.2

@@ -28,7 +28,6 @@ linux-riscv64 prebuilt native library + GObject-Introspection typelib for @gjsif
 - 0.50.0
 - 0.51.0
 - 0.51.1
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

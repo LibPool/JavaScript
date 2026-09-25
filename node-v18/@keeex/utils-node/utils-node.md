@@ -28,7 +28,6 @@ Utility function for node environment
 - 6.8.1
 - 6.8.2
 - 6.9.2
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

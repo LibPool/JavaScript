@@ -1,0 +1,29 @@
+# @zcong/dev-scripts
+
+> 标签: JavaScript
+
+## 简介
+
+my groundbreaking project
+
+## 官网
+
+- 源码仓库：zcong1993/@zcong/dev-scripts
+- npm 页面：https://www.npmjs.com/package/@zcong/dev-scripts
+
+## 历史版本号
+
+- 当前版本：0.0.7
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+
+## 获取地址
+
+- npm 安装：`npm install @zcong/dev-scripts`
+- npm registry：https://registry.npmjs.org/@zcong/dev-scripts

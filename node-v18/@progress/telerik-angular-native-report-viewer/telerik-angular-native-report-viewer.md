@@ -27,7 +27,6 @@ Progress® Telerik® Native Report Viewer for Angular
 - 30.26.615
 - 30.26.707
 - 31.26.812
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

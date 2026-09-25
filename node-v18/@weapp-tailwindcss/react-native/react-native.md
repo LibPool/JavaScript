@@ -28,7 +28,6 @@ Tailwind CSS compiler and Expo Metro integration for cross-platform React Native
 - 0.2.7
 - 0.2.8
 - 0.2.9
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

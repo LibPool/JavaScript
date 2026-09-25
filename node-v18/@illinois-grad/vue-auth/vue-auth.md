@@ -28,7 +28,6 @@ Vue 3 authentication utilities with MSAL integration for Graduate College applic
 - 2.1.7
 - 2.1.8
 - 2.1.9
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Library for creation of React component boards
 - 4.6.0
 - 4.6.1
 - 4.6.2
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

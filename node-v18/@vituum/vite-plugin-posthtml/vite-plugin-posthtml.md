@@ -28,7 +28,6 @@ Vite plugin for PostHTML, transforms PostHTML syntax into HTML
 - 2.0.0-next.1
 - 2.0.0-next.2
 - 2.0.1
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ A base TSConfig for working with React Native.
 - 3.0.7
 - 3.0.8
 - 3.0.9
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

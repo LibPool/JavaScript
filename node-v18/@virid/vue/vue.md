@@ -28,7 +28,6 @@ Vue adapter for virid, projecting logic sovereignty to reactive UI
 - 0.4.0
 - 0.4.1
 - 0.4.2
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

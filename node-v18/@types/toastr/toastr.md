@@ -28,7 +28,6 @@ TypeScript definitions for toastr
 - 2.1.42
 - 2.1.43
 - 2.1.44
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

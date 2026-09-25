@@ -28,7 +28,6 @@ Algorithms to help you parse CSS from an array of tokens.
 - 3.0.4
 - 3.0.5
 - 4.0.0
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

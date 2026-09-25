@@ -28,7 +28,6 @@ Semantic release configuration used by the various HTML-validate cloneman templa
 - 7.6.2
 - 7.6.5
 - 7.6.6
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

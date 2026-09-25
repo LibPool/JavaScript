@@ -28,7 +28,7 @@ Api category of aws-amplify
 - 6.4.1-unstable-fb070dd-20260917114301
 - 6.4.2-unstable-5aaad5c-20260921082418
 - 6.4.2-unstable-cf452e9-20260921100459
-- 共 2455 个版本，完整清单见 npm registry。
+- 共 2,455 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

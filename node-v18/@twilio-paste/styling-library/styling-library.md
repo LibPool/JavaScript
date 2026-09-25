@@ -27,7 +27,6 @@ Custom CSS-in-JS wrapper library for use in Paste.
 - 3.0.0
 - 4.0.0
 - 4.0.1
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

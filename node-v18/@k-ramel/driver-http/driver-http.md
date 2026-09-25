@@ -28,7 +28,6 @@ HTTP driver for k-ramel
 - 2.1.0
 - 3.0.0
 - 3.0.1
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

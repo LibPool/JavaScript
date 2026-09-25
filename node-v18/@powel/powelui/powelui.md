@@ -16,7 +16,11 @@ Powel Web UI Framework
 
 - 当前版本：4.20.1
 
-- 5.0.0-next.5
+- 5.0.0-next.45
+- 5.0.0-next.46
+- 5.0.0-next.47
+- 5.0.0-next.48
+- 5.0.0-next.49
 - 5.0.0-next.50
 - 5.0.0-next.51
 - 5.0.0-next.52
@@ -24,10 +28,6 @@ Powel Web UI Framework
 - 5.0.0-next.54
 - 5.0.0-next.55
 - 5.0.0-next.56
-- 5.0.0-next.6
-- 5.0.0-next.7
-- 5.0.0-next.8
-- 5.0.0-next.9
 - 共 168 个版本，完整清单见 npm registry。
 
 ## 获取地址

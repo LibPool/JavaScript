@@ -1,0 +1,33 @@
+# @denwa/xerror
+
+> 标签: error, werror, xerror
+
+## 简介
+
+extended errors for nodejs
+
+## 官网
+
+- 官网：https://github.com/juanka881/denwa-xerror#readme
+- 源码仓库：git+https://github.com/juanka881/denwa-xerror.git
+- npm 页面：https://www.npmjs.com/package/@denwa/xerror
+
+## 历史版本号
+
+- 当前版本：5.0.1
+
+- 1.0.0
+- 2.0.0
+- 2.1.0
+- 3.0.0
+- 3.1.0
+- 3.2.0
+- 4.0.0
+- 4.1.0
+- 5.0.0
+- 5.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @denwa/xerror`
+- npm registry：https://registry.npmjs.org/@denwa/xerror

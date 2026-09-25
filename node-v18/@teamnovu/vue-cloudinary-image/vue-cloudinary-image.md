@@ -28,7 +28,6 @@ Simple Cloudinary Image component for vue
 - 4.0.0
 - 4.0.1
 - 5.0.0-beta.1
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

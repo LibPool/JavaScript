@@ -28,7 +28,6 @@ A utility for exploring a Master CSS config file.
 - 2.0.0-rc.67
 - 2.0.0-rc.68
 - 2.0.0-rc.69
-- 共 42 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

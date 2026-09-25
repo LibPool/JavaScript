@@ -1,0 +1,24 @@
+# @dotworkout/codec
+
+> 标签: JavaScript
+
+## 简介
+
+Decoder/encoder for the Apple .workout binary format
+
+## 官网
+
+- 官网：https://github.com/javierferrersb/dotworkout#readme
+- 源码仓库：git+https://github.com/javierferrersb/dotworkout.git
+- npm 页面：https://www.npmjs.com/package/@dotworkout/codec
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @dotworkout/codec`
+- npm registry：https://registry.npmjs.org/@dotworkout/codec

@@ -28,7 +28,6 @@ A small library for encoding objects into HTTP headers.
 - 0.1.7
 - 0.1.8
 - 0.1.9
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

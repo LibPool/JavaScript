@@ -28,7 +28,6 @@ React Native plugin for the CodePush service
 - 2.6.0-rc.4
 - 2.6.1
 - 2.6.2
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

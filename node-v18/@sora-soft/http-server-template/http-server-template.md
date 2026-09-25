@@ -28,7 +28,6 @@ Sora minimal HTTP server template
 - 1.2.3
 - 1.2.4
 - 1.2.5
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

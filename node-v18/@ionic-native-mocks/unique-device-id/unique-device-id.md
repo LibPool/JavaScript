@@ -1,0 +1,28 @@
+# @ionic-native-mocks/unique-device-id
+
+> 标签: JavaScript
+
+## 简介
+
+Ionic Native Mocks- Native plugins for ionic apps
+
+## 官网
+
+- 官网：https://github.com/chrisgriffith/ionic-native-mocks#readme
+- 源码仓库：git+https://github.com/chrisgriffith/ionic-native-mocks.git
+- npm 页面：https://www.npmjs.com/package/@ionic-native-mocks/unique-device-id
+
+## 历史版本号
+
+- 当前版本：2.0.12
+
+- 2.0.12
+- 2.0.3
+- 2.0.5
+- 2.0.6
+- 2.0.7
+
+## 获取地址
+
+- npm 安装：`npm install @ionic-native-mocks/unique-device-id`
+- npm registry：https://registry.npmjs.org/@ionic-native-mocks/unique-device-id

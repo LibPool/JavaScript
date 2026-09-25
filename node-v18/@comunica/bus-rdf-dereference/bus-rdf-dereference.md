@@ -28,7 +28,6 @@ A comunica bus for 'http' events.
 - 1.9.0
 - 1.9.2
 - 1.9.3
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

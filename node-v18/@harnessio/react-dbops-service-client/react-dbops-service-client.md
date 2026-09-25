@@ -28,7 +28,6 @@ Harness React DB Devops service client - DB Devops APIs integrated with react ho
 - 0.7.0
 - 0.8.0
 - 0.9.0
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

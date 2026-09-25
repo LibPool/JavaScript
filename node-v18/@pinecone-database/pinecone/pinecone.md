@@ -28,7 +28,7 @@ The official Pinecone TypeScript SDK for building full-text and vector search ap
 - 8.1.0
 - 8.2.0
 - 9.0.0
-- 共 1064 个版本，完整清单见 npm registry。
+- 共 1,064 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

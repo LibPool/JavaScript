@@ -28,7 +28,6 @@ Utilities for rendering Remote DOM elements using [React](https://reactjs.org/).
 - 1.2.0
 - 1.2.1
 - 1.2.2
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

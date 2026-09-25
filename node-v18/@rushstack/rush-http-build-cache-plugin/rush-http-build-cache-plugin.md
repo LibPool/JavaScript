@@ -16,6 +16,11 @@ Rush plugin for generic HTTP cloud build cache
 
 - 当前版本：5.179.0
 
+- 5.172.1
+- 5.173.0
+- 5.174.0
+- 5.175.0
+- 5.175.1
 - 5.176.0
 - 5.177.0
 - 5.177.1
@@ -23,11 +28,6 @@ Rush plugin for generic HTTP cloud build cache
 - 5.178.0
 - 5.178.1
 - 5.179.0
-- 5.92.0
-- 5.97.1
-- 5.97.1-pr3481.18
-- 5.98.0
-- 5.99.0
 - 共 219 个版本，完整清单见 npm registry。
 
 ## 获取地址

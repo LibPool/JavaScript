@@ -28,7 +28,6 @@ Drop-in crypto payment checkout for the web — a <lydian-checkout> web componen
 - 3.7.0
 - 3.7.1
 - 3.7.2
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

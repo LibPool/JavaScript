@@ -16,19 +16,19 @@ A development-only overlay for developing React applications.
 
 - 当前版本：14.1.4
 
-- 9.5.6-canary.15
-- 9.5.6-canary.16
-- 9.5.6-canary.17
-- 9.5.6-canary.18
-- 9.5.6-canary.2
-- 9.5.6-canary.3
-- 9.5.6-canary.4
-- 9.5.6-canary.5
-- 9.5.6-canary.6
-- 9.5.6-canary.7
-- 9.5.6-canary.8
-- 9.5.6-canary.9
-- 共 1612 个版本，完整清单见 npm registry。
+- 14.1.1-canary.44
+- 14.1.1-canary.45
+- 14.1.1-canary.46
+- 14.1.1-canary.47
+- 14.1.1-canary.48
+- 14.1.1-canary.49
+- 14.1.1-canary.50
+- 14.1.1-canary.51
+- 14.1.1-canary.52
+- 14.1.2
+- 14.1.3
+- 14.1.4
+- 共 1,612 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

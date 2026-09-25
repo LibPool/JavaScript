@@ -27,7 +27,6 @@ OpenAPI client for @emilgroup/discount-sdk-node
 - 1.7.1-beta.16
 - 1.7.1-beta.17
 - 1.7.1-beta.3
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

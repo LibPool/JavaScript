@@ -28,7 +28,6 @@ TypeScript definitions for ms
 - 0.7.33
 - 0.7.34
 - 2.1.0
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

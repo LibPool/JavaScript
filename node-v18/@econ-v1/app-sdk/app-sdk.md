@@ -16,7 +16,7 @@ TypeScript SDK for building Node mini-app plugins (Bun runtime) on the Lightning
 
 - 当前版本：7.1.10
 
-- 7.0.9
+- 7.0.79
 - 7.1.0
 - 7.1.1
 - 7.1.10

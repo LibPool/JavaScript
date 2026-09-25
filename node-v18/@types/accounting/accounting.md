@@ -28,7 +28,6 @@ TypeScript definitions for accounting
 - 0.4.3
 - 0.4.4
 - 0.4.5
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

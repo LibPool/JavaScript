@@ -28,7 +28,6 @@ MX React Native Widget SDK
 - 2.0.2
 - 2.0.3
 - 3.0.0
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

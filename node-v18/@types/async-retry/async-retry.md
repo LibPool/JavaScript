@@ -28,7 +28,6 @@ TypeScript definitions for async-retry
 - 1.4.7
 - 1.4.8
 - 1.4.9
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

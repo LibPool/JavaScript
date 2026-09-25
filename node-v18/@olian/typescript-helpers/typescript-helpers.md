@@ -28,7 +28,6 @@ A collection of typescript functions and structures that I usually end up needin
 - 3.1.0
 - 3.2.0
 - 3.2.1
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

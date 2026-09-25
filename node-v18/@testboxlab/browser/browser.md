@@ -28,7 +28,6 @@ Integration SDK to allow your web app to work with TestBox
 - 1.8.5
 - 1.9.0
 - 1.9.1
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ React Native HMS Map Kit
 - 6.3.1-304
 - 6.3.1-305
 - 6.9.0-300
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

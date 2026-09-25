@@ -28,7 +28,6 @@ The strongest free web search plugin for coding agents. Plug-in web search, X se
 - 5.8.0
 - 5.9.0
 - 5.9.1
-- 共 46 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

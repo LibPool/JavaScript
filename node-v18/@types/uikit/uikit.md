@@ -28,7 +28,6 @@ TypeScript definitions for uikit
 - 3.3.3
 - 3.3.4
 - 3.3.5
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -16,12 +16,12 @@ Next-gen TypeScript-first HTTP utilities
 
 - 当前版本：1.4.1
 
-- 1.3.8-canary.2
-- 1.3.8-canary.3
-- 1.3.8-canary.4
-- 1.3.9
-- 1.3.9-canary.0
-- 1.3.9-canary.1
+- 1.3.16-canary.2
+- 1.3.16-canary.3
+- 1.3.16-canary.4
+- 1.3.16-canary.5
+- 1.3.16-canary.6
+- 1.3.16-canary.7
 - 1.4.0
 - 1.4.0-canary.0
 - 1.4.0-canary.1

@@ -16,12 +16,12 @@ A react component library of iTwin.js UI general purpose components
 
 - 当前版本：5.35.0
 
+- 5.33.0
 - 5.33.1
 - 5.33.2
 - 5.33.3
 - 5.34.0
 - 5.35.0
-- 5.4.0
 - 5.5.0
 - 5.6.0
 - 5.7.0

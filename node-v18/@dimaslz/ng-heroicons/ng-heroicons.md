@@ -28,7 +28,6 @@ Angular library components to use Heroicons.com
 - 1.18.2
 - 1.19.0
 - 1.19.1
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

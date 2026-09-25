@@ -16,19 +16,19 @@ teamsfx framework api
 
 - 当前版本：0.24.2
 
-- 0.8.1-alpha.edcd9494.0
-- 0.8.1-alpha.f82bd314.0
-- 0.9.0
-- 0.9.0-rc.0
-- 0.9.0-rc.1
-- 0.9.1-alpha.0149f086.0
-- 0.9.1-alpha.29c5a990.0
-- 0.9.1-alpha.53eaf9d2.0
-- 0.9.1-alpha.7b2021e5.0
-- 0.9.1-alpha.9f7d527a.0
-- 0.9.1-alpha.a9d9ebbc.0
-- 0.9.1-alpha.e8eb533b.0
-- 共 1947 个版本，完整清单见 npm registry。
+- 0.24.3-alpha.bc165f625a.0
+- 0.24.3-alpha.d2722cc66f.33964085572.0
+- 0.24.3-alpha.db74a278f9.0
+- 0.24.3-alpha.dc668aaabb.0
+- 0.24.3-alpha.df3411aa75.0
+- 0.24.3-alpha.f3fb2cd65d.0
+- 0.24.3-alpha.f9c867ffc7.0
+- 0.24.3-beta.2026090710.0
+- 0.24.3-beta.2026090805.0
+- 0.24.3-beta.2026091502.0
+- 0.24.3-beta.2026091602.0
+- 0.24.3-beta.2026092203.0
+- 共 1,947 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

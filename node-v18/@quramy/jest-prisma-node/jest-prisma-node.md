@@ -28,7 +28,6 @@ It's same to [@quramy/jest-prisma](https://github.com/Quramy/jest-prisma) enviro
 - 1.8.0
 - 1.8.1
 - 1.8.2
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

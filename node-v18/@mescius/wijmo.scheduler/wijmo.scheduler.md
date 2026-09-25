@@ -27,7 +27,6 @@ UI library for pure JS, Angular, React, Vue and more...
 - 5.20262.57-nightly.d20260917.t150524
 - 5.20262.58-rc
 - 5.20262.59-nightly.d20260918.t154855
-- 共 46 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

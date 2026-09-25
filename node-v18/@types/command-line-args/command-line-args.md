@@ -28,7 +28,6 @@ TypeScript definitions for command-line-args
 - 5.2.1
 - 5.2.2
 - 5.2.3
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

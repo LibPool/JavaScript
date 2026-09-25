@@ -16,8 +16,8 @@ Detect default web browser of the current user, cross-platform (Win/Lin/Mac)
 
 - 当前版本：1.4.126
 
+- 1.4.88
 - 1.4.89
-- 1.4.9
 - 1.4.90
 - 1.4.91
 - 1.4.92

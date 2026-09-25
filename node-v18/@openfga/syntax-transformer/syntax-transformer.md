@@ -28,7 +28,6 @@ Javascript implementation of ANTLR Grammar for the OpenFGA DSL and parser from a
 - 0.2.0-beta.9
 - 0.2.1
 - 0.2.2
-- 共 45 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

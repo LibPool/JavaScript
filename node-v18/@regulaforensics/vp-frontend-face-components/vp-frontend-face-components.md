@@ -27,7 +27,7 @@ Regula framework agnostic web components to work with webcamera
 - 8.4.2384-nightly
 - 8.4.2386-nightly
 - 8.4.2387-rc
-- 共 1009 个版本，完整清单见 npm registry。
+- 共 1,009 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

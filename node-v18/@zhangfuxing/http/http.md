@@ -28,7 +28,6 @@ Promise based HTTP client for node.js
 - 4.4.1
 - 4.4.2
 - 4.4.3
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ An ice.js plugin for localize css assets resource.
 - 1.0.1-beta.0
 - 1.0.2
 - 1.0.2-canary-1e4b20af8-20230907064901
-- 共 44 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

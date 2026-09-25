@@ -28,7 +28,6 @@ Harness React TI service client - TI APIs integrated with react hooks
 - 0.6.5
 - 0.6.6
 - 0.6.7
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

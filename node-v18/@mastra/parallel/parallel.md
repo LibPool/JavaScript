@@ -28,7 +28,6 @@ Parallel web search and extract tools for Mastra agents
 - 0.1.1-alpha.1
 - 0.1.2
 - 0.1.2-alpha.0
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

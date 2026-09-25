@@ -27,7 +27,6 @@ OpenAPI client for @emilgroup/numbergenerator-sdk-node
 - 1.5.1-beta.23
 - 1.5.1-beta.3
 - 1.5.1-beta.4
-- 共 44 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

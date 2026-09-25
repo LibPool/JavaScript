@@ -28,7 +28,6 @@ Kendo UI TypeScript package starter template
 - 0.2.3
 - 0.2.3-dev.202208110855
 - 0.2.4-develop.1
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

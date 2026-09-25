@@ -28,7 +28,6 @@ Send commands to IRI over HTTP.
 - 1.0.0-beta.c594fede
 - 1.0.0-beta.caa3daa5
 - 1.0.0-beta.cda45022
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

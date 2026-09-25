@@ -1,0 +1,27 @@
+# @symantic/cli
+
+> 标签: agents, ai, cli, code-navigation, typescript
+
+## 简介
+
+symantic CLI — semantic symbol queries for TypeScript, shaped for AI agents
+
+## 官网
+
+- 官网：https://github.com/nam-hle/symantic#readme
+- 源码仓库：git+https://github.com/nam-hle/symantic.git
+- npm 页面：https://www.npmjs.com/package/@symantic/cli
+
+## 历史版本号
+
+- 当前版本：0.3.2
+
+- 0.1.0
+- 0.3.0
+- 0.3.1
+- 0.3.2
+
+## 获取地址
+
+- npm 安装：`npm install @symantic/cli`
+- npm registry：https://registry.npmjs.org/@symantic/cli

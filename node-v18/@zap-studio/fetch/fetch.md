@@ -28,7 +28,6 @@ A type-safe, tree-shakeable fetch wrapper for HTTP requests with runtime schema 
 - 2.1.2
 - 2.1.3
 - 2.1.4
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

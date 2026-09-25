@@ -28,7 +28,6 @@ Lumberjack is a versatile Angular logging library, specifically designed to be e
 - 21.0.0
 - 21.0.1
 - 22.0.0
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Reatom adapter for React
 - 3.8.8
 - 3.8.9
 - 3.9.0
-- 共 46 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

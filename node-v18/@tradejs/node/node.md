@@ -16,18 +16,18 @@ Node-only runtime for the TradeJS TypeScript framework: strategies, backtests, P
 
 - 当前版本：3.1.28
 
-- 3.1.6
-- 3.1.7
-- 3.1.8
-- 3.1.8-beta.204
-- 3.1.8-beta.205
-- 3.1.8-beta.206
-- 3.1.8-beta.207
-- 3.1.8-beta.210
-- 3.1.8-beta.212
-- 3.1.8-beta.213
-- 3.1.9
-- 3.1.9-beta.214
+- 3.1.27-beta.248
+- 3.1.27-beta.249
+- 3.1.27-beta.250
+- 3.1.28
+- 3.1.28-beta.251
+- 3.1.28-beta.252
+- 3.1.28-beta.253
+- 3.1.28-beta.254
+- 3.1.28-beta.255
+- 3.1.28-beta.256
+- 3.1.28-beta.257
+- 3.1.28-beta.258
 - 共 109 个版本，完整清单见 npm registry。
 
 ## 获取地址

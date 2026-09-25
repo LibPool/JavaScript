@@ -1,0 +1,28 @@
+# @kdujs/babel-helper-kdu-jsx-merge-props
+
+> 标签: JavaScript
+
+## 简介
+
+Babel helper for Kdu JSX spread
+
+## 官网
+
+- 官网：https://github.com/kdujs/jsx/tree/main#readme
+- 源码仓库：git+https://github.com/kdujs/jsx.git#main
+- npm 页面：https://www.npmjs.com/package/@kdujs/babel-helper-kdu-jsx-merge-props
+
+## 历史版本号
+
+- 当前版本：1.4.0
+
+- 1.0.0
+- 1.0.1
+- 1.1.3
+- 1.2.4
+- 1.4.0
+
+## 获取地址
+
+- npm 安装：`npm install @kdujs/babel-helper-kdu-jsx-merge-props`
+- npm registry：https://registry.npmjs.org/@kdujs/babel-helper-kdu-jsx-merge-props

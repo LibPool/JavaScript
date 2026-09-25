@@ -28,7 +28,6 @@ Tauri plugin for iroh-http peer-to-peer HTTP
 - 0.6.0
 - 0.6.1
 - 0.6.2
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

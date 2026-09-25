@@ -28,7 +28,6 @@ VMZ production runtime core — DOM / SSR / HTTP / WriteBarrier (no compiler)
 - 0.1.8
 - 0.1.9
 - 0.2.0
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

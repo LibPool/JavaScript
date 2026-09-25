@@ -28,7 +28,6 @@ TypeScript API client for Octopus Deploy
 - 3.8.0
 - 3.9.0
 - 3.9.1
-- 共 49 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

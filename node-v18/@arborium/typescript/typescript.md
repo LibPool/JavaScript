@@ -28,7 +28,6 @@ Syntax highlighting for TypeScript, powered by WebAssembly
 - 2.6.1
 - 2.7.0
 - 2.8.0
-- 共 43 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

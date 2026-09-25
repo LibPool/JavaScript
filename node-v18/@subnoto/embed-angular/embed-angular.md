@@ -16,7 +16,7 @@ Subnoto embed – angular components
 
 - 当前版本：2.16.1
 
-- 2.8.0
+- 2.16.1
 - 2.8.1
 - 2.9.0
 - 2.9.1

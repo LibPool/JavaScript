@@ -28,7 +28,6 @@ PHP preprocessor for the Kirigami static site generator. Compile PHP page templa
 - 1.9.2
 - 1.9.3
 - 2.0.0
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

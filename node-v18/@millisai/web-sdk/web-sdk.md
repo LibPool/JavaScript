@@ -27,7 +27,6 @@ Millis AI's web sdk to build voice agents on web and browser extension.
 - 1.0.7
 - 1.0.8
 - 1.0.9
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

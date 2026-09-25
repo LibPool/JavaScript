@@ -27,7 +27,6 @@ Rsbuild plugin: write manifest.json and remove stray HTML (internal)
 - 0.2.6
 - 0.2.7
 - 0.2.8
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

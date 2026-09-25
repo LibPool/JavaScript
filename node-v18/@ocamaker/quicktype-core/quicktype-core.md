@@ -1,0 +1,24 @@
+# @ocamaker/quicktype-core
+
+> 标签: JavaScript
+
+## 简介
+
+The quicktype engine as a library
+
+## 官网
+
+- 官网：https://github.com/ocamaker/quicktype#readme
+- 源码仓库：git+https://github.com/ocamaker/quicktype.git
+- npm 页面：https://www.npmjs.com/package/@ocamaker/quicktype-core
+
+## 历史版本号
+
+- 当前版本：23.2.7
+
+- 23.2.7
+
+## 获取地址
+
+- npm 安装：`npm install @ocamaker/quicktype-core`
+- npm registry：https://registry.npmjs.org/@ocamaker/quicktype-core

@@ -28,7 +28,6 @@ TypeScript definitions for apollo-upload-client
 - 8.1.1
 - 8.1.2
 - 8.1.3
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

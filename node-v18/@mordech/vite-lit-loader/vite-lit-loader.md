@@ -28,7 +28,6 @@ A vite plugin for loading `svg`, `html`, `css`, `scss`, and `sass` files as `lit
 - 0.38.0
 - 0.39.0
 - 0.40.0
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

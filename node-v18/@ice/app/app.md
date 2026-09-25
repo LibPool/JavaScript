@@ -16,6 +16,7 @@ provide scripts and configuration used by web framework ice
 
 - 当前版本：3.6.5
 
+- 3.6.3
 - 3.6.4
 - 3.6.4-canary-0dd4aab-20250722095609
 - 3.6.4-canary-39e2bd0e1-20250716020618
@@ -25,7 +26,6 @@ provide scripts and configuration used by web framework ice
 - 3.6.5
 - 3.6.6-canary-4ff2996-20250822023610
 - 3.6.6-canary-6b1abc701-20250902071142
-- 3.7.0-canary-8370289d-20250211073140
 - 4.0.0-canary-14d111cb99a98549f68aa168dd15219e473e3b8b-20250306021943
 - 4.0.0-canary-4921d3c4633e0023fc304a3d6e732eee0ae54c49-20250224101303
 - 共 494 个版本，完整清单见 npm registry。

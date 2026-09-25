@@ -28,7 +28,6 @@ TypeScript checker plugin for Stryker — TS7 native
 - 7.0.3
 - 7.0.4
 - 7.0.5
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

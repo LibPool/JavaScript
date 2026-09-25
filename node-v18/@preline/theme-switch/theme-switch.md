@@ -28,7 +28,6 @@ Preline UI is an open-source set of prebuilt UI components based on the utility-
 - 4.1.3
 - 4.2.0
 - 5.0.0
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

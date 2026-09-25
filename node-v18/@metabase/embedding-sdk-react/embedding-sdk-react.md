@@ -16,6 +16,11 @@ Metabase Embedding SDK for React
 
 - 当前版本：0.63.1
 
+- 0.63.0-data-apps
+- 0.63.1
+- 0.63.1-data-apps
+- 0.63.2-data-apps
+- 0.63.3-data-apps
 - 0.63.4-data-apps
 - 0.64.0-alpha.0
 - 0.64.0-alpha.1
@@ -23,11 +28,6 @@ Metabase Embedding SDK for React
 - 0.64.0-alpha.3
 - 0.64.0-alpha.4
 - 0.64.0-beta.0
-- 1.51.0
-- 1.51.2
-- 1.51.3
-- 1.51.4
-- 1.52.1
 - 共 164 个版本，完整清单见 npm registry。
 
 ## 获取地址

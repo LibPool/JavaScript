@@ -28,7 +28,6 @@ The self-hosted CAPTCHA for the modern web.
 - 0.1.55
 - 0.1.56
 - 0.1.57
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

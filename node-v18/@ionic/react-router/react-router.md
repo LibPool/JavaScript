@@ -28,7 +28,7 @@ React Router wrapper for @ionic/react
 - 9.0.5-nightly.20260918
 - 9.0.5-nightly.20260921
 - 9.0.5-nightly.20260922
-- 共 3936 个版本，完整清单见 npm registry。
+- 共 3,936 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

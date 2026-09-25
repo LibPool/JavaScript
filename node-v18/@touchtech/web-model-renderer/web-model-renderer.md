@@ -28,7 +28,6 @@ Web model renderer
 - 2.3.0
 - 2.3.0-alpha.0
 - 2.3.1
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

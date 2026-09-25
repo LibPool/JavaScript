@@ -27,7 +27,6 @@ HTML parsing and DOM manipulation toolkit powered by Cheerio — extract, transf
 - 1.1.6
 - 1.1.8
 - 1.1.9
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Oxc Transformer Node API
 - 0.149.0
 - 0.150.0
 - 0.151.0
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

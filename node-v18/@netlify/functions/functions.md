@@ -16,6 +16,7 @@ TypeScript utilities for interacting with Netlify Functions
 
 - 当前版本：6.0.0
 
+- 5.0.1
 - 5.1.0
 - 5.1.1
 - 5.1.2
@@ -27,7 +28,6 @@ TypeScript utilities for interacting with Netlify Functions
 - 5.2.2
 - 5.3.0
 - 6.0.0
-- 8.0.1-beta.1
 - 共 118 个版本，完整清单见 npm registry。
 
 ## 获取地址

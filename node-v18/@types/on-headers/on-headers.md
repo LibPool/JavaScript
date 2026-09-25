@@ -28,7 +28,6 @@ TypeScript definitions for on-headers
 - 2.1.28
 - 2.1.29
 - 2.1.30
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

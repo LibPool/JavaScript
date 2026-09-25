@@ -28,7 +28,6 @@ Simple Http Server for ORGiD testing
 - 1.2.2
 - 1.2.3
 - 1.2.4
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

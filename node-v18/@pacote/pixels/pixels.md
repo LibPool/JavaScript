@@ -28,7 +28,6 @@ Converts CSS unit lengths to pixels.
 - 2.0.3
 - 2.0.4
 - 3.0.0
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

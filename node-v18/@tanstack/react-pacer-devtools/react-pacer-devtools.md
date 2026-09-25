@@ -28,7 +28,6 @@ React adapter for devtools for Pacer.
 - 0.7.0
 - 0.7.1
 - 0.8.0
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

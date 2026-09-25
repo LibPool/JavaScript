@@ -28,7 +28,6 @@ A simple TypeScript library for dependency injection
 - 1.1.3
 - 1.2.0
 - 1.2.1
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

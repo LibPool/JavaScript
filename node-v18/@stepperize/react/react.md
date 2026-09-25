@@ -28,7 +28,6 @@ The library for building step-by-step workflows for React and React Native apps
 - 6.1.0
 - 7.0.0
 - 8.0.0
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

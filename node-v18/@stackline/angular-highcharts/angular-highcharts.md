@@ -28,7 +28,6 @@ Angular wrapper components for Highcharts, Highstock, Highmaps, zAxis, and color
 - 7.0.0
 - 8.0.0
 - 9.0.0
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

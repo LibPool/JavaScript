@@ -28,7 +28,6 @@ CSS-in-JS connector for styled-components engine
 - 2.7.1
 - 2.7.2
 - 2.7.4
-- 共 49 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

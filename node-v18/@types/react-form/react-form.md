@@ -28,7 +28,6 @@ TypeScript definitions for react-form
 - 4.0.4
 - 4.0.5
 - 4.0.6
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

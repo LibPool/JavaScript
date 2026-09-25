@@ -28,7 +28,6 @@ Communicate between the web browser and your desktop app.
 - 0.54.0
 - 0.55.0
 - 0.56.0
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

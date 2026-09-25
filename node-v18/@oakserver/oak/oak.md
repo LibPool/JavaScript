@@ -28,7 +28,6 @@ A middleware framework for handling HTTP requests
 - 13.2.5
 - 14.0.0
 - 14.1.0
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

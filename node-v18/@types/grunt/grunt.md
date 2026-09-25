@@ -28,7 +28,6 @@ TypeScript definitions for grunt
 - 0.4.32
 - 0.4.4-alpha
 - 0.4.5-alpha
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

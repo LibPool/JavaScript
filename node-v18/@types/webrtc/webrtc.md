@@ -28,7 +28,6 @@ TypeScript definitions for webrtc
 - 0.0.7-alpha
 - 0.0.8-alpha
 - 0.0.9-alpha
-- 共 43 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

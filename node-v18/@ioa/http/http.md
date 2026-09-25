@@ -27,7 +27,6 @@ ioa.js 的 http 组件, 兼容 koa.js
 - 7.0.0-alpha.4
 - 7.0.0-alpha.5
 - 7.0.0-alpha.6
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

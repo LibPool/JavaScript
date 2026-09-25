@@ -28,7 +28,6 @@ Simple HTTP provider for OVH API.
 - 5.1.6
 - 5.1.7
 - 5.2.0
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

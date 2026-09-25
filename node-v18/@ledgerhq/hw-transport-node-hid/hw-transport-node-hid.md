@@ -16,6 +16,9 @@ Ledger Hardware Wallet Node implementation of the communication layer, using nod
 
 - 当前版本：6.33.5
 
+- 6.33.4-nightly.20260609030647
+- 6.33.4-nightly.20260610030722
+- 6.33.4-nightly.20260611030748
 - 6.33.4-nightly.20260612030643
 - 6.33.5
 - 6.33.5-nightly.20260620030702
@@ -25,9 +28,6 @@ Ledger Hardware Wallet Node implementation of the communication layer, using nod
 - 6.33.5-nightly.20260626030713
 - 6.33.5-nightly.20260627030713
 - 6.33.5-nightly.20260630030734
-- 6.6.0
-- 6.7.0
-- 6.9.1-taproot.0
 - 共 579 个版本，完整清单见 npm registry。
 
 ## 获取地址

@@ -28,7 +28,6 @@ Rules enforcing best practices while using Tailwind CSS
 - 4.0.0-alpha.7
 - 4.0.0-alpha.8
 - 4.0.0-alpha.9
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Gesture-driven, virtualized month / week / day calendar and date picker for Reac
 - 2.8.2
 - 2.9.0
 - 2.9.1
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

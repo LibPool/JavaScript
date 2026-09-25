@@ -28,7 +28,6 @@ Open Source Cloud Client SDK web library
 - 0.6.4
 - 0.6.5
 - 0.6.6
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

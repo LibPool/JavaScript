@@ -16,18 +16,18 @@ amplify-cli front-end plugin for JavaScript projects
 
 - 当前版本：3.10.27
 
-- 3.9.6-yarn-berry-hotfix.0
-- 3.9.6-yarn-berry.0
-- 3.9.7
-- 3.9.7-gfix.0
-- 3.9.7-rc.63f02ced2b.0
-- 3.9.8
-- 3.9.8-gfix.0
-- 3.9.8-rc.f820824161.0
-- 3.9.9
-- 3.9.9-rc.2def814808.0
-- 3.9.9-rc.9006f4f8b7.0
-- 3.9.9-split-deploy-step.0
+- 3.10.23-sdk-v2-with-data-0.0
+- 3.10.24
+- 3.10.24-rc.58861f883391d6e.0
+- 3.10.25
+- 3.10.25-rc.b169eb97f328163.0
+- 3.10.26
+- 3.10.26-rc.0363a26e55df110.0
+- 3.10.26-rc.2e06b2e79e143c7.0
+- 3.10.26-rc.6b0f0255b3764ff.0
+- 3.10.26-rc.b490ca31634487e.0
+- 3.10.27
+- 3.10.27-rc.b96c3c8fd02d4ef.0
 - 共 196 个版本，完整清单见 npm registry。
 
 ## 获取地址

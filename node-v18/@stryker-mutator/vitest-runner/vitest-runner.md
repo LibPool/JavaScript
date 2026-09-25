@@ -28,7 +28,6 @@ A plugin to use the vitest test runner and framework in Stryker, the JavaScript 
 - 9.5.1
 - 9.6.0
 - 9.6.1
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

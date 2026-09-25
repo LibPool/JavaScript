@@ -1,0 +1,22 @@
+# @pandablog/bridge-netlify
+
+> 标签: JavaScript
+
+## 简介
+
+Netlify function handlers + Supabase migrations for PandaBlog.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@pandablog/bridge-netlify
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @pandablog/bridge-netlify`
+- npm registry：https://registry.npmjs.org/@pandablog/bridge-netlify

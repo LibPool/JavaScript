@@ -28,7 +28,7 @@ A babel plugin to transform CSS imports for themeable components
 - 7.7.1
 - 7.8.0
 - 7.9.0
-- 共 1120 个版本，完整清单见 npm registry。
+- 共 1,120 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

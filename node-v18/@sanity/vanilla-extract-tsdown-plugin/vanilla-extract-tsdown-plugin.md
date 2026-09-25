@@ -28,7 +28,6 @@ tsdown plugin for vanilla-extract that extracts CSS into a lightningcss-optimize
 - 0.3.6
 - 0.4.0
 - 0.4.1
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -1,0 +1,22 @@
+# @iflow-mcp/fysh1010-mcp-server-fanqie
+
+> 标签: JavaScript
+
+## 简介
+
+A FanQie (Tomato) Novel MCP Server
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@iflow-mcp/fysh1010-mcp-server-fanqie
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @iflow-mcp/fysh1010-mcp-server-fanqie`
+- npm registry：https://registry.npmjs.org/@iflow-mcp/fysh1010-mcp-server-fanqie

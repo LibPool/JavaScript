@@ -15,13 +15,13 @@ Playwright-as-a-library helpers for **bun-test**-driven component acceptance tes
 
 - 当前版本：0.1.18-rc.14
 
+- 0.1.18-rc.37
+- 0.1.18-rc.4
 - 0.1.18-rc.5
 - 0.1.18-rc.6
 - 0.1.18-rc.7
 - 0.1.18-rc.8
 - 0.1.18-rc.9
-- 0.1.3
-- 0.1.4
 - 0.1.5
 - 0.1.6
 - 0.1.7

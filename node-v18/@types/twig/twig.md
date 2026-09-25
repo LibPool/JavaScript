@@ -28,7 +28,6 @@ TypeScript definitions for twig
 - 1.12.7
 - 1.12.8
 - 1.12.9
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

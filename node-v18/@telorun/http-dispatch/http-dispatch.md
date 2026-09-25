@@ -28,7 +28,6 @@ Telo HTTP Dispatch - Transport-neutral returns:/catches: rendering shared betwee
 - 0.4.1
 - 0.4.2
 - 1.0.0
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

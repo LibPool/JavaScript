@@ -28,7 +28,6 @@ Vue bindings for SSGOI - Native app-like page transitions for Vue applications
 - 7.1.3-beta.3
 - 7.1.3-beta.4
 - 7.1.3-beta.5
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

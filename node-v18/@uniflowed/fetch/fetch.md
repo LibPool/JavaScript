@@ -28,7 +28,6 @@ Typed HTTP over the platform fetch, part of the Unified Toolchain for Flow.
 - 0.0.0-alpha.7
 - 0.0.0-alpha.8
 - 0.0.0-alpha.9
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

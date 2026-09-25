@@ -28,7 +28,6 @@ React Native Blur component
 - 4.3.2
 - 4.4.0
 - 4.4.1
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

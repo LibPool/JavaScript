@@ -28,7 +28,6 @@ TypeScript definitions for circular-json
 - 0.1.30
 - 0.1.31
 - 0.4.0
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

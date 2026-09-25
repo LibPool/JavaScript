@@ -1,0 +1,25 @@
+# @liyunbo/vue-cli-plugin-yy-test
+
+> 标签: JavaScript
+
+## 简介
+
+my demo test vue-cli
+
+## 官网
+
+- 源码仓库：https://gitee.com/LiYumYun/react-ts-cli.git
+- npm 页面：https://www.npmjs.com/package/@liyunbo/vue-cli-plugin-yy-test
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @liyunbo/vue-cli-plugin-yy-test`
+- npm registry：https://registry.npmjs.org/@liyunbo/vue-cli-plugin-yy-test

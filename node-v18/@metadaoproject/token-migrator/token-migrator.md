@@ -1,0 +1,29 @@
+# @metadaoproject/token-migrator
+
+> 标签: JavaScript
+
+## 简介
+
+@metadaoproject/token-migrator - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@metadaoproject/token-migrator
+
+## 历史版本号
+
+- 当前版本：0.1.0-alpha.7
+
+- 0.1.0-alpha.0
+- 0.1.0-alpha.1
+- 0.1.0-alpha.2
+- 0.1.0-alpha.3
+- 0.1.0-alpha.4
+- 0.1.0-alpha.5
+- 0.1.0-alpha.6
+- 0.1.0-alpha.7
+
+## 获取地址
+
+- npm 安装：`npm install @metadaoproject/token-migrator`
+- npm registry：https://registry.npmjs.org/@metadaoproject/token-migrator

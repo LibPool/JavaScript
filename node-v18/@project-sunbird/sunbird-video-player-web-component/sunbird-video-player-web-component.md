@@ -27,7 +27,6 @@ The web component package for the sunbird video player
 - 2.2.0
 - 2.3.0
 - 2.3.1
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

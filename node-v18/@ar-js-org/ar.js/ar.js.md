@@ -28,7 +28,6 @@ Efficient Augmented Reality for the Web
 - 3.4.6
 - 3.4.7
 - 3.4.8
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

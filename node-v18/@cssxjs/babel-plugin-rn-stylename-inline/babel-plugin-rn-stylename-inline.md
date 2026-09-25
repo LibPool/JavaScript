@@ -28,7 +28,6 @@ Use styleName attributes with inline css and styl template strings
 - 0.4.0-alpha.4
 - 0.4.0-alpha.5
 - 0.4.0-alpha.6
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

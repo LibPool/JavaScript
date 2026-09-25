@@ -28,7 +28,6 @@ TypeScript definitions for expect.js
 - 0.3.30
 - 0.3.31
 - 0.3.32
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

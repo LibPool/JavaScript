@@ -28,7 +28,6 @@ Webpack plugin for generating HTML
 - 2.3.2
 - 2.4.0
 - 2.5.0
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

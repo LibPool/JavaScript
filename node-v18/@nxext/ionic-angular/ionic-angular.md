@@ -28,7 +28,6 @@ An Nx plugin for developing Ionic Angular applications
 - 20.1.1
 - 21.0.0
 - 23.0.0
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

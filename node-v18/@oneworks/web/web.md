@@ -28,7 +28,6 @@ One Works integrated web app
 - 1.0.0-rc.3
 - 1.0.0-rc.4
 - 1.0.0-rc.5
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

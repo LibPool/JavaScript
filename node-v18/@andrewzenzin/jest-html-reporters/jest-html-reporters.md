@@ -28,7 +28,6 @@ Jest test results processor for generating a summary in HTML
 - 3.2.0
 - 3.2.1
 - 3.2.2
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

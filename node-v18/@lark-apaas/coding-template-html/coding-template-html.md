@@ -27,7 +27,6 @@ Miaoda HTML template — single-file index.html, dev/build via @lark-apaas/codin
 - 0.1.8
 - 0.1.9
 - 0.1.9-beta.0
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

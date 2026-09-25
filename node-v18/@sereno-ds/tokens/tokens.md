@@ -28,7 +28,6 @@ Sereno Design System — the token layer (CSS custom properties, light × dark).
 - 0.30.0
 - 0.30.1
 - 0.31.0
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

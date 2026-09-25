@@ -15,9 +15,9 @@ Axiom Lattice Web is the frontend web application for the Axiom Lattice AI agent
 
 - 当前版本：0.1.105
 
+- 0.1.87
 - 0.1.88
 - 0.1.89
-- 0.1.9
 - 0.1.90
 - 0.1.91
 - 0.1.92

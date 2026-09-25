@@ -28,7 +28,6 @@ React component for embedding PDF documents
 - 2.8.0
 - 2.9.0
 - 2.9.1
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

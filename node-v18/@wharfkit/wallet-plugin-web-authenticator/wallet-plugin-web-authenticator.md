@@ -27,7 +27,6 @@ A Web Authenticator wallet plugin for use with @wharfkit/session.
 - 4.0.0-rc5
 - 4.0.0-rc6
 - 4.0.0-rc7
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

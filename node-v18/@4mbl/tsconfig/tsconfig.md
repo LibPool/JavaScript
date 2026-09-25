@@ -16,16 +16,16 @@ Strict TypeScript configuration for various environments.
 
 - 当前版本：4.4.0
 
-- 4.0.1
-- 4.1.0
-- 4.1.1
-- 4.1.2
-- 4.1.3
-- 4.2.0
-- 4.3.0
-- 4.4.0
-- 5.0.0-beta.0
-- 5.0.0-beta.1
+- 0.0.0-alpha.cd19ade
+- 0.0.0-alpha.d2b0242
+- 0.0.0-alpha.d37ad78
+- 0.0.0-alpha.dcfb4b0
+- 0.0.0-alpha.e076084
+- 0.0.0-alpha.e676d07
+- 0.0.0-alpha.f48a223
+- 0.0.0-alpha.f95bc32
+- 0.0.0-alpha.fe250ba
+- 0.0.0-alpha.fec850c
 - 5.0.0-beta.2
 - 5.0.0-beta.3
 - 共 311 个版本，完整清单见 npm registry。

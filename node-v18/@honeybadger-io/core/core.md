@@ -28,7 +28,6 @@ JavaScript error notifier for Honeybadger.io
 - 6.7.1
 - 6.7.2
 - 6.9.0
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

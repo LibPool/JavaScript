@@ -28,7 +28,6 @@ Node-API bindings for embedding the aube package manager
 - 2.2.2
 - 2.2.3
 - 2.2.4
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

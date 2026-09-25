@@ -1,0 +1,26 @@
+# @schema-gen/core-win32-x64-msvc
+
+> 标签: codegen, openapi, react-query, swagger, tanstack-query, typescript, vue-query
+
+## 简介
+
+High-performance OpenAPI to TypeScript/React Query/Vue Query code generation
+
+## 官网
+
+- 官网：https://github.com/gkweb/schema-gen#readme
+- 源码仓库：git+https://github.com/gkweb/schema-gen.git
+- npm 页面：https://www.npmjs.com/package/@schema-gen/core-win32-x64-msvc
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.1.0
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @schema-gen/core-win32-x64-msvc`
+- npm registry：https://registry.npmjs.org/@schema-gen/core-win32-x64-msvc
+- Node 要求：>=18.0.0

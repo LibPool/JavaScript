@@ -27,7 +27,6 @@ Lightweight atomic CSS engine for smbls
 - 3.14.770
 - 3.14.8
 - 3.14.9
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

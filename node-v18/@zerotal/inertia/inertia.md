@@ -28,7 +28,6 @@ Inertia.js adapter for Zerotal — server-driven React/Vue single-page apps.
 - 1.8.0
 - 1.8.1
 - 1.9.0
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -1,0 +1,25 @@
+# @mathewparet/vue-common-filters
+
+> 标签: JavaScript
+
+## 简介
+
+A Vue.js set of common filters
+
+## 官网
+
+- 官网：https://github.com/mathewparet/vue-common-filters#readme
+- 源码仓库：git+https://github.com/mathewparet/vue-common-filters.git
+- npm 页面：https://www.npmjs.com/package/@mathewparet/vue-common-filters
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.2
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @mathewparet/vue-common-filters`
+- npm registry：https://registry.npmjs.org/@mathewparet/vue-common-filters

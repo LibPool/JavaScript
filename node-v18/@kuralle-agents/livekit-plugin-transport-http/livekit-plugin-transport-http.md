@@ -28,7 +28,6 @@ HTTP/SSE transport adapter for LiveKit Agents. Run text chatbots and voice agent
 - 0.8.0
 - 0.8.5
 - 0.9.0
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

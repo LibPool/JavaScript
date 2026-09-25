@@ -28,7 +28,6 @@ Devtools hook for Master CSS
 - 2.0.0-rc.69
 - 2.0.0-rc.70
 - 2.0.0-rc.71
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

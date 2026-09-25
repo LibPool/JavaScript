@@ -16,19 +16,19 @@ Spectrum UI components in React
 
 - 当前版本：3.4.0
 
-- 3.3.8-nightly.4595
-- 3.3.9
-- 3.3.9-nightly.4609
-- 3.3.9-nightly.4611
-- 3.3.9-nightly.4613
-- 3.3.9-nightly.4615
-- 3.3.9-nightly.4618
-- 3.3.9-nightly.4619
-- 3.3.9-nightly.4620
-- 3.3.9-nightly.4623
-- 3.3.9-nightly.4624
-- 3.4.0
-- 共 1362 个版本，完整清单见 npm registry。
+- 3.0.0-nightly-b14cbd543-260713
+- 3.0.0-nightly-be5bcc375-260917
+- 3.0.0-nightly-c1d8023d1-260723
+- 3.0.0-nightly-cce1ec97a-260721
+- 3.0.0-nightly-cffc2e81d-260728
+- 3.0.0-nightly-d038f4615-260801
+- 3.0.0-nightly-d038f4615-260802
+- 3.0.0-nightly-d038f4615-260803
+- 3.0.0-nightly-d1c8b1edd-260716
+- 3.0.0-nightly-d7e8e74e2-260908
+- 3.0.0-nightly-d7e8e74e2-260909
+- 3.0.0-nightly-dd1026ce2-260810
+- 共 1,362 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

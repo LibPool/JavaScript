@@ -28,7 +28,6 @@ Tailwind CSS v4 plugin for Vesk
 - 0.2.36
 - 0.2.8
 - 0.2.9
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

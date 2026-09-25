@@ -28,7 +28,6 @@ web-ai-sdk: the TypeScript SDK for the Web AI surface. One install for the promp
 - 0.9.4
 - 0.9.5
 - 0.9.6
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

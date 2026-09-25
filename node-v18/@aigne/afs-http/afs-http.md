@@ -28,7 +28,6 @@ AIGNE AFS HTTP transport provider for remote AFS access
 - 1.12.0-beta.7
 - 2.0.0-beta.12
 - 2.0.0-beta.15
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

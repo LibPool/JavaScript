@@ -28,7 +28,6 @@ Web-types for quasar-framework
 - 0.17.9-1
 - 0.17.9-2
 - 0.17.9-3
-- 共 44 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

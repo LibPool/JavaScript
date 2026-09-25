@@ -28,7 +28,6 @@ Maintained Vue multiselect dropdown with Vue 2 and Vue 3 release lines, accessib
 - 3.1.3
 - 3.1.4
 - 3.1.5
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

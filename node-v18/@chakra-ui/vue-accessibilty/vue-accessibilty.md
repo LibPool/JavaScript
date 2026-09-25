@@ -16,9 +16,9 @@ Chakra UI Vue | Accessibility composables for chakra ui vue component
 
 - 当前版本：2.0.0-beta.2
 
+- 0.0.0-dev-20230520113449
 - 0.0.0-dev-20230520114847
 - 0.0.0-dev-20230603114816
-- 2.0.0-beta.2
 - 2.1.0-beta.1
 - 2.1.0-beta.10
 - 2.1.0-beta.11

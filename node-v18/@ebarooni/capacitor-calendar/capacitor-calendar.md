@@ -28,7 +28,6 @@ A Capacitor plugin for managing calendar events on iOS, Android, and the web, wi
 - 8.5.0
 - 8.6.0
 - 8.7.0
-- 共 49 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

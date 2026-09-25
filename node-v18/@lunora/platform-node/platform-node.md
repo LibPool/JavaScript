@@ -15,8 +15,10 @@ OIDC trusted publishing setup package for @lunora/platform-node
 
 - 当前版本：0.0.0
 
+- 1.0.0-alpha.66
+- 1.0.0-alpha.67
+- 1.0.0-alpha.68
 - 1.0.0-alpha.69
-- 1.0.0-alpha.7
 - 1.0.0-alpha.70
 - 1.0.0-alpha.71
 - 1.0.0-alpha.72
@@ -25,8 +27,6 @@ OIDC trusted publishing setup package for @lunora/platform-node
 - 1.0.0-alpha.75
 - 1.0.0-alpha.76
 - 1.0.0-alpha.77
-- 1.0.0-alpha.8
-- 1.0.0-alpha.9
 - 共 78 个版本，完整清单见 npm registry。
 
 ## 获取地址

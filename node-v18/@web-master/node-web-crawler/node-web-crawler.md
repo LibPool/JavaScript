@@ -28,7 +28,6 @@ Crawl web as easy as possible
 - 0.7.1
 - 0.8.0
 - 0.9.0
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

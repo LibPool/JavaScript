@@ -16,10 +16,10 @@ React library to show CSV Excel Importer in react applications
 
 - 当前版本：1.10.0
 
-- 0.7.0
-- 0.7.1
-- 0.7.2
-- 0.8.0
+- 0.27.4
+- 0.27.5
+- 0.28.0
+- 0.29.0
 - 0.9.0
 - 0.9.1
 - 0.9.2

@@ -28,7 +28,6 @@ Segment Node Plugin for Iteratively SDK
 - 2.3.3
 - 2.3.4
 - 2.4.0
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

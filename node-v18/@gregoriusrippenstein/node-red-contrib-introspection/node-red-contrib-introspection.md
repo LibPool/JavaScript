@@ -16,12 +16,12 @@ Node-RED Editor-only nodes for introspecting with flows in the frontend.
 
 - 当前版本：0.16.0
 
+- 0.9.15
+- 0.9.16
 - 0.9.17
 - 0.9.18
 - 0.9.19
-- 0.9.2
 - 0.9.20
-- 0.9.3
 - 0.9.4
 - 0.9.5
 - 0.9.6

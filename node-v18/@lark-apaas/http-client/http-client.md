@@ -27,7 +27,6 @@ HTTP client with Axios-style interceptors, built on native fetch API
 - 0.1.7-alpha.8
 - 0.1.7-alpha.9
 - 0.1.7-beta.0
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

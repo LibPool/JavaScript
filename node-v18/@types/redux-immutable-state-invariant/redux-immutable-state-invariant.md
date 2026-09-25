@@ -28,7 +28,6 @@ TypeScript definitions for redux-immutable-state-invariant
 - 2.1.2
 - 2.1.3
 - 2.1.4
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

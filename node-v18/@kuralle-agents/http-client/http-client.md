@@ -28,7 +28,6 @@ Generic HTTP client with exponential-backoff retry, token-bucket rate limiting, 
 - 0.8.0
 - 0.8.5
 - 0.9.0
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

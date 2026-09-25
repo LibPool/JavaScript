@@ -28,7 +28,6 @@ Keep the screen from going to sleep. iOS, Android and Web.
 - 1.3.1
 - 1.4.0
 - 2.0.0
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

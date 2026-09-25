@@ -28,7 +28,6 @@ CKEditor4 editor for HTML fields
 - 0.2.5
 - 0.2.6
 - 0.2.7
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Lets you bind to a CSS media query
 - 3.0.0-pre.7
 - 3.0.0-pre.8
 - 3.0.1
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

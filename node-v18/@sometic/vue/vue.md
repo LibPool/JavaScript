@@ -28,7 +28,6 @@ Native Vue adapters and components powered by the Sometic framework-independent 
 - 1.2.5
 - 1.2.6
 - 1.2.7
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

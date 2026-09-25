@@ -27,7 +27,6 @@ Self-sustaining server runner for Symbols projects from JSON. Renders DOMQL proj
 - 3.14.709
 - 3.14.8
 - 3.14.9
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Sky UI Ultra Vue wrappers — run npx sky.ui.ultra install after npm install.
 - 0.0.57
 - 0.0.58
 - 0.0.59
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

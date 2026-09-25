@@ -15,18 +15,18 @@ HTTP fetch flow for SkynetXBT framework
 
 - 当前版本：1.0.34
 
-- 1.0.6
-- 1.0.7
-- 1.0.7-alpha.0
-- 1.0.7-alpha.1
-- 1.0.7-alpha.2
-- 1.0.8
-- 1.0.8-alpha.0
-- 1.0.8-alpha.1
-- 1.0.8-alpha.2
-- 1.0.8-alpha.3
-- 1.0.9
-- 1.0.9-alpha.0
+- 1.0.33-alpha.5
+- 1.0.33-alpha.6
+- 1.0.33-alpha.7
+- 1.0.33-alpha.8
+- 1.0.33-alpha.9
+- 1.0.34
+- 1.0.34-alpha.0
+- 1.0.34-alpha.1
+- 1.0.34-alpha.2
+- 1.0.34-alpha.3
+- 1.0.35-alpha.0
+- 1.0.35-alpha.1
 - 共 131 个版本，完整清单见 npm registry。
 
 ## 获取地址

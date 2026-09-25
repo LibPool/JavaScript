@@ -28,7 +28,6 @@ useSlider - React Native Aria
 - 0.2.8-alpha.0
 - 0.2.8-alpha.1
 - 0.2.9
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

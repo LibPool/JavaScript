@@ -16,7 +16,7 @@ Connect DNN / DotNetNuke and 2sxc to Angular 6-11 and probably newer as well
 
 - 当前版本：11.1.99
 
-- 6.0.4
+- 11.1.99-beta.1
 - 6.0.5
 - 6.0.6
 - 6.0.7

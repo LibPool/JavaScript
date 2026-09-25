@@ -16,8 +16,8 @@ A React primitive for building slim progress bars.
 
 - 当前版本：7.1.3
 
-- 5.0.8
-- 5.0.9
+- 5.0.62
+- 5.0.63
 - 6.0.0
 - 6.0.1
 - 6.0.2

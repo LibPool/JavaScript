@@ -16,8 +16,8 @@ HTTP webhook trigger plugin for tagma-sdk pipelines
 
 - 当前版本：0.2.99
 
+- 0.2.88
 - 0.2.89
-- 0.2.9
 - 0.2.90
 - 0.2.91
 - 0.2.92

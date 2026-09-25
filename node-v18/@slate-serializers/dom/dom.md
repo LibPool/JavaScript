@@ -28,7 +28,6 @@ Serialize Slate JSON objects to the DOM. Can be used with `htmlparser2` and asso
 - 2.5.4
 - 2.5.5
 - 2.6.0
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

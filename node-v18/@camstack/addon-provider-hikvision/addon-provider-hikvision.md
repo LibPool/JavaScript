@@ -16,9 +16,9 @@ Hikvision camera device provider addon for CamStack — ISAPI over HTTP(S) with 
 
 - 当前版本：1.2.124
 
+- 1.2.87
 - 1.2.88
 - 1.2.89
-- 1.2.9
 - 1.2.90
 - 1.2.91
 - 1.2.92

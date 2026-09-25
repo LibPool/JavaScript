@@ -28,7 +28,6 @@ A simple responsive native gallery component for Angular 8+ and 13+.
 - 1.2.4
 - 2.0.0
 - 2.0.1
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

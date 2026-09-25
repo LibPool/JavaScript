@@ -1,0 +1,26 @@
+# @sitnikov/tab-sync
+
+> 标签: JavaScript
+
+## 简介
+
+Browser tab synchronization system using SharedWorkers for coordinating multiple tabs
+
+## 官网
+
+- 官网：https://github.com/yusitnikov/websocket-mcp/tree/main/packages/tab-sync
+- 源码仓库：git+https://github.com/yusitnikov/websocket-mcp.git
+- npm 页面：https://www.npmjs.com/package/@sitnikov/tab-sync
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @sitnikov/tab-sync`
+- npm registry：https://registry.npmjs.org/@sitnikov/tab-sync

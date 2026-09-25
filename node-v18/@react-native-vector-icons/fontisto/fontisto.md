@@ -28,7 +28,6 @@ Fontisto font for react native vector icons
 - 3.0.4-alpha.7
 - 3.0.4-alpha.8
 - 3.0.4-alpha.9
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

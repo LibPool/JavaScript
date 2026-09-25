@@ -28,7 +28,6 @@ TypeScript definitions for hammerjs
 - 2.0.44
 - 2.0.45
 - 2.0.46
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

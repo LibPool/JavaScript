@@ -28,7 +28,6 @@ TypeScript definitions for requirejs
 - 2.1.35
 - 2.1.36
 - 2.1.37
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

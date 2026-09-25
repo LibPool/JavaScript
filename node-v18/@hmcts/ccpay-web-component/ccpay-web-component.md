@@ -28,7 +28,7 @@ Angular web component for displaying payments returned from ccpay api
 - 6.5.7-cme-779-prerelease
 - 6.5.9-cme-779-prerelease
 - 6.6.1-beta1
-- 共 1360 个版本，完整清单见 npm registry。
+- 共 1,360 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

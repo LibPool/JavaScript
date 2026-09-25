@@ -15,12 +15,12 @@ HTTP API client service for OwlMeans client contexts — carries entrypoint call
 
 - 当前版本：0.1.18-rc.12
 
+- 0.1.18-rc.4
+- 0.1.18-rc.5
 - 0.1.18-rc.6
 - 0.1.18-rc.7
 - 0.1.18-rc.8
 - 0.1.18-rc.9
-- 0.1.2
-- 0.1.3
 - 0.1.4
 - 0.1.5
 - 0.1.6

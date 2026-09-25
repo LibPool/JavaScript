@@ -28,7 +28,6 @@ Material Tailwind is an open-source library that uses the power of Tailwind CSS 
 - 3.0.0-beta.5
 - 3.0.0-beta.6
 - 3.0.0-beta.7
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

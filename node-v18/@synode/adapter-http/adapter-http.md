@@ -28,7 +28,6 @@ HTTP adapter for Synode
 - 5.0.9
 - 6.0.0
 - 6.0.1
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

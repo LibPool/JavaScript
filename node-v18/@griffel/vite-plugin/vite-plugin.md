@@ -28,7 +28,6 @@ Vite plugin that performs CSS extraction for Griffel
 - 0.1.8
 - 0.1.9
 - 1.0.0
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Query TypeScript ASTs with the esquery API!
 - 6.1.3
 - 6.1.4
 - 6.2.0
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

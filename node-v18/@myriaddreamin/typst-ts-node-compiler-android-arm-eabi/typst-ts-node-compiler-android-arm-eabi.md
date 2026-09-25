@@ -28,7 +28,6 @@ Compile or Render Typst documents in Node environment.
 - 0.8.0-rc1
 - 0.8.0-rc2
 - 0.8.0-rc3
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

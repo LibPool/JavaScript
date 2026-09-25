@@ -28,7 +28,6 @@ Node binding for rspack
 - 2.2.5
 - 2.2.6
 - 2.2.7
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

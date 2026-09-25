@@ -27,7 +27,6 @@ This plugin contains a CSS file to help build the UI for Penpot plugins.
 - 1.4.1
 - 1.4.2
 - 1.5.0
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

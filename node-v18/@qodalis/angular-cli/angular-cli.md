@@ -28,7 +28,6 @@ Angular wrapper for the @qodalis CLI terminal engine.
 - 2.0.0-beta.7
 - 2.0.0-beta.8
 - 2.0.0-beta.9
-- 共 49 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ A Hilla TypeScript Generator plugin to support JsonSubTypes
 - 2.5.6
 - 2.5.7
 - 2.5.8
-- 共 49 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ A simple TypeScript starter kit using Bun.
 - 0.5.4
 - 0.5.5
 - 0.5.6
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

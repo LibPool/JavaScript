@@ -16,9 +16,9 @@ Javascript Helpers for working with the Ghost [Content API](https://ghost.org/do
 
 - 当前版本：1.1.108
 
+- 1.1.87
 - 1.1.88
 - 1.1.89
-- 1.1.9
 - 1.1.90
 - 1.1.91
 - 1.1.92

@@ -28,7 +28,6 @@ node-av (linux-x64 binary)
 - 6.2.0-beta.23-revizly1
 - 6.2.0-beta.3-revizly1
 - 6.2.0-beta.7-revizly1
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

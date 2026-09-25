@@ -28,7 +28,6 @@ Spotify's ESLint config for React projects
 - 9.0.2
 - 9.0.3-dev.14
 - 9.0.3-rc.18
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

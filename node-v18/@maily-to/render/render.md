@@ -28,7 +28,6 @@ A transformer that converts Maily content into HTML email templates.
 - 2.0.0-beta.1
 - 2.0.0-beta.6
 - 2.0.0-beta.7
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

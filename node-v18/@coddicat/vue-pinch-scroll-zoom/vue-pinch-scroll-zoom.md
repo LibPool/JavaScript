@@ -28,7 +28,6 @@ Vue component enabling scroll and zoom functionalities for content, leveraging m
 - 4.6.0
 - 4.7.0
 - 4.7.1
-- 共 49 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

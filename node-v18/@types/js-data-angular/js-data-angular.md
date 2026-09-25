@@ -28,7 +28,6 @@ TypeScript definitions for js-data-angular
 - 2.1.33
 - 2.1.34
 - 2.1.35
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

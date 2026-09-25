@@ -28,7 +28,6 @@ Harness React Chaos Load Manager Service Client - APIs integrated with react hoo
 - 0.9.2
 - 0.9.3
 - 0.9.4
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

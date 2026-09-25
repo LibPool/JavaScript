@@ -28,7 +28,6 @@ React utilities and helpers for Chakra UI
 - 2.1.1
 - 2.2.0
 - 2.2.1
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

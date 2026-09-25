@@ -28,7 +28,6 @@ dependency injection for javascript
 - 2.0.0-alpha.6
 - 2.0.0-alpha.7
 - 2.0.0-alpha.8
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

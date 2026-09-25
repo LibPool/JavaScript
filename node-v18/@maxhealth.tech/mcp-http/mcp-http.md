@@ -28,7 +28,6 @@ OAuth, CORS and observability layer for MCP HTTP servers on edge runtimes, built
 - 0.4.1
 - 0.5.0
 - 0.6.0
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

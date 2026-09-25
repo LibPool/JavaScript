@@ -28,7 +28,6 @@ forward your HTTP request to another server, for fastify
 - 9.6.0
 - 9.7.0
 - 9.8.0
-- 共 44 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

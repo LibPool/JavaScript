@@ -28,7 +28,6 @@ Slack Socket Mode Node for n8n that allows you to use +100 Slack events in your 
 - 1.6.2
 - 1.7.0
 - 1.7.1
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

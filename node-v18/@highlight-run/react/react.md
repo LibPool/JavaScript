@@ -16,7 +16,7 @@ The official Highlight SDK for React
 
 - 当前版本：21.0.0
 
-- 6.0.4
+- 21.0.0
 - 7.0.0
 - 7.0.1
 - 7.0.2

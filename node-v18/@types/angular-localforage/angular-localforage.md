@@ -28,7 +28,6 @@ TypeScript definitions for angular-localforage
 - 1.2.39
 - 1.2.40
 - 1.2.41
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

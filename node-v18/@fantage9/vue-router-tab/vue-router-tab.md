@@ -28,7 +28,6 @@ Vue.js tab components for Vue 3.0+ & Vue Router 4.0+, based on Vue Router
 - 0.9.7
 - 0.9.8
 - 0.9.9
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

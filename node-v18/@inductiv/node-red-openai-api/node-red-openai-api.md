@@ -28,7 +28,6 @@ Enhance your Node-RED projects with advanced AI capabilities.
 - 6.37.0
 - 6.39.1
 - 6.40.0
-- 共 45 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

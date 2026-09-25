@@ -28,7 +28,6 @@ OpenClaw Parallel web search plugin.
 - 2026.9.3
 - 2026.9.4
 - 2026.9.5
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

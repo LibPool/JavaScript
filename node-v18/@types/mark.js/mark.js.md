@@ -28,7 +28,6 @@ TypeScript definitions for mark.js
 - 8.11.7
 - 8.11.8
 - 8.11.9
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

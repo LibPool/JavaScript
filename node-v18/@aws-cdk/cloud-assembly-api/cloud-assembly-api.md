@@ -28,7 +28,6 @@ API for working with Cloud Assemblies
 - 2.2.6
 - 2.3.0
 - 2.4.0
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

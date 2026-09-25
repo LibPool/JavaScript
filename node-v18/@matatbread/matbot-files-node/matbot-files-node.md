@@ -28,7 +28,6 @@ Node filesystem-backed FileStore for MIME-typed blobs, served by the frontend.
 - 0.4.5
 - 0.4.6
 - 0.4.7
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

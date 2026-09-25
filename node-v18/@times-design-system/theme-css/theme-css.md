@@ -28,7 +28,6 @@ Times Design System theme package - pre-resolved color tokens for CSS
 - 2.6.1-alpha.6
 - 2.7.2-alpha.0
 - 2.7.2-alpha.1
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

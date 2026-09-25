@@ -28,7 +28,6 @@ Node JS library for Supermailer.
 - 5.0.0
 - 5.0.1
 - 5.0.2
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

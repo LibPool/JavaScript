@@ -28,7 +28,6 @@ Host-page bridge for SignalX apps on web — clipboard/share/linking/picker hand
 - 0.29.0
 - 0.30.0
 - 0.31.0
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

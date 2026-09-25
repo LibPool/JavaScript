@@ -28,7 +28,6 @@ HTTP client for Nest framework, inspired by HTTP interface in Spring 6
 - 1.2.0
 - 1.3.0
 - 1.3.1
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -1,0 +1,28 @@
+# @merq/packeta
+
+> 标签: packeta, vue
+
+## 简介
+
+Packeta plugin for merq.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@merq/packeta
+
+## 历史版本号
+
+- 当前版本：0.0.10
+
+- 0.0.1
+- 0.0.10
+- 0.0.4
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @merq/packeta`
+- npm registry：https://registry.npmjs.org/@merq/packeta

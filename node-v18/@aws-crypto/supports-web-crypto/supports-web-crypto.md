@@ -28,7 +28,6 @@ Provides functions for detecting if the host environment supports the WebCrypto 
 - 5.0.0
 - 5.1.0
 - 5.2.0
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

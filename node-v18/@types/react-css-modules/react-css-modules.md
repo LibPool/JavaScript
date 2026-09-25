@@ -28,7 +28,6 @@ TypeScript definitions for react-css-modules
 - 4.6.6
 - 4.6.7
 - 4.6.8
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Core module exporting shared interfaces, AST node definitions, and common utilit
 - 0.9.5
 - 0.9.6
 - 0.9.7
-- 共 42 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

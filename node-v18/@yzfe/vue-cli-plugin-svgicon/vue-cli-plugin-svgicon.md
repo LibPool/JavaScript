@@ -27,7 +27,6 @@ vue-cli plugin to add @yzfe/svgicon-loader config
 - 1.3.1-alpha.2
 - 1.3.2
 - 1.3.3
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

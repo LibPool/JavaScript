@@ -16,9 +16,9 @@ Web Inspired Layout
 
 - 当前版本：1.0.0-alpha.0
 
+- 1.0.0-beta.87
 - 1.0.0-beta.88
 - 1.0.0-beta.89
-- 1.0.0-beta.9
 - 1.0.0-beta.90
 - 1.0.0-beta.91
 - 1.0.0-beta.92

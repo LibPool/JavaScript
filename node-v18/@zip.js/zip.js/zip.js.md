@@ -16,17 +16,17 @@ A JavaScript library to zip and unzip files in the browser, Deno and Node.js
 
 - 当前版本：2.17.0
 
+- 2.8.51
+- 2.8.52
+- 2.8.53
+- 2.8.54
 - 2.8.55
 - 2.8.56
 - 2.8.57
 - 2.8.58
 - 2.8.59
-- 2.8.6
 - 2.8.60
 - 2.8.61
-- 2.8.7
-- 2.8.8
-- 2.8.9
 - 2.9.0
 - 共 370 个版本，完整清单见 npm registry。
 

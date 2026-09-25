@@ -28,7 +28,6 @@ Official React Native component for Font Awesome
 - 0.3.2
 - 1.0.0
 - 1.0.0-alpha.1
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

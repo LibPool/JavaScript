@@ -28,7 +28,6 @@ ContractCase core HTTP plugin, providing HTTP matchers and mocks
 - 0.31.0
 - 0.31.1
 - 0.31.2
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

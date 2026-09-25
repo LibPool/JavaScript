@@ -28,7 +28,6 @@ TypeScript definitions for ace
 - 0.0.50
 - 0.0.51
 - 0.0.52
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -27,7 +27,6 @@ Reusable 3D conceptual atlas Web Component for LiquidCars-style models
 - 0.1.45
 - 0.1.46
 - 0.1.47
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

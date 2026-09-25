@@ -27,7 +27,6 @@ The SpreeAI Web SDK is a JavaScript library that simplifies the integration of S
 - 2.1.0
 - 3.0.0
 - 3.0.0-rc.0
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

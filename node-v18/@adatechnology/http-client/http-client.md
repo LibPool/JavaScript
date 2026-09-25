@@ -27,7 +27,6 @@ HTTP client with retry, timeout, and automatic tracing headers via @adatechnolog
 - 1.0.0
 - 1.0.0-rc.0
 - 1.0.0-rc.1
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Angular Webpack Build Facade (with updated dependencies)
 - 22.1.8-depup.2
 - 22.1.8-depup.3
 - 22.1.8-depup.4
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

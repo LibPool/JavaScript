@@ -16,19 +16,19 @@ The Node Plugin for Nx contains generators and executors to manage Node applicat
 
 - 当前版本：19.8.4
 
-- 9.6.0-beta.2
-- 9.6.0-beta.3
-- 9.6.0-beta.4
-- 9.7.0
-- 9.7.0-beta.0
-- 9.7.0-beta.1
-- 9.7.1
-- 9.7.1-beta.0
-- 9.7.1-beta.1
-- 9.8.0
-- 999.9.9
-- 9999.0.0
-- 共 1653 个版本，完整清单见 npm registry。
+- 19.8.7
+- 19.8.8
+- 19.8.9
+- 19.9.0-canary.20240921-a510b36
+- 20.0.0-beta.0
+- 20.0.0-beta.1
+- 20.0.0-beta.2
+- 20.0.0-beta.3
+- 20.0.0-beta.4
+- 20.0.0-canary.20240924-3e1a879
+- 20.0.0-canary.20240925-6182d20
+- 20.0.0-canary.20240926-529ab94
+- 共 1,653 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

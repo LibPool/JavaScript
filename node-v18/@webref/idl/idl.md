@@ -16,6 +16,7 @@ Web IDL definitions of the web platform
 
 - 当前版本：3.84.0
 
+- 3.79.0
 - 3.80.0
 - 3.81.0
 - 3.81.1
@@ -27,7 +28,6 @@ Web IDL definitions of the web platform
 - 3.83.0
 - 3.83.1
 - 3.84.0
-- 3.9.0
 - 共 262 个版本，完整清单见 npm registry。
 
 ## 获取地址

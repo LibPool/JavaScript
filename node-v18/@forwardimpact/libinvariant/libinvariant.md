@@ -1,0 +1,26 @@
+# @forwardimpact/libinvariant
+
+> 标签: agent, checklist, instructions, invariants, jtbd, rules
+
+## 简介
+
+Repository invariant checks — instruction-layer length caps, JTBD block validation, and a declarative rule-module runner over a caller-supplied rules directory.
+
+## 官网
+
+- 官网：https://www.forwardimpact.team
+- 源码仓库：git+https://github.com/forwardimpact/monorepo.git
+- npm 页面：https://www.npmjs.com/package/@forwardimpact/libinvariant
+
+## 历史版本号
+
+- 当前版本：0.2.1
+
+- 0.2.0
+- 0.2.1
+
+## 获取地址
+
+- npm 安装：`npm install @forwardimpact/libinvariant`
+- npm registry：https://registry.npmjs.org/@forwardimpact/libinvariant
+- Node 要求：>=22.0.0

@@ -28,7 +28,6 @@ Convert Slate JSON to HTML and HTML to Slate. Built on htmlparser2 and shared DO
 - 2.5.4
 - 2.5.5
 - 2.6.0
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

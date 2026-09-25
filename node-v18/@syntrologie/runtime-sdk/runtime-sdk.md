@@ -16,18 +16,18 @@ Syntrologie Runtime SDK for web experimentation and analytics
 
 - 当前版本：2.55.1
 
-- 2.8.0-canary.9
-- 2.8.0-canary.90
-- 2.8.0-canary.91
-- 2.8.0-canary.92
-- 2.8.0-canary.93
-- 2.8.0-canary.94
-- 2.8.0-canary.95
-- 2.8.0-canary.96
-- 2.8.0-canary.97
-- 2.8.0-canary.98
-- 2.8.0-canary.99
-- 2.9.0
+- 2.8.0-canary.567
+- 2.8.0-canary.568
+- 2.8.0-canary.569
+- 2.8.0-canary.570
+- 2.8.0-canary.571
+- 2.8.0-canary.572
+- 2.8.0-canary.573
+- 2.8.0-canary.574
+- 2.8.0-canary.575
+- 2.8.0-canary.576
+- 2.8.0-canary.577
+- 2.8.0-canary.578
 - 共 751 个版本，完整清单见 npm registry。
 
 ## 获取地址

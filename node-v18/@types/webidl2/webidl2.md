@@ -28,7 +28,6 @@ TypeScript definitions for webidl2
 - 24.4.2
 - 24.4.3
 - 24.4.4
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

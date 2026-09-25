@@ -28,7 +28,6 @@ TypeScript definitions for jquery.cookie
 - 1.4.34
 - 1.4.35
 - 1.4.36
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

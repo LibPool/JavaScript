@@ -27,7 +27,6 @@ ONDEWO Text 2 Speech (T2S) Client library for Angular
 - 6.6.0
 - 6.6.1
 - 6.6.2
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

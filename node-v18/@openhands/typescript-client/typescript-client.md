@@ -28,7 +28,6 @@ TypeScript client for OpenHands Agent Server
 - 1.49.2
 - 1.49.3
 - 1.49.4
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

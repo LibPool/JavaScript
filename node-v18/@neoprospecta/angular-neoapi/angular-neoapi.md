@@ -28,7 +28,6 @@ Angular NeoAPI
 - 4.1.5
 - 4.1.6
 - 4.1.7
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

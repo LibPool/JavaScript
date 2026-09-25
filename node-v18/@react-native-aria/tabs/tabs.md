@@ -28,7 +28,6 @@ This library is a part of react-native-aria.
 - 0.2.9
 - 0.2.9-alpha.0
 - 0.2.9-alpha.1
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

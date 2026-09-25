@@ -28,7 +28,6 @@ A Web Component wrapper around the H5P Editor and Player
 - 9.3.1
 - 9.3.2
 - 9.3.3
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

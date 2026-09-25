@@ -28,7 +28,6 @@ A xPack with meson + node-api
 - 1.8.0-3
 - 1.9.1-1
 - 1.9.2-1
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

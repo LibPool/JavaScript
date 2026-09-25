@@ -27,7 +27,6 @@ The Cloud API package for use in the Notificare Web SDK.
 - 4.2.0
 - 4.2.1
 - 4.2.2
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ CSS Grid layout components and modifiers for tachUI framework
 - 0.8.33
 - 0.8.5-alpha
 - 0.8.8
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

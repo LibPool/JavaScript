@@ -28,7 +28,6 @@ TypeScript definitions for chai-jquery
 - 1.1.41
 - 1.1.42
 - 1.1.43
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

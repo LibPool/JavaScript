@@ -27,7 +27,6 @@ Prizma Design System — React (web) component library.
 - 0.7.0
 - 0.8.0
 - 0.9.0
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

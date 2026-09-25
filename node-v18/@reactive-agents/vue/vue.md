@@ -27,7 +27,6 @@ Vue composables for Reactive Agents — useAgentStream, useAgent
 - 0.15.0
 - 0.16.0
 - 0.9.0
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

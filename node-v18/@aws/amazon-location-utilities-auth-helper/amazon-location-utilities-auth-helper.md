@@ -28,7 +28,6 @@ Amazon Location Utilities - Authentication Helper for JavaScript
 - 1.3.1
 - 1.3.2
 - 1.3.3
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

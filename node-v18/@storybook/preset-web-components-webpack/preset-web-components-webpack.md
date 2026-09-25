@@ -16,13 +16,13 @@ Storybook for web-components: View web components snippets in isolation with Hot
 
 - 当前版本：7.6.17
 
+- 7.6.22
+- 7.6.23
+- 7.6.24
+- 7.6.6
 - 7.6.7
 - 7.6.8
 - 7.6.9
-- 8.0.0-alpha.0
-- 8.0.0-alpha.1
-- 8.0.0-alpha.2
-- 8.0.0-alpha.3
 - 8.0.0-alpha.4
 - 8.0.0-alpha.5
 - 8.0.0-alpha.6

@@ -1,0 +1,27 @@
+# @huangjs888/amap-proxy
+
+> 标签: amap, amap-proxy, huangjs, huangjs888, proxy
+
+## 简介
+
+在线高德地图，局域网内代理
+
+## 官网
+
+- 官网：https://github.com/huangjs888/amap-proxy#readme
+- 源码仓库：git+https://github.com/huangjs888/amap-proxy.git
+- npm 页面：https://www.npmjs.com/package/@huangjs888/amap-proxy
+
+## 历史版本号
+
+- 当前版本：1.2.1
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.2.1
+
+## 获取地址
+
+- npm 安装：`npm install @huangjs888/amap-proxy`
+- npm registry：https://registry.npmjs.org/@huangjs888/amap-proxy

@@ -27,7 +27,6 @@ See the [official auto-instrumentation documentation](https://segment.com/docs/c
 - 2.4.3
 - 2.4.4
 - 2.4.5
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

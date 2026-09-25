@@ -28,7 +28,6 @@ Combine Node-RED with Signal K data
 - 4.3.0
 - 4.4.0
 - 4.6.0-beta.1
-- 共 48 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

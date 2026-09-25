@@ -28,7 +28,6 @@ Easily integrate Firebase Authentication in your react(or react-native) app.
 - 0.2.7
 - 0.2.8
 - 0.2.9
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

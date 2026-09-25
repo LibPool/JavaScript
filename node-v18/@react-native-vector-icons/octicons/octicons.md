@@ -28,7 +28,6 @@ Octicons font for react native vector icons
 - 21.1.2
 - 21.1.3
 - 21.1.4
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ JavaScript client to interact with the Prismic Custom Types API
 - 2.1.0-alpha.0
 - 2.1.0-canary.8e0332e
 - 2.1.1-alpha.1
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

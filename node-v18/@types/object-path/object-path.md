@@ -28,7 +28,6 @@ TypeScript definitions for object-path
 - 0.9.27
 - 0.9.28
 - 0.9.29
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

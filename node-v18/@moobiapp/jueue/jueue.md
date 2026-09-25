@@ -1,0 +1,24 @@
+# @moobiapp/jueue
+
+> 标签: asynchronous, sequential function, synchronous
+
+## 简介
+
+For proper coding and to run sequential asynchronous function.
+
+## 官网
+
+- 官网：https://github.com/JosephUz/jueue#readme
+- 源码仓库：git+https://github.com/JosephUz/jueue.git
+- npm 页面：https://www.npmjs.com/package/@moobiapp/jueue
+
+## 历史版本号
+
+- 当前版本：1.1.3
+
+- 1.1.3
+
+## 获取地址
+
+- npm 安装：`npm install @moobiapp/jueue`
+- npm registry：https://registry.npmjs.org/@moobiapp/jueue

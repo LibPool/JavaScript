@@ -28,7 +28,6 @@ The perfect solution to HTML render Michelin roadsheet within your Javascript pr
 - 1.4.6
 - 1.4.7
 - 1.4.8
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

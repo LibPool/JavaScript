@@ -28,7 +28,6 @@ Vue 3 components for the tenant-facing side of SaaSiCat: the plan section, the p
 - 1.0.0-rc.7
 - 1.0.0-rc.8
 - 1.0.0-rc.9
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

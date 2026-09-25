@@ -28,7 +28,6 @@ Enhanced pino-http with OpenTelemetry, Loki, file rotation and enterprise featur
 - 1.5.1
 - 1.5.3
 - 1.5.4-alpha.0
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

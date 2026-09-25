@@ -28,7 +28,6 @@ Embed formsort flows in react components
 - 3.5.0
 - 3.6.0
 - 3.6.1
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

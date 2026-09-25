@@ -28,7 +28,6 @@ Implementation of the WCAG 2.1 html techniques
 - 0.4.7
 - 0.4.8
 - 0.4.9
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

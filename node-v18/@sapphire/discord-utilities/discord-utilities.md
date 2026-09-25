@@ -28,7 +28,7 @@ Discord specific utilities for your JavaScript/TypeScript bots
 - 4.1.0-next.d57ec0d7
 - 4.1.0-next.e6d4bac4
 - 4.1.0-next.fff340cc
-- 共 1073 个版本，完整清单见 npm registry。
+- 共 1,073 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

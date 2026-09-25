@@ -28,7 +28,6 @@ TypeScript definitions for imagemagick
 - 0.8.25-alpha
 - 0.8.26-alpha
 - 0.8.27-alpha
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

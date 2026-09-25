@@ -28,7 +28,6 @@ TypeScript definitions for jquery-sortable
 - 0.9.32
 - 0.9.33
 - 0.9.34
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

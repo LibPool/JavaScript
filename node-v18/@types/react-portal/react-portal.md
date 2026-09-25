@@ -28,7 +28,6 @@ TypeScript definitions for react-portal
 - 4.0.5
 - 4.0.6
 - 4.0.7
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

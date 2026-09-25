@@ -28,7 +28,6 @@ podoba design tokens — static DTCG tokens.json + generated CSS custom properti
 - 0.0.7
 - 0.0.8
 - 0.0.9
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

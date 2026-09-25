@@ -28,7 +28,6 @@ Formatter for the JavaScript Oxidation Compiler
 - 0.68.0
 - 0.69.0
 - 0.70.0
-- 共 42 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

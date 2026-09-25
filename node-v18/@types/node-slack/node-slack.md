@@ -28,7 +28,6 @@ TypeScript definitions for node-slack
 - 0.0.32
 - 0.0.33
 - 0.0.34
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

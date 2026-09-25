@@ -27,7 +27,6 @@ LemonadeJS reactive JavaScript calendar plugin
 - 5.9.2
 - 5.9.3
 - 6.0.0-beta.0
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Functions for transforming component props to CSS
 - 1.0.7
 - 1.0.8
 - 1.0.9
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

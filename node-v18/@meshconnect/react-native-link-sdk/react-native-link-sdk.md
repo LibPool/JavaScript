@@ -28,7 +28,6 @@ Mesh Connect React Native SDK.
 - 2.4.6
 - 2.4.7
 - 2.4.8
-- 共 44 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

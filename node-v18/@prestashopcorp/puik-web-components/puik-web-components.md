@@ -28,7 +28,6 @@ PUIK Web-Components library.
 - 2.7.0
 - 2.8.0
 - 2.8.1
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

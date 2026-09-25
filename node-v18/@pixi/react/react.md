@@ -16,11 +16,11 @@ Write PixiJS applications using React declarative style.
 
 - 当前版本：8.0.5
 
+- 8.0.0-dev.9db4138
+- 8.0.0-dev.a80247a
+- 8.0.0-dev.ccd81d6
 - 8.0.0-dev.e0cf4a7
-- 8.0.0-dev.ec3b6aa
 - 8.0.0-dev.f3abf87
-- 8.0.0-dev.f648739
-- 8.0.0-dev.fa3ceb9
 - 8.0.0-dev.fdeaea4
 - 8.0.1
 - 8.0.2

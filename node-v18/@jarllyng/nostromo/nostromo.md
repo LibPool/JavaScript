@@ -28,7 +28,6 @@ Accessible React component library with CSS-first Tailwind v4 theming
 - 3.7.0
 - 3.8.0
 - 3.9.0
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

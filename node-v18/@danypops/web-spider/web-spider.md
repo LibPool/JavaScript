@@ -28,7 +28,6 @@ AI-agent-friendly web spider: structured output, RAG-ready chunks, graph-travers
 - 0.19.0
 - 0.20.0
 - 0.20.1
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

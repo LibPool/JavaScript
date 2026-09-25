@@ -1,0 +1,34 @@
+# @xioo/kafka
+
+> 标签: JavaScript
+
+## 简介
+
+xioo service of kafka
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@xioo/kafka
+
+## 历史版本号
+
+- 当前版本：1.13.12
+
+- 1.12.5
+- 1.12.6
+- 1.12.7
+- 1.13.1
+- 1.13.10
+- 1.13.11
+- 1.13.12
+- 1.13.2
+- 1.13.6
+- 1.13.7
+- 1.13.8
+- 1.13.9
+- 共 88 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @xioo/kafka`
+- npm registry：https://registry.npmjs.org/@xioo/kafka

@@ -28,7 +28,6 @@ web widget
 - 1.0.0-alpha.1
 - 1.0.0-alpha.2
 - 1.0.0-alpha.3
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

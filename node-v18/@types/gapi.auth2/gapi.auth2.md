@@ -28,7 +28,6 @@ TypeScript definitions for gapi.auth2
 - 0.0.59
 - 0.0.60
 - 0.0.61
-- 共 44 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

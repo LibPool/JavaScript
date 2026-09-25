@@ -1,0 +1,30 @@
+# @techstacker/tse-components
+
+> 标签: editor, react, rich-text, slate, slate-plugins
+
+## 简介
+
+Components for slate-editor.
+
+## 官网
+
+- 源码仓库：https://github.com/nossas/slate-editor
+- npm 页面：https://www.npmjs.com/package/@techstacker/tse-components
+
+## 历史版本号
+
+- 当前版本：5.2.13
+
+- 5.2.0-alpha.273b0e7e
+- 5.2.10
+- 5.2.11
+- 5.2.12
+- 5.2.13
+- 5.2.7
+- 5.2.8
+- 5.2.9
+
+## 获取地址
+
+- npm 安装：`npm install @techstacker/tse-components`
+- npm registry：https://registry.npmjs.org/@techstacker/tse-components

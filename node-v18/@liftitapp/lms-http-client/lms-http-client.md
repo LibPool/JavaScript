@@ -16,7 +16,7 @@ Client http library for mf modules
 
 - 当前版本：1.6.0
 
-- 1.2.9
+- 1.2.64
 - 1.3.0
 - 1.4.0
 - 1.4.1

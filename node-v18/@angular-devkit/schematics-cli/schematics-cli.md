@@ -28,7 +28,7 @@ Angular Schematics - CLI
 - 22.2.0-next.6
 - 22.2.0-next.7
 - 22.2.0-rc.0
-- 共 1013 个版本，完整清单见 npm registry。
+- 共 1,013 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

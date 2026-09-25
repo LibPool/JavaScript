@@ -28,7 +28,6 @@ TypeScript definitions for jasmine-node
 - 1.14.34
 - 1.14.35
 - 1.14.36
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

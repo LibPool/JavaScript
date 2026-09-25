@@ -16,6 +16,10 @@ Web Component library for Roadtrip Design System
 
 - 当前版本：3.58.0
 
+- 3.52.0
+- 3.53.0
+- 3.53.1
+- 3.53.2
 - 3.54.0
 - 3.54.1
 - 3.54.2
@@ -24,10 +28,6 @@ Web Component library for Roadtrip Design System
 - 3.56.0
 - 3.57.0
 - 3.58.0
-- 3.6.0
-- 3.7.0
-- 3.8.0
-- 3.9.0
 - 共 196 个版本，完整清单见 npm registry。
 
 ## 获取地址

@@ -28,7 +28,6 @@ HTTP provider for Web3
 - 1.0.1
 - 1.0.2
 - 1.0.3
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

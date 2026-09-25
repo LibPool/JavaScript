@@ -1,0 +1,25 @@
+# @ssis/ssisauth
+
+> 标签: authentication, oauth, oauth2, pkce, ssis
+
+## 简介
+
+OAuth 2.1 Authorization Code + PKCE client library for SSIS
+
+## 官网
+
+- 官网：https://github.com/VincentBarkman/SSISauth#readme
+- 源码仓库：git+https://github.com/VincentBarkman/SSISauth.git
+- npm 页面：https://www.npmjs.com/package/@ssis/ssisauth
+
+## 历史版本号
+
+- 当前版本：2.0.1
+
+- 1.0.0
+- 2.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @ssis/ssisauth`
+- npm registry：https://registry.npmjs.org/@ssis/ssisauth

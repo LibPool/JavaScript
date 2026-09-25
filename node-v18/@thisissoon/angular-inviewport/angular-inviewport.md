@@ -28,7 +28,6 @@ A simple lightweight library for Angular that detects when an element is within 
 - 4.2.0
 - 4.2.1
 - 4.2.2
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

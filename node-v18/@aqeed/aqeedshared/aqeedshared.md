@@ -15,10 +15,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 - 当前版本：3.2.97
 
+- 3.2.86
 - 3.2.87
 - 3.2.88
 - 3.2.89
-- 3.2.9
 - 3.2.90
 - 3.2.91
 - 3.2.92

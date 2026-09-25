@@ -28,7 +28,6 @@ Helper utilities for working with JavaScript objects and arrays
 - 2.3.0
 - 2.3.1
 - 2.3.3
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

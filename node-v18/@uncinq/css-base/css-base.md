@@ -28,7 +28,6 @@ Framework-agnostic CSS foundation — reset, native element styles, and layout p
 - 1.8.0
 - 1.8.1
 - 1.9.0
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

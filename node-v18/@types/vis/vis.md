@@ -28,7 +28,6 @@ TypeScript definitions for vis
 - 4.21.7
 - 4.21.8
 - 4.21.9
-- 共 44 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

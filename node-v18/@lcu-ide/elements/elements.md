@@ -15,12 +15,12 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 
 - 当前版本：0.24.33
 
+- 0.22.28-integration
 - 0.23.29
 - 0.23.30-integration
 - 0.23.31-integration
 - 0.23.32-file-uploader
 - 0.24.33
-- 0.3.538
 - 0.4.542
 - 0.5.547
 - 0.6.553

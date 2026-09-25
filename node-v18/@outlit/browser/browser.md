@@ -16,7 +16,7 @@ Browser tracking SDK for Outlit customer context with React and Vue bindings
 
 - 当前版本：3.0.0
 
-- 1.1.0
+- 0.0.0-canary-202608060230-557ac49-20260806023056
 - 1.2.0
 - 1.3.0
 - 1.4.0

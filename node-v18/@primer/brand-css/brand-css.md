@@ -28,7 +28,7 @@ CSS stylesheets for Primer Brand components
 - 0.76.0-rc.73295f51
 - 0.76.0-rc.b6b9d052
 - 0.77.0-rc.d45b2bb1
-- 共 1046 个版本，完整清单见 npm registry。
+- 共 1,046 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

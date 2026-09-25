@@ -28,7 +28,6 @@ A javascript library to visualize json nicely
 - 2.7.2
 - 2.7.3
 - 2.8.0
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

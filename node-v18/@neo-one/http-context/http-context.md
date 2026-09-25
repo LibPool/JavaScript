@@ -27,7 +27,6 @@ NEO•ONE http context utilities.
 - 3.8.2
 - 3.8.3
 - 3.8.4
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

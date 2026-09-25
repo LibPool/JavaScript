@@ -16,10 +16,10 @@ The hassle-free way to add Segment analytics to your React-Native app.
 
 - 当前版本：2.24.1
 
-- 2.3.1
-- 2.3.2
-- 2.4.0
-- 2.5.0
+- 2.23.0
+- 2.23.0-fix-ios-zero-second-sessions.1
+- 2.24.0
+- 2.24.1
 - 2.5.1
 - 2.6.0
 - 2.7.0

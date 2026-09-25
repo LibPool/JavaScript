@@ -28,7 +28,6 @@ React bindings for Roblox
 - 17.3.7-alpha.1
 - 17.3.7-ts.1
 - 17.3.7-ts.2
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ unixodbc bindings for node
 - 3.0.0-rustalpha.4
 - 3.0.0-rustalpha.5
 - 3.0.0-rustalpha.6
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

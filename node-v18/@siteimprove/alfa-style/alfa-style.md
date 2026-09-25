@@ -28,7 +28,6 @@ An implementation of the CSS style system capable of resolving and computing sty
 - 0.97.0
 - 0.98.0
 - 0.99.0
-- 共 46 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

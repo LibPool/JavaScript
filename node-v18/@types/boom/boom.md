@@ -28,7 +28,6 @@ TypeScript definitions for boom
 - 7.3.3
 - 7.3.4
 - 7.3.5
-- 共 49 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

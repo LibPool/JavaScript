@@ -16,6 +16,7 @@ Silero voice activity detection LiveKit Node Agents
 
 - 当前版本：1.9.0
 
+- 1.5.3
 - 1.5.5
 - 1.6.0
 - 1.6.1
@@ -27,7 +28,6 @@ Silero voice activity detection LiveKit Node Agents
 - 1.8.0
 - 1.8.1
 - 1.9.0
-- 2.0.0
 - 共 117 个版本，完整清单见 npm registry。
 
 ## 获取地址

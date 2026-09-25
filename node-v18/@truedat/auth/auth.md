@@ -27,7 +27,7 @@ Truedat Web Auth
 - 8.8.8
 - 8.9.0
 - 8.9.1
-- 共 1040 个版本，完整清单见 npm registry。
+- 共 1,040 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

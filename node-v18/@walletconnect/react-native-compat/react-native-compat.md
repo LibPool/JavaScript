@@ -16,18 +16,18 @@ Native modules and shims for WalletConnect Protocol in React Native Projects
 
 - 当前版本：2.25.0
 
-- 2.9.1-canary.2
-- 2.9.1-rc-e8b829
-- 2.9.2
-- 2.9.2-canary-02dba62
-- 2.9.2-canary-1
-- 2.9.2-canary-106f387
-- 2.9.2-canary-1ef842bf
-- 2.9.2-canary-9b9f6ce
-- 2.9.2-canary-eb8558a
-- 2.9.2-canary.1
-- 2.9.2-canary.1-1
-- 2.9.2-rc.0
+- 2.23.5-canary.0
+- 2.23.6
+- 2.23.6-canary-exp-1
+- 2.23.7
+- 2.23.7-canary.1
+- 2.23.8
+- 2.23.9
+- 2.23.9-canary-1
+- 2.23.9-canary-2
+- 2.23.9-canary-rc-0
+- 2.24.0
+- 2.25.0
 - 共 517 个版本，完整清单见 npm registry。
 
 ## 获取地址

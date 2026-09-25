@@ -28,7 +28,6 @@ Simple HTTP Client
 - 5.0.1
 - 5.0.2
 - 5.0.3
-- 共 48 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Self-hosted AI chat dashboard for Hermes Agent — multi-model web UI with multi
 - 0.7.7
 - 0.7.8
 - 0.8.0
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

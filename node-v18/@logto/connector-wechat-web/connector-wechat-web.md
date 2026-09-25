@@ -27,7 +27,6 @@ Wechat Web connector implementation.
 - 1.6.4
 - 1.6.5
 - 1.6.6
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

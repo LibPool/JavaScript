@@ -28,7 +28,6 @@ Storybook builder powered by `@web/dev-server`
 - 0.2.6
 - 0.3.0
 - 1.0.0
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

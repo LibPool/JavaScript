@@ -28,7 +28,6 @@ A library of Web Component building blocks
 - 10.2.4
 - 10.2.5
 - 10.3.0
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

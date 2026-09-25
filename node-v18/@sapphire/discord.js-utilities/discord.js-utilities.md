@@ -16,19 +16,19 @@ Discord.js specific utilities for your JavaScript/TypeScript bots
 
 - 当前版本：7.3.3
 
-- 7.3.4-next.da56be56
+- 7.3.4-next.c1299bac
+- 7.3.4-next.ceacefc4
+- 7.3.4-next.d57ec0d7
 - 7.3.4-next.db5e97fc
-- 7.3.4-next.df204ea0
 - 7.3.4-next.df78d6d4
 - 7.3.4-next.e6d4bac4
 - 7.3.4-next.ee9cdb94
 - 7.3.4-next.f3515ea3
 - 7.3.4-next.f5dc58df
 - 7.3.4-next.fb147ec0
-- 7.3.4-next.fb5ad246
 - 7.3.4-next.fff340cc
 - 8.0.0-pr-935.7da5c8bb
-- 共 1175 个版本，完整清单见 npm registry。
+- 共 1,175 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

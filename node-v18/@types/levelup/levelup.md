@@ -28,7 +28,6 @@ TypeScript definitions for levelup
 - 5.1.3
 - 5.1.4
 - 5.1.5
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

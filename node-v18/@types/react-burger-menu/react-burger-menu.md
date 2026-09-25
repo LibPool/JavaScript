@@ -28,7 +28,6 @@ TypeScript definitions for react-burger-menu
 - 2.8.5
 - 2.8.6
 - 2.8.7
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

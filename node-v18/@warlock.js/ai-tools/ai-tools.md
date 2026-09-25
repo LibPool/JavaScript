@@ -28,7 +28,6 @@ Ready-made agent tools (web search, fetch, HTTP, calculator, date-time) + an MCP
 - 5.7.0
 - 5.8.0
 - 5.9.0
-- 共 43 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

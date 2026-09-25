@@ -28,7 +28,6 @@ A high-performance, cross-platform animated header component for React Native ap
 - 1.0.0-rc.0
 - 1.0.0-rc.1
 - 1.0.1
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

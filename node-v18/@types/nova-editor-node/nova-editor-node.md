@@ -28,7 +28,6 @@ TypeScript definitions for nova-editor-node
 - 5.1.5
 - 5.1.6
 - 5.1.7
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeDB HTTP Driver
 - 3.8.1
 - 3.8.2-rc0
 - 3.8.4-rc0
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

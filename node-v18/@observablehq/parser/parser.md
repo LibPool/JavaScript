@@ -28,7 +28,6 @@ An Acorn parser for Observable JavaScript
 - 5.0.0
 - 6.0.0
 - 6.1.0
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

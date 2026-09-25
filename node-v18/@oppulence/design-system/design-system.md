@@ -28,7 +28,6 @@ Design system for Oppulence - shadcn-style components with Tailwind CSS v4
 - 1.2.3
 - 1.2.4
 - 1.2.5
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

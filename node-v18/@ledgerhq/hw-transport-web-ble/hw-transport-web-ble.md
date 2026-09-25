@@ -16,6 +16,9 @@ Ledger Hardware Wallet Web Bluetooth implementation of the communication layer
 
 - 当前版本：6.35.0
 
+- 6.34.4-nightly.20260609030647
+- 6.34.4-nightly.20260610030722
+- 6.34.4-nightly.20260611030748
 - 6.34.4-nightly.20260612030643
 - 6.34.5-nightly.20260620030702
 - 6.34.5-nightly.20260623030753
@@ -25,9 +28,6 @@ Ledger Hardware Wallet Web Bluetooth implementation of the communication layer
 - 6.34.5-nightly.20260627030713
 - 6.34.5-nightly.20260630030734
 - 6.35.0
-- 6.6.0
-- 6.7.0
-- 6.9.1-taproot.0
 - 共 464 个版本，完整清单见 npm registry。
 
 ## 获取地址

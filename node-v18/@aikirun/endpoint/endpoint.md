@@ -27,7 +27,6 @@ Push-based HTTP endpoint for Aiki - execute workflows from serverless environmen
 - 0.41.0
 - 0.41.1
 - 0.42.0
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

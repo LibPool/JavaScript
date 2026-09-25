@@ -28,7 +28,6 @@ Herb HTML+ERB Language Tools and Language Server Protocol integration.
 - 0.9.5
 - 0.9.6
 - 0.9.7
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

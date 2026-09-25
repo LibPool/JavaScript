@@ -28,7 +28,6 @@ Library to interact with an Urbit ship over HTTP
 - 3.1.0-dev-2
 - 3.1.0-dev-3
 - 3.2.0-dev
-- 共 43 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

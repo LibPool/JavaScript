@@ -27,7 +27,6 @@ LemonadeJS modal is a JavaScript component to create floating modals.
 - 5.8.2
 - 5.8.3
 - 6.0.0-beta.0
-- 共 43 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

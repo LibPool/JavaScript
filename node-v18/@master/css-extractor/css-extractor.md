@@ -16,6 +16,9 @@ Master CSS static extractor for various raw text
 
 - 当前版本：2.0.0-beta.160
 
+- 2.0.0-rc.58
+- 2.0.0-rc.59
+- 2.0.0-rc.60
 - 2.0.0-rc.61
 - 2.0.0-rc.62
 - 2.0.0-rc.63
@@ -25,9 +28,6 @@ Master CSS static extractor for various raw text
 - 2.0.0-rc.67
 - 2.0.0-rc.68
 - 2.0.0-rc.69
-- 2.0.0-rc.7
-- 2.0.0-rc.8
-- 2.0.0-rc.9
 - 共 123 个版本，完整清单见 npm registry。
 
 ## 获取地址

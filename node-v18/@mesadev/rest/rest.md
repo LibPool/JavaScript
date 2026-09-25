@@ -16,6 +16,10 @@ TypeScript REST SDK for the Mesa API
 
 - 当前版本：0.48.3
 
+- 0.44.0
+- 0.44.1
+- 0.45.0
+- 0.46.0
 - 0.47.0
 - 0.47.1
 - 0.47.2
@@ -24,10 +28,6 @@ TypeScript REST SDK for the Mesa API
 - 0.48.1
 - 0.48.2
 - 0.48.3
-- 0.5.0
-- 0.6.0
-- 0.6.1
-- 0.6.2
 - 共 61 个版本，完整清单见 npm registry。
 
 ## 获取地址

@@ -15,10 +15,10 @@ UI components for Kotlin web sites development
 
 - 当前版本：4.14.9
 
-- 4.8.0-alpha.7
-- 4.8.0-alpha.8
-- 4.8.0-alpha.9
-- 4.8.0-dropms.1
+- 4.14.7-alpha.2
+- 4.14.8
+- 4.14.9
+- 4.8.0
 - 4.8.1
 - 4.8.1-alpha.1
 - 4.8.2

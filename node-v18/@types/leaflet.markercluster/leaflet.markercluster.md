@@ -28,7 +28,6 @@ TypeScript definitions for leaflet.markercluster
 - 1.5.4
 - 1.5.5
 - 1.5.6
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

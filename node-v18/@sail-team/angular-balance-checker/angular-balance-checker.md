@@ -27,7 +27,6 @@ Angular components for Sail balance display and onboarding flow
 - 1.1.26
 - 1.1.27
 - 1.1.28
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

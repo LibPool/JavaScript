@@ -28,7 +28,7 @@ A collection of utility functions and helpers for the TML Mobilidade Go monorepo
 - 20260920.2153.33
 - 20260922.1130.21
 - 20260922.1543.51
-- 共 1429 个版本，完整清单见 npm registry。
+- 共 1,429 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

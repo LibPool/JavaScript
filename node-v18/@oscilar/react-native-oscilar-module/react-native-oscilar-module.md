@@ -28,7 +28,6 @@ Oscilar module for React Native
 - 3.7.1
 - 3.8.0
 - 3.8.1
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

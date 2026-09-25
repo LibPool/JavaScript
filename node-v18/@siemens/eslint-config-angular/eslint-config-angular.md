@@ -28,7 +28,6 @@ Configuration for linting Angular TypeScript and templates using Angular ESLint.
 - 4.4.1
 - 4.4.2
 - 5.0.0
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

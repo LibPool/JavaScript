@@ -28,7 +28,6 @@ React Sigma - Layout circlepack
 - 5.0.2
 - 5.0.4
 - 5.0.6
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

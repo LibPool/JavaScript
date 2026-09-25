@@ -28,7 +28,6 @@ A simple wrapper web-component for CSS Flexible Box Layout.
 - 1.1.2
 - 1.2.0
 - 1.2.1
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

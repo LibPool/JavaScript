@@ -28,7 +28,6 @@ ClickstreamAnalytics Web SDK
 - 0.9.0
 - 0.9.1
 - 0.9.2
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

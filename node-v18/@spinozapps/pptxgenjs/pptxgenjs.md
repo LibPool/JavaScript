@@ -28,7 +28,6 @@ Create JavaScript PowerPoint Presentations
 - 3.9.0-spinozapps.5
 - 3.9.0-spinozapps.6
 - 3.9.0-spinozapps.7
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

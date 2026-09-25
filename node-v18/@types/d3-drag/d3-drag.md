@@ -28,7 +28,6 @@ TypeScript definitions for d3-drag
 - 3.0.5
 - 3.0.6
 - 3.0.7
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

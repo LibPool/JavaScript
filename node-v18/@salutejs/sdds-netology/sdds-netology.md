@@ -28,7 +28,7 @@ Salute Design System / React UI kit for SDDS NETOLOGY web applications
 - 0.368.1-canary.3185.35707114926.0
 - 0.369.0-canary.3077.35749908859.0
 - 0.369.0-canary.3182.35728506901.0
-- 共 2783 个版本，完整清单见 npm registry。
+- 共 2,783 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

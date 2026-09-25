@@ -28,7 +28,6 @@ TypeScript definitions for node-uuid
 - 6.0.24-alpha
 - 6.0.25-alpha
 - 6.0.26-alpha
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

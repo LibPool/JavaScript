@@ -28,7 +28,6 @@ Request-response HTTP channel for moxxy. POST /v1/turn drives one turn synchrono
 - 0.40.0
 - 0.41.0
 - 0.41.1
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

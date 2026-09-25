@@ -27,7 +27,7 @@ Nginstack Web Framework. See the [nginstack site](https://nginstack.com) for mor
 - 89.0.1
 - 89.0.2
 - 89.0.4
-- 共 1454 个版本，完整清单见 npm registry。
+- 共 1,454 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for react-paginate
 - 7.1.2
 - 7.1.3
 - 7.1.4
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

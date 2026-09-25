@@ -16,6 +16,7 @@ A web-based framework for creating videos programmatically
 
 - 当前版本：0.15.31
 
+- 0.15.27
 - 0.15.28
 - 0.15.29
 - 0.15.3
@@ -27,7 +28,6 @@ A web-based framework for creating videos programmatically
 - 0.15.7
 - 0.15.8
 - 0.15.9
-- 1.14.3
 - 共 58 个版本，完整清单见 npm registry。
 
 ## 获取地址

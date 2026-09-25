@@ -28,7 +28,6 @@ A client to consume Stacks events from the Stacks Node Publisher service
 - 2.2.0
 - 2.2.1
 - 2.3.0
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

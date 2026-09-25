@@ -1,0 +1,32 @@
+# @resourge/pagination
+
+> 标签: javascript, pagination, typescript
+
+## 简介
+
+`Pagination` is a small function that returns an array containing information for the pagination creation.
+
+## 官网
+
+- 官网：https:/github.com/resourge/pagination/tree/master/src/lib/pagination/README.md
+- 源码仓库：git+https://github.com/resourge/pagination.git
+- npm 页面：https://www.npmjs.com/package/@resourge/pagination
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @resourge/pagination`
+- npm registry：https://registry.npmjs.org/@resourge/pagination

@@ -28,7 +28,6 @@ TypeScript definitions for react-syntax-highlighter
 - 15.5.7
 - 15.5.8
 - 15.5.9
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

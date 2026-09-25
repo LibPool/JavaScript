@@ -16,8 +16,11 @@ Web subscriptions made easy. Powered by RevenueCat
 
 - 当前版本：1.63.1
 
+- 1.55.0
+- 1.56.0
+- 1.57.0
+- 1.58.0
 - 1.59.0
-- 1.6.0
 - 1.60.0
 - 1.60.1
 - 1.61.0
@@ -25,9 +28,6 @@ Web subscriptions made easy. Powered by RevenueCat
 - 1.62.1
 - 1.63.0
 - 1.63.1
-- 1.7.0
-- 1.8.0
-- 1.9.0
 - 共 179 个版本，完整清单见 npm registry。
 
 ## 获取地址

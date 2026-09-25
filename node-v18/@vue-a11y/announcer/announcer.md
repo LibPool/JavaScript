@@ -28,7 +28,6 @@ A simple way with Vue to announce any information to the screen readers.
 - 3.1.3
 - 3.1.4
 - 3.1.5
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -27,7 +27,6 @@ WebRTC, HTTP-FLV, Websocket-FLV, RTMP, M3U8, MP4 Video Player
 - 3.7.5
 - 3.7.8
 - 3.7.9
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

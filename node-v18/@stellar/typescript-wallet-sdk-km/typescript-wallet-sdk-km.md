@@ -27,7 +27,6 @@ The Typescript Wallet Key Manager SDK is a library that allows developers to use
 - 5.0.0
 - 5.0.0-beta.1788567305965
 - 5.0.0-beta.1788983176916
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

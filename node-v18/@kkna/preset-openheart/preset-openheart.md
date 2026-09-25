@@ -1,0 +1,27 @@
+# @kkna/preset-openheart
+
+> 标签: JavaScript
+
+## 简介
+
+OpenHeart Preset for [KKna](https://github.com/importantimport/kkna).
+
+## 官网
+
+- 官网：https://github.com/importantimport/kkna
+- 源码仓库：git+https://github.com/importantimport/kkna.git
+- npm 页面：https://www.npmjs.com/package/@kkna/preset-openheart
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @kkna/preset-openheart`
+- npm registry：https://registry.npmjs.org/@kkna/preset-openheart

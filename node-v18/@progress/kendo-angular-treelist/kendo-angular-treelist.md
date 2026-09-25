@@ -15,19 +15,19 @@ Kendo UI TreeList for Angular - Display hierarchical data in an Angular tree gri
 
 - 当前版本：25.1.0
 
-- 5.0.4-dev.202208030647
-- 5.0.5
-- 5.0.5-dev.202208180735
-- 5.0.6
-- 5.0.6-dev.202209121009
-- 5.0.7
-- 5.0.7-dev.202210121114
-- 5.0.7-dev.202211151338
-- 5.0.8
-- 5.0.8-dev.202211170818
-- 5.0.9
-- 5.0.9-dev.202212011435
-- 共 1488 个版本，完整清单见 npm registry。
+- 25.1.1-develop.4
+- 25.2.0-develop.1
+- 25.2.0-develop.10
+- 25.2.0-develop.11
+- 25.2.0-develop.2
+- 25.2.0-develop.3
+- 25.2.0-develop.4
+- 25.2.0-develop.5
+- 25.2.0-develop.6
+- 25.2.0-develop.7
+- 25.2.0-develop.8
+- 25.2.0-develop.9
+- 共 1,488 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

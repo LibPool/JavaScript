@@ -28,7 +28,6 @@ Convert OpenAPI 3.0 & 3.1 schemas to TypeScript (with updated dependencies)
 - 7.13.0-depup.74
 - 7.13.0-depup.75
 - 7.13.0-depup.76
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

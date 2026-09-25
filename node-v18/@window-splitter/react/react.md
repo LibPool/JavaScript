@@ -28,7 +28,6 @@ A WAI-ARIA compliant window splitter for React.
 - 1.1.5--canary.f61d2d9.0
 - 1.2.0
 - 1.2.1
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

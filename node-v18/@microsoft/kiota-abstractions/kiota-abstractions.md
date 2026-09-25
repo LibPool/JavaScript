@@ -16,8 +16,8 @@ Core abstractions for kiota generated libraries in TypeScript and JavaScript
 
 - 当前版本：1.0.0-preview.108
 
+- 1.0.0-preview.88
 - 1.0.0-preview.89
-- 1.0.0-preview.9
 - 1.0.0-preview.90
 - 1.0.0-preview.91
 - 1.0.0-preview.92

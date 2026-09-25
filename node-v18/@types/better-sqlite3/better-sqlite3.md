@@ -28,7 +28,6 @@ TypeScript definitions for better-sqlite3
 - 7.6.8
 - 7.6.9
 - 9.6.0
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

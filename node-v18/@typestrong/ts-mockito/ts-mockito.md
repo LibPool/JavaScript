@@ -28,7 +28,6 @@ Mocking library for TypeScript
 - 2.7.7
 - 2.7.8
 - 2.7.9
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

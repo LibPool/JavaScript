@@ -16,9 +16,9 @@ Svelte preprocessor for csszyx - transforms sz props into Tailwind CSS classes
 
 - 当前版本：0.17.2
 
+- 0.17.0
 - 0.17.1
 - 0.17.2
-- 0.9.1
 - 0.9.10
 - 0.9.2
 - 0.9.3

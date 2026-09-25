@@ -15,19 +15,19 @@ Guido is a Vue + TypeScript wrapper for Email Plugin. Easily embed the email edi
 
 - 当前版本：3.19.0-beta.c0e1797
 
-- 3.9.1-beta.65a8ac1
-- 3.9.1-beta.6e7cd3e
-- 3.9.1-beta.734031d
-- 3.9.1-beta.7a75299
-- 3.9.1-beta.8a96896
-- 3.9.1-beta.a6465cf
-- 3.9.1-beta.bde1a34
-- 3.9.1-beta.c408b35
-- 3.9.1-beta.c521c3a
-- 3.9.1-beta.c64c39e
-- 3.9.1-beta.de8e72f
-- 3.9.1-beta.fdaa66f
-- 共 1791 个版本，完整清单见 npm registry。
+- 3.19.0-beta.87e26c0
+- 3.19.0-beta.8efe483
+- 3.19.0-beta.acb00a2
+- 3.19.0-beta.c0e0606
+- 3.19.0-beta.c0e1797
+- 3.19.0-beta.c604f7d
+- 3.19.0-beta.c8d2be8
+- 3.19.0-beta.cac604e
+- 3.19.0-beta.dcea8c0
+- 3.19.0-beta.f02eaa1
+- 3.19.0-beta.f884c35
+- 3.20.0-beta.7b31fec
+- 共 1,791 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

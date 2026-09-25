@@ -27,7 +27,6 @@ Agent UI builder for generating replay HTML files
 - 0.3.0-canary-263cff2e9-20251120130823
 - 0.3.0-canary-3262c6416-20251106135418
 - 0.3.0-canary-6fa437ea-20251226034321-canary-6fa437ea-20251226034903
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

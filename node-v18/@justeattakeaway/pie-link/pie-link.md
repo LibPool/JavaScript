@@ -16,8 +16,8 @@ PIE Design System Link built using Web Components
 
 - 当前版本：1.5.7
 
-- 1.3.8
-- 1.3.9
+- 1.3.40
+- 1.3.41
 - 1.4.0
 - 1.4.1
 - 1.5.0

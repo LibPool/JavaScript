@@ -28,7 +28,6 @@ The HTML5 video player for Angular 2 and successor to videogular2
 - 7.0.1
 - 8.0.0
 - 9.0.0
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

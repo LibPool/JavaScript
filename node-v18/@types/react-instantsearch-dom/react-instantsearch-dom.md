@@ -28,7 +28,6 @@ TypeScript definitions for react-instantsearch-dom
 - 6.12.9
 - 6.3.0
 - 6.8.0
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

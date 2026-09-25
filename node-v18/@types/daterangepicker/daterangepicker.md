@@ -28,7 +28,6 @@ TypeScript definitions for daterangepicker
 - 3.1.6
 - 3.1.7
 - 3.1.8
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

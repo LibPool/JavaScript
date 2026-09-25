@@ -28,7 +28,6 @@ Type definitions and utilities for Lightning Node Connect
 - 0.3.5-alpha
 - 0.3.6-alpha
 - 0.4.0-alpha
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

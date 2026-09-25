@@ -16,8 +16,8 @@ Vue 3 dashboard components for Laravel with Bootstrap Vue Next
 
 - 当前版本：0.41.0
 
-- 0.4.8
-- 0.4.9
+- 0.4.13
+- 0.4.14
 - 0.40.0
 - 0.41.0
 - 0.5.0

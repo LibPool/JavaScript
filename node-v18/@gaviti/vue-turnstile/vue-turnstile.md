@@ -28,7 +28,6 @@ A Vue 3.3.x component wrapper for Cloudflare's Turnstile
 - 1.1.2
 - 1.1.3
 - 1.1.4
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

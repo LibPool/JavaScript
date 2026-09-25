@@ -28,7 +28,6 @@ TypeScript definitions for ui-grid
 - 8.0.25-alpha
 - 8.0.27-alpha
 - 8.0.28-alpha
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -27,7 +27,6 @@ Web SDK for browser-based audio recognition with SORI API
 - 0.6.7
 - 0.6.8
 - 0.6.9
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

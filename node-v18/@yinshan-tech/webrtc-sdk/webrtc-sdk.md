@@ -27,7 +27,6 @@ Call-center Softphone SDK: JsSIP registration, control WS, dial HTTP, call state
 - 0.8.7
 - 0.8.8
 - 0.8.9
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for webpack-env
 - 1.18.6
 - 1.18.7
 - 1.18.8
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -16,6 +16,8 @@ Style and render React Native components using emotion
 
 - 当前版本：11.11.0
 
+- 11.0.0-next.3
+- 11.0.0-next.4
 - 11.0.0-next.5
 - 11.0.0-next.6
 - 11.0.0-next.7
@@ -26,8 +28,6 @@ Style and render React Native components using emotion
 - 11.10.6
 - 11.11.0
 - 11.9.3
-- 9.2.7
-- 9.2.9
 - 共 59 个版本，完整清单见 npm registry。
 
 ## 获取地址

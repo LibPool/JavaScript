@@ -16,18 +16,18 @@ Code-Ready Dependency Analytics JavaScript API.
 
 - 当前版本：0.3.0
 
+- 0.3.0-ea.c300d9f
+- 0.3.0-ea.d2edf6e
+- 0.3.0-ea.d8ec262
+- 0.3.0-ea.de62188
+- 0.3.0-ea.e258fba
+- 0.3.0-ea.e348975
+- 0.3.0-ea.e660b02
 - 0.3.0-ea.ec6824b
 - 0.3.0-ea.efdc87d
 - 0.3.0-ea.f041aa6
-- 0.3.0-ea.f136061
 - 0.3.0-ea.f1e4e15
-- 0.3.0-ea.f2c4df7
-- 0.3.0-ea.f2d5d72
-- 0.3.0-ea.f501753
 - 0.3.0-ea.fa16f06
-- 0.3.0-ea.fbdacbb
-- 0.3.0-ea.ff266a3
-- 0.3.0-ea.ff694a0
 - 共 162 个版本，完整清单见 npm registry。
 
 ## 获取地址

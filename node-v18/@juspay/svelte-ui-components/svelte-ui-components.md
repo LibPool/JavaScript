@@ -16,13 +16,13 @@ A themeable Svelte 5 UI component library with CSS custom property driven stylin
 
 - 当前版本：4.32.0
 
+- 4.29.1
+- 4.30.0
+- 4.31.0
 - 4.31.1
 - 4.31.2
 - 4.31.3
 - 4.32.0
-- 4.4.0
-- 4.5.0
-- 4.6.0
 - 4.7.0
 - 4.8.0
 - 4.9.0

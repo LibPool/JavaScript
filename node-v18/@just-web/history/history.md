@@ -28,7 +28,6 @@ just-web history plugin module
 - 2.2.3
 - 2.2.4
 - 2.2.5
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

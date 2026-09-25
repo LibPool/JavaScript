@@ -28,7 +28,6 @@ C APIs for registering a Node-API module exporting an interface for invoking a u
 - 0.2.5
 - 0.2.6
 - 0.2.7
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Telnyx React Native Voice SDK - A complete WebRTC voice calling solution
 - 0.4.5
 - 1.0.0
 - 1.1.0
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

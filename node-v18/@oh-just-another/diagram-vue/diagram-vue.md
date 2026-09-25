@@ -28,7 +28,6 @@ Vue 3 wrapper for the diagram editor — a thin <Diagram> component over the <oj
 - 0.3.7
 - 0.3.8
 - 0.3.9
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Lightweight AIWG CLI for signed, versioned web-backed resources.
 - 2026.9.6
 - 2026.9.7
 - 2026.9.9
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

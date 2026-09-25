@@ -28,7 +28,6 @@ TypeScript definitions for google-protobuf
 - 3.7.2
 - 3.7.3
 - 3.7.4
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

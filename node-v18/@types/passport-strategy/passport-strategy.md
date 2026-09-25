@@ -28,7 +28,6 @@ TypeScript definitions for passport-strategy
 - 0.2.36
 - 0.2.37
 - 0.2.38
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

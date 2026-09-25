@@ -28,7 +28,6 @@ Vue 3 integration for Supermouse
 - 2.4.4-beta.1
 - 2.4.4-beta.2
 - 2.4.4-beta.3
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

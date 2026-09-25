@@ -28,7 +28,6 @@ A simple and flexible library that caches HTTP requests in Angular applications
 - 5.0.0
 - 5.1.0
 - 5.3.0
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

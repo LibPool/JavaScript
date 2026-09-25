@@ -28,7 +28,6 @@ TypeScript definitions for mixpanel
 - 2.14.7
 - 2.14.8
 - 2.14.9
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

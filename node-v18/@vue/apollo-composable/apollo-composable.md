@@ -28,7 +28,6 @@ Apollo GraphQL for Vue Composition API
 - 5.0.0-alpha.2
 - 5.0.0-alpha.3
 - 5.0.0-alpha.4
-- 共 43 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

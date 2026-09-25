@@ -28,7 +28,6 @@ Storybook Vue 3 renderer
 - 7.4.0-alpha.5
 - 7.5.0-alpha.3
 - 7.5.0-alpha.3.0
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

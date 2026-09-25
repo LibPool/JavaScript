@@ -28,7 +28,6 @@ TypeScript definitions for react-highlight-words
 - 0.6.2
 - 0.6.3
 - 0.6.4
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

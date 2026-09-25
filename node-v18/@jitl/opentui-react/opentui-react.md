@@ -28,7 +28,6 @@ React renderer for building terminal user interfaces using OpenTUI core
 - 0.2.15-next.e19b300
 - 0.4.0
 - 0.4.0-next.c27aec0
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

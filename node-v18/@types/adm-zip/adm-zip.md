@@ -28,7 +28,6 @@ TypeScript definitions for adm-zip
 - 0.5.6
 - 0.5.7
 - 0.5.8
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

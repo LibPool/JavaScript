@@ -16,7 +16,7 @@ ESLint configuration for JavaScript
 
 - 当前版本：0.5.10
 
-- 0.4.9
+- 0.4.53
 - 0.5.0
 - 0.5.1
 - 0.5.10

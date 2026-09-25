@@ -28,7 +28,6 @@ Generate TypeScript definitions from database schemas.
 - 2.0.1
 - 2.1.0
 - 2.2.0
-- 共 49 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

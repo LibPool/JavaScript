@@ -27,7 +27,6 @@ A tokens system for a more malleable web.
 - 2.4.0
 - 3.0.0
 - 3.0.1
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

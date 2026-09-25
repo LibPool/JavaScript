@@ -16,9 +16,9 @@ Web Atoms Pack script to combine multple Web Atoms Modules
 
 - 当前版本：1.0.117
 
+- 1.0.84
 - 1.0.85
 - 1.0.89
-- 1.0.9
 - 1.0.91
 - 1.0.92
 - 1.0.93

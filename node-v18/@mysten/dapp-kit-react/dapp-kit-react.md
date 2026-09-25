@@ -28,7 +28,6 @@ React bindings for @mysten/dapp-kit-core
 - 2.1.7
 - 2.1.8
 - 2.1.9
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

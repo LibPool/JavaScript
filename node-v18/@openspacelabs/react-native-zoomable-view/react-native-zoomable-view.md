@@ -28,7 +28,6 @@ A view component for react-native with pinch to zoom, tap to move and double tap
 - 3.0.0-beta.3
 - 3.0.0-beta.5
 - 3.0.0-beta.6
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

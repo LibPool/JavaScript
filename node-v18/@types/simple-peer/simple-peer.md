@@ -28,7 +28,6 @@ TypeScript definitions for simple-peer
 - 9.6.1
 - 9.6.2
 - 9.6.3
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

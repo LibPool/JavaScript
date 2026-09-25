@@ -15,18 +15,18 @@ OpenAPI client for @emilgroup/partner-sdk-node
 
 - 当前版本：1.24.0
 
-- 1.6.0
-- 1.6.1-beta.0
-- 1.6.1-beta.1
-- 1.6.1-beta.2
-- 1.6.1-beta.3
-- 1.7.0
-- 1.8.0
-- 1.8.1-beta.0
-- 1.8.1-beta.1
-- 1.9.0
-- 1.9.1-beta.0
-- 1.9.1-beta.1
+- 1.24.1-beta.1
+- 1.24.1-beta.10
+- 1.24.1-beta.11
+- 1.24.1-beta.12
+- 1.24.1-beta.2
+- 1.24.1-beta.3
+- 1.24.1-beta.4
+- 1.24.1-beta.5
+- 1.24.1-beta.6
+- 1.24.1-beta.7
+- 1.24.1-beta.8
+- 1.24.1-beta.9
 - 共 126 个版本，完整清单见 npm registry。
 
 ## 获取地址

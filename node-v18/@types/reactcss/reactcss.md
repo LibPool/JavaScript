@@ -28,7 +28,6 @@ TypeScript definitions for reactcss
 - 1.2.7
 - 1.2.8
 - 1.2.9
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

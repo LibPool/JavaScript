@@ -27,7 +27,6 @@ CSS utility classes and component styles for Xosmoz design system
 - 1.0.5
 - 1.0.6
 - 1.0.7
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

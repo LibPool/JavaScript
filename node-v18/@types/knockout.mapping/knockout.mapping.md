@@ -28,7 +28,6 @@ TypeScript definitions for knockout.mapping
 - 2.0.40
 - 2.0.41
 - 2.0.42
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

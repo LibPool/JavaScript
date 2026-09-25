@@ -28,7 +28,6 @@ HTTP(S) request component supporting HTTP 1.1 and HTTP 2.0
 - 4.8.4
 - 4.8.5
 - 4.8.6
-- 共 48 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

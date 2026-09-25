@@ -27,7 +27,6 @@ html plugin for mrbuilder
 - 4.4.4
 - 4.4.6
 - 4.4.7-alpha.9
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

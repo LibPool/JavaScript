@@ -28,7 +28,6 @@ Integrates the HTTP server and OAS (OpenAPI Specification) @superhero components
 - 4.8.4
 - 4.8.5
 - 4.8.6
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

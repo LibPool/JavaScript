@@ -1,0 +1,24 @@
+# @namnguyen.repl.it/nn-scheduler
+
+> 标签: JavaScript
+
+## 简介
+
+A scheduler module for NodeJS
+
+## 官网
+
+- 官网：https://github.com/NamReplIT/nn-scheduler#readme
+- npm 页面：https://www.npmjs.com/package/@namnguyen.repl.it/nn-scheduler
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.0.0
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @namnguyen.repl.it/nn-scheduler`
+- npm registry：https://registry.npmjs.org/@namnguyen.repl.it/nn-scheduler

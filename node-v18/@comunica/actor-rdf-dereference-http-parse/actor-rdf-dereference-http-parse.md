@@ -28,7 +28,6 @@ A node-fetch http actor
 - 1.9.0
 - 1.9.2
 - 1.9.3
-- 共 42 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

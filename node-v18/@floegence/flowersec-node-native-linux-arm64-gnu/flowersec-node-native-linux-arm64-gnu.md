@@ -28,7 +28,6 @@ This package contains the Linux arm64 glibc prebuilt used by `@floegence/flowers
 - 5.3.1
 - 5.4.0
 - 5.4.1
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

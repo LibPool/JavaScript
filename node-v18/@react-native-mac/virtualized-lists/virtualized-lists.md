@@ -28,7 +28,6 @@ Virtualized lists for React Native macOS.
 - 0.78.0
 - 0.78.1
 - 0.78.2
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

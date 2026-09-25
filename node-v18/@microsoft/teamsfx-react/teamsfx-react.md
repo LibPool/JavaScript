@@ -28,7 +28,7 @@ React helper functions for Microsoft TeamsFx
 - 4.0.6-beta.2026042121.0
 - 4.0.6-beta.2026042201.0
 - 4.0.6-beta.2026042308.0
-- 共 1346 个版本，完整清单见 npm registry。
+- 共 1,346 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

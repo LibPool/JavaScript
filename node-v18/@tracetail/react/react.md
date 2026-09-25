@@ -28,7 +28,6 @@ React hooks for TraceTail enterprise browser fingerprinting with over 99.5% accu
 - 2.3.7
 - 2.3.8
 - 2.3.9
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

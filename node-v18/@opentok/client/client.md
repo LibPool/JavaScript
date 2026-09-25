@@ -15,7 +15,11 @@ The OpenTok.js library lets you use OpenTok-powered video sessions on the web
 
 - 当前版本：2.35.2
 
-- 2.36.0-alpha.5
+- 2.36.0-alpha.45
+- 2.36.0-alpha.46
+- 2.36.0-alpha.47
+- 2.36.0-alpha.48
+- 2.36.0-alpha.49
 - 2.36.0-alpha.50
 - 2.36.0-alpha.51
 - 2.36.0-alpha.52
@@ -23,10 +27,6 @@ The OpenTok.js library lets you use OpenTok-powered video sessions on the web
 - 2.36.0-alpha.54
 - 2.36.0-alpha.55
 - 2.36.0-alpha.56
-- 2.36.0-alpha.6
-- 2.36.0-alpha.7
-- 2.36.0-alpha.8
-- 2.36.0-alpha.9
 - 共 650 个版本，完整清单见 npm registry。
 
 ## 获取地址

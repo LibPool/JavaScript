@@ -28,7 +28,6 @@ The core UI kit for Courier Web Components
 - 2.5.0
 - 2.5.1
 - 2.5.2
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for lodash-es
 - 4.17.7
 - 4.17.8
 - 4.17.9
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

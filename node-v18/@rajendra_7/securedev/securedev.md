@@ -1,0 +1,24 @@
+# @rajendra_7/securedev
+
+> 标签: JavaScript
+
+## 简介
+
+CLI agent for SecureDev real-time security scanning.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@rajendra_7/securedev
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @rajendra_7/securedev`
+- npm registry：https://registry.npmjs.org/@rajendra_7/securedev

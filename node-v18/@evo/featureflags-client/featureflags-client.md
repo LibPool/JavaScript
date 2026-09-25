@@ -27,7 +27,6 @@ HTTP node client for feature flags service
 - 2.0.6
 - 2.0.7
 - 2.1.0
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

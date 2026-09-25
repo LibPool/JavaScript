@@ -28,7 +28,6 @@ DSH skill center: browse loaded skills by source (bundled / project / user / cus
 - 0.3.5
 - 0.3.6
 - 0.3.9
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

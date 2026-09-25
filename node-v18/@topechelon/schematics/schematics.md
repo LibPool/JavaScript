@@ -27,7 +27,6 @@ TE Angular Schematics
 - 1.8.0
 - 1.8.1
 - 1.9.0
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

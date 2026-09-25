@@ -28,7 +28,6 @@ TypeScript definitions for navermaps
 - 3.9.0
 - 3.9.1
 - 3.9.2
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

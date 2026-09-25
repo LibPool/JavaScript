@@ -28,7 +28,6 @@ Custom React Flow Edge that never intersects with other nodes
 - 4.9.0
 - 4.9.1
 - 5.0.0
-- 共 46 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

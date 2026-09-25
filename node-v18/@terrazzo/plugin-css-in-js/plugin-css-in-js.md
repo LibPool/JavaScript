@@ -28,7 +28,6 @@ Use CSS Vars in clientside JS. Compatible with Linaria, StyleX, Vanilla Extract,
 - 2.6.0
 - 2.7.0
 - 2.7.1
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

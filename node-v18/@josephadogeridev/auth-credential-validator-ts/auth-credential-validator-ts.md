@@ -1,0 +1,27 @@
+# @josephadogeridev/auth-credential-validator-ts
+
+> 标签: @josephadogeridev, @josephadogeridev/auth-credential-validator-ts, Credential, Validator, auth-credential-validator-ts, npm, react, react-native, typescript
+
+## 简介
+
+React hook for fetching data from ApI
+
+## 官网
+
+- 官网：https://github.com/jadogeri/Auth-Credential-Validator-TS#readme
+- 源码仓库：git+https://github.com/jadogeri/Auth-Credential-Validator-TS.git
+- npm 页面：https://www.npmjs.com/package/@josephadogeridev/auth-credential-validator-ts
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @josephadogeridev/auth-credential-validator-ts`
+- npm registry：https://registry.npmjs.org/@josephadogeridev/auth-credential-validator-ts

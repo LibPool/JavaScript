@@ -28,7 +28,6 @@ Node specifications and helpers for the Codama standard
 - 1.5.4
 - 1.5.5
 - 1.5.6
-- 共 47 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for mysql
 - 2.15.7
 - 2.15.8
 - 2.15.9
-- 共 44 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

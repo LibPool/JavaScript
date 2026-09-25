@@ -28,7 +28,6 @@ RunAnywhere Web SDK - Backend-neutral browser infrastructure with the RACommons 
 - 0.20.24
 - 0.20.27
 - 0.20.9
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

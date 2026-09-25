@@ -16,8 +16,8 @@ A set of React components to build notification experiences powered by Knock
 
 - 当前版本：0.15.2
 
-- 0.7.3
-- 0.7.4
+- 0.15.1
+- 0.15.2
 - 0.7.5
 - 0.8.0
 - 0.8.1

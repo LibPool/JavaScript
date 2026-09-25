@@ -28,7 +28,6 @@ Vue composable and component for smooth-cornered (squircle) elements
 - 0.7.0
 - 0.7.1
 - 0.7.2
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

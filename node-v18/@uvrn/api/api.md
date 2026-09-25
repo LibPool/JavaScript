@@ -28,7 +28,6 @@ UVRN REST API — HTTP access to bundle processing
 - 3.0.0
 - 4.0.0
 - 5.0.0
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

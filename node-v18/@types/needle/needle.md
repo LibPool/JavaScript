@@ -28,7 +28,6 @@ TypeScript definitions for needle
 - 3.2.2
 - 3.2.3
 - 3.3.0
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

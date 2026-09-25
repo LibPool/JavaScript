@@ -28,7 +28,6 @@ TypeScript definitions for brorand
 - 1.0.31
 - 1.0.32
 - 1.0.33
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Vue CLI 3 plugin to build SSR (Server side rendered) applications
 - 0.3.7
 - 0.3.8
 - 0.3.9
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

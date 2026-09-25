@@ -28,7 +28,7 @@ Vue wrapper for Infineon Design System Web Components
 - 41.3.0--canary.2523.35716584024.0
 - 41.3.0--canary.2535.35705941846.0
 - 41.3.0--canary.2536.35712027458.0
-- 共 4134 个版本，完整清单见 npm registry。
+- 共 4,134 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

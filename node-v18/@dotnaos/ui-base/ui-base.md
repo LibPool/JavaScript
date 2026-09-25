@@ -28,7 +28,6 @@ Generic web UI foundations and controls for DotNaos.
 - 0.0.26
 - 0.0.27
 - 0.0.28
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

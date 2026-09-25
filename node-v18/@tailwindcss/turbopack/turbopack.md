@@ -28,7 +28,6 @@ A Turbopack loader for Tailwind CSS v4.
 - 0.0.0-insiders.f723e83
 - 0.0.0-insiders.f7f58f0
 - 4.3.3
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

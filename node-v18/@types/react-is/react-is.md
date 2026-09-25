@@ -28,7 +28,6 @@ TypeScript definitions for react-is
 - 19.0.0
 - 19.2.0
 - 19.3.0
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

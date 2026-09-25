@@ -28,7 +28,6 @@ High-performance streaming markdown renderer for Vue 3 ecosystem.
 - 1.0.0
 - 1.0.1
 - 1.0.2
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

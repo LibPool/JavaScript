@@ -15,18 +15,18 @@ The Nosana NODE is a command-line tool for interacting with the [Nosana Network]
 
 - 当前版本：1.1.59
 
+- 1.1.57
+- 1.1.57-rc
+- 1.1.58
+- 1.1.58-rc
+- 1.1.59
 - 1.1.59-rc
-- 1.1.6
-- 1.1.6-rc
 - 1.1.60-rc
 - 1.1.61-rc
 - 1.1.62-rc
 - 1.1.63-rc
 - 1.1.64-rc
 - 1.1.65-rc
-- 1.1.7-rc
-- 1.1.8-rc
-- 1.1.9-rc
 - 共 130 个版本，完整清单见 npm registry。
 
 ## 获取地址

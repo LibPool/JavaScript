@@ -28,7 +28,6 @@ React component for the Intersection Observer API
 - 1.3.3
 - 1.3.4
 - 1.3.5
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

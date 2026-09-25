@@ -28,7 +28,6 @@ Shared markdown/HTML → print-ready document shell for brain-kit (used by the U
 - 0.34.1
 - 0.35.0
 - 0.36.0
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

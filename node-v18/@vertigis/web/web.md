@@ -27,7 +27,6 @@ VertiGIS Studio Web
 - 5.7.0-beta.96
 - 5.8.0
 - 5.9.0
-- 共 42 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

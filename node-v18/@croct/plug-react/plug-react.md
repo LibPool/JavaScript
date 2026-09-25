@@ -28,7 +28,6 @@ React components and hooks to plug your React applications into Croct.
 - 0.8.0
 - 0.8.1
 - 0.9.0
-- 共 46 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

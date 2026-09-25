@@ -16,10 +16,10 @@ Efficient local storage module for Angular: simple API based on native localStor
 
 - 当前版本：22.0.0
 
-- 9.0.0-beta.0
-- 9.0.0-beta.1
-- 9.0.0-beta.2
-- 9.0.0-beta.3
+- 21.0.0
+- 22.0.0
+- 8.2.4
+- 9.0.0
 - 9.0.0-beta.4
 - 9.0.0-rc.0
 - 9.0.0-rc.1

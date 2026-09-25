@@ -28,7 +28,6 @@ Mindful Ads Marko components for Mindful Web websites.
 - 1.83.0
 - 1.83.1
 - 1.92.0
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

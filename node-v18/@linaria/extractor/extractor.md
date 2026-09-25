@@ -28,7 +28,6 @@ Blazing fast zero-runtime CSS in JS library
 - 4.0.0-beta.1
 - 4.5.0
 - 5.0.0
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

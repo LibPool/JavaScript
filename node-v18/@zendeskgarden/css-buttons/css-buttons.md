@@ -28,7 +28,6 @@ Garden component CSS
 - 8.0.4
 - 9.0.0
 - 9.0.1
-- 共 49 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

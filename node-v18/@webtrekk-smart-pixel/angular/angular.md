@@ -27,7 +27,6 @@ A Angular implementation of the Webtrekk Smart Pixel.
 - 2.4.1
 - 2.4.2
 - 2.4.3
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

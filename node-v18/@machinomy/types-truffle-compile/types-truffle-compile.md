@@ -1,0 +1,24 @@
+# @machinomy/types-truffle-compile
+
+> 标签: JavaScript
+
+## 简介
+
+TypeScript declaration for truffle-compile
+
+## 官网
+
+- 官网：https://github.com/machinomy/types-truffle-compile#readme
+- 源码仓库：git+https://github.com/machinomy/types-truffle-compile.git
+- npm 页面：https://www.npmjs.com/package/@machinomy/types-truffle-compile
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @machinomy/types-truffle-compile`
+- npm registry：https://registry.npmjs.org/@machinomy/types-truffle-compile

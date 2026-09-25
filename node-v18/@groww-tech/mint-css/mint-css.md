@@ -28,7 +28,6 @@ A CSS library that provides classes, tokens, variables, fonts and other essentia
 - 0.3.8-alpha
 - 0.3.9
 - 0.4.0
-- 共 42 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -1,0 +1,26 @@
+# @yeah-ai/cli
+
+> 标签: agent, ai, cli, coding-agent, mcp, terminal, yeah
+
+## 简介
+
+Yeah 终端编码代理
+
+## 官网
+
+- 官网：https://github.com/Eileenes/Yeah
+- 源码仓库：git+https://github.com/Eileenes/Yeah.git
+- npm 页面：https://www.npmjs.com/package/@yeah-ai/cli
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @yeah-ai/cli`
+- npm registry：https://registry.npmjs.org/@yeah-ai/cli

@@ -27,7 +27,6 @@ React component library for the NDS Design System. Includes design tokens for Ta
 - 0.6.0
 - 0.6.1
 - 0.7.0
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

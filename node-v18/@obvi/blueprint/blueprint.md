@@ -28,7 +28,6 @@ A classless-first CSS design system for beautiful technical blueprint documents.
 - 1.9.0
 - 1.9.1
 - 1.9.2
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

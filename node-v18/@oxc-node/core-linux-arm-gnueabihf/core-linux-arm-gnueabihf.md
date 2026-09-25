@@ -28,7 +28,6 @@ This is the **armv7-unknown-linux-gnueabihf** binary for `@oxc-node/core`
 - 0.1.1
 - 0.1.2
 - 0.1.3
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

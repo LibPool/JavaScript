@@ -28,7 +28,6 @@ Orca's core typescript package.
 - 3.0.0
 - 3.1.0
 - 3.1.1
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -16,8 +16,8 @@ Code PushUp plugin for incrementally adopting strict compilation flags in TypeSc
 
 - 当前版本：0.126.4
 
-- 0.92.0
-- 0.92.1
+- 0.126.3
+- 0.126.4
 - 0.93.0
 - 0.94.0
 - 0.95.0

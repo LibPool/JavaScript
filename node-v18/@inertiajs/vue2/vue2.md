@@ -28,7 +28,6 @@ The Vue 2 adapter for Inertia.js
 - 1.3.0
 - 1.3.0-beta.1
 - 1.3.0-beta.2
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

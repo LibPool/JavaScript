@@ -28,7 +28,6 @@ react-useragent React component
 - 3.1.0
 - 3.1.1
 - 3.2.0
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

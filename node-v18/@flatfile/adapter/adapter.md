@@ -28,7 +28,6 @@ A lightweight TypeScript/JavaScript adapter for working with Flatfile's Portal
 - 3.0.0-beta.0
 - 3.0.0-beta.1
 - 3.0.0-beta.2
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

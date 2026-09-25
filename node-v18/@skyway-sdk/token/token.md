@@ -28,7 +28,6 @@ The official Next Generation JavaScript SDK for SkyWay
 - 2.1.3
 - 2.1.4
 - 2.1.5
-- 共 48 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

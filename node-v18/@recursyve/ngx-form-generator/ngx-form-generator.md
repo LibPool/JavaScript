@@ -16,15 +16,15 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 
 - 当前版本：14.0.0-beta.39
 
+- 15.0.0-beta.44
+- 15.0.0-beta.45
+- 15.0.0-beta.46
+- 15.0.0-beta.47
+- 15.1.0-next.0
+- 16.0.0-beta.47
 - 16.0.0-beta.48
 - 17.0.0-beta.50
 - 18.0.0-beta.50
-- 2.0.0-beta.11
-- 2.0.0-beta.12
-- 2.0.0-beta.13
-- 2.0.0-beta.14
-- 2.0.0-beta.15
-- 2.0.0-beta.16
 - 20.0.0-beta.50
 - 20.0.0-beta.51
 - 21.0.0-beta.52

@@ -28,7 +28,6 @@ An extended module to ohmyfetch
 - 1.7.7
 - 1.7.8
 - 1.7.9
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

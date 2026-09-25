@@ -28,7 +28,6 @@ The upload client library. Simple and easy file uploads for React | Vue | Solid 
 - 1.0.1
 - 1.0.2
 - 1.0.3
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

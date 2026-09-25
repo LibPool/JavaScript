@@ -28,7 +28,6 @@ Common types for web applications
 - 7.0.0-beta.3
 - 7.0.0-beta.4
 - 7.0.0-beta.5
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

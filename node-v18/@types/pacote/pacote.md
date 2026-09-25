@@ -28,7 +28,6 @@ TypeScript definitions for pacote
 - 9.5.5
 - 9.5.6
 - 9.5.7
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

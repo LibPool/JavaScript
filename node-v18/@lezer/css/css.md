@@ -28,7 +28,6 @@ lezer-based CSS grammar
 - 1.3.6
 - 1.3.7
 - 1.3.8
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

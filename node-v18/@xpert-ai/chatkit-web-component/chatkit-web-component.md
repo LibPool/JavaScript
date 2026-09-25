@@ -28,7 +28,6 @@ Web Component for Xpert Chatkit
 - 0.5.3
 - 0.5.4
 - 0.6.0
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

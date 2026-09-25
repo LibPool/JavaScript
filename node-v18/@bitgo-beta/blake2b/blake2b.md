@@ -16,19 +16,19 @@ Blake2b (64-bit version) in pure JavaScript
 
 - 当前版本：3.0.3
 
-- 3.2.1-alpha.89
-- 3.2.1-alpha.9
-- 3.2.1-alpha.90
-- 3.2.1-alpha.91
-- 3.2.1-alpha.92
-- 3.2.1-alpha.93
-- 3.2.1-alpha.94
-- 3.2.1-alpha.95
-- 3.2.1-alpha.96
-- 3.2.1-alpha.97
-- 3.2.1-alpha.98
-- 3.2.1-alpha.99
-- 共 2821 个版本，完整清单见 npm registry。
+- 3.0.4-beta.2290
+- 3.0.4-beta.2291
+- 3.0.4-beta.2292
+- 3.0.4-beta.2293
+- 3.0.4-beta.2294
+- 3.0.4-beta.2295
+- 3.0.4-beta.2296
+- 3.0.4-beta.2297
+- 3.0.4-beta.2298
+- 3.0.4-beta.2299
+- 3.0.4-beta.2300
+- 3.0.4-beta.2301
+- 共 2,821 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

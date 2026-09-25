@@ -28,7 +28,6 @@ Build cross platform desktop apps with JavaScript, HTML, and CSS (with updated d
 - 44.4.2-depup.0
 - 44.4.3-depup.0
 - 44.4.4-depup.0
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

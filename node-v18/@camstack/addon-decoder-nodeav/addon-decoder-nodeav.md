@@ -16,9 +16,9 @@ Standalone in-process node-av decoder addon for CamStack
 
 - 当前版本：1.2.115
 
+- 1.2.87
 - 1.2.88
 - 1.2.89
-- 1.2.9
 - 1.2.90
 - 1.2.92
 - 1.2.93

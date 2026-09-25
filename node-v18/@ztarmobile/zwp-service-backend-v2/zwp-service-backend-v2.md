@@ -15,7 +15,7 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 
 - 当前版本：1.1.10
 
-- 1.0.9
+- 1.0.57
 - 1.1.0
 - 1.1.1
 - 1.1.10

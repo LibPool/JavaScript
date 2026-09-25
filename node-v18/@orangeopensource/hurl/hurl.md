@@ -28,7 +28,6 @@ Run and Test HTTP Requests with plain text and curl
 - 8.0.2
 - 8.0.3
 - 8.0.4
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

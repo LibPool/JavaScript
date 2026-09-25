@@ -1,0 +1,29 @@
+# @manifest-editor/ocr-docling
+
+> 标签: docling, editor, iiif, ocr
+
+## 简介
+
+@manifest-editor/ocr-docling - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/digirati-co-uk/iiif-manifest-editor#readme
+- 源码仓库：git+https://github.com/digirati-co-uk/iiif-manifest-editor.git
+- npm 页面：https://www.npmjs.com/package/@manifest-editor/ocr-docling
+
+## 历史版本号
+
+- 当前版本：2.2.0
+
+- 2.0.3-next.0.3782be7
+- 2.0.3-next.0.f58cbd8
+- 2.1.0
+- 2.1.1-next.0.96fdf30
+- 2.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @manifest-editor/ocr-docling`
+- npm registry：https://registry.npmjs.org/@manifest-editor/ocr-docling
+- Node 要求：>=18.14.1

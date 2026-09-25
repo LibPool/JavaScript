@@ -27,7 +27,6 @@ Various elements used to build Vue applications.
 - 1.0.1-beta.10006
 - 1.0.1-beta.10007
 - 1.0.1-beta.10008
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

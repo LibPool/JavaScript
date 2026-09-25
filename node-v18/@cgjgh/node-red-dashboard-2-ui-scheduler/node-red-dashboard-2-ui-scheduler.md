@@ -28,7 +28,6 @@ A UI scheduler node that integrates with Node-RED Dashboard 2.0
 - 3.3.5
 - 3.3.6
 - 3.3.7
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

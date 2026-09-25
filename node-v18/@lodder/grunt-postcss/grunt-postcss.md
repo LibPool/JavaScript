@@ -28,7 +28,6 @@ Apply several post-processors to your CSS using PostCSS
 - 3.0.1
 - 3.1.0
 - 3.1.1
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

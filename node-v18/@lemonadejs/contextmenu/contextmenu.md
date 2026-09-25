@@ -27,7 +27,6 @@ LemonadeJS Contextmenu JavaScript Plugin
 - 5.8.4
 - 5.8.5
 - 6.0.0-beta.0
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

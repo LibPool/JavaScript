@@ -16,12 +16,12 @@ Create and modify PDF files with JavaScript
 
 - 当前版本：6.1.13
 
+- 6.1.5-dev.14
+- 6.1.5-dev.15
 - 6.1.5-dev.16
 - 6.1.5-dev.17
 - 6.1.5-dev.19
-- 6.1.5-dev.2
 - 6.1.5-dev.27
-- 6.1.5-dev.4
 - 6.1.6
 - 6.1.7-dev.1
 - 6.1.8

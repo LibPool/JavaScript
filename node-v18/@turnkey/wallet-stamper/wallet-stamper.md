@@ -28,7 +28,6 @@ Wallet stamper for @turnkey/http
 - 1.1.7
 - 1.1.8
 - 1.1.9
-- 共 49 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -16,15 +16,15 @@ Vue 3 composables for Brazilian document validators — delegates to @br-validat
 
 - 当前版本：1.10.0-data.46
 
+- 1.10.0-data.43
+- 1.10.0-data.44
+- 1.10.0-data.45
+- 1.10.0-data.46
+- 1.10.0-data.5
+- 1.10.0-data.6
+- 1.10.0-data.7
 - 1.10.0-data.8
 - 1.10.0-data.9
-- 1.6.0
-- 1.6.1
-- 1.6.2
-- 1.7.0
-- 1.8.0
-- 1.8.1
-- 1.8.2
 - 1.8.3
 - 1.8.3-data.1
 - 1.9.0

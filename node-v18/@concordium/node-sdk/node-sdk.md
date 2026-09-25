@@ -28,7 +28,6 @@ Helpers for interacting with the Concordium node
 - 9.5.1
 - 9.5.2
 - 9.5.3
-- 共 43 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

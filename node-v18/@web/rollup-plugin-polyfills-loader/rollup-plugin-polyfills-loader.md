@@ -28,7 +28,6 @@ Plugin for injecting a polyfills loader to HTML pages
 - 2.1.2
 - 2.1.3
 - 3.0.0
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

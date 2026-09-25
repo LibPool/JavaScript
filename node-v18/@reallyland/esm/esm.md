@@ -28,7 +28,6 @@ A collection of node modules re-exported as ES Modules
 - 0.0.7
 - 0.0.7-rc.0
 - 0.0.8
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

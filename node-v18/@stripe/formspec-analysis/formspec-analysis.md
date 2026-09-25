@@ -1,0 +1,26 @@
+# @stripe/formspec-analysis
+
+> 标签: JavaScript
+
+## 简介
+
+Shared comment-tag analysis utilities for FormSpec tooling
+
+## 官网
+
+- 官网：https://github.com/stripe/formspec#readme
+- 源码仓库：git+https://github.com/stripe/formspec.git
+- npm 页面：https://www.npmjs.com/package/@stripe/formspec-analysis
+
+## 历史版本号
+
+- 当前版本：0.1.0-alpha.74
+
+- 0.1.0-alpha.72
+- 0.1.0-alpha.73
+- 0.1.0-alpha.74
+
+## 获取地址
+
+- npm 安装：`npm install @stripe/formspec-analysis`
+- npm registry：https://registry.npmjs.org/@stripe/formspec-analysis

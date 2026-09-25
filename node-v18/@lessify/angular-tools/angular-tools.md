@@ -28,7 +28,6 @@ Angular command line tool to facilitate application development and build.
 - 17.3.0
 - 17.3.1
 - 17.3.2
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

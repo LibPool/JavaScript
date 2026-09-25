@@ -1,0 +1,22 @@
+# @aisastra/aura-php-sdk
+
+> 标签: aura, composer, graph-api, php
+
+## 简介
+
+Official PHP SDK for the AURA Developer Platform Graph API (Composer: aisastra/aura-sdk)
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@aisastra/aura-php-sdk
+
+## 历史版本号
+
+- 当前版本：1.4.0
+
+- 1.4.0
+
+## 获取地址
+
+- npm 安装：`npm install @aisastra/aura-php-sdk`
+- npm registry：https://registry.npmjs.org/@aisastra/aura-php-sdk

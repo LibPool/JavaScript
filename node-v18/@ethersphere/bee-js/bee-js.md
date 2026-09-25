@@ -16,7 +16,7 @@ Javascript client for Bee
 
 - 当前版本：13.1.0
 
-- 9.2.0
+- 13.1.1-upcoming.gebd4706
 - 9.2.1
 - 9.3.0
 - 9.4.0

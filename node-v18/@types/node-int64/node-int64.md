@@ -28,7 +28,6 @@ TypeScript definitions for node-int64
 - 0.4.30
 - 0.4.31
 - 0.4.32
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

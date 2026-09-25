@@ -28,7 +28,6 @@ Toast components for the Courier web UI
 - 2.4.0
 - 2.4.1
 - 2.4.2
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

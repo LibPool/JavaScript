@@ -27,7 +27,6 @@ Design system e biblioteca de componentes Vue da TopSolutions
 - 0.1.2
 - 0.1.2-beta.0
 - 0.1.2-beta.1
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

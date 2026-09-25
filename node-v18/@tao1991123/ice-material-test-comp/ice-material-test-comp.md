@@ -1,0 +1,23 @@
+# @tao1991123/ice-material-test-comp
+
+> 标签: component, ice, react
+
+## 简介
+
+test comp
+
+## 官网
+
+- 官网：https://unpkg.com/@tao1991123/ice-material-test-comp@1.0.0/build/index.html
+- npm 页面：https://www.npmjs.com/package/@tao1991123/ice-material-test-comp
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @tao1991123/ice-material-test-comp`
+- npm registry：https://registry.npmjs.org/@tao1991123/ice-material-test-comp

@@ -28,7 +28,6 @@ Fast, modern, in-memory key-value store for JavaScript. The perfect solution for
 - 0.1.92
 - 0.2.0
 - 0.2.1
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -1,0 +1,36 @@
+# @ligph/ui
+
+> 标签: JavaScript
+
+## 简介
+
+LigPH UI Component Library
+
+## 官网
+
+- 官网：https://gitlab.com/ligph.com/ui#readme
+- 源码仓库：git+ssh://git@gitlab.com/ligph.com/ui.git
+- npm 页面：https://www.npmjs.com/package/@ligph/ui
+
+## 历史版本号
+
+- 当前版本：0.2.96
+
+- 0.2.85
+- 0.2.86
+- 0.2.87
+- 0.2.88
+- 0.2.89
+- 0.2.90
+- 0.2.91
+- 0.2.92
+- 0.2.93
+- 0.2.94
+- 0.2.95
+- 0.2.96
+- 共 170 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @ligph/ui`
+- npm registry：https://registry.npmjs.org/@ligph/ui

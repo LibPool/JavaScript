@@ -28,7 +28,6 @@ Vue host adapter for Vooya component islands.
 - 0.1.0-alpha.7
 - 0.1.0-alpha.8
 - 0.1.0-alpha.9
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

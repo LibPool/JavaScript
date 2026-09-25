@@ -16,6 +16,7 @@ Storybook for Vue: Develop Vue Component in isolation with Hot Reloading.
 
 - 当前版本：7.6.17
 
+- 7.6.21
 - 7.6.22
 - 7.6.23
 - 7.6.24
@@ -26,7 +27,6 @@ Storybook for Vue: Develop Vue Component in isolation with Hot Reloading.
 - 7.6.7
 - 7.6.8
 - 7.6.9
-- 8.0.0-alpha.0
 - 8.0.0-alpha.1
 - 共 437 个版本，完整清单见 npm registry。
 

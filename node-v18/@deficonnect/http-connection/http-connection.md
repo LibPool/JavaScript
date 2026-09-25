@@ -28,7 +28,6 @@ Http Connection for WalletConnect Providers
 - 1.6.7-alpha.25
 - 1.6.8
 - 1.6.9
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

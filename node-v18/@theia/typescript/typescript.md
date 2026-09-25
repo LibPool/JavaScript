@@ -16,19 +16,19 @@ Theia - Typescript Extension
 
 - 当前版本：0.15.0
 
-- 0.9.0-next.d89dccf6
-- 0.9.0-next.da653c26
-- 0.9.0-next.dcdea4aa
-- 0.9.0-next.debb97ed
-- 0.9.0-next.e830fbc2
-- 0.9.0-next.e939764f
-- 0.9.0-next.e9c190b4
-- 0.9.0-next.f247b57b
-- 0.9.0-next.f36c151e
-- 0.9.0-next.fa15670e
-- 0.9.0-next.fd50a4b1
-- 0.9.0-next.ff8b0139
-- 共 1872 个版本，完整清单见 npm registry。
+- 0.16.0-next.ba016ee1
+- 0.16.0-next.bb249c28
+- 0.16.0-next.bc16fc18
+- 0.16.0-next.c1bd96f7
+- 0.16.0-next.cc0da4e6
+- 0.16.0-next.d1678ad8
+- 0.16.0-next.d54c2f0d
+- 0.16.0-next.d5f32625
+- 0.16.0-next.e5ab5318
+- 0.16.0-next.e7b7a2be
+- 0.16.0-next.e945f2ef
+- 0.16.0-next.f114ded2
+- 共 1,872 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

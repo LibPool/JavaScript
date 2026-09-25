@@ -28,7 +28,6 @@ A react native interface to access documents from dropbox, google drive, iCloud.
 - 12.0.1
 - 12.0.2
 - 9.3.1
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

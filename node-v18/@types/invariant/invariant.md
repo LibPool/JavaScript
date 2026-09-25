@@ -28,7 +28,6 @@ TypeScript definitions for invariant
 - 2.2.35
 - 2.2.36
 - 2.2.37
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

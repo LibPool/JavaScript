@@ -28,7 +28,6 @@ Vue 3 OneSignal Plugin: Make it easy to integrate OneSignal with your Vue App!
 - 2.5.2
 - 2.5.3
 - 2.5.4
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

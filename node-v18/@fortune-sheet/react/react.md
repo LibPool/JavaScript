@@ -16,13 +16,13 @@ FortuneSheet is a drop-in javascript spreadsheet library that provides rich feat
 
 - 当前版本：1.0.4
 
-- 0.6.3
-- 0.6.4-beta.0
-- 0.7.0
-- 0.7.1
-- 0.8.0
-- 0.9.0
-- 0.9.1
+- 0.19.8
+- 0.19.9
+- 0.20.0
+- 0.20.1
+- 0.20.2
+- 0.21.0
+- 0.22.0
 - 1.0.0
 - 1.0.1
 - 1.0.2

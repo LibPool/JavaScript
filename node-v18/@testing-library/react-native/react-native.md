@@ -16,18 +16,18 @@ Simple and complete React Native testing utilities that encourage good testing p
 
 - 当前版本：14.0.1
 
-- 7.0.0-rc.0
-- 7.0.1
-- 7.0.2
-- 7.1.0
-- 7.2.0
-- 8.0.0
-- 8.0.0-rc.0
-- 8.0.0-rc.1
-- 9.0.0
-- 9.0.0-alpha.0
-- 9.1.0
-- 9.2.0
+- 14.0.0-alpha.2
+- 14.0.0-alpha.3
+- 14.0.0-alpha.4
+- 14.0.0-alpha.5
+- 14.0.0-alpha.6
+- 14.0.0-beta.0
+- 14.0.0-beta.1
+- 14.0.0-rc.0
+- 14.0.0-rc.1
+- 14.0.0-rc.2
+- 14.0.0-rc.3
+- 14.0.1
 - 共 117 个版本，完整清单见 npm registry。
 
 ## 获取地址

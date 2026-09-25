@@ -28,7 +28,6 @@ A Redux binding for React Router v6, v7 and v8
 - 4.4.1
 - 4.5.0
 - 4.6.0
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

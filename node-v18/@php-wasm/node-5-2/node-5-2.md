@@ -28,7 +28,6 @@ PHP 5.2 WebAssembly binaries for node (legacy)
 - 3.1.53
 - 3.1.54
 - 3.1.55
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

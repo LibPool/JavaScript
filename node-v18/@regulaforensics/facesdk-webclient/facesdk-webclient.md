@@ -15,6 +15,7 @@ JS client for facesdk web service
 
 - 当前版本：8.3.767
 
+- 8.4.826-nightly
 - 8.4.827-rc
 - 8.4.828-nightly
 - 8.4.829-rc
@@ -26,7 +27,6 @@ JS client for facesdk web service
 - 8.4.835-rc
 - 8.4.836-nightly
 - 8.4.837-rc
-- 9.1.2-nightly
 - 共 870 个版本，完整清单见 npm registry。
 
 ## 获取地址

@@ -28,7 +28,6 @@ Adobe Experience Platform support for React Native apps.
 - 7.3.0
 - 7.4.0
 - 7.4.0-beta.1
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

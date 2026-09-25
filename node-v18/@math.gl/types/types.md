@@ -28,7 +28,6 @@ TypeScript types for math.gl
 - 5.0.0-alpha.4
 - 5.0.0-alpha.5
 - 5.0.0-alpha.6
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

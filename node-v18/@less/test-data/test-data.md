@@ -28,7 +28,6 @@ Less files and CSS results
 - 5.0.0-alpha.7
 - 5.0.0-alpha.8
 - 5.0.0-alpha.9
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

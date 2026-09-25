@@ -28,7 +28,6 @@ Angular components for Brightlayer UI applications
 - 9.0.0-alpha.0
 - 9.0.0-alpha.1
 - 9.0.0-alpha.2
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

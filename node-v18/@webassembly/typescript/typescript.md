@@ -28,7 +28,6 @@ TypeScript 7 WebAssembly (WASM) distribution
 - 7.1.0-dev.20260817.1
 - 7.1.0-dev.20260818.1
 - 7.1.0-dev.20260819.1
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

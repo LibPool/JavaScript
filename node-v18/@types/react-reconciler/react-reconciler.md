@@ -28,7 +28,6 @@ TypeScript definitions for react-reconciler
 - 0.32.2
 - 0.32.3
 - 0.33.0
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

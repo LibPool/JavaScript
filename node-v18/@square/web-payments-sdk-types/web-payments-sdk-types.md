@@ -15,6 +15,7 @@ Types for Square's Web Payments SDK
 
 - 当前版本：1.84.5
 
+- 1.83.4
 - 1.83.5
 - 1.83.6
 - 1.83.7
@@ -26,7 +27,6 @@ Types for Square's Web Payments SDK
 - 1.84.3
 - 1.84.4
 - 1.84.5
-- 1.9.0
 - 共 193 个版本，完整清单见 npm registry。
 
 ## 获取地址

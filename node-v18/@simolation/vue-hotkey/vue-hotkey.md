@@ -28,7 +28,6 @@ Vue 3 keyboard shortcut library.
 - 2.1.0
 - 2.1.1
 - 2.1.2
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

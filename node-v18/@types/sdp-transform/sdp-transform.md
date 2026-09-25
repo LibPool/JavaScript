@@ -28,7 +28,6 @@ TypeScript definitions for sdp-transform
 - 2.4.8
 - 2.4.9
 - 3.0.0
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -16,9 +16,9 @@ CMS Design System Sass/CSS and React assets
 
 - 当前版本：18.1.0
 
-- 8.0.0-beta.3
-- 8.0.1
-- 8.0.2
+- 18.0.0-beta.1
+- 18.0.1
+- 18.1.0
 - 8.0.3
 - 8.0.4
 - 8.0.5

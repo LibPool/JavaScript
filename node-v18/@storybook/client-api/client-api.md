@@ -28,7 +28,7 @@ Storybook Client API
 - 7.6.7
 - 7.6.8
 - 7.6.9
-- 共 1319 个版本，完整清单见 npm registry。
+- 共 1,319 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Angular gallery directive that hooks the lightbox with the images automatically.
 - 4.0.3
 - 4.1.0-beta.0
 - 5.0.0-beta.0
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

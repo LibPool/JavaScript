@@ -28,7 +28,6 @@ Vue interface for working with Unleash
 - 0.1.5
 - 0.1.6
 - 0.1.7-beta.0
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

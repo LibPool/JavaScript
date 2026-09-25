@@ -28,7 +28,6 @@ TypeScript definitions for react-vertical-timeline-component
 - 3.3.4
 - 3.3.5
 - 3.3.6
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

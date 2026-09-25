@@ -16,6 +16,11 @@ ADHDev standalone daemon — embedded HTTP/WS server for local dashboard
 
 - 当前版本：1.0.59
 
+- 1.0.60-rc.27
+- 1.0.60-rc.28
+- 1.0.60-rc.29
+- 1.0.60-rc.3
+- 1.0.60-rc.30
 - 1.0.60-rc.31
 - 1.0.60-rc.32
 - 1.0.60-rc.33
@@ -23,12 +28,7 @@ ADHDev standalone daemon — embedded HTTP/WS server for local dashboard
 - 1.0.60-rc.5
 - 1.0.60-rc.7
 - 1.0.60-rc.9
-- 1.0.7
-- 1.0.7-rc.1
-- 1.0.8
-- 1.0.8-rc.1
-- 1.0.9
-- 共 1445 个版本，完整清单见 npm registry。
+- 共 1,445 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

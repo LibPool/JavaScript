@@ -16,18 +16,18 @@ Free open-source Vue 3 page builder and drag-and-drop visual editor for ecommerc
 
 - 当前版本：3.5.83
 
+- 3.5.70
+- 3.5.71
 - 3.5.72
 - 3.5.75
 - 3.5.76
 - 3.5.77
 - 3.5.78
 - 3.5.79
-- 3.5.8
 - 3.5.80
 - 3.5.81
 - 3.5.82
 - 3.5.83
-- 3.5.9
 - 共 382 个版本，完整清单见 npm registry。
 
 ## 获取地址

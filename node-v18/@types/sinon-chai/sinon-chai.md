@@ -28,7 +28,6 @@ TypeScript definitions for sinon-chai
 - 3.2.8
 - 3.2.9
 - 4.0.0
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

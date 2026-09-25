@@ -28,7 +28,6 @@ TypeScript definitions for angular-spinner
 - 0.5.33
 - 0.5.34
 - 0.5.35
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

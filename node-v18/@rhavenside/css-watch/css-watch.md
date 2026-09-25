@@ -27,7 +27,6 @@ Runtime CSS conflict detector for development - analyzes CSS conflicts, override
 - 1.0.6
 - 1.0.7
 - 1.0.9
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

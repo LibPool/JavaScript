@@ -28,7 +28,6 @@ A JavaScript client library for generating image URLs with imgix
 - 3.7.0
 - 3.7.1
 - 3.8.0
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

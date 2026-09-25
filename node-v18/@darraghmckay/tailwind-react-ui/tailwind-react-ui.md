@@ -28,7 +28,6 @@ React component library & UI framework for use with Tailwind CSS
 - 0.9.6
 - 0.9.7
 - 0.9.8
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

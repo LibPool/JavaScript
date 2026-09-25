@@ -28,7 +28,6 @@ Zero-runtime Stylesheets-in-TypeScript
 - 0.7.1
 - 0.7.1-vite-environment-20260407054241
 - 0.7.2
-- 共 45 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ teselagen maintained version of react-table@v6 (with react-list virtualization e
 - 6.10.7
 - 6.10.8
 - 6.10.9
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

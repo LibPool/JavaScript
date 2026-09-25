@@ -28,7 +28,6 @@ TypeScript definitions for empower
 - 1.2.33
 - 1.2.34
 - 1.2.35
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

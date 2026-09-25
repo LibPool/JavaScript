@@ -28,7 +28,6 @@ Web client for kiro-cli over the Agent Client Protocol
 - 0.9.6
 - 0.9.7
 - 0.9.8
-- 共 46 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for smtp-server
 - 3.5.7
 - 3.5.8
 - 3.5.9
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

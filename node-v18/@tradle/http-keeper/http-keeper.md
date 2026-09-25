@@ -28,7 +28,6 @@ Basic offline keeper with fallback to fetching files via http
 - 3.0.5
 - 3.1.0
 - 3.1.1
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

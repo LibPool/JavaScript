@@ -27,7 +27,6 @@ Trimble Identity SDK for JavaScript/TypeScript
 - 1.0.2-rc.4
 - 1.0.3
 - 1.0.3-rc.1
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

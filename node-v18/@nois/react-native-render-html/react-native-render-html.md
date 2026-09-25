@@ -28,7 +28,6 @@ React Native component that renders HTML as native views
 - 3.12.8
 - 3.12.9
 - 4.2.0
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -16,19 +16,19 @@ TypeScript scope analyser for ESLint
 
 - 当前版本：8.70.1
 
-- 8.9.0
-- 8.9.1-alpha.0
-- 8.9.1-alpha.1
-- 8.9.1-alpha.10
-- 8.9.1-alpha.2
-- 8.9.1-alpha.3
-- 8.9.1-alpha.4
-- 8.9.1-alpha.5
-- 8.9.1-alpha.6
-- 8.9.1-alpha.7
-- 8.9.1-alpha.8
-- 8.9.1-alpha.9
-- 共 4133 个版本，完整清单见 npm registry。
+- 8.70.1-alpha.4
+- 8.70.1-alpha.5
+- 8.70.1-alpha.6
+- 8.70.1-alpha.7
+- 8.70.1-alpha.8
+- 8.70.1-alpha.9
+- 8.70.2-alpha.0
+- 8.70.2-alpha.1
+- 8.70.2-alpha.2
+- 8.70.2-alpha.3
+- 8.70.2-alpha.4
+- 8.70.2-alpha.5
+- 共 4,133 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

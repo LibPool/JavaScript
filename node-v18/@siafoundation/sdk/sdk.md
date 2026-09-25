@@ -28,7 +28,6 @@ SDK for interacting directly with the Sia network from browsers and web clients.
 - 0.4.3
 - 0.4.4
 - 0.5.0
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

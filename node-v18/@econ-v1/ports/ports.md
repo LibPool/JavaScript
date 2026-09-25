@@ -16,8 +16,8 @@ Platform-neutral ports for Node client applications
 
 - 当前版本：7.1.9
 
-- 7.0.8
-- 7.0.9
+- 7.0.77
+- 7.0.78
 - 7.1.0
 - 7.1.1
 - 7.1.2

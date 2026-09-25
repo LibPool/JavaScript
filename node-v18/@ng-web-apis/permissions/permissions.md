@@ -28,7 +28,6 @@ A library for comfortable use of Permissions API in Angular applications
 - 5.1.0
 - 5.2.0
 - 5.3.0
-- 共 48 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

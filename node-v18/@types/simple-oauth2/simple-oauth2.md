@@ -28,7 +28,6 @@ TypeScript definitions for simple-oauth2
 - 5.0.6
 - 5.0.7
 - 5.0.8
-- 共 43 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

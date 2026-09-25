@@ -27,7 +27,6 @@ Heavily status code accessor rendered from node's http#STATUS_CODES constant
 - 3.0.0-alpha.7
 - 3.0.0-alpha.8
 - 3.0.0-alpha.9
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

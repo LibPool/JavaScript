@@ -28,7 +28,6 @@ Linux arm64 musl native bindings for @palamedes/core-node
 - 1.23.0
 - 1.24.0
 - 1.25.0
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ HeroIcons components for Vue. Designed for ease of use and high performance
 - 0.25.1721921294
 - 0.26.1721921294
 - 0.28.1721921294
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

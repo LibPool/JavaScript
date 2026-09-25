@@ -28,7 +28,6 @@ TypeScript definitions for http-proxy
 - 1.17.7
 - 1.17.8
 - 1.17.9
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

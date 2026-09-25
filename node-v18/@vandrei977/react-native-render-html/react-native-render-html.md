@@ -16,8 +16,8 @@ The hackable, full-featured Open Source HTML rendering solution for React Native
 
 - 当前版本：6.3.106
 
+- 6.3.88
 - 6.3.89
-- 6.3.9
 - 6.3.90
 - 6.3.91
 - 6.3.92

@@ -27,7 +27,6 @@ Base eslint config for Vue projects for Quero Education
 - 4.0.1-beef-up-typescript-eslint-config.5
 - 5.0.0
 - 5.0.1
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

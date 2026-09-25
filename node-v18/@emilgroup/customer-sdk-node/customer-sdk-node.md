@@ -15,18 +15,18 @@ OpenAPI client for @emilgroup/customer-sdk-node
 
 - 当前版本：1.63.0
 
+- 1.58.1-beta.1
+- 1.58.1-beta.2
+- 1.58.1-beta.3
+- 1.58.1-beta.4
+- 1.58.1-beta.5
 - 1.58.1-beta.6
 - 1.58.1-beta.7
 - 1.58.1-beta.8
 - 1.58.1-beta.9
-- 1.6.0
-- 1.6.1
 - 1.61.0
 - 1.63.0
 - 1.63.1-beta.0
-- 1.9.0
-- 1.9.0-beta.0
-- 1.9.1
 - 共 127 个版本，完整清单见 npm registry。
 
 ## 获取地址

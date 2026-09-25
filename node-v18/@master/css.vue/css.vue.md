@@ -16,8 +16,10 @@ Integrate Master CSS in Vue way
 
 - 当前版本：2.0.0-rc.67
 
+- 2.0.0-rc.66
+- 2.0.0-rc.67
+- 2.0.0-rc.68
 - 2.0.0-rc.69
-- 2.0.0-rc.7
 - 2.0.0-rc.70
 - 2.0.0-rc.71
 - 2.0.0-rc.72
@@ -26,8 +28,6 @@ Integrate Master CSS in Vue way
 - 2.0.0-rc.75
 - 2.0.0-rc.76
 - 2.0.0-rc.77
-- 2.0.0-rc.8
-- 2.0.0-rc.9
 - 共 130 个版本，完整清单见 npm registry。
 
 ## 获取地址

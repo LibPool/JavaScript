@@ -28,7 +28,6 @@ TypeScript definitions to define globals for the Twilio Serverless runtime
 - 3.0.0
 - 4.0.0
 - 4.0.1
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

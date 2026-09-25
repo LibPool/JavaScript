@@ -28,7 +28,6 @@ Full Vue Reactivity API without DOM
 - 1.0.0-beta.2
 - 1.0.1
 - 1.0.2
-- 共 45 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

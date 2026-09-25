@@ -28,7 +28,6 @@ Common utilities for web instrumentation
 - 0.57.0
 - 0.57.1
 - 0.57.2
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

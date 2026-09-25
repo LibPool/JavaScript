@@ -28,7 +28,6 @@ Rewrite url values in CSS
 - 2.1.0
 - 2.1.1
 - 3.0.0
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

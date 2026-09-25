@@ -28,7 +28,6 @@ TypeScript definitions for clean-css
 - 4.2.7
 - 4.2.8
 - 4.2.9
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

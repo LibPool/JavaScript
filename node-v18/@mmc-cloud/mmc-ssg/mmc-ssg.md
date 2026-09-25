@@ -1,0 +1,26 @@
+# @mmc-cloud/mmc-ssg
+
+> 标签: docs, mdx, react, ssg, vite
+
+## 简介
+
+Vite & MDX & React powered static site generator.
+
+## 官网
+
+- 官网：https://github.com/mmc-space/mmc-ssg#readme
+- 源码仓库：git+https://github.com/mmc-space/mmc-ssg.git
+- npm 页面：https://www.npmjs.com/package/@mmc-cloud/mmc-ssg
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @mmc-cloud/mmc-ssg`
+- npm registry：https://registry.npmjs.org/@mmc-cloud/mmc-ssg

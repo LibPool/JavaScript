@@ -28,7 +28,6 @@ TypeScript SDK for Neon Auth - authentication for PostgreSQL with multiple adapt
 - 0.4.1-beta
 - 0.4.2-beta
 - 0.5.0-beta
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

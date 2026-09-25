@@ -28,7 +28,6 @@ Core Mindful Web Marko components.
 - 1.83.1
 - 1.86.0
 - 1.92.0
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

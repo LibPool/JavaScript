@@ -28,7 +28,6 @@ TypeScript definitions for node-sass
 - 4.11.6
 - 4.11.7
 - 4.11.8
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

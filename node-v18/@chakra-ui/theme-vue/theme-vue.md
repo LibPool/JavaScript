@@ -28,7 +28,6 @@ Default theme for @chakra-ui/vue default theme object
 - 0.5.0
 - 0.6.0
 - 0.6.1
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

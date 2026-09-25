@@ -27,7 +27,6 @@ The HTTP backend module for the soundcheck plugin.
 - 0.5.0
 - 0.6.0
 - 0.6.1
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

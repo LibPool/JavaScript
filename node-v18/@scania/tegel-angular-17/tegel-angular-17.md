@@ -15,6 +15,9 @@ Angular wrappers for Tegel package using Angular 17 and above
 
 - 当前版本：1.64.0
 
+- 1.62.0-dropdown-vars-beta.1
+- 1.62.0-flaky-tests-beta.0
+- 1.62.0-stepper-vars-beta.0
 - 1.63.0
 - 1.63.0-bump-react-beta.2
 - 1.63.0-pin-wrappers-beta.0
@@ -24,9 +27,6 @@ Angular wrappers for Tegel package using Angular 17 and above
 - 1.63.0-pnpm-beta.3
 - 1.63.0-table-header-beta.0
 - 1.64.0
-- 1.8.2
-- 1.9.0
-- 1.9.1
 - 共 289 个版本，完整清单见 npm registry。
 
 ## 获取地址

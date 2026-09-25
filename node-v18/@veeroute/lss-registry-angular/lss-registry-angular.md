@@ -27,7 +27,6 @@ OpenAPI client for @veeroute/lss-registry-angular
 - 7.41.3481
 - 7.42.3498
 - 7.42.3500
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

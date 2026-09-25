@@ -16,6 +16,8 @@ HTTP server service for Zhin.js with routing and WebSocket support
 
 - 当前版本：1.0.79
 
+- 1.0.68
+- 1.0.69
 - 1.0.70
 - 1.0.71
 - 1.0.72
@@ -26,8 +28,6 @@ HTTP server service for Zhin.js with routing and WebSocket support
 - 1.0.77
 - 1.0.78
 - 1.0.79
-- 1.0.8
-- 1.0.9
 - 共 77 个版本，完整清单见 npm registry。
 
 ## 获取地址

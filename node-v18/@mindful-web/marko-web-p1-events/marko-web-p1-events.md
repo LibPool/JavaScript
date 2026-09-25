@@ -28,7 +28,6 @@ Parameter1 user event tracking components for Mindful Web/Marko websites.
 - 1.92.2
 - 1.93.0
 - 1.93.1
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

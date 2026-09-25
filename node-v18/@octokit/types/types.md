@@ -16,8 +16,8 @@ Shared TypeScript definitions for Octokit projects
 
 - 当前版本：18.0.0
 
-- 9.1.1
-- 9.1.2
+- 17.0.0
+- 18.0.0
 - 9.1.3
 - 9.1.4
 - 9.2.0

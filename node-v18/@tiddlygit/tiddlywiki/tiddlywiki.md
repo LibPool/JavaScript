@@ -28,7 +28,6 @@ a non-linear personal web notebook
 - 5.3.4-prerelease-2024-02-04
 - 5.3.4-prerelease-2024-03-20
 - 5.3.5
-- 共 43 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Provider adapter SDK and HTTP bridge for AgentVM compute providers.
 - 0.14.7
 - 0.14.8
 - 0.14.9
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

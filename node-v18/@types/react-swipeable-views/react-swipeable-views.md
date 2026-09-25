@@ -28,7 +28,6 @@ TypeScript definitions for react-swipeable-views
 - 0.13.4
 - 0.13.5
 - 0.13.6
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

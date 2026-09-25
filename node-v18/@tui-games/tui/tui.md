@@ -28,7 +28,6 @@ Play familiar single-player games in a lightweight HTML overlay while your agent
 - 0.4.6
 - 0.4.8
 - 0.4.9
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

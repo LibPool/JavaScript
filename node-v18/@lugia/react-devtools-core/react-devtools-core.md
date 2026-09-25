@@ -1,0 +1,25 @@
+# @lugia/react-devtools-core
+
+> 标签: JavaScript
+
+## 简介
+
+This is shared source code for the Chrome and Firefox extensions.
+
+## 官网
+
+- 官网：https://github.com/facebook/react-devtools#readme
+- 源码仓库：git+https://github.com/facebook/react-devtools.git
+- npm 页面：https://www.npmjs.com/package/@lugia/react-devtools-core
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.3
+- 2.0.0-alpha.0
+
+## 获取地址
+
+- npm 安装：`npm install @lugia/react-devtools-core`
+- npm registry：https://registry.npmjs.org/@lugia/react-devtools-core

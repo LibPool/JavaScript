@@ -27,7 +27,6 @@ databeat tracker client for Web browsers and node.js
 - 0.9.1
 - 0.9.2
 - 0.9.3
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

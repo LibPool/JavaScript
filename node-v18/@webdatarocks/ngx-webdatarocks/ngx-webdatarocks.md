@@ -28,7 +28,6 @@ Angular wrapper for the WebDataRocks Pivot Table component
 - 1.4.9-beta.1
 - 1.4.9-beta.2
 - 1.4.9-beta.3
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Add a Github corner to your project page, This GitHub corners for web component.
 - 1.5.7
 - 1.5.8
 - 1.5.9
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

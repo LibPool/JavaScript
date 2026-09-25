@@ -28,7 +28,6 @@ A React component wrapper for web components.
 - 2.1.1-pre.0
 - 2.1.2
 - 2.1.3
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

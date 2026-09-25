@@ -16,6 +16,7 @@ Bun plugin for @tsrx/vue (.tsrx modules)
 
 - 当前版本：0.0.80
 
+- 0.0.69
 - 0.0.70
 - 0.0.71
 - 0.0.72
@@ -26,7 +27,6 @@ Bun plugin for @tsrx/vue (.tsrx modules)
 - 0.0.77
 - 0.0.78
 - 0.0.79
-- 0.0.8
 - 0.0.80
 - 共 76 个版本，完整清单见 npm registry。
 

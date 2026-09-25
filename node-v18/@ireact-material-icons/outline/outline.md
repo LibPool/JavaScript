@@ -1,0 +1,30 @@
+# @ireact-material-icons/outline
+
+> 标签: JavaScript
+
+## 简介
+
+google material icons svg
+
+## 官网
+
+- 官网：https://github.com/ireact-material/ireact-material-icons#readme
+- 源码仓库：git+https://github.com/ireact-material/ireact-material-icons.git
+- npm 页面：https://www.npmjs.com/package/@ireact-material-icons/outline
+
+## 历史版本号
+
+- 当前版本：1.0.9
+
+- 0.0.1
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @ireact-material-icons/outline`
+- npm registry：https://registry.npmjs.org/@ireact-material-icons/outline
+- Node 要求：>=8

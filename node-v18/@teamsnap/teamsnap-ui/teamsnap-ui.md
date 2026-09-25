@@ -16,16 +16,16 @@ a CSS component library for TeamSnap
 
 - 当前版本：3.12.3
 
-- 4.0.0-alpha.90
-- 4.0.0-alpha.91
-- 4.0.0-alpha.92
-- 4.0.0-alpha.93
-- 4.0.0-alpha.94
-- 4.0.0-alpha.95
-- 4.0.0-alpha.96
-- 4.0.0-alpha.97
-- 4.0.0-alpha.98
-- 4.0.0-alpha.99
+- 4.0.0-alpha.180
+- 4.0.0-alpha.181
+- 4.0.0-alpha.182
+- 4.0.0-alpha.183
+- 4.0.0-alpha.184
+- 4.0.0-alpha.185
+- 4.0.0-alpha.186
+- 4.0.0-alpha.187
+- 4.0.0-alpha.188
+- 4.0.0-alpha.189
 - 4.0.0-test-icon-updates.1
 - 4.0.0-test-icon-updates.2
 - 共 276 个版本，完整清单见 npm registry。

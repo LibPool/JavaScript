@@ -16,19 +16,19 @@ HTTP exceptions module for Ts.ED Framework and other pure Express application
 
 - 当前版本：8.38.8
 
-- 8.9.0-beta.1
-- 8.9.0-beta.2
-- 8.9.0-beta.3
-- 8.9.0-beta.4
-- 8.9.0-beta.5
-- 8.9.0-beta.6
-- 8.9.0-beta.7
-- 8.9.1
-- 8.9.2
-- 8.9.3
-- 8.9.4
-- 8.9.5
-- 共 1047 个版本，完整清单见 npm registry。
+- 8.38.0-beta.2
+- 8.38.0-beta.3
+- 8.38.0-beta.4
+- 8.38.0-beta.5
+- 8.38.0-beta.6
+- 8.38.1
+- 8.38.2
+- 8.38.4
+- 8.38.5
+- 8.38.6
+- 8.38.7
+- 8.38.8
+- 共 1,047 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

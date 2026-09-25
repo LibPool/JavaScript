@@ -1,0 +1,23 @@
+# @kilyakus/js-dockview
+
+> 标签: JavaScript
+
+## 简介
+
+Is a lightweight and universal dock/taskbar module.
+
+## 官网
+
+- 源码仓库：git+https://github.com/kilyakus/@kilyakus/js-dockview.git
+- npm 页面：https://www.npmjs.com/package/@kilyakus/js-dockview
+
+## 历史版本号
+
+- 当前版本：29.26.4
+
+- 29.26.4
+
+## 获取地址
+
+- npm 安装：`npm install @kilyakus/js-dockview`
+- npm registry：https://registry.npmjs.org/@kilyakus/js-dockview

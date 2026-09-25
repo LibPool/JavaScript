@@ -28,7 +28,6 @@ vue plugin for form validate
 - 0.0.44
 - 0.0.45
 - 0.0.50
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

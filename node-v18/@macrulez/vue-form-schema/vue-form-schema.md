@@ -28,7 +28,6 @@ Reactive Vue 3 forms generated from JSON, Zod, Yup or Valibot schemas, with vali
 - 0.2.6
 - 0.2.7
 - 0.2.8
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

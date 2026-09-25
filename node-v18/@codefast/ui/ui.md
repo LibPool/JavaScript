@@ -16,6 +16,8 @@ Core UI components library built with React and Tailwind CSS
 
 - 当前版本：0.9.3
 
+- 0.5.0-canary.9
+- 0.6.0
 - 0.6.1
 - 0.6.2
 - 0.7.0
@@ -26,8 +28,6 @@ Core UI components library built with React and Tailwind CSS
 - 0.9.3
 - 1.0.0-canary.6
 - 1.0.0-canary.7
-- 1.0.1-canary.2
-- 1.0.1-canary.3
 - 共 278 个版本，完整清单见 npm registry。
 
 ## 获取地址

@@ -16,11 +16,11 @@ React components, hooks, and utilities for creating custom Shopify storefronts
 
 - 当前版本：2026.4.3
 
-- 2025.5.0
-- 2025.5.1
-- 2025.7.0
-- 2025.7.1
-- 2025.7.2
+- 0.0.0-next-e7cb642-20260127170943
+- 0.0.0-next-e7ce1a4-20260206161842
+- 0.0.0-next-ed125e2-20260218110849
+- 0.0.0-next-ff93a1d-20260216125224
+- 2025.10.0
 - 2026.1.0
 - 2026.1.1
 - 2026.1.2
@@ -28,7 +28,7 @@ React components, hooks, and utilities for creating custom Shopify storefronts
 - 2026.4.1
 - 2026.4.2
 - 2026.4.3
-- 共 1365 个版本，完整清单见 npm registry。
+- 共 1,365 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

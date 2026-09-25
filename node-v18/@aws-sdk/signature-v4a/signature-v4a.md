@@ -28,7 +28,6 @@ AWS SDK for JavaScript SignatureV4a package
 - 3.972.0
 - 3.997.0
 - 3.998.0
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

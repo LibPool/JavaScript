@@ -28,7 +28,6 @@ TypeScript definitions for graphviz
 - 0.0.37
 - 0.0.38
 - 0.0.39
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Two simple primitives for setting cursor css property reactively.
 - 1.0.0-next.0
 - 1.0.0-next.1
 - 1.0.0-next.2
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

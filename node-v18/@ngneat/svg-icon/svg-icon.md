@@ -28,7 +28,6 @@ A lightweight library that makes it easier to use SVG icons in your Angular Appl
 - 7.1.5
 - 7.1.6
 - 8.0.0
-- 共 48 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

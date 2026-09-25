@@ -28,7 +28,6 @@ Please visit the website: https://react-rxjs.org
 - 0.9.5
 - 0.9.6
 - 0.9.7
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

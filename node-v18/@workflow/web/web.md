@@ -16,18 +16,18 @@ Workflow Observability UI
 
 - 当前版本：4.1.25
 
+- 5.0.0-beta.43
+- 5.0.0-beta.44
+- 5.0.0-beta.46
+- 5.0.0-beta.47
+- 5.0.0-beta.48
 - 5.0.0-beta.49
-- 5.0.0-beta.5
 - 5.0.0-beta.50
 - 5.0.0-beta.51
 - 5.0.0-beta.52
 - 5.0.0-beta.53
 - 5.0.0-beta.54
 - 5.0.0-beta.55
-- 5.0.0-beta.6
-- 5.0.0-beta.7
-- 5.0.0-beta.8
-- 5.0.0-beta.9
 - 共 127 个版本，完整清单见 npm registry。
 
 ## 获取地址

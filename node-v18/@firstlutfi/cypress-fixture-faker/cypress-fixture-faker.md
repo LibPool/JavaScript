@@ -1,0 +1,23 @@
+# @firstlutfi/cypress-fixture-faker
+
+> 标签: cypress, faker, fixture
+
+## 简介
+
+A package to generate fixture data using Faker.js for Cypress tests
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@firstlutfi/cypress-fixture-faker
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @firstlutfi/cypress-fixture-faker`
+- npm registry：https://registry.npmjs.org/@firstlutfi/cypress-fixture-faker

@@ -28,7 +28,6 @@ A pure CSS base to make a responsive user interface
 - 3.0.4
 - 3.0.7
 - 3.1.0
-- 共 45 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

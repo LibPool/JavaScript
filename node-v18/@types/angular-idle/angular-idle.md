@@ -28,7 +28,6 @@ TypeScript definitions for angular-idle
 - 1.1.33
 - 1.1.34
 - 1.1.35
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

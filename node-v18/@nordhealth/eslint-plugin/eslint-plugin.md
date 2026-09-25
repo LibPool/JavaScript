@@ -28,7 +28,6 @@ ESLint plugin for Nord Design System - enforces logical CSS selectors and migrat
 - 1.1.1
 - 1.1.2
 - 1.1.3
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

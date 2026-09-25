@@ -28,7 +28,7 @@ Salute Design System / React UI kit for SDDS FinAI web applications
 - 0.360.1-canary.3185.35707114926.0
 - 0.361.0-canary.3077.35749908859.0
 - 0.361.0-canary.3182.35728506901.0
-- 共 2353 个版本，完整清单见 npm registry。
+- 共 2,353 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

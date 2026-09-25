@@ -28,7 +28,6 @@ The react library for using SuprSend features like inbox, preferences etc
 - 1.0.0
 - 1.1.0
 - 1.2.0
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

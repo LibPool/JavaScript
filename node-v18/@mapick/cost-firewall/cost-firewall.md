@@ -1,0 +1,33 @@
+# @mapick/cost-firewall
+
+> 标签: ai-gateway, aider, circuit-breaker, claude-code, cost-control, cost-firewall, llm-proxy, openclaw-plugin, rate-limiting, token-budget
+
+## 简介
+
+AI Call Firewall — real-time monitoring, budget control, automatic circuit breaker for LLM agents (Claude Code, Aider, OpenClaw, Cursor)
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@mapick/cost-firewall
+
+## 历史版本号
+
+- 当前版本：0.2.31
+
+- 0.2.26
+- 0.2.27
+- 0.2.28
+- 0.2.3
+- 0.2.30
+- 0.2.31
+- 0.2.4
+- 0.2.5
+- 0.2.6
+- 0.2.7
+- 0.2.8
+- 0.2.9
+
+## 获取地址
+
+- npm 安装：`npm install @mapick/cost-firewall`
+- npm registry：https://registry.npmjs.org/@mapick/cost-firewall

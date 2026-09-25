@@ -27,7 +27,6 @@ Web-based TUI for the pi coding agent
 - 0.5.3
 - 0.5.4
 - 0.5.5
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

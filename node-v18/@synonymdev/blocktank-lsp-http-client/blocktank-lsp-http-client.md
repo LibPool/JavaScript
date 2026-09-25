@@ -28,7 +28,6 @@ Blocktank Http Api Client
 - 2.4.0
 - 2.5.0
 - 2.5.2
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

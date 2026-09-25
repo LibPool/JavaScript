@@ -16,8 +16,8 @@ fisker's Shareable ESLint Configuration for vue project
 
 - 当前版本：14.1.1
 
-- 7.2.0
-- 8.0.0
+- 14.1.0
+- 14.1.1
 - 8.0.1
 - 8.0.2
 - 8.0.3

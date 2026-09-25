@@ -28,7 +28,7 @@ Preliminary Izumi TypeScript runtime
 - 1.5.8-build.981.1.27569136326
 - 1.5.9
 - 1.5.9-build.983.1.27626270887
-- 共 1427 个版本，完整清单见 npm registry。
+- 共 1,427 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

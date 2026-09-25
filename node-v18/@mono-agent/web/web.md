@@ -28,7 +28,6 @@ Always-on assistant-ui web console for discovering and chatting with local mono-
 - 0.21.1
 - 0.22.0
 - 0.23.0
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

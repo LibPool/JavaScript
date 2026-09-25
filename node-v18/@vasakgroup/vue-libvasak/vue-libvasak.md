@@ -28,7 +28,6 @@ Vue componenets for VSK Applications
 - 1.2.0
 - 1.3.0
 - 1.4.0
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

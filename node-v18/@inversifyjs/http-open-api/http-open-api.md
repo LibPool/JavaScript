@@ -28,7 +28,6 @@ InversifyJs HTTP OpenApi package
 - 5.5.3
 - 5.6.0
 - 5.6.1
-- 共 42 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

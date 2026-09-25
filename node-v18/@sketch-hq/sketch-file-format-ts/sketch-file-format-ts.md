@@ -28,7 +28,6 @@ TypeScript types for the Sketch File Format
 - 6.3.1
 - 6.4.0
 - 6.5.0
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

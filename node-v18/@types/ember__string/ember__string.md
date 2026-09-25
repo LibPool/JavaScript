@@ -28,7 +28,6 @@ TypeScript definitions for @ember/string
 - 3.16.1
 - 3.16.2
 - 3.16.3
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

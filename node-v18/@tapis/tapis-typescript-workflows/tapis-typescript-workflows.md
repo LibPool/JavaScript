@@ -27,7 +27,6 @@ OpenAPI client for @tapis/tapis-typescript-workflows
 - 1.9.0-a1
 - 1.9.0-a2
 - 1.9.0-a3
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

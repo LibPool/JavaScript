@@ -28,7 +28,6 @@ A Fastify plugin to add support for @kitajs/html
 - 5.0.0-next.0
 - 5.0.0-next.1
 - 5.0.0-next.2
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

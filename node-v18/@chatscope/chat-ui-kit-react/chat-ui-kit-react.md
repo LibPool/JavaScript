@@ -28,7 +28,6 @@ React component library for creating chat interfaces
 - 2.0.3
 - 2.1.0
 - 2.1.1
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

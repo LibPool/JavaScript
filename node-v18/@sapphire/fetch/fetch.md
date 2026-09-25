@@ -16,16 +16,16 @@ Tiny wrapper around globalThis.fetch for improved TypeScript and data type suppo
 
 - 当前版本：3.0.5
 
+- 3.0.6-next.beda5701
+- 3.0.6-next.c1299bac
+- 3.0.6-next.ceacefc4
+- 3.0.6-next.d57ec0d7
+- 3.0.6-next.db5e97fc
 - 3.0.6-next.df78d6d4
 - 3.0.6-next.e6d4bac4
-- 3.0.6-next.e79994f1
-- 3.0.6-next.ec05fe56
 - 3.0.6-next.ee9cdb94
 - 3.0.6-next.f3515ea3
 - 3.0.6-next.f5dc58df
-- 3.0.6-next.fb147ec0
-- 3.0.6-next.fb5ad246
-- 3.0.6-next.ff2c792d
 - 3.0.6-next.fff340cc
 - 4.0.0-pr-935.7da5c8bb
 - 共 999 个版本，完整清单见 npm registry。

@@ -28,7 +28,6 @@ TypeScript definitions for react-router-dom
 - 5.3.1
 - 5.3.2
 - 5.3.3
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

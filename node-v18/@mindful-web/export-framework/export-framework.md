@@ -28,7 +28,6 @@ Core framework for Mindful Web Exports.
 - 1.84.0
 - 1.86.0
 - 1.92.0
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

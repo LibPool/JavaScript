@@ -28,7 +28,6 @@ Vue 3 component library for shared Robosophy UI.
 - 1.1.9
 - 1.2.0
 - 1.2.1
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

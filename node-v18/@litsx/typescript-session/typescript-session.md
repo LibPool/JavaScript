@@ -28,7 +28,6 @@ Shared TypeScript session utilities for LitSX compiler and tooling
 - 0.2.5-canary-feat-unocss-integration-20260821061458
 - 0.2.5-canary-feat-unocss-integration-20260821092354
 - 1.0.0-next.0
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

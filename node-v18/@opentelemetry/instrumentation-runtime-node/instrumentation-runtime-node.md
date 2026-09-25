@@ -28,7 +28,6 @@ OpenTelemetry instrumentation for Node.js Performance measurement API
 - 0.7.0
 - 0.8.0
 - 0.9.0
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

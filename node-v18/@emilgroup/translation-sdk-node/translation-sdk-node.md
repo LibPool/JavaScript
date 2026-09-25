@@ -27,7 +27,6 @@ OpenAPI client for @emilgroup/translation-sdk-node
 - 1.8.1-beta.7
 - 1.8.1-beta.8
 - 1.8.1-beta.9
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

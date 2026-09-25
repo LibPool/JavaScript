@@ -28,7 +28,6 @@ TypeScript definitions for uri-templates
 - 0.1.32
 - 0.1.33
 - 0.1.34
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

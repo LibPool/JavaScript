@@ -1,0 +1,34 @@
+# @usespectra/mcp
+
+> 标签: ai, audit, claude-code, design-system, figma, mcp, paper, paper-design
+
+## 简介
+
+Spectra — AI readiness audit for Figma and Paper design systems. MCP server with 8 tools for scanning, scoring, and auto-fixing design systems.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@usespectra/mcp
+
+## 历史版本号
+
+- 当前版本：2.3.5
+
+- 1.2.0
+- 1.2.1
+- 2.0.0
+- 2.1.0
+- 2.2.0
+- 2.2.1
+- 2.3.0
+- 2.3.1
+- 2.3.2
+- 2.3.3
+- 2.3.4
+- 2.3.5
+
+## 获取地址
+
+- npm 安装：`npm install @usespectra/mcp`
+- npm registry：https://registry.npmjs.org/@usespectra/mcp
+- Node 要求：>=18

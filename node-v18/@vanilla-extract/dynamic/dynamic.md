@@ -16,7 +16,7 @@ Zero-runtime Stylesheets-in-TypeScript
 
 - 当前版本：2.1.5
 
-- 2.0.2
+- 0.0.0-vite-plugin-new-20240116010153
 - 2.0.3
 - 2.1.0
 - 2.1.1

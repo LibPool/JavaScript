@@ -1,0 +1,31 @@
+# @meogic/lexical-utils
+
+> 标签: editor, lexical, rich-text, utils
+
+## 简介
+
+This package contains misc utilities for Lexical.
+
+## 官网
+
+- 官网：https://github.com/facebook/lexical#readme
+- 源码仓库：git+https://github.com/facebook/lexical.git
+- npm 页面：https://www.npmjs.com/package/@meogic/lexical-utils
+
+## 历史版本号
+
+- 当前版本：0.11.1-mod8
+
+- 0.11.1-mod1
+- 0.11.1-mod2
+- 0.11.1-mod3
+- 0.11.1-mod4
+- 0.11.1-mod5
+- 0.11.1-mod6
+- 0.11.1-mod7
+- 0.11.1-mod8
+
+## 获取地址
+
+- npm 安装：`npm install @meogic/lexical-utils`
+- npm registry：https://registry.npmjs.org/@meogic/lexical-utils

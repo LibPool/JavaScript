@@ -28,7 +28,6 @@ A PCUI plugin for creating node-based graphs
 - 5.2.3
 - 5.2.4
 - 5.2.5
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

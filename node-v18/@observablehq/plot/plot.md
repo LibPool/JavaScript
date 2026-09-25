@@ -28,7 +28,6 @@ A JavaScript library for exploratory data visualization.
 - 0.6.7-rc.1
 - 0.6.8
 - 0.6.9
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

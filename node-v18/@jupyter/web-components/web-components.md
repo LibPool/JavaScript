@@ -28,7 +28,6 @@ A component library for building extensions in Jupyter frontends.
 - 0.16.7
 - 0.17.0
 - 0.17.1
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

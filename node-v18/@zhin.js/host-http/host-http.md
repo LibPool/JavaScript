@@ -28,7 +28,6 @@ Minimal HTTP and WebSocket host for Plugin Runtime (no Koa)
 - 1.1.0
 - 1.1.1
 - 1.1.2
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

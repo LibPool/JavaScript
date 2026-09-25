@@ -16,8 +16,8 @@ TypeScript SDK for MindStudio direct step execution
 
 - 当前版本：0.1.127
 
+- 0.1.88
 - 0.1.89
-- 0.1.9
 - 0.1.90
 - 0.1.91
 - 0.1.92

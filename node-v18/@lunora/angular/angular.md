@@ -15,8 +15,8 @@ OIDC trusted publishing setup package for @lunora/angular
 
 - 当前版本：0.0.1
 
+- 1.0.0-alpha.88
 - 1.0.0-alpha.89
-- 1.0.0-alpha.9
 - 1.0.0-alpha.90
 - 1.0.0-alpha.91
 - 1.0.0-alpha.92

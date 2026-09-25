@@ -28,7 +28,6 @@ Angular calendar/scheduler library — year, month, week, and day views with dra
 - 1.3.3
 - 1.3.4
 - 1.4.0
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

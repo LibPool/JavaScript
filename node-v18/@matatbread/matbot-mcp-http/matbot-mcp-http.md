@@ -28,7 +28,6 @@ Cross-platform MCP client: connect to remote MCP servers over HTTP/SSE and regis
 - 0.4.5
 - 0.4.6
 - 0.4.7
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

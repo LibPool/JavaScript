@@ -28,7 +28,6 @@ Dynamic page title & meta tags utility for Angular (w/server-side rendering)
 - 8.0.2
 - 8.1.0
 - 9.0.0
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

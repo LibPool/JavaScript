@@ -28,7 +28,6 @@ Modern Angular wrapper for OpenLayers with modular architecture, standalone comp
 - 22.4.0
 - 22.5.0
 - 22.6.0
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

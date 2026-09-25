@@ -28,7 +28,6 @@ JavaScript library for using the Sapling.ai API.
 - 1.0.7-beta.0
 - 1.0.8
 - 1.0.9
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

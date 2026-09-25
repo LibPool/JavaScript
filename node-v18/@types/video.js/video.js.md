@@ -16,6 +16,9 @@ TypeScript definitions for video.js
 
 - 当前版本：7.3.58
 
+- 7.3.48
+- 7.3.49
+- 7.3.50
 - 7.3.51
 - 7.3.52
 - 7.3.53
@@ -24,9 +27,6 @@ TypeScript definitions for video.js
 - 7.3.56
 - 7.3.57
 - 7.3.58
-- 7.3.6
-- 7.3.7
-- 7.3.8
 - 7.3.9
 - 共 90 个版本，完整清单见 npm registry。
 

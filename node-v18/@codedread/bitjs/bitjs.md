@@ -28,7 +28,6 @@ Binary Tools for JavaScript
 - 1.2.3
 - 1.2.5
 - 1.2.6
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

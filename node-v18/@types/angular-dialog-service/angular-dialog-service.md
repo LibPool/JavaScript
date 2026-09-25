@@ -28,7 +28,6 @@ TypeScript definitions for angular-dialog-service
 - 5.2.33
 - 5.2.34
 - 5.2.35
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

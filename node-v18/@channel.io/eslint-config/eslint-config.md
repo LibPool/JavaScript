@@ -28,7 +28,6 @@ ESLint configuration for Channel.io web projects
 - 3.0.0
 - 3.0.0-alpha.1
 - 3.0.1
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

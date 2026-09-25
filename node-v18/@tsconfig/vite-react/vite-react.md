@@ -28,7 +28,6 @@ A base TSConfig for working with Vite React.
 - 7.0.2
 - 8.0.6
 - 8.1.1
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

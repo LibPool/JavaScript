@@ -28,7 +28,6 @@ The lightweight, schema-first, and fully type-safe form library for React
 - 1.0.0-rc.0
 - 1.0.0-rc.1
 - 1.1.0
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

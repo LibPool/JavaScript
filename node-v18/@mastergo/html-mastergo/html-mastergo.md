@@ -28,7 +28,6 @@ Convert HTML to Mastergo code
 - 1.8.1
 - 1.9.0
 - 1.9.1
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

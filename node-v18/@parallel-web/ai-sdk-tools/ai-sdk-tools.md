@@ -28,7 +28,6 @@ AI SDK tools for Parallel Web
 - 0.2.1
 - 1.0.0
 - 1.1.0-rc.1
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -1,0 +1,32 @@
+# @tangseng/vue-x
+
+> 标签: axios, vue, vue-x, vuex
+
+## 简介
+
+vue-x is a helper for vuex & axios
+
+## 官网
+
+- 官网：https://github.com/tangseng/vue-x#readme
+- 源码仓库：git+https://github.com/tangseng/vue-x.git
+- npm 页面：https://www.npmjs.com/package/@tangseng/vue-x
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+
+## 获取地址
+
+- npm 安装：`npm install @tangseng/vue-x`
+- npm registry：https://registry.npmjs.org/@tangseng/vue-x

@@ -16,18 +16,18 @@ TanStack React Query Integration for tRPC
 
 - 当前版本：11.19.0
 
-- 11.8.1-canary.10
-- 11.8.1-canary.12
-- 11.8.1-canary.13
-- 11.8.1-canary.14
-- 11.8.1-canary.5
-- 11.8.1-canary.6
-- 11.8.1-canary.7
-- 11.8.2-canary.19
-- 11.8.2-canary.3
-- 11.9.0
-- 11.9.1-canary.8
-- 11.9.1-canary.9
+- 11.18.1-canary.17
+- 11.18.1-canary.18
+- 11.18.1-canary.19
+- 11.18.1-canary.2
+- 11.18.1-canary.30
+- 11.18.1-canary.34.sha-3a77dc4d6
+- 11.18.1-canary.35.sha-573d4f33e
+- 11.18.1-canary.5
+- 11.18.1-canary.6
+- 11.18.1-canary.9
+- 11.19.0
+- 11.19.1-canary.0.sha-8b649ad87
 - 共 239 个版本，完整清单见 npm registry。
 
 ## 获取地址

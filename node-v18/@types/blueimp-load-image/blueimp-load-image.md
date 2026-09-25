@@ -28,7 +28,6 @@ TypeScript definitions for blueimp-load-image
 - 5.16.4
 - 5.16.5
 - 5.16.6
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

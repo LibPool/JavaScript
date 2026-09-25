@@ -28,7 +28,6 @@ Web UI for persistent Pi Coding Agent sessions in real workspaces.
 - 2.202609.7
 - 2.202609.8
 - 2.202609.9
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

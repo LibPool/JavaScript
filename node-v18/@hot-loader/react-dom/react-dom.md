@@ -28,7 +28,6 @@ The Hot version of React-DOM
 - 17.0.0-rc.2
 - 17.0.1
 - 17.0.2
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

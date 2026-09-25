@@ -28,7 +28,6 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 - 1.7.0-dev3
 - 1.7.0-dev4
 - 1.7.0-dev5
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

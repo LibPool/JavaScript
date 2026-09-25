@@ -28,7 +28,6 @@ React bindings for ReScript
 - 0.15.0
 - 0.15.0-dev.1.1
 - 0.16.0-beta.1
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

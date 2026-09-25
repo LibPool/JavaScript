@@ -28,7 +28,6 @@ Symbols icons by Miguel Solorio for React
 - 1.3.1
 - 1.4.0
 - 1.4.1
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

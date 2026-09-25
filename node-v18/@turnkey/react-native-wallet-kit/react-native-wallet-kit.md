@@ -28,7 +28,6 @@ The easiest and most powerful way to integrate Turnkey's Embedded Wallets into y
 - 2.3.5
 - 2.3.6
 - 2.3.7
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

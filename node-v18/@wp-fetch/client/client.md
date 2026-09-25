@@ -1,0 +1,23 @@
+# @wp-fetch/client
+
+> 标签: api, client, wordpress
+
+## 简介
+
+JavaScript client for the WordPress REST API
+
+## 官网
+
+- 源码仓库：https://github.com/wp-fetch/wp-fetch.git
+- npm 页面：https://www.npmjs.com/package/@wp-fetch/client
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @wp-fetch/client`
+- npm registry：https://registry.npmjs.org/@wp-fetch/client

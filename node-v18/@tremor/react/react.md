@@ -16,14 +16,14 @@ The React library to build dashboards faster.
 
 - 当前版本：3.18.7
 
-- 3.9.2
-- 3.9.2-beta.1
-- 3.9.2-beta.2
-- 3.9.2-beta.3
-- 3.9.2-beta.4
-- 3.9.2-beta.5
-- 3.9.3-beta.1
-- 3.9.3-beta.2
+- 3.18.5
+- 3.18.5-beta-headlessui.1
+- 3.18.5-beta-headlessui.2
+- 3.18.5-beta-headlessui.3
+- 3.18.5-beta-headlessui.4
+- 3.18.5-beta-tremor-v4.1
+- 3.18.6
+- 3.18.7
 - 4.0.0-beta-tremor-v4.1
 - 4.0.0-beta-tremor-v4.2
 - 4.0.0-beta-tremor-v4.3

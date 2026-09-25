@@ -16,8 +16,8 @@ The default React widget. Usable as a React component.
 
 - 当前版本：4.0.62
 
-- 4.0.8
-- 4.0.9
+- 4.0.61
+- 4.0.62
 - 5.0.0-beta.0
 - 5.0.0-beta.1
 - 5.0.0-beta.10

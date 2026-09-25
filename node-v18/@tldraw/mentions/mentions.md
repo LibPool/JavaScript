@@ -16,18 +16,18 @@ tldraw @-mention picker and TipTap node, shared by commenting and shape rich tex
 
 - 当前版本：5.4.2
 
-- 5.5.0-next.130e77150557
-- 5.5.0-next.1500b23f0b97
-- 5.5.0-next.3638e0810803
-- 5.5.0-next.39dacfbc1ff1
-- 5.5.0-next.4d6473b0bda1
-- 5.5.0-next.6d9e51e9f3f7
-- 5.5.0-next.9352f6ad229c
-- 5.5.0-next.9665a55b2322
-- 5.5.0-next.a2698a88ecfb
-- 5.5.0-next.b6a9f7cd7be2
-- 5.5.0-next.c25ed1f4cf7f
-- 5.5.0-next.f9308d324e1c
+- 5.5.0-canary.d1591ff8ef95
+- 5.5.0-canary.d2ad3f9a0656
+- 5.5.0-canary.d6a17e26926e
+- 5.5.0-canary.d8497e0a5bbf
+- 5.5.0-canary.d889d119509c
+- 5.5.0-canary.d8bde7cf0e8d
+- 5.5.0-canary.d97e6960f142
+- 5.5.0-canary.db5d20befa38
+- 5.5.0-canary.e2504f82d071
+- 5.5.0-canary.e6f1632ae9fb
+- 5.5.0-canary.fa39ede1bb05
+- 5.5.0-canary.fcb8770c8aac
 - 共 520 个版本，完整清单见 npm registry。
 
 ## 获取地址

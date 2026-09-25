@@ -28,7 +28,6 @@ Generate and edit .pptx (OOXML PresentationML) files from TypeScript, in Node an
 - 0.18.5
 - 0.20.0
 - 0.21.0
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

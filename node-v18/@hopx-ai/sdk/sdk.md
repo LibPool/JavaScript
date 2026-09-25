@@ -28,7 +28,6 @@ Official TypeScript/JavaScript SDK for HOPX.AI Sandboxes
 - 0.3.8
 - 0.5.0
 - 0.5.1
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

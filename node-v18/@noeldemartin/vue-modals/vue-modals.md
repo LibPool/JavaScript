@@ -28,7 +28,6 @@ The missing library to do Vue Modals right:
 - 0.1.1-next.1aca00e2433172fdcece0c3925cc4eb742620abb
 - 0.1.1-next.7e0922198c3771b22d686a61fc0c5784139088cd
 - 0.1.1-next.db0e9bfc4e2573b82c47203d8e6bde5a182dfe83
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

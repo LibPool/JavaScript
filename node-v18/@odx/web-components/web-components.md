@@ -27,7 +27,6 @@ A collection of core components for the ODX Design System, built with web compon
 - 1.0.0-rc.7
 - 1.0.0-rc.8
 - 1.0.0-rc.9
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -27,7 +27,6 @@ JavaScript client for NextCapital services
 - 2.4.1
 - 2.5.0
 - 2.6.0
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

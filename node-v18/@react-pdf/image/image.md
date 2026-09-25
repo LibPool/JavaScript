@@ -28,7 +28,6 @@ Parses the images in png or jpeg format for react-pdf document
 - 3.1.0
 - 3.1.1
 - 3.1.2
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

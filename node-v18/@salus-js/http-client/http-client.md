@@ -28,7 +28,6 @@ A library for making type-safe HTTP requests built on the popular Axios client.
 - 0.8.0
 - 0.9.1
 - 0.9.3
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

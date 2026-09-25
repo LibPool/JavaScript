@@ -28,7 +28,6 @@ A client and server for the Wisp protocol, written in Javascript
 - 0.4.0
 - 0.4.1
 - 0.5.0
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

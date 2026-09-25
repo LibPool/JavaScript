@@ -28,7 +28,6 @@ HTML/CSS to SVG via official satori, with HTML input support and built-in fonts.
 - 1.0.17
 - 1.0.19
 - 1.1.0
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

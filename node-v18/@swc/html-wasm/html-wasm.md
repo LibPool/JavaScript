@@ -28,7 +28,6 @@ wasm module for swc html
 - 1.16.2
 - 1.16.2-nightly-20260904.1
 - 1.16.4-nightly-20260913.1
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ HUMAIN UI - React components, design tokens, and Web Components
 - 2.4.2
 - 2.4.3
 - 2.4.4
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

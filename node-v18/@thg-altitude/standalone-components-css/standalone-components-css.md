@@ -27,7 +27,6 @@ Reusable pure CSS styling for components
 - 0.2.8-alpha.1
 - 0.2.8-alpha.2
 - 0.2.9
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

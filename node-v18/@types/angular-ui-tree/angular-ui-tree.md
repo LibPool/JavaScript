@@ -28,7 +28,6 @@ TypeScript definitions for angular-ui-tree
 - 2.8.32
 - 2.8.33
 - 2.8.34
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

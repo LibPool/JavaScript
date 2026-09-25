@@ -28,7 +28,6 @@ Reactive file upload tasks built on @vobs/http.
 - 1.6.4
 - 1.7.0
 - 1.7.1
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Basic MCP App Server example using Vue
 - 1.7.4
 - 1.7.5
 - 2.0.0
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

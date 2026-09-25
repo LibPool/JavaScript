@@ -28,7 +28,6 @@ Scriptable OpenAI-compatible HTTP/SSE fault server for LLM recovery tests
 - 0.1.7
 - 0.1.8
 - 0.1.9
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

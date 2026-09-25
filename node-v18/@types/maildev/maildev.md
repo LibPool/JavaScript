@@ -28,7 +28,6 @@ TypeScript definitions for maildev
 - 0.11.26-alpha
 - 0.11.27
 - 0.11.28
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

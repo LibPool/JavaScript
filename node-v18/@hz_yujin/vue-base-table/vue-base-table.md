@@ -27,7 +27,6 @@ Vue 3 ProTable / ProPageTable：搜索、持久化、valueType、批量操作、
 - 1.1.7
 - 1.1.8
 - 1.1.9
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

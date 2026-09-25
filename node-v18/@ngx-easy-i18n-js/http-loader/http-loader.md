@@ -28,7 +28,6 @@ Http loader for ngx-easy-i18n-js
 - 20.0.1
 - 21.0.0
 - 22.0.0
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

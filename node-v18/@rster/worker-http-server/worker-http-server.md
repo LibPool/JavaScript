@@ -1,0 +1,24 @@
+# @rster/worker-http-server
+
+> 标签: JavaScript
+
+## 简介
+
+RSTER is a toolset for REST Api creation
+
+## 官网
+
+- 官网：https://github.com/nsc-de/rster#readme
+- 源码仓库：git+https://github.com/nsc-de/rster.git
+- npm 页面：https://www.npmjs.com/package/@rster/worker-http-server
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @rster/worker-http-server`
+- npm registry：https://registry.npmjs.org/@rster/worker-http-server

@@ -28,7 +28,6 @@ NestJS client library and standalone HTTP client for Identity API - service regi
 - 0.9.5
 - 0.9.6
 - 0.9.7
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

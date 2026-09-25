@@ -27,7 +27,6 @@ Complete HTTP status code library with TypeScript enums covering 1xx–5xx range
 - 1.1.7
 - 1.1.8
 - 1.1.9
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

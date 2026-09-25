@@ -28,7 +28,6 @@ HTML dictionary for cspell.
 - 4.0.5
 - 4.0.6
 - 4.0.9
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

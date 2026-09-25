@@ -28,7 +28,6 @@ TypeScript definitions for underscore.string
 - 3.0.23-alpha
 - 3.0.24-alpha
 - 3.0.25-alpha
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

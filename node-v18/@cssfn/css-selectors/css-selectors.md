@@ -28,7 +28,6 @@ Manipulates css selector - parse, transform, calculate specificity, and more.
 - 3.2.0
 - 3.3.0
 - 4.0.0
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

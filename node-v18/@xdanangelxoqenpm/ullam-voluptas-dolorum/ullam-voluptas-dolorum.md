@@ -1,0 +1,24 @@
+# @xdanangelxoqenpm/ullam-voluptas-dolorum
+
+> 标签: $.extend, -0, .env, 256, 3d, 6to5, Array, Array.prototype.contains, Array.prototype.filter, Array.prototype.findLastIndex, Array.prototype.flatMap, ArrayBuffer, ArrayBuffer#slice, AsyncIterator, CSS, CSSStyleDeclaration, ECMAScript 2015, ECMAScript 2016, ECMAScript 2017, ECMAScript 2018, ECMAScript 2019, ECMAScript 2020, ECMAScript 3, ECMAScript 7, ES2015, ES2016, ES2017, ES2019, ES2021, ES2022, ES6, ESnext, Float32Array, Float64Array, Function.prototype.name, HyBi, Int16Array, Int8Array, Iterator, Map, Microsoft, Object, Object.defineProperty, Object.entries, Object.fromEntries, Object.getPrototypeOf, Object.is, Object.values, RegExp#flags, RegExp.prototype.flags, RxJS, Stream, Streams, String.prototype.matchAll, String.prototype.trim, Symbol, TypedArray, Uint8Array, Uint8ClampedArray, WeakMap, WebSockets, YAML, a11y, accessibility, accessor, ajv, animation, apollo, app, argparse, args, argv, array, art, assert, assertion, asserts, auth, authentication, autoprefixer, awesomesauce, bind, bluebird, bootstrap css, break, buffer, buffers, bundler, bundling, busy, byte, byteOffset, call-bound, callbind, callbound, chai, channel, child, chinese, chrome, circular, classes, cli, clone, cmd, color, colors, colour, column, command, command-line, compare, compile less, computed-types, concatMap, configurable, const, consume, contains, core-js, cors, crypt, crypto, css, css nesting, css variable, css-in-js, curl, data, dataView, dayjs, debug, deep, deepclone, deepcopy, default, defineProperty, description, descriptor, descriptors, deterministic, dir, dotenv, drag, duplex, east-asian-width, ecmascript, electron, emit, ender, entries, enumerable, equal, error, es, es-shim API, es2015, es2017, es5, es6, es7, es8, estree, eventDispatcher, eventEmitter, exe, express, expression, extend, fantasy-land, fast-clone, fast-copy, fast-deep-clone, fast-deep-copy, fastclone, fastify, figlet, file, file system, find, find-up, findLast, findLastIndex, fixed-width, flag, flags, flatMap, folder, form, formatting, framer, framework, full, full-width, function, functions, getOwnPropertyDescriptor, getPrototypeOf, getintrinsic, getter, glob, gradients css, handlers, harmony, hasOwn, hash, helpers, higher-order, https, ie, immer, import, includes, indicator, inference, internal, internal slot, intrinsic, invariant, iterate, iteration, iterator, japanese, javascript, jest, jsdom, json-schema-validation, json-schema-validator, jsx, keys, l10n, last, lazy, less compiler, less css, less.js, lesscss, limit, limited, linewrap, linux, listeners, loading, lockfile, logger, logging, look-up, lru, make dir, map, merge, metadata, middleware, mime, mimetypes, mkdir, mkdirs, module, monorepo, move, multi-package, names, native, nested css, nodejs, npm, number, obj, object, omit, once, opens, optimizer, option, output, package manager, packages, parent, parser, password, patch, phone, pipe, pnpm9, point-free, polyfill, postcss, postcss-plugin, prefix, preprocessor, preserve-symlinks, private data, progress, promise, prop, properties, protobuf, prune, pure, pyyaml, qs, query, querystring, queue, quote, ramda, rapid, ratelimit, react, react animation, react pose, react-hook-form, readable, readablestream, recursive, redact, redux-toolkit, regular expression, request, rm, rm -fr, rmdir, robust, sanitization, sanitize, scheme-validation, serialization, serializer, set, setter, shared, sharedarraybuffer, shell, shrinkwrap, side, sigterm, slice, slot, sorted, speed, spinner, spinners, stable, starter, streams, streams2, stringifier, stringify, structuredClone, style, styling, superagent, superstruct, symbol, symlinks, syntax, tacit, tap, tape, task, tc39, term, testing, three, throttle, time, toArray, toobject, toolkit, tostringtag, touch, transpiler, traverse, trimStart, ts, tty, typanion, type, typed, typed array, typedarrays, typescript, uninstall, up, url, util, utilities, utils, valid, validation, value, variables in css, vest, view, visual, waapi, wait, walking, warning, watch, watcher, watching, weakmap, weakset, website, wget, width, wordbreak, write, xdg, xhr, xss, yaml, zero
+
+## 简介
+
+@xdanangelxoqenpm/ullam-voluptas-dolorum is a Node.js module to mask various kinds of data. With the help of @xdanangelxoqenpm/ullam-voluptas-dolorum, you can mask email, phone number, card number, JSON fields, password, etc...  <br/>Also, it provides uti
+
+## 官网
+
+- 官网：https://github.com/xdanangelxoqenpm/ullam-voluptas-dolorum/#readme
+- 源码仓库：git+https://github.com/xdanangelxoqenpm/ullam-voluptas-dolorum.git
+- npm 页面：https://www.npmjs.com/package/@xdanangelxoqenpm/ullam-voluptas-dolorum
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @xdanangelxoqenpm/ullam-voluptas-dolorum`
+- npm registry：https://registry.npmjs.org/@xdanangelxoqenpm/ullam-voluptas-dolorum

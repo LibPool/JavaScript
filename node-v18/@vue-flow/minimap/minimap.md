@@ -28,7 +28,6 @@ This is a minimap component for Vue Flow. It can be used to add a minimap to the
 - 1.5.2
 - 1.5.3
 - 1.5.4
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

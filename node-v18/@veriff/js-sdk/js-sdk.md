@@ -27,7 +27,6 @@ JavaScript SDK for Veriff identity verification
 - 1.5.0
 - 1.5.1
 - 2.0.0
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

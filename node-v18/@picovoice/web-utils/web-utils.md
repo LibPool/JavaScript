@@ -27,7 +27,6 @@ Picovoice web utility functions
 - 1.4.6
 - 1.4.7
 - 1.4.8
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

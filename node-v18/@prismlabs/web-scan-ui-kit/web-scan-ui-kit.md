@@ -28,7 +28,6 @@ Core functionality for the Prism web scanning SDK
 - 0.0.9
 - 1.0.0
 - 1.1.0
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

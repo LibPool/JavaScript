@@ -15,6 +15,9 @@ Angular Material-based dynamic form fields for Praxis UI with lazy loading and m
 
 - 当前版本：9.0.67
 
+- 9.0.60
+- 9.0.61
+- 9.0.62
 - 9.0.63
 - 9.0.64
 - 9.0.65
@@ -24,9 +27,6 @@ Angular Material-based dynamic form fields for Praxis UI with lazy loading and m
 - 9.0.68-rc.1
 - 9.0.68-rc.2
 - 9.0.68-rc.3
-- 9.0.7
-- 9.0.8
-- 9.0.9
 - 共 428 个版本，完整清单见 npm registry。
 
 ## 获取地址

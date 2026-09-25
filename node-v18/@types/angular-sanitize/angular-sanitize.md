@@ -28,7 +28,6 @@ TypeScript definitions for angular-sanitize
 - 1.8.2
 - 1.8.3
 - 1.8.4
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

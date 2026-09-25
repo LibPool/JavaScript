@@ -28,7 +28,6 @@ Experimental semantic CSS and optional interactions with compact LLM reference p
 - 0.1.0-alpha.51
 - 0.1.0-alpha.7
 - 0.1.0-alpha.8
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

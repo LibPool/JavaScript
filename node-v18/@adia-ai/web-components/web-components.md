@@ -16,8 +16,11 @@ AdiaUI web components — vanilla custom elements. A2UI runtime (renderer, regis
 
 - 当前版本：0.8.66
 
+- 0.8.55
+- 0.8.56
+- 0.8.57
+- 0.8.58
 - 0.8.59
-- 0.8.6
 - 0.8.60
 - 0.8.61
 - 0.8.62
@@ -25,9 +28,6 @@ AdiaUI web components — vanilla custom elements. A2UI runtime (renderer, regis
 - 0.8.64
 - 0.8.65
 - 0.8.66
-- 0.8.7
-- 0.8.8
-- 0.8.9
 - 共 220 个版本，完整清单见 npm registry。
 
 ## 获取地址

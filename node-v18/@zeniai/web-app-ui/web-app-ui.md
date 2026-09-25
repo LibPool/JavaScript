@@ -15,19 +15,19 @@ Implements various UI screens by connecting business logic (from `@zeniai/client
 
 - 当前版本：4.13.29-dev
 
+- 5.3.53-dev
+- 5.3.53-qa
+- 5.3.54-dev
+- 5.3.54-qa
+- 5.3.55-dev
+- 5.3.55-qa
+- 5.3.56-dev
+- 5.3.56-qa
 - 5.3.57-dev
 - 5.3.57-qa
 - 5.3.58-dev
 - 5.3.58-qa
-- 5.3.6-dev
-- 5.3.6-qa
-- 5.3.7-dev
-- 5.3.7-qa
-- 5.3.8-dev
-- 5.3.8-qa
-- 5.3.9-dev
-- 5.3.9-qa
-- 共 11166 个版本，完整清单见 npm registry。
+- 共 11,166 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

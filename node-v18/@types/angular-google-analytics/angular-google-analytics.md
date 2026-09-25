@@ -28,7 +28,6 @@ TypeScript definitions for angular-google-analytics
 - 1.1.35
 - 1.1.36
 - 1.1.37
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

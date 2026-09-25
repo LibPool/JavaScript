@@ -28,7 +28,6 @@ A lightweight HTTP client for both the server and browser built on `xior` with r
 - 3.0.3
 - 3.0.4
 - 3.0.5
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

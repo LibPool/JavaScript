@@ -28,7 +28,6 @@ Onboarding module for Angular applications
 - 1.8.1
 - 1.9.1
 - 1.9.2
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

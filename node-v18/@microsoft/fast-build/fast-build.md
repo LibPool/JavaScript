@@ -28,7 +28,6 @@ CLI and Node.js API for server-side rendering and converting FAST declarative HT
 - 0.8.0-fast-element-v3-rc-20260615
 - 0.8.1-fast-element-v3-rc-20260615
 - 0.9.0
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

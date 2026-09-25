@@ -28,7 +28,6 @@ Angular Material Design Lite - Select Component
 - 8.0.0
 - 8.0.0-beta.0
 - 9.0.0
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

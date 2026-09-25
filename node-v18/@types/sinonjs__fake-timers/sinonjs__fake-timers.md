@@ -28,7 +28,6 @@ TypeScript definitions for @sinonjs/fake-timers
 - 8.1.3
 - 8.1.4
 - 8.1.5
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

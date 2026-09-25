@@ -28,7 +28,6 @@ TypeScript-first expansion pack for TanStack Query that gives you Protobuf super
 - 2.1.1
 - 2.2.0
 - 2.3.1
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

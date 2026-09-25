@@ -27,7 +27,6 @@ React bindings for @shopify/post-purchase-ui-extensions
 - 0.13.4
 - 0.13.5
 - 0.9.5
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

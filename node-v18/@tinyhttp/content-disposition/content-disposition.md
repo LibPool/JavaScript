@@ -28,7 +28,6 @@ content-disposition rewrite in TypeScript
 - 2.2.2
 - 2.2.3
 - 2.2.4
-- 共 43 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

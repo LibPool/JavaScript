@@ -27,7 +27,7 @@ Forms web components
 - 4.8.6-cx15-11042.3
 - 4.8.7-cx16-10964.1
 - 4.8.7-cx16-10964.2
-- 共 1694 个版本，完整清单见 npm registry。
+- 共 1,694 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

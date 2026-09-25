@@ -28,7 +28,6 @@ Wrapper de Vue 3 para Reservi Calendar.
 - 2.0.0-beta.3
 - 2.0.0-beta.4
 - 2.0.0-beta.5
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

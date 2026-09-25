@@ -28,7 +28,6 @@ Headless spreadsheet engine with native Node and WASM runtime bindings
 - 0.9.4
 - 0.9.5
 - 0.9.6
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

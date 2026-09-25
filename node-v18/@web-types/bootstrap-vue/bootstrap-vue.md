@@ -28,7 +28,6 @@ Web-types for bootstrap-vue
 - 2.0.0-rc.25.1
 - 2.0.0-rc.26.1
 - 2.0.0-rc.27.1
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

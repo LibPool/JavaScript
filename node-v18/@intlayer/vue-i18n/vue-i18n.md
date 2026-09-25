@@ -28,7 +28,6 @@ vue-i18n API adapter for intlayer — useI18n, createI18n, and installIntlayer b
 - 9.5.4-canary.0
 - 9.5.5
 - 9.5.6
-- 共 47 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

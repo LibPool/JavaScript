@@ -28,7 +28,6 @@ TypeScript definitions for scheduler
 - 0.23.0
 - 0.26.0
 - 0.28.0
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

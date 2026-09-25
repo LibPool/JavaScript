@@ -16,19 +16,19 @@ A time utility library for JavaScript.
 
 - 当前版本：1.7.14
 
-- 1.7.9-pr-434.77ef153.0
-- 1.7.9-pr-434.9fcf7df.0
-- 1.7.9-pr-434.d192d9e.0
-- 1.7.9-pr-434.e1a13a3.0
-- 1.8.0-pr-584.b444d5b.0
-- 1.8.0-pr-587.03cfe5a.0
-- 1.8.0-pr-587.0d75167.0
-- 1.8.0-pr-587.205914b.0
-- 1.8.0-pr-587.e9607661.0
-- 1.8.0-pr-589.aa473f9.0
-- 1.8.0-pr-601.2f2c308a.0
+- 1.7.15-next.c1299bac
+- 1.7.15-next.ceacefc4
+- 1.7.15-next.d57ec0d7
+- 1.7.15-next.db5e97fc
+- 1.7.15-next.df78d6d4
+- 1.7.15-next.e6d4bac4
+- 1.7.15-next.ee9cdb94
+- 1.7.15-next.f3515ea3
+- 1.7.15-next.f5dc58df
+- 1.7.15-next.fb147ec0
+- 1.7.15-next.fff340cc
 - 1.8.0-pr-935.7da5c8bb
-- 共 1024 个版本，完整清单见 npm registry。
+- 共 1,024 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

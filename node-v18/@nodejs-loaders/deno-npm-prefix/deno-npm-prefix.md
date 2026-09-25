@@ -1,0 +1,27 @@
+# @nodejs-loaders/deno-npm-prefix
+
+> 标签: customization hooks, loader, node, node.js, npm
+
+## 简介
+
+Extend node to support a 'npm:' prefix via customization hooks.
+
+## 官网
+
+- 官网：https://github.com/nodejs-loaders/nodejs-loaders#readme
+- 源码仓库：git+https://github.com/nodejs-loaders/nodejs-loaders.git
+- npm 页面：https://www.npmjs.com/package/@nodejs-loaders/deno-npm-prefix
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @nodejs-loaders/deno-npm-prefix`
+- npm registry：https://registry.npmjs.org/@nodejs-loaders/deno-npm-prefix
+- Node 要求：>=18

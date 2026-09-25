@@ -28,7 +28,6 @@ Realistic page-flip effect for HTML content. Framework-agnostic successor to StP
 - 0.4.2
 - 0.5.0
 - 0.6.0
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

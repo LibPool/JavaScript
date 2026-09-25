@@ -27,7 +27,6 @@ UI kit for EvixCard project built with Vue 3, TypeScript, and Tailwind CSS.
 - 1.8.0
 - 1.9.0
 - 1.9.1
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

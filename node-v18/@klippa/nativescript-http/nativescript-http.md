@@ -28,7 +28,6 @@ The best way to do HTTP requests in NativeScript, a drop-in replacement for the 
 - 3.0.2
 - 3.0.3
 - 3.0.4
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ PDF-Frame-vue is a vue 3 component for rendering PDF/Canvas graphics on web, usi
 - 2.2.0
 - 2.3.0
 - 2.4.0
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

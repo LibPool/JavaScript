@@ -27,7 +27,6 @@ TypeScript HTTP client for the [Marfa](https://marfa.so) API.
 - 5.2.0
 - 5.4.0
 - 5.5.0
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -27,7 +27,6 @@ tingyun web SDK
 - 3.6.2
 - 3.7.0
 - 3.9.0
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

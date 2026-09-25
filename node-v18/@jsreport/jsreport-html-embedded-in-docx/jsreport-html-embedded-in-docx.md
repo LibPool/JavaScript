@@ -28,7 +28,6 @@ jsreport recipe embedding output html into the docx
 - 4.2.1
 - 4.2.2
 - 4.2.3
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

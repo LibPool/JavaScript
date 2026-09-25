@@ -16,15 +16,15 @@ Brave Search MCP Server: web results, images, videos, rich results, AI summaries
 
 - 当前版本：2.1.4
 
+- 2.0.77
+- 2.0.78
 - 2.0.79
-- 2.0.8
 - 2.0.80
 - 2.0.81
 - 2.0.82
 - 2.0.83
 - 2.0.84
 - 2.0.85
-- 2.0.9
 - 2.1.0
 - 2.1.3
 - 2.1.4

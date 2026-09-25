@@ -28,7 +28,6 @@ JavaScript Autocomplete functionality for Symfony
 - 3.2.0
 - 3.5.0
 - 3.5.1
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

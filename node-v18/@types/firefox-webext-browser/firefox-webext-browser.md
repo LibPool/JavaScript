@@ -28,7 +28,6 @@ TypeScript definitions for firefox-webext-browser
 - 82.0.1
 - 94.0.0
 - 94.0.1
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

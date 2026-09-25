@@ -28,7 +28,6 @@ TypeScript definitions for sjcl
 - 1.0.32
 - 1.0.33
 - 1.0.34
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

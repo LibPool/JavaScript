@@ -28,7 +28,6 @@ An example shows how to use Lynx CSS Animation
 - 0.6.8
 - 0.6.9
 - 0.7.0
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

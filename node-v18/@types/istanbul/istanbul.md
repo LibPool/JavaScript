@@ -28,7 +28,6 @@ TypeScript definitions for istanbul
 - 0.4.32
 - 0.4.33
 - 0.4.34
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

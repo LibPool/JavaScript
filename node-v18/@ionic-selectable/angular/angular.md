@@ -28,7 +28,6 @@ Angular wrapper for @ionic-selectable/core
 - 8.0.0-alpha.5
 - 8.0.0-alpha.6
 - 8.0.0-alpha.7
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

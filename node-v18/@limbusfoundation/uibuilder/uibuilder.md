@@ -28,7 +28,6 @@ UI Builder is a library for building user interfaces using HTML elements. It pro
 - 1.8.7
 - 1.8.8
 - 1.8.9
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

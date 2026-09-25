@@ -1,0 +1,27 @@
+# @bpanel/connection-manager
+
+> 标签: bcoin, bpanel, configuration, server, settings, widget
+
+## 简介
+
+Manage different node connections that your bPanel server can communicate with.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@bpanel/connection-manager
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 0.0.1
+- 0.0.2
+- 0.1.0
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @bpanel/connection-manager`
+- npm registry：https://registry.npmjs.org/@bpanel/connection-manager

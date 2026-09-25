@@ -28,7 +28,6 @@ Link CSS component.
 - 2.5.0
 - 2.5.1
 - 2.5.2
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

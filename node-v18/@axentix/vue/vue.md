@@ -16,8 +16,8 @@ Vue Axentix is the Axentix integration for the VueJS framework.
 
 - 当前版本：0.20.3
 
-- 0.7.1
-- 0.7.2
+- 0.20.2
+- 0.20.3
 - 0.7.3
 - 0.7.4
 - 0.7.5

@@ -1,0 +1,29 @@
+# @javfres/speech-generator
+
+> 标签: JavaScript
+
+## 简介
+
+Text sentences generator with variables, pluralization, random items, and more.
+
+## 官网
+
+- 官网：https://github.com/javfres/speech-generator#readme
+- 源码仓库：git://github.com/javfres/speech-generator.git
+- npm 页面：https://www.npmjs.com/package/@javfres/speech-generator
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+
+## 获取地址
+
+- npm 安装：`npm install @javfres/speech-generator`
+- npm registry：https://registry.npmjs.org/@javfres/speech-generator

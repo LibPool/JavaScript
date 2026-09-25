@@ -28,7 +28,6 @@ TypeScript definitions for method-override
 - 0.0.34
 - 0.0.35
 - 3.0.0
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

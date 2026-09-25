@@ -28,7 +28,6 @@ TypeScript definitions for intl-tel-input
 - 18.1.2
 - 18.1.3
 - 18.1.4
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

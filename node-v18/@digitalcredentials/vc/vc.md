@@ -28,7 +28,6 @@ Verifiable Credentials JavaScript library.
 - 9.0.1-beta.1
 - 9.0.1-beta.2
 - 9.0.2-beta.3
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

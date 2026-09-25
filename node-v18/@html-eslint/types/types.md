@@ -28,7 +28,6 @@ Types for @html-eslint/eslint-plugin
 - 0.65.0
 - 0.66.0
 - 0.66.1
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

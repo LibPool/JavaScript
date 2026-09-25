@@ -28,7 +28,6 @@ CSS reset plugin for PikaCSS. Injects popular CSS reset stylesheets as preflight
 - 0.0.66
 - 0.0.67
 - 0.0.68
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

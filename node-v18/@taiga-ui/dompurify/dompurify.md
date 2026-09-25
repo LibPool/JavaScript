@@ -28,7 +28,6 @@ Inclusive Angular API for DOMPurify
 - 4.1.7
 - 5.0.0
 - 5.0.1
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

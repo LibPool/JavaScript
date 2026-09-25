@@ -16,19 +16,19 @@ Shared typescript types for Strapi internal use
 
 - 当前版本：5.54.0
 
-- 5.52.0
-- 5.52.1
-- 5.52.2
-- 5.52.3
+- 0.0.0-next.34cdf83507cbd85e2ae6637b24fb0bb2bbd1c2e6
+- 0.0.0-next.34fdea8fb4e11afc475a0ffdc14311cce09ddded
+- 0.0.0-next.38ed6a5e2b7972b41472ceffafcdc0ab57426964
+- 0.0.0-next.5fcd743f4965ed3efef854b6c36b60bee8fae29b
+- 0.0.0-next.aa62644810e48c3b65e4b15e1055b97cd1c158fa
+- 0.0.0-next.c6c456eb0321e63cf50ea17a817693592de250f1
+- 0.0.0-next.d83af0410bf31b034b01757729f2231862ee5e87
+- 0.0.0-next.e73272274cea9077ee113717fbd7852c1be0b7f6
+- 0.0.0-next.f4853fa068f7b359f40ba25dde5a27f646feb4ff
+- 0.0.0-next.fd8661800b5e6f888e7cf6ef40e3e14d9d0b9cbf
 - 5.53.0
 - 5.54.0
-- 5.6.0
-- 5.7.0
-- 5.7.0-beta.0
-- 5.8.0
-- 5.8.1
-- 5.9.0
-- 共 1929 个版本，完整清单见 npm registry。
+- 共 1,929 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

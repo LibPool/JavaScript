@@ -16,6 +16,11 @@ UiPath wind design system - A Tailwind CSS based React component library
 
 - 当前版本：2.53.2
 
+- 2.48.0
+- 2.48.1
+- 2.49.0
+- 2.50.0
+- 2.51.0
 - 2.52.0
 - 2.52.1
 - 2.52.2
@@ -23,11 +28,6 @@ UiPath wind design system - A Tailwind CSS based React component library
 - 2.53.0
 - 2.53.1
 - 2.53.2
-- 2.6.0
-- 2.7.0
-- 2.7.1
-- 2.8.0
-- 2.9.0
 - 共 171 个版本，完整清单见 npm registry。
 
 ## 获取地址

@@ -27,7 +27,6 @@ A React SDK that enables frontend React applications to seamlessly integrate wit
 - 1.8.1
 - 1.9.0
 - 1.9.1
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

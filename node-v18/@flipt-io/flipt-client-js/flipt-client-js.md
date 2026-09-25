@@ -28,7 +28,6 @@ Flipt Client Evaluation SDK for Web and Node.js
 - 0.4.2
 - 0.5.0
 - 0.5.1
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

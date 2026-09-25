@@ -1,0 +1,34 @@
+# @kenshinx/ui
+
+> 标签: components, react, shadcn, tailwind, ui
+
+## 简介
+
+Personal React UI component library based on shadcn/ui patterns
+
+## 官网
+
+- 官网：https://github.com/MauroCicerchia/kenshinx-ui#readme
+- 源码仓库：git+https://github.com/MauroCicerchia/kenshinx-ui.git
+- npm 页面：https://www.npmjs.com/package/@kenshinx/ui
+
+## 历史版本号
+
+- 当前版本：1.8.1
+
+- 0.0.0-development
+- 1.0.2
+- 1.1.0
+- 1.2.0
+- 1.4.0
+- 1.5.0
+- 1.5.1
+- 1.6.0
+- 1.7.0
+- 1.8.0
+- 1.8.1
+
+## 获取地址
+
+- npm 安装：`npm install @kenshinx/ui`
+- npm registry：https://registry.npmjs.org/@kenshinx/ui

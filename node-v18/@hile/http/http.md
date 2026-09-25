@@ -27,7 +27,6 @@ Hile http - HTTP service framework
 - 4.0.3
 - 4.0.4
 - 4.0.6
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

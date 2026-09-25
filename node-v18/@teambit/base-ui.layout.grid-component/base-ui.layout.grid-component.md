@@ -27,7 +27,6 @@ Basic grid element for 1-12 columns. Accepts all props of native html div elemen
 - 1.0.0
 - 1.0.1
 - 1.0.2
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

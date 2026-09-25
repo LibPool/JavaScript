@@ -28,7 +28,6 @@ See how your component fairs according to web vitals
 - 0.4.0
 - 0.4.0--canary.0cf1132.0
 - 0.4.0--canary.84aa6c7.0
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

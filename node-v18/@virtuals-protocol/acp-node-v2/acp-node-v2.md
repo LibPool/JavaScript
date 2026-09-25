@@ -27,7 +27,6 @@ The Agent Commerce Protocol (ACP) Node SDK v2 is a ground-up rewrite of the ACP 
 - 0.1.7-sol-beta.3
 - 0.1.8
 - 0.1.9
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

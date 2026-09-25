@@ -27,7 +27,6 @@ Jazz SDK for web applications
 - 25.81.8
 - 25.91.0-dev.2159744
 - 26.11.23
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

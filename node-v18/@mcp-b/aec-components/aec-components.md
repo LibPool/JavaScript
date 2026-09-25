@@ -28,7 +28,6 @@ AEC (Architecture, Engineering, Construction) web components for Sigvelo, built 
 - 0.4.0
 - 0.4.1
 - 0.4.2
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

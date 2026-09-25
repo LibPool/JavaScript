@@ -16,18 +16,18 @@ Integration for the animated tab view component from react-native-tab-view
 
 - 当前版本：7.7.2
 
+- 8.0.0-alpha.42
+- 8.0.0-alpha.43
+- 8.0.0-alpha.44
+- 8.0.0-alpha.45
+- 8.0.0-alpha.46
 - 8.0.0-alpha.47
 - 8.0.0-alpha.48
 - 8.0.0-alpha.49
-- 8.0.0-alpha.5
 - 8.0.0-alpha.50
 - 8.0.0-alpha.51
 - 8.0.0-alpha.52
 - 8.0.0-alpha.53
-- 8.0.0-alpha.6
-- 8.0.0-alpha.7
-- 8.0.0-alpha.8
-- 8.0.0-alpha.9
 - 共 364 个版本，完整清单见 npm registry。
 
 ## 获取地址

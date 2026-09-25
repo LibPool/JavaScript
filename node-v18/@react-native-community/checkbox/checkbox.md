@@ -28,7 +28,6 @@ React Native Checkbox native modules for Android, iOS, and Windows
 - 0.5.8
 - 0.5.9
 - 0.6.0
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

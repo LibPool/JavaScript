@@ -28,7 +28,6 @@ JavaScript client for the System program
 - 0.8.1
 - 0.9.0
 - 0.9.1
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

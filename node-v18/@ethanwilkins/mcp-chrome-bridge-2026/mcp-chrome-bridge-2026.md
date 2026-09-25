@@ -27,7 +27,6 @@ Chrome Native-Messaging host (Node)
 - 2.5.5
 - 2.6.10
 - 2.7.0
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

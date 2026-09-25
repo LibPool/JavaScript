@@ -28,7 +28,6 @@ Harness React audit service client - Audit APIs integrated with react hooks
 - 0.6.0
 - 0.7.0
 - 0.8.0
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

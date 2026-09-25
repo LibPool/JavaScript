@@ -28,7 +28,6 @@ TypeScript definitions for koa-session
 - 6.4.3
 - 6.4.4
 - 6.4.5
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

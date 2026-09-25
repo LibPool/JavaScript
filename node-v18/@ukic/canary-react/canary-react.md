@@ -16,6 +16,9 @@ React-wrapped web components compiled using StencilJS
 
 - 当前版本：3.0.0-canary.47
 
+- 3.0.0-canary.37
+- 3.0.0-canary.38
+- 3.0.0-canary.39
 - 3.0.0-canary.40
 - 3.0.0-canary.41
 - 3.0.0-canary.42
@@ -24,9 +27,6 @@ React-wrapped web components compiled using StencilJS
 - 3.0.0-canary.45
 - 3.0.0-canary.46
 - 3.0.0-canary.47
-- 3.0.0-canary.5
-- 3.0.0-canary.6
-- 3.0.0-canary.8
 - 3.0.0-canary.9
 - 共 91 个版本，完整清单见 npm registry。
 

@@ -27,7 +27,6 @@ This package contains the React components to build a notification UI for your s
 - 1.7.0
 - 1.8.0
 - 1.9.0
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

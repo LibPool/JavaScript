@@ -28,7 +28,6 @@ Design tokens, CSS variables, and Tailwind preset for the IBIS design system.
 - 1.0.0-alpha.4
 - 1.0.0-alpha.5
 - 1.0.0-alpha.6
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

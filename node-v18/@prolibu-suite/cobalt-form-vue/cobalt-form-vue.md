@@ -27,7 +27,6 @@ Cobalt Form — Vue 3 adapter. useForm() composable + CoFormRenderer component.
 - 9.0.0
 - 9.0.1
 - 9.0.2
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

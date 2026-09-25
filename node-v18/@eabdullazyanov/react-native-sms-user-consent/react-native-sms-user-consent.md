@@ -28,7 +28,6 @@ React Native wrapper for Android's SMS User Consent API, ready to use in React N
 - 1.2.0
 - 1.2.1
 - 1.3.0
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

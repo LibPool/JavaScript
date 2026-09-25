@@ -27,7 +27,6 @@ Write GraphQL queries in TypeScript.
 - 1.0.0-rc.6
 - 1.0.0-rc.7
 - 1.0.0-rc.8
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

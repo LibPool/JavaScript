@@ -28,7 +28,6 @@ Web context gathering for Vertana - fetch and extract content from linked pages
 - 0.2.0-dev.58
 - 0.2.0-dev.59
 - 0.2.0-dev.68
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

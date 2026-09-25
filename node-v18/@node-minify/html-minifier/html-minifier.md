@@ -28,7 +28,6 @@ html-minifier plugin for @node-minify
 - 9.0.0
 - 9.0.1
 - 9.0.2
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

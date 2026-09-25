@@ -28,7 +28,6 @@ Rive React Native
 - 0.5.0-beta.3
 - 0.5.0-beta.4
 - 0.5.0-beta.5
-- 共 45 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

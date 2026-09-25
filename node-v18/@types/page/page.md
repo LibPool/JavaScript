@@ -28,7 +28,6 @@ TypeScript definitions for page
 - 1.5.32
 - 1.5.33
 - 1.8.0
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

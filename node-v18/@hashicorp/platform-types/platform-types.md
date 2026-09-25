@@ -28,7 +28,6 @@ Shared types for HashiCorp's web team
 - 0.4.0-canary-20232922320
 - 0.4.0-canary-202329232155
 - 0.4.0-canary-202329232746
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

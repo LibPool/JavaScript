@@ -28,7 +28,6 @@ proxy http requests, for Fastify
 - 9.3.0
 - 9.4.0
 - 9.5.0
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

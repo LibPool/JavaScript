@@ -28,7 +28,6 @@ Merkur plugin for maintaining http requests cache.
 - 0.46.0
 - 0.47.2
 - 1.0.3
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

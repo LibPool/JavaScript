@@ -27,7 +27,6 @@ Universal static site optimizer for HTML, CSS (Tailwind, Bootstrap, SCSS, CSS), 
 - 1.2.8
 - 1.2.9
 - 1.3.0
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

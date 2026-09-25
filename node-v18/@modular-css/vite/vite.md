@@ -28,7 +28,6 @@ vite support for modular-css
 - 30.2.6
 - 30.2.7
 - 30.2.8
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

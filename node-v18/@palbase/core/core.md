@@ -28,7 +28,6 @@ Shared core for Palbase SDK — HTTP client, error types, token management
 - 2.5.1
 - 2.6.0
 - 2.6.1
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

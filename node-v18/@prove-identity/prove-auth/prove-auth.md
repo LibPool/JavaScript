@@ -27,7 +27,6 @@ Prove Auth SDK for Web
 - 3.6.2
 - 3.6.3
 - 3.6.4
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

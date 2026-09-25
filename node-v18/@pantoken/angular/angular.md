@@ -28,7 +28,6 @@ Angular helpers for pantoken: register the web components and read tokens.
 - 0.1.7
 - 0.1.8
 - 0.1.9
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Node-API (N-API) host for GJS — implements the napi C ABI over SpiderMonkey (m
 - 0.50.0
 - 0.51.0
 - 0.51.1
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Framework-agnostic HTTP route derivation and Web Fetch request handling for Trai
 - 1.0.0-beta.48
 - 1.0.0-beta.49
 - 1.0.0-beta.50
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

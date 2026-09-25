@@ -28,7 +28,6 @@ An implementation of the HTML table model for forming and laying out tables
 - 0.97.0
 - 0.98.0
 - 0.99.0
-- 共 46 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

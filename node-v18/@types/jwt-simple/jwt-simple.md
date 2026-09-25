@@ -28,7 +28,6 @@ TypeScript definitions for jwt-simple
 - 0.5.34
 - 0.5.35
 - 0.5.36
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

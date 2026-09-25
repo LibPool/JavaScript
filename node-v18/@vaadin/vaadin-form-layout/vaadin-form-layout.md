@@ -16,6 +16,7 @@ Web component providing configurable responsive layout for form elements
 
 - 当前版本：23.6.6
 
+- 23.5.5
 - 23.5.6
 - 23.5.7
 - 23.5.8
@@ -27,7 +28,6 @@ Web component providing configurable responsive layout for form elements
 - 23.6.4
 - 23.6.5
 - 23.6.6
-- 3.0.0-alpha1
 - 共 258 个版本，完整清单见 npm registry。
 
 ## 获取地址

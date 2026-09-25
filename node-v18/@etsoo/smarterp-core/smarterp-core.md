@@ -16,6 +16,7 @@ TypeScript APIs for SmartERP Core
 
 - 当前版本：1.1.91
 
+- 1.1.80
 - 1.1.81
 - 1.1.82
 - 1.1.83
@@ -25,7 +26,6 @@ TypeScript APIs for SmartERP Core
 - 1.1.87
 - 1.1.88
 - 1.1.89
-- 1.1.9
 - 1.1.90
 - 1.1.91
 - 共 190 个版本，完整清单见 npm registry。

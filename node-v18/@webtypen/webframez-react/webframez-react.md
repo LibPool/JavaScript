@@ -28,7 +28,6 @@ TypeScript React RSC addition for @webtypen/webframez-core
 - 0.0.7
 - 0.0.8
 - 0.0.9
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

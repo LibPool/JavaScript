@@ -15,19 +15,19 @@ Redwood's HTTP server for serverless Functions
 
 - 当前版本：0.35.2
 
-- 0.8.3-canary.4
-- 0.8.3-canary.5
-- 0.8.3-canary.6
-- 0.8.3-canary.7
-- 0.8.3-canary.8
-- 0.8.3-canary.9
-- 0.9.0
-- 0.9.1
-- 0.9.1-canary.0
-- 0.9.2-canary.0
-- 0.9.2-canary.1
-- 0.9.2-canary.2
-- 共 1209 个版本，完整清单见 npm registry。
+- 0.35.2-canary.25
+- 0.35.2-canary.26
+- 0.35.2-canary.27
+- 0.35.2-canary.28
+- 0.35.2-canary.29
+- 0.35.3-canary.37
+- 0.35.3-canary.38
+- 0.35.3-canary.44
+- 0.35.3-canary.45
+- 0.35.3-canary.46
+- 0.35.3-canary.47
+- 0.35.3-canary.48
+- 共 1,209 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ clayjs: malleable HTML files. Save lifecycle for self-saving HTML.
 - 1.1.0
 - 1.2.0
 - 1.3.0
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

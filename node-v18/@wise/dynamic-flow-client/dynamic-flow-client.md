@@ -16,12 +16,12 @@ Dynamic Flow web client
 
 - 当前版本：5.25.2
 
-- 5.6.2
-- 5.7.0
-- 5.8.0
-- 5.8.1
+- 5.24.2
+- 5.25.0
+- 5.25.1
+- 5.25.2
+- 5.25.2-experimental-a8a898e
 - 5.9.0
-- 5.9.0-experimental-rendererprops-9c9a4b8
 - 5.9.1
 - 5.9.2
 - 5.9.2-exp-ext-renderer-5899c9c

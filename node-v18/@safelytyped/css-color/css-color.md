@@ -28,7 +28,6 @@ Safe type for CSS color values
 - 2.1.1
 - 3.0.0
 - 3.0.1
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

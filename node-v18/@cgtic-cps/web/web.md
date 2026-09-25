@@ -28,7 +28,6 @@ Web Components de ponta, sem complicação.
 - 1.8.3
 - 1.8.4
 - 1.8.5
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

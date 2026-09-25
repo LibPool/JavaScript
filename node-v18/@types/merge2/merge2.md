@@ -28,7 +28,6 @@ TypeScript definitions for merge2
 - 1.4.2
 - 1.4.3
 - 1.4.4
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

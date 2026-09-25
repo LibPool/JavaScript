@@ -28,7 +28,6 @@ html for trpc-playground
 - 1.0.0-next.0
 - 1.0.1
 - 1.0.4
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

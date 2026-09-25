@@ -28,7 +28,6 @@ TypeScript definitions for react-slick
 - 0.23.7
 - 0.23.8
 - 0.23.9
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

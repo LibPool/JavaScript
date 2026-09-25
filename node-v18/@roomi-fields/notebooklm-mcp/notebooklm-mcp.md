@@ -28,7 +28,6 @@ MCP server for NotebookLM API with HTTP REST API - Zero hallucinations from your
 - 3.1.1
 - 3.1.2
 - 3.2.0
-- 共 49 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

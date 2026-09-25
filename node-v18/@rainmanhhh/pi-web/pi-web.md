@@ -16,6 +16,9 @@ Web UI for the pi coding agent (fork of @agegr/pi-web)
 
 - 当前版本：0.15.34
 
+- 0.15.3
+- 0.15.30
+- 0.15.31
 - 0.15.32
 - 0.15.33
 - 0.15.34
@@ -25,9 +28,6 @@ Web UI for the pi coding agent (fork of @agegr/pi-web)
 - 0.15.7
 - 0.15.8
 - 0.15.9
-- 0.8.7
-- 0.8.8
-- 0.9.0
 - 共 76 个版本，完整清单见 npm registry。
 
 ## 获取地址

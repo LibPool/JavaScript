@@ -28,7 +28,6 @@ PowerI web UI — standalone server (npx @poweri/poweri-web) and the web layer o
 - 0.2.7
 - 0.2.8
 - 0.2.9
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

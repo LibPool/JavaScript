@@ -28,7 +28,6 @@ History Entity for [TypeORM](http://typeorm.io)
 - 9.0.34
 - 9.1.0
 - 9.2.12
-- 共 46 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

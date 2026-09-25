@@ -1,0 +1,35 @@
+# @logangroup/tours
+
+> 标签: JavaScript
+
+## 简介
+
+Paysites Reactjs Tours
+
+## 官网
+
+- 源码仓库：git@gitlab.com:logangroup/bangbros/tours.git
+- npm 页面：https://www.npmjs.com/package/@logangroup/tours
+
+## 历史版本号
+
+- 当前版本：11.9.0
+
+- 8.3.0
+- 8.4.0
+- 8.5.0
+- 8.6.0
+- 8.7.0
+- 8.8.0
+- 8.8.1
+- 8.8.2
+- 8.9.0
+- 9.0.0
+- 9.2.5
+- 9.2.6
+- 共 83 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @logangroup/tours`
+- npm registry：https://registry.npmjs.org/@logangroup/tours

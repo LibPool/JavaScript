@@ -27,7 +27,6 @@ Vue icon components based on the extensive collection of 1000 SVG icons provided
 - 1.0.0-beta.3
 - 1.0.0-beta.4
 - 1.0.0-beta.5
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

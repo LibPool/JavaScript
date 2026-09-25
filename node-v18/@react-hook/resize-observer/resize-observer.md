@@ -28,7 +28,6 @@ A React hook that fires a callback whenever ResizeObserver detects a change to i
 - 2.0.0
 - 2.0.1
 - 2.0.2
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

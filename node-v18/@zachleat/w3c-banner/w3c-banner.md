@@ -1,0 +1,25 @@
+# @zachleat/w3c-banner
+
+> 标签: JavaScript
+
+## 简介
+
+A W3C Specification banner web component.
+
+## 官网
+
+- 官网：https://github.com/zachleat/w3c-banners#readme
+- 源码仓库：git+https://github.com/zachleat/w3c-banners.git
+- npm 页面：https://www.npmjs.com/package/@zachleat/w3c-banner
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @zachleat/w3c-banner`
+- npm registry：https://registry.npmjs.org/@zachleat/w3c-banner

@@ -28,7 +28,7 @@ GraphQL Code Generator plugin for generating TypeScript types for resolvers sign
 - 6.1.0
 - 6.1.0-alpha-20260706115540-218d46ac54100ede5f16a599a4fdc4724c476597
 - 6.1.0-alpha-20260706131902-30ccf8e97c7aaa696488caa1b30d4ea70d9e6213
-- 共 6626 个版本，完整清单见 npm registry。
+- 共 6,626 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

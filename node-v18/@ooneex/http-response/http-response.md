@@ -27,7 +27,6 @@ HTTP response builder with fluent API for setting status codes, headers, cookies
 - 1.3.9
 - 1.4.0
 - 1.4.1
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

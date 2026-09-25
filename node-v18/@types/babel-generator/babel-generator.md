@@ -28,7 +28,6 @@ TypeScript definitions for babel-generator
 - 6.7.7-alpha
 - 6.7.8-alpha
 - 6.7.9-alpha
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

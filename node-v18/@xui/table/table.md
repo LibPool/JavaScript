@@ -28,7 +28,6 @@ Modern Angular 22 UI Library based on TailwindCSS
 - 2.3.0
 - 3.0.0
 - 3.0.1
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

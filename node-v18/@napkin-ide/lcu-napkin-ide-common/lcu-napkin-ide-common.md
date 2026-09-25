@@ -15,19 +15,19 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 
 - 当前版本：1.42.1062
 
-- 1.9.150-integration
-- 1.9.151-integration
-- 1.9.152-flow-billing
-- 1.9.153-integration
-- 1.9.154-flow-billing
-- 1.9.168-flow-billing
-- 1.9.169-routing
-- 1.9.170-flow-billing
-- 1.9.171-routing
-- 1.9.172-routing
-- 1.9.173-integration
-- 1.9.175-routing
-- 共 1316 个版本，完整清单见 npm registry。
+- 1.40.1053-7879-incorrect-dropdown-styles
+- 1.40.1054-global-theming
+- 1.41.1055
+- 1.41.1057-8812-angular11update
+- 1.41.1058-integration
+- 1.41.1059-7403-new-validation-errors
+- 1.41.1060-7879-incorrect-dropdown-styles
+- 1.41.1061-global-theming
+- 1.42.1062
+- 1.42.1063-cancelsubscriptionupdate
+- 1.42.1064-integration
+- 1.42.1065-integration
+- 共 1,316 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

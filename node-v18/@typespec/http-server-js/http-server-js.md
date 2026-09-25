@@ -16,12 +16,12 @@ TypeSpec HTTP server code generator for JavaScript
 
 - 当前版本：0.58.0-alpha.29
 
+- 0.58.0-alpha.27-dev.3
 - 0.58.0-alpha.28
 - 0.58.0-alpha.28-dev.4
 - 0.58.0-alpha.29
 - 0.58.0-alpha.29-dev.1
 - 0.58.0-alpha.29-dev.2
-- 0.58.0-alpha.9
 - 0.58.0-dev.0
 - 0.58.0-dev.1
 - 0.58.0-dev.2

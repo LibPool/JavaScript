@@ -28,7 +28,6 @@ TypeScript definitions for relay-compiler
 - 8.0.2
 - 8.0.3
 - 8.0.4
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

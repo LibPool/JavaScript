@@ -28,7 +28,6 @@ Linter for the JavaScript Oxidation Compiler
 - 1.73.0-svelte.9
 - 1.80.0-svelte.10
 - 1.80.0-svelte.11
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

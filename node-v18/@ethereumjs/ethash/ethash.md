@@ -28,7 +28,6 @@ An implementation of the Ethash consensus algorithm in JavaScript
 - 3.0.3
 - 3.0.4
 - 4.0.0-alpha.1
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

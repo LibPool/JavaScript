@@ -28,7 +28,6 @@ Helper function to make tiny classnames for modular-css
 - 27.0.3
 - 27.1.0
 - 28.0.0
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

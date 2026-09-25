@@ -27,7 +27,6 @@ Free web pivot table tool. Created by industry experts for everyone.
 - 1.4.7
 - 1.4.8
 - 1.4.9
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

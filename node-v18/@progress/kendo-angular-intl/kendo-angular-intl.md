@@ -15,19 +15,19 @@ Kendo UI Internationalization for Angular components
 
 - 当前版本：25.1.0
 
-- 4.0.0-next.202204010859
-- 4.0.0-next.202204011517
-- 4.0.0-next.202204060712
-- 4.0.0-next.202204060817
-- 4.0.0-next.202204060908
-- 4.0.1
-- 4.0.1-dev.202206071423
-- 4.1.0
-- 4.1.0-dev.202207071609
-- 4.1.0-dev.202207080807
-- 4.1.1
-- 4.1.1-dev.202211170757
-- 共 1476 个版本，完整清单见 npm registry。
+- 25.1.1-develop.4
+- 25.2.0-develop.1
+- 25.2.0-develop.10
+- 25.2.0-develop.11
+- 25.2.0-develop.2
+- 25.2.0-develop.3
+- 25.2.0-develop.4
+- 25.2.0-develop.5
+- 25.2.0-develop.6
+- 25.2.0-develop.7
+- 25.2.0-develop.8
+- 25.2.0-develop.9
+- 共 1,476 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

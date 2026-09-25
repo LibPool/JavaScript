@@ -28,7 +28,6 @@ Web component that displays the user's location within a hierarchy as a trail of
 - 25.3.0-dev.1fa5a51482
 - 25.3.0-dev.3a3c2d7d2a
 - 25.3.0-rc1
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

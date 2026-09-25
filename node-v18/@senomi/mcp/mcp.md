@@ -1,0 +1,27 @@
+# @senomi/mcp
+
+> 标签: ai, claude, cursor, mcp, model-context-protocol, senomi
+
+## 简介
+
+Connect Claude Desktop, Cursor and other stdio MCP clients to your Senomi account.
+
+## 官网
+
+- 官网：https://docs.senomi.ai
+- 源码仓库：git+https://bitbucket.org/vitaliy_oskalenko/senseai.git
+- npm 页面：https://www.npmjs.com/package/@senomi/mcp
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @senomi/mcp`
+- npm registry：https://registry.npmjs.org/@senomi/mcp
+- Node 要求：>=18

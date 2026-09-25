@@ -1,0 +1,25 @@
+# @pixelpirates/leg-controller
+
+> 标签: controller, leg, rbxts, roblox, roblox-ts
+
+## 简介
+
+TypeScript port of Road_Gamer2's Leg Controller
+
+## 官网
+
+- 官网：https://github.com/Coyenn/leg-controller
+- 源码仓库：git+https://github.com/Coyenn/leg-controller.git
+- npm 页面：https://www.npmjs.com/package/@pixelpirates/leg-controller
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @pixelpirates/leg-controller`
+- npm registry：https://registry.npmjs.org/@pixelpirates/leg-controller

@@ -28,7 +28,6 @@ HTTP client for the botruntime API
 - 1.54.1
 - 1.55.0
 - 1.55.1
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

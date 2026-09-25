@@ -27,7 +27,6 @@ Sub-components of Kaia JavaScript SDKs.
 - 2.0.8
 - 2.0.9
 - 2.1.0
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

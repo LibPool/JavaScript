@@ -28,7 +28,6 @@ TypeScript definitions for milliseconds
 - 0.0.32
 - 0.0.33
 - 1.0.0
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

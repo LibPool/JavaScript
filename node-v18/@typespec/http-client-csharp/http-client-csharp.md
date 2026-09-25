@@ -28,7 +28,7 @@ TypeSpec library for emitting Http Client libraries for C#.
 - 1.0.0-alpha.20260917.6
 - 1.0.0-alpha.20260918.2
 - 1.0.0-alpha.20260918.3
-- 共 1206 个版本，完整清单见 npm registry。
+- 共 1,206 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ React Portal Component
 - 2.1.3
 - 2.2.0
 - 2.2.1
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ jsonminify plugin for @node-minify
 - 8.0.6
 - 9.0.0
 - 9.0.1
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

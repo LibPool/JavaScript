@@ -16,18 +16,18 @@ Node SDK for SuperDoc, wrapping the SuperDoc CLI to read and edit .docx files fr
 
 - 当前版本：2.14.0
 
-- 2.6.0
-- 2.7.0
-- 2.8.0
-- 2.9.0
-- 2.9.0-next.1
-- 2.9.0-next.2
-- 2.9.0-next.3
-- 2.9.0-next.4
-- 2.9.0-next.5
-- 2.9.0-next.6
-- 2.9.1-next.1
-- 2.9.1-next.2
+- 2.13.1-next.4
+- 2.13.1-next.5
+- 2.13.1-next.6
+- 2.13.1-next.7
+- 2.13.1-next.8
+- 2.13.1-next.9
+- 2.14.0
+- 2.14.0-next.1
+- 2.14.1-next.1
+- 2.14.1-next.2
+- 2.14.1-next.3
+- 2.15.0-next.1
 - 共 117 个版本，完整清单见 npm registry。
 
 ## 获取地址

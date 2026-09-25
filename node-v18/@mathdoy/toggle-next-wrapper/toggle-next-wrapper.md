@@ -1,0 +1,24 @@
+# @mathdoy/toggle-next-wrapper
+
+> 标签: Toggle, feature flags, feature switch, feature toggle, features, flags
+
+## 简介
+
+Toggle Nextjs Wrapper
+
+## 官网
+
+- 官网：https://github.com/MathieuDoyon/toggle#readme
+- 源码仓库：git+https://github.com/MathieuDoyon/toggle.git
+- npm 页面：https://www.npmjs.com/package/@mathdoy/toggle-next-wrapper
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @mathdoy/toggle-next-wrapper`
+- npm registry：https://registry.npmjs.org/@mathdoy/toggle-next-wrapper

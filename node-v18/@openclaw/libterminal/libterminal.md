@@ -28,7 +28,6 @@ Shared TypeScript terminal protocol, streaming, browser, Node, and Worker primit
 - 0.3.5
 - 0.3.6
 - 0.3.7
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

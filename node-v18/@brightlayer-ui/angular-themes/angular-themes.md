@@ -28,7 +28,6 @@ Angular themes for Brightlayer UI applications
 - 9.0.0-alpha.7
 - 9.0.1
 - 9.0.2
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

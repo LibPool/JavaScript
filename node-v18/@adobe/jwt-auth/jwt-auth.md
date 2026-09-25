@@ -28,7 +28,6 @@ Retrieve an authorization token from Adobe via JSON Web Token
 - 1.0.0
 - 1.0.1
 - 2.0.0
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

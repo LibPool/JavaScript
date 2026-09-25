@@ -28,7 +28,6 @@ TypeScript definitions for connect-timeout
 - 0.0.38
 - 0.0.39
 - 1.9.0
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ THREE.js wrapper for Angular
 - 1.0.0-beta.42
 - 1.0.0-beta.43
 - 1.0.0-beta.45
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

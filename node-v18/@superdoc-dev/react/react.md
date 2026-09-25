@@ -16,14 +16,14 @@ Official React wrapper for the SuperDoc document editor
 
 - 当前版本：1.16.2
 
-- 1.9.0-next.2
-- 1.9.0-next.3
-- 1.9.0-next.4
-- 1.9.0-next.5
-- 1.9.0-next.6
-- 1.9.0-next.7
-- 1.9.0-next.8
-- 1.9.0-next.9
+- 1.16.1-next.1
+- 1.16.1-next.2
+- 1.16.1-next.3
+- 1.16.1-next.4
+- 1.16.2
+- 1.17.0
+- 1.17.1
+- 1.18.0
 - 2.0.0-next.1
 - 2.0.0-next.2
 - 2.0.0-next.3

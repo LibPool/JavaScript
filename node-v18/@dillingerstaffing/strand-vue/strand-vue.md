@@ -16,7 +16,11 @@ Strand UI - Vue 3 component library built on the Strand Design Language
 
 - 当前版本：0.64.1
 
-- 0.6.0
+- 0.56.1
+- 0.57.0
+- 0.57.1
+- 0.58.0
+- 0.59.0
 - 0.60.0
 - 0.61.1
 - 0.61.2
@@ -24,10 +28,6 @@ Strand UI - Vue 3 component library built on the Strand Design Language
 - 0.63.0
 - 0.64.0
 - 0.64.1
-- 0.7.0
-- 0.7.1
-- 0.8.0
-- 0.9.0
 - 共 100 个版本，完整清单见 npm registry。
 
 ## 获取地址

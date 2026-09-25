@@ -28,7 +28,6 @@ Shim of web for rsmax
 - 1.4.1-canary.0
 - 1.4.2
 - 2.0.0-canary.91
-- 共 45 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

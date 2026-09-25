@@ -28,7 +28,6 @@ Generic headless visual page builder and renderer for Vue 3 built on the Cocoar 
 - 3.2.0-beta.7
 - 3.2.0-beta.8
 - 3.2.0-beta.9
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

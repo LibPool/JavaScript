@@ -28,7 +28,6 @@ React Native Carousel
 - 3.4.7
 - 3.4.8
 - 3.4.9
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

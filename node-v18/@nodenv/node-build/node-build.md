@@ -16,8 +16,8 @@ A tool to download, compile, and install Node on Unix-like systems.
 
 - 当前版本：5.4.55
 
+- 5.4.48
 - 5.4.49
-- 5.4.5
 - 5.4.50
 - 5.4.51
 - 5.4.52

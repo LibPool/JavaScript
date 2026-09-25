@@ -28,7 +28,6 @@ TypeScript definitions for body-parser
 - 1.19.4
 - 1.19.5
 - 1.19.6
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

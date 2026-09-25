@@ -15,15 +15,15 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 
 - 当前版本：0.1.1-cbrelease-4.8.40
 
+- 0.0.7-ang-17-20
+- 0.0.7-ang-17-20-for-cbp
+- 0.0.7-cbrelease-4.8.23
 - 0.0.7-cbrelease-4.8.25
 - 0.0.7-cbrelease-4.8.28
-- 0.0.8
 - 0.0.8-ang-17-20
-- 0.0.8-ang-9-12
 - 0.0.8-cbrelease-4.8.23
 - 0.0.8-cbrelease-4.8.25
 - 0.0.8-cbrelease-4.8.28
-- 0.0.9-ang-9-12
 - 0.0.9-cbrelease-4.8.23
 - 0.0.9-cbrelease-4.8.25
 - 0.1.1-cbrelease-4.8.40

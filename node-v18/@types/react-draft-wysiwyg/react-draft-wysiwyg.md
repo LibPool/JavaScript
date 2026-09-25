@@ -28,7 +28,6 @@ TypeScript definitions for react-draft-wysiwyg
 - 1.13.7
 - 1.13.8
 - 1.13.9
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

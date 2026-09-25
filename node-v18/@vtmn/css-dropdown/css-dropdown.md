@@ -28,7 +28,6 @@ Decathlon Design System - Vitamin specific CSS styles for alert component
 - 1.1.2
 - 1.1.3
 - 1.1.4
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

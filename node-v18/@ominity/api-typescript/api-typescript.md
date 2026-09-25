@@ -27,7 +27,6 @@ Developer-friendly & type-safe Typescript SDK specifically catered to leverage *
 - 1.4.6
 - 1.4.7
 - 1.4.8
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

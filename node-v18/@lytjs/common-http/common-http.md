@@ -27,7 +27,6 @@ Lightweight HTTP client based on native fetch API
 - 6.9.4
 - 6.9.5
 - 6.9.6
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

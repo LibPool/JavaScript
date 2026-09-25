@@ -28,7 +28,6 @@ TypeScript client for Chalk
 - 1.31.7
 - 1.31.8
 - 1.8.0
-- 共 47 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

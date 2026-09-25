@@ -28,7 +28,6 @@ This is the **x86_64-unknown-freebsd** binary for `@oxc-node/core`
 - 0.1.1
 - 0.1.2
 - 0.1.3
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

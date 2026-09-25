@@ -1,0 +1,25 @@
+# @infrix/proof-receipt
+
+> 标签: accumulate, infrix, proof, receipt, verification
+
+## 简介
+
+Verify an Infrix portable proof and render its receipt — in the browser or Node, with no node trust.
+
+## 官网
+
+- 官网：https://github.com/opendlt/infrix-sdk-js#readme
+- 源码仓库：git+https://github.com/opendlt/infrix-sdk-js.git
+- npm 页面：https://www.npmjs.com/package/@infrix/proof-receipt
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.0
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @infrix/proof-receipt`
+- npm registry：https://registry.npmjs.org/@infrix/proof-receipt

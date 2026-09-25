@@ -28,7 +28,6 @@ A performant React library which adds drag to select to your app
 - 5.0.5
 - 5.0.6
 - 5.0.8
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

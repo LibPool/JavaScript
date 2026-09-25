@@ -28,7 +28,6 @@ A plugin to provide Tailwind CSS utilities for grid areas.
 - 3.0.1
 - 3.1.0
 - 4.0.0
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -16,10 +16,10 @@ Chakra UI Vue | Position engine for vue bult on popperjs core component
 
 - 当前版本：1.0.0-alpha.14
 
-- 1.0.0-alpha.14
-- 2.0.0-beta.0
-- 2.0.0-beta.1
-- 2.0.0-beta.2
+- 0.0.0-dev-20230520111945
+- 0.0.0-dev-20230520113449
+- 0.0.0-dev-20230520114847
+- 0.0.0-dev-20230603114816
 - 2.1.0-beta.1
 - 2.1.0-beta.2
 - 2.1.0-beta.3

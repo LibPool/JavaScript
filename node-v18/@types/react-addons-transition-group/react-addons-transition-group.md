@@ -28,7 +28,6 @@ TypeScript definitions for react-addons-transition-group
 - 15.0.7
 - 15.0.8
 - 15.0.9
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -15,6 +15,10 @@ Controllers are a code-reuse pattern for Stencil and Lit Web Components. They al
 
 - 当前版本：4.34.9
 
+- 5.0.0-next.47
+- 5.0.0-next.48
+- 5.0.0-next.49
+- 5.0.0-next.50
 - 5.0.0-next.51
 - 5.0.0-next.52
 - 5.0.0-next.53
@@ -23,10 +27,6 @@ Controllers are a code-reuse pattern for Stencil and Lit Web Components. They al
 - 5.0.0-next.56
 - 5.0.0-next.57
 - 5.0.0-next.58
-- 5.0.0-next.6
-- 5.0.0-next.7
-- 5.0.0-next.8
-- 5.0.0-next.9
 - 共 780 个版本，完整清单见 npm registry。
 
 ## 获取地址

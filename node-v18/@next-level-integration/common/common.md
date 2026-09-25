@@ -15,12 +15,12 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 
 - 当前版本：0.0.0-NG12hybrid-keycloak20-RC16
 
-- 9.6.0-beta.2
-- 9.6.0-beta.3
-- 9.6.0-beta.4
-- 9.6.1
+- 10.0.5
+- 10.0.6
+- 10.0.6-beta
+- 10.0.7
+- 10.0.8-beta
 - 9.6.2
-- 9.6.2-beta
 - 9.6.2-beta.2
 - 9.7.0-beta
 - 9.8.0-beta

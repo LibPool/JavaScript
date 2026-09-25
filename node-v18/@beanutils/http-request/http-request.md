@@ -28,7 +28,6 @@ General HTTP Request module, extension from axios.
 - 0.1.37
 - 0.1.38
 - 0.1.57
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

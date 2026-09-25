@@ -28,7 +28,6 @@ TypeScript definitions for type-check
 - 0.3.29
 - 0.3.30
 - 0.3.31
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

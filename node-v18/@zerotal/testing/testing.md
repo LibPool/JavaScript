@@ -28,7 +28,6 @@ Testing utilities for Zerotal — an in-process test app, HTTP helpers, and data
 - 1.8.0
 - 1.8.1
 - 1.9.0
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

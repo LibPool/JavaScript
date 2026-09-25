@@ -28,7 +28,6 @@ A wrapper for [@shopify/shopify-node-api](https://github.com/Shopify/shopify-nod
 - 5.0.2
 - 5.0.3
 - 5.1.0
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

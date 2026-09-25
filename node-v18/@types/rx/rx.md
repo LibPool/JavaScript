@@ -28,7 +28,6 @@ TypeScript definitions for rx
 - 4.1.2
 - 4.1.3
 - 4.1.4
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

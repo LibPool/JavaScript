@@ -1,0 +1,33 @@
+# @nobodyz/vue-timeline
+
+> 标签: day timeline, nobodyz, timeline, vue, vue2, vuejs, vuejs2
+
+## 简介
+
+## Project setup ``` npm install @nobodyz/vue-timeline ``` ### Example useage ```javascript
+
+## 官网
+
+- 官网：https://github.com/SeekerOfTrueCode/nobodyz-vue-timeline#readme
+- 源码仓库：git+https://github.com/SeekerOfTrueCode/nobodyz-vue-timeline.git
+- npm 页面：https://www.npmjs.com/package/@nobodyz/vue-timeline
+
+## 历史版本号
+
+- 当前版本：0.0.9
+
+- 0.0.0
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @nobodyz/vue-timeline`
+- npm registry：https://registry.npmjs.org/@nobodyz/vue-timeline

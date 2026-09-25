@@ -28,7 +28,6 @@ modular-css powered conversion of CSS to JavaScript
 - 29.1.3
 - 29.1.4
 - 29.1.5
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

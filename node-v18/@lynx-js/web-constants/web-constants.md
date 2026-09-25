@@ -28,7 +28,6 @@ A common dependency library that defines constants for the Lynx3 Web Platform.
 - 0.8.0
 - 0.9.0
 - 0.9.1
-- 共 46 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

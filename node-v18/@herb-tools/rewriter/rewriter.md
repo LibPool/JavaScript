@@ -28,7 +28,6 @@ Rewriter system for transforming HTML+ERB AST nodes and formatted strings
 - 0.9.5
 - 0.9.6
 - 0.9.7
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for react-sortable-tree
 - 0.3.7
 - 0.3.8
 - 0.3.9
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

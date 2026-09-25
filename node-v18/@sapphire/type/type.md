@@ -16,6 +16,8 @@ A type detection utility for JavaScript
 
 - 当前版本：2.6.0
 
+- 2.6.1-next.d152822
+- 2.6.1-next.d880777
 - 2.6.1-next.de12b33
 - 2.6.1-next.e09c7e9
 - 2.6.1-next.e7248e8
@@ -25,9 +27,7 @@ A type detection utility for JavaScript
 - 2.6.1-next.f061b7d
 - 2.6.1-next.f12826e
 - 2.6.1-next.f63c515
-- 2.6.1-next.fae2841
 - 2.6.1-next.ff50fca
-- 3.0.0-next.bd22def.0
 - 共 198 个版本，完整清单见 npm registry。
 
 ## 获取地址

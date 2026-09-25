@@ -28,7 +28,6 @@ WebAssembly build of Graphviz with a simple wrapper for using it on the web
 - 3.7.0
 - 3.8.0
 - 3.9.0
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

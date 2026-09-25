@@ -28,7 +28,6 @@ The hassle-free way to add Segment analytics to your React-Native app.
 - 0.4.2
 - 0.4.3
 - 0.4.3-fix-ios-zero-second-sessions.1
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

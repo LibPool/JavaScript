@@ -28,7 +28,6 @@ Node HTTP adapter for @pollyjs
 - 6.0.4
 - 6.0.5
 - 6.0.6
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

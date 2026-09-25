@@ -28,7 +28,6 @@ Presigned S3 server — dimahS3() with HTTP handler and direct api for upload, d
 - 1.5.7
 - 1.5.8
 - 1.5.9
-- 共 48 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

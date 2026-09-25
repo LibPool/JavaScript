@@ -16,7 +16,9 @@ The official Node client library for the Mailchimp Marketing API
 
 - 当前版本：3.0.80
 
-- 3.0.7
+- 3.0.67
+- 3.0.68
+- 3.0.69
 - 3.0.70
 - 3.0.71
 - 3.0.72
@@ -25,9 +27,7 @@ The official Node client library for the Mailchimp Marketing API
 - 3.0.75
 - 3.0.78
 - 3.0.79
-- 3.0.8
 - 3.0.80
-- 3.0.9
 - 共 74 个版本，完整清单见 npm registry。
 
 ## 获取地址

@@ -28,7 +28,6 @@ Leadfoot. A JavaScript client library that brings cross-platform consistency to 
 - 2.3.3
 - 2.4.0
 - 2.4.1
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

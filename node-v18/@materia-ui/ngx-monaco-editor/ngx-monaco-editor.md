@@ -28,7 +28,6 @@ Monaco Editor Library for Angular v6 and above
 - 5.1.0
 - 6.0.0
 - 6.0.0-beta.1
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

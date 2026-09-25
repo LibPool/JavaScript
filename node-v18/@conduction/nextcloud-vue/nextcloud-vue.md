@@ -16,10 +16,10 @@ Shared Vue component library for Conduction Nextcloud apps — complements @next
 
 - 当前版本：2.56.0
 
-- 2.8.2
-- 2.9.0
-- 2.9.1
-- 2.9.2
+- 2.54.1
+- 2.55.0
+- 2.55.1
+- 2.56.0
 - 3.0.0
 - 3.0.0-beta.3
 - 3.0.0-beta.4

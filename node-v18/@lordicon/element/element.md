@@ -28,7 +28,6 @@ This package offers developers a convenient method for embedding, controlling, a
 - 2.2.0
 - 2.3.0
 - 2.3.1
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

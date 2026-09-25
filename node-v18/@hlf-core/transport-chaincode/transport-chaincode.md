@@ -1,0 +1,36 @@
+# @hlf-core/transport-chaincode
+
+> 标签: blockchain, chaincode, distributed-ledger, fabric, hyperledger, hyperledger-fabric, signature, smart-contracts, transport, typescript
+
+## 简介
+
+TypeScript library for Hyperledger Fabric transport on the chaincode side: command receiving, signature and nonce validation, batch processing and event dispatching
+
+## 官网
+
+- 官网：https://github.com/ManhattanDoctor/hlf-core-transport-chaincode#readme
+- 源码仓库：git+https://github.com/ManhattanDoctor/hlf-core-transport-chaincode.git
+- npm 页面：https://www.npmjs.com/package/@hlf-core/transport-chaincode
+
+## 历史版本号
+
+- 当前版本：3.6.9
+
+- 3.5.7
+- 3.5.8
+- 3.6.0
+- 3.6.1
+- 3.6.2
+- 3.6.3
+- 3.6.4
+- 3.6.5
+- 3.6.6
+- 3.6.7
+- 3.6.8
+- 3.6.9
+- 共 75 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @hlf-core/transport-chaincode`
+- npm registry：https://registry.npmjs.org/@hlf-core/transport-chaincode

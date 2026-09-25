@@ -28,7 +28,6 @@ TypeScript definitions for angular-file-upload
 - 4.2.27-alpha
 - 4.2.28
 - 4.2.29
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

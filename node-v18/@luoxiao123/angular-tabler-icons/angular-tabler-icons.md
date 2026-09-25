@@ -28,7 +28,6 @@ Tabler Icons components library for your Angular applications
 - 3.44.0
 - 3.44.1
 - 3.44.2
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

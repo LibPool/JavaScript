@@ -28,7 +28,6 @@ rolldown plugin for vanilla-extract that extracts CSS into a lightningcss-optimi
 - 0.4.6
 - 0.4.7
 - 0.4.8
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

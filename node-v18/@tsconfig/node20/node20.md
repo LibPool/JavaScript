@@ -28,7 +28,6 @@ A base TSConfig for working with Node 20.
 - 20.1.7
 - 20.1.8
 - 20.1.9
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

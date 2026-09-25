@@ -16,7 +16,7 @@ A plugin to call API endpoints via CLI commands
 
 - 当前版本：2.0.10
 
-- 1.3.9
+- 1.3.54
 - 2.0.0
 - 2.0.1
 - 2.0.10

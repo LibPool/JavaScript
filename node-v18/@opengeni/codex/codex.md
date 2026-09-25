@@ -16,6 +16,10 @@ ChatGPT/Codex subscription auth + transport: device-code login, token refresh, a
 
 - 当前版本：0.2.24
 
+- 0.2.23-canary.35518527350001
+- 0.2.23-canary.4
+- 0.2.23-canary.5
+- 0.2.23-canary.6
 - 0.2.23-canary.7
 - 0.2.24
 - 0.2.24-canary.35585322809001
@@ -24,10 +28,6 @@ ChatGPT/Codex subscription auth + transport: device-code login, token refresh, a
 - 0.2.24-canary.35720630828001
 - 0.2.24-canary.35785844021001
 - 0.2.24-canary.35795903742001
-- 0.2.3
-- 0.2.5
-- 0.2.7
-- 0.2.9
 - 共 86 个版本，完整清单见 npm registry。
 
 ## 获取地址

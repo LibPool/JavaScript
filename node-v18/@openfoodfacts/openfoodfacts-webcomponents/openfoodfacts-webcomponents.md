@@ -28,7 +28,6 @@ Reusable Web Components for Open Food Facts
 - 1.8.4
 - 1.8.5
 - 1.9.0
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for proxyquire
 - 1.3.29
 - 1.3.30
 - 1.3.31
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

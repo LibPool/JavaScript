@@ -1,0 +1,26 @@
+# @hy-sde-org/dsh-llm-slots
+
+> 标签: admission, agent, concurrency, deepseek, dsh-plugin, fifo, harness, llm, slots
+
+## 简介
+
+Host-wide model-slot admission control (ctx.modelSlots) decided FIFO at the llm/stream waterfall: a shared budget over every model call so 2-3 concurrent local inference slots stay predictable, as a standalone npm package.
+
+## 官网
+
+- 源码仓库：git+https://github.com/hy-sde/dsh-plugins.git
+- npm 页面：https://www.npmjs.com/package/@hy-sde-org/dsh-llm-slots
+
+## 历史版本号
+
+- 当前版本：0.1.6-alpha.2
+
+- 0.1.2-rc.1
+- 0.1.5-rc.1
+- 0.1.6-alpha.2
+
+## 获取地址
+
+- npm 安装：`npm install @hy-sde-org/dsh-llm-slots`
+- npm registry：https://registry.npmjs.org/@hy-sde-org/dsh-llm-slots
+- Node 要求：>=22.19.0

@@ -1,0 +1,29 @@
+# @manoruchan/enum
+
+> 标签: autocomplete, dynamic-enum, enum, javascript, typescript, utility
+
+## 简介
+
+A simple and flexible Enum class for JavaScript / TypeScript.
+
+## 官网
+
+- 官网：https://github.com/Manoruchan/enum#readme
+- 源码仓库：git+https://github.com/Manoruchan/enum.git
+- npm 页面：https://www.npmjs.com/package/@manoruchan/enum
+
+## 历史版本号
+
+- 当前版本：3.0.1
+
+- 2.0.1
+- 2.0.2
+- 2.1.0
+- 2.1.1
+- 3.0.0
+- 3.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @manoruchan/enum`
+- npm registry：https://registry.npmjs.org/@manoruchan/enum

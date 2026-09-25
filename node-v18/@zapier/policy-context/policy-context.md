@@ -28,7 +28,6 @@ Shared request-context types, builders, and policy condition generators — the 
 - 1.3.0-mr.6.c3a1f51e
 - 2.0.0
 - 3.0.0
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

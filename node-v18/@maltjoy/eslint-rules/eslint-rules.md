@@ -27,7 +27,6 @@ Custom ESLint rules for the @maltjoy/core-vue design system
 - 6.2.1
 - 6.3.0
 - 6.4.0
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

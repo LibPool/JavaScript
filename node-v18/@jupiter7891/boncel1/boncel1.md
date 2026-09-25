@@ -1,0 +1,23 @@
+# @jupiter7891/boncel1
+
+> 标签: JavaScript
+
+## 简介
+
+@jupiter7891/boncel1 - JavaScript library from npm
+
+## 官网
+
+- 源码仓库：https://github.com/Jupiter7891
+- npm 页面：https://www.npmjs.com/package/@jupiter7891/boncel1
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @jupiter7891/boncel1`
+- npm registry：https://registry.npmjs.org/@jupiter7891/boncel1

@@ -28,7 +28,6 @@ TypeScript definitions for relay-test-utils
 - 6.0.4
 - 6.0.5
 - 6.0.6
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

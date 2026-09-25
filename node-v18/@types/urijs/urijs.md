@@ -28,7 +28,6 @@ TypeScript definitions for urijs
 - 1.19.7
 - 1.19.8
 - 1.19.9
-- 共 49 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

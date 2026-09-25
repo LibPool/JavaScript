@@ -28,7 +28,6 @@ CSS Blocks Broccoli Addon
 - 1.3.2
 - 1.4.0
 - 1.5.0
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

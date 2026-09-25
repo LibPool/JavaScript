@@ -28,7 +28,6 @@ LoomWeaver: open-source plugin platform for Angular workbenches. The shell: chro
 - 0.9.7
 - 0.9.8
 - 0.9.9
-- 共 46 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

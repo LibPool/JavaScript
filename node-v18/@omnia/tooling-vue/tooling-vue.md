@@ -16,19 +16,19 @@ Used to bundle and serve manifests web component that build on Vue framework.
 
 - 当前版本：7.11.30
 
-- 8.0.94-dev
-- 8.0.94-vnext
-- 8.0.95-dev
-- 8.0.95-vnext
-- 8.0.96-dev
-- 8.0.96-vnext
-- 8.0.97-dev
-- 8.0.97-vnext
-- 8.0.98-dev
-- 8.0.98-vnext
-- 8.0.99-dev
-- 8.0.99-vnext
-- 共 6152 个版本，完整清单见 npm registry。
+- 7.9.29
+- 7.9.30
+- 7.9.34
+- 7.9.35
+- 7.9.36
+- 7.9.37
+- 7.9.38
+- 7.9.39
+- 7.9.40
+- 7.9.41
+- 7.9.42
+- 7.9.43
+- 共 6,152 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

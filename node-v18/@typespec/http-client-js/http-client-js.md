@@ -15,8 +15,8 @@ TypeSpec library for emitting Http Client libraries for JavaScript/TypeScript
 
 - 当前版本：0.16.2
 
-- 0.7.0-dev.6
-- 0.7.0-dev.7
+- 0.16.3-dev.3
+- 0.7.0
 - 0.8.0
 - 0.8.0-dev.0
 - 0.8.0-dev.1

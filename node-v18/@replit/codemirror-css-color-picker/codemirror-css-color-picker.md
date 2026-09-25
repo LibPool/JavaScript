@@ -28,7 +28,6 @@ Enables a color picker input next to css colors
 - 6.1.1
 - 6.2.0
 - 6.3.0
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

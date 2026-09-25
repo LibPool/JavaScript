@@ -28,7 +28,6 @@ TypeScript definitions for swagger-ui-react
 - 4.18.3
 - 4.19.0
 - 5.18.0
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

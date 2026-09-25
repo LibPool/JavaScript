@@ -28,7 +28,6 @@ An elegant, restrained Vue 3 component library built on Reka UI and Tailwind CSS
 - 1.7.2
 - 1.7.3
 - 1.7.4
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

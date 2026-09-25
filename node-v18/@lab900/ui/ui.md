@@ -16,18 +16,18 @@ A set of Angular components built on top of [Angular Material](https://material.
 
 - 当前版本：22.0.9
 
-- 4.1.0-alpha.34
-- 4.1.0-alpha.35
-- 4.1.0-alpha.36
-- 4.1.0-alpha.37
-- 4.1.0-alpha.38
-- 4.1.0-alpha.39
-- 4.1.0-alpha.40
-- 4.1.0-alpha.41
-- 4.1.0-alpha.42
-- 4.1.0-alpha.43
-- 4.1.0-alpha.44
-- 4.1.0-alpha.45
+- 19.2.2
+- 19.2.3
+- 19.2.4
+- 19.2.5
+- 19.2.6
+- 19.2.7
+- 22.0.0
+- 22.0.4
+- 22.0.7
+- 22.0.7-alpha.1
+- 22.0.8
+- 22.0.9
 - 共 233 个版本，完整清单见 npm registry。
 
 ## 获取地址

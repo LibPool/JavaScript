@@ -28,7 +28,6 @@ Utility library emit test data through @wire adapters in Lightning web component
 - 4.1.4
 - 4.1.5
 - 4.1.6
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

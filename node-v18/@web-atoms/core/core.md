@@ -28,7 +28,7 @@ Web Atoms Core
 - 2.6.54
 - 2.6.6
 - 2.6.9
-- 共 1109 个版本，完整清单见 npm registry。
+- 共 1,109 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

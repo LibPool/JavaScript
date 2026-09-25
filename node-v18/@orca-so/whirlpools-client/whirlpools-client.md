@@ -28,7 +28,6 @@ Typescript client to interact with Orca's on-chain Whirlpool program.
 - 6.2.0
 - 6.2.1
 - 7.0.0
-- 共 42 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

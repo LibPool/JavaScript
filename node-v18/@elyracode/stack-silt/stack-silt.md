@@ -28,7 +28,6 @@ Elyra stack profile for SILT (Svelte 5, Inertia.js, Laravel, Tailwind CSS)
 - 0.9.40
 - 0.9.41
 - 0.9.42
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

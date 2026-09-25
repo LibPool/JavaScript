@@ -28,7 +28,6 @@ TypeScript definitions for d3-contour
 - 3.0.4
 - 3.0.5
 - 3.0.6
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

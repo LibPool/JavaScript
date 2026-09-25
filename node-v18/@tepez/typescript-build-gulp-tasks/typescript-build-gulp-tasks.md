@@ -28,7 +28,6 @@ Tasks for developing typescript applications (used to be with Gulp)
 - 8.0.0-1
 - 8.0.0-2
 - 8.0.0-3
-- 共 43 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

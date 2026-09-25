@@ -27,7 +27,6 @@ Design System package providing design tokens, CSS variables, and Vue.js custom 
 - 0.3.0
 - 0.4.0
 - 0.5.0
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

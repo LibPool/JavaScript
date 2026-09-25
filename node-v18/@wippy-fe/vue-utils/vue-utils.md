@@ -27,7 +27,6 @@ Runtime Vue utilities for Wippy micro-frontend apps — warn suppressor and othe
 - 0.0.56
 - 0.0.57
 - 0.0.58
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

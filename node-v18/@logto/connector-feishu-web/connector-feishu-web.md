@@ -27,7 +27,6 @@ Feishu web connector.
 - 1.4.5
 - 1.4.6
 - 1.4.7
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -1,0 +1,32 @@
+# @ty-ras/frontend-fetch-io-ts
+
+> 标签: client, data, fetch, frontend, http, io-ts, runtime, validation
+
+## 简介
+
+Bundle of TyRAS libraries suitable to use in frontends/clients which use Fetch API to send HTTP requests, and `io-ts` as data validation library.
+
+## 官网
+
+- 官网：https://github.com/ty-ras/packaging#readme
+- 源码仓库：git+https://github.com/ty-ras/packaging.git
+- npm 页面：https://www.npmjs.com/package/@ty-ras/frontend-fetch-io-ts
+
+## 历史版本号
+
+- 当前版本：2.1.0
+
+- 0.12.0
+- 0.12.1
+- 0.12.2
+- 0.13.0
+- 0.13.1
+- 1.0.0
+- 1.0.1
+- 2.0.0
+- 2.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @ty-ras/frontend-fetch-io-ts`
+- npm registry：https://registry.npmjs.org/@ty-ras/frontend-fetch-io-ts

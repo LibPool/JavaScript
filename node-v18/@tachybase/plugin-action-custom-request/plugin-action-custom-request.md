@@ -16,18 +16,18 @@ Sending a request to any HTTP service supports sending context data to the targe
 
 - 当前版本：1.6.62
 
+- 1.6.51
+- 1.6.52
+- 1.6.53
+- 1.6.54
+- 1.6.55
+- 1.6.56
+- 1.6.57
 - 1.6.58
 - 1.6.59
-- 1.6.6
 - 1.6.60
 - 1.6.61
 - 1.6.62
-- 1.6.7
-- 1.6.8
-- 1.6.8-alpha.1
-- 1.6.8-alpha.2
-- 1.6.9
-- 1.6.9-alpha.1
 - 共 152 个版本，完整清单见 npm registry。
 
 ## 获取地址

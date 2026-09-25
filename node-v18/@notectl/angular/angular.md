@@ -28,7 +28,6 @@ Angular integration for the notectl rich text editor. Provides a standalone comp
 - 2.3.5
 - 2.3.6
 - 2.3.7
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

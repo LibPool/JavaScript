@@ -1,0 +1,36 @@
+# @leftshiftone/convey
+
+> 标签: assistant, bot, digital, g.a.i.a., gaia, leftshiftone
+
+## 简介
+
+JavaScript connector to AIOS.
+
+## 官网
+
+- 官网：https://github.com/leftshiftone/conveyjs
+- 源码仓库：git+https://github.com/leftshiftone/conveyjs.git
+- npm 页面：https://www.npmjs.com/package/@leftshiftone/convey
+
+## 历史版本号
+
+- 当前版本：4.5.1
+
+- 4.0.0-rc.3
+- 4.0.0-rc.4
+- 4.1.0
+- 4.2.0
+- 4.3.0
+- 4.3.1
+- 4.3.2
+- 4.4.0
+- 4.4.1
+- 4.4.2
+- 4.5.0
+- 4.5.1
+- 共 67 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @leftshiftone/convey`
+- npm registry：https://registry.npmjs.org/@leftshiftone/convey

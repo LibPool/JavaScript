@@ -28,7 +28,6 @@ HTML + print-CSS to PDF on the Forme engine — pagination, running headers, pag
 - 0.23.0
 - 0.24.0
 - 0.25.0
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

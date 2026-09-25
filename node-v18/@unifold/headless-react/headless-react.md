@@ -27,7 +27,6 @@ Unifold Headless React SDK - hooks-only (no UI) crypto deposit flows
 - 0.1.82
 - 0.1.83
 - 0.1.84
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

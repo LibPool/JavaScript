@@ -28,7 +28,6 @@ Supports adding Maplibre GL Web to a Leaflet Map as a layer
 - 0.1.2
 - 0.1.3
 - 0.1.4
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

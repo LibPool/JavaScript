@@ -28,7 +28,6 @@ Common functionality among generated Diez web SDKs.
 - 10.6.0
 - 10.6.0-beta.0
 - 10.6.0-beta.1
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

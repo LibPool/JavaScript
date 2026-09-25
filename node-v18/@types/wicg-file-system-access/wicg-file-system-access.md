@@ -28,7 +28,6 @@ TypeScript definitions for wicg-file-system-access
 - 2023.10.5
 - 2023.10.6
 - 2023.10.7
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

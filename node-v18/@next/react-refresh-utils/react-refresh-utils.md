@@ -16,19 +16,19 @@ An experimental package providing utilities for React Refresh.
 
 - 当前版本：16.3.6
 
-- 9.5.6-canary.15
-- 9.5.6-canary.16
-- 9.5.6-canary.17
-- 9.5.6-canary.18
-- 9.5.6-canary.2
-- 9.5.6-canary.3
-- 9.5.6-canary.4
-- 9.5.6-canary.5
-- 9.5.6-canary.6
-- 9.5.6-canary.7
-- 9.5.6-canary.8
-- 9.5.6-canary.9
-- 共 3191 个版本，完整清单见 npm registry。
+- 16.4.0-canary.34
+- 16.4.0-canary.35
+- 16.4.0-canary.36
+- 16.4.0-canary.37
+- 16.4.0-canary.38
+- 16.4.0-canary.39
+- 16.4.0-canary.4
+- 16.4.0-canary.5
+- 16.4.0-canary.6
+- 16.4.0-canary.7
+- 16.4.0-canary.8
+- 16.4.0-canary.9
+- 共 3,191 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

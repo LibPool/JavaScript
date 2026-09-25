@@ -16,12 +16,12 @@ Asynchronous rendering ads with Google Publisher Tag (Doubleclick GPT) for Angul
 
 - 当前版本：16.2.0
 
-- 9.0.0
-- 9.0.1
-- 9.0.2
-- 9.0.3
-- 9.0.4
-- 9.1.0
+- 8.1.1
+- 8.1.2
+- 8.1.3
+- 8.1.4
+- 8.2.0
+- 8.2.1
 - 9.1.1
 - 9.1.2
 - 9.1.3

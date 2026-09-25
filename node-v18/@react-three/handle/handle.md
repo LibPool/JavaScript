@@ -28,7 +28,6 @@ agnostic expandable handles for react-three-fiber
 - 6.6.7
 - 6.6.8
 - 6.6.9
-- 共 45 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for is
 - 0.0.25
 - 0.0.4-alpha
 - 0.0.5-alpha
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

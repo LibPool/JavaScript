@@ -1,0 +1,27 @@
+# @anker-fed/monitor-sdk
+
+> 标签: monitor-sdk, sdk
+
+## 简介
+
+monitor sdk
+
+## 官网
+
+- 源码仓库：git@git.anker-in.com:bpit/td2/fed/monitor-sdk.git
+- npm 页面：https://www.npmjs.com/package/@anker-fed/monitor-sdk
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @anker-fed/monitor-sdk`
+- npm registry：https://registry.npmjs.org/@anker-fed/monitor-sdk
+- Node 要求：>= 8.0.0

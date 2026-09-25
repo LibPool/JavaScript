@@ -28,7 +28,6 @@ TypeScript definitions for redux-promise
 - 0.5.32
 - 0.5.4-alpha
 - 0.5.5-alpha
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

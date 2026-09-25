@@ -28,7 +28,6 @@ Collection of validation functions for JavaScript data
 - 1.4.0-beta.1
 - 1.5.0
 - 1.5.0-beta.1
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

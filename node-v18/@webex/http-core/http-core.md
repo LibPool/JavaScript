@@ -28,7 +28,7 @@ Core HTTP library for the Cisco Webex
 - 3.9.0
 - 3.9.0-multi-llms.1
 - 3.9.0-webinar5k.1
-- 共 1318 个版本，完整清单见 npm registry。
+- 共 1,318 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

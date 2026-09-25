@@ -27,7 +27,6 @@ Vue basic setup
 - 2.9.3
 - 2.9.4
 - 2.9.5
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

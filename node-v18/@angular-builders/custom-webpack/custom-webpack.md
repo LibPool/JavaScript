@@ -16,18 +16,18 @@ Custom webpack builders for Angular build facade. Allow to modify Angular build 
 
 - 当前版本：22.0.1
 
-- 9.0.0-beta.0
-- 9.0.0-beta.1
-- 9.0.0-beta.2
-- 9.0.0-beta.6
-- 9.0.0-beta.7
-- 9.0.1-beta.0
-- 9.1.0
-- 9.1.0-beta.0
-- 9.1.0-beta.1
-- 9.2.0
-- 9.2.0-beta.0
-- 9.2.1-beta.0
+- 21.1.0-beta.5
+- 21.1.0-beta.6
+- 21.1.0-beta.7
+- 21.1.0-beta.8
+- 21.1.0-beta.9
+- 22.0.0
+- 22.0.0-beta.0
+- 22.0.0-beta.1
+- 22.0.1
+- 22.0.1-beta.0
+- 22.0.2-beta.0
+- 22.0.2-beta.1
 - 共 174 个版本，完整清单见 npm registry。
 
 ## 获取地址

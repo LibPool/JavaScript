@@ -27,7 +27,6 @@ Nwire — Express-backed HTTP adopter. expressAdapter() consumes wires with bind
 - 0.15.1
 - 0.16.0
 - 0.16.1
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

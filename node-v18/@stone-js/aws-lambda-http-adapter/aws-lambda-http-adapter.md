@@ -28,7 +28,6 @@ Official AWS Lambda HTTP adapter for Stone.js. Run your Stone.js apps on AWS Lam
 - 0.8.7
 - 0.8.8
 - 0.8.9
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

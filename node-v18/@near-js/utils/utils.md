@@ -27,7 +27,6 @@ Common methods and constants for the NEAR API JavaScript client
 - 2.4.1
 - 2.5.0
 - 2.5.1
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

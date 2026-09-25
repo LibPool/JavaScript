@@ -28,7 +28,6 @@ Get product information from HTML markup on merchant websites
 - 1.4.7
 - 1.4.8
 - 1.4.9
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -16,18 +16,18 @@ Unifold Connect React Native SDK - Crypto deposit and onramp for React Native/Ex
 
 - 当前版本：0.1.70
 
+- 0.1.65
+- 0.1.66
+- 0.1.66-beta.1
 - 0.1.66-beta.2
 - 0.1.67
 - 0.1.68
 - 0.1.68-beta.1
 - 0.1.68-beta.2
 - 0.1.69
-- 0.1.7
 - 0.1.70
 - 0.1.71-beta.1
 - 0.1.71-beta.2
-- 0.1.8
-- 0.1.9
 - 共 100 个版本，完整清单见 npm registry。
 
 ## 获取地址

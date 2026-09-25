@@ -28,7 +28,6 @@ TypeScript definitions for qs
 - 6.9.7
 - 6.9.8
 - 6.9.9
-- 共 42 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

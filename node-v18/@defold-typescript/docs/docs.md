@@ -16,6 +16,7 @@ Human-facing guide for the defold-typescript toolchain.
 
 - 当前版本：0.38.0
 
+- 0.29.0
 - 0.30.0
 - 0.31.0
 - 0.32.0
@@ -27,7 +28,6 @@ Human-facing guide for the defold-typescript toolchain.
 - 0.36.0
 - 0.37.0
 - 0.38.0
-- 0.9.0
 - 共 70 个版本，完整清单见 npm registry。
 
 ## 获取地址

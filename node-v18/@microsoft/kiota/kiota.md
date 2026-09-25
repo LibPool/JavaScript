@@ -28,7 +28,6 @@ npm package exposing Kiota CLI functionality to TypeScript
 - 1.34.1
 - 1.35.0
 - 1.35.0-preview.202609100001
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

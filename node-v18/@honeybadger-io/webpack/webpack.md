@@ -28,7 +28,6 @@ Webpack plugin to upload source maps to Honeybadger's API - http://docs.honeybad
 - 6.3.2
 - 6.3.3
 - 6.3.4
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

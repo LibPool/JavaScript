@@ -28,7 +28,6 @@ TypeScript definitions for stylus
 - 0.48.41
 - 0.48.42
 - 0.48.43
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -27,7 +27,6 @@ SuperAtom Web SDK - TypeScript SDK for browser-based WebSocket communication
 - 0.0.8-mds
 - 0.0.9
 - 0.0.9-mds
-- 共 42 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ JihyunLab Web secure storage.
 - 2.1.4
 - 2.1.5
 - 2.1.6
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ open im sdk for web
 - 3.8.5
 - 3.8.5-hotfix.0
 - 3.8.6
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

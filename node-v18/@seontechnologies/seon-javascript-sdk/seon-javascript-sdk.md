@@ -27,7 +27,6 @@ SEON JavaScript SDK for collecting session and device data
 - 6.7.0
 - 6.8.0
 - 6.9.0
-- 共 47 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

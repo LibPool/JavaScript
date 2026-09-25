@@ -28,7 +28,6 @@ TypeScript definitions for react-notification-system
 - 0.2.44
 - 0.2.45
 - 0.2.46
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

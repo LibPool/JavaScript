@@ -27,7 +27,6 @@ Vue 2 ProTable / ProPageTable：搜索、valueType、筛选、持久化、树表
 - 0.3.7
 - 0.3.8
 - 0.3.9
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

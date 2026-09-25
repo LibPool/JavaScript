@@ -16,6 +16,7 @@ Angular integration for @tanstack/db
 
 - 当前版本：0.1.91
 
+- 0.1.79
 - 0.1.80
 - 0.1.81
 - 0.1.82
@@ -26,7 +27,6 @@ Angular integration for @tanstack/db
 - 0.1.87
 - 0.1.88
 - 0.1.89
-- 0.1.9
 - 0.1.91
 - 共 91 个版本，完整清单见 npm registry。
 

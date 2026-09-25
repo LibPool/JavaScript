@@ -28,7 +28,6 @@ Stoplight HTML language extension.
 - 0.0.44-0.0.44-alpha.2.0
 - 0.0.44-alpha.0
 - 0.0.44-alpha.1
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Cloud presentation and delivery-index foundation for the LazyingArt agent web ap
 - 0.1.75
 - 0.1.76
 - 0.1.77
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

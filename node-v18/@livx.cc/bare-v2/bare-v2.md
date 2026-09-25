@@ -27,7 +27,6 @@ Shadcn-inspired minimalist CSS library with semantic, LLM-friendly class names
 - 3.1.1
 - 3.1.2
 - 3.1.3
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

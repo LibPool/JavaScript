@@ -1,0 +1,25 @@
+# @vtfk/kor-client
+
+> 标签: JavaScript
+
+## 简介
+
+Module for retreiving data from kontakt- og reservasjonsregisteret
+
+## 官网
+
+- 官网：https://github.com/vtfk/kor-client#readme
+- 源码仓库：git+https://github.com/vtfk/kor-client.git
+- npm 页面：https://www.npmjs.com/package/@vtfk/kor-client
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @vtfk/kor-client`
+- npm registry：https://registry.npmjs.org/@vtfk/kor-client
+- Node 要求：>=10.14.2

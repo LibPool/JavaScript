@@ -16,19 +16,19 @@ The official TypeScript library for the Mastra Client API
 
 - 当前版本：1.47.0
 
-- 1.8.4-alpha.0
-- 1.8.5-alpha.0
-- 1.8.5-alpha.1
-- 1.9.0
-- 1.9.0-alpha.2
-- 1.9.0-alpha.3
-- 1.9.1
-- 1.9.1-alpha.0
-- 1.9.1-alpha.1
-- 1.9.1-alpha.2
-- 1.9.1-alpha.3
-- 1.9.1-alpha.4
-- 共 1464 个版本，完整清单见 npm registry。
+- 1.47.0-alpha.11
+- 1.47.0-alpha.2
+- 1.47.0-alpha.3
+- 1.47.0-alpha.4
+- 1.47.0-alpha.5
+- 1.47.0-alpha.6
+- 1.47.0-alpha.7
+- 1.47.0-alpha.8
+- 1.47.0-alpha.9
+- 1.48.0-alpha.0
+- 1.48.0-alpha.1
+- 1.48.0-alpha.2
+- 共 1,464 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

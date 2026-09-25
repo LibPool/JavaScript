@@ -28,7 +28,6 @@ HTTP client for the Nado mobile service API — username claims, profiles, priva
 - 0.47.0
 - 0.48.0
 - 0.49.0
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ WaPo offers a CSS framework for rapid development with our design system standar
 - 1.8.0
 - 1.8.0-alpha.0
 - 1.9.0
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

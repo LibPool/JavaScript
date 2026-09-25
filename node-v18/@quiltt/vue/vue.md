@@ -28,7 +28,6 @@ Vue 3 Composables and Components for Quiltt Connector
 - 6.1.2
 - 6.1.3
 - 6.1.4
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ A react component that creates an instance of JW Player
 - 2.0.0-pre
 - 2.0.1-pre.0
 - 2.0.1-pre.1
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for smartystreets-javascript-sdk
 - 1.6.8
 - 1.6.9
 - 5.1.0
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

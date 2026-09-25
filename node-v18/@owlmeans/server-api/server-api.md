@@ -15,14 +15,14 @@ Fastify-based HTTP/WebSocket server with handler wrappers for the OwlMeans entry
 
 - 当前版本：0.1.18-rc.16
 
+- 0.1.18-rc.37
+- 0.1.18-rc.38
+- 0.1.18-rc.39
+- 0.1.18-rc.4
 - 0.1.18-rc.40
 - 0.1.18-rc.5
 - 0.1.18-rc.6
 - 0.1.18-rc.8
-- 0.1.2
-- 0.1.3
-- 0.1.4
-- 0.1.5
 - 0.1.6
 - 0.1.7
 - 0.1.8

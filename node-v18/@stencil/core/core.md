@@ -16,6 +16,7 @@ A Compiler for Web Components and Progressive Web Apps
 
 - 当前版本：4.45.0
 
+- 5.0.0-beta.1
 - 5.0.0-beta.10
 - 5.0.0-beta.11
 - 5.0.0-beta.12
@@ -27,8 +28,7 @@ A Compiler for Web Components and Progressive Web Apps
 - 5.0.0-beta.7
 - 5.0.0-beta.8
 - 5.0.0-beta.9
-- 5.0.0-next.0
-- 共 1931 个版本，完整清单见 npm registry。
+- 共 1,931 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Filesystem utils for Node
 - 3.1.6
 - 3.1.7
 - 3.1.7-testing.0
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

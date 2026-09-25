@@ -1,0 +1,26 @@
+# @i-and-me/green-screen-react
+
+> 标签: 3270, 5250, as400, component, emulator, green-screen, hp6530, ibm-i, iseries, mainframe, react, terminal, tn3270, tn5250, vt220, zos
+
+## 简介
+
+Multi-protocol legacy terminal React component (TN5250, TN3270, VT, HP 6530)
+
+## 官网
+
+- 官网：https://github.com/visionbridge-solutions/green-screen-react#readme
+- 源码仓库：git+https://github.com/visionbridge-solutions/green-screen-react.git
+- npm 页面：https://www.npmjs.com/package/@i-and-me/green-screen-react
+
+## 历史版本号
+
+- 当前版本：1.7.3
+
+- 1.7.1
+- 1.7.2
+- 1.7.3
+
+## 获取地址
+
+- npm 安装：`npm install @i-and-me/green-screen-react`
+- npm registry：https://registry.npmjs.org/@i-and-me/green-screen-react

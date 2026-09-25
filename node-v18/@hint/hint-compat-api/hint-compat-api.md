@@ -28,7 +28,6 @@ hint to validate if the HTML, CSS, and JavaScript APIs of the project are deprec
 - 4.5.6
 - 4.5.7
 - 4.5.8
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

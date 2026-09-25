@@ -16,7 +16,7 @@ TypeScript port of ZXing multi-format 1D/2D barcode image processing library.
 
 - 当前版本：0.23.0
 
-- 0.7.0-dev.058aea
+- 0.7.0
 - 0.8.0
 - 0.8.1
 - 0.8.2

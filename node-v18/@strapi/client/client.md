@@ -28,7 +28,6 @@ The official client library to easily interface with Strapi from your JavaScript
 - 1.6.0
 - 1.6.1
 - 1.6.2
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

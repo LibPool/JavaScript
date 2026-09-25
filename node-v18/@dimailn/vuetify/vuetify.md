@@ -16,18 +16,18 @@ Vue Material Component Framework
 
 - 当前版本：2.7.2-alpha74
 
+- 2.7.2-alpha63
+- 2.7.2-alpha64
+- 2.7.2-alpha65
+- 2.7.2-alpha66
+- 2.7.2-alpha67
 - 2.7.2-alpha68
 - 2.7.2-alpha69
-- 2.7.2-alpha7
 - 2.7.2-alpha70
 - 2.7.2-alpha71
 - 2.7.2-alpha72
 - 2.7.2-alpha73
 - 2.7.2-alpha74
-- 2.7.2-alpha8
-- 2.7.2-alpha9
-- 2.7.2-superbundle
-- 2.7.2-superbundle2
 - 共 75 个版本，完整清单见 npm registry。
 
 ## 获取地址

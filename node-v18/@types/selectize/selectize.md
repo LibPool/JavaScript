@@ -28,7 +28,6 @@ TypeScript definitions for selectize
 - 0.12.39
 - 0.12.40
 - 0.12.41
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

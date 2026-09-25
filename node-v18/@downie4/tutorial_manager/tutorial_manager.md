@@ -1,0 +1,26 @@
+# @downie4/tutorial_manager
+
+> 标签: jupyter, jupyterlab, jupyterlab-extension
+
+## 简介
+
+An extension that allows interactive tutorials to be incorporated into JupyterLab.
+
+## 官网
+
+- 官网：https://github.com/downiec/jupyterlab-tutorial-manager.git
+- 源码仓库：git+https://github.com/downiec/jupyterlab-tutorial-manager.git.git
+- npm 页面：https://www.npmjs.com/package/@downie4/tutorial_manager
+
+## 历史版本号
+
+- 当前版本：0.7.3
+
+- 0.7.0
+- 0.7.2
+- 0.7.3
+
+## 获取地址
+
+- npm 安装：`npm install @downie4/tutorial_manager`
+- npm registry：https://registry.npmjs.org/@downie4/tutorial_manager

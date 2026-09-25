@@ -28,7 +28,6 @@ AWS credential provider for containers and HTTP sources (with updated dependenci
 - 3.972.73-depup.1
 - 3.972.73-depup.2
 - 3.972.74-depup.0
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

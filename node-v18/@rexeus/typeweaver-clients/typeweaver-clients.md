@@ -28,7 +28,6 @@ Generates HTTP clients directly from your API definitions. Powered by Typeweaver
 - 0.9.0
 - 0.9.1
 - 0.9.2
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -1,0 +1,26 @@
+# @weigen393/datacatpaw
+
+> 标签: DataCat, DataCatPaw
+
+## 简介
+
+Send application data to InfluxDB
+
+## 官网
+
+- 官网：https://github.com/weigen393/DataCatPaw#readme
+- 源码仓库：git+https://github.com/weigen393/DataCatPaw.git
+- npm 页面：https://www.npmjs.com/package/@weigen393/datacatpaw
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @weigen393/datacatpaw`
+- npm registry：https://registry.npmjs.org/@weigen393/datacatpaw

@@ -16,6 +16,8 @@ Zeus Web-C component library toolchain
 
 - 当前版本：0.1.0
 
+- 0.1.1-beta.1
+- 0.1.1-beta.2
 - 0.1.1-canary.20260805.99.1.9ffc7a14
 - 0.1.1-canary.20260811.100.1.51f2e362
 - 0.1.1-canary.20260812.105.1.aaffcfa2
@@ -26,8 +28,6 @@ Zeus Web-C component library toolchain
 - 0.1.1-canary.20260821.116.1.c4ea7505
 - 0.1.1-canary.20260821.117.1.8eb9f553
 - 0.1.1-canary.20260821.119.1.a099abbf
-- 0.1.3
-- 0.1.4
 - 共 83 个版本，完整清单见 npm registry。
 
 ## 获取地址

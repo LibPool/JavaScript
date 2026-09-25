@@ -28,7 +28,6 @@ Blank Typescript template for NativeScript apps using Vue.
 - 9.1.0
 - 9.1.1
 - 9.1.2
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

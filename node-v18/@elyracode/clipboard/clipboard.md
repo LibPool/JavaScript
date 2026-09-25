@@ -28,7 +28,6 @@ Native cross-platform clipboard access (text, image, html, rtf) via NAPI-RS (for
 - 0.9.7
 - 0.9.8
 - 0.9.9
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

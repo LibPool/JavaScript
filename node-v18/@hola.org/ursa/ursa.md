@@ -1,0 +1,25 @@
+# @hola.org/ursa
+
+> 标签: crypto, digest, hash, key, openssl, private, public, rsa, sign, signature, verification, verify
+
+## 简介
+
+RSA public/private key OpenSSL bindings for node and io.js
+
+## 官网
+
+- 官网：https://github.com/quartzjer/ursa
+- 源码仓库：git+https://github.com/quartzjer/ursa.git
+- npm 页面：https://www.npmjs.com/package/@hola.org/ursa
+
+## 历史版本号
+
+- 当前版本：0.9.4-hola.0
+
+- 0.9.4-hola.0
+
+## 获取地址
+
+- npm 安装：`npm install @hola.org/ursa`
+- npm registry：https://registry.npmjs.org/@hola.org/ursa
+- Node 要求：>=4

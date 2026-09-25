@@ -1,0 +1,35 @@
+# @tsparticles/palette-water-splash
+
+> 标签: angular, angular-particles, angularjs, animated, animation, background, canvas, canvas-confetti, confetti, confetti-js, confettijs, css, css3, fireworks, fireworks-js, fireworksjs, front-end, frontend, html, html5, javascript, jquery, jsparticles, ngx-particles, particle, particleground, particles, particles-bg, particles-bg-vue, particles-js, particles-ts, particles.js, particles.ts, particlesjs, preact, preactjs, react, react-particles, react-particles-js, react-particles.js, reactjs, tsparticles, tsparticles-palette, typescript, vue, vue-particles, vuejs, web, web-design, webdesign, xparticles
+
+## 简介
+
+tsParticles water splash palette
+
+## 官网
+
+- 官网：https://particles.js.org
+- 源码仓库：git+https://github.com/tsparticles/tsparticles.git
+- npm 页面：https://www.npmjs.com/package/@tsparticles/palette-water-splash
+
+## 历史版本号
+
+- 当前版本：4.4.0
+
+- 4.0.4
+- 4.0.5
+- 4.1.0
+- 4.1.1
+- 4.1.2
+- 4.1.3
+- 4.2.0
+- 4.2.1
+- 4.3.0
+- 4.3.1
+- 4.3.2
+- 4.4.0
+
+## 获取地址
+
+- npm 安装：`npm install @tsparticles/palette-water-splash`
+- npm registry：https://registry.npmjs.org/@tsparticles/palette-water-splash

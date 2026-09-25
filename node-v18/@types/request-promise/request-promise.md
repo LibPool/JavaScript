@@ -28,7 +28,6 @@ TypeScript definitions for request-promise
 - 4.1.49
 - 4.1.50
 - 4.1.51
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

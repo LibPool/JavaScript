@@ -28,7 +28,6 @@ Shared core for StyleX webpack and Rspack plugins powered by a Rust NAPI-RS/SWC 
 - 0.19.0-rc.3
 - 0.19.0-rc.4
 - 0.19.0-rc.5
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

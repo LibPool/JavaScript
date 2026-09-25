@@ -28,7 +28,6 @@ TypeScript plugins for vis.gl frameworks
 - 2.0.0-alpha.8
 - 2.0.0-alpha.9
 - 2.0.0-beta.1
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

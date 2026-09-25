@@ -15,18 +15,18 @@ React Native components for Feather icons - native and web
 
 - 当前版本：1.0.1-beta.193
 
-- 1.0.1-beta.88
-- 1.0.1-beta.89
-- 1.0.1-beta.90
-- 1.0.1-beta.91
-- 1.0.1-beta.92
-- 1.0.1-beta.93
-- 1.0.1-beta.94
-- 1.0.1-beta.95
-- 1.0.1-beta.96
-- 1.0.1-beta.97
-- 1.0.1-beta.98
-- 1.0.1-beta.99
+- 1.0.1-beta.182
+- 1.0.1-beta.183
+- 1.0.1-beta.184
+- 1.0.1-beta.185
+- 1.0.1-beta.186
+- 1.0.1-beta.187
+- 1.0.1-beta.188
+- 1.0.1-beta.189
+- 1.0.1-beta.190
+- 1.0.1-beta.191
+- 1.0.1-beta.192
+- 1.0.1-beta.193
 - 共 250 个版本，完整清单见 npm registry。
 
 ## 获取地址

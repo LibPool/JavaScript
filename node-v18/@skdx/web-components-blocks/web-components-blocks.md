@@ -28,7 +28,6 @@ Web Components blocks for the SkandaDX design system — page-level compositions
 - 0.43.1
 - 0.44.0
 - 0.45.0
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

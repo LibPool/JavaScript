@@ -28,7 +28,6 @@ TypeScript definitions for connect
 - 3.4.36
 - 3.4.37
 - 3.4.38
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

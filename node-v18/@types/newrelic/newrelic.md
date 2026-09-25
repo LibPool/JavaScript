@@ -28,7 +28,6 @@ TypeScript definitions for newrelic
 - 9.14.7
 - 9.14.8
 - 9.4.0
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

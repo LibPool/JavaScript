@@ -28,7 +28,7 @@ GraphQL Code Generator plugin for generating TypeGraphQL compatible TypeScript t
 - 3.0.1-alpha-20250526100144-68f892966407f6141a54c7569766365d6a4ed02a
 - 3.0.1-alpha-20250526100430-e507681f91df8e08ea1cffae51f9f0650e401b83
 - 3.0.1-alpha-20250526100444-f6bd83c6f02db94087dc0911966fe7006155e19c
-- 共 3469 个版本，完整清单见 npm registry。
+- 共 3,469 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -1,0 +1,31 @@
+# @opencreek/eslint-plugin-nextjs
+
+> 标签: eslint, eslint-plugin, eslintplugin
+
+## 简介
+
+ESLint plugin for Common TypeScript rules
+
+## 官网
+
+- 官网：https://github.com/opencreek/eslint-plugin-ts#readme
+- 源码仓库：git+https://github.com/opencreek/eslint-plugin-ts.git
+- npm 页面：https://www.npmjs.com/package/@opencreek/eslint-plugin-nextjs
+
+## 历史版本号
+
+- 当前版本：0.4.1-canary.15.1565281924.0
+
+- 0.4.1-canary.15.1565281924.0
+- 0.5.0-canary.15.1565410357.0
+- 0.5.0-canary.15.1565435955.0
+- 0.5.0-canary.15.1565568458.0
+- 0.5.0-canary.15.1572499547.0
+- 0.5.0-canary.15.1572636036.0
+- 0.5.0-canary.15.1573405567.0
+
+## 获取地址
+
+- npm 安装：`npm install @opencreek/eslint-plugin-nextjs`
+- npm registry：https://registry.npmjs.org/@opencreek/eslint-plugin-nextjs
+- Node 要求：12.x || 14.x || >= 16

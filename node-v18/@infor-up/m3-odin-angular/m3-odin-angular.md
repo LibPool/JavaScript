@@ -28,7 +28,6 @@ Odin Angular for M3 web application development.
 - 8.0.0-next.2
 - 8.0.0-next.3
 - 8.0.0-next.4
-- 共 49 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

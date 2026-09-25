@@ -15,10 +15,10 @@ Common node functions for Saber
 
 - 当前版本：1.7.43
 
+- 1.7.41-alpha.1
 - 1.7.41-alpha.2
 - 1.7.41-alpha.3
 - 1.7.43
-- 1.7.5
 - 1.7.6
 - 1.7.7
 - 1.7.7-alpha.1

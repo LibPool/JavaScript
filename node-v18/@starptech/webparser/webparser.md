@@ -27,7 +27,6 @@ Optimized html parser for HTML5 Web Components.
 - 0.8.3
 - 0.8.5
 - 0.9.0
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Vue 3 based smooth signature drawing component ✨
 - 1.8.5
 - 1.8.6
 - 1.9.0
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

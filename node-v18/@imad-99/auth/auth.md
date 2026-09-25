@@ -1,0 +1,25 @@
+# @imad-99/auth
+
+> 标签: JavaScript
+
+## 简介
+
+An Angular library providing a customizable HTTP interceptor for authentication and authorization, with built-in support for Keycloak and extensible AuthService logic.
+
+## 官网
+
+- 官网：https://github.com/imad-99/auth.git
+- 源码仓库：git+https://github.com/imad-99/auth.git
+- npm 页面：https://www.npmjs.com/package/@imad-99/auth
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @imad-99/auth`
+- npm registry：https://registry.npmjs.org/@imad-99/auth

@@ -28,7 +28,6 @@ Simple React component to wrap up PDF.js. The easiest way to render PDFs in your
 - 8.1.0
 - 8.1.1
 - 8.1.2
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

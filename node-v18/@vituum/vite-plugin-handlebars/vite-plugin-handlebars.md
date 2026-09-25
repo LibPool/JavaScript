@@ -28,7 +28,6 @@ Vite plugin for Handlebars, transforms hbs templates into HTML
 - 2.0.0-next.1
 - 2.0.1
 - 2.0.2
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

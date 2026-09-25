@@ -16,7 +16,7 @@ A dependency library for TypeScript and JavaScript, along with a binding for Rea
 
 - 当前版本：1.1.3
 
-- 0.6.5
+- 0.19.2
 - 0.7.0
 - 0.8.0
 - 0.9.0

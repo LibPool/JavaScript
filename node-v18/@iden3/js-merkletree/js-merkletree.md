@@ -28,7 +28,6 @@ javascript sparse merkle tree library
 - 1.5.0
 - 1.5.1
 - 1.5.2
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

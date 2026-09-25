@@ -28,7 +28,6 @@ TypeScript client for Nika — a live local driver plus the nika serve HTTP clie
 - 0.73.0
 - 0.74.0
 - 0.90.0
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

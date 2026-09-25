@@ -27,7 +27,6 @@ Trimble Modus Vue Component Library
 - 1.8.0-vue
 - 1.9.0-vue
 - 1.9.1-vue
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

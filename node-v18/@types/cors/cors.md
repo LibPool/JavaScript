@@ -28,7 +28,6 @@ TypeScript definitions for cors
 - 2.8.7
 - 2.8.8
 - 2.8.9
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

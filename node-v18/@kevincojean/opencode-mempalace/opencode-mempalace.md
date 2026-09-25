@@ -1,0 +1,26 @@
+# @kevincojean/opencode-mempalace
+
+> 标签: knowledge-graph, mcp, memory, mempalace, opencode, opencode-plugin
+
+## 简介
+
+OpenCode plugin for MemPalace memory system — auto-registers MCP server, injects memory protocol into system prompt, and loads context on session start
+
+## 官网
+
+- 官网：https://github.com/kevincojean/opencode-mempalace#readme
+- 源码仓库：git+https://github.com/kevincojean/opencode-mempalace.git
+- npm 页面：https://www.npmjs.com/package/@kevincojean/opencode-mempalace
+
+## 历史版本号
+
+- 当前版本：0.4.2
+
+- 0.4.0
+- 0.4.1
+- 0.4.2
+
+## 获取地址
+
+- npm 安装：`npm install @kevincojean/opencode-mempalace`
+- npm registry：https://registry.npmjs.org/@kevincojean/opencode-mempalace

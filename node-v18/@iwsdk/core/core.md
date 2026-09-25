@@ -28,7 +28,6 @@ Javascript WebXR Runtime for Emulation
 - 0.5.1
 - 0.5.2
 - 0.5.3
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

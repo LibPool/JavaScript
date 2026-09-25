@@ -28,7 +28,6 @@ Lightweight and powerful skeleton library for React.
 - 1.1.1
 - 1.1.1-alpha.3165452
 - 1.1.1-alpha.989b4fe
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

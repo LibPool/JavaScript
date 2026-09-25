@@ -28,7 +28,6 @@ d8a web destination for walkerOS
 - 4.6.0-next-1788817472881
 - 4.6.0-next-1788933594957
 - 4.6.1
-- 共 48 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

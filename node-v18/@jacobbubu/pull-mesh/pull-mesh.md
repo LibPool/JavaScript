@@ -1,0 +1,36 @@
+# @jacobbubu/pull-mesh
+
+> 标签: JavaScript
+
+## 简介
+
+[![Build Status](https://github.com/jacobbubu/pull-mesh/workflows/Build%20and%20Release/badge.svg)](https://github.com/jacobbubu/pull-mesh/actions?query=workflow%3A%22Build+and+Release%22) [![Coverage Status](https://coveralls.io/repos/github/jacobbubu/pu
+
+## 官网
+
+- 官网：https://github.com/jacobbubu/pull-mesh#readme
+- 源码仓库：git+https://github.com/jacobbubu/pull-mesh.git
+- npm 页面：https://www.npmjs.com/package/@jacobbubu/pull-mesh
+
+## 历史版本号
+
+- 当前版本：3.1.1
+
+- 2.4.2
+- 2.4.3
+- 2.4.4
+- 2.4.5
+- 2.5.0
+- 2.6.0
+- 2.6.1
+- 2.6.2
+- 2.6.3
+- 3.0.0
+- 3.1.0
+- 3.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @jacobbubu/pull-mesh`
+- npm registry：https://registry.npmjs.org/@jacobbubu/pull-mesh
+- Node 要求：>=6.0.0

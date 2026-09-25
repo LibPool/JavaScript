@@ -1,0 +1,33 @@
+# @reactions/router
+
+> 标签: react, react router
+
+## 简介
+
+Next generation Routing for React.
+
+## 官网
+
+- 官网：https://github.com/reactions/router#readme
+- 源码仓库：git+https://github.com/reactions/router.git
+- npm 页面：https://www.npmjs.com/package/@reactions/router
+
+## 历史版本号
+
+- 当前版本：0.0.0-alpha.10
+
+- 0.0.0-alpha.1
+- 0.0.0-alpha.10
+- 0.0.0-alpha.2
+- 0.0.0-alpha.3
+- 0.0.0-alpha.4
+- 0.0.0-alpha.5
+- 0.0.0-alpha.6
+- 0.0.0-alpha.7
+- 0.0.0-alpha.8
+- 0.0.0-alpha.9
+
+## 获取地址
+
+- npm 安装：`npm install @reactions/router`
+- npm registry：https://registry.npmjs.org/@reactions/router

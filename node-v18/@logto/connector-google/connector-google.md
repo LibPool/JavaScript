@@ -27,7 +27,6 @@ Google web connector implementation.
 - 1.8.5
 - 1.8.6
 - 1.8.7
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

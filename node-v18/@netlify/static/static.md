@@ -28,7 +28,6 @@ TypeScript implementtion of Netlify's static file serving logic
 - 3.1.8
 - 3.1.9
 - 4.0.0
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

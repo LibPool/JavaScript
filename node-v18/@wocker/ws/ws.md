@@ -28,7 +28,6 @@ Docker workspace for web projects
 - 1.1.5-beta.0
 - 1.1.6
 - 1.1.6-beta.0
-- 共 42 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

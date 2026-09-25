@@ -16,18 +16,18 @@ A custom mux video element for React that Just Works™
 
 - 当前版本：0.31.4
 
-- 0.8.5-canary.0-587a5ae
-- 0.8.5-canary.0-a6a76b6
-- 0.8.5-canary.0-c492f9e
-- 0.8.5-canary.0-cc57636
-- 0.8.5-canary.0-fd91d94
-- 0.9.0
-- 0.9.0-canary.0-33b2c11
-- 0.9.0-canary.0-668f35d
-- 0.9.0-canary.0-76aa003
-- 0.9.0-canary.0-88a63db
-- 0.9.0-canary.0-8d3ed83
-- 0.9.0-canary.0-f418d8c
+- 0.31.1-canary.0
+- 0.31.1-canary.1
+- 0.31.1-canary.2
+- 0.31.1-canary.3
+- 0.31.2
+- 0.31.3
+- 0.31.3-canary.0
+- 0.31.3-canary.1
+- 0.31.3-canary.2
+- 0.31.4
+- 0.31.4-canary.0
+- 0.31.4-canary.1
 - 共 728 个版本，完整清单见 npm registry。
 
 ## 获取地址

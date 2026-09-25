@@ -28,7 +28,6 @@ TypeScript definitions for jsbn
 - 1.2.31
 - 1.2.32
 - 1.2.33
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

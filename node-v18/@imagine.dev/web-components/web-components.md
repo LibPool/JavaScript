@@ -15,10 +15,10 @@ The web components project is the core UI of Imagine. It is packages as a web co
 
 - 当前版本：0.0.141
 
-- 0.0.89
-- 0.0.9
-- 0.0.90
-- 0.0.91
+- 0.0.138
+- 0.0.139
+- 0.0.140
+- 0.0.141
 - 0.0.92
 - 0.0.93
 - 0.0.94

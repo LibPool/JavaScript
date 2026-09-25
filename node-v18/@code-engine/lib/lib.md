@@ -1,0 +1,36 @@
+# @code-engine/lib
+
+> 标签: asset-pipeline, blog, build, build-tool, code-generation, code-generator, docs, documentation, generator, make, parallel, pipeline, site, static, static-site-builder, static-site-generator, tool, website
+
+## 简介
+
+build tool | code generator | static site builder
+
+## 官网
+
+- 官网：https://engine.codes
+- 源码仓库：git+https://github.com/CodeEngineOrg/code-engine-lib.git
+- npm 页面：https://www.npmjs.com/package/@code-engine/lib
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+- 1.0.0
+- 1.0.0-alpha.0
+- 1.0.0-beta.2
+- 1.0.0-beta.3
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @code-engine/lib`
+- npm registry：https://registry.npmjs.org/@code-engine/lib
+- Node 要求：>=12.12

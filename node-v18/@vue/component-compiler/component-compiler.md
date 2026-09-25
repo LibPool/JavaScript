@@ -28,7 +28,6 @@ bundler agnostic API for compiling Vue SFC
 - 4.2.2
 - 4.2.3
 - 4.2.4
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for websocket
 - 16.0.24-alpha
 - 16.0.25-alpha
 - 16.0.26-alpha
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

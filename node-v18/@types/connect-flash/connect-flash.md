@@ -28,7 +28,6 @@ TypeScript definitions for connect-flash
 - 0.0.38
 - 0.0.39
 - 0.0.40
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

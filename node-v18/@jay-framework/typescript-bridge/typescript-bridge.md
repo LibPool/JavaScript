@@ -15,13 +15,13 @@ TypeScript CommonJS to ESM bridge for seamless TypeScript utility access
 
 - 当前版本：0.24.5
 
+- 0.23.1
+- 0.24.0
 - 0.24.1
 - 0.24.2
 - 0.24.3
 - 0.24.4
 - 0.24.5
-- 0.3.0
-- 0.4.0
 - 0.5.0
 - 0.6.0
 - 0.7.0

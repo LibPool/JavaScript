@@ -16,19 +16,19 @@ A common dependency library that defines constants for the Lynx3 Web Platform.
 
 - 当前版本：0.19.9
 
-- 0.9.1-canary-20250324-082ad975
-- 0.9.1-canary-20250324-10cfb060
-- 0.9.1-canary-20250324-5b3e0cfe
-- 0.9.1-canary-20250324-66b4b945
-- 0.9.1-canary-20250324-7bd541f3
-- 0.9.1-canary-20250324-ec2a80f6
-- 0.9.1-canary-20250324-f45f7d43
-- 0.9.1-canary-20250324-fd7220a8
-- 0.9.1-canary-20250325-4d43644f
-- 0.9.1-canary-20250325-78b91864
-- 0.9.1-canary-20250325-c1f6435b
-- 0.9.1-canary-20250325-ce0cdfe0
-- 共 1153 个版本，完整清单见 npm registry。
+- 0.19.8-canary-20260218-262571e1
+- 0.19.8-canary-20260218-b571b187
+- 0.19.8-canary-20260218-d647cde2
+- 0.19.8-canary-20260221-17cdc9cb
+- 0.19.8-canary-20260221-484c563b
+- 0.19.8-canary-20260221-cafe5feb
+- 0.19.9
+- 0.19.9-canary-20260317-2efecc25
+- 0.19.9-canary-20260317-6d8e1256
+- 0.19.9-canary-20260323-1eba20fd
+- 0.19.9-canary-20260323-41578238
+- 0.19.9-canary-20260324-503ac8f4
+- 共 1,153 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

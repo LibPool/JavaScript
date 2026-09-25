@@ -28,7 +28,6 @@ TypeScript definitions for serve-static
 - 1.7.31
 - 1.7.32
 - 2.2.0
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

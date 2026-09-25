@@ -28,7 +28,6 @@ TypeScript / JavaScript SDK for Supadata API
 - 1.3.1
 - 1.3.2
 - 1.4.0
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ a dev server middleware for rsbuild to serve Lynx Web Platform shell project
 - 0.25.0
 - 0.26.0
 - 0.26.1
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

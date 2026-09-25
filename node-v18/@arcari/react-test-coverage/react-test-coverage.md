@@ -1,0 +1,24 @@
+# @arcari/react-test-coverage
+
+> 标签: analysis, cli, coverage, jest, react
+
+## 简介
+
+CLI tool to analyze React component and hook test coverage
+
+## 官网
+
+- 官网：https://github.com/tomaslachmann/react-test-coverage#readme
+- 源码仓库：git+https://github.com/tomaslachmann/react-test-coverage.git
+- npm 页面：https://www.npmjs.com/package/@arcari/react-test-coverage
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @arcari/react-test-coverage`
+- npm registry：https://registry.npmjs.org/@arcari/react-test-coverage

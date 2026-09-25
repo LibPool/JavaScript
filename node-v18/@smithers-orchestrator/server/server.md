@@ -27,7 +27,6 @@ HTTP, WebSocket, gateway, cron, webhook, and metrics servers for Smithers
 - 0.30.0
 - 0.31.0
 - 0.32.0
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

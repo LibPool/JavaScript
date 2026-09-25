@@ -28,7 +28,6 @@ MSAGL in JavaScript
 - 1.1.22
 - 1.1.23
 - 1.1.24
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

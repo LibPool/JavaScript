@@ -28,7 +28,6 @@ An HTTP client for Elvel — fluent requests, retries, and recording for tests
 - 1.0.0-alpha.6
 - 1.0.0-alpha.7
 - 1.0.0-alpha.9
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

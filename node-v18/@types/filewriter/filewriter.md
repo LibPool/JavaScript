@@ -28,7 +28,6 @@ TypeScript definitions for filewriter
 - 0.0.31
 - 0.0.32
 - 0.0.33
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Type definitions for the ChatKit Web Shared.
 - 0.4.3
 - 0.4.4
 - 0.4.5
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

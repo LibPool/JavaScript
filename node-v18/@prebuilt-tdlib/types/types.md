@@ -28,7 +28,6 @@ Generated TypeScript types for TDLib
 - 0.1008065.0
 - 0.1008066.0
 - 0.1008067.0
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

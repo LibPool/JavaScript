@@ -28,7 +28,6 @@ presentHtml — self-contained HTML page tool for MulmoClaude and MulmoTerminal.
 - 4.0.2
 - 5.0.0
 - 5.0.1
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

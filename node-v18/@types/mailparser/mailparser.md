@@ -28,7 +28,6 @@ TypeScript definitions for mailparser
 - 3.4.4
 - 3.4.5
 - 3.4.6
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

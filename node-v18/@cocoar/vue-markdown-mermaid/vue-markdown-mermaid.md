@@ -28,7 +28,6 @@ Thin adapter that registers @cocoar/vue-mermaid as a `mermaid` fenced-code-block
 - 3.2.0-beta.7
 - 3.2.0-beta.8
 - 3.2.0-beta.9
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

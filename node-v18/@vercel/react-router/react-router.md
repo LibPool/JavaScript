@@ -28,7 +28,6 @@ Vercel platform abstractions for React Router
 - 1.3.4
 - 1.3.5
 - 1.3.6
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ JavaScript and TypeScript library to interact with the Internet Computer
 - 5.4.0
 - 6.0.0
 - 6.1.0
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

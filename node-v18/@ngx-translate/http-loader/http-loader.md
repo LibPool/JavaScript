@@ -27,7 +27,6 @@ http loader for dynamically loading translation files for @ngx-translate/core
 - 6.0.0
 - 7.0.0
 - 8.0.0
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

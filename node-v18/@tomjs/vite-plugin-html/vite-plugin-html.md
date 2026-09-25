@@ -28,7 +28,6 @@ A Vite plugin for handling HTML files, providing compression, template, and CDN 
 - 1.5.0
 - 1.5.1
 - 1.5.2
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

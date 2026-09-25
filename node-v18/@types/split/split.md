@@ -28,7 +28,6 @@ TypeScript definitions for split
 - 1.0.3
 - 1.0.4
 - 1.0.5
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

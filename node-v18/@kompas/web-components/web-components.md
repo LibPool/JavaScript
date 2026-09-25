@@ -27,7 +27,6 @@ Kompas.id reusable web components
 - 0.3.5-alpha-23
 - 0.3.5-alpha-24
 - 0.3.5-alpha-3
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

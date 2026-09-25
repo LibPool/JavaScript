@@ -28,7 +28,6 @@ High-performance JavaScript and TypeScript linter powered by Yuku
 - 0.4.4
 - 0.4.5
 - 0.4.6
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

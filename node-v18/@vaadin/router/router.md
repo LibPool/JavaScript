@@ -28,7 +28,6 @@ Small and powerful client-side router for Web Components. Framework-agnostic.
 - 2.0.0-rc3
 - 2.0.0-rc4
 - 2.0.1
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

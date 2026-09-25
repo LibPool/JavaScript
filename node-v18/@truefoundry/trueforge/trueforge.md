@@ -28,7 +28,6 @@ TrueForge Agent Harness: server, HTTP API, and chat UI (npx @truefoundry/truefor
 - 0.2.0-rc.9
 - 0.2.1
 - 0.3.0-rc.0
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

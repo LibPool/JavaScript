@@ -27,7 +27,6 @@ A lightweight library for parsing Tailwind CSS classes and converting HTML with 
 - 1.0.2
 - 1.0.3
 - 1.0.4
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

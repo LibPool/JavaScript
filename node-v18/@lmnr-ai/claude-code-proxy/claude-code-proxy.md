@@ -27,7 +27,6 @@ HTTP proxy for Claude Desktop API requests with Laminar observability
 - 0.1.7
 - 0.1.8
 - 0.1.9
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

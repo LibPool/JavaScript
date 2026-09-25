@@ -28,7 +28,6 @@ A library to use Web Storage API with Observables
 - 5.1.0
 - 5.2.0
 - 5.3.0
-- 共 47 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

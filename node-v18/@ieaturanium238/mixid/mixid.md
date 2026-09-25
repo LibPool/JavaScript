@@ -1,0 +1,28 @@
+# @ieaturanium238/mixid
+
+> 标签: id, id generator, random id
+
+## 简介
+
+A simple random ID generator based on inputed data
+
+## 官网
+
+- 官网：https://github.com/IEatUranium238/mixid#readme
+- 源码仓库：git+https://github.com/IEatUranium238/mixid.git
+- npm 页面：https://www.npmjs.com/package/@ieaturanium238/mixid
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @ieaturanium238/mixid`
+- npm registry：https://registry.npmjs.org/@ieaturanium238/mixid

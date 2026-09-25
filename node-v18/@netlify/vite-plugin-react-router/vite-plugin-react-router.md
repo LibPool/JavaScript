@@ -28,7 +28,6 @@ React Router 7+ Vite plugin for Netlify
 - 3.1.0-next.2
 - 3.1.1
 - 4.0.0
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

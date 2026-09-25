@@ -27,7 +27,6 @@ Http Client Lib with segregated interfaces developed with clean architecture con
 - 4.2.4
 - 4.2.5
 - 4.3.0
-- 共 43 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

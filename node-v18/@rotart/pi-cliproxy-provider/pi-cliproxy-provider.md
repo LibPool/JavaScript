@@ -1,0 +1,25 @@
+# @rotart/pi-cliproxy-provider
+
+> 标签: cliproxy, llm-proxy, pi, pi-extension, pi-package, provider
+
+## 简介
+
+通过 CLIProxyAPI 代理访问 Claude、Gemini、GPT、Grok、Kimi 等多家模型
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@rotart/pi-cliproxy-provider
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.1
+- 1.0.2
+- 1.0.4
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @rotart/pi-cliproxy-provider`
+- npm registry：https://registry.npmjs.org/@rotart/pi-cliproxy-provider

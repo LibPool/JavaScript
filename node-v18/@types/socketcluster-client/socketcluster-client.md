@@ -28,7 +28,6 @@ TypeScript definitions for socketcluster-client
 - 19.1.0
 - 19.1.1
 - 20.0.0
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

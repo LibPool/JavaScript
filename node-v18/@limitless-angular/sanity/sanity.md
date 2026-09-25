@@ -28,7 +28,6 @@ A powerful Angular library for Sanity.io integration, featuring Portable Text re
 - 22.0.0-next.0
 - 22.0.0-next.1
 - 22.0.0-next.2
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

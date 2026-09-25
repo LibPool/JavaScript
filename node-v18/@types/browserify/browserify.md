@@ -28,7 +28,6 @@ TypeScript definitions for browserify
 - 12.0.38
 - 12.0.39
 - 12.0.40
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

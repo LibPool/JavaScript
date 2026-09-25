@@ -28,7 +28,6 @@ Aspect Oriented Programming based on decorators, for browser & node
 - 0.5.1
 - 0.5.3
 - 0.5.4
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -1,0 +1,25 @@
+# @todesktop/get-windows
+
+> 标签: active, app, application, bounds, brave, browser, bundleid, capture, chrome, current, edge, focused, id, linux, macos, memory, metadata, name, open, pid, safari, screenshot, title, url, usage, window, windows
+
+## 简介
+
+Get metadata about the active window and open windows (title, id, bounds, owner, URL, etc)
+
+## 官网
+
+- 官网：https://github.com/ToDesktop/get-windows#readme
+- 源码仓库：git+https://github.com/ToDesktop/get-windows.git
+- npm 页面：https://www.npmjs.com/package/@todesktop/get-windows
+
+## 历史版本号
+
+- 当前版本：9.3.0-todesktop.1
+
+- 9.3.0-todesktop.1
+
+## 获取地址
+
+- npm 安装：`npm install @todesktop/get-windows`
+- npm registry：https://registry.npmjs.org/@todesktop/get-windows
+- Node 要求：>=18.18

@@ -28,7 +28,6 @@ TypeScript definitions for angular-notify
 - 2.5.35
 - 2.5.36
 - 2.5.37
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

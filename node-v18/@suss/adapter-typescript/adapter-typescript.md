@@ -16,9 +16,9 @@ Read a TypeScript or JavaScript codebase with suss and check what each handler r
 
 - 当前版本：0.33.0
 
-- 0.5.4
-- 0.5.5
-- 0.5.6
+- 0.33.0
+- 0.5.10
+- 0.5.11
 - 0.5.7
 - 0.5.8
 - 0.5.9

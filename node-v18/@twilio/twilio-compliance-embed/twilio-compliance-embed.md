@@ -28,7 +28,6 @@ React library for Twilio Compliance Embed
 - 2.1.3-next.1
 - 2.1.3-next.2
 - 3.0.0-next.1
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -1,0 +1,26 @@
+# @pown/whoami
+
+> 标签: exploit, framework
+
+## 简介
+
+Pownage guaranteed
+
+## 官网
+
+- 官网：https://github.com/pownjs/pown-whoami#readme
+- 源码仓库：git+https://github.com/pownjs/pown-whoami.git
+- npm 页面：https://www.npmjs.com/package/@pown/whoami
+
+## 历史版本号
+
+- 当前版本：2.0.2
+
+- 2.0.0
+- 2.0.1
+- 2.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @pown/whoami`
+- npm registry：https://registry.npmjs.org/@pown/whoami

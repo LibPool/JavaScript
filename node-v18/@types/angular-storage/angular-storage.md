@@ -28,7 +28,6 @@ TypeScript definitions for angular-storage
 - 0.0.34
 - 0.0.35
 - 0.0.36
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

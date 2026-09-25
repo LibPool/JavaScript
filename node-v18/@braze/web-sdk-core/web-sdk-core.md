@@ -28,7 +28,6 @@ Core Braze SDK (no UI) for web sites and other JS platforms.
 - 3.4.1
 - 3.5.0
 - 3.5.1
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

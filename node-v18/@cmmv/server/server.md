@@ -28,7 +28,6 @@ HTTP, HTTPs and HTTP/2 server based on Express, Koa and Fastify for CMMV
 - 0.9.3
 - 0.9.4
 - 0.9.5
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

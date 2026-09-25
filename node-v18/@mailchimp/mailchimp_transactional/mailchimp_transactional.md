@@ -28,7 +28,6 @@ The official Node client library for the Mailchimp Transactional API
 - 1.3.3
 - 1.4.0
 - 1.4.1
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

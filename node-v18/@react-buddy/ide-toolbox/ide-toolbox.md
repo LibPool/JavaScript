@@ -28,7 +28,6 @@ React IDE toolbox
 - 2.4.0-dev.0
 - 2.4.0-dev.1
 - 2.5.0
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

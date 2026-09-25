@@ -15,13 +15,13 @@ React wrappers for the Neo4j Visualization Library
 
 - 当前版本：2.0.0
 
+- 1.2.0-d04ab70e
+- 1.2.0-d5d70e90
+- 1.2.0-d671dd1f
+- 1.2.0-dbc13ec2
 - 1.2.0-df7eaf88
-- 1.2.0-e691fdb4
 - 1.2.0-ec100981
-- 1.2.0-ec8b9947
 - 1.2.0-eea71f07
-- 1.2.0-f11ef167
-- 1.2.0-f3d89be4
 - 1.2.0-ffc3663b
 - 1.2.1
 - 1.2.2

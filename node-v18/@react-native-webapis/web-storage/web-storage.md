@@ -28,7 +28,6 @@ EXPERIMENTAL - USE WITH CAUTION - Web Storage API for React Native
 - 0.4.4
 - 0.4.5
 - 0.4.6
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

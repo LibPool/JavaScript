@@ -16,17 +16,17 @@ Adobe Experience Platform Web SDK
 
 - 当前版本：2.35.1
 
-- 2.8.0-beta.0
-- 2.8.0-beta.1
-- 2.9.0
-- 2.9.0-alpha.0
-- 2.9.0-alpha.1
-- 2.9.0-alpha.2
-- 2.9.0-alpha.3
-- 2.9.0-alpha.4
-- 2.9.0-alpha.5
-- 2.9.0-alpha.6
-- 2.9.0-beta.0
+- 2.34.1-beta.0
+- 2.34.1-beta.1
+- 2.34.2-beta.0
+- 2.34.2-beta.1
+- 2.34.2-beta.2
+- 2.34.2-beta.3
+- 2.35.0
+- 2.35.0-beta.4
+- 2.35.1
+- 2.35.1-beta.0
+- 2.35.1-beta.1
 - 3.0.0-beta.3
 - 共 279 个版本，完整清单见 npm registry。
 

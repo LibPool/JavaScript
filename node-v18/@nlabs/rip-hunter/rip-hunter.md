@@ -28,7 +28,6 @@ TypeScript HTTP client for REST and GraphQL with auth, caching, timeouts, dedupl
 - 3.1.0
 - 3.1.1
 - 3.1.2
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

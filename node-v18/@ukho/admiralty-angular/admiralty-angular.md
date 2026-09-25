@@ -16,19 +16,19 @@ This is the ADMIRALTY Design System Angular package that provides a library of U
 
 - 当前版本：5.8.0
 
+- 5.9.0--canary.516.c8982d2.1
+- 5.9.0--canary.516.c8982d2.2
+- 5.9.0--canary.522.02f52c8.0
+- 5.9.0--canary.523.093210d.0
 - 5.9.0--canary.7025729.0
 - 5.9.0--canary.ef750c5.0
 - 5.9.0-next.0
 - 5.9.0-next.1
-- 6.0.0--canary.2fb7361.0
-- 6.0.0--canary.411.9b368c0.0
-- 6.0.0--canary.486.0f3f934.0
-- 6.0.0--canary.487.b32ac35.0
 - 6.0.0--canary.512.131a651.0
 - 6.0.0--canary.514.6f9ff78.0
 - 6.0.0--canary.518.ea2846d.0
 - 6.0.0--canary.521.888a38e.0
-- 共 1107 个版本，完整清单见 npm registry。
+- 共 1,107 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

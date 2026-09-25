@@ -28,7 +28,6 @@ Icomoon font for react native vector icons
 - 13.2.2
 - 13.2.3
 - 13.2.4
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

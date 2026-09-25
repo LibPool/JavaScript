@@ -27,7 +27,6 @@ Style rules for css/sass.
 - 7.1.0
 - 7.2.0
 - 7.3.0
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

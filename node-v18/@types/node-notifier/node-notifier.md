@@ -28,7 +28,6 @@ TypeScript definitions for node-notifier
 - 8.0.3
 - 8.0.4
 - 8.0.5
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

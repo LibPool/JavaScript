@@ -1,0 +1,25 @@
+# @easyx.ai/dumi-theme-easyxai
+
+> 标签: npm, template
+
+## 简介
+
+@easyx.ai/dumi-theme-easyxai 是为 dumi2 打造的一款文档站主题包，提供了更加美观、易用的研发与阅读体验
+
+## 官网
+
+- 官网：https://cnb.cool/easyxai/dumi-theme
+- 源码仓库：https://cnb.cool/easyxai/dumi-theme.git
+- npm 页面：https://www.npmjs.com/package/@easyx.ai/dumi-theme-easyxai
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @easyx.ai/dumi-theme-easyxai`
+- npm registry：https://registry.npmjs.org/@easyx.ai/dumi-theme-easyxai

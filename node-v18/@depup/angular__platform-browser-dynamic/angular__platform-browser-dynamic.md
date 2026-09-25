@@ -28,7 +28,6 @@ Angular - library for using Angular in a web browser with JIT compilation (with 
 - 22.1.5-depup.0
 - 22.1.6-depup.0
 - 22.1.7-depup.0
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

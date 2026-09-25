@@ -28,7 +28,6 @@ trace format: asciicast v3 + events + semantics, readers/writers, HTML report
 - 0.7.4
 - 0.7.5
 - 0.7.6
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

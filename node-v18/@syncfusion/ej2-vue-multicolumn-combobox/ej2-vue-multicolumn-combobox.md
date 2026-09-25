@@ -28,7 +28,6 @@ Essential JS 2 Component for Vue
 - 34.2.2
 - 34.2.6
 - 34.2.8
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

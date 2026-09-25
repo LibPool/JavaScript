@@ -28,7 +28,6 @@ A set of angular components compatible with and/or dependent on @angular/materia
 - 21.1.0
 - 21.1.1
 - 21.1.2
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

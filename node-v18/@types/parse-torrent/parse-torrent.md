@@ -28,7 +28,6 @@ TypeScript definitions for parse-torrent
 - 5.8.7
 - 5.8.8
 - 5.8.9
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

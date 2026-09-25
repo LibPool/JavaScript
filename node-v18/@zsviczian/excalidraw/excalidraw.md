@@ -16,18 +16,18 @@ Excalidraw as a React component
 
 - 当前版本：0.18.138
 
-- 0.9.0-obsidian-image-support-3
-- 0.9.0-obsidian-image-support-4
-- 0.9.0-obsidian-image-support-5
-- 0.9.0-obsidian-image-support-6
-- 0.9.0-obsidian-image-support-7
-- 0.9.0-obsidian-image-support-8
-- 0.9.0-obsidian-image-support-9
-- 0.9.0-onTextEditEvents
-- 0.9.0-onTextEditEvents-1
-- 0.9.0-onTextEditEvents-2
-- 0.9.0-onTextEditEvents-3
-- 0.9.0-onTextEditEvents-4
+- 0.18.129
+- 0.18.130
+- 0.18.131
+- 0.18.132
+- 0.18.133
+- 0.18.134
+- 0.18.135
+- 0.18.136
+- 0.18.137
+- 0.18.138
+- 0.18.97-test.0
+- 0.18.97-test.1
 - 共 430 个版本，完整清单见 npm registry。
 
 ## 获取地址

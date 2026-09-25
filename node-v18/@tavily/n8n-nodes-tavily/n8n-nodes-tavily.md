@@ -28,7 +28,6 @@ A community node for n8n to integrate Tavily API for web search and content extr
 - 0.4.0
 - 0.5.0
 - 0.5.1
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

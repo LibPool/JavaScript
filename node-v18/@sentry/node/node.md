@@ -16,18 +16,18 @@ Sentry Node SDK using OpenTelemetry for performance instrumentation
 
 - 当前版本：10.75.2
 
-- 9.46.0
-- 9.47.0
-- 9.47.1
-- 9.5.0
-- 9.5.0-alpha.0
-- 9.6.0
-- 9.6.0-alpha.0
-- 9.6.1
-- 9.7.0
-- 9.7.0-alpha.0
-- 9.8.0
-- 9.9.0
+- 10.75.1
+- 10.75.2
+- 11.0.0-alpha.0
+- 11.0.0-alpha.1
+- 11.0.0-alpha.2
+- 11.0.0-beta.0
+- 11.0.0-beta.1
+- 11.0.0-beta.2
+- 11.0.0-rc.0
+- 11.0.0-rc.1
+- 8.55.1
+- 8.55.2
 - 共 735 个版本，完整清单见 npm registry。
 
 ## 获取地址

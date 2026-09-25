@@ -28,7 +28,6 @@ Shared Master CSS integration contracts, virtual module protocols, and build hel
 - 2.0.0-rc.86
 - 2.0.0-rc.87
 - 2.0.0-rc.88
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

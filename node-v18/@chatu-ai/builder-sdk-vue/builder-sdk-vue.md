@@ -28,7 +28,6 @@ Vue 3 bindings for @chatu-ai/builder-sdk: useBuilderChat / useSandboxStatus / us
 - 0.9.5
 - 0.9.6
 - 0.9.7
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

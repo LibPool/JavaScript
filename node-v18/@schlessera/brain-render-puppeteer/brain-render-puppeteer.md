@@ -28,7 +28,6 @@ Optional server-side HTML→PNG/PDF renderer for brain-kit UIs (Puppeteer, netwo
 - 0.7.2
 - 0.8.0
 - 0.9.0
-- 共 47 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

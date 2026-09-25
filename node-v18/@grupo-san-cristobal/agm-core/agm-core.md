@@ -28,7 +28,6 @@ Angular components for Google Maps
 - 18.0.2
 - 19.0.2
 - 20.0.2
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

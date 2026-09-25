@@ -28,7 +28,6 @@ tsgo bridge binary for linux arm64 (typescript-native-bridge)
 - 6.0.3-bridge.7.tsgo.7.0.2
 - 6.0.3-bridge.8.tsgo.7.0.2
 - 6.0.3-bridge.9.tsgo.7.0.2
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

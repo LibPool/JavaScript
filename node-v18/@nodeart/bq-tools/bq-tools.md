@@ -1,0 +1,33 @@
+# @nodeart/bq-tools
+
+> 标签: JavaScript
+
+## 简介
+
+This package consists of 2 parts: 1. Light-weight CLI with minimum dependencies to sync BQ table schemas as one of the steps during deployment. 2. Small BQ client that could be used in a limited [Cloudflare Workers](https://developers.cloudflare.com/worke
+
+## 官网
+
+- 官网：https://github.com/NodeArt/bq-tools#readme
+- 源码仓库：git+https://github.com/NodeArt/bq-tools.git
+- npm 页面：https://www.npmjs.com/package/@nodeart/bq-tools
+
+## 历史版本号
+
+- 当前版本：1.2.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.1.0
+- 1.1.1
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.2.3
+
+## 获取地址
+
+- npm 安装：`npm install @nodeart/bq-tools`
+- npm registry：https://registry.npmjs.org/@nodeart/bq-tools

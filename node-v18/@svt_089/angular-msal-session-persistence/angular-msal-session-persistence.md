@@ -1,0 +1,29 @@
+# @svt_089/angular-msal-session-persistence
+
+> 标签: angular, angular-19, authentication, auto-save, azure-ad, enterprise, form-persistence, idle-detection, msal, re-authentication, security, session-persistence, sleep-wake-detection, typescript
+
+## 简介
+
+Enterprise-grade session persistence and idle detection library for Angular applications with Azure AD MSAL authentication. Automatically saves form data, detects computer sleep/wake cycles, and enforces re-authentication after idle timeout.
+
+## 官网
+
+- 官网：https://github.com/yourusername/idlesession#readme
+- 源码仓库：git+https://github.com/yourusername/idlesession.git
+- npm 页面：https://www.npmjs.com/package/@svt_089/angular-msal-session-persistence
+
+## 历史版本号
+
+- 当前版本：2.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 2.0.1
+- 2.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @svt_089/angular-msal-session-persistence`
+- npm registry：https://registry.npmjs.org/@svt_089/angular-msal-session-persistence
+- Node 要求：>=18.0.0

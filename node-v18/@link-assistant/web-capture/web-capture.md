@@ -28,7 +28,6 @@ CLI and microservice to render web pages as HTML, Markdown, or PNG
 - 1.8.0
 - 1.8.1
 - 1.9.0
-- 共 48 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

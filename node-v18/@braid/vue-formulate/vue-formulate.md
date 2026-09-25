@@ -28,7 +28,6 @@ The easiest way to build forms in Vue.
 - 2.5.1
 - 2.5.2
 - 2.5.3
-- 共 43 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

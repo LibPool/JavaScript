@@ -16,6 +16,7 @@ Vue komponentbibliotek til Punkt, designsystem for Oslo kommune
 
 - 当前版本：19.0.5
 
+- 18.9.1
 - 18.9.2
 - 18.9.3
 - 18.9.4
@@ -27,7 +28,6 @@ Vue komponentbibliotek til Punkt, designsystem for Oslo kommune
 - 19.0.3
 - 19.0.4
 - 19.0.5
-- 9.6.0
 - 共 438 个版本，完整清单见 npm registry。
 
 ## 获取地址

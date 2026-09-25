@@ -28,7 +28,6 @@ Linter for the JavaScript Oxidation Compiler
 - 1.83.0
 - 1.84.0
 - 1.85.0
-- 共 43 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

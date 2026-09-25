@@ -1,0 +1,24 @@
+# @seval-ui/react-code
+
+> 标签: code-component, react, seval, seval-ui
+
+## 简介
+
+SevalRuntime for @seval-ui/react with seval support
+
+## 官网
+
+- 官网：https://github.com/cpunion/seval-ui#readme
+- 源码仓库：git+https://github.com/cpunion/seval-ui.git
+- npm 页面：https://www.npmjs.com/package/@seval-ui/react-code
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @seval-ui/react-code`
+- npm registry：https://registry.npmjs.org/@seval-ui/react-code

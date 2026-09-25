@@ -16,19 +16,19 @@ Core library for creating Angular components and applications using Taiga UI
 
 - 当前版本：5.25.0
 
-- 5.7.0-canary.da2a2ed
-- 5.8.0
-- 5.8.0-canary.3573ec7
-- 5.8.0-canary.4405e2d
-- 5.8.0-canary.868918b
-- 5.8.0-canary.8b96e84
-- 5.8.0-canary.fac3204
-- 5.9.0
-- 5.9.0-canary.1555bb8
-- 5.9.0-canary.b71a5c1
-- 5.9.0-canary.b7d253e
-- 5.9.0-canary.c0c4a5d
-- 共 1261 个版本，完整清单见 npm registry。
+- 5.23.0-canary.a178c55
+- 5.23.0-canary.c1045d7
+- 5.23.0-canary.d91835b
+- 5.23.0-canary.dd294f6
+- 5.24.0
+- 5.24.0-canary.3f61c9e
+- 5.24.0-canary.51d7c08
+- 5.24.0-canary.82f9053
+- 5.24.0-canary.87be0a8
+- 5.25.0
+- 5.25.0-canary.405e17f
+- 5.25.0-canary.5ab31f9
+- 共 1,261 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

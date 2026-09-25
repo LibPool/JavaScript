@@ -28,7 +28,6 @@ Adds full video and audio decoder and encoder support to Mediabunny for use in s
 - 1.58.0
 - 1.58.1
 - 1.59.0
-- 共 44 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

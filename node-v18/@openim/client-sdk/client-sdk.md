@@ -27,7 +27,6 @@ JavaScript/TypeScript Client SDK for OpenIM
 - 0.0.9
 - 3.8.3
 - 3.8.3-hotfix.0
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

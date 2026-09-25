@@ -28,7 +28,6 @@ Logspot Web SDK
 - 5.1.1
 - 5.2.0
 - 5.3.0
-- 共 43 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

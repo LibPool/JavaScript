@@ -28,7 +28,6 @@ Common html template for email
 - 0.7.3
 - 0.8.0
 - 0.8.1
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

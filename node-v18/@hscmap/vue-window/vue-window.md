@@ -28,7 +28,6 @@ Vue component for window
 - 2.4.2
 - 2.4.3
 - 2.4.4
-- 共 49 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

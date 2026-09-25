@@ -15,8 +15,8 @@ CDN distribution of aPaaS Web SDK for no-build HTML — self-contained IIFE entr
 
 - 当前版本：0.0.15
 
-- 0.0.7-alpha.4
-- 0.0.7-beta.0
+- 0.0.15-beta.1
+- 0.0.7
 - 0.0.8
 - 0.0.8-alpha.20260729072615
 - 0.0.8-beta.0

@@ -28,7 +28,6 @@ The official TypeScript library for the Metronome API
 - 3.7.0
 - 3.8.0
 - 3.9.0
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

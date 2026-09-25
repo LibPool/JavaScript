@@ -28,7 +28,6 @@ TypeScript definitions for watchpack
 - 2.4.3
 - 2.4.4
 - 2.4.5
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

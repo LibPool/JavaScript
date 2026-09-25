@@ -28,7 +28,6 @@ Cool social login buttons for angular
 - 18.0.4
 - 18.0.5
 - 2.0.0
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -1,0 +1,24 @@
+# @saltcorn/mermaid
+
+> 标签: JavaScript
+
+## 简介
+
+Render diagrams with Mermaid
+
+## 官网
+
+- 官网：https://github.com/saltcorn/mermaid#readme
+- 源码仓库：git+https://github.com/saltcorn/mermaid.git
+- npm 页面：https://www.npmjs.com/package/@saltcorn/mermaid
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @saltcorn/mermaid`
+- npm registry：https://registry.npmjs.org/@saltcorn/mermaid

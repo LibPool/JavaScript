@@ -16,18 +16,18 @@ Microsoft Application Insights React plugin
 
 - 当前版本：19.4.2
 
-- 3.4.1-nightly.2302-02
-- 3.4.2
-- 3.4.2-nightly.2302-03
-- 3.4.2-nightly.2302-04
-- 3.4.2-nightly.2302-05
-- 3.4.2-nightly.2302-06
-- 3.4.3
-- 3.4.3-nightly.2304-02
-- 4.0.0-nightly.2306-01
-- 4.0.0-nightly.2306-03
-- 4.0.0-nightly.2306-04
-- 4.0.0-nightly.2307-08
+- 19.4.2-nightly.2606-04
+- 19.4.2-nightly.2606-05
+- 19.4.2-nightly.2607-01
+- 19.4.2-nightly.2607-02
+- 19.4.2-nightly.2608-01
+- 19.4.2-nightly.2608-02
+- 19.4.2-nightly.2608-03
+- 19.4.2-nightly.2608-04
+- 19.4.2-nightly.2608-05
+- 19.4.2-nightly.2608-06
+- 19.4.2-nightly.2609-01
+- 19.4.3-nightly.2609-06
 - 共 529 个版本，完整清单见 npm registry。
 
 ## 获取地址

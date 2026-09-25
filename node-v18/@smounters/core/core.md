@@ -28,7 +28,6 @@ NestJS-like modular DI container with unified HTTP + Connect RPC server for Type
 - 2.7.0
 - 2.8.0
 - 2.9.0
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -16,6 +16,7 @@ Low-level, web-first, animation toolkit, with support for triggered, scroll-driv
 
 - 当前版本：2.1.15
 
+- 2.1.12
 - 2.1.13
 - 2.1.14
 - 2.1.15
@@ -27,7 +28,6 @@ Low-level, web-first, animation toolkit, with support for triggered, scroll-driv
 - 2.1.7
 - 2.1.8
 - 2.1.9
-- 3.0.0
 - 共 239 个版本，完整清单见 npm registry。
 
 ## 获取地址

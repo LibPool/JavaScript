@@ -28,7 +28,6 @@ TypeScript definitions for nopt
 - 3.0.30
 - 3.0.31
 - 3.0.32
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

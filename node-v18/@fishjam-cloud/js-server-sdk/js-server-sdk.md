@@ -28,7 +28,6 @@ Fishjam server SDK for JavaScript
 - 0.30.2
 - 0.4.0
 - 0.5.0
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

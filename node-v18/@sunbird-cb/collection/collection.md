@@ -15,6 +15,10 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 
 - 当前版本：0.0.11-ang-17-20
 
+- 1.0.47-ang-13-16
+- 1.0.47-ang-9-12
+- 1.0.48-ang-13-16
+- 1.0.49-ang-13-16
 - 1.0.51-ang-13-16
 - 1.0.52-ang-13-16
 - 1.0.53-ang-13-16
@@ -23,10 +27,6 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 - 1.0.56-ang-13-16
 - 1.0.56-cbrelease-4.8.28
 - 1.0.56-utils-upgrade
-- 1.0.6
-- 1.0.7
-- 1.0.8
-- 1.0.9
 - 共 105 个版本，完整清单见 npm registry。
 
 ## 获取地址

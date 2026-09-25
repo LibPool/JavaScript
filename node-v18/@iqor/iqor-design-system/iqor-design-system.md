@@ -1,0 +1,28 @@
+# @iqor/iqor-design-system
+
+> 标签: JavaScript
+
+## 简介
+
+iQor Design System Package
+
+## 官网
+
+- 官网：https://github.com/iQorGit/iQorDesignSystem#readme
+- 源码仓库：git+https://github.com/iQorGit/iQorDesignSystem.git
+- npm 页面：https://www.npmjs.com/package/@iqor/iqor-design-system
+
+## 历史版本号
+
+- 当前版本：0.1.4
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+
+## 获取地址
+
+- npm 安装：`npm install @iqor/iqor-design-system`
+- npm registry：https://registry.npmjs.org/@iqor/iqor-design-system

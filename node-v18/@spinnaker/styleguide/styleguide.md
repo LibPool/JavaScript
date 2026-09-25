@@ -28,7 +28,6 @@ Base styles used within Spinnaker as CSS
 - 1.0.8
 - 1.0.9
 - 2.0.0
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

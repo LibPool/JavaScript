@@ -28,7 +28,6 @@ Provides React components and integration layer with Adobe Experience Manager Pa
 - 2.0.5
 - 2.1.0
 - 2.1.1
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

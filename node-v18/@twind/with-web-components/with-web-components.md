@@ -28,7 +28,6 @@ Seamless integration of Twind with Web Components
 - 1.1.3
 - 1.1.3-next-20230124084504
 - 1.2.0-next-20221226213230
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

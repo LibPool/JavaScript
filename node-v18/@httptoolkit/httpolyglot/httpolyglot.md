@@ -28,7 +28,6 @@ Serve http and https connections over the same port with node.js
 - 3.0.0
 - 3.0.1
 - 3.1.0
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

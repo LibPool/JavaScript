@@ -28,7 +28,6 @@ TypeScript definitions for sockjs
 - 0.3.34
 - 0.3.35
 - 0.3.36
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

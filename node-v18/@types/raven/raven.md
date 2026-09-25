@@ -28,7 +28,6 @@ TypeScript definitions for raven
 - 2.5.5
 - 2.5.6
 - 2.5.7
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -27,7 +27,6 @@ SVG icon component for vue
 - 5.0.1-alpha.2
 - 5.0.2
 - 5.0.3
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

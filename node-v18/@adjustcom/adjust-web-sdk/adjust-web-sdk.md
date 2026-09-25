@@ -28,7 +28,6 @@ This is the guide to the Javascript SDK of Adjust™ for web sites or web apps. 
 - 5.8.1
 - 5.8.2
 - 5.8.3
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

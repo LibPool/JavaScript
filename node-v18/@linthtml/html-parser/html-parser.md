@@ -28,7 +28,6 @@ LintHTML HTML parser
 - 0.9.5
 - 0.9.5-alpha.0
 - 0.9.5-alpha.1
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

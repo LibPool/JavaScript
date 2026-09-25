@@ -28,7 +28,6 @@ Symfony Translator for JavaScript
 - 3.1.0
 - 3.2.0
 - 3.5.1
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

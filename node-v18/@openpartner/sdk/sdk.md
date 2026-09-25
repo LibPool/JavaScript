@@ -1,0 +1,24 @@
+# @openpartner/sdk
+
+> 标签: affiliate, attribution, openpartner, partner, referral, sdk
+
+## 简介
+
+OpenPartner SDK. Browser client for click → identity stitching + Node server SDK for conversion events and attribution reads.
+
+## 官网
+
+- 官网：https://github.com/getcoherence/openpartner/tree/main/packages/sdk
+- 源码仓库：git+https://github.com/getcoherence/openpartner.git
+- npm 页面：https://www.npmjs.com/package/@openpartner/sdk
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @openpartner/sdk`
+- npm registry：https://registry.npmjs.org/@openpartner/sdk

@@ -28,7 +28,6 @@ JavaScript SDK for Aptabase: Open Source, Privacy-First and Simple Analytics for
 - 0.4.2
 - 0.4.3
 - 0.5.0
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

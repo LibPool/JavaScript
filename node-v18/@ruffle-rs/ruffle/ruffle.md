@@ -28,7 +28,7 @@ Putting Flash back on the web. Ruffle will polyfill all Flash content and replac
 - 0.7.0-nightly.2026.9.7
 - 0.7.0-nightly.2026.9.8
 - 0.7.0-nightly.2026.9.9
-- 共 1441 个版本，完整清单见 npm registry。
+- 共 1,441 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

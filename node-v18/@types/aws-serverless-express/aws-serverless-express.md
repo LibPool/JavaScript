@@ -28,7 +28,6 @@ TypeScript definitions for aws-serverless-express
 - 3.3.7
 - 3.3.8
 - 3.3.9
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

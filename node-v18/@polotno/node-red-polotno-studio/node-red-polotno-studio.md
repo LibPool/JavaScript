@@ -1,0 +1,26 @@
+# @polotno/node-red-polotno-studio
+
+> 标签: image, node-red, polotno, render, template, video
+
+## 简介
+
+Node-RED nodes for Polotno Studio — render images and videos from templates.
+
+## 官网
+
+- 官网：https://github.com/polotno-project/node-red-polotno-studio#readme
+- 源码仓库：git+https://github.com/polotno-project/node-red-polotno-studio.git
+- npm 页面：https://www.npmjs.com/package/@polotno/node-red-polotno-studio
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @polotno/node-red-polotno-studio`
+- npm registry：https://registry.npmjs.org/@polotno/node-red-polotno-studio
+- Node 要求：>=18

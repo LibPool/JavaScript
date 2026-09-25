@@ -27,7 +27,6 @@ TypeScript client for MetaTerminal HTTP API
 - 26.8.8
 - 26.8.8-unstable
 - 26.9.22
-- 共 47 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ This package is part of the [Mochi-CSS project](https://github.com/Niikelion/moc
 - 7.1.4
 - 7.2.3
 - 7.2.4
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

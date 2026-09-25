@@ -28,7 +28,6 @@ Moneytree Link JavaScript SDK
 - 5.0.0
 - 5.1.0
 - 6.0.0
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

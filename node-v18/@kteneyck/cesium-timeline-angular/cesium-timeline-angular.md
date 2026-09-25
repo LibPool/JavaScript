@@ -28,7 +28,6 @@ Angular timeline component for Cesium with clock integration
 - 0.8.0
 - 0.9.0
 - 1.0.0
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -16,7 +16,7 @@ Eslint sharable config used by the various HTML-validate packages
 
 - 当前版本：9.21.1
 
-- 9.7.0
+- 9.21.1
 - 9.7.1
 - 9.7.2
 - 9.8.0

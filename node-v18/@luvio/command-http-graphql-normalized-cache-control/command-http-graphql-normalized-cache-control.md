@@ -28,7 +28,6 @@ Luvio Http GraphQL Normalized Cache Control Command
 - 5.65.0
 - 5.65.1
 - 5.66.0
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

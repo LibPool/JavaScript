@@ -16,17 +16,17 @@ Node specific JavaScript utilities for the Sapphire Community
 
 - 当前版本：1.0.2
 
-- 1.1.0-next.d17bd10.0
-- 1.1.0-next.f555c82.0
-- 1.1.0-pr-434.34ba851.0
-- 1.1.0-pr-434.d192d9e.0
-- 1.1.0-pr-584.b444d5b.0
-- 1.1.0-pr-587.03cfe5a.0
-- 1.1.0-pr-587.0d75167.0
-- 1.1.0-pr-587.205914b.0
-- 1.1.0-pr-587.e9607661.0
-- 1.1.0-pr-589.aa473f9.0
-- 1.1.0-pr-601.2f2c308a.0
+- 1.0.3-next.beda5701
+- 1.0.3-next.c1299bac
+- 1.0.3-next.ceacefc4
+- 1.0.3-next.d57ec0d7
+- 1.0.3-next.db5e97fc
+- 1.0.3-next.df78d6d4
+- 1.0.3-next.e6d4bac4
+- 1.0.3-next.ee9cdb94
+- 1.0.3-next.f3515ea3
+- 1.0.3-next.f5dc58df
+- 1.0.3-next.fff340cc
 - 1.1.0-pr-935.7da5c8bb
 - 共 651 个版本，完整清单见 npm registry。
 

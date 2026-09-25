@@ -16,18 +16,18 @@ Web3API HTTP Javascript Plugin
 
 - 当前版本：0.0.1-prealpha.85
 
+- 0.0.1-prealpha.74
+- 0.0.1-prealpha.75
 - 0.0.1-prealpha.76
 - 0.0.1-prealpha.77
 - 0.0.1-prealpha.78
 - 0.0.1-prealpha.79
-- 0.0.1-prealpha.8
 - 0.0.1-prealpha.80
 - 0.0.1-prealpha.81
 - 0.0.1-prealpha.82
 - 0.0.1-prealpha.83
 - 0.0.1-prealpha.84
 - 0.0.1-prealpha.85
-- 0.0.1-prealpha.9
 - 共 83 个版本，完整清单见 npm registry。
 
 ## 获取地址

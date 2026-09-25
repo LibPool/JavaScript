@@ -16,11 +16,11 @@ Well-formed HTML parsing and customizable transformation to nested JS arrays in 
 
 - 当前版本：0.3.127
 
+- 0.3.84
 - 0.3.85
 - 0.3.86
 - 0.3.87
 - 0.3.88
-- 0.3.9
 - 0.3.90
 - 0.3.91
 - 0.3.92

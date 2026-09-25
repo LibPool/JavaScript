@@ -1,0 +1,24 @@
+# @plyo/pgcodebase
+
+> 标签: function, pg, trigger, view
+
+## 简介
+
+A tool for easy management of postgresql functions, views and triggers
+
+## 官网
+
+- 官网：https://github.com/mystand/pgcodebase#readme
+- 源码仓库：git+ssh://git@github.com/mystand/pgcodebase.git
+- npm 页面：https://www.npmjs.com/package/@plyo/pgcodebase
+
+## 历史版本号
+
+- 当前版本：1.6.0
+
+- 1.6.0
+
+## 获取地址
+
+- npm 安装：`npm install @plyo/pgcodebase`
+- npm registry：https://registry.npmjs.org/@plyo/pgcodebase

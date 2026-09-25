@@ -28,7 +28,6 @@ The web-threeds package is a JavaScript/TypeScript library designed to simplify 
 - 2.1.2
 - 2.2.1
 - 2.2.2
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

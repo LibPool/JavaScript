@@ -27,7 +27,6 @@ Generated http clients for ACE Alliance
 - 1.0.6-next.6
 - 1.0.6-next.7
 - 1.0.6-next.8
-- 共 34 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

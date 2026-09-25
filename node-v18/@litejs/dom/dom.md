@@ -28,7 +28,6 @@ A small DOM library for server-side testing, rendering, and handling of HTML fil
 - 26.4.1
 - 26.4.2
 - 26.4.3
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

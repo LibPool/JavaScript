@@ -28,7 +28,6 @@ Angular Material component that allow users to select a country or nationality
 - 7.1.0
 - 8.0.0
 - 8.1.0
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

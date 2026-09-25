@@ -28,7 +28,6 @@ A JavaScript Ethereum provider that connects to the wallet over a stream
 - 8.1.1
 - 9.0.0
 - 9.1.0
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

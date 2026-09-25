@@ -16,7 +16,9 @@ React Server Components support for TanStack Start
 
 - 当前版本：0.1.56
 
-- 0.1.5
+- 0.1.47
+- 0.1.48
+- 0.1.49
 - 0.1.50
 - 0.1.51
 - 0.1.52
@@ -24,8 +26,6 @@ React Server Components support for TanStack Start
 - 0.1.54
 - 0.1.55
 - 0.1.56
-- 0.1.6
-- 0.1.7
 - 0.1.8
 - 0.1.9
 - 共 103 个版本，完整清单见 npm registry。

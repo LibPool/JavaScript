@@ -28,7 +28,6 @@ Apollo GraphQL for Vue - Server Side Rendering utilities
 - 4.0.0-beta.9
 - 4.2.2
 - 4.2.3
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

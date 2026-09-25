@@ -28,7 +28,6 @@ Web SDK for DFO Chat
 - 3.3.0
 - 3.4.0
 - 3.4.1
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -15,18 +15,18 @@ Voxgig Model Vue Components
 
 - 当前版本：0.18.285-demo-dev
 
-- 0.18.55-pqview-stable
-- 0.18.60-pqview-stable
+- 0.18.345-demo-dev
+- 0.18.370-demo-dev
+- 0.18.375-demo-dev
+- 0.18.380-demo-dev
+- 0.18.390-demo-dev
+- 0.18.395-demo-dev
+- 0.18.400-demo-dev
+- 0.18.405-demo-dev
+- 0.18.51-demo-dev
 - 0.18.615-demo-dev
 - 0.18.620-demo-dev
 - 0.18.625-demo-dev
-- 0.18.65-pqview-stable
-- 0.18.80-pqview-stable
-- 0.18.9-pqview-stable
-- 0.18.96-pqview-stable
-- 0.18.98-pqview-stable
-- 0.19.0-pqview-SAP
-- 0.19.1-pqview-SAP
 - 共 124 个版本，完整清单见 npm registry。
 
 ## 获取地址

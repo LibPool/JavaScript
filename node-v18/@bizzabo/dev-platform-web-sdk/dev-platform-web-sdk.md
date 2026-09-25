@@ -27,7 +27,6 @@ Bizzabo Developer Platform Web SDK
 - 0.1.9
 - 0.1.9-VIDEO-157-remember-devices-pre.0
 - 1.0.0-devPlatformSdkFix-pre.0
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ React Native HMS Push Kit
 - 6.3.0-304
 - 6.5.0-300
 - 6.7.0-300
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

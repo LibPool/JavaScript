@@ -16,17 +16,17 @@ The web engine provides a connector for Iframe & Websocket. `npm install @remixp
 
 - 当前版本：0.3.38
 
-- 0.3.9-alpha.10
-- 0.3.9-alpha.11
-- 0.3.9-alpha.12
-- 0.3.9-alpha.2
-- 0.3.9-alpha.3
-- 0.3.9-alpha.4
-- 0.3.9-alpha.5
-- 0.3.9-alpha.6
-- 0.3.9-alpha.7
-- 0.3.9-alpha.8
-- 0.3.9-alpha.9
+- 0.3.34
+- 0.3.35
+- 0.3.36
+- 0.3.37
+- 0.3.38
+- 0.3.39
+- 0.3.40
+- 0.3.41
+- 0.3.42
+- 0.3.43
+- 0.3.44
 - 0.8.13-alpha.1
 - 共 93 个版本，完整清单见 npm registry。
 

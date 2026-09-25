@@ -28,7 +28,6 @@ Kern module runtime (defineModule, registry, events, call, authz, jobs, settings
 - 0.8.0
 - 0.9.0
 - 0.9.1
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ A typesafe library for writing forge scripts in typescript
 - 2.0.0-next.80
 - 2.0.0-next.84
 - 2.0.0-next.86
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

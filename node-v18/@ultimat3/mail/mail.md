@@ -28,7 +28,6 @@ Transactional email as data: one template renders HTML and text, sent through a 
 - 7.0.0
 - 8.0.0
 - 9.0.0
-- 共 45 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

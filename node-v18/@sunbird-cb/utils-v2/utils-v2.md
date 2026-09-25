@@ -15,10 +15,11 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 
 - 当前版本：0.2.3-cbrelease-4.8.41
 
+- 0.1.0-cbrelease-4.8.39.2
+- 0.1.0-cbrelease-4.8.39.4
+- 0.1.1-cbrelease-4.8.40
 - 0.1.2-cbrelease-4.8.40
-- 0.1.3-cbrelease-4.8.29
 - 0.1.3-cbrelease-4.8.40
-- 0.1.4-cbrelease-4.8.29
 - 0.1.4-cbrelease-4.8.40
 - 0.1.5-cbrelease-4.8.40
 - 0.2.0-cbrelease-4.8.41
@@ -26,7 +27,6 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 - 0.2.2-cbrelease-4.8.41
 - 0.2.3-cbrelease-4.8.41
 - 0.2.4-cbrelease-4.8.41
-- 1.0.16
 - 共 112 个版本，完整清单见 npm registry。
 
 ## 获取地址

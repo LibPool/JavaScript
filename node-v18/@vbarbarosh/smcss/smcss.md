@@ -28,7 +28,6 @@ A way to organize and write CSS
 - 1.5.0
 - 1.5.1
 - 2.0.0
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

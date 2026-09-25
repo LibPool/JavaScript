@@ -15,7 +15,7 @@ MartEye Studio JavaScript SDK
 
 - 当前版本：1.2.4
 
-- 1.1.9
+- 1.1.51-beta.1
 - 1.2.0
 - 1.2.0-beta.0
 - 1.2.0-beta.2

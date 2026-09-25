@@ -28,7 +28,6 @@ Lit-based web components for React, Vue, and vanilla JS
 - 6.4.0
 - 7.0.0
 - 8.0.0
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

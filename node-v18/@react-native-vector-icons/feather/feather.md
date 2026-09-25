@@ -28,7 +28,6 @@ Feather font for react native vector icons
 - 4.29.2-alpha.34
 - 4.29.2-alpha.35
 - 4.29.2-alpha.36
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

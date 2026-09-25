@@ -1,0 +1,34 @@
+# @visual-framework/vf-utility-classes
+
+> 标签: component, fractal
+
+## 简介
+
+A set of utility classes to help quickly prototype, and 'tweak' design.
+
+## 官网
+
+- 官网：https://visual-framework.github.io/vf-core/
+- npm 页面：https://www.npmjs.com/package/@visual-framework/vf-utility-classes
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.0.0-beta.4
+- 1.0.0-beta.5
+- 1.0.0-beta.6
+- 1.0.0-beta.7
+- 1.0.0-beta.8
+- 1.0.0-beta.9
+- 1.0.0-rc.1
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.2.0
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @visual-framework/vf-utility-classes`
+- npm registry：https://registry.npmjs.org/@visual-framework/vf-utility-classes

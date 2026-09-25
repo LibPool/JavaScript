@@ -1,0 +1,30 @@
+# @ui-manifest-json/react
+
+> 标签: components, diff, jsx, react, react-router, routes, static-analysis, ui-manifest
+
+## 简介
+
+Extract a diffable JSON manifest of routes, components and JSX trees from a React app's source.
+
+## 官网
+
+- 官网：https://github.com/BrainRidge/ui-manifest/tree/main/packages/react#readme
+- 源码仓库：git+https://github.com/BrainRidge/ui-manifest.git
+- npm 页面：https://www.npmjs.com/package/@ui-manifest-json/react
+
+## 历史版本号
+
+- 当前版本：0.4.0
+
+- 0.1.0
+- 0.1.1
+- 0.2.0
+- 0.3.0
+- 0.3.1
+- 0.4.0
+
+## 获取地址
+
+- npm 安装：`npm install @ui-manifest-json/react`
+- npm registry：https://registry.npmjs.org/@ui-manifest-json/react
+- Node 要求：>=20.6.0

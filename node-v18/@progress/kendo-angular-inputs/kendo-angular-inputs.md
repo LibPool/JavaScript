@@ -15,19 +15,19 @@ Kendo UI for Angular Inputs Package - Everything you need to build professional 
 
 - 当前版本：25.1.0
 
-- 9.0.4-dev.202207281411
-- 9.0.4-dev.202208010852
-- 9.0.5
-- 9.0.5-dev.202208101035
-- 9.0.5-dev.202209120703
-- 9.1.0-sig.202208231615
-- 9.1.0-sig.202208261045
-- 9.1.0-sig.202208261245
-- 9.1.0-sig.202208261420
-- 9.1.0-sig.202208261440
-- 9.1.0-sig.202208261530
-- 9.1.0-sig.202208261640
-- 共 1760 个版本，完整清单见 npm registry。
+- 25.1.1-develop.4
+- 25.2.0-develop.1
+- 25.2.0-develop.10
+- 25.2.0-develop.11
+- 25.2.0-develop.2
+- 25.2.0-develop.3
+- 25.2.0-develop.4
+- 25.2.0-develop.5
+- 25.2.0-develop.6
+- 25.2.0-develop.7
+- 25.2.0-develop.8
+- 25.2.0-develop.9
+- 共 1,760 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -15,11 +15,11 @@ Easily inject environment variables into your Angular applications
 
 - 当前版本：22.0.0
 
-- 2.0.0
-- 2.0.1
-- 2.0.2
-- 2.1.1
-- 2.2.0
+- 19.0.2
+- 19.0.3
+- 19.0.4
+- 19.0.5
+- 19.1.0
 - 20.0.0
 - 20.0.1
 - 20.1.0

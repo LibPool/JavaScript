@@ -28,7 +28,6 @@ TypeScript definitions for csurf
 - 1.9.34
 - 1.9.35
 - 1.9.36
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

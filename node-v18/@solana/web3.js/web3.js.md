@@ -28,7 +28,7 @@ Solana Javascript API
 - 3.0.0-rc.1
 - 3.0.0-rc.2
 - 3.0.0-rc.3
-- 共 1973 个版本，完整清单见 npm registry。
+- 共 1,973 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

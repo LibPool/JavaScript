@@ -16,17 +16,17 @@ The Table component is a simple wrap for the html table, for more advanced featu
 
 - 当前版本：1.3.0
 
-- 1.2.4-next.0
-- 1.2.5
-- 1.2.5-next.0
-- 1.2.6
-- 1.2.6-next.0
-- 1.2.7
-- 1.2.7-next.0
-- 1.2.8
-- 1.2.8-next.0
-- 1.2.9
-- 1.2.9-next.0
+- 1.2.33
+- 1.2.33-next.0
+- 1.2.34
+- 1.2.34-next.0
+- 1.2.35
+- 1.2.35-next.0
+- 1.2.36
+- 1.2.36-next.0
+- 1.2.36-next.1
+- 1.2.37
+- 1.2.37-next.0
 - 1.3.0
 - 共 144 个版本，完整清单见 npm registry。
 

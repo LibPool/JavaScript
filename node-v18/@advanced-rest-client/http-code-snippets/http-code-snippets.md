@@ -28,7 +28,6 @@ Code snippets to display a snippets of making a HTTP request
 - 3.2.2
 - 4.0.0
 - 4.0.1
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Discover the composition of your CSS @layers in a tree-based format.
 - 2.1.3
 - 2.1.4
 - 2.1.5
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

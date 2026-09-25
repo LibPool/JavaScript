@@ -28,7 +28,6 @@ Esbuild plugin to upload source maps to Honeybadger's API - http://docs.honeybad
 - 1.3.7
 - 1.3.8
 - 1.3.9
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ ArcForges public gRPC-Web client entry point; initial Hello World example.
 - 1.0.0-ci.89.1
 - 1.0.0-ci.9.1
 - 1.0.0-ci.92.1
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

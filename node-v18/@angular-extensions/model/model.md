@@ -28,7 +28,6 @@ Angular Model - Simple state management with minimalistic API, one way data flow
 - 7.1.2
 - 8.0.0
 - 8.1.0
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

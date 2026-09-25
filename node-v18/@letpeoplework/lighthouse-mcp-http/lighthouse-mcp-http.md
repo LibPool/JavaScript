@@ -28,7 +28,6 @@ Streamable HTTP transport runtime for Lighthouse MCP
 - 1.3.3
 - 1.3.4
 - 1.3.5
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

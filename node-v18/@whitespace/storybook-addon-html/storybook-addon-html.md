@@ -28,7 +28,6 @@ A Storybook addon that extracts and displays compiled syntax-highlighted HTML
 - 8.0.1
 - 8.0.2
 - 9.0.0
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

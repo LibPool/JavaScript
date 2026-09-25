@@ -15,19 +15,19 @@ Kendo UI Charts for Angular - A comprehensive package for creating beautiful and
 
 - 当前版本：25.1.0
 
-- 7.1.1-dev.202207071646
-- 7.2.0
-- 7.2.0-dev.202209121446
-- 7.2.0-tooltip-tracking.202209260831
-- 7.3.0
-- 7.3.0-dev.202210040807
-- 7.3.0-dev.202210120944
-- 7.3.0-dev.202210210617
-- 7.3.1
-- 7.3.1-dev.202210260809
-- 7.3.2
-- 7.3.2-dev.202211170710
-- 共 1638 个版本，完整清单见 npm registry。
+- 25.1.1-develop.4
+- 25.2.0-develop.1
+- 25.2.0-develop.10
+- 25.2.0-develop.11
+- 25.2.0-develop.2
+- 25.2.0-develop.3
+- 25.2.0-develop.4
+- 25.2.0-develop.5
+- 25.2.0-develop.6
+- 25.2.0-develop.7
+- 25.2.0-develop.8
+- 25.2.0-develop.9
+- 共 1,638 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

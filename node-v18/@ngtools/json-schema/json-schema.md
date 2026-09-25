@@ -28,7 +28,6 @@ Schema validating and reading for configurations, similar to Angular CLI config.
 - 1.1.0-beta.0
 - 1.1.0-rc.1
 - 1.2.0
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

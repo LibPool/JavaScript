@@ -27,7 +27,6 @@ AST-based TypeScript code generation for Microsoft Managed Apps
 - 0.2.9
 - 0.3.0
 - 0.3.1
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,7 @@ GraphQL Code Generator plugin for generating TypeScript types for GraphQL querie
 - 6.1.7-alpha-20260917125205-aaef103510b4aa334ac30bf9a68491198e41318f
 - 6.1.7-alpha-20260917142806-cce790cab39567122af82f1953f238108076a2df
 - 6.1.7-alpha-20260917143806-e49927495c3633c0bc4319562ad08020ce537827
-- 共 6541 个版本，完整清单见 npm registry。
+- 共 6,541 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

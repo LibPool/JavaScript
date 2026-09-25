@@ -28,7 +28,7 @@ Helpers for asserting that a JavaScript environment supports certain features ne
 - 8.4.0-canary-20260922084122
 - 8.4.0-canary-20260922151509
 - 8.4.0-canary-20260922155338
-- 共 2402 个版本，完整清单见 npm registry。
+- 共 2,402 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -16,18 +16,18 @@ Native application and context menus over a swappable web/native backend
 
 - 当前版本：0.4.0
 
-- 0.5.1-next.904.b545d9c
-- 0.5.1-next.905.5fbf787
-- 0.5.1-next.906.419e5c9
-- 0.5.1-next.908.b072fbc
-- 0.5.1-next.909.a5d1857
-- 0.5.1-next.911.32a089f
-- 0.5.1-next.912.289aaa0
-- 0.5.1-next.914.ed01add
-- 0.5.1-next.915.d4da7e7
-- 0.5.1-next.919.354c575
-- 0.5.1-next.920.da8f530
-- 0.5.1-next.973.788d3d7
+- 0.5.1-next.1468.61b1d9d
+- 0.5.1-next.1471.4e82419
+- 0.5.1-next.1505.5790c72
+- 0.5.1-next.1520.4887418
+- 0.5.1-next.1523.c47f79f
+- 0.5.1-next.1533.2910b54
+- 0.5.1-next.1538.09885fb
+- 0.5.1-next.1541.b94031c
+- 0.5.1-next.1543.41f4a99
+- 0.5.1-next.1545.a3a19e0
+- 0.5.1-next.1556.ff9e615
+- 0.5.1-next.1584.db3c393
 - 共 344 个版本，完整清单见 npm registry。
 
 ## 获取地址

@@ -28,7 +28,6 @@ Decentralized LAN multi-agent collaboration node — AI-controllable enhanced Lo
 - 0.1.8
 - 0.1.9
 - 0.2.0
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ In-memory store implementations for HTTP client toolkit caching, deduplication, 
 - 4.0.0
 - 4.1.0
 - 4.2.0
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

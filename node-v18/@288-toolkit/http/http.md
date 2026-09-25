@@ -28,7 +28,6 @@ A collection of functions to work with http.
 - 4.4.0
 - 4.4.1
 - 4.5.0
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

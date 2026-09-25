@@ -28,7 +28,6 @@ The *client-node* module includes all of the modules you need to use the AWS Enc
 - 4.2.4
 - 5.0.0
 - 5.0.2
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

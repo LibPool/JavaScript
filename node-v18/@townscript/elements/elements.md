@@ -16,8 +16,8 @@ Townscript material html angular elements
 
 - 当前版本：4.0.9
 
+- 3.0.72
 - 3.0.73
-- 3.0.8
 - 4.0.0
 - 4.0.1
 - 4.0.2

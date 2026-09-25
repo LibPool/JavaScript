@@ -1,0 +1,31 @@
+# @tangle-js/tangle-cli
+
+> 标签: chrysalis, cli, iota, util
+
+## 简介
+
+CLI for Tangle.js
+
+## 官网
+
+- 官网：https://github.com/iotaledger/tangle.js/tools/tangle-cli#readme
+- 源码仓库：git+https://github.com/iotaledger/tangle.js.git
+- npm 页面：https://www.npmjs.com/package/@tangle-js/tangle-cli
+
+## 历史版本号
+
+- 当前版本：0.11.1
+
+- 0.10.0
+- 0.11.1
+- 0.9.0
+- 0.9.1
+- 0.9.2
+- 0.9.3
+- 0.9.4
+
+## 获取地址
+
+- npm 安装：`npm install @tangle-js/tangle-cli`
+- npm registry：https://registry.npmjs.org/@tangle-js/tangle-cli
+- Node 要求：>=16

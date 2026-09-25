@@ -28,7 +28,6 @@ Parse the Javascript-like language used in data-bind and other HTML attributes (
 - 4.0.0-beta1.6
 - 4.0.1
 - 4.1.0
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

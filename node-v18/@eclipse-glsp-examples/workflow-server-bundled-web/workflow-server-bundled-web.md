@@ -28,7 +28,6 @@ GLSP web server for the workflow example (bundled)
 - 2.8.0-next.7
 - 2.8.0-next.9
 - 2.9.0-next.1
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

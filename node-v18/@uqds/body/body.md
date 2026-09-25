@@ -28,7 +28,6 @@ Basic styles for HTML elements
 - 4.0.5-alpha.0
 - 4.0.6
 - 4.0.6-alpha.0
-- 共 42 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

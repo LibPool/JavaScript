@@ -16,19 +16,19 @@ A [pie](http://github.com/PieLabs/pie) choice component.
 
 - 当前版本：14.3.4
 
-- 9.7.1-next.2
-- 9.7.1-next.33
-- 9.7.1-next.39
-- 9.7.1-next.43
-- 9.7.2-next.0
-- 9.7.2-next.1
-- 9.8.0
-- 9.8.1-next.0
-- 9.8.1-next.5
-- 9.9.0
-- 9.9.1-next.4
-- 9.9.1-next.6
-- 共 2382 个版本，完整清单见 npm registry。
+- 14.3.2-beta.3
+- 14.3.2-beta.4
+- 14.3.2-beta.5
+- 14.3.3
+- 14.3.4
+- 14.4.0-beta.0
+- 14.4.0-beta.1
+- 14.4.0-beta.3
+- 14.4.0-beta.4
+- 14.4.0-beta.5
+- 14.4.0-beta.6
+- 14.4.0-beta.7
+- 共 2,382 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

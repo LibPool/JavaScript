@@ -28,7 +28,6 @@ Soamee design system — configurable components with CSS variable theming
 - 1.1.7
 - 1.1.8
 - 1.1.9
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

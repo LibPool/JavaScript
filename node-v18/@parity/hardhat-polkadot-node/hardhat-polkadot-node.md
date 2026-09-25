@@ -28,7 +28,6 @@ Polkadot [Hardhat](https://hardhat.org/) plugin to run a mock in-memory node.
 - 0.2.4
 - 0.2.5
 - 0.3.0
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

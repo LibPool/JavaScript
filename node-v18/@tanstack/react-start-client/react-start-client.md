@@ -16,6 +16,7 @@ Modern and scalable routing for React applications
 
 - 当前版本：1.168.36
 
+- 1.168.31
 - 1.168.32
 - 1.168.33
 - 1.168.34
@@ -27,7 +28,6 @@ Modern and scalable routing for React applications
 - 1.168.7
 - 1.168.8
 - 1.168.9
-- 1.20.3-alpha.1
 - 共 499 个版本，完整清单见 npm registry。
 
 ## 获取地址

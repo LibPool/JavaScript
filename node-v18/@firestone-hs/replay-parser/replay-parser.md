@@ -15,13 +15,13 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 
 - 当前版本：2.0.4
 
+- 1.2.51
+- 1.2.52
+- 1.2.53
+- 1.2.54
 - 1.2.55
 - 1.2.56
 - 1.2.57
-- 1.2.6
-- 1.2.7
-- 1.2.8
-- 1.2.9
 - 2.0.0
 - 2.0.1
 - 2.0.2

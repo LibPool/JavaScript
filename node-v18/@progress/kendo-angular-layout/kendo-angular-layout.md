@@ -15,19 +15,19 @@ Kendo UI for Angular Layout Package - a collection of components to create profe
 
 - 当前版本：25.1.0
 
-- 7.1.5
-- 7.1.5-dev.202210121019
-- 7.1.5-dev.202210131323
-- 7.1.5-dev.202210171046
-- 7.1.5-dev.202210191350
-- 7.1.5-dev.202210210934
-- 7.1.5-dev.202210241150
-- 7.1.6
-- 7.1.6-dev.202211081310
-- 7.1.6-dev.202211170805
-- 7.2.0
-- 7.2.0-dev.202211241203
-- 共 1669 个版本，完整清单见 npm registry。
+- 25.1.1-develop.4
+- 25.2.0-develop.1
+- 25.2.0-develop.10
+- 25.2.0-develop.11
+- 25.2.0-develop.2
+- 25.2.0-develop.3
+- 25.2.0-develop.4
+- 25.2.0-develop.5
+- 25.2.0-develop.6
+- 25.2.0-develop.7
+- 25.2.0-develop.8
+- 25.2.0-develop.9
+- 共 1,669 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

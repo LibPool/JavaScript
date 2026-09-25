@@ -1,0 +1,32 @@
+# @liyu-supplier-api-sdk/kits
+
+> 标签: JavaScript
+
+## 简介
+
+核心模块-工具集
+
+## 官网
+
+- 官网：https://github.com/LuLuCodes/liyu-supplier-api-sdk#readme
+- 源码仓库：git+https://github.com/LuLuCodes/liyu-supplier-api-sdk.git
+- npm 页面：https://www.npmjs.com/package/@liyu-supplier-api-sdk/kits
+
+## 历史版本号
+
+- 当前版本：0.1.4
+
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+
+## 获取地址
+
+- npm 安装：`npm install @liyu-supplier-api-sdk/kits`
+- npm registry：https://registry.npmjs.org/@liyu-supplier-api-sdk/kits

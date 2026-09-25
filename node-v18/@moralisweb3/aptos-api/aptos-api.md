@@ -27,7 +27,6 @@ This package contains API client for Aptos API.
 - 2.27.0
 - 2.27.1
 - 2.27.2
-- 共 44 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

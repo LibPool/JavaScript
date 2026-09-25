@@ -16,6 +16,7 @@ A web-based framework for creating videos programmatically
 
 - 当前版本：0.11.0
 
+- 0.5.6-alpha.1066
 - 0.5.7
 - 0.5.7-alpha.1076
 - 0.5.7-alpha.1083
@@ -27,7 +28,6 @@ A web-based framework for creating videos programmatically
 - 0.5.8-beta.1082
 - 0.5.9
 - 0.5.9-alpha.1086
-- 1.6.0
 - 共 185 个版本，完整清单见 npm registry。
 
 ## 获取地址

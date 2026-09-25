@@ -27,7 +27,6 @@ Unified application factory for nl-framework combining HTTP and GraphQL servers 
 - 0.3.6
 - 0.4.0
 - 0.5.1
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

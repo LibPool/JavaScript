@@ -28,7 +28,6 @@ TypeScript definitions for inherits
 - 0.0.32
 - 0.0.33
 - 2.0.0
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

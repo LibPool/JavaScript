@@ -28,7 +28,6 @@ TypeScript definitions for @mparticle/web-sdk
 - 2.66.0
 - 2.66.1
 - 2.66.2
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ OpenTelemetry instrumentation for `undici` http client and Node.js fetch()
 - 0.7.1
 - 0.8.0
 - 0.9.0
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

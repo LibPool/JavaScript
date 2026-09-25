@@ -28,7 +28,6 @@ HTTP (Hono) transport for the Robota SDK
 - 3.0.0-beta.77
 - 3.0.0-beta.78
 - 3.0.0-beta.79
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

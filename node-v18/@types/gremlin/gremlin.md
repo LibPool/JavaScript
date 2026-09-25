@@ -28,7 +28,6 @@ TypeScript definitions for gremlin
 - 3.6.5
 - 3.6.6
 - 3.6.7
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

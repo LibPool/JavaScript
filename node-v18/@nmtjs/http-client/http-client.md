@@ -16,6 +16,7 @@ HTTP client transport for Neemata.
 
 - 当前版本：0.16.1
 
+- 0.17.0-beta.10
 - 0.17.0-beta.11
 - 0.17.0-beta.12
 - 0.17.0-beta.14
@@ -27,7 +28,6 @@ HTTP client transport for Neemata.
 - 0.17.0-beta.7
 - 0.17.0-beta.8
 - 0.17.0-beta.9
-- 0.9.0
 - 共 128 个版本，完整清单见 npm registry。
 
 ## 获取地址

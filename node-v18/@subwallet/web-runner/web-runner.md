@@ -16,6 +16,7 @@ A web runner simulate background.js can be use on mobile or environment support 
 
 - 当前版本：1.3.1
 
+- 1.3.79-1
 - 1.3.80-0
 - 1.3.81-0
 - 1.3.82-0
@@ -26,7 +27,6 @@ A web runner simulate background.js can be use on mobile or environment support 
 - 1.3.87-0
 - 1.3.88-0
 - 1.3.89-0
-- 1.3.9-0
 - 1.3.90-0
 - 共 332 个版本，完整清单见 npm registry。
 

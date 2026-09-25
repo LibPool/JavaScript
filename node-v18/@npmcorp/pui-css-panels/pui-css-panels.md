@@ -28,7 +28,6 @@ panels css component for the npm fork of Pivotal UI, based on Bootstrap
 - 6.2.0
 - 6.2.1
 - 6.4.0
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

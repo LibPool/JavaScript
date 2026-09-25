@@ -28,7 +28,6 @@ TypeScript definitions for jquery.validation
 - 1.16.9
 - 1.17.0
 - 1.17.1
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

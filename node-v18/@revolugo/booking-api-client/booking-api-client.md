@@ -15,19 +15,19 @@ Javascript Revolugo Booking API Client (browser + server)
 
 - 当前版本：7.26.0
 
-- 7.9.0
-- 7.9.0-alpha.0
-- 7.9.0-rc.0
-- 7.9.0-rc.1
-- 7.9.0-rc.2
-- 7.9.0-rc.3
-- 7.9.1
-- 7.9.1-alpha.0
-- 7.9.1-rc.0
-- 7.9.1-rc.1
-- 7.9.2
-- 7.9.2-rc.0
-- 共 5339 个版本，完整清单见 npm registry。
+- 7.25.0-alpha.4
+- 7.25.0-alpha.5
+- 7.25.0-alpha.6
+- 7.25.0-alpha.7
+- 7.25.0-alpha.8
+- 7.25.0-alpha.9
+- 7.26.0
+- 7.26.0-alpha.0
+- 7.26.0-rc.0
+- 7.26.0-rc.1
+- 7.26.0-rc.2
+- 7.26.0-rc.3
+- 共 5,339 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for nodemailer-ses-transport
 - 3.1.4
 - 3.1.5
 - 3.1.6
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

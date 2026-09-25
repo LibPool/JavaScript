@@ -16,10 +16,10 @@ A CLI to visualize the dependencies between files in the TypeScript codebase.
 
 - 当前版本：0.26.5
 
-- 0.7.3-0
-- 0.7.4
-- 0.7.5
-- 0.7.6
+- 0.26.2
+- 0.26.3
+- 0.26.4
+- 0.26.5
 - 0.8.0
 - 0.8.1
 - 0.8.2

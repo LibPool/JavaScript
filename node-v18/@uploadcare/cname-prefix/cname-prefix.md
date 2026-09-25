@@ -28,7 +28,6 @@ Helpers for working with Uploadcare CNAME-prefixed URLs, with a native-crypto bu
 - 6.20.0
 - 6.21.0
 - 6.22.0
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

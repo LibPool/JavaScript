@@ -28,7 +28,6 @@ A set of standard typescript config and tslint options for Salesforce projects.
 - 4.3.1
 - 4.3.2
 - 4.3.3
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

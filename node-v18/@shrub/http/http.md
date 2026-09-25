@@ -16,6 +16,7 @@ A module that provides base support for a Node http server.
 
 - 当前版本：0.5.91
 
+- 0.5.79
 - 0.5.80
 - 0.5.81
 - 0.5.82
@@ -25,7 +26,6 @@ A module that provides base support for a Node http server.
 - 0.5.86
 - 0.5.87
 - 0.5.88
-- 0.5.9
 - 0.5.90
 - 0.5.91
 - 共 199 个版本，完整清单见 npm registry。

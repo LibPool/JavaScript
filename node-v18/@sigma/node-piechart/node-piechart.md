@@ -28,7 +28,6 @@ A node program that renders nodes as piecharts for sigma.js
 - 4.0.0-alpha.2
 - 4.0.0-alpha.3
 - 4.0.0-beta.0
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

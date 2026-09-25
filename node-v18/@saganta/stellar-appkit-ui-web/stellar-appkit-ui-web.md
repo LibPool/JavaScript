@@ -28,7 +28,6 @@ Web UI for @saganta/stellar-appkit — Shadow DOM modal, framework wrappers for 
 - 1.9.51
 - 1.9.53
 - 1.9.54
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

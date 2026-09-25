@@ -28,7 +28,6 @@ TypeScript definitions for jqueryui
 - 1.9.26-alpha
 - 1.9.27
 - 1.9.8-alpha
-- 共 46 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

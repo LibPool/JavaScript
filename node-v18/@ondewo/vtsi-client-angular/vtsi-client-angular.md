@@ -27,7 +27,6 @@ ONDEWO Voip Telephone System Integration (VTSI) Client library for Angular
 - 8.5.0
 - 8.6.0
 - 8.7.0
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

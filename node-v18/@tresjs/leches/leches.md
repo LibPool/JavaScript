@@ -28,7 +28,6 @@ Tasty GUI for Vue controls 🍰
 - 1.1.4
 - 1.2.0
 - 1.2.1
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Utility for JavaScript and Typescript.
 - 1.7.1
 - 1.8.0
 - 1.9.0
-- 共 46 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

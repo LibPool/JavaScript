@@ -28,7 +28,6 @@ This package is part of the [React Native CLI](../../README.md). It contains uti
 - 20.1.2
 - 20.1.3
 - 20.2.0
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

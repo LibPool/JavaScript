@@ -27,7 +27,6 @@ Auto-generated protobuf TypeScript types
 - 1.0.48
 - 1.0.49
 - 1.0.50
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

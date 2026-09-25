@@ -28,7 +28,6 @@ Web API compatible fetch implementation
 - 4.4.1
 - 4.4.2
 - 4.4.2-pre.0
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

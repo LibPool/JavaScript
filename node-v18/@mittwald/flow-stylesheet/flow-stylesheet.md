@@ -28,7 +28,7 @@ A collection of CSS classes used in Flow, mittwald's design system.
 - 1.3.0-next.7
 - 1.3.0-next.8
 - 1.3.0-next.9
-- 共 1577 个版本，完整清单见 npm registry。
+- 共 1,577 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

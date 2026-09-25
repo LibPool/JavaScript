@@ -28,7 +28,6 @@ Angular Date Time Picker
 - 21.0.0-rc.1
 - 21.0.0-rc.2
 - 22.0.0
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Customizable Icons for React Native with support for image source and full styli
 - 13.0.1
 - 13.0.2
 - 13.0.3
-- 共 49 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

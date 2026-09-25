@@ -28,7 +28,6 @@ accepts rewrite in TypeScript
 - 2.2.4
 - 2.3.0
 - 2.3.1
-- 共 44 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

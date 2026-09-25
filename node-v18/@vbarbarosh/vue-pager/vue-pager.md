@@ -28,7 +28,6 @@ A reactive object for working with paged data in Vue
 - 1.6.0
 - 1.7.0
 - 1.7.1
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

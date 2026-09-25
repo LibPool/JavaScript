@@ -28,7 +28,6 @@ Compile and emit HTML and CSS in rollup.
 - 0.36.0
 - 0.36.0-next.24
 - 0.36.1-next.57
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

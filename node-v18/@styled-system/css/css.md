@@ -27,7 +27,6 @@ Styled System for the `css` prop
 - 5.0.9
 - 5.1.4
 - 5.1.5
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

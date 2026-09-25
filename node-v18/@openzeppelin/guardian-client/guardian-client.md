@@ -28,7 +28,6 @@ TypeScript HTTP client for Guardian server
 - 0.17.0-rc.1
 - 0.17.0-rc.2
 - 0.17.0-rc.3
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

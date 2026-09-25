@@ -28,7 +28,6 @@ TypeScript definitions for new-relic-browser
 - 1.230.3
 - 1.230.4
 - 1.230.5
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -1,0 +1,36 @@
+# @sevasok/moonwave
+
+> 标签: JavaScript
+
+## 简介
+
+moonwave cli
+
+## 官网
+
+- 官网：https://github.com/sevasok/moonwave#readme
+- 源码仓库：git+https://github.com/sevasok/moonwave.git
+- npm 页面：https://www.npmjs.com/package/@sevasok/moonwave
+
+## 历史版本号
+
+- 当前版本：1.3.19
+
+- 1.3.13
+- 1.3.14
+- 1.3.15
+- 1.3.18
+- 1.3.19
+- 1.3.2
+- 1.3.3
+- 1.3.4
+- 1.3.6
+- 1.3.7
+- 1.3.8
+- 1.3.9
+
+## 获取地址
+
+- npm 安装：`npm install @sevasok/moonwave`
+- npm registry：https://registry.npmjs.org/@sevasok/moonwave
+- Node 要求：>=18

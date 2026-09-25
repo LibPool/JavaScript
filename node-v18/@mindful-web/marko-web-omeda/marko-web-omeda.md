@@ -28,7 +28,6 @@ Omeda Marko components for Mindful Web websites
 - 1.88.0
 - 1.92.0
 - 1.93.1
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

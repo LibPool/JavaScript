@@ -28,7 +28,6 @@ Extend MDAST by parsing embedded HTML in Markdown. Converts HTML into structured
 - 1.1.7
 - 1.1.8
 - 1.1.9
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

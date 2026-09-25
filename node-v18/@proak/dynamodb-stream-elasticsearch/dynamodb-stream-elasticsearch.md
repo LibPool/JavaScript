@@ -1,0 +1,34 @@
+# @proak/dynamodb-stream-elasticsearch
+
+> 标签: AWS, AWS DynamoDB, AWS Elasticsearch, AWS Lambda, Blueprint, DynamoDB, Elasticsearch, Lambda, Node, Stream
+
+## 简介
+
+Missing blueprint for AWS Lambda. Reads stream from AWS DynamoDB and writes it to AWS ElasticSearch.
+
+## 官网
+
+- 官网：https://github.com/matrus2/dynamodb-stream-elasticsearch#readme
+- 源码仓库：git+https://github.com/matrus2/dynamodb-stream-elasticsearch.git
+- npm 页面：https://www.npmjs.com/package/@proak/dynamodb-stream-elasticsearch
+
+## 历史版本号
+
+- 当前版本：2.0.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.1.0
+- 2.0.0
+- 2.0.1
+- 2.0.2
+- 2.0.3
+- 2.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @proak/dynamodb-stream-elasticsearch`
+- npm registry：https://registry.npmjs.org/@proak/dynamodb-stream-elasticsearch

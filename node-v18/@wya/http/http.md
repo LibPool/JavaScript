@@ -28,7 +28,6 @@ wya-http for js
 - 1.5.2-alpha.1
 - 1.5.3-alpha.1
 - 1.5.3-alpha.2
-- 共 45 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

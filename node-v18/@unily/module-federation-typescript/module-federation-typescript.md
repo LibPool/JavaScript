@@ -27,7 +27,6 @@ Webpack plugin to stream typescript for module federation apps/components
 - 3.1.0-beta.2
 - 3.1.0-beta.3
 - 3.1.0-beta.4
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

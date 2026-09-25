@@ -15,9 +15,9 @@ Cross-framework Onboarding component (React + Angular compatible)
 
 - 当前版本：1.0.130
 
+- 1.0.87
 - 1.0.88
 - 1.0.89
-- 1.0.9
 - 1.0.90
 - 1.0.91
 - 1.0.92

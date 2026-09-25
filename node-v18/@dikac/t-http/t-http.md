@@ -27,7 +27,6 @@ Typescript http
 - 0.18.0-alpha.1
 - 0.18.0-alpha.2
 - 0.18.0-alpha.3
-- 共 33 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

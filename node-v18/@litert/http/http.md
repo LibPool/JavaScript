@@ -28,7 +28,6 @@ A simple HTTP server based on LiteRT framework.
 - 0.4.4
 - 0.5.0
 - 0.5.1
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

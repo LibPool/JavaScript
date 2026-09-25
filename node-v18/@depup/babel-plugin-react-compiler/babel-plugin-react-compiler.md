@@ -1,0 +1,25 @@
+# @depup/babel-plugin-react-compiler
+
+> 标签: babel-plugin-react-compiler, depup, latest, patched, security, updated-dependencies
+
+## 简介
+
+Babel plugin for React Compiler. (with updated dependencies)
+
+## 官网
+
+- 官网：https://github.com/facebook/react#readme
+- 源码仓库：git+https://github.com/facebook/react.git
+- npm 页面：https://www.npmjs.com/package/@depup/babel-plugin-react-compiler
+
+## 历史版本号
+
+- 当前版本：1.0.0-depup.1
+
+- 1.0.0-depup.0
+- 1.0.0-depup.1
+
+## 获取地址
+
+- npm 安装：`npm install @depup/babel-plugin-react-compiler`
+- npm registry：https://registry.npmjs.org/@depup/babel-plugin-react-compiler

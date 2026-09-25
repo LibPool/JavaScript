@@ -28,7 +28,6 @@ Generate Markdown versions of Docusaurus HTML pages and an llms.txt index file
 - 2.0.0-alpha.5
 - 2.0.0-alpha.6
 - 2.0.0-alpha.7
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

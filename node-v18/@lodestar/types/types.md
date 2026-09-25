@@ -16,19 +16,19 @@ Typescript types required for lodestar
 
 - 当前版本：1.48.0
 
-- 1.9.0-dev.f9848b5d80
-- 1.9.0-dev.fb6a57af54
-- 1.9.0-dev.fe854828b7
-- 1.9.0-rc.0
-- 1.9.0-rc.1
-- 1.9.0-rc.2
-- 1.9.0-rc.3
-- 1.9.1
-- 1.9.1-rc.0
-- 1.9.1-rc.1
-- 1.9.2
-- 1.9.2-rc.0
-- 共 3155 个版本，完整清单见 npm registry。
+- 1.49.0-dev.a18e2b6354
+- 1.49.0-dev.a1f8bb3877
+- 1.49.0-dev.a261342520
+- 1.49.0-dev.a97d1081eb
+- 1.49.0-dev.ae6cc426f1
+- 1.49.0-dev.b27f498c2c
+- 1.49.0-dev.c9061c6942
+- 1.49.0-dev.c9d60c8080
+- 1.49.0-dev.cd9f3245c9
+- 1.49.0-dev.ceea36c6f2
+- 1.49.0-dev.ee7c2aa8ee
+- 1.49.0-dev.fbb58f7280
+- 共 3,155 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

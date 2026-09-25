@@ -28,7 +28,6 @@ Http service implementation with an equivalent mock for testing.
 - 5.0.7
 - 5.0.8
 - 5.0.9
-- 共 42 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

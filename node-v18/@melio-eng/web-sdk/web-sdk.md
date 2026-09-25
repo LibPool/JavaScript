@@ -16,7 +16,7 @@ Melio Web SDK - Embed core Melio workflows directly into partner UI with minimal
 
 - 当前版本：1.2.0
 
-- 1.0.9-pr.23.fb97633
+- 1.0.41-pr.88.670a5dc
 - 1.1.0
 - 1.1.0-pr.92.a38482a
 - 1.1.0-pr.93.4b31895

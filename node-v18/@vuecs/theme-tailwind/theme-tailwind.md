@@ -28,7 +28,6 @@ Tailwind CSS theme for vuecs components.
 - 6.4.1
 - 6.4.2
 - 6.5.0
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

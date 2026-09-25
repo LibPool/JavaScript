@@ -28,7 +28,6 @@ Plugin for using HMR in @web/dev-server
 - 0.4.0
 - 0.4.1
 - 0.5.0
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

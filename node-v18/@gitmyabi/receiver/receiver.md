@@ -1,0 +1,25 @@
+# @gitmyabi/receiver
+
+> 标签: abi, ethereum, ethers-v6, smart-contracts, typescript, viem, wagmi
+
+## 简介
+
+Auto-generated TypeScript type bindings for Receiver (build etherscan-receiver-d5f996dc-1789673465967, commit b3ae7c4, branch etherscan)
+
+## 官网
+
+- 官网：https://github.com/etherscan/receiver#readme
+- 源码仓库：git+https://github.com/etherscan/receiver.git
+- npm 页面：https://www.npmjs.com/package/@gitmyabi/receiver
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @gitmyabi/receiver`
+- npm registry：https://registry.npmjs.org/@gitmyabi/receiver

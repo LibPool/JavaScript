@@ -28,7 +28,6 @@ A set of useful utils for http methods. Includes converter/validator for http qu
 - 1.0.7
 - 1.0.8
 - 1.0.9
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

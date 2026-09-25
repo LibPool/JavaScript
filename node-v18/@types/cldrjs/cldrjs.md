@@ -28,7 +28,6 @@ TypeScript definitions for cldrjs
 - 0.4.7-alpha
 - 0.4.8-alpha
 - 0.4.9-alpha
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

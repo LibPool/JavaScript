@@ -28,7 +28,6 @@ The native ESLint 9/10 header plugin. A zero-bloat, drop-in replacement for 'esl
 - 3.4.2
 - 3.4.3
 - 3.4.4
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

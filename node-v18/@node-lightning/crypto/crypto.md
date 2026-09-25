@@ -28,7 +28,6 @@ Crypto suite for Node-Lightning
 - 0.27.2
 - 0.27.4
 - 0.28.0
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

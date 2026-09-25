@@ -28,7 +28,6 @@ Easy RabbitMQ for node
 - 5.6.0
 - 5.7.0
 - 5.7.0-alpha.0
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

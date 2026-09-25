@@ -28,7 +28,6 @@ An OAuth setup for NestJS using Shopify's [@shopify/shopify-node-api](https://gi
 - 6.0.3
 - 6.0.4
 - 6.1.0
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

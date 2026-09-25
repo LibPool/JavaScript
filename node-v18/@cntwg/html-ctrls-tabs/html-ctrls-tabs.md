@@ -28,7 +28,6 @@ An HTML-form component: tabs panel
 - 0.0.35
 - 0.0.36
 - 0.0.37
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

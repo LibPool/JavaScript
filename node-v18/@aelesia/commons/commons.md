@@ -28,7 +28,6 @@ Common tools used in Javascript projects
 - 0.5.0-next.40
 - 0.5.0-next.45
 - 0.5.0-next.47
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

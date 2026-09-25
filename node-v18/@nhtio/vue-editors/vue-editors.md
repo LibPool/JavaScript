@@ -27,7 +27,6 @@ Editor Components for use in Vue applications
 - 1.20251126.0
 - 1.20251127.0
 - 1.20251127.1
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Advanced CSS pipeline for tsdown powered by Lightning CSS
 - 0.23.0-beta.3
 - 0.23.0-rc.0
 - 0.23.0-rc.1
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

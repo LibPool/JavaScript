@@ -27,7 +27,7 @@ Regula framework agnostic web components to work with webcamera
 - 9.9.3100-rc
 - 9.9.3101-nightly
 - 9.9.3102-rc
-- 共 1275 个版本，完整清单见 npm registry。
+- 共 1,275 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

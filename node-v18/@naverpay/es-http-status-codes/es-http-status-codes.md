@@ -28,7 +28,6 @@ A lightweight, tree-shakable utility for HTTP status codes and reason phrases in
 - 1.0.0-canary.250819-a4ded43
 - 1.0.0-canary.250819-b2f769f
 - 1.0.0-canary.250819-f142589
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

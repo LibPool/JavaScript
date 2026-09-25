@@ -28,7 +28,6 @@ HTTP transport layer for 23blocks SDK with fetch-based implementation
 - 3.3.3
 - 3.3.4
 - 3.4.0
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

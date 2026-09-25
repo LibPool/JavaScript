@@ -28,7 +28,6 @@ A nodenv plugin to generate node-build definitions from nodejs.org.
 - 2.9.2
 - 2.9.3
 - 2.9.4
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

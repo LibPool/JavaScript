@@ -28,7 +28,6 @@ TypeScript definitions for verror
 - 1.9.1
 - 1.9.2
 - 1.9.3
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

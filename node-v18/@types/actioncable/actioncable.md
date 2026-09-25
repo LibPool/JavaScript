@@ -28,7 +28,6 @@ TypeScript definitions for actioncable
 - 5.2.7
 - 5.2.8
 - 5.2.9
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

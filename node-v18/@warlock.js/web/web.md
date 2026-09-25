@@ -28,7 +28,6 @@ Warlock.js web layer for the SSR page pipeline and client runtime.
 - 5.7.0
 - 5.8.0
 - 5.9.0
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

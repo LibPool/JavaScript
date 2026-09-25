@@ -16,6 +16,11 @@ React Native integration for React Navigation
 
 - 当前版本：7.4.1
 
+- 8.0.0-alpha.37
+- 8.0.0-alpha.38
+- 8.0.0-alpha.39
+- 8.0.0-alpha.40
+- 8.0.0-alpha.41
 - 8.0.0-alpha.42
 - 8.0.0-alpha.43
 - 8.0.0-alpha.44
@@ -23,11 +28,6 @@ React Native integration for React Navigation
 - 8.0.0-alpha.46
 - 8.0.0-alpha.47
 - 8.0.0-alpha.48
-- 8.0.0-alpha.5
-- 8.0.0-alpha.6
-- 8.0.0-alpha.7
-- 8.0.0-alpha.8
-- 8.0.0-alpha.9
 - 共 385 个版本，完整清单见 npm registry。
 
 ## 获取地址

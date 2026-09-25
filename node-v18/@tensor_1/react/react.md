@@ -28,7 +28,6 @@ Thin React wrappers over the UIx v2 CSS component library.
 - 2.7.0
 - 2.8.0
 - 2.9.0
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

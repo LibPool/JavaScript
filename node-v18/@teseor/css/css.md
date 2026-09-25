@@ -28,7 +28,6 @@ CSS library - reset, primitives, components, utilities
 - 2.5.0
 - 2.5.1
 - 2.5.2
-- 共 45 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

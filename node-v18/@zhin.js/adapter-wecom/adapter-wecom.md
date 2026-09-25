@@ -28,7 +28,6 @@ Zhin.js WeCom (企业微信) adapter for Plugin Runtime (HTTP webhook)
 - 5.0.8
 - 6.0.0
 - 6.0.1
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

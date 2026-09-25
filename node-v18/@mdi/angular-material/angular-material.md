@@ -28,7 +28,6 @@ Distribution and Build for Angular Material MDI
 - 7.0.96
 - 7.1.96
 - 7.2.96
-- 共 48 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

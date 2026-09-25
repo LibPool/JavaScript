@@ -28,7 +28,7 @@ HTML controls for web atoms core
 - 2.6.7
 - 2.6.8
 - 2.6.9
-- 共 1142 个版本，完整清单见 npm registry。
+- 共 1,142 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

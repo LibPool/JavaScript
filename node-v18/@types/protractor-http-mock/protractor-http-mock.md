@@ -28,7 +28,6 @@ TypeScript definitions for protractor-http-mock
 - 0.10.4
 - 0.10.5
 - 0.10.6
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

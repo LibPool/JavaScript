@@ -1,0 +1,32 @@
+# @nebulario/microservice-auth-web
+
+> 标签: JavaScript
+
+## 简介
+
+@nebulario/microservice-auth-web - JavaScript library from npm
+
+## 官网
+
+- 源码仓库：git@github.com:vicjicaman/microservice-auth-web.git
+- npm 页面：https://www.npmjs.com/package/@nebulario/microservice-auth-web
+
+## 历史版本号
+
+- 当前版本：1.70.3-master
+
+- 1.70.0-auth-linker-update-prod
+- 1.70.0-blog-comments-prod
+- 1.70.0-blog-layout-upstream-dev
+- 1.70.0-master
+- 1.70.1-auth-linker-update-prod
+- 1.70.1-blog-layout-upstream-prod
+- 1.70.1-master
+- 1.70.1-web-auth-home-config-prod
+- 1.70.2-master
+- 1.70.3-master
+
+## 获取地址
+
+- npm 安装：`npm install @nebulario/microservice-auth-web`
+- npm registry：https://registry.npmjs.org/@nebulario/microservice-auth-web

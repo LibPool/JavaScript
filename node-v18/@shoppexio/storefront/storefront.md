@@ -16,6 +16,8 @@ Official JavaScript storefront SDK for Shoppex
 
 - 当前版本：1.0.81
 
+- 1.0.70
+- 1.0.71
 - 1.0.72
 - 1.0.73
 - 1.0.74
@@ -24,10 +26,8 @@ Official JavaScript storefront SDK for Shoppex
 - 1.0.77
 - 1.0.78
 - 1.0.79
-- 1.0.8
 - 1.0.80
 - 1.0.81
-- 1.0.9
 - 共 96 个版本，完整清单见 npm registry。
 
 ## 获取地址

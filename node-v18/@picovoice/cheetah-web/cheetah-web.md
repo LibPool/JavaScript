@@ -27,7 +27,6 @@ Cheetah Speech-to-Text engine for web browsers (via WebAssembly)
 - 4.1.2
 - 4.1.3
 - 4.1.4
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

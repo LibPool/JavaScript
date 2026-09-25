@@ -28,7 +28,6 @@ TypeScript definitions for http-string-parser
 - 0.0.31
 - 0.0.32
 - 0.0.33
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for auth0-lock
 - 11.4.7
 - 11.4.8
 - 11.4.9
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

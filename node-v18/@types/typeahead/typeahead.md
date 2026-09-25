@@ -28,7 +28,6 @@ TypeScript definitions for typeahead.js
 - 0.11.30
 - 0.11.31
 - 0.11.32
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

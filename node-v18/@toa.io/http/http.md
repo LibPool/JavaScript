@@ -28,7 +28,6 @@ Text-level HTTP client
 - 0.24.0-alpha.8
 - 0.24.0-alpha.9
 - 1.0.0-alpha.0
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

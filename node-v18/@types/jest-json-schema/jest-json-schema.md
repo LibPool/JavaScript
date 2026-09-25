@@ -28,7 +28,6 @@ TypeScript definitions for jest-json-schema
 - 6.1.3
 - 6.1.4
 - 6.1.5
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

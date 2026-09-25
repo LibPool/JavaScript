@@ -16,8 +16,8 @@ Vue components of Wyg Plus Icons collection.
 
 - 当前版本：2.3.9
 
-- 2.2.8
-- 2.2.9
+- 2.2.48
+- 2.2.49
 - 2.3.0
 - 2.3.1
 - 2.3.2

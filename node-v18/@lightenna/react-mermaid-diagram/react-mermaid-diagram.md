@@ -27,7 +27,6 @@ Simple React Component for embedding Mermaid diagrams
 - 1.0.20
 - 1.0.21
 - 1.0.22
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

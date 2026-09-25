@@ -28,7 +28,6 @@ TypeScript definitions for recompose
 - 0.30.7
 - 0.30.8
 - 0.30.9
-- 共 42 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

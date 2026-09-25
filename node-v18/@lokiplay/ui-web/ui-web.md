@@ -28,7 +28,6 @@ Web component overlay for Loki multiplayer rooms.
 - 0.3.7
 - 0.3.8
 - 0.4.0
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Vue wrapper for ZoomPinch - reactive pinch & zoom component
 - 0.0.41
 - 0.0.8
 - 0.0.9
-- 共 26 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

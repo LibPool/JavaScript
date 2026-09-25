@@ -28,7 +28,6 @@ TypeScript definitions for react-addons-test-utils
 - 15.6.2
 - 15.6.3
 - 15.6.4
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

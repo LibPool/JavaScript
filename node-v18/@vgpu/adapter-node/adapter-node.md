@@ -28,7 +28,6 @@ Node.js GPU adapter for vgpu, using Dawn-based WebGPU bindings.
 - 0.5.0
 - 0.5.0-rc.0
 - 0.5.0-rc.1
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

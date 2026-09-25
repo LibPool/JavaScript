@@ -28,7 +28,6 @@ An HTTP/REST based AI Search client built on top of Upstash REST API.
 - 0.1.7
 - 0.1.7-rc
 - 0.1.8-rc.2
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

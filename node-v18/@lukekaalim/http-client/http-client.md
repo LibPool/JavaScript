@@ -28,7 +28,6 @@ Simple HTTP REST Client abstraction over some common HTTP implementations on jav
 - 5.2.0
 - 6.0.0
 - 6.1.0
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ LiveKit RTC Node FFI bindings for internal use only
 - 0.12.78
 - 0.12.79
 - 0.12.80
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -16,6 +16,7 @@ Component generator customization, capable of creating Preact components with CS
 
 - 当前版本：0.25.4
 
+- 0.23.0
 - 0.23.1
 - 0.23.2
 - 0.23.3
@@ -27,7 +28,6 @@ Component generator customization, capable of creating Preact components with CS
 - 0.25.1
 - 0.25.2
 - 0.25.4
-- 0.9.0
 - 共 72 个版本，完整清单见 npm registry。
 
 ## 获取地址

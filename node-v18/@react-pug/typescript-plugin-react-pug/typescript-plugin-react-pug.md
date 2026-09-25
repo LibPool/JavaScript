@@ -27,7 +27,6 @@ TypeScript language-service plugin for `pug\`...\`` tagged template literals in 
 - 0.1.6
 - 0.1.7
 - 0.1.9
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

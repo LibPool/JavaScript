@@ -28,7 +28,6 @@ TypeScript definitions for signalr
 - 2.4.1
 - 2.4.2
 - 2.4.3
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

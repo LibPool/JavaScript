@@ -28,7 +28,6 @@ TypeScript custom runtime + workflows integration for Architect
 - 1.2.0-RC.0
 - 2.0.0
 - 2.1.0
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

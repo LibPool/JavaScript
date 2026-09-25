@@ -28,7 +28,6 @@ OpenContext memory storage + search SDK with HTTP and MCP server entry points.
 - 1.3.3
 - 1.3.4
 - 1.3.5
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

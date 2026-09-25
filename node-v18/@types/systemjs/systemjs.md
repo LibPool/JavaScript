@@ -28,7 +28,6 @@ TypeScript definitions for systemjs
 - 6.15.2
 - 6.15.3
 - 6.15.4
-- 共 41 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

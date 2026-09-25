@@ -28,7 +28,6 @@ Zenky Storefront SDK for Vue 3.
 - 0.9.45
 - 0.9.46
 - 0.9.47
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

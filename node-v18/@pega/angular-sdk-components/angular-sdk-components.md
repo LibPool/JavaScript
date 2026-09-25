@@ -15,11 +15,11 @@ This Node package comprises standalone Angular components that are designed to b
 
 - 当前版本：25.1.13
 
+- 0.25.7
 - 0.25.8
 - 0.25.9
 - 0.26.1
 - 0.26.2
-- 23.1.10
 - 24.1.10
 - 24.2.10
 - 24.2.12

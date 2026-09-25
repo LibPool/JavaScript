@@ -28,7 +28,6 @@ Compile TypeScript, Flow, JSX, etc with Sucrase
 - 5.0.1
 - 5.0.2
 - 5.1.0
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

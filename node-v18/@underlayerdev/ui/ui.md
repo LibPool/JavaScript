@@ -27,7 +27,6 @@ Reusable Angular UI library and design system. Built with [Angular CLI](https://
 - 0.9.4
 - 0.9.5
 - 0.9.6
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

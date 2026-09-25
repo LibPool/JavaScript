@@ -28,7 +28,6 @@ Lume is a Vue data visualization component library, built with Typescript and D3
 - 1.9.3
 - 1.9.4
 - 1.9.5
-- 共 46 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -16,7 +16,7 @@ mor complier plugin for web
 
 - 当前版本：1.0.114-beta.22
 
-- 1.0.9
+- 1.0.89
 - 1.0.90
 - 1.0.90-alpha.1
 - 1.0.92

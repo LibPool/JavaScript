@@ -28,7 +28,6 @@ High-level Web Audio primitives for musical instruments and tools.
 - 0.4.0
 - 0.4.1
 - 0.4.2
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Angular Material Extensions Luxon Adapter
 - 20.0.0
 - 21.0.0
 - 22.0.0
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

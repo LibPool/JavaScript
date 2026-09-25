@@ -28,7 +28,6 @@ Reactive finite state machines and statecharts for Vue 3 — declarative transit
 - 0.2.4
 - 0.2.5
 - 0.2.6
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

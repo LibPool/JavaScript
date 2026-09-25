@@ -28,7 +28,6 @@ Headless Vue 3 SDK for building OpenPencil-powered editors.
 - 0.14.0
 - 0.15.0
 - 0.15.1
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

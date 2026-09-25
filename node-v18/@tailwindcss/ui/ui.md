@@ -27,7 +27,6 @@ Extensions to the default Tailwind CSS config required for Tailwind UI.
 - 0.7.0
 - 0.7.1
 - 0.7.2
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

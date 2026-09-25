@@ -28,7 +28,6 @@ TypeScript definitions for react-addons-linked-state-mixin
 - 0.14.7-alpha
 - 0.14.8-alpha
 - 0.14.9-alpha
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

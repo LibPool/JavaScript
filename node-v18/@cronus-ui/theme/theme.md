@@ -28,7 +28,6 @@ Cronus runtime theming engine — CronusUIProvider + useTheme (CSS-var only, no 
 - 0.7.4
 - 0.7.5
 - 0.7.6
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

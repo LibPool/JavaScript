@@ -28,7 +28,6 @@ Cool features over angular Http Client.
 - 15.0.5
 - 15.0.6
 - 2.0.0
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

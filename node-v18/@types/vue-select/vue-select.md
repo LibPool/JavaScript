@@ -28,7 +28,6 @@ TypeScript definitions for vue-select
 - 3.16.6
 - 3.16.7
 - 3.16.8
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Tool that transforms Angular codebase to JSON representation
 - 5.7.0
 - 5.8.0
 - 5.8.1
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ JavaScript Encrypted Data Vault
 - 16.1.0
 - 16.2.0
 - 16.3.0
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

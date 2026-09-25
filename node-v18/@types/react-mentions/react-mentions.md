@@ -28,7 +28,6 @@ TypeScript definitions for react-mentions
 - 4.1.9
 - 4.4.0
 - 4.4.1
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

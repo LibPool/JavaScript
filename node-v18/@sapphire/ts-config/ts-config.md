@@ -28,7 +28,7 @@ Shareable TypeScript configuration for the Sapphire Community
 - 5.0.4-next.e6d4bac4
 - 5.0.4-next.fff340cc
 - 6.0.0-pr-935.7da5c8bb
-- 共 1022 个版本，完整清单见 npm registry。
+- 共 1,022 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

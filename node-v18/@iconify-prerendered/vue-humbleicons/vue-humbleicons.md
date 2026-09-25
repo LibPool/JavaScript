@@ -28,7 +28,6 @@ Humbleicons components for Vue. Designed for ease of use and high performance
 - 0.7.1658727015
 - 0.8.1658727015
 - 0.9.1658727015
-- 共 42 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

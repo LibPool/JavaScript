@@ -1,0 +1,27 @@
+# @framingui/styled
+
+> 标签: css-in-js, design-system, design-tokens, styled-components, token-enforcement
+
+## 简介
+
+Token-enforced styled-components wrapper with compile-time and runtime validation
+
+## 官网
+
+- 官网：https://github.com/soo-kate-yeon/framingui#readme
+- 源码仓库：git+https://github.com/soo-kate-yeon/framingui.git
+- npm 页面：https://www.npmjs.com/package/@framingui/styled
+
+## 历史版本号
+
+- 当前版本：0.3.5
+
+- 0.3.3
+- 0.3.4
+- 0.3.5
+
+## 获取地址
+
+- npm 安装：`npm install @framingui/styled`
+- npm registry：https://registry.npmjs.org/@framingui/styled
+- Node 要求：>=20.0.0

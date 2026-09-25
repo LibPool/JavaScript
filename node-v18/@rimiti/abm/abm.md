@@ -1,0 +1,24 @@
+# @rimiti/abm
+
+> 标签: adblock, ads, adsense, advertiser, advertising, blocker, blockers, killer
+
+## 简介
+
+Detects AdBlockers and display an unclosable modal.
+
+## 官网
+
+- 官网：https://github.com/rimiti/abm#readme
+- 源码仓库：git+https://github.com/rimiti/abm.git
+- npm 页面：https://www.npmjs.com/package/@rimiti/abm
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @rimiti/abm`
+- npm registry：https://registry.npmjs.org/@rimiti/abm

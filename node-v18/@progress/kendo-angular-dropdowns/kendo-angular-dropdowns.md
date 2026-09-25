@@ -15,19 +15,19 @@ A wide variety of native Angular dropdown components including AutoComplete, Com
 
 - 当前版本：25.1.0
 
-- 7.2.1
-- 7.2.1-dev.202209201351
-- 7.2.1-dev.202209211135
-- 7.2.1-dev.202209280843
-- 7.2.2
-- 7.2.2-dev.202210060746
-- 7.2.2-dev.202210120944
-- 7.2.3
-- 7.2.3-dev.202211091307
-- 7.2.4
-- 7.2.4-dev.202211170720
-- 7.2.5-dev.202212021231
-- 共 1873 个版本，完整清单见 npm registry。
+- 25.1.1-develop.4
+- 25.2.0-develop.1
+- 25.2.0-develop.10
+- 25.2.0-develop.11
+- 25.2.0-develop.2
+- 25.2.0-develop.3
+- 25.2.0-develop.4
+- 25.2.0-develop.5
+- 25.2.0-develop.6
+- 25.2.0-develop.7
+- 25.2.0-develop.8
+- 25.2.0-develop.9
+- 共 1,873 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

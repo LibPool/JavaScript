@@ -28,7 +28,6 @@ Run Ruvyxa on Node with a clean adapter contract for server output, assets, and 
 - 1.1.3
 - 1.1.4
 - 1.1.5
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

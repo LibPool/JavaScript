@@ -28,7 +28,6 @@ A small components library to use Mapbox GL in Vue 3.
 - 2.7.0-alpha.3
 - 2.7.1
 - 2.7.2
-- 共 43 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

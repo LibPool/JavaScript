@@ -28,7 +28,6 @@ TypeScript definitions for browser-sync
 - 3001.0.26-alpha
 - 3001.0.27-alpha
 - 3001.0.28-alpha
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

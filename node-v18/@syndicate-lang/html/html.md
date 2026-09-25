@@ -16,6 +16,7 @@ DOM/HTML UI for Syndicate/JS
 
 - 当前版本：0.39.1
 
+- 0.35.9
 - 0.36.0
 - 0.36.1
 - 0.36.2
@@ -27,7 +28,6 @@ DOM/HTML UI for Syndicate/JS
 - 0.38.0
 - 0.39.0
 - 0.39.1
-- 0.9.1
 - 共 92 个版本，完整清单见 npm registry。
 
 ## 获取地址

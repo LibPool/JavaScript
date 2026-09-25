@@ -28,7 +28,6 @@ a lightweight tree widget, compatible with originaljs/react/vue, 9.6kb size for 
 - 1.8.0
 - 1.8.2
 - 1.8.3
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ OpenAI adapter using the official OpenAI Node SDK for agentic chat completions.
 - 1.0.0-dev-1785409369816
 - 1.0.0-dev-1786014320559
 - 1.0.0-dev-1789404058608
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

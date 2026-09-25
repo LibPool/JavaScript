@@ -27,7 +27,6 @@ HTTP remoting for LiveOntology with policy-aware describe/load/apply and structu
 - 0.8.5
 - 0.8.6
 - 0.8.7
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

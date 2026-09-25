@@ -16,9 +16,11 @@ A Progressive React Framework for modern web development.
 
 - 当前版本：3.7.70
 
+- 0.0.0-nightly-20260203160345
+- 3.7.66
+- 3.7.67
 - 3.7.68
 - 3.7.69
-- 3.7.7
 - 3.7.70
 - 3.7.71
 - 3.7.72
@@ -26,9 +28,7 @@ A Progressive React Framework for modern web development.
 - 3.7.74
 - 3.7.75
 - 3.7.76
-- 3.7.8
-- 3.7.9
-- 共 4157 个版本，完整清单见 npm registry。
+- 共 4,157 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ Vanilla CSS, HTML, and JavaScript implementations of the Norton Design System.
 - 2.0.0
 - 2.1.0
 - 2.1.4
-- 共 36 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

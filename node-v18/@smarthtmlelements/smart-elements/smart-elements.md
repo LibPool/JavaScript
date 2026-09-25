@@ -28,7 +28,6 @@ Web Components &amp; Custom Elements for Professional Web Applications
 - 6.0.0
 - 6.1.0
 - 6.2.0
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

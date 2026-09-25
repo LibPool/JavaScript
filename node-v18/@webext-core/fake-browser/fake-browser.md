@@ -28,7 +28,6 @@ An in-memory implementation of web extension APIs for testing. Supports all test
 - 1.5.2
 - 2.0.0
 - 2.0.1
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

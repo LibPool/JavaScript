@@ -16,18 +16,18 @@ a component which takes an HTML ast and renders the platform specific markup
 
 - 当前版本：3.9.62
 
+- 3.9.56
+- 3.9.57
+- 3.9.57-eff91da4307ed92971b58a4f531a522511c2acca.28
+- 3.9.58
 - 3.9.59
 - 3.9.59-7942c235538abf24afcc5a68e018e0ec744ef6f5.6
-- 3.9.6
 - 3.9.60
 - 3.9.60-fb475f43567e1dc1d53f4526076f279e5f124f42.1
 - 3.9.61
 - 3.9.61-453e18f36afa1fbe0c554d86adf1e9b885c5f4da.1
 - 3.9.62
 - 3.9.62-00fa6a5ea471af703525fbbfb2156e959ee02c97.25
-- 3.9.7
-- 3.9.8
-- 3.9.9
 - 共 743 个版本，完整清单见 npm registry。
 
 ## 获取地址

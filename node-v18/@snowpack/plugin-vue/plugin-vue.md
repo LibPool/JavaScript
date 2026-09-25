@@ -28,7 +28,6 @@ Use the [Vue 3 compiler](https://www.npmjs.com/package/@vue/compiler-sfc) to bui
 - 2.6.0
 - 2.6.1
 - 2.6.2
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ A ready-made npm package for a collection of css styles in the material design s
 - 3.0.0-20260608.b
 - 3.0.0-20260611.a
 - 3.0.0-20260611.b
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

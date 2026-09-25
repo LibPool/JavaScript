@@ -28,7 +28,6 @@ React input component for formatted number input with locale-specific.
 - 2.0.1
 - 2.0.2
 - 2.0.3
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ A node program that renders images for sigma.js
 - 4.0.0-alpha.1
 - 4.0.0-alpha.2
 - 4.0.0-alpha.3
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

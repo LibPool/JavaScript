@@ -28,7 +28,6 @@ Resources that facilitate sending HTTP requests.
 - 2.7.1-beta.2
 - 2.8.0
 - 2.8.0-0
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

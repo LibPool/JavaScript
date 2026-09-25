@@ -28,7 +28,6 @@ A set of reference stylesheets for EPUB Reading Systems
 - 2.0.3
 - 2.0.4
 - 2.0.5
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

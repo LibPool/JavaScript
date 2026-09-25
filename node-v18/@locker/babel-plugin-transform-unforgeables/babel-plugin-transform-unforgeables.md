@@ -28,7 +28,6 @@ Lightning Web Security Babel transformation for environment unforgeables
 - 0.19.9
 - 0.20.0
 - 0.22.0
-- 共 27 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

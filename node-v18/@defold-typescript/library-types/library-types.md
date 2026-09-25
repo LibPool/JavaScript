@@ -28,7 +28,6 @@ Vendored TypeScript types for popular Defold Lua libraries, core-type-renamed ag
 - 0.36.0
 - 0.37.0
 - 0.38.0
-- 共 46 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

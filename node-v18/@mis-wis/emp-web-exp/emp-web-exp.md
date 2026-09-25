@@ -15,18 +15,18 @@ This library was generated with [Angular CLI](https://github.com/angular/angular
 
 - 当前版本：0.19.30-hotfix-1
 
-- 0.9.11-hotfix-6
-- 0.9.11-hotfix-7
-- 0.9.11-test
-- 0.9.12
-- 0.9.2
-- 0.9.3
-- 0.9.4
-- 0.9.5
-- 0.9.6
-- 0.9.7
-- 0.9.8
-- 0.9.9
+- 0.19.3
+- 0.19.30
+- 0.19.30-hotfix
+- 0.19.30-hotfix-1
+- 0.19.4
+- 0.19.5
+- 0.19.6
+- 0.19.7
+- 0.19.8
+- 0.19.8-hotfix
+- 0.19.8-hotfix1
+- 0.19.9
 - 共 390 个版本，完整清单见 npm registry。
 
 ## 获取地址

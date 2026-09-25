@@ -15,10 +15,11 @@ Shared node type definitions, connection rules, and dispatch config for HostWebh
 
 - 当前版本：1.86.0
 
+- 1.76.0
+- 1.77.0
 - 1.78.0
 - 1.79.0
 - 1.79.1
-- 1.8.0
 - 1.80.0
 - 1.81.0
 - 1.82.0
@@ -26,7 +27,6 @@ Shared node type definitions, connection rules, and dispatch config for HostWebh
 - 1.84.0
 - 1.85.0
 - 1.86.0
-- 1.9.0
 - 共 144 个版本，完整清单见 npm registry。
 
 ## 获取地址

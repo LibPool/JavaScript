@@ -28,7 +28,6 @@ A Vue plugin to make your images responsive
 - 1.1.0
 - 1.1.1
 - 1.1.2
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

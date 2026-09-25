@@ -28,7 +28,6 @@ A native C++ Node module for querying and subscribing to filesystem events. Used
 - 2.5.4
 - 2.5.6
 - 2.6.0
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

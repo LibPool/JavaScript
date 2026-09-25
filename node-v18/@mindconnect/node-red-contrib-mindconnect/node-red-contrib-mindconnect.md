@@ -28,7 +28,6 @@ Node-RED MindConnect node for Siemens Insights Hub using the mindconnect-nodejs 
 - 3.9.2
 - 3.9.2-0
 - 4.0.0
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

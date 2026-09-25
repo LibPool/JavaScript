@@ -28,7 +28,6 @@ SmartSpectra native runtime for win32-x64 — binary payload for @smartspectra/n
 - 3.4.0-rc.4
 - 3.4.0-rc.5
 - 3.4.0-rc.6
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

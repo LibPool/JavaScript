@@ -28,7 +28,6 @@ PrimeIcons for React - 300+ customizable SVG icons as React components
 - 8.0.0-rc.2
 - 8.0.0-rc.3
 - 8.0.1
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

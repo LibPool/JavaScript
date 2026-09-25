@@ -27,7 +27,6 @@ addfox plugin: enable Vue 3 (SFC, JSX via @rsbuild/plugin-vue-jsx) for the proje
 - 0.2.4
 - 0.2.5
 - 0.2.6
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

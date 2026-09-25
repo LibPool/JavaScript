@@ -28,7 +28,6 @@ useWorker() - Web worker using React hook
 - 4.1.0
 - 4.1.1
 - 4.1.2
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

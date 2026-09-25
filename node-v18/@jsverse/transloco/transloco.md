@@ -28,7 +28,6 @@ The internationalization (i18n) library for Angular
 - 9.0.0-alpha.0
 - 9.0.0-alpha.1
 - 9.0.0-alpha.2
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

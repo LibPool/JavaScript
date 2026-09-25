@@ -28,7 +28,6 @@ Modern, fetch-compatible web request library with intelligent HTTP caching, retr
 - 4.2.0
 - 4.3.0
 - 4.3.1
-- 共 15 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

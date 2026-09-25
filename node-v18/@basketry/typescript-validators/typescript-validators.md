@@ -28,7 +28,6 @@ Basketry generator for generating method validators for Typescript applications
 - 0.1.2
 - 0.1.2-alpha.0
 - 0.1.3
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

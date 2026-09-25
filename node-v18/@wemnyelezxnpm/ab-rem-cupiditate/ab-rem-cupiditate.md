@@ -1,0 +1,24 @@
+# @wemnyelezxnpm/ab-rem-cupiditate
+
+> 标签: $.extend, 0, 3d, @@toStringTag, Array.prototype.contains, Array.prototype.findLastIndex, Array.prototype.flat, Array.prototype.flatMap, ArrayBuffer#slice, ArrayBuffer.prototype.slice, BigInt64Array, BigUint64Array, CSS, ECMAScript 2015, ECMAScript 2017, ECMAScript 2018, ECMAScript 2019, ECMAScript 2021, ECMAScript 2022, ECMAScript 5, ECMAScript 7, ES, ES2015, ES2016, ES2018, ES2019, ES2020, ES2022, ES3, ES6, ES7, ES8, ESnext, Float32Array, Int32Array, Int8Array, Microsoft, Object.assign, Object.defineProperty, Object.getPrototypeOf, Object.is, Object.keys, Object.values, Observables, Promise, Push, RegExp#flags, RegExp.prototype.flags, Set, Stream, Streams, StyleSheet, Symbol, Symbol.toStringTag, TypeScript, TypedArray, URL, Uint16Array, Uint32Array, WeakMap, WeakSet, WebSockets, [[Prototype]], a11y, accessor, airbnb, animation, api, argparse, args, arguments, array, arraybuffer, asserts, assign, async, auth, autoprefixer, babel-core, bcrypt, bind, bootstrap css, bootstrap less, browser, buffer, buffers, bundling, busy, byte, byteLength, cache, call, call-bound, callbind, callbound, chai, channel, character, characters, check, cjk, class-validator, classes, classname, classnames, code points, codes, coercible, collection, collection.es6, color, command-line, commander, compare, compile less, compiler, concat, config, configurable, console, const, contains, core, core-js, cors, crypto, css, css less, css nesting, curried, data, dataView, date, dayjs, debug, debugger, deep-clone, deepclone, deepcopy, default, delete, dependencies, description, descriptors, dom-testing-library, duplex, east-asian-width, efficient, electron, emit, emoji, encryption, ender, env, environment, equal, equality, es-shim API, es-shims, es2015, es2016, es2017, es6, es7, eslintconfig, eslintplugin, estree, eventDispatcher, eventEmitter, exe, executable, exit, express, expression, extend, fast, fast-clone, fast-copy, fast-deep-clone, fastcopy, fetch, figlet, file, filter, findLast, findLastIndex, findup, fixed-width, flat, flatMap, flatten, forEach, form, form-validation, format, formatting, forms, fp, framework, fs, full, full-width, fullwidth, functional, functions, gdpr, gestures, get, getopt, glob, gradients css, gradients css3, graphql, groupBy, handlers, has, higher-order, id, idle, ie, immer, import, indicator, inference, input, internal, interrupts, intrinsic, io-ts, isConcatSpreadable, iterate, iteration, japanese, joi, js, jsdiff, jsdom, json-schema-validation, jsx, language, last, launch, less, less mixins, less.js, lesscss, let, libphonenumber, limit, limited, lint, loading, lockfile, log, logger, logging, lru, macos, make dir, map, match, matchAll, matches, middleware, mime-db, mimetypes, module, modules, moment, monorepo, move, mru, multi-package, name, names, native, nested css, npm, object, omit, once, open, opener, optimist, option, package, parents, parser, path, performance, performant, phone, plugin, pnpm9, point-free, popmotion, positive, postcss, prefix, preprocessor, preserve-symlinks, private, private data, progress, promises, prop, proto, protocol-buffers, prune, pure, push, pyyaml, qs, querystring, queueMicrotask, quote, ramda, rate, ratelimit, react, react pose, readablestream, real-time, recursive, redact, reduce, redux-toolkit, regex, regular expression, remove, request, rgb, rm, rm -fr, rm -rf, rmdir, robust, safe, sanitize, scheme, search, sequence, serialization, serializer, set, setImmediate, shared, sharedarraybuffer, shell, shim, side, signal, signals, some, spawn, spec, speed, spinner, spinners, start, stateless, streams, streams2, stringify, structuredClone, styled-components, symbol, symbols, symlinks, syntax, tacit, take, tap, tc39, telephone, testing, three, throat, throttle, time, toStringTag, toobject, toolkit, tostringtag, transpiler, trimLeft, trimStart, ts, tty, typed array, typedarray, typedarrays, typeerror, typesafe, unicode, uninstall, url, urls, user-streams, util.inspect, utilities, utility, utils, uuid, valid, validate, validator, value, values, var, variables, vest, view, walk, walking, warning, watch, watchFile, watcher, watching, weakmap, weakset, web, website, wget, which, width, windows, wordbreak, workspace:*, wrap, writable, xdg, xhr, xss, xterm, yup, zero, zod
+
+## 简介
+
+Mask sensitive data eg. write debugging data to log files, etc. Supports the below-mentioned items:
+
+## 官网
+
+- 官网：https://github.com/wemnyelezxnpm/ab-rem-cupiditate/#readme
+- 源码仓库：git+https://github.com/wemnyelezxnpm/ab-rem-cupiditate.git
+- npm 页面：https://www.npmjs.com/package/@wemnyelezxnpm/ab-rem-cupiditate
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @wemnyelezxnpm/ab-rem-cupiditate`
+- npm registry：https://registry.npmjs.org/@wemnyelezxnpm/ab-rem-cupiditate

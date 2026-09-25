@@ -28,7 +28,6 @@ TypeScript definitions for ali-oss
 - 6.23.1
 - 6.23.2
 - 6.23.3
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for facebook-pixel
 - 0.0.31
 - 0.0.4-alpha
 - 0.0.5-alpha
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

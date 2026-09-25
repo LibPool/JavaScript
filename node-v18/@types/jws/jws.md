@@ -28,7 +28,6 @@ TypeScript definitions for jws
 - 3.2.7
 - 3.2.8
 - 3.2.9
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

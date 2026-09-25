@@ -28,7 +28,6 @@ Plugin for generating TypeScript types of contracts.
 - 1.1.0-alpha.7
 - 1.1.1
 - 1.1.3
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

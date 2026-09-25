@@ -28,7 +28,6 @@ Oxc Resolver Node API
 - 11.8.3
 - 11.8.4
 - 11.9.0
-- 共 38 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

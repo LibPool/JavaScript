@@ -28,7 +28,6 @@ TypeScript definitions for lodash.map
 - 4.6.7
 - 4.6.8
 - 4.6.9
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -16,6 +16,7 @@ Custom error that makes use of HTTP error codes to identify different error type
 
 - 当前版本：3005.464.1
 
+- 3005.44.0
 - 3005.450.0
 - 3005.464.1
 - 3005.76.0
@@ -27,7 +28,6 @@ Custom error that makes use of HTTP error codes to identify different error type
 - 3005.86.2
 - 3005.86.6
 - 3005.90.3
-- 4.0.0
 - 共 437 个版本，完整清单见 npm registry。
 
 ## 获取地址

@@ -28,7 +28,6 @@ TypeScript definitions for falcor-http-datasource
 - 0.1.3-alpha
 - 0.1.8-alpha
 - 0.1.9-alpha
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

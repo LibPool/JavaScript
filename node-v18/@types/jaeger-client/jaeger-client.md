@@ -28,7 +28,6 @@ TypeScript definitions for jaeger-client
 - 3.18.5
 - 3.18.6
 - 3.18.7
-- 共 13 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

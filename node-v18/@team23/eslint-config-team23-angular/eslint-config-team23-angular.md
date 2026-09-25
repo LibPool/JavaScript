@@ -28,7 +28,6 @@ A set of eslint rules used by TEAM23 for angular projects
 - 22.0.3
 - 22.0.4
 - 22.1.0
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

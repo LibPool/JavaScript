@@ -28,7 +28,6 @@ Lightweight alternative to Storybook for HTML, React, Preact, Svelte, Vue, and S
 - 1.5.2
 - 1.5.3
 - 1.5.4
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

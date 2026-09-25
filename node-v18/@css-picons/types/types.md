@@ -27,7 +27,6 @@ Pure CSS icons for css panda
 - 0.0.3
 - 0.0.4
 - 0.0.5
-- 共 25 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

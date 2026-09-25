@@ -28,7 +28,6 @@ Native Styles und Komponenten-Bibliothek für das KERN-UX Design System. Beinhal
 - 2.7.2
 - 2.8.0
 - 2.8.1
-- 共 31 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

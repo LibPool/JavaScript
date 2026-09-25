@@ -28,7 +28,6 @@ Forty SVG charts for Vue 3, from bar and line to sankey, radial bar and chorople
 - 0.43.1
 - 0.44.0
 - 0.45.0
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

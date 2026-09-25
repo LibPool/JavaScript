@@ -28,7 +28,6 @@ Correctly declare progressive enhancements for CSS Custom Properties.
 - 5.1.1
 - 5.1.2
 - 5.1.3
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

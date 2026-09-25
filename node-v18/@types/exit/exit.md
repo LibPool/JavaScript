@@ -28,7 +28,6 @@ TypeScript definitions for exit
 - 0.1.31
 - 0.1.32
 - 0.1.33
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

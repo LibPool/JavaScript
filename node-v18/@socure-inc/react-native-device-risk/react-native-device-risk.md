@@ -28,7 +28,6 @@ React bridge to enable iOS and Android Device Risk SDKs to be used by React Nati
 - 4.8.1
 - 4.9.0
 - 4.9.1
-- 共 28 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

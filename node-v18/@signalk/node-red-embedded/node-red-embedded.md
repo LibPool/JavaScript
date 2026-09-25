@@ -28,7 +28,6 @@ Node red nodes for use with the signalk-node-red plugin
 - 2.8.0
 - 2.8.1
 - 2.9.0
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

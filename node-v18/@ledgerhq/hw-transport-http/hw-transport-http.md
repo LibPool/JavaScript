@@ -16,6 +16,10 @@ Ledger Hardware Wallet communication layer over http
 
 - 当前版本：6.36.5
 
+- 6.36.6-nightly.20260703030620
+- 6.36.6-nightly.20260704030539
+- 6.36.6-nightly.20260706080103
+- 6.36.6-nightly.20260706100408
 - 6.36.6-nightly.20260706103435
 - 6.36.6-nightly.20260706132733
 - 6.36.6-nightly.20260706141300
@@ -24,10 +28,6 @@ Ledger Hardware Wallet communication layer over http
 - 6.36.6-nightly.20260706190747
 - 6.36.6-nightly.20260706195120
 - 6.36.6-nightly.20260707030641
-- 6.6.0
-- 6.7.0
-- 6.9.1-6.9.1-taproot.0.0
-- 6.9.1-taproot.0
 - 共 577 个版本，完整清单见 npm registry。
 
 ## 获取地址

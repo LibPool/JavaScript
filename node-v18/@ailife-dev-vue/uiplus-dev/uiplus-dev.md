@@ -27,7 +27,6 @@ UIPlus - A Vue 3 component library
 - 0.1.37
 - 0.1.38
 - 0.1.39
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

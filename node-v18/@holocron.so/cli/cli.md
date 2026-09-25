@@ -1,0 +1,35 @@
+# @holocron.so/cli
+
+> 标签: api-keys, cli, docs, documentation, holocron
+
+## 简介
+
+CLI for Holocron: manage API keys and authenticate with holocron.so
+
+## 官网
+
+- 官网：https://github.com/remorses/holocron
+- 源码仓库：git+https://github.com/remorses/holocron.git
+- npm 页面：https://www.npmjs.com/package/@holocron.so/cli
+
+## 历史版本号
+
+- 当前版本：0.22.5
+
+- 0.22.3
+- 0.22.4
+- 0.22.5
+- 0.3.0
+- 0.3.1
+- 0.3.2
+- 0.4.0
+- 0.5.0
+- 0.6.0
+- 0.7.0
+- 0.8.0
+- 0.9.0
+
+## 获取地址
+
+- npm 安装：`npm install @holocron.so/cli`
+- npm registry：https://registry.npmjs.org/@holocron.so/cli

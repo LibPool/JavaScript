@@ -28,7 +28,6 @@ TypeScript definitions for slate
 - 0.47.7
 - 0.47.8
 - 0.47.9
-- 共 48 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

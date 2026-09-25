@@ -28,7 +28,6 @@ A module for statically defining type-safe HTTP operations. These can be leverag
 - 0.8.0
 - 0.9.1
 - 0.9.3
-- 共 35 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

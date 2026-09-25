@@ -28,7 +28,6 @@ A high-performance, responsive image module and directive for Angular
 - 0.0.8
 - 0.0.9
 - 1.0.0
-- 共 40 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

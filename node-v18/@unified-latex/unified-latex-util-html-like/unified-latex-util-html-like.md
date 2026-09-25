@@ -28,7 +28,6 @@ Tools working with HTML-like nodes via unified-latex ASTs
 - 1.8.0
 - 1.8.3
 - 1.8.4
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

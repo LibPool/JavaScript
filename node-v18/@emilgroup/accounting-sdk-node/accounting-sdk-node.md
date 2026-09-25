@@ -15,18 +15,18 @@ OpenAPI client for @emilgroup/accounting-sdk-node
 
 - 当前版本：1.32.0
 
+- 1.32.1-beta.26
+- 1.32.1-beta.27
+- 1.32.1-beta.28
+- 1.32.1-beta.29
+- 1.32.1-beta.3
+- 1.32.1-beta.30
 - 1.32.1-beta.4
 - 1.32.1-beta.5
 - 1.32.1-beta.6
 - 1.32.1-beta.7
 - 1.32.1-beta.8
 - 1.32.1-beta.9
-- 1.4.0
-- 1.5.0
-- 1.6.0
-- 1.7.0
-- 1.8.0
-- 1.9.0
 - 共 127 个版本，完整清单见 npm registry。
 
 ## 获取地址

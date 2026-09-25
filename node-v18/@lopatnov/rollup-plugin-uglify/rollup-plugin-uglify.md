@@ -28,7 +28,6 @@ A Rollup plugin for minifying JavaScript bundles using Terser
 - 4.2.0
 - 4.3.0
 - 5.0.0
-- 共 24 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

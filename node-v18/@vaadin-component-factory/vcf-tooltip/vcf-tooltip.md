@@ -28,7 +28,6 @@ Web Component providing an easy way to display tooltips for any html element.
 - 23.0.3
 - 23.0.4
 - 23.0.5
-- 共 22 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

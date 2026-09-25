@@ -16,13 +16,13 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 - 当前版本：0.4.0
 
-- 0.4.2-beta.91
-- 0.4.2-beta.92
-- 0.4.2-beta.93
-- 0.4.2-beta.94
-- 0.4.2-beta.95
-- 0.4.2-beta.96
-- 0.4.2-beta.99
+- 0.4.2-beta.197
+- 0.4.2-beta.198
+- 0.4.2-beta.199
+- 0.4.2-beta.200
+- 0.4.2-beta.201
+- 0.4.2-beta.202
+- 0.4.2-beta.203
 - 0.5.0-ng15.1
 - 0.5.0-ng16.2
 - 0.5.0-ng16.3

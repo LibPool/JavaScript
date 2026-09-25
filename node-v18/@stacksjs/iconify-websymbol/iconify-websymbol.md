@@ -28,7 +28,6 @@ Web Symbols Liga icons for stx from Iconify
 - 0.2.26
 - 0.2.27
 - 0.2.35
-- 共 50 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

@@ -28,7 +28,6 @@ TypeScript definitions for node-getopt
 - 0.2.33
 - 0.2.34
 - 0.2.35
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

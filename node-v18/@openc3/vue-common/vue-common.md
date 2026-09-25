@@ -28,7 +28,6 @@ Vue component library for COSMOS tool development
 - 7.2.1
 - 7.3.0
 - 7.4.0
-- 共 37 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

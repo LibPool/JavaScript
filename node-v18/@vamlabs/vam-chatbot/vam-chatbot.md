@@ -16,6 +16,7 @@ VAM Chatbot Web Component
 
 - 当前版本：0.1.82
 
+- 0.1.81-dev.185.1
 - 0.1.82
 - 0.1.82-dev.186.1
 - 0.1.82-dev.187.1
@@ -27,7 +28,6 @@ VAM Chatbot Web Component
 - 0.1.82-dev.193.1
 - 0.1.82-dev.194.1
 - 0.1.82-dev.195.1
-- 0.1.9
 - 共 100 个版本，完整清单见 npm registry。
 
 ## 获取地址

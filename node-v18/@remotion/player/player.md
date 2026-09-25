@@ -16,19 +16,19 @@ React component for embedding a Remotion preview into your app
 
 - 当前版本：4.0.527
 
-- 4.0.98
-- 4.1.0-alpha1
-- 4.1.0-alpha10
-- 4.1.0-alpha11
-- 4.1.0-alpha12
-- 4.1.0-alpha2
-- 4.1.0-alpha3
-- 4.1.0-alpha4
-- 4.1.0-alpha5
-- 4.1.0-alpha7
-- 4.1.0-alpha8
-- 4.1.0-alpha9
-- 共 1074 个版本，完整清单见 npm registry。
+- 4.0.516
+- 4.0.517
+- 4.0.518
+- 4.0.519
+- 4.0.520
+- 4.0.521
+- 4.0.522
+- 4.0.523
+- 4.0.524
+- 4.0.525
+- 4.0.526
+- 4.0.527
+- 共 1,074 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

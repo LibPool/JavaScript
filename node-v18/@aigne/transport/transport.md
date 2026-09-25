@@ -16,14 +16,14 @@ AIGNE Transport SDK providing HTTP client and server implementations for communi
 
 - 当前版本：0.15.25
 
-- 0.7.4
-- 0.9.0
-- 0.9.1
-- 0.9.2
-- 0.9.3
-- 0.9.4
-- 0.9.5
-- 0.9.6
+- 0.15.25-beta.3
+- 0.15.25-beta.4
+- 0.15.25-beta.5
+- 0.15.25-beta.6
+- 0.15.25-beta.7
+- 0.15.25-beta.8
+- 0.15.25-beta.9
+- 0.15.26-beta
 - 1.74.0-beta
 - 1.74.0-beta.1
 - 1.74.0-beta.2

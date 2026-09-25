@@ -28,7 +28,6 @@ Angular JSON Schema Form builder using Angular Material UI
 - 17.2.4
 - 17.2.5-alpha.0
 - 17.2.5-alpha.2
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

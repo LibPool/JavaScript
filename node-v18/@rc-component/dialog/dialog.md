@@ -28,7 +28,6 @@ dialog ui component for react
 - 1.8.3
 - 1.8.4
 - 1.9.0
-- 共 19 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

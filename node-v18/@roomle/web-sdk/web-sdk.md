@@ -28,7 +28,7 @@ Roomle Web SDK
 - 5.0.0-alpha.5
 - 5.1.0-alpha.1
 - 5.1.0-alpha.2
-- 共 1017 个版本，完整清单见 npm registry。
+- 共 1,017 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

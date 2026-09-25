@@ -15,6 +15,7 @@ TagSpaces common node module
 
 - 当前版本：4.8.9
 
+- 4.5.99
 - 4.6.0
 - 4.6.1
 - 4.7.0
@@ -26,7 +27,6 @@ TagSpaces common node module
 - 4.8.7
 - 4.8.8
 - 4.8.9
-- 5.0.0
 - 共 221 个版本，完整清单见 npm registry。
 
 ## 获取地址

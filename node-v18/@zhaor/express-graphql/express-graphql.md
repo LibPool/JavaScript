@@ -16,6 +16,11 @@ Production ready GraphQL HTTP middleware.
 
 - 当前版本：0.12.7
 
+- 0.11.6
+- 0.11.7
+- 0.11.8
+- 0.11.9
+- 0.12.0
 - 0.12.1
 - 0.12.2
 - 0.12.3
@@ -23,11 +28,6 @@ Production ready GraphQL HTTP middleware.
 - 0.12.5
 - 0.12.6
 - 0.12.7
-- 0.9.3
-- 0.9.5
-- 0.9.6
-- 0.9.8
-- 0.9.9
 - 共 59 个版本，完整清单见 npm registry。
 
 ## 获取地址

@@ -28,7 +28,6 @@ AST printer infrastructure and lossless reconstruction tool for HTML+ERB templat
 - 0.9.5
 - 0.9.6
 - 0.9.7
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

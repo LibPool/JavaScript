@@ -28,7 +28,6 @@ Utilities for type-safe Web Worker communication with RPC.
 - 1.8.1
 - 1.8.2-next.v.202606191442.0
 - 1.9.0
-- 共 32 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

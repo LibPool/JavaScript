@@ -16,6 +16,7 @@ HTML Canvas2D bridge API for hybrid TypeScript & WASM (Zig) applications
 
 - 当前版本：1.0.92
 
+- 1.0.79
 - 1.0.80
 - 1.0.82
 - 1.0.83
@@ -24,7 +25,6 @@ HTML Canvas2D bridge API for hybrid TypeScript & WASM (Zig) applications
 - 1.0.87
 - 1.0.88
 - 1.0.89
-- 1.0.9
 - 1.0.90
 - 1.0.91
 - 1.0.92

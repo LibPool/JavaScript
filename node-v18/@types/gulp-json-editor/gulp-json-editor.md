@@ -28,7 +28,6 @@ TypeScript definitions for gulp-json-editor
 - 2.2.34
 - 2.2.35
 - 2.2.36
-- 共 18 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

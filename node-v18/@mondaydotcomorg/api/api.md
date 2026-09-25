@@ -28,7 +28,6 @@ monday.com API client
 - 8.0.2
 - 9.0.0
 - 9.0.1
-- 共 44 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

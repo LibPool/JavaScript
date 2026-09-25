@@ -28,7 +28,6 @@ TypeScript definitions for path-parse
 - 1.0.22
 - 1.0.5-alpha
 - 1.0.6-alpha
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

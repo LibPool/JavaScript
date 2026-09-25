@@ -16,11 +16,11 @@ A package containing HTTP Cookie utilities used by Storm Software.
 
 - 当前版本：0.1.106
 
+- 0.1.85
 - 0.1.86
 - 0.1.87
 - 0.1.88
 - 0.1.89
-- 0.1.9
 - 0.1.90
 - 0.1.91
 - 0.1.92

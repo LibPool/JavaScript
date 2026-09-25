@@ -1,0 +1,34 @@
+# @mts-beecoded/scenemanager
+
+> 标签: babylonjs, scenemanager
+
+## 简介
+
+Basic scene manager wrapper framework for babylon games similar to the Phaser scene manager
+
+## 官网
+
+- 源码仓库：https://git.m75.ro/beecoded/games/beecoded_scenemanager-module_babylon
+- npm 页面：https://www.npmjs.com/package/@mts-beecoded/scenemanager
+
+## 历史版本号
+
+- 当前版本：1.3.1
+
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.2.0
+- 1.3.0
+- 1.3.1
+
+## 获取地址
+
+- npm 安装：`npm install @mts-beecoded/scenemanager`
+- npm registry：https://registry.npmjs.org/@mts-beecoded/scenemanager

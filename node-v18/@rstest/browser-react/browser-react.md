@@ -28,7 +28,6 @@ React component testing support for Rstest browser mode
 - 0.9.7
 - 0.9.8
 - 0.9.9
-- 共 39 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

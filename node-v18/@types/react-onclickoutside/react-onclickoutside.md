@@ -28,7 +28,6 @@ TypeScript definitions for react-onclickoutside
 - 6.7.7
 - 6.7.8
 - 6.7.9
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

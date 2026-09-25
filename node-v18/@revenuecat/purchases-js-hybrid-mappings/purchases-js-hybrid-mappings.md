@@ -16,8 +16,8 @@ RevenueCat's JavaScript hybrid mappings for purchases-js
 
 - 当前版本：19.3.1
 
-- 18.7.0
-- 18.7.1
+- 18.37.0
+- 18.38.0
 - 18.8.0
 - 18.8.1
 - 18.9.0

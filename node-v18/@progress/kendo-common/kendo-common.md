@@ -28,7 +28,6 @@ Kendo UI TypeScript package for common functions
 - 1.1.0-develop.3
 - 1.1.1
 - 1.1.1-develop.1
-- 共 29 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

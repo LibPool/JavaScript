@@ -28,7 +28,6 @@ TypeScript definitions for gulp-sort
 - 2.0.2
 - 2.0.3
 - 2.0.4
-- 共 20 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

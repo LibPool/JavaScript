@@ -28,7 +28,6 @@ JavaScript SDK to interact with Sigma Computing's Embed API
 - 0.6.0
 - 0.7.0
 - 0.7.1
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

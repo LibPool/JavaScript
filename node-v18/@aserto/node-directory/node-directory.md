@@ -27,7 +27,6 @@ Node gRPC bindings for the Aserto directory service
 - 0.32.0
 - 0.33.0
 - 0.33.1
-- 共 16 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

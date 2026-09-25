@@ -1,0 +1,28 @@
+# @tbnritzdoge/tags
+
+> 标签: JavaScript
+
+## 简介
+
+A minimal tags parser based on soumil07/bread-tags with more endpoints and added functionality.
+
+## 官网
+
+- 官网：https://github.com/TBNRItzDogeORG/tags#readme
+- 源码仓库：git+https://github.com/TBNRItzDogeORG/tags.git
+- npm 页面：https://www.npmjs.com/package/@tbnritzdoge/tags
+
+## 历史版本号
+
+- 当前版本：2.3.2
+
+- 2.1.4
+- 2.2.1
+- 2.3.0
+- 2.3.1
+- 2.3.2
+
+## 获取地址
+
+- npm 安装：`npm install @tbnritzdoge/tags`
+- npm registry：https://registry.npmjs.org/@tbnritzdoge/tags

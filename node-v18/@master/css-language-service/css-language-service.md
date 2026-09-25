@@ -15,8 +15,9 @@ Master CSS Language Service
 
 - 当前版本：2.0.0-beta.141
 
+- 2.0.0-rc.77
+- 2.0.0-rc.78
 - 2.0.0-rc.79
-- 2.0.0-rc.8
 - 2.0.0-rc.80
 - 2.0.0-rc.81
 - 2.0.0-rc.82
@@ -26,7 +27,6 @@ Master CSS Language Service
 - 2.0.0-rc.86
 - 2.0.0-rc.87
 - 2.0.0-rc.88
-- 2.0.0-rc.9
 - 共 161 个版本，完整清单见 npm registry。
 
 ## 获取地址

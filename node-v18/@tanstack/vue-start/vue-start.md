@@ -16,9 +16,9 @@ Modern and scalable routing for Vue applications
 
 - 当前版本：1.168.54
 
+- 1.168.47
 - 1.168.48
 - 1.168.49
-- 1.168.5
 - 1.168.50
 - 1.168.51
 - 1.168.52

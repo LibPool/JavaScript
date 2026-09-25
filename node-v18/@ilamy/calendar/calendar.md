@@ -28,7 +28,6 @@ A full-featured React calendar component library built with Shadcn-Ui, Tailwind 
 - 2.0.3
 - 3.0.0
 - 3.0.1
-- 共 47 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

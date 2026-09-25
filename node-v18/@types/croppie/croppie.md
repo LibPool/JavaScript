@@ -28,7 +28,6 @@ TypeScript definitions for croppie
 - 2.6.2
 - 2.6.3
 - 2.6.4
-- 共 14 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

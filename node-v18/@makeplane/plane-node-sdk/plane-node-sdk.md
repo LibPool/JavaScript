@@ -28,7 +28,6 @@ Node SDK for Plane
 - 0.2.9
 - 0.3.0
 - 0.3.1
-- 共 23 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

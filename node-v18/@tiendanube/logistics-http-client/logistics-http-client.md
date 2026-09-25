@@ -28,7 +28,6 @@ Package responsible for executing http requests
 - 5.0.0-rc.3
 - 5.0.0-rc.6
 - 5.0.0-rc.7
-- 共 30 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

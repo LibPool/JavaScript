@@ -28,7 +28,6 @@ TypeScript definitions for diff-match-patch
 - 1.0.34
 - 1.0.35
 - 1.0.36
-- 共 17 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

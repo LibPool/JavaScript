@@ -1,0 +1,25 @@
+# @tseisel/jest-mongodb
+
+> 标签: jest, jest environment, jest preset, mongodb
+
+## 简介
+
+Efficiently use a MongoDB database in your Jest tests
+
+## 官网
+
+- 官网：https://github.com/thibseisel/jest-mongodb#readme
+- 源码仓库：git+https://github.com/thibseisel/jest-mongodb.git
+- npm 页面：https://www.npmjs.com/package/@tseisel/jest-mongodb
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @tseisel/jest-mongodb`
+- npm registry：https://registry.npmjs.org/@tseisel/jest-mongodb
+- Node 要求：>=16

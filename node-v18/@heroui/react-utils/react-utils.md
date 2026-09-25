@@ -16,13 +16,13 @@ A set of utilities for react on client side
 
 - 当前版本：2.1.14
 
+- 2.1.12-beta.1
+- 2.1.12-beta.2
 - 2.1.12-beta.3
 - 2.1.12-beta.4
 - 2.1.12-beta.5
 - 2.1.13
 - 2.1.14
-- 2.1.3
-- 2.1.4
 - 2.1.5
 - 2.1.7
 - 2.1.8

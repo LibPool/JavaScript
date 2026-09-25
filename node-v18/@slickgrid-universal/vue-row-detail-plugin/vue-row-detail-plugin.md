@@ -28,7 +28,6 @@ Vue Row Detail Plugin for SlickGrid-Vue
 - 10.8.2
 - 10.8.3
 - 10.9.0
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

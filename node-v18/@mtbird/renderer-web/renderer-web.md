@@ -15,8 +15,9 @@ Web renderer for mtbird
 
 - 当前版本：0.0.3
 
+- 0.0.3-beta.57
+- 0.0.3-beta.58
 - 0.0.3-beta.59
-- 0.0.3-beta.6
 - 0.0.3-beta.60
 - 0.0.3-beta.61
 - 0.0.3-beta.62
@@ -24,7 +25,6 @@ Web renderer for mtbird
 - 0.0.3-beta.64
 - 0.0.3-beta.66
 - 0.0.3-beta.67
-- 0.0.3-beta.7
 - 0.0.3-beta.9
 - 0.0.4-beta.0
 - 共 90 个版本，完整清单见 npm registry。

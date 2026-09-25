@@ -28,7 +28,6 @@ TypeScript definitions for modernizr
 - 3.5.4
 - 3.5.5
 - 3.5.6
-- 共 21 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

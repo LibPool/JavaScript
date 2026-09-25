@@ -28,7 +28,6 @@ Webpack plugin to support css for Size Limit
 - 8.2.5
 - 8.2.6
 - 9.0.0
-- 共 46 个版本，完整清单见 npm registry。
 
 ## 获取地址
 

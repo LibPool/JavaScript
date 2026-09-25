@@ -1,0 +1,35 @@
+# @usecontextlayer/trove
+
+> 标签: agents, ai, cloudflare, publishing, static-site, trove
+
+## 简介
+
+Publish and remix troves — folders of static files served at a URL any agent can fetch, verify, and remix.
+
+## 官网
+
+- 官网：https://trove.usecontextlayer.com
+- 源码仓库：git+https://github.com/usecontextlayer/trove.git
+- npm 页面：https://www.npmjs.com/package/@usecontextlayer/trove
+
+## 历史版本号
+
+- 当前版本：0.9.1
+
+- 0.1.0
+- 0.2.0
+- 0.3.0
+- 0.4.0
+- 0.5.0
+- 0.5.1
+- 0.6.0
+- 0.7.0
+- 0.8.0
+- 0.9.0
+- 0.9.1
+
+## 获取地址
+
+- npm 安装：`npm install @usecontextlayer/trove`
+- npm registry：https://registry.npmjs.org/@usecontextlayer/trove
+- Node 要求：>=24.0.0
