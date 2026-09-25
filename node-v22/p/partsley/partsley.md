@@ -1,0 +1,28 @@
+# partsley
+
+> 标签: html, parse, scrape, site, website
+
+## 简介
+
+Parsing language and engine for the web
+
+## 官网
+
+- 官网：https://github.com/tycho01/parsz#readme
+- 源码仓库：git://github.com/tycho01/parsz.git
+- npm 页面：https://www.npmjs.com/package/partsley
+
+## 历史版本号
+
+- 当前版本：3.0.1
+
+- 2.0.4
+- 2.0.5
+- 2.0.6
+- 3.0.0
+- 3.0.1
+
+## 获取地址
+
+- npm 安装：`npm install partsley`
+- npm registry：https://registry.npmjs.org/partsley

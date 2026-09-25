@@ -1,0 +1,23 @@
+# industry-ui-test
+
+> 标签: industry, 工业, 工业技术
+
+## 简介
+
+工业技术通用ui组件库
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/industry-ui-test
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install industry-ui-test`
+- npm registry：https://registry.npmjs.org/industry-ui-test

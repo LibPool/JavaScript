@@ -1,0 +1,29 @@
+# fancy-react-ui-lib2
+
+> 标签: JavaScript
+
+## 简介
+
+Congrats! You just saved yourself hours of work by bootstrapping this project with TSDX. Let’s get you oriented with what’s here and how to use it.
+
+## 官网
+
+- 官网：https://github.com/alpavlove/fancy-ui-reat-lib#readme
+- 源码仓库：git+https://github.com/alpavlove/fancy-ui-reat-lib.git
+- npm 页面：https://www.npmjs.com/package/fancy-react-ui-lib2
+
+## 历史版本号
+
+- 当前版本：1.0.6
+
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+
+## 获取地址
+
+- npm 安装：`npm install fancy-react-ui-lib2`
+- npm registry：https://registry.npmjs.org/fancy-react-ui-lib2
+- Node 要求：>=10

@@ -1,0 +1,25 @@
+# chilled
+
+> 标签: ES2015, ES6, boilerplace, javascript, node.js, server
+
+## 简介
+
+A minimal boilerplate for Node.js server applications
+
+## 官网
+
+- 官网：https://github.com/knanil/chilled#readme
+- 源码仓库：git+https://github.com/knanil/chilled.git
+- npm 页面：https://www.npmjs.com/package/chilled
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install chilled`
+- npm registry：https://registry.npmjs.org/chilled
+- Node 要求：>=4.0

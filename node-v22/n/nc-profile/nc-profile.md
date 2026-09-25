@@ -1,0 +1,24 @@
+# nc-profile
+
+> 标签: app, nostdav, nostr
+
+## 简介
+
+nostr-components-profile
+
+## 官网
+
+- 官网：https://github.com/nostr-components/profile#readme
+- 源码仓库：git+https://github.com/nostr-components/profile.git
+- npm 页面：https://www.npmjs.com/package/nc-profile
+
+## 历史版本号
+
+- 当前版本：0.0.8
+
+- 0.0.8
+
+## 获取地址
+
+- npm 安装：`npm install nc-profile`
+- npm registry：https://registry.npmjs.org/nc-profile

@@ -1,0 +1,26 @@
+# cordova-plugin-mdns-resolver
+
+> 标签: cordova, cordova-android, cordova-ios, ecosystem:cordova, mdns, network, plugin, resolver, zeroconf
+
+## 简介
+
+Cordova mDNS Resolver plugin
+
+## 官网
+
+- 官网：https://github.com/kllee0723/cordova-plugin-mdns-resolver
+- 源码仓库：git+https://github.com/kllee0723/cordova-plugin-mdns-resolver.git
+- npm 页面：https://www.npmjs.com/package/cordova-plugin-mdns-resolver
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.1
+- 0.0.2
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install cordova-plugin-mdns-resolver`
+- npm registry：https://registry.npmjs.org/cordova-plugin-mdns-resolver

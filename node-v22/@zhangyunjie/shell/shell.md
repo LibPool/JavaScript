@@ -1,0 +1,25 @@
+# @zhangyunjie/shell
+
+> 标签: bash, exec, shell, spawn
+
+## 简介
+
+Simple exec of shell commands
+
+## 官网
+
+- 官网：https://github.com/zhang-yun-jie/shell#readme
+- 源码仓库：git+https://github.com/zhang-yun-jie/shell.git
+- npm 页面：https://www.npmjs.com/package/@zhangyunjie/shell
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @zhangyunjie/shell`
+- npm registry：https://registry.npmjs.org/@zhangyunjie/shell
+- Node 要求：>=8.6.0

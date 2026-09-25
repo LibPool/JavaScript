@@ -1,0 +1,26 @@
+# @igbominadeveloper/mui-one-time-password-input
+
+> 标签: form, input, javascript, material, mui, otp, password, react, typescript
+
+## 简介
+
+A One-Time Password input designed for the React library MUI
+
+## 官网
+
+- 官网：https://viclafouch.github.io/mui-otp-input
+- 源码仓库：git+https://github.com/viclafouch/mui-otp-input.git
+- npm 页面：https://www.npmjs.com/package/@igbominadeveloper/mui-one-time-password-input
+
+## 历史版本号
+
+- 当前版本：2.0.4
+
+- 2.0.2
+- 2.0.3
+- 2.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @igbominadeveloper/mui-one-time-password-input`
+- npm registry：https://registry.npmjs.org/@igbominadeveloper/mui-one-time-password-input

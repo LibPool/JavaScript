@@ -1,0 +1,36 @@
+# @phylocanvas/phylocanvas.gl
+
+> 标签: biojs, canvas, newick, phylo, phylocanvas, phylogenetic, phylogeny, tree, webgl
+
+## 简介
+
+A WebGL-powered JavaScript library for interactive tree visualisation.
+
+## 官网
+
+- 官网：https://www.phylocanvas.gl/
+- 源码仓库：git+https://gitlab.com/cgps/phylocanvas/phylocanvas.gl.git
+- npm 页面：https://www.npmjs.com/package/@phylocanvas/phylocanvas.gl
+
+## 历史版本号
+
+- 当前版本：1.64.1
+
+- 1.54.0
+- 1.55.0
+- 1.56.0
+- 1.57.0
+- 1.58.0
+- 1.59.0
+- 1.60.0
+- 1.61.0
+- 1.62.0
+- 1.63.0
+- 1.64.0
+- 1.64.1
+- 共 71 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @phylocanvas/phylocanvas.gl`
+- npm registry：https://registry.npmjs.org/@phylocanvas/phylocanvas.gl

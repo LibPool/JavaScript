@@ -1,0 +1,30 @@
+# @nikero/updep
+
+> 标签: bun, cli, dependencies, npm, package-manager, pnpm, tui, update, yarn
+
+## 简介
+
+Interactive TUI for updating JavaScript dependencies
+
+## 官网
+
+- 官网：https://github.com/nikero41/updep#readme
+- 源码仓库：git+https://github.com/nikero41/updep.git
+- npm 页面：https://www.npmjs.com/package/@nikero/updep
+
+## 历史版本号
+
+- 当前版本：0.1.11
+
+- 0.1.0
+- 0.1.10
+- 0.1.11
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install @nikero/updep`
+- npm registry：https://registry.npmjs.org/@nikero/updep
+- Node 要求：>=18

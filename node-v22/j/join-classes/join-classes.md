@@ -1,0 +1,24 @@
+# join-classes
+
+> 标签: class, classes, css, join, list
+
+## 简介
+
+simple function for combining classes into a space delimited class list.
+
+## 官网
+
+- 官网：https://github.com/kristoferjoseph/join-classes#readme
+- 源码仓库：git+https://github.com/kristoferjoseph/join-classes.git
+- npm 页面：https://www.npmjs.com/package/join-classes
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install join-classes`
+- npm registry：https://registry.npmjs.org/join-classes

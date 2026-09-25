@@ -1,0 +1,25 @@
+# demo1-britishcycling
+
+> 标签: JavaScript
+
+## 简介
+
+This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/demo1-britishcycling
+
+## 历史版本号
+
+- 当前版本：0.0.5
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.5
+
+## 获取地址
+
+- npm 安装：`npm install demo1-britishcycling`
+- npm registry：https://registry.npmjs.org/demo1-britishcycling

@@ -1,0 +1,31 @@
+# applets-request-all
+
+> 标签: alipay, axios, mini, program, request, weapp, wechat
+
+## 简介
+
+mini program axios request wechat weapp alipay
+
+## 官网
+
+- 官网：https://github.com/bugszhou/applets-request-all#readme
+- 源码仓库：git+https://github.com/bugszhou/applets-request-all.git
+- npm 页面：https://www.npmjs.com/package/applets-request-all
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install applets-request-all`
+- npm registry：https://registry.npmjs.org/applets-request-all

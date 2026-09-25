@@ -1,0 +1,24 @@
+# font-cutter
+
+> 标签: font, reduce
+
+## 简介
+
+reduce ttf font
+
+## 官网
+
+- 官网：https://github.com/yeluoqiuzhi/font-cutter#readme
+- 源码仓库：git+https://github.com/yeluoqiuzhi/font-cutter.git
+- npm 页面：https://www.npmjs.com/package/font-cutter
+
+## 历史版本号
+
+- 当前版本：0.1.7
+
+- 0.1.7
+
+## 获取地址
+
+- npm 安装：`npm install font-cutter`
+- npm registry：https://registry.npmjs.org/font-cutter

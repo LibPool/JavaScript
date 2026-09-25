@@ -1,0 +1,32 @@
+# slush-gladius
+
+> 标签: ES.next, bleeding, browserify, build, codegen, compiler, cutting, desugaring, ecmascript, es5, es6, esnext, future, gulp, harmony, javascript, language, preprocessor, rewriting, slushgenerator, syntax, transform, transpiler
+
+## 简介
+
+Slush generator for bleeding edge weapo... ehr, applications!
+
+## 官网
+
+- 官网：https://github.com/Meesayen/slush-gladius
+- 源码仓库：git://github.com/Meesayen/slush-gladius.git
+- npm 页面：https://www.npmjs.com/package/slush-gladius
+
+## 历史版本号
+
+- 当前版本：1.3.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.1.0
+- 1.2.0
+- 1.3.0
+
+## 获取地址
+
+- npm 安装：`npm install slush-gladius`
+- npm registry：https://registry.npmjs.org/slush-gladius
+- Node 要求：>=0.10.0

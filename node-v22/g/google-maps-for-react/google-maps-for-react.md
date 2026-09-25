@@ -1,0 +1,28 @@
+# google-maps-for-react
+
+> 标签: component, custom, google, map, maps, react
+
+## 简介
+
+Highly customizable google maps component for React
+
+## 官网
+
+- 官网：https://github.com/CaribouBlue/google-maps-for-react#readme
+- 源码仓库：git+https://github.com/CaribouBlue/google-maps-for-react.git
+- npm 页面：https://www.npmjs.com/package/google-maps-for-react
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.1
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install google-maps-for-react`
+- npm registry：https://registry.npmjs.org/google-maps-for-react

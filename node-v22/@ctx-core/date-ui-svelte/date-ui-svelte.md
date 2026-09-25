@@ -1,0 +1,36 @@
+# @ctx-core/date-ui-svelte
+
+> 标签: ctx-core, date
+
+## 简介
+
+ctx-core date
+
+## 官网
+
+- 官网：https://github.com/ctx-core/date-ui-svelte#readme
+- 源码仓库：https://github.com/ctx-core/date-ui-svelte.git
+- npm 页面：https://www.npmjs.com/package/@ctx-core/date-ui-svelte
+
+## 历史版本号
+
+- 当前版本：1.2.215
+
+- 1.2.203
+- 1.2.205
+- 1.2.206
+- 1.2.207
+- 1.2.208
+- 1.2.209
+- 1.2.210
+- 1.2.211
+- 1.2.212
+- 1.2.213
+- 1.2.214
+- 1.2.215
+- 共 297 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @ctx-core/date-ui-svelte`
+- npm registry：https://registry.npmjs.org/@ctx-core/date-ui-svelte

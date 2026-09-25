@@ -1,0 +1,24 @@
+# react-my-test-component
+
+> 标签: react, react-component
+
+## 简介
+
+My Test Component
+
+## 官网
+
+- 官网：https://github.com/mnmanjunatha/react-my-test-component
+- 源码仓库：git+https://github.com/mnmanjunatha/react-my-test-component.git
+- npm 页面：https://www.npmjs.com/package/react-my-test-component
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install react-my-test-component`
+- npm registry：https://registry.npmjs.org/react-my-test-component

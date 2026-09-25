@@ -1,0 +1,33 @@
+# hubot-invite-slack
+
+> 标签: hubot, hubot-scripts, invite, slack
+
+## 简介
+
+A simple script for Hubot to send invitations and track inviters
+
+## 官网
+
+- 官网：https://github.com/impleri/hubot-invite-slack#readme
+- 源码仓库：git://github.com/impleri/hubot-invite-slack.git
+- npm 页面：https://www.npmjs.com/package/hubot-invite-slack
+
+## 历史版本号
+
+- 当前版本：0.1.10
+
+- 0.0.1
+- 0.1.10
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install hubot-invite-slack`
+- npm registry：https://registry.npmjs.org/hubot-invite-slack

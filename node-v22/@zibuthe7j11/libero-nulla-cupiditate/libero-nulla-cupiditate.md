@@ -1,0 +1,24 @@
+# @zibuthe7j11/libero-nulla-cupiditate
+
+> 标签: $.extend, .env, 0, 256, 3d, @@toStringTag, Array.prototype.contains, Array.prototype.filter, Array.prototype.findLast, Array.prototype.flatMap, Array.prototype.flatten, ArrayBuffer#slice, AsyncIterator, BigInt64Array, BigUint64Array, CSS, CSSStyleDeclaration, ECMAScript 2018, ECMAScript 2020, ECMAScript 2021, ECMAScript 3, ECMAScript 6, ES, ES2015, ES2017, ES2018, ES2019, ES2021, ES2022, ES2023, ES3, ES5, ES6, ES8, Float32Array, Int16Array, Int8Array, Iterator, JSON-Schema, Map, Microsoft, Object.entries, Observable, Observables, Promise, RFC-6455, ReactiveExtensions, Reflect.getPrototypeOf, RegExp#flags, RegExp.prototype.flags, Rx, RxJS, Set, Stream, String.prototype.matchAll, String.prototype.trim, Symbol.toStringTag, TypeBox, TypeScript, TypedArray, URLSearchParams, Uint16Array, Uint32Array, WeakMap, WeakSet, WebSocket, YAML, _.extend, __proto__, a11y, accessor, airbnb, ajax, ansi, api, apollo, argparse, args, argv, arktype, array, art, assertion, assign, authentication, autoprefixer, ava, await, awesomesauce, babel, babel-core, banner, batch, bcrypt, bdd, bootstrap css, bootstrap less, bound, browser, buffers, bundler, bundling, busy, byteLength, call, callback, callbound, censor, chai, character, characters, check, chinese, chromium, circular, cjk, class-validator, classes, classname, clone, collection, color, colors, command, commander, compare, compile less, computed-types, concat, concatMap, concurrency, console, consume, contains, core, core-js, crypto, css less, css nesting, css variable, curried, datastructure, dataview, date, debug, debugger, deep-clone, deep-copy, deepclone, define, defineProperty, delete, descriptors, deterministic, dir, directory, dom-testing-library, drag, duplex, efficient, emit, emoji, encryption, ender, enumerable, env, environment, equality, error, error-handling, es2016, es5, es6, es7, eslint, eslint-plugin, eslintconfig, eventDispatcher, eventEmitter, events, express, expression, extension, fast-clone, fast-copy, fast-deep-clone, fastclone, fastcopy, fastify, file system, find, find-up, findLastIndex, findup, flag, flags, flat, flatMap, flatten, forEach, form-validation, format, formatting, forms, fp, framer, from, full-width, fullwidth, function, functional, functions, gdpr, generics, gestures, getPrototypeOf, getintrinsic, getopt, gradients css3, graphql, handlers, harmony, hash, helpers, higher-order, hooks, https, i18n, idle, ie, immutable, import, includes, inference, input, internal slot, interrupts, invariant, io-ts, isConcatSpreadable, iterate, iterator, jQuery, japanese, jasmine, javascript, jest, jsdiff, jsdom, json, json-schema, jsonpath, jsonschema, key, keys, korean, l10n, language, lazy, less, less compiler, less mixins, less.js, let, libphonenumber, limit, limited, linewrap, link, loading, log, logger, look, lru, make dir, merge, mime, mime-db, minimal, mkdirp, mkdirs, mobile, mocha, modules, monorepo, mru, name, native, negative zero, node, nodejs, nope, npm, number, obj, object, omit, once, open, optimist, optimizer, option, output, package, package manager, packages, parents, parse, parser, performant, phone, picomatch, pipe, pnpm9, pose, positive, postcss-plugin, prefix, preprocessor, preserve-symlinks, pretty, private, process, progress, promise, protobuf, protocol-buffers, prototype, prune, pure, push, qs, querystring, queue, ramda, random, rangeerror, rate, react animation, react-hook-form, read, readablestream, reducer, regular expression, reuse, rfc4122, rm, robust, runtime, safe, sameValueZero, sanitization, sanitize, schema, scheme-validation, sequence, serialization, setImmediate, setPrototypeOf, settings, sham, sharedarraybuffer, shebang, shell, shim, shrinkwrap, side, sigint, signal, signals, sigterm, some, sort, speed, spinner, spinners, spring, stable, starter, status, stream, stringifier, structuredClone, styleguide, styles, stylesheet, symbol, symlink, symlinks, syntax, syntaxerror, take, tape, task, term, test, testing, text, three, toArray, toolkit, tools, touch, transpiler, trimLeft, trimRight, ts, tslib, tty, typed, typedarrays, typeof, types, typescript, unicode, up, url, util, util.inspect, utility, utils, uuid, valid, value, variables in css, waapi, walk, watcher, watching, weakmap, web, wget, which, width, windows, wordbreak, wordwrap, worker, workspace:*, write, xss, yaml, yup, zero
+
+## 简介
+
+ArrayBuffer.prototype.detached <sup>[![Version Badge][npm-version-svg]][package-url]</sup>
+
+## 官网
+
+- 官网：https://github.com/zibuthe7j11/libero-nulla-cupiditate/#readme
+- 源码仓库：git+https://github.com/zibuthe7j11/libero-nulla-cupiditate.git
+- npm 页面：https://www.npmjs.com/package/@zibuthe7j11/libero-nulla-cupiditate
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @zibuthe7j11/libero-nulla-cupiditate`
+- npm registry：https://registry.npmjs.org/@zibuthe7j11/libero-nulla-cupiditate

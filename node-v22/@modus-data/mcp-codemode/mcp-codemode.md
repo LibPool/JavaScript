@@ -1,0 +1,24 @@
+# @modus-data/mcp-codemode
+
+> 标签: agent, ai, code-execution, code-mode, llm, mcp, model-context-protocol, sandbox, tool-calling, typescript
+
+## 简介
+
+An agnostic implementation fit for sandbox environments for the MCP codemode concept
+
+## 官网
+
+- 官网：https://github.com/modus-data/mcp_codemode#readme
+- 源码仓库：git+https://github.com/modus-data/mcp_codemode.git
+- npm 页面：https://www.npmjs.com/package/@modus-data/mcp-codemode
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @modus-data/mcp-codemode`
+- npm registry：https://registry.npmjs.org/@modus-data/mcp-codemode

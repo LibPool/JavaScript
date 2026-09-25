@@ -1,0 +1,35 @@
+# lin-mind-mapping
+
+> 标签: mind
+
+## 简介
+
+mind plugins
+
+## 官网
+
+- 官网：https://github.com/luchenwei9266/lu-mind-mapping#readme
+- 源码仓库：git+https://github.com/luchenwei9266/lu-mind-mapping.git
+- npm 页面：https://www.npmjs.com/package/lin-mind-mapping
+
+## 历史版本号
+
+- 当前版本：1.3.4
+
+- 1.2.3
+- 1.2.4
+- 1.2.5
+- 1.2.6
+- 1.2.7
+- 1.2.8
+- 1.2.9
+- 1.3.0
+- 1.3.1
+- 1.3.2
+- 1.3.3
+- 1.3.4
+
+## 获取地址
+
+- npm 安装：`npm install lin-mind-mapping`
+- npm registry：https://registry.npmjs.org/lin-mind-mapping

@@ -1,0 +1,24 @@
+# yk-manifest-webpack-plugin
+
+> 标签: JavaScript
+
+## 简介
+
+webpack plugin for generating html5 manifest file.
+
+## 官网
+
+- 官网：https://github.com/ThinkingThigh/manifest-webpack-plugin#readme
+- 源码仓库：git+https://github.com/ThinkingThigh/manifest-webpack-plugin.git
+- npm 页面：https://www.npmjs.com/package/yk-manifest-webpack-plugin
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install yk-manifest-webpack-plugin`
+- npm registry：https://registry.npmjs.org/yk-manifest-webpack-plugin

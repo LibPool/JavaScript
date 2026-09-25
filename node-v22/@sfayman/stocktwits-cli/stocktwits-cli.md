@@ -1,0 +1,28 @@
+# @sfayman/stocktwits-cli
+
+> 标签: stocks, stocktwits, symbols
+
+## 简介
+
+Provides a social communications data by Stocktwits REST API
+
+## 官网
+
+- 官网：https://github.com/sergfa/stocktwits-cli
+- 源码仓库：git+https://github.com/sergfa/stocktwits-cli.git
+- npm 页面：https://www.npmjs.com/package/@sfayman/stocktwits-cli
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @sfayman/stocktwits-cli`
+- npm registry：https://registry.npmjs.org/@sfayman/stocktwits-cli
+- Node 要求：>=8.0.0

@@ -1,0 +1,23 @@
+# mysite
+
+> 标签: JavaScript
+
+## 简介
+
+mysite - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/mysite
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install mysite`
+- npm registry：https://registry.npmjs.org/mysite
+- Node 要求：>=0.10.0

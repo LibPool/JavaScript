@@ -1,0 +1,36 @@
+# @storyofams/next-api-decorators
+
+> 标签: decorators, next.js, typescript
+
+## 简介
+
+Collection of decorators to create typed Next.js API routes, with easy request validation and transformation.
+
+## 官网
+
+- 官网：https://github.com/storyofams/next-api-decorators#readme
+- 源码仓库：git+https://github.com/storyofams/next-api-decorators.git
+- npm 页面：https://www.npmjs.com/package/@storyofams/next-api-decorators
+
+## 历史版本号
+
+- 当前版本：1.8.2
+
+- 1.7.1-beta.1
+- 1.7.1-beta.2
+- 1.7.2
+- 1.7.2-beta.1
+- 1.7.2-beta.2
+- 1.7.3
+- 1.8.0
+- 1.8.0-beta.1
+- 1.8.0-beta.2
+- 1.8.0-beta.3
+- 1.8.1
+- 1.8.2
+- 共 110 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @storyofams/next-api-decorators`
+- npm registry：https://registry.npmjs.org/@storyofams/next-api-decorators

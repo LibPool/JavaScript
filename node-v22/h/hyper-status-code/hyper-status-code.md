@@ -1,0 +1,22 @@
+# hyper-status-code
+
+> 标签: http-response, http-status-code, server-status, status-code
+
+## 简介
+
+A tiny package for http status code
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/hyper-status-code
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install hyper-status-code`
+- npm registry：https://registry.npmjs.org/hyper-status-code

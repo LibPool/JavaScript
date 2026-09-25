@@ -1,0 +1,36 @@
+# @penjc/homepage
+
+> 标签: blog, homepage, modern, next.js, personal-website, react, starter, tailwindcss, template, thoughts
+
+## 简介
+
+个人主页模板，支持博客、随笔等功能
+
+## 官网
+
+- 官网：https://github.com/penjc/homepage#readme
+- 源码仓库：git+https://github.com/penjc/homepage.git
+- npm 页面：https://www.npmjs.com/package/@penjc/homepage
+
+## 历史版本号
+
+- 当前版本：1.9.0
+
+- 1.1.3
+- 1.2.1
+- 1.3.0
+- 1.5.0
+- 1.6.0
+- 1.6.1
+- 1.7.0
+- 1.7.1
+- 1.7.2
+- 1.7.3
+- 1.8.0
+- 1.9.0
+
+## 获取地址
+
+- npm 安装：`npm install @penjc/homepage`
+- npm registry：https://registry.npmjs.org/@penjc/homepage
+- Node 要求：>=16.0.0

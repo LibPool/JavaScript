@@ -1,0 +1,28 @@
+# clerk-solid
+
+> 标签: auth, authentication, clerk, solid
+
+## 简介
+
+Clerk Community SDK for Solid.js
+
+## 官网
+
+- 官网：https://github.com/panteliselef/clerk-solid
+- 源码仓库：git+https://github.com/panteliselef/clerk-solid.git
+- npm 页面：https://www.npmjs.com/package/clerk-solid
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.0
+- 0.0.0-snapshot-20240630171132
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install clerk-solid`
+- npm registry：https://registry.npmjs.org/clerk-solid
+- Node 要求：>=18

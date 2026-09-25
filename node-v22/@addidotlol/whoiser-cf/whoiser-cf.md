@@ -1,0 +1,27 @@
+# @addidotlol/whoiser-cf
+
+> 标签: domain, ip, tld, whois
+
+## 简介
+
+Whois info for domains, TLDs, IPs, and ASN in Cloudflare Workers
+
+## 官网
+
+- 官网：https://github.com/addidotlol/whoiser-cf#readme
+- 源码仓库：git+ssh://git@github.com/addidotlol/whoiser-cf.git
+- npm 页面：https://www.npmjs.com/package/@addidotlol/whoiser-cf
+
+## 历史版本号
+
+- 当前版本：2.0.0-beta.10
+
+- 2.0.0-beta.10
+- 2.0.0-beta.7
+- 2.0.0-beta.8
+- 2.0.0-beta.9
+
+## 获取地址
+
+- npm 安装：`npm install @addidotlol/whoiser-cf`
+- npm registry：https://registry.npmjs.org/@addidotlol/whoiser-cf

@@ -1,0 +1,36 @@
+# co-stream
+
+> 标签: co, event, helper, stream
+
+## 简介
+
+[Streams](http://nodejs.org/api/stream.html "Stream") are node's best and most misunderstood idea, and _<em>co-stream</em>_ is a toolkit to make creating and working with streams <em>easy</em>.
+
+## 官网
+
+- 官网：https://github.com/talrasha007/co-stream-helper
+- 源码仓库：git+https://github.com/talrasha007/co-stream-helper.git
+- npm 页面：https://www.npmjs.com/package/co-stream
+
+## 历史版本号
+
+- 当前版本：0.3.2
+
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.1.0
+- 0.1.0-beta
+- 0.1.0-beta2
+- 0.1.1
+- 0.2.0
+- 0.2.1
+- 0.3.0
+- 0.3.1
+- 0.3.2
+
+## 获取地址
+
+- npm 安装：`npm install co-stream`
+- npm registry：https://registry.npmjs.org/co-stream
+- Node 要求：>=4.0.0

@@ -1,0 +1,36 @@
+# @libp2p/daemon-client
+
+> 标签: libp2p
+
+## 简介
+
+libp2p-daemon client implementation
+
+## 官网
+
+- 官网：https://github.com/libp2p/js-libp2p/tree/main/packages/libp2p-daemon-client#readme
+- 源码仓库：git+https://github.com/libp2p/js-libp2p.git
+- npm 页面：https://www.npmjs.com/package/@libp2p/daemon-client
+
+## 历史版本号
+
+- 当前版本：10.0.39
+
+- 10.0.36
+- 10.0.36-4a6c5d11a
+- 10.0.36-87dca02b0
+- 10.0.37
+- 10.0.37-ac7305ccf
+- 10.0.37-cef4d32cf
+- 10.0.38
+- 10.0.38-185d901cd
+- 10.0.38-5cb617ae2
+- 10.0.38-d91797b55
+- 10.0.38-fb139d1c8
+- 10.0.39
+- 共 240 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @libp2p/daemon-client`
+- npm registry：https://registry.npmjs.org/@libp2p/daemon-client

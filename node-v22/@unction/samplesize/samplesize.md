@@ -1,0 +1,36 @@
+# @unction/samplesize
+
+> 标签: functional, unction
+
+## 简介
+
+Returns a random number of members from a array or string
+
+## 官网
+
+- 官网：https://github.com/unctionjs/sampleSize#readme
+- 源码仓库：git+https://github.com/unctionjs/sampleSize.git
+- npm 页面：https://www.npmjs.com/package/@unction/samplesize
+
+## 历史版本号
+
+- 当前版本：16.15.0
+
+- 2.68.0
+- 2.69.0
+- 2.70.0
+- 2.71.0
+- 2.72.0
+- 3.0.0
+- 4.0.0
+- 5.0.0
+- 6.0.0
+- 7.0.0
+- 8.0.0
+- 9.0.0
+- 共 112 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @unction/samplesize`
+- npm registry：https://registry.npmjs.org/@unction/samplesize

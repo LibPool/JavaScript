@@ -1,0 +1,26 @@
+# vcompass
+
+> 标签: compass, component, ui, vue, vue-component
+
+## 简介
+
+一个罗盘选择器组件
+
+## 官网
+
+- 官网：https://github.com/KittyFairy-Han/study-demos#readme
+- 源码仓库：git+https://github.com/KittyFairy-Han/study-demos.git
+- npm 页面：https://www.npmjs.com/package/vcompass
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install vcompass`
+- npm registry：https://registry.npmjs.org/vcompass

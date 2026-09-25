@@ -1,0 +1,28 @@
+# @tungnguyen85/react-org-chart
+
+> 标签: JavaScript
+
+## 简介
+
+Simple, high-performance react component for d3 org chart
+
+## 官网
+
+- 官网：https://github.com/tungnguyen85/react-org-chart.git
+- 源码仓库：git+https://github.com/tungnguyen85/react-org-chart.git
+- npm 页面：https://www.npmjs.com/package/@tungnguyen85/react-org-chart
+
+## 历史版本号
+
+- 当前版本：0.4.29
+
+- 0.4.25
+- 0.4.26
+- 0.4.27
+- 0.4.28
+- 0.4.29
+
+## 获取地址
+
+- npm 安装：`npm install @tungnguyen85/react-org-chart`
+- npm registry：https://registry.npmjs.org/@tungnguyen85/react-org-chart

@@ -1,0 +1,28 @@
+# boxpacking
+
+> 标签: binpack, boxpack, packing algorithm
+
+## 简介
+
+Packing algorithm
+
+## 官网
+
+- 官网：https://github.com/Poplava/node-boxpacking
+- 源码仓库：git://github.com/Poplava/node-boxpacking.git
+- npm 页面：https://www.npmjs.com/package/boxpacking
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install boxpacking`
+- npm registry：https://registry.npmjs.org/boxpacking
+- Node 要求：>= 0.8.0

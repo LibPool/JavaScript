@@ -1,0 +1,34 @@
+# @dimah-form/core
+
+> 标签: better-call, form, protocol, questionnaire, survey, typescript, zod
+
+## 简介
+
+Typed questionnaire protocol and fetch client shared by @dimah-form/server and @dimah-form/react
+
+## 官网
+
+- 官网：https://form.dimah.dev/docs
+- 源码仓库：https://github.com/dimah-kz/dimah-form.git
+- npm 页面：https://www.npmjs.com/package/@dimah-form/core
+
+## 历史版本号
+
+- 当前版本：0.6.1
+
+- 0.0.0-tegami-trusted-publish-setup
+- 0.0.1
+- 0.0.2
+- 0.1.0
+- 0.2.0
+- 0.3.0
+- 0.3.1
+- 0.4.0
+- 0.5.0
+- 0.6.0
+- 0.6.1
+
+## 获取地址
+
+- npm 安装：`npm install @dimah-form/core`
+- npm registry：https://registry.npmjs.org/@dimah-form/core

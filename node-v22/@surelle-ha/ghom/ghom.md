@@ -1,0 +1,26 @@
+# @surelle-ha/ghom
+
+> 标签: JavaScript
+
+## 简介
+
+A boilerplate for NestJS Packages.
+
+## 官网
+
+- 官网：https://github.com/surelle-ha/GithubOM#readme
+- 源码仓库：git+https://github.com/surelle-ha/GithubOM.git
+- npm 页面：https://www.npmjs.com/package/@surelle-ha/ghom
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @surelle-ha/ghom`
+- npm registry：https://registry.npmjs.org/@surelle-ha/ghom

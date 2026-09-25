@@ -1,0 +1,31 @@
+# numbat-influx
+
+> 标签: influxdb, metrics, numbat
+
+## 简介
+
+a numbat sink for influx version 0.9
+
+## 官网
+
+- 官网：https://github.com/ceejbot/numbat-influx#readme
+- 源码仓库：git+https://github.com/ceejbot/numbat-influx.git
+- npm 页面：https://www.npmjs.com/package/numbat-influx
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install numbat-influx`
+- npm registry：https://registry.npmjs.org/numbat-influx

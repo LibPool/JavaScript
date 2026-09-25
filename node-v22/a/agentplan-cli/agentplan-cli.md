@@ -1,0 +1,28 @@
+# agentplan-cli
+
+> 标签: JavaScript
+
+## 简介
+
+CLI for agentplan.app — publish HTML, images, and video behind stable links.
+
+## 官网
+
+- 官网：https://agentplan.app
+- 源码仓库：git+https://github.com/niklas-schmidt-dev/agentplan.git
+- npm 页面：https://www.npmjs.com/package/agentplan-cli
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.1.0
+- 0.1.1
+- 0.2.0
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install agentplan-cli`
+- npm registry：https://registry.npmjs.org/agentplan-cli
+- Node 要求：>=20

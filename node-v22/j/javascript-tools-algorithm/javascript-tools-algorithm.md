@@ -1,0 +1,26 @@
+# javascript-tools-algorithm
+
+> 标签: heap, heaptree, javascript, maxheap, minheap, priorityqueue, tools, tree
+
+## 简介
+
+javascript tools library
+
+## 官网
+
+- 官网：https://github.com/nosensezzz/JavaScriptTools#readme
+- 源码仓库：git+https://github.com/nosensezzz/JavaScriptTools.git
+- npm 页面：https://www.npmjs.com/package/javascript-tools-algorithm
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install javascript-tools-algorithm`
+- npm registry：https://registry.npmjs.org/javascript-tools-algorithm

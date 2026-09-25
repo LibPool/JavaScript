@@ -1,0 +1,25 @@
+# @node-rs/jsonschema-win32-x64-msvc
+
+> 标签: N-API, NAPI, Rust, napi-rs, node-addon, node-addon-api
+
+## 简介
+
+A node package based on jsonschema-rs for performing JSON schema validation
+
+## 官网
+
+- 官网：https://github.com/ahungrynoob/jsonschema#readme
+- 源码仓库：git+ssh://git@github.com/ahungrynoob/jsonschema.git
+- npm 页面：https://www.npmjs.com/package/@node-rs/jsonschema-win32-x64-msvc
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @node-rs/jsonschema-win32-x64-msvc`
+- npm registry：https://registry.npmjs.org/@node-rs/jsonschema-win32-x64-msvc
+- Node 要求：>= 10

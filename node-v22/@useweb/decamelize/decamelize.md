@@ -1,0 +1,29 @@
+# @useweb/decamelize
+
+> 标签: JavaScript
+
+## 简介
+
+@useweb/decamelize - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@useweb/decamelize
+
+## 历史版本号
+
+- 当前版本：1.4.0
+
+- 0.1.0
+- 0.1.1
+- 0.2.0
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 1.4.0
+
+## 获取地址
+
+- npm 安装：`npm install @useweb/decamelize`
+- npm registry：https://registry.npmjs.org/@useweb/decamelize

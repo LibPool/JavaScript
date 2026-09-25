@@ -1,0 +1,36 @@
+# @architect-io/node-launcher
+
+> 标签: architect, launcher, node, oclif
+
+## 简介
+
+Launcher for Architect.io supporting node services
+
+## 官网
+
+- 官网：https://github.com/architect-team/node-launcher
+- 源码仓库：git+https://github.com/architect-team/node-launcher.git
+- npm 页面：https://www.npmjs.com/package/@architect-io/node-launcher
+
+## 历史版本号
+
+- 当前版本：0.1.14
+
+- 0.1.0
+- 0.1.1
+- 0.1.10
+- 0.1.11
+- 0.1.12
+- 0.1.13
+- 0.1.14
+- 0.1.2
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install @architect-io/node-launcher`
+- npm registry：https://registry.npmjs.org/@architect-io/node-launcher
+- Node 要求：>=8.0.0

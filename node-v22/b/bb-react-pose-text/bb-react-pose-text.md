@@ -1,0 +1,25 @@
+# bb-react-pose-text
+
+> 标签: animation, declarative, dom, popmotion, react, react animation
+
+## 简介
+
+Easily animate characters and words with React Pose
+
+## 官网
+
+- 官网：https://github.com/teamboffinbrains/react-pose-text#readme
+- 源码仓库：git+https://github.com/teamboffinbrains/react-pose-text.git
+- npm 页面：https://www.npmjs.com/package/bb-react-pose-text
+
+## 历史版本号
+
+- 当前版本：3.1.1
+
+- 3.1.0
+- 3.1.1
+
+## 获取地址
+
+- npm 安装：`npm install bb-react-pose-text`
+- npm registry：https://registry.npmjs.org/bb-react-pose-text

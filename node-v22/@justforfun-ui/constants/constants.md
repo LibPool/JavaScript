@@ -1,0 +1,24 @@
+# @justforfun-ui/constants
+
+> 标签: utils
+
+## 简介
+
+memory constant
+
+## 官网
+
+- 官网：https://github.com/zhaolan666/JustForFun/tree/dev#readme
+- 源码仓库：git+https://github.com/zhaolan666/JustForFun.git#dev
+- npm 页面：https://www.npmjs.com/package/@justforfun-ui/constants
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @justforfun-ui/constants`
+- npm registry：https://registry.npmjs.org/@justforfun-ui/constants

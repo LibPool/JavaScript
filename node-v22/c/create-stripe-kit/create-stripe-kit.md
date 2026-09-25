@@ -1,0 +1,25 @@
+# create-stripe-kit
+
+> 标签: cli, create-app, generator, scaffold, stripe
+
+## 简介
+
+CLI to scaffold Stripe Kit projects
+
+## 官网
+
+- 官网：https://github.com/plutaslab/stripe-kit#readme
+- 源码仓库：git+https://github.com/plutaslab/stripe-kit.git
+- npm 页面：https://www.npmjs.com/package/create-stripe-kit
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install create-stripe-kit`
+- npm registry：https://registry.npmjs.org/create-stripe-kit

@@ -1,0 +1,24 @@
+# peertube-plugin-btrss
+
+> 标签: peertube, plugin, rss, torrent
+
+## 简介
+
+PeerTube plugin generating Bit Torrent RSS feeds for channels
+
+## 官网
+
+- 官网：https://github.com/dhk2/peertube-plugin-btrss
+- npm 页面：https://www.npmjs.com/package/peertube-plugin-btrss
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.0
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install peertube-plugin-btrss`
+- npm registry：https://registry.npmjs.org/peertube-plugin-btrss

@@ -1,0 +1,22 @@
+# show-tree
+
+> 标签: data, javascript, multi-level, search, show, tree, view
+
+## 简介
+
+show-tree is an easy to use javascript library to show multi-level data structure. It comes with an interactive search facility.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/show-tree
+
+## 历史版本号
+
+- 当前版本：1.0.9
+
+- 1.0.9
+
+## 获取地址
+
+- npm 安装：`npm install show-tree`
+- npm registry：https://registry.npmjs.org/show-tree

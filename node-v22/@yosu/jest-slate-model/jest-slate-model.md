@@ -1,0 +1,22 @@
+# @yosu/jest-slate-model
+
+> 标签: JavaScript
+
+## 简介
+
+A custom matcher and editor initializer for slatejs.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@yosu/jest-slate-model
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @yosu/jest-slate-model`
+- npm registry：https://registry.npmjs.org/@yosu/jest-slate-model

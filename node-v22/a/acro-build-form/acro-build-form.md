@@ -1,0 +1,35 @@
+# acro-build-form
+
+> 标签: arco, arco.design, build-form
+
+## 简介
+
+基于arco.design封装的表单组件，用JSON创建表单组件，Vue3版本
+
+## 官网
+
+- 官网：https://github.com/ajaxjs/acro-build-form#readme
+- 源码仓库：git+https://github.com/ajaxjs/acro-build-form.git
+- npm 页面：https://www.npmjs.com/package/acro-build-form
+
+## 历史版本号
+
+- 当前版本：0.2.4
+
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.3
+- 0.2.4
+
+## 获取地址
+
+- npm 安装：`npm install acro-build-form`
+- npm registry：https://registry.npmjs.org/acro-build-form

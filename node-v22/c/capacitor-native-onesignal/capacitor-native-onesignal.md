@@ -1,0 +1,24 @@
+# capacitor-native-onesignal
+
+> 标签: capacitor, in-app-messaging, native, notifications, onesignal, plugin, push-notifications
+
+## 简介
+
+OneSignal plugin for Capacitor v8+ only.
+
+## 官网
+
+- 官网：https://github.com/jokio/capacitor-onesignal#readme
+- 源码仓库：git+https://github.com/jokio/capacitor-onesignal.git
+- npm 页面：https://www.npmjs.com/package/capacitor-native-onesignal
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install capacitor-native-onesignal`
+- npm registry：https://registry.npmjs.org/capacitor-native-onesignal

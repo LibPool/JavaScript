@@ -1,0 +1,32 @@
+# paul-framework
+
+> 标签: ai, claude, claude-code, paul, plan-apply-unify, planning, structured-development
+
+## 简介
+
+Plan-Apply-Unify Loop - A structured AI-assisted development framework for Claude Code
+
+## 官网
+
+- 官网：https://github.com/ChristopherKahler/paul#readme
+- 源码仓库：git+https://github.com/ChristopherKahler/paul.git
+- npm 页面：https://www.npmjs.com/package/paul-framework
+
+## 历史版本号
+
+- 当前版本：1.4.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.1.0
+- 1.1.1
+- 1.2.0
+- 1.4.0
+
+## 获取地址
+
+- npm 安装：`npm install paul-framework`
+- npm registry：https://registry.npmjs.org/paul-framework
+- Node 要求：>=16.7.0

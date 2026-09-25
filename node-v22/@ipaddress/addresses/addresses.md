@@ -1,0 +1,31 @@
+# @ipaddress/addresses
+
+> 标签: ip, ip address, ipaddress, ipv4, ipv6
+
+## 简介
+
+A typescript port of the Python ipaddress module
+
+## 官网
+
+- 官网：https://github.com/kkirsche/ipaddress/blob/main/README.md
+- 源码仓库：https://github.com/kkirsche/ipaddress.git
+- npm 页面：https://www.npmjs.com/package/@ipaddress/addresses
+
+## 历史版本号
+
+- 当前版本：1.0.10
+
+- 1.0.10
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.7
+- 1.0.8
+- 1.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @ipaddress/addresses`
+- npm registry：https://registry.npmjs.org/@ipaddress/addresses

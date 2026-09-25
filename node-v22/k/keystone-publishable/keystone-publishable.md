@@ -1,0 +1,24 @@
+# keystone-publishable
+
+> 标签: KeystoneJS, Plugin, Publishing
+
+## 简介
+
+A KeystoneJS plugin that enables a publishing flow between staging and production within the same application.
+
+## 官网
+
+- 官网：https://github.com/Designory/keystone-publishable#readme
+- 源码仓库：git+https://github.com/Designory/keystone-publishable.git
+- npm 页面：https://www.npmjs.com/package/keystone-publishable
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install keystone-publishable`
+- npm registry：https://registry.npmjs.org/keystone-publishable

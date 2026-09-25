@@ -1,0 +1,35 @@
+# @maibornwolff/mwui-vue
+
+> 标签: JavaScript
+
+## 简介
+
+Vue specific wrapper for mwui
+
+## 官网
+
+- 官网：https://github.com/MaibornWolff/mwui#readme
+- 源码仓库：git+https://github.com/MaibornWolff/mwui.git
+- npm 页面：https://www.npmjs.com/package/@maibornwolff/mwui-vue
+
+## 历史版本号
+
+- 当前版本：0.6.6
+
+- 0.3.1
+- 0.4.0
+- 0.5.0
+- 0.5.1
+- 0.5.2
+- 0.6.0
+- 0.6.1
+- 0.6.2
+- 0.6.3
+- 0.6.4
+- 0.6.5
+- 0.6.6
+
+## 获取地址
+
+- npm 安装：`npm install @maibornwolff/mwui-vue`
+- npm registry：https://registry.npmjs.org/@maibornwolff/mwui-vue

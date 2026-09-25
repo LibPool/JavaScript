@@ -1,0 +1,26 @@
+# gemini-mo-ui-v3
+
+> 标签: component-library, ui, vue3
+
+## 简介
+
+Vue3 component library
+
+## 官网
+
+- 官网：https://github.com/asdd6258/gemini-mo-ui-v3#readme
+- 源码仓库：git+https://github.com/asdd6258/gemini-mo-ui-v3.git
+- npm 页面：https://www.npmjs.com/package/gemini-mo-ui-v3
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install gemini-mo-ui-v3`
+- npm registry：https://registry.npmjs.org/gemini-mo-ui-v3

@@ -1,0 +1,24 @@
+# garden-http
+
+> 标签: JavaScript
+
+## 简介
+
+A simple wrapper for fetch
+
+## 官网
+
+- 官网：https://github.com/garden/http#readme
+- 源码仓库：git+https://github.com/garden/http.git
+- npm 页面：https://www.npmjs.com/package/garden-http
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install garden-http`
+- npm registry：https://registry.npmjs.org/garden-http

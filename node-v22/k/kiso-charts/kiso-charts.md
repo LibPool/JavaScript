@@ -1,0 +1,25 @@
+# kiso-charts
+
+> 标签: components, next, react, tailwind, typescript, ui
+
+## 简介
+
+Kiso chart components
+
+## 官网
+
+- 官网：https://bendigiorgio.github.io/kiso
+- 源码仓库：git+https://github.com/bendigiorgio/kiso.git
+- npm 页面：https://www.npmjs.com/package/kiso-charts
+
+## 历史版本号
+
+- 当前版本：2.0.1
+
+- 2.0.0
+- 2.0.1
+
+## 获取地址
+
+- npm 安装：`npm install kiso-charts`
+- npm registry：https://registry.npmjs.org/kiso-charts

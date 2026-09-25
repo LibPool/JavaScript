@@ -1,0 +1,25 @@
+# autosizeie
+
+> 标签: form, textarea, ui
+
+## 简介
+
+Autosize is a small, stand-alone script to automatically adjust textarea height to fit text.
+
+## 官网
+
+- 官网：http://www.jacklmoore.com/autosize
+- 源码仓库：git+ssh://git@github.com/jackmoore/autosize.git
+- npm 页面：https://www.npmjs.com/package/autosizeie
+
+## 历史版本号
+
+- 当前版本：4.0.5
+
+- 4.0.4
+- 4.0.5
+
+## 获取地址
+
+- npm 安装：`npm install autosizeie`
+- npm registry：https://registry.npmjs.org/autosizeie

@@ -1,0 +1,35 @@
+# reactive-box
+
+> 标签: box, lightweight, minimal, minimalistic, observable, observer, performance, reaction, reactive, reactivity
+
+## 简介
+
+Minimalistic, fast, and highly efficient reactivity
+
+## 官网
+
+- 官网：https://github.com/re-js/reactive-box#readme
+- 源码仓库：git+ssh://git@github.com/re-js/reactive-box.git
+- npm 页面：https://www.npmjs.com/package/reactive-box
+
+## 历史版本号
+
+- 当前版本：0.9.0
+
+- 0.6.1
+- 0.6.2
+- 0.6.3
+- 0.6.4
+- 0.6.5
+- 0.6.6
+- 0.7.0
+- 0.7.1
+- 0.7.2
+- 0.7.3
+- 0.8.0
+- 0.9.0
+
+## 获取地址
+
+- npm 安装：`npm install reactive-box`
+- npm registry：https://registry.npmjs.org/reactive-box

@@ -1,0 +1,27 @@
+# claydb-assets
+
+> 标签: ClayDB
+
+## 简介
+
+Asset files for ClayDB
+
+## 官网
+
+- 官网：https://github.com/realglobe-Inc/claydb-assets#readme
+- 源码仓库：git+https://github.com/realglobe-inc/claydb-assets.git
+- npm 页面：https://www.npmjs.com/package/claydb-assets
+
+## 历史版本号
+
+- 当前版本：2.0.3
+
+- 2.0.1
+- 2.0.2
+- 2.0.3
+
+## 获取地址
+
+- npm 安装：`npm install claydb-assets`
+- npm registry：https://registry.npmjs.org/claydb-assets
+- Node 要求：>=6

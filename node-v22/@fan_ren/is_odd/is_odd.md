@@ -1,0 +1,23 @@
+# @fan_ren/is_odd
+
+> 标签: JavaScript
+
+## 简介
+
+@fan_ren/is_odd - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@fan_ren/is_odd
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @fan_ren/is_odd`
+- npm registry：https://registry.npmjs.org/@fan_ren/is_odd

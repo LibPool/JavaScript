@@ -1,0 +1,36 @@
+# eve-lark
+
+> 标签: agent, bot, channel, eve, feishu, lark
+
+## 简介
+
+Lark/Feishu channel for the eve agent framework
+
+## 官网
+
+- 官网：https://github.com/boenfu/eve-lark
+- 源码仓库：git+https://github.com/boenfu/eve-lark.git
+- npm 页面：https://www.npmjs.com/package/eve-lark
+
+## 历史版本号
+
+- 当前版本：0.6.0
+
+- 0.3.1
+- 0.3.2
+- 0.4.0
+- 0.4.1
+- 0.4.2
+- 0.4.3
+- 0.4.4
+- 0.4.5
+- 0.4.6
+- 0.5.0
+- 0.5.1
+- 0.6.0
+
+## 获取地址
+
+- npm 安装：`npm install eve-lark`
+- npm registry：https://registry.npmjs.org/eve-lark
+- Node 要求：>=22

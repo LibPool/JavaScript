@@ -1,0 +1,29 @@
+# @puls-dev/azure
+
+> 标签: azure, cloud, deploy, iac, infrastructure-as-code, microsoft, puls
+
+## 简介
+
+Azure Provider for Puls IaC
+
+## 官网
+
+- 官网：https://github.com/puls-dev/puls-dev#readme
+- 源码仓库：git+https://github.com/puls-dev/puls-dev.git
+- npm 页面：https://www.npmjs.com/package/@puls-dev/azure
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 0.5.0
+- 0.5.1
+- 0.5.2
+- 0.5.3
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @puls-dev/azure`
+- npm registry：https://registry.npmjs.org/@puls-dev/azure

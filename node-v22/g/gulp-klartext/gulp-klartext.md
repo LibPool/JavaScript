@@ -1,0 +1,27 @@
+# gulp-klartext
+
+> 标签: gulp markdown plain text
+
+## 简介
+
+Extract plain text from markdown files
+
+## 官网
+
+- 官网：https://github.com/mgerzabek/gulp-klartext#readme
+- 源码仓库：git+https://github.com/mgerzabek/gulp-klartext.git
+- npm 页面：https://www.npmjs.com/package/gulp-klartext
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install gulp-klartext`
+- npm registry：https://registry.npmjs.org/gulp-klartext
+- Node 要求：>=4

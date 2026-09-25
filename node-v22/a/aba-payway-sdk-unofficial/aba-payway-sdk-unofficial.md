@@ -1,0 +1,32 @@
+# aba-payway-sdk-unofficial
+
+> 标签: aba, bakong, cambodia, khqr, payment, payway, qr
+
+## 简介
+
+Unofficial ABA PayWay payment gateway SDK for Cambodia — KHQR generation, purchase creation, status checking, and webhook verification
+
+## 官网
+
+- 官网：https://github.com/rithsila/aba-payway-unofficial#readme
+- 源码仓库：git+https://github.com/rithsila/aba-payway-unofficial.git
+- npm 页面：https://www.npmjs.com/package/aba-payway-sdk-unofficial
+
+## 历史版本号
+
+- 当前版本：1.5.0
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.3.0
+- 1.4.0
+- 1.5.0
+
+## 获取地址
+
+- npm 安装：`npm install aba-payway-sdk-unofficial`
+- npm registry：https://registry.npmjs.org/aba-payway-sdk-unofficial
+- Node 要求：>=18.0.0

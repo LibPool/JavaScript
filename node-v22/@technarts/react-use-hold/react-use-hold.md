@@ -1,0 +1,26 @@
+# @technarts/react-use-hold
+
+> 标签: click, hold, react, typescript
+
+## 简介
+
+React hook for handling clicking and holding it.
+
+## 官网
+
+- 官网：https://github.com/technarts/react-use-hold#readme
+- 源码仓库：git+https://github.com/technarts/react-use-hold.git
+- npm 页面：https://www.npmjs.com/package/@technarts/react-use-hold
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @technarts/react-use-hold`
+- npm registry：https://registry.npmjs.org/@technarts/react-use-hold

@@ -1,0 +1,30 @@
+# @maki-people/r-script
+
+> 标签: R, rstats, statistics
+
+## 简介
+
+A simple little module for passing data from NodeJS to R (and back again).
+
+## 官网
+
+- 官网：http://github.com/Maki-People/r-script
+- 源码仓库：git+https://github.com/Maki-People/r-script.git
+- npm 页面：https://www.npmjs.com/package/@maki-people/r-script
+
+## 历史版本号
+
+- 当前版本：1.0.7
+
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+
+## 获取地址
+
+- npm 安装：`npm install @maki-people/r-script`
+- npm registry：https://registry.npmjs.org/@maki-people/r-script

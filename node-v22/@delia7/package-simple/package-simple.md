@@ -1,0 +1,24 @@
+# @delia7/package-simple
+
+> 标签: JavaScript
+
+## 简介
+
+@delia7/package-simple - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/delia7/package-simple#readme
+- 源码仓库：git+https://github.com/delia7/package-simple.git
+- npm 页面：https://www.npmjs.com/package/@delia7/package-simple
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @delia7/package-simple`
+- npm registry：https://registry.npmjs.org/@delia7/package-simple

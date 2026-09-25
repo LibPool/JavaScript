@@ -1,0 +1,29 @@
+# quosnumquam
+
+> 标签: ea, ethereum, jwt, qui, token, voluptatibus
+
+## 简介
+
+Web3 Token is a new way to authenticate users in hybrid dApps using signed messages. Implementation of EIP-4361
+
+## 官网
+
+- 官网：https://github.com/KattieLemke/quosnumquam.git
+- 源码仓库：git+https://github.com/KattieLemke/quosnumquam.git
+- npm 页面：https://www.npmjs.com/package/quosnumquam
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install quosnumquam`
+- npm registry：https://registry.npmjs.org/quosnumquam

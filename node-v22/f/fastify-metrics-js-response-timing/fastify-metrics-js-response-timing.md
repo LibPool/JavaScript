@@ -1,0 +1,26 @@
+# fastify-metrics-js-response-timing
+
+> 标签: JavaScript
+
+## 简介
+
+A Fastify plugin using @metrics/client (https://www.npmjs.com/package/@metrics/client) to produce metric streams reporting metrics about route response times
+
+## 官网
+
+- 官网：https://github.com/finn-no/fastify-metrics-js-response-timing#readme
+- 源码仓库：git+https://github.com/finn-no/fastify-metrics-js-response-timing.git
+- npm 页面：https://www.npmjs.com/package/fastify-metrics-js-response-timing
+
+## 历史版本号
+
+- 当前版本：3.0.0
+
+- 1.0.0
+- 2.0.0
+- 3.0.0
+
+## 获取地址
+
+- npm 安装：`npm install fastify-metrics-js-response-timing`
+- npm registry：https://registry.npmjs.org/fastify-metrics-js-response-timing

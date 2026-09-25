@@ -1,0 +1,26 @@
+# local-llm-js-core
+
+> 标签: ai, core, inference, llm, local, types
+
+## 简介
+
+Shared core runtime and native contract for local-llm packages
+
+## 官网
+
+- 官网：https://github.com/hilum-labs/local-llm-js-core
+- 源码仓库：git+https://github.com/hilum-labs/local-llm-js-core.git
+- npm 页面：https://www.npmjs.com/package/local-llm-js-core
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.2.0
+- 0.2.1
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install local-llm-js-core`
+- npm registry：https://registry.npmjs.org/local-llm-js-core

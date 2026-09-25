@@ -1,0 +1,22 @@
+# @lakku/light-orm
+
+> 标签: neon, orm, postgres, serverless, supabase, typescript
+
+## 简介
+
+A tiny, type-safe TypeScript ORM built for serverless Postgres (Neon, Supabase, etc.)
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@lakku/light-orm
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @lakku/light-orm`
+- npm registry：https://registry.npmjs.org/@lakku/light-orm

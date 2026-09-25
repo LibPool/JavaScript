@@ -1,0 +1,26 @@
+# uwp-ui-react
+
+> 标签: react, react-component, uwp-design
+
+## 简介
+
+UWP style web ui components
+
+## 官网
+
+- 官网：https://github.com/AlphaGo88/uwp-ui-react#readme
+- 源码仓库：git+ssh://git@github.com/AlphaGo88/uwp-ui-react.git
+- npm 页面：https://www.npmjs.com/package/uwp-ui-react
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+- 0.1.0-rc
+- 0.1.0-rc1
+
+## 获取地址
+
+- npm 安装：`npm install uwp-ui-react`
+- npm registry：https://registry.npmjs.org/uwp-ui-react

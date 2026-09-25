@@ -1,0 +1,24 @@
+# coldwallet-enhancer-kit
+
+> 标签: JavaScript
+
+## 简介
+
+Cold Wallet Enhancer Kit boosts the security of cold wallets with key management and recovery tools.
+
+## 官网
+
+- 官网：https://github.com/quasarasauq/coldwallet-enhancer-kit#readme
+- 源码仓库：git+https://github.com/quasarasauq/coldwallet-enhancer-kit.git
+- npm 页面：https://www.npmjs.com/package/coldwallet-enhancer-kit
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install coldwallet-enhancer-kit`
+- npm registry：https://registry.npmjs.org/coldwallet-enhancer-kit

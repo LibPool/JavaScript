@@ -1,0 +1,26 @@
+# rsbuild-plugin-svg-sprites
+
+> 标签: rsbuild, rsbuild-plugin, svg, svg-icons, svg-sprites, vite-plugin-svg-icons
+
+## 简介
+
+Rsbuild Plugin for fast creating SVG sprites & hmr supported.(like vite-plugin-svg-icons)
+
+## 官网
+
+- 官网：https://github.com/ease-flow/rsbuild-plugins/tree/main#readme
+- 源码仓库：git+https://github.com/ease-flow/rsbuild-plugins.git#main
+- npm 页面：https://www.npmjs.com/package/rsbuild-plugin-svg-sprites
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.0.0
+- 1.0.1
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install rsbuild-plugin-svg-sprites`
+- npm registry：https://registry.npmjs.org/rsbuild-plugin-svg-sprites

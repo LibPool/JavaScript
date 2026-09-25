@@ -1,0 +1,36 @@
+# fee-local-npm
+
+> 标签: JavaScript
+
+## 简介
+
+Local and offline-first npm mirror
+
+## 官网
+
+- 官网：https://github.com/abc3660170/local-npm#readme
+- 源码仓库：git+https://github.com/abc3660170/local-npm.git
+- npm 页面：https://www.npmjs.com/package/fee-local-npm
+
+## 历史版本号
+
+- 当前版本：3.0.8
+
+- 2.2.4
+- 2.2.5
+- 2.2.6
+- 3.0.0
+- 3.0.1
+- 3.0.2
+- 3.0.3
+- 3.0.4
+- 3.0.5
+- 3.0.6
+- 3.0.7
+- 3.0.8
+
+## 获取地址
+
+- npm 安装：`npm install fee-local-npm`
+- npm registry：https://registry.npmjs.org/fee-local-npm
+- Node 要求：>= 10

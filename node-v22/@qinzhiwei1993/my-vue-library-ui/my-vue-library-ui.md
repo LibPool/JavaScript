@@ -1,0 +1,24 @@
+# @qinzhiwei1993/my-vue-library-ui
+
+> 标签: JavaScript
+
+## 简介
+
+Build library demo via webpack
+
+## 官网
+
+- 官网：https://github.com/qinzhiwei1993/webpack-npmlib
+- 源码仓库：git+https://github.com/qinzhiwei1993/webpack-npmlib.git
+- npm 页面：https://www.npmjs.com/package/@qinzhiwei1993/my-vue-library-ui
+
+## 历史版本号
+
+- 当前版本：0.1.4
+
+- 0.1.4
+
+## 获取地址
+
+- npm 安装：`npm install @qinzhiwei1993/my-vue-library-ui`
+- npm registry：https://registry.npmjs.org/@qinzhiwei1993/my-vue-library-ui

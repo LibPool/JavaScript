@@ -1,0 +1,23 @@
+# ghl-heterogony-stedd-public-publicreadable
+
+> 标签: JavaScript
+
+## 简介
+
+Should not link because of repo
+
+## 官网
+
+- 源码仓库：https://github.com/linking-poc/publicNonWritableByStdUser.git
+- npm 页面：https://www.npmjs.com/package/ghl-heterogony-stedd-public-publicreadable
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install ghl-heterogony-stedd-public-publicreadable`
+- npm registry：https://registry.npmjs.org/ghl-heterogony-stedd-public-publicreadable

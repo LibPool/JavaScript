@@ -1,0 +1,24 @@
+# callermodule-ebay
+
+> 标签: JavaScript
+
+## 简介
+
+Determines the name of the module that called this code.
+
+## 官网
+
+- 官网：https://github.com/tlivings/callermodule#readme
+- 源码仓库：git://github.com/tlivings/callermodule.git
+- npm 页面：https://www.npmjs.com/package/callermodule-ebay
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install callermodule-ebay`
+- npm registry：https://registry.npmjs.org/callermodule-ebay

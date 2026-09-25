@@ -1,0 +1,30 @@
+# @nakishiyaman/kensa-plugin-properties
+
+> 标签: fast-check, fuzzing, kensa, property-based-testing
+
+## 简介
+
+Kensa プロパティベーステストプラグイン（fast-check 統合）
+
+## 官网
+
+- 官网：https://github.com/nakishiyaman/kensa#readme
+- 源码仓库：git+https://github.com/nakishiyaman/kensa.git
+- npm 页面：https://www.npmjs.com/package/@nakishiyaman/kensa-plugin-properties
+
+## 历史版本号
+
+- 当前版本：0.5.0
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.3.0
+- 0.4.0
+- 0.5.0
+
+## 获取地址
+
+- npm 安装：`npm install @nakishiyaman/kensa-plugin-properties`
+- npm registry：https://registry.npmjs.org/@nakishiyaman/kensa-plugin-properties
+- Node 要求：>=22

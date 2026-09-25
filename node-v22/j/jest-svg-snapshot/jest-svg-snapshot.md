@@ -1,0 +1,22 @@
+# jest-svg-snapshot
+
+> 标签: JavaScript
+
+## 简介
+
+Generate Snapshots of SVGs to have a pretty diff on GitHub
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/jest-svg-snapshot
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install jest-svg-snapshot`
+- npm registry：https://registry.npmjs.org/jest-svg-snapshot

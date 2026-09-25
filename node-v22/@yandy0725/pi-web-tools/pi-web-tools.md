@@ -1,0 +1,30 @@
+# @yandy0725/pi-web-tools
+
+> 标签: pi-package
+
+## 简介
+
+pi package providing websearch and webfetch tools
+
+## 官网
+
+- 官网：https://github.com/yandy/pi-packages#readme
+- 源码仓库：git+https://github.com/yandy/pi-packages.git
+- npm 页面：https://www.npmjs.com/package/@yandy0725/pi-web-tools
+
+## 历史版本号
+
+- 当前版本：0.6.1
+
+- 0.1.0
+- 0.2.0
+- 0.3.0
+- 0.4.0
+- 0.5.0
+- 0.6.0
+- 0.6.1
+
+## 获取地址
+
+- npm 安装：`npm install @yandy0725/pi-web-tools`
+- npm registry：https://registry.npmjs.org/@yandy0725/pi-web-tools

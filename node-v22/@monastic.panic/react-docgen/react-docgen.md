@@ -1,0 +1,28 @@
+# @monastic.panic/react-docgen
+
+> 标签: documentation-generation, react
+
+## 简介
+
+A CLI and toolkit to extract information from React components for documentation generation.
+
+## 官网
+
+- 官网：https://github.com/reactjs/react-docgen#readme
+- 源码仓库：git+https://github.com/reactjs/react-docgen.git
+- npm 页面：https://www.npmjs.com/package/@monastic.panic/react-docgen
+
+## 历史版本号
+
+- 当前版本：5.0.1
+
+- 5.0.0
+- 5.0.0-beta.2
+- 5.0.0-beta.3
+- 5.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @monastic.panic/react-docgen`
+- npm registry：https://registry.npmjs.org/@monastic.panic/react-docgen
+- Node 要求：>=8.10.0

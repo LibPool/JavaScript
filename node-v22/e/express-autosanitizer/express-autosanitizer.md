@@ -1,0 +1,26 @@
+# express-autosanitizer
+
+> 标签: autosanitizer, caja, express, sanitize, sanitizer, security, xss
+
+## 简介
+
+automatic sanitization of req body fields, params and query. uses caja. automatically does sanitization and escaping as middleware.
+
+## 官网
+
+- 官网：https://github.com/antoniormrzz/express-autosanitizer#readme
+- 源码仓库：git+https://github.com/antoniormrzz/express-autosanitizer.git
+- npm 页面：https://www.npmjs.com/package/express-autosanitizer
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install express-autosanitizer`
+- npm registry：https://registry.npmjs.org/express-autosanitizer

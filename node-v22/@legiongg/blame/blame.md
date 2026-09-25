@@ -1,0 +1,22 @@
+# @legiongg/blame
+
+> 标签: JavaScript
+
+## 简介
+
+Build a great experience for all of Legion's users
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@legiongg/blame
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @legiongg/blame`
+- npm registry：https://registry.npmjs.org/@legiongg/blame

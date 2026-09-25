@@ -1,0 +1,26 @@
+# @openfeapp/web-compat
+
+> 标签: browser-compat-data, browser-compatibility, compatibility, lockfile, web-compat
+
+## 简介
+
+Early public CLI and schemas for web app compatibility findings, lockfiles, and resolution.
+
+## 官网
+
+- 官网：https://github.com/openfeapp/web-compat#readme
+- 源码仓库：git+https://github.com/openfeapp/web-compat.git
+- npm 页面：https://www.npmjs.com/package/@openfeapp/web-compat
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @openfeapp/web-compat`
+- npm registry：https://registry.npmjs.org/@openfeapp/web-compat

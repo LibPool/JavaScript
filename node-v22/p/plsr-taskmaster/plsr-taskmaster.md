@@ -1,0 +1,27 @@
+# plsr-taskmaster
+
+> 标签: ai, claude, task
+
+## 简介
+
+AIとのタスク対話を行うためのライブラリです。
+
+## 官网
+
+- 官网：https://github.com/IshigiwaKenichiro/plsr-taskmaster
+- 源码仓库：git+https://github.com/IshigiwaKenichiro/plsr-taskmaster.git
+- npm 页面：https://www.npmjs.com/package/plsr-taskmaster
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install plsr-taskmaster`
+- npm registry：https://registry.npmjs.org/plsr-taskmaster

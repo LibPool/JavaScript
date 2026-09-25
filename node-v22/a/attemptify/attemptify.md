@@ -1,0 +1,27 @@
+# attemptify
+
+> 标签: resilience, resilience4j, retry, spring-retry
+
+## 简介
+
+TypeScript retry library with no dependencies.
+
+## 官网
+
+- 官网：https://github.com/simonNozaki/attemptify#readme
+- 源码仓库：git+https://github.com/simonNozaki/attemptify.git
+- npm 页面：https://www.npmjs.com/package/attemptify
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 0.0.1
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install attemptify`
+- npm registry：https://registry.npmjs.org/attemptify

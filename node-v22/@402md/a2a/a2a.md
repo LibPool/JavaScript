@@ -1,0 +1,24 @@
+# @402md/a2a
+
+> 标签: JavaScript
+
+## 简介
+
+A2A protocol SDK for Node.js — discover, publish, and communicate with AI agents using the Agent-to-Agent standard
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@402md/a2a
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @402md/a2a`
+- npm registry：https://registry.npmjs.org/@402md/a2a
+- Node 要求：>=18

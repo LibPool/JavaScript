@@ -1,0 +1,23 @@
+# @herbhq/object-multiplex
+
+> 标签: Ethereum
+
+## 简介
+
+Simple stream multiplexing for `objectMode`.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@herbhq/object-multiplex
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @herbhq/object-multiplex`
+- npm registry：https://registry.npmjs.org/@herbhq/object-multiplex
+- Node 要求：>=16.0.0

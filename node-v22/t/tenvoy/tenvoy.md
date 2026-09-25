@@ -1,0 +1,36 @@
+# tenvoy
+
+> 标签: cryptographic-random-generator, cryptography, decryption, encryption, encryption-decryption, hash, hash-functions, hashing, javascript, md5, md5-hash, nacl, openpgp, pbkdf2, pgp, sha256, sha256-hash, signature-verification, signatures, tweetnacl
+
+## 简介
+
+PGP, NaCl, and PBKDF2 in node.js and the browser (hashing, random, encryption, decryption, signatures, conversions), used by TogaTech.org
+
+## 官网
+
+- 官网：https://github.com/TogaTech/tEnvoy#readme
+- 源码仓库：git+https://github.com/TogaTech/tEnvoy.git
+- npm 页面：https://www.npmjs.com/package/tenvoy
+
+## 历史版本号
+
+- 当前版本：7.0.7
+
+- 6.0.3
+- 6.0.4
+- 6.0.5
+- 6.0.6
+- 7.0.0
+- 7.0.1
+- 7.0.2
+- 7.0.3
+- 7.0.4
+- 7.0.5
+- 7.0.6
+- 7.0.7
+
+## 获取地址
+
+- npm 安装：`npm install tenvoy`
+- npm registry：https://registry.npmjs.org/tenvoy
+- Node 要求：>= 10.0.0

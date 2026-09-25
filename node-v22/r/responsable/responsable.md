@@ -1,0 +1,24 @@
+# responsable
+
+> 标签: http-response, response, stream-response
+
+## 简介
+
+Adds http response to the model object.
+
+## 官网
+
+- 官网：https://github.com/volkovasystems/responsable#readme
+- 源码仓库：git+https://github.com/volkovasystems/responsable.git
+- npm 页面：https://www.npmjs.com/package/responsable
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install responsable`
+- npm registry：https://registry.npmjs.org/responsable

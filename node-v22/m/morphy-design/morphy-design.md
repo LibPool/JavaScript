@@ -1,0 +1,37 @@
+# morphy-design
+
+> 标签: ai, claude-code, design-system, morphy-design
+
+## 简介
+
+MORPHY DESIGN — Design system CLI for AI-assisted development
+
+## 官网
+
+- 官网：https://github.com/dotd-inc/morphy-design#readme
+- 源码仓库：git+https://github.com/dotd-inc/morphy-design.git
+- npm 页面：https://www.npmjs.com/package/morphy-design
+
+## 历史版本号
+
+- 当前版本：2.9.0
+
+- 2.5.22
+- 2.5.3
+- 2.5.4
+- 2.5.6
+- 2.5.7
+- 2.5.9
+- 2.7.0
+- 2.7.1
+- 2.8.0
+- 2.8.1
+- 2.8.2
+- 2.9.0
+- 共 74 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install morphy-design`
+- npm registry：https://registry.npmjs.org/morphy-design
+- Node 要求：>=18.0.0

@@ -1,0 +1,28 @@
+# gha-docgen
+
+> 标签: actions, docgen, document, generator, github, github-action, github-actions, markdown
+
+## 简介
+
+Generate documentation based on the Metadata of the GitHub Action.
+
+## 官网
+
+- 官网：https://github.com/wadackel/gha-docgen
+- 源码仓库：git+https://github.com/wadackel/gha-docgen.git
+- npm 页面：https://www.npmjs.com/package/gha-docgen
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.3
+- 1.0.4
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install gha-docgen`
+- npm registry：https://registry.npmjs.org/gha-docgen

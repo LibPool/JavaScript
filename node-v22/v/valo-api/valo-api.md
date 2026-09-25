@@ -1,0 +1,29 @@
+# valo-api
+
+> 标签: Anime, Api, Bot, Discord, Games, Riot, Valorant, Veli, Wrapper
+
+## 简介
+
+An updated Valorant api wrapper based on Henrik-3's unofficial-valorant-api, written in TypeScript
+
+## 官网
+
+- 官网：https://github.com/RiskyRomero/valo-api#readme
+- 源码仓库：git+https://github.com/RiskyRomero/valo-api.git
+- npm 页面：https://www.npmjs.com/package/valo-api
+
+## 历史版本号
+
+- 当前版本：0.1.3
+
+- 0.0.1
+- 0.0.2
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+
+## 获取地址
+
+- npm 安装：`npm install valo-api`
+- npm registry：https://registry.npmjs.org/valo-api

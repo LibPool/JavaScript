@@ -1,0 +1,33 @@
+# @types/date.format.js
+
+> 标签: JavaScript
+
+## 简介
+
+TypeScript definitions for Date Format 1.2.3
+
+## 官网
+
+- 源码仓库：https://www.github.com/DefinitelyTyped/DefinitelyTyped.git
+- npm 页面：https://www.npmjs.com/package/@types/date.format.js
+
+## 历史版本号
+
+- 当前版本：1.2.29
+
+- 1.2.15-alpha
+- 1.2.16-alpha
+- 1.2.21-alpha
+- 1.2.22-alpha
+- 1.2.23-alpha
+- 1.2.24-alpha
+- 1.2.25-alpha
+- 1.2.26-alpha
+- 1.2.27-alpha
+- 1.2.28
+- 1.2.29
+
+## 获取地址
+
+- npm 安装：`npm install @types/date.format.js`
+- npm registry：https://registry.npmjs.org/@types/date.format.js

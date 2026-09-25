@@ -1,0 +1,24 @@
+# cmark-editor
+
+> 标签: codemirror, markdown, markdown-editor
+
+## 简介
+
+markdown editor based on codemirror
+
+## 官网
+
+- 官网：https://github.com/yeliex/codemirror-markdown#readme
+- 源码仓库：git+https://github.com/yeliex/codemirror-markdown.git
+- npm 页面：https://www.npmjs.com/package/cmark-editor
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install cmark-editor`
+- npm registry：https://registry.npmjs.org/cmark-editor

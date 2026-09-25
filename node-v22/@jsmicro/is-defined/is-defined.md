@@ -1,0 +1,24 @@
+# @jsmicro/is-defined
+
+> 标签: defined, is-defined, isdefined
+
+## 简介
+
+Check does the given Javascript Object is a defined.
+
+## 官网
+
+- 官网：https://github.com/jsmicro/is-defined#readme
+- 源码仓库：git+ssh://git@github.com/jsmicro/is-defined.git
+- npm 页面：https://www.npmjs.com/package/@jsmicro/is-defined
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @jsmicro/is-defined`
+- npm registry：https://registry.npmjs.org/@jsmicro/is-defined

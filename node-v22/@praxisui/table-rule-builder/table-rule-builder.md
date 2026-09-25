@@ -1,0 +1,35 @@
+# @praxisui/table-rule-builder
+
+> 标签: angular, conditional-formatting, material, praxis, praxisui, rules, table
+
+## 简介
+
+Praxis Table Rule Builder: UI components and engine utils for table rules
+
+## 官网
+
+- 官网：https://praxisui.dev/components/table
+- npm 页面：https://www.npmjs.com/package/@praxisui/table-rule-builder
+
+## 历史版本号
+
+- 当前版本：9.0.67
+
+- 9.0.60
+- 9.0.61
+- 9.0.62
+- 9.0.63
+- 9.0.64
+- 9.0.65
+- 9.0.66
+- 9.0.67
+- 9.0.68-rc.0
+- 9.0.68-rc.1
+- 9.0.68-rc.2
+- 9.0.68-rc.3
+- 共 420 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @praxisui/table-rule-builder`
+- npm registry：https://registry.npmjs.org/@praxisui/table-rule-builder

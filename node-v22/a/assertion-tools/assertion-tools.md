@@ -1,0 +1,35 @@
+# assertion-tools
+
+> 标签: JavaScript
+
+## 简介
+
+Common assertion tools used in ot-node and dkg.js
+
+## 官网
+
+- 官网：https://github.com/OriginTrail/assertion-tools#readme
+- 源码仓库：git+https://github.com/OriginTrail/assertion-tools.git
+- npm 页面：https://www.npmjs.com/package/assertion-tools
+
+## 历史版本号
+
+- 当前版本：8.0.6
+
+- 8.0.0-alpha.0
+- 8.0.0-alpha.1
+- 8.0.0-alpha.2
+- 8.0.0-gamma.0
+- 8.0.0-gamma.1
+- 8.0.0-gamma.2
+- 8.0.1
+- 8.0.2
+- 8.0.3
+- 8.0.4
+- 8.0.5
+- 8.0.6
+
+## 获取地址
+
+- npm 安装：`npm install assertion-tools`
+- npm registry：https://registry.npmjs.org/assertion-tools

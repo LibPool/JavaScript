@@ -1,0 +1,24 @@
+# pansaerw
+
+> 标签: JavaScript
+
+## 简介
+
+pansaerw - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/Sebutsajasu/panpon#readme
+- 源码仓库：git+https://github.com/Sebutsajasu/panpon.git
+- npm 页面：https://www.npmjs.com/package/pansaerw
+
+## 历史版本号
+
+- 当前版本：1.1.3
+
+- 1.1.3
+
+## 获取地址
+
+- npm 安装：`npm install pansaerw`
+- npm registry：https://registry.npmjs.org/pansaerw

@@ -1,0 +1,24 @@
+# automaton-core
+
+> 标签: automaton, iot, robot
+
+## 简介
+
+A wrapper to help with controlling your automaton from an external controller.
+
+## 官网
+
+- 官网：https://github.com/morintd/automaton-core#readme
+- 源码仓库：git+https://github.com/morintd/automaton-core.git
+- npm 页面：https://www.npmjs.com/package/automaton-core
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install automaton-core`
+- npm registry：https://registry.npmjs.org/automaton-core

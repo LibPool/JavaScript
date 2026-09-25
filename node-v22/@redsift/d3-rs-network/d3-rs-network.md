@@ -1,0 +1,30 @@
+# @redsift/d3-rs-network
+
+> 标签: chart, d3, network, redsift
+
+## 简介
+
+Generates network charts using D3v4.
+
+## 官网
+
+- 官网：https://github.com/redsift/d3-rs-network
+- 源码仓库：git+https://github.com/redsift/d3-rs-network.git
+- npm 页面：https://www.npmjs.com/package/@redsift/d3-rs-network
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.1.0
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @redsift/d3-rs-network`
+- npm registry：https://registry.npmjs.org/@redsift/d3-rs-network

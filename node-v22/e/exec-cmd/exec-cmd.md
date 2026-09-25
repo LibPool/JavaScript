@@ -1,0 +1,33 @@
+# exec-cmd
+
+> 标签: api, apis, aplus, async, bluebird, callback, callbacks, cb, cmd, cmds, command, commands, cross, cross-platform, easy, exec, execute, fast, hybrid, hybridify, hybridify-api, hybridify-apis, native, platform, promise, promises, promises-aplus, simple, spawn
+
+## 简介
+
+Flexible and cross-platform executing commands. Hybrid, Async and Promise API.
+
+## 官网
+
+- 官网：https://github.com/hybridables/exec-cmd#readme
+- 源码仓库：git://github.com/hybridables/exec-cmd.git
+- npm 页面：https://www.npmjs.com/package/exec-cmd
+
+## 历史版本号
+
+- 当前版本：2.0.1
+
+- 0.0.1
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 2.0.0
+- 2.0.1
+
+## 获取地址
+
+- npm 安装：`npm install exec-cmd`
+- npm registry：https://registry.npmjs.org/exec-cmd

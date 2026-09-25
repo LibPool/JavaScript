@@ -1,0 +1,25 @@
+# logic-pad-solver-core
+
+> 标签: JavaScript
+
+## 简介
+
+A solver for https://logic-pad.com/ based on cspuz
+
+## 官网
+
+- 官网：https://github.com/semiexp/logic-pad-solver#readme
+- 源码仓库：git+https://github.com/semiexp/logic-pad-solver.git
+- npm 页面：https://www.npmjs.com/package/logic-pad-solver-core
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install logic-pad-solver-core`
+- npm registry：https://registry.npmjs.org/logic-pad-solver-core

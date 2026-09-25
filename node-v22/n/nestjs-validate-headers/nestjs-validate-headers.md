@@ -1,0 +1,28 @@
+# nestjs-validate-headers
+
+> 标签: JavaScript
+
+## 简介
+
+A decorator meant to replace NestJS's @Headers()
+
+## 官网
+
+- 官网：https://github.com/uPaymeiFixit/nestjs-validate-headers#readme
+- 源码仓库：git+ssh://git@github.com/uPaymeiFixit/nestjs-validate-headers.git
+- npm 页面：https://www.npmjs.com/package/nestjs-validate-headers
+
+## 历史版本号
+
+- 当前版本：0.1.5
+
+- 0.1.1
+- 0.1.3
+- 0.1.4
+- 0.1.5
+
+## 获取地址
+
+- npm 安装：`npm install nestjs-validate-headers`
+- npm registry：https://registry.npmjs.org/nestjs-validate-headers
+- Node 要求：>=20

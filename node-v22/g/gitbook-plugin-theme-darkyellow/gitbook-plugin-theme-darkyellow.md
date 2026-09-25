@@ -1,0 +1,25 @@
+# gitbook-plugin-theme-darkyellow
+
+> 标签: JavaScript
+
+## 简介
+
+Dark yellow theme for GitBook
+
+## 官网
+
+- 官网：https://github.com/chordflower/gitbook-plugin-theme-darkblue#readme
+- 源码仓库：git+https://github.com/chordflower/gitbook-plugin-theme-darkblue.git
+- npm 页面：https://www.npmjs.com/package/gitbook-plugin-theme-darkyellow
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install gitbook-plugin-theme-darkyellow`
+- npm registry：https://registry.npmjs.org/gitbook-plugin-theme-darkyellow

@@ -1,0 +1,31 @@
+# lofty
+
+> 标签: JavaScript
+
+## 简介
+
+A builder for WordPress plugins created with the Lava Framework.
+
+## 官网
+
+- 源码仓库：https://github.com/volcanicpixels/Node-Lofty.git
+- npm 页面：https://www.npmjs.com/package/lofty
+
+## 历史版本号
+
+- 当前版本：1.7.0
+
+- 1.0.0
+- 1.0.4
+- 1.1.0
+- 1.1.1
+- 1.1.3
+- 1.2.3
+- 1.3.0
+- 1.6.0
+- 1.7.0
+
+## 获取地址
+
+- npm 安装：`npm install lofty`
+- npm registry：https://registry.npmjs.org/lofty

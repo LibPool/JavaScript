@@ -1,0 +1,36 @@
+# @material-symbols-svg/react-native
+
+> 标签: components, icons, material-symbols, react, react-native, svg, typescript
+
+## 简介
+
+Material Symbols (Outlined, Rounded, Sharp) as React Native components
+
+## 官网
+
+- 官网：https://material-symbols-svg.com
+- 源码仓库：git+https://github.com/k-s-h-r/material-symbols-svg.git
+- npm 页面：https://www.npmjs.com/package/@material-symbols-svg/react-native
+
+## 历史版本号
+
+- 当前版本：0.14.0
+
+- 0.14.0
+- 0.3.1
+- 0.3.2
+- 0.3.3
+- 0.3.4
+- 0.4.0
+- 0.4.1
+- 0.5.0
+- 0.6.0
+- 0.7.0
+- 0.8.0
+- 0.9.0
+
+## 获取地址
+
+- npm 安装：`npm install @material-symbols-svg/react-native`
+- npm registry：https://registry.npmjs.org/@material-symbols-svg/react-native
+- Node 要求：>=16.0.0

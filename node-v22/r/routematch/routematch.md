@@ -1,0 +1,24 @@
+# routematch
+
+> 标签: path, regexp, routes, url
+
+## 简介
+
+simply match a route using path-to-regexp
+
+## 官网
+
+- 源码仓库：git://github.com/MatthewMueller/routematch.git
+- npm 页面：https://www.npmjs.com/package/routematch
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.1
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install routematch`
+- npm registry：https://registry.npmjs.org/routematch

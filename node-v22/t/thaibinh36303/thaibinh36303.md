@@ -1,0 +1,25 @@
+# thaibinh36303
+
+> 标签: build, compiler, kissy, module
+
+## 简介
+
+KISSY Module Compiler
+
+## 官网
+
+- 官网：https://github.com/thaibinh53421/thaibinh123456789#readme
+- 源码仓库：git+https://github.com/thaibinh53421/thaibinh123456789.git
+- npm 页面：https://www.npmjs.com/package/thaibinh36303
+
+## 历史版本号
+
+- 当前版本：1.2.3
+
+- 1.2.3
+
+## 获取地址
+
+- npm 安装：`npm install thaibinh36303`
+- npm registry：https://registry.npmjs.org/thaibinh36303
+- Node 要求：>=0.10.0

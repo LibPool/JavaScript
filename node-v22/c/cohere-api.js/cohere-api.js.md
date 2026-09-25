@@ -1,0 +1,25 @@
+# cohere-api.js
+
+> 标签: api, cohere, natural language processing, nlp
+
+## 简介
+
+A simple interface to interact with the Cohere API for natural language processing.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/cohere-api.js
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.0-esm
+- 1.0.1
+- 1.0.1-esm
+
+## 获取地址
+
+- npm 安装：`npm install cohere-api.js`
+- npm registry：https://registry.npmjs.org/cohere-api.js

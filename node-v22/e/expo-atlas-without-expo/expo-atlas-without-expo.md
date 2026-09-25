@@ -1,0 +1,25 @@
+# expo-atlas-without-expo
+
+> 标签: bundle, devtools, explorer, expo, react, react-native, visualizer
+
+## 简介
+
+Supercharge your vanilla React Native apps with Expo Atlas metrics
+
+## 官网
+
+- 官网：https://github.com/v3ron/expo-atlas-without-expo#readme
+- 源码仓库：git+https://github.com/v3ron/expo-atlas-without-expo.git
+- npm 页面：https://www.npmjs.com/package/expo-atlas-without-expo
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install expo-atlas-without-expo`
+- npm registry：https://registry.npmjs.org/expo-atlas-without-expo

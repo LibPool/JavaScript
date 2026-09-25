@@ -1,0 +1,25 @@
+# @openhud/api
+
+> 标签: api, openhud
+
+## 简介
+
+OpenHUD API
+
+## 官网
+
+- 官网：https://github.com/openhud/api
+- 源码仓库：git+https://github.com/openhud/api.git
+- npm 页面：https://www.npmjs.com/package/@openhud/api
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @openhud/api`
+- npm registry：https://registry.npmjs.org/@openhud/api

@@ -1,0 +1,27 @@
+# @tspower/imageloader
+
+> 标签: image loder, image preview, image upload
+
+## 简介
+
+Funny image loader component
+
+## 官网
+
+- 官网：https://tspowerone.github.io/ImageLoader/
+- 源码仓库：git+https://github.com/TsPowerOne/ImageLoader.git
+- npm 页面：https://www.npmjs.com/package/@tspower/imageloader
+
+## 历史版本号
+
+- 当前版本：3.0.1
+
+- 2.2.0
+- 2.2.1
+- 3.0.0
+- 3.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @tspower/imageloader`
+- npm registry：https://registry.npmjs.org/@tspower/imageloader

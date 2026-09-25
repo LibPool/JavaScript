@@ -1,0 +1,35 @@
+# rax-hot-module-replacement-webpack-plugin
+
+> 标签: Rax, hot-loader, webpack-plugin
+
+## 简介
+
+Rax hot module replacement.
+
+## 官网
+
+- 官网：https://github.com/alibaba/rax#readme
+- 源码仓库：git+https://github.com/alibaba/rax.git
+- npm 页面：https://www.npmjs.com/package/rax-hot-module-replacement-webpack-plugin
+
+## 历史版本号
+
+- 当前版本：0.6.5
+
+- 0.4.9
+- 0.5.0
+- 0.5.0-beta
+- 0.5.1
+- 0.5.2
+- 0.5.4
+- 0.6.0
+- 0.6.1
+- 0.6.2
+- 0.6.3
+- 0.6.4
+- 0.6.5
+
+## 获取地址
+
+- npm 安装：`npm install rax-hot-module-replacement-webpack-plugin`
+- npm registry：https://registry.npmjs.org/rax-hot-module-replacement-webpack-plugin

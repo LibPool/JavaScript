@@ -1,0 +1,25 @@
+# xwctui1
+
+> 标签: Component, React, UI, antd
+
+## 简介
+
+React components library
+
+## 官网
+
+- 官网：https://www.baidu.com/
+- 源码仓库：git+https://github.com/liucy0321/xwctui.git
+- npm 页面：https://www.npmjs.com/package/xwctui1
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.8.8
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install xwctui1`
+- npm registry：https://registry.npmjs.org/xwctui1

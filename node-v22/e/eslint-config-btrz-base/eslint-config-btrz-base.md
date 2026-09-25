@@ -1,0 +1,25 @@
+# eslint-config-btrz-base
+
+> 标签: airbnb, eslint, eslintconfig, guide, style
+
+## 简介
+
+ESLint configuration for Betterez projects using vue
+
+## 官网
+
+- 官网：https://github.com/Betterez/btrz-style-guide
+- 源码仓库：git+https://github.com/Betterez/btrz-style-guide.git
+- npm 页面：https://www.npmjs.com/package/eslint-config-btrz-base
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.0.0
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install eslint-config-btrz-base`
+- npm registry：https://registry.npmjs.org/eslint-config-btrz-base

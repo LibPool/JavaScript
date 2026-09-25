@@ -1,0 +1,25 @@
+# obscene
+
+> 标签: gl, gl-mat4, graph, library, mat4, node, opengl, scene, scenegraph
+
+## 简介
+
+A minimal scene graph library
+
+## 官网
+
+- 官网：https://github.com/lakowske/obscene
+- 源码仓库：https://github.com/lakowske/obscene.git
+- npm 页面：https://www.npmjs.com/package/obscene
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install obscene`
+- npm registry：https://registry.npmjs.org/obscene

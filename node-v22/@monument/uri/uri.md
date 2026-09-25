@@ -1,0 +1,35 @@
+# @monument/uri
+
+> 标签: URI, URL, functions, introspect, modify, parse, resolve, serialize
+
+## 简介
+
+URI parsing, serializing, modification, resolution and introspection functions
+
+## 官网
+
+- 官网：https://github.com/monumentjs/workspace#readme
+- 源码仓库：git+https://github.com/monumentjs/workspace.git
+- npm 页面：https://www.npmjs.com/package/@monument/uri
+
+## 历史版本号
+
+- 当前版本：0.17.9
+
+- 0.17.6
+- 0.17.7
+- 0.17.8
+- 0.17.9
+- 0.2.0
+- 0.3.0
+- 0.4.0
+- 0.5.0
+- 0.6.0
+- 0.7.0
+- 0.8.0
+- 0.8.1
+
+## 获取地址
+
+- npm 安装：`npm install @monument/uri`
+- npm registry：https://registry.npmjs.org/@monument/uri

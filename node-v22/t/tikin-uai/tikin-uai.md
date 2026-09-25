@@ -1,0 +1,26 @@
+# tikin-uai
+
+> 标签: chakra-ui, components, design-system, react, storybook, typescript, ui
+
+## 简介
+
+A React design system built on Chakra UI, with components documented and tested in Storybook
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/tikin-uai
+
+## 历史版本号
+
+- 当前版本：0.0.5
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+
+## 获取地址
+
+- npm 安装：`npm install tikin-uai`
+- npm registry：https://registry.npmjs.org/tikin-uai

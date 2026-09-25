@@ -1,0 +1,24 @@
+# @ndj-fe/sa-sdk-miniprogram
+
+> 标签: mininprogram, sdk, sensorsdata
+
+## 简介
+
+sensorsdata miniprogram sdk
+
+## 官网
+
+- 官网：https://github.com/sensorsdata/sa-sdk-miniprogram#readme
+- 源码仓库：git+https://github.com/sensorsdata/sa-sdk-miniprogram.git
+- npm 页面：https://www.npmjs.com/package/@ndj-fe/sa-sdk-miniprogram
+
+## 历史版本号
+
+- 当前版本：1.19.5
+
+- 1.19.5
+
+## 获取地址
+
+- npm 安装：`npm install @ndj-fe/sa-sdk-miniprogram`
+- npm registry：https://registry.npmjs.org/@ndj-fe/sa-sdk-miniprogram

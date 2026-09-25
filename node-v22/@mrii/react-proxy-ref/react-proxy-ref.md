@@ -1,0 +1,26 @@
+# @mrii/react-proxy-ref
+
+> 标签: front-end, hooks, proxy, proxy-ref, react, react-hooks, react-ref, ref, utility, utils
+
+## 简介
+
+A simple package to create one ref for multiple elements.
+
+## 官网
+
+- 官网：https://github.com/AbdUlHamedMaree/react-proxy-ref
+- 源码仓库：git+https://github.com/AbdUlHamedMaree/react-proxy-ref.git
+- npm 页面：https://www.npmjs.com/package/@mrii/react-proxy-ref
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 0.0.1
+- 1.0.0
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @mrii/react-proxy-ref`
+- npm registry：https://registry.npmjs.org/@mrii/react-proxy-ref

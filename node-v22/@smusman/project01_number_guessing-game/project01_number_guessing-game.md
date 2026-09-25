@@ -1,0 +1,22 @@
+# @smusman/project01_number_guessing-game
+
+> 标签: JavaScript
+
+## 简介
+
+A number guessing game made with node.js, Typescript and Inquirer
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@smusman/project01_number_guessing-game
+
+## 历史版本号
+
+- 当前版本：3.0.0
+
+- 3.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @smusman/project01_number_guessing-game`
+- npm registry：https://registry.npmjs.org/@smusman/project01_number_guessing-game

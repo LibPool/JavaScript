@@ -1,0 +1,24 @@
+# react-native-bjy-thumbnail
+
+> 标签: react-native
+
+## 简介
+
+Get thumbnail from local media. Currently, it only supports for video.
+
+## 官网
+
+- 官网：https://github.com/phuochau/react-native-thumbnail#readme
+- 源码仓库：git+https://github.com/phuochau/react-native-thumbnail.git
+- npm 页面：https://www.npmjs.com/package/react-native-bjy-thumbnail
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install react-native-bjy-thumbnail`
+- npm registry：https://registry.npmjs.org/react-native-bjy-thumbnail

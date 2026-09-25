@@ -1,0 +1,25 @@
+# chenpeng-50a
+
+> 标签: JavaScript
+
+## 简介
+
+chenpeng-50a - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/chenpeng-50a
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install chenpeng-50a`
+- npm registry：https://registry.npmjs.org/chenpeng-50a

@@ -1,0 +1,25 @@
+# sheetify-sibling
+
+> 标签: javascript
+
+## 简介
+
+A sheetify plugin add sibling class selector to any first level class selector.
+
+## 官网
+
+- 官网：https://github.com/ZhouHansen/sheetify-sibling#readme
+- 源码仓库：git+https://github.com/ZhouHansen/sheetify-sibling.git
+- npm 页面：https://www.npmjs.com/package/sheetify-sibling
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install sheetify-sibling`
+- npm registry：https://registry.npmjs.org/sheetify-sibling

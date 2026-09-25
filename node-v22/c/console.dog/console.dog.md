@@ -1,0 +1,25 @@
+# console.dog
+
+> 标签: animal, console, console.log, dog, useless, woof
+
+## 简介
+
+without a doubt the most useful module you will ever find on npm
+
+## 官网
+
+- 官网：https://github.com/leemm/console.dog#readme
+- 源码仓库：git+https://github.com/leemm/console.dog.git
+- npm 页面：https://www.npmjs.com/package/console.dog
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install console.dog`
+- npm registry：https://registry.npmjs.org/console.dog

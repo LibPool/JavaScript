@@ -1,0 +1,24 @@
+# tabs-counter
+
+> 标签: browser, javascript, library
+
+## 简介
+
+Tabs Counter
+
+## 官网
+
+- 官网：https://github.com/AlexLonberg/tabs-counter
+- 源码仓库：git+https://github.com/AlexLonberg/tabs-counter.git
+- npm 页面：https://www.npmjs.com/package/tabs-counter
+
+## 历史版本号
+
+- 当前版本：0.1.3
+
+- 0.1.3
+
+## 获取地址
+
+- npm 安装：`npm install tabs-counter`
+- npm registry：https://registry.npmjs.org/tabs-counter

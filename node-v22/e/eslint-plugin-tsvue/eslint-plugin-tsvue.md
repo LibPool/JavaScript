@@ -1,0 +1,33 @@
+# eslint-plugin-tsvue
+
+> 标签: JavaScript
+
+## 简介
+
+Used for the JS/TS hybrid project, make vue+ts become another extension
+
+## 官网
+
+- 官网：https://github.com/maxming2333/lint/tree/main/packages/eslint-plugin-tsvue
+- 源码仓库：git+ssh://git@github.com/maxming2333/lint.git
+- npm 页面：https://www.npmjs.com/package/eslint-plugin-tsvue
+
+## 历史版本号
+
+- 当前版本：3.0.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 2.0.0
+- 2.0.1
+- 2.1.0
+- 2.2.0
+- 2.2.1
+- 3.0.0
+
+## 获取地址
+
+- npm 安装：`npm install eslint-plugin-tsvue`
+- npm registry：https://registry.npmjs.org/eslint-plugin-tsvue
+- Node 要求：>= 8.0.0

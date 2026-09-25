@@ -1,0 +1,22 @@
+# lichschij_auction
+
+> 标签: JavaScript
+
+## 简介
+
+lichschij_auction - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/lichschij_auction
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install lichschij_auction`
+- npm registry：https://registry.npmjs.org/lichschij_auction

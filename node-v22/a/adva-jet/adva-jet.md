@@ -1,0 +1,33 @@
+# adva-jet
+
+> 标签: svelte
+
+## 简介
+
+[Advait Nair's](https://advaitnair.org) [JET UI System](https://jet.advaitnair.org) [for Svelte](https://svelte.dev) ## Quick-start https://jet.advaitnair.org/docs
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/adva-jet
+
+## 历史版本号
+
+- 当前版本：0.2.11
+
+- 0.2.0
+- 0.2.1
+- 0.2.10
+- 0.2.11
+- 0.2.2
+- 0.2.3
+- 0.2.4
+- 0.2.5
+- 0.2.6
+- 0.2.7
+- 0.2.8
+- 0.2.9
+
+## 获取地址
+
+- npm 安装：`npm install adva-jet`
+- npm registry：https://registry.npmjs.org/adva-jet

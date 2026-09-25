@@ -1,0 +1,30 @@
+# eaqueest
+
+> 标签: accusantium, block-chain, blockchain, cardano, dApp, doloremque, et, minus, offchain, plutus, quo, rem, sit, smart contract, smart contracts
+
+## 简介
+
+An embedded DSL for Cardano smart contracts creation coupled with a library for Cardano transactions, all in Typescript
+
+## 官网
+
+- 官网：https://github.com/HoraceBarrows/eaqueest#readme
+- 源码仓库：git+https://github.com/HoraceBarrows/eaqueest.git
+- npm 页面：https://www.npmjs.com/package/eaqueest
+
+## 历史版本号
+
+- 当前版本：1.2.1
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.2.0
+- 1.2.1
+
+## 获取地址
+
+- npm 安装：`npm install eaqueest`
+- npm registry：https://registry.npmjs.org/eaqueest

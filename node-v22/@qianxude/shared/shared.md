@@ -1,0 +1,30 @@
+# @qianxude/shared
+
+> 标签: JavaScript
+
+## 简介
+
+qian shared types and classes
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@qianxude/shared
+
+## 历史版本号
+
+- 当前版本：0.2.8
+
+- 0.1.2
+- 0.1.3
+- 0.2.1
+- 0.2.4
+- 0.2.5
+- 0.2.6
+- 0.2.7
+- 0.2.8
+
+## 获取地址
+
+- npm 安装：`npm install @qianxude/shared`
+- npm registry：https://registry.npmjs.org/@qianxude/shared
+- Node 要求：>=18

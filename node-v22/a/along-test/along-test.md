@@ -1,0 +1,22 @@
+# along-test
+
+> 标签: JavaScript
+
+## 简介
+
+这是我开发的第一个第三方模块化包
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/along-test
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install along-test`
+- npm registry：https://registry.npmjs.org/along-test

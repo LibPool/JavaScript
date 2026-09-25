@@ -1,0 +1,24 @@
+# some-own
+
+> 标签: for-own, iterate, iteration, javascript, object, own, some, utility
+
+## 简介
+
+Like [].some but for objects
+
+## 官网
+
+- 官网：https://github.com/ryanve/some-own
+- 源码仓库：git+https://github.com/ryanve/some-own.git
+- npm 页面：https://www.npmjs.com/package/some-own
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install some-own`
+- npm registry：https://registry.npmjs.org/some-own

@@ -1,0 +1,30 @@
+# roammem
+
+> 标签: ai, bidirectional-links, mcp, memory, roam
+
+## 简介
+
+Bidirectional-linked project memory system for AI, exposed as MCP server
+
+## 官网
+
+- 官网：https://github.com/guxi11/roammem#readme
+- 源码仓库：git+https://github.com/guxi11/roammem.git
+- npm 页面：https://www.npmjs.com/package/roammem
+
+## 历史版本号
+
+- 当前版本：0.1.7
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.6
+- 0.1.7
+
+## 获取地址
+
+- npm 安装：`npm install roammem`
+- npm registry：https://registry.npmjs.org/roammem

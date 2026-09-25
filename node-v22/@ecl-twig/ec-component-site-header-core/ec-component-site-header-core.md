@@ -1,0 +1,35 @@
+# @ecl-twig/ec-component-site-header-core
+
+> 标签: design-system, ecl, europa-component-library, twig
+
+## 简介
+
+ECL-Twig Site Header Core
+
+## 官网
+
+- 官网：https://github.com/ec-europa/ecl-twig
+- 源码仓库：git+https://github.com/ec-europa/ecl-twig.git
+- npm 页面：https://www.npmjs.com/package/@ecl-twig/ec-component-site-header-core
+
+## 历史版本号
+
+- 当前版本：2.39.0
+
+- 2.32.0
+- 2.33.0
+- 2.33.1
+- 2.33.2
+- 2.34.0
+- 2.35.0
+- 2.35.1
+- 2.35.2
+- 2.36.0
+- 2.37.0
+- 2.38.0
+- 2.39.0
+
+## 获取地址
+
+- npm 安装：`npm install @ecl-twig/ec-component-site-header-core`
+- npm registry：https://registry.npmjs.org/@ecl-twig/ec-component-site-header-core

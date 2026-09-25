@@ -1,0 +1,36 @@
+# @vuedx/projectconfig
+
+> 标签: JavaScript
+
+## 简介
+
+TypeScript plugin for Vue
+
+## 官网
+
+- 官网：https://github.com/znck/vue-developer-experience#readme
+- 源码仓库：git+https://github.com/znck/vue-developer-experience.git
+- npm 页面：https://www.npmjs.com/package/@vuedx/projectconfig
+
+## 历史版本号
+
+- 当前版本：0.7.3
+
+- 0.7.3-next-1666119500.0
+- 0.7.3-next-1666207395.0
+- 0.7.3-next-1666251997.0
+- 0.7.3-next-1667343140.0
+- 0.7.3-next-1667343481.0
+- 0.7.3-next-1667345249.0
+- 0.7.4-next-1667345594.0
+- 0.7.4-next-1667540051.0
+- 0.7.4-next-1667576550.0
+- 0.7.4-next-1667925330.0
+- 0.7.4-next-1667938774.0
+- 0.7.4-next-1667939290.0
+- 共 128 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @vuedx/projectconfig`
+- npm registry：https://registry.npmjs.org/@vuedx/projectconfig

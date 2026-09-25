@@ -1,0 +1,28 @@
+# hubot-dump
+
+> 标签: debug, dump, hubot, script
+
+## 简介
+
+A simple hubot script to output all messages to the console
+
+## 官网
+
+- 官网：https://github.com/resin-io-modules/hubot-monorepo#readme
+- 源码仓库：git+https://github.com/resin-io-modules/hubot-monorepo.git
+- npm 页面：https://www.npmjs.com/package/hubot-dump
+
+## 历史版本号
+
+- 当前版本：0.0.5
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+
+## 获取地址
+
+- npm 安装：`npm install hubot-dump`
+- npm registry：https://registry.npmjs.org/hubot-dump

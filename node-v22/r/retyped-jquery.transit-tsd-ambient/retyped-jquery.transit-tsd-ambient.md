@@ -1,0 +1,24 @@
+# retyped-jquery.transit-tsd-ambient
+
+> 标签: retyped, tsd, tsd-ambient
+
+## 简介
+
+TypeScript typings for jquery.transit
+
+## 官网
+
+- 官网：https://github.com/retyped/jquery.transit-tsd-ambient#readme
+- 源码仓库：git+https://github.com/retyped/jquery.transit-tsd-ambient.git
+- npm 页面：https://www.npmjs.com/package/retyped-jquery.transit-tsd-ambient
+
+## 历史版本号
+
+- 当前版本：0.9.9-0
+
+- 0.9.9-0
+
+## 获取地址
+
+- npm 安装：`npm install retyped-jquery.transit-tsd-ambient`
+- npm registry：https://registry.npmjs.org/retyped-jquery.transit-tsd-ambient

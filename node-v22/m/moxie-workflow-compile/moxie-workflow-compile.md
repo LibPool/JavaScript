@@ -1,0 +1,24 @@
+# moxie-workflow-compile
+
+> 标签: JavaScript
+
+## 简介
+
+Core workflow behavior for `moxie compile` command
+
+## 官网
+
+- 官网：https://github.com/moxiesuite/moxie-workflow-compile#readme
+- 源码仓库：git+https://github.com/moxiesuite/moxie-debug-utils.git
+- npm 页面：https://www.npmjs.com/package/moxie-workflow-compile
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install moxie-workflow-compile`
+- npm registry：https://registry.npmjs.org/moxie-workflow-compile

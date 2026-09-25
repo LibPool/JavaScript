@@ -1,0 +1,25 @@
+# @tool-developer/wo-useragent
+
+> 标签: detect, os, useragent
+
+## 简介
+
+detect browser, os and device based on the userAgent string
+
+## 官网
+
+- 官网：https://github.com/tool-developer/wo-useragent#readme
+- 源码仓库：git+https://github.com/tool-developer/wo-useragent.git
+- npm 页面：https://www.npmjs.com/package/@tool-developer/wo-useragent
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @tool-developer/wo-useragent`
+- npm registry：https://registry.npmjs.org/@tool-developer/wo-useragent

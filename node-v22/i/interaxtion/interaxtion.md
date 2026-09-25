@@ -1,0 +1,24 @@
+# interaxtion
+
+> 标签: a11y, accessibility, aria, axe, browser, dialog, modal, patterns, playwright, testing, vitest, wcag
+
+## 简介
+
+Framework-agnostic analyzer for automated accessibility testing.
+
+## 官网
+
+- 官网：https://github.com/timdamen/interaxtion#readme
+- 源码仓库：git+https://github.com/timdamen/interaxtion.git
+- npm 页面：https://www.npmjs.com/package/interaxtion
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install interaxtion`
+- npm registry：https://registry.npmjs.org/interaxtion

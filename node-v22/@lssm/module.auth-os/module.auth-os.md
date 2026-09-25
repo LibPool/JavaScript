@@ -1,0 +1,24 @@
+# @lssm/module.auth-os
+
+> 标签: JavaScript
+
+## 简介
+
+Reusable AuthOS module with fake adapters and UI flows for identity, authentication, organizations, and Connect with LSSM.
+
+## 官网
+
+- 官网：https://github.com/lssm-tech/contractspec#readme
+- 源码仓库：git+https://github.com/lssm-tech/contractspec.git
+- npm 页面：https://www.npmjs.com/package/@lssm/module.auth-os
+
+## 历史版本号
+
+- 当前版本：2.0.2
+
+- 2.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @lssm/module.auth-os`
+- npm registry：https://registry.npmjs.org/@lssm/module.auth-os

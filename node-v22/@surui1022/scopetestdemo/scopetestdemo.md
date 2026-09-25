@@ -1,0 +1,22 @@
+# @surui1022/scopetestdemo
+
+> 标签: JavaScript
+
+## 简介
+
+scope test demo
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@surui1022/scopetestdemo
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @surui1022/scopetestdemo`
+- npm registry：https://registry.npmjs.org/@surui1022/scopetestdemo

@@ -1,0 +1,25 @@
+# eslint-config-codesupport
+
+> 标签: config, eslint
+
+## 简介
+
+The official ESLint Config for CodeSupport's JavaScript projects.
+
+## 官网
+
+- 官网：https://github.com/codesupport/eslint-config-codesupport#readme
+- 源码仓库：git+https://github.com/codesupport/eslint-config-codesupport.git
+- npm 页面：https://www.npmjs.com/package/eslint-config-codesupport
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install eslint-config-codesupport`
+- npm registry：https://registry.npmjs.org/eslint-config-codesupport

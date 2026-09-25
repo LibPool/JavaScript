@@ -1,0 +1,36 @@
+# @tadashi/cache-redis
+
+> 标签: cache, lib, redis
+
+## 简介
+
+Using redis as cache
+
+## 官网
+
+- 官网：https://github.com/lagden/cache-redis#readme
+- 源码仓库：git+ssh://git@github.com/lagden/cache-redis.git
+- npm 页面：https://www.npmjs.com/package/@tadashi/cache-redis
+
+## 历史版本号
+
+- 当前版本：7.0.1
+
+- 4.3.0
+- 5.0.0
+- 5.0.1
+- 6.0.0
+- 6.1.0
+- 6.2.0
+- 6.3.0
+- 6.3.1
+- 6.4.0
+- 6.4.1
+- 7.0.0
+- 7.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @tadashi/cache-redis`
+- npm registry：https://registry.npmjs.org/@tadashi/cache-redis
+- Node 要求：>=20

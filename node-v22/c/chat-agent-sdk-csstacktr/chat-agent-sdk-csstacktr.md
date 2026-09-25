@@ -1,0 +1,28 @@
+# chat-agent-sdk-csstacktr
+
+> 标签: ai, chat, contentstack, gemini, groq, llm, openai, react, sdk, typescript
+
+## 简介
+
+Lightweight SDK for embedding chat agents powered by multiple LLMs and Contentstack
+
+## 官网
+
+- 官网：https://github.com/tanish435/chat-agent-platform-sdk#readme
+- 源码仓库：git+https://github.com/tanish435/chat-agent-platform-sdk.git
+- npm 页面：https://www.npmjs.com/package/chat-agent-sdk-csstacktr
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 1.0.0
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+
+## 获取地址
+
+- npm 安装：`npm install chat-agent-sdk-csstacktr`
+- npm registry：https://registry.npmjs.org/chat-agent-sdk-csstacktr

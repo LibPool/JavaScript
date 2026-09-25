@@ -1,0 +1,22 @@
+# konect-api-v1-test
+
+> 标签: JavaScript
+
+## 简介
+
+The typescript API for creating components
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/konect-api-v1-test
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install konect-api-v1-test`
+- npm registry：https://registry.npmjs.org/konect-api-v1-test

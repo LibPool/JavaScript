@@ -1,0 +1,24 @@
+# @mochi-css/bento
+
+> 标签: css-in-js, layout, primitives, react
+
+## 简介
+
+This package is part of the [Mochi-CSS project](https://github.com/Niikelion/mochi-css). It provides compile-time layout primitives — className generators and React components — built on `@mochi-css/vanilla`.
+
+## 官网
+
+- 官网：https://github.com/Niikelion/mochi-css#readme
+- 源码仓库：git+ssh://git@github.com/Niikelion/mochi-css.git
+- npm 页面：https://www.npmjs.com/package/@mochi-css/bento
+
+## 历史版本号
+
+- 当前版本：0.2.1
+
+- 0.2.1
+
+## 获取地址
+
+- npm 安装：`npm install @mochi-css/bento`
+- npm registry：https://registry.npmjs.org/@mochi-css/bento

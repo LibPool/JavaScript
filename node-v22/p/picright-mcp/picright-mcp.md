@@ -1,0 +1,25 @@
+# picright-mcp
+
+> 标签: creative-commons, images, license, mcp, mermaid, model-context-protocol, openverse, pexels, pixabay, screenshot
+
+## 简介
+
+License-aware image search & insert MCP server (Openverse / Pixabay / Pexels) with a provenance ledger
+
+## 官网
+
+- 官网：https://github.com/ChloePark85/picright-mcp#readme
+- 源码仓库：git+https://github.com/ChloePark85/picright-mcp.git
+- npm 页面：https://www.npmjs.com/package/picright-mcp
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install picright-mcp`
+- npm registry：https://registry.npmjs.org/picright-mcp
+- Node 要求：>=20

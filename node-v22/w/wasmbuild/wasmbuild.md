@@ -1,0 +1,26 @@
+# wasmbuild
+
+> 标签: deno, rust, wasm, wasmbuild
+
+## 简介
+
+wasmbuild template
+
+## 官网
+
+- 官网：https://github.com/btwiuse/wasmbuild#readme
+- 源码仓库：git+https://github.com/btwiuse/wasmbuild.git
+- npm 页面：https://www.npmjs.com/package/wasmbuild
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install wasmbuild`
+- npm registry：https://registry.npmjs.org/wasmbuild

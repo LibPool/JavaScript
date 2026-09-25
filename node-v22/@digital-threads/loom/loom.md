@@ -1,0 +1,36 @@
+# @digital-threads/loom
+
+> 标签: agent, ai, aimux, automation, claude, claude-code, code-review, devtools, orchestrator, pipeline
+
+## 简介
+
+Loom — local AI-dev orchestrator: give it a task and it runs the work through an analysis → spec → code → review → PR pipeline on a board, with cost, reasoning memory and multi-account support. Public beta.
+
+## 官网
+
+- 官网：https://github.com/Digital-Threads/loom#readme
+- 源码仓库：git+https://github.com/Digital-Threads/loom.git
+- npm 页面：https://www.npmjs.com/package/@digital-threads/loom
+
+## 历史版本号
+
+- 当前版本：0.7.5
+
+- 0.3.3
+- 0.4.0
+- 0.4.1
+- 0.4.2
+- 0.5.0
+- 0.6.0
+- 0.7.0
+- 0.7.1
+- 0.7.2
+- 0.7.3
+- 0.7.4
+- 0.7.5
+
+## 获取地址
+
+- npm 安装：`npm install @digital-threads/loom`
+- npm registry：https://registry.npmjs.org/@digital-threads/loom
+- Node 要求：>=22

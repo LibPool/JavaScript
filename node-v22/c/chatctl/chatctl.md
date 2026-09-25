@@ -1,0 +1,22 @@
+# chatctl
+
+> 标签: JavaScript
+
+## 简介
+
+This repository contains placeholder packages to reserve the "behavedb" name across multiple package registries.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/chatctl
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install chatctl`
+- npm registry：https://registry.npmjs.org/chatctl

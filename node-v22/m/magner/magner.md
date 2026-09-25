@@ -1,0 +1,37 @@
+# magner
+
+> 标签: admin, admin dashboard, admin panel, cli, create-magner, create-project, element-ui, javascript, magner, typescript, universal admin, vue
+
+## 简介
+
+Universal admin panel magnetic to any backend
+
+## 官网
+
+- 官网：https://github.com/code-pilots/magner#readme
+- 源码仓库：git+https://github.com/code-pilots/magner.git
+- npm 页面：https://www.npmjs.com/package/magner
+
+## 历史版本号
+
+- 当前版本：0.7.52
+
+- 0.7.46
+- 0.7.47
+- 0.7.48
+- 0.7.49
+- 0.7.5
+- 0.7.50
+- 0.7.51
+- 0.7.52
+- 0.7.6
+- 0.7.7
+- 0.7.8
+- 0.7.9
+- 共 120 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install magner`
+- npm registry：https://registry.npmjs.org/magner
+- Node 要求：>=18

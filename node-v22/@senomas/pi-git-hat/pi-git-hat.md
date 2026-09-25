@@ -1,0 +1,34 @@
+# @senomas/pi-git-hat
+
+> 标签: branching, git, pi-extension, pi-package, roles, workflow
+
+## 简介
+
+Pi extension for role-based Git branch workflows — wear different hats by switching branches
+
+## 官网
+
+- 源码仓库：git+https://codeberg.org/senomas/git-hat.git
+- npm 页面：https://www.npmjs.com/package/@senomas/pi-git-hat
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.3.18
+- 0.3.19
+- 0.3.20
+- 0.3.21
+- 0.3.3
+- 0.3.4
+- 0.3.5
+- 0.3.6
+- 0.3.7
+- 0.3.8
+- 0.3.9
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @senomas/pi-git-hat`
+- npm registry：https://registry.npmjs.org/@senomas/pi-git-hat

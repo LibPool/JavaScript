@@ -1,0 +1,28 @@
+# hostpad
+
+> 标签: JavaScript
+
+## 简介
+
+HostPad 的 MCP 服务器 + iPhone 同步桥：AI agent 经 MCP 管理与调试 iOS 工具（写→推→读日志闭环）
+
+## 官网
+
+- 官网：https://github.com/Huang-Yangkai/hostpad#readme
+- 源码仓库：git+https://github.com/Huang-Yangkai/hostpad.git
+- npm 页面：https://www.npmjs.com/package/hostpad
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install hostpad`
+- npm registry：https://registry.npmjs.org/hostpad
+- Node 要求：>=18

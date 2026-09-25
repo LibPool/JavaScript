@@ -1,0 +1,34 @@
+# mordoc
+
+> 标签: documentation, markdoc, react, static-site-generator, vite
+
+## 简介
+
+A modern documentation site generator powered by Vite, React, and Markdoc.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/mordoc
+
+## 历史版本号
+
+- 当前版本：1.8.1
+
+- 1.5.0
+- 1.5.1
+- 1.6.0
+- 1.6.1
+- 1.6.2
+- 1.6.3
+- 1.6.4
+- 1.6.5
+- 1.6.6
+- 1.7.0
+- 1.8.0
+- 1.8.1
+
+## 获取地址
+
+- npm 安装：`npm install mordoc`
+- npm registry：https://registry.npmjs.org/mordoc
+- Node 要求：>=24.18.1

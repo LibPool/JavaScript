@@ -1,0 +1,26 @@
+# @sdux-vault/svelte
+
+> 标签: createSubscriber, deterministic, devtools, feature-cell, immutable, pipeline, reactive, reactive-state, sdux, sdux-vault, snapshot, state-management, svelte, svelte-5, svelte-runes, svelte-state-management
+
+## 简介
+
+Deterministic state management for every framework — one pipeline, zero ambiguity.
+
+## 官网
+
+- 官网：https://www.sdux-vault.com
+- 源码仓库：git+https://github.com/sdux-vault/vault.git
+- npm 页面：https://www.npmjs.com/package/@sdux-vault/svelte
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @sdux-vault/svelte`
+- npm registry：https://registry.npmjs.org/@sdux-vault/svelte
+- Node 要求：>=18

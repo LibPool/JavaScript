@@ -1,0 +1,27 @@
+# @raideno/convex-onboardings
+
+> 标签: convex, onboarding, react
+
+## 简介
+
+A reusable Convex package for building onboardings.
+
+## 官网
+
+- 官网：https://github.com/raideno/convex-onboardings
+- 源码仓库：git+https://github.com/raideno/convex-onboardings.git
+- npm 页面：https://www.npmjs.com/package/@raideno/convex-onboardings
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @raideno/convex-onboardings`
+- npm registry：https://registry.npmjs.org/@raideno/convex-onboardings

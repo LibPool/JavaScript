@@ -1,0 +1,29 @@
+# draft-js-new-block-side-toolbar-plugin
+
+> 标签: components, draft, editor, react, react-component, ux, widget, wysiwyg
+
+## 简介
+
+Toolbar Plugin for DraftJS
+
+## 官网
+
+- 官网：https://github.com/dmitrydyomin/draft-js-plugins#readme
+- 源码仓库：git+https://github.com/dmitrydyomin/draft-js-plugins.git
+- npm 页面：https://www.npmjs.com/package/draft-js-new-block-side-toolbar-plugin
+
+## 历史版本号
+
+- 当前版本：2.0.10
+
+- 2.0.10
+- 2.0.5
+- 2.0.6
+- 2.0.7
+- 2.0.8
+- 2.0.9
+
+## 获取地址
+
+- npm 安装：`npm install draft-js-new-block-side-toolbar-plugin`
+- npm registry：https://registry.npmjs.org/draft-js-new-block-side-toolbar-plugin

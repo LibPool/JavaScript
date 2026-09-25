@@ -1,0 +1,36 @@
+# remark-mdx-remove-imports
+
+> 标签: JavaScript
+
+## 简介
+
+Deprecated: this package is no longer maintained.
+
+## 官网
+
+- 官网：https://github.com/mdx-js/mdx#readme
+- 源码仓库：git+https://github.com/mdx-js/mdx.git
+- npm 页面：https://www.npmjs.com/package/remark-mdx-remove-imports
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.6.7
+- 1.6.8
+- 1.6.9
+- 2.0.0
+- 2.0.0-next.0
+- 2.0.0-next.1
+- 2.0.0-next.3
+- 2.0.0-next.4
+- 2.0.0-next.5
+- 2.0.0-next.6
+- 2.0.0-next.7
+- 2.0.0-next.8
+- 共 85 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install remark-mdx-remove-imports`
+- npm registry：https://registry.npmjs.org/remark-mdx-remove-imports

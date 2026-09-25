@@ -1,0 +1,24 @@
+# ossproject_tea
+
+> 标签: JavaScript
+
+## 简介
+
+this is project for tea oss stacking
+
+## 官网
+
+- 官网：https://github.com/obbbeh/testnet_sicantik#readme
+- 源码仓库：git+ssh://git@github.com/obbbeh/testnet_sicantik.git
+- npm 页面：https://www.npmjs.com/package/ossproject_tea
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install ossproject_tea`
+- npm registry：https://registry.npmjs.org/ossproject_tea

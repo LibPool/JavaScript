@@ -1,0 +1,36 @@
+# @yosgo/swap-ui
+
+> 标签: Component, Library, Material-ui, React, Rollup, Sass, Storybook, Typescript
+
+## 简介
+
+SWAP UI Framework. www.swap.work
+
+## 官网
+
+- 官网：https://github.com/yosgo-open-source/swap-ui
+- 源码仓库：git+https://github.com/yosgo-open-source/swap-ui.git
+- npm 页面：https://www.npmjs.com/package/@yosgo/swap-ui
+
+## 历史版本号
+
+- 当前版本：1.0.142
+
+- 1.0.142
+- 2.0.0-beta.1
+- 2.0.0-beta.10
+- 2.0.0-beta.11
+- 2.0.0-beta.2
+- 2.0.0-beta.3
+- 2.0.0-beta.4
+- 2.0.0-beta.5
+- 2.0.0-beta.6
+- 2.0.0-beta.7
+- 2.0.0-beta.8
+- 2.0.0-beta.9
+- 共 151 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @yosgo/swap-ui`
+- npm registry：https://registry.npmjs.org/@yosgo/swap-ui

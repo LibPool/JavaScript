@@ -1,0 +1,35 @@
+# organized
+
+> 标签: AMD, organize, require.js
+
+## 简介
+
+Organizer and optimizer Node.js applications using AMD concepts
+
+## 官网
+
+- 官网：https://github.com/andrehrferreira/organized
+- 源码仓库：git+https://github.com/andrehrferreira/organized.git
+- npm 页面：https://www.npmjs.com/package/organized
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 0.3.3
+- 0.3.4
+- 0.4.0
+- 0.4.1
+- 0.4.3
+- 0.4.4
+- 0.4.5
+- 0.4.6
+- 0.5.2
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install organized`
+- npm registry：https://registry.npmjs.org/organized

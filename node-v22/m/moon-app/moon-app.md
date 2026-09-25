@@ -1,0 +1,36 @@
+# moon-app
+
+> 标签: Electron, demo, quick, start, tutorial, typescript
+
+## 简介
+
+A minimal Electron application written with Typescript
+
+## 官网
+
+- 官网：https://github.com/electron/electron-quick-start-typescript#readme
+- 源码仓库：git+https://github.com/electron/electron-quick-start-typescript.git
+- npm 页面：https://www.npmjs.com/package/moon-app
+
+## 历史版本号
+
+- 当前版本：0.0.8-alpha.1
+
+- 0.0.7-alpha.71
+- 0.0.7-alpha.72
+- 0.0.7-beta.1
+- 0.0.7-beta.10
+- 0.0.7-beta.11
+- 0.0.7-beta.2
+- 0.0.7-beta.3
+- 0.0.7-beta.5
+- 0.0.7-beta.6
+- 0.0.7-beta.7
+- 0.0.7-beta.9
+- 0.0.8-alpha.1
+- 共 65 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install moon-app`
+- npm registry：https://registry.npmjs.org/moon-app

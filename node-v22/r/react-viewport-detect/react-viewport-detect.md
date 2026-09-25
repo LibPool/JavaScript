@@ -1,0 +1,30 @@
+# react-viewport-detect
+
+> 标签: freeze, intersection observer, react, react animation, react hook, react viewport, react viewport detect, trigger animation
+
+## 简介
+
+A React hook to detect if an HTML Element has been display in the viewport. This is easy to use. You just have to provide an react ref. By default it freeze the value when the element has been display. That is nice to triggered one time animation !
+
+## 官网
+
+- 官网：https://github.com/Alexandrebdry/react-in-viewport#readme
+- 源码仓库：git+https://github.com/Alexandrebdry/react-in-viewport.git
+- npm 页面：https://www.npmjs.com/package/react-viewport-detect
+
+## 历史版本号
+
+- 当前版本：2.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 2.0.0
+- 2.0.1
+- 2.0.2
+
+## 获取地址
+
+- npm 安装：`npm install react-viewport-detect`
+- npm registry：https://registry.npmjs.org/react-viewport-detect

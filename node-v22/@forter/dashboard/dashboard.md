@@ -1,0 +1,36 @@
+# @forter/dashboard
+
+> 标签: custom-elements, lit-element, lit-element-2.x, web-components
+
+## 简介
+
+dashboard from Forter Components
+
+## 官网
+
+- 官网：https://github.com/forter/web-components#readme
+- 源码仓库：git+https://github.com/forter/web-components.git
+- npm 页面：https://www.npmjs.com/package/@forter/dashboard
+
+## 历史版本号
+
+- 当前版本：2.26.5
+
+- 2.24.1
+- 2.24.2
+- 2.24.3
+- 2.24.4
+- 2.25.0
+- 2.25.1
+- 2.26.0
+- 2.26.1
+- 2.26.2
+- 2.26.3
+- 2.26.4
+- 2.26.5
+- 共 79 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @forter/dashboard`
+- npm registry：https://registry.npmjs.org/@forter/dashboard

@@ -1,0 +1,24 @@
+# vite-plugin-observing-components
+
+> 标签: mobx, observer, react, reactive, vite, vite-plugin
+
+## 简介
+
+Vite plugin that wraps React components with observer — works with any Vite version and any underlying transformer (SWC or Babel)
+
+## 官网
+
+- 官网：https://github.com/christianalfoni/observing-components#readme
+- 源码仓库：git+https://github.com/christianalfoni/observing-components.git
+- npm 页面：https://www.npmjs.com/package/vite-plugin-observing-components
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install vite-plugin-observing-components`
+- npm registry：https://registry.npmjs.org/vite-plugin-observing-components

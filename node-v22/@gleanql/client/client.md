@@ -1,0 +1,36 @@
+# @gleanql/client
+
+> 标签: graphql, graphql-client, normalized-cache, optimistic-updates, react, suspense
+
+## 简介
+
+Glean's runtime: normalized cache, fine-grained reactivity, mutations, subscriptions and React hooks
+
+## 官网
+
+- 官网：https://gleanql.com
+- 源码仓库：git+https://github.com/gleanql/gleanql.git
+- npm 页面：https://www.npmjs.com/package/@gleanql/client
+
+## 历史版本号
+
+- 当前版本：0.1.20
+
+- 0.1.17
+- 0.1.18
+- 0.1.19
+- 0.1.2
+- 0.1.20
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install @gleanql/client`
+- npm registry：https://registry.npmjs.org/@gleanql/client
+- Node 要求：>=20

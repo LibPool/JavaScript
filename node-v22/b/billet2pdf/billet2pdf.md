@@ -1,0 +1,30 @@
+# billet2pdf
+
+> 标签: pdf
+
+## 简介
+
+npm install billet2PDF --save
+
+## 官网
+
+- 官网：https://github.com/Regnised/billet2PDF#readme
+- 源码仓库：git+https://github.com/Regnised/billet2PDF.git
+- npm 页面：https://www.npmjs.com/package/billet2pdf
+
+## 历史版本号
+
+- 当前版本：1.0.6
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+
+## 获取地址
+
+- npm 安装：`npm install billet2pdf`
+- npm registry：https://registry.npmjs.org/billet2pdf

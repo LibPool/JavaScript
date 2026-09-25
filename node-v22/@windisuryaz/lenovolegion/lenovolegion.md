@@ -1,0 +1,24 @@
+# @windisuryaz/lenovolegion
+
+> 标签: JavaScript
+
+## 简介
+
+@windisuryaz/lenovolegion - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/KanataIX/lenovolegion#readme
+- 源码仓库：git+https://github.com/KanataIX/lenovolegion.git
+- npm 页面：https://www.npmjs.com/package/@windisuryaz/lenovolegion
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @windisuryaz/lenovolegion`
+- npm registry：https://registry.npmjs.org/@windisuryaz/lenovolegion

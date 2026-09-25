@@ -1,0 +1,25 @@
+# rs-react-native-chart
+
+> 标签: bar chart, bezier line chart, chart, contribution chart, line chart, pie chart, progress chart, react, react native, stacked area chart, stacked bar chart
+
+## 简介
+
+react-native-chart-kit
+
+## 官网
+
+- 官网：https://github.com/indiespirit/react-native-chart-kit
+- 源码仓库：git+https://github.com/rsoubrane/react-native-chart-kit.git
+- npm 页面：https://www.npmjs.com/package/rs-react-native-chart
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install rs-react-native-chart`
+- npm registry：https://registry.npmjs.org/rs-react-native-chart

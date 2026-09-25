@@ -1,0 +1,25 @@
+# pon-assets
+
+> 标签: Pon
+
+## 简介
+
+Assets for pon
+
+## 官网
+
+- 官网：https://github.com/realglobe-Inc/pon-assets#readme
+- 源码仓库：git+https://github.com/realglobe-inc/pon-assets.git
+- npm 页面：https://www.npmjs.com/package/pon-assets
+
+## 历史版本号
+
+- 当前版本：1.1.5
+
+- 1.1.5
+
+## 获取地址
+
+- npm 安装：`npm install pon-assets`
+- npm registry：https://registry.npmjs.org/pon-assets
+- Node 要求：>=6

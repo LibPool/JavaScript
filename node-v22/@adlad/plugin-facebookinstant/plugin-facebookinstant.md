@@ -1,0 +1,27 @@
+# @adlad/plugin-facebookinstant
+
+> 标签: ads, facebook, games
+
+## 简介
+
+AdLad plugin for the Facebook Instant Games sdk.
+
+## 官网
+
+- 官网：https://github.com/Pelican-Party/adlad-plugin-facebookinstant#readme
+- 源码仓库：git+https://github.com/Pelican-Party/adlad-plugin-facebookinstant.git
+- npm 页面：https://www.npmjs.com/package/@adlad/plugin-facebookinstant
+
+## 历史版本号
+
+- 当前版本：0.4.0
+
+- 0.1.1
+- 0.2.0
+- 0.3.1
+- 0.4.0
+
+## 获取地址
+
+- npm 安装：`npm install @adlad/plugin-facebookinstant`
+- npm registry：https://registry.npmjs.org/@adlad/plugin-facebookinstant

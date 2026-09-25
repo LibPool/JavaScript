@@ -1,0 +1,36 @@
+# s3_yum_repository_projen
+
+> 标签: aws, cdk, s3
+
+## 简介
+
+<!-- markdownlint-disable MD013 --> # YUM repository hosted in an AWS S3 bucket
+
+## 官网
+
+- 官网：https://github.com/stefanfreitag/s3_yum_repository#readme
+- 源码仓库：git://github.com/stefanfreitag/s3_yum_repository.git
+- npm 页面：https://www.npmjs.com/package/s3_yum_repository_projen
+
+## 历史版本号
+
+- 当前版本：0.0.140
+
+- 0.0.138
+- 0.0.139
+- 0.0.140
+- 0.0.91
+- 0.0.92
+- 0.0.93
+- 0.0.94
+- 0.0.95
+- 0.0.96
+- 0.0.97
+- 0.0.98
+- 0.0.99
+- 共 140 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install s3_yum_repository_projen`
+- npm registry：https://registry.npmjs.org/s3_yum_repository_projen

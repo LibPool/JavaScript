@@ -1,0 +1,36 @@
+# make-space
+
+> 标签: cli, cli-app
+
+## 简介
+
+Free up hard disk space
+
+## 官网
+
+- 官网：https://github.com/JonnyBurger/make-space#readme
+- 源码仓库：git+https://github.com/JonnyBurger/make-space.git
+- npm 页面：https://www.npmjs.com/package/make-space
+
+## 历史版本号
+
+- 当前版本：0.1.25
+
+- 0.1.18
+- 0.1.19
+- 0.1.20
+- 0.1.21
+- 0.1.22
+- 0.1.23
+- 0.1.24
+- 0.1.25
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install make-space`
+- npm registry：https://registry.npmjs.org/make-space
+- Node 要求：>=4

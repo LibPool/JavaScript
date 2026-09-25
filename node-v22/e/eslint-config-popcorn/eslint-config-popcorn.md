@@ -1,0 +1,35 @@
+# eslint-config-popcorn
+
+> 标签: airbnb, eslint, prettier, typescript
+
+## 简介
+
+Eslint configuration for using ESLint, TypeScript, Airbnb's ESLint config and Prettier together for Node.js
+
+## 官网
+
+- 官网：https://github.com/jpwesselink/eslint-config-popcorn#readme
+- 源码仓库：git+https://github.com/jpwesselink/eslint-config-popcorn.git
+- npm 页面：https://www.npmjs.com/package/eslint-config-popcorn
+
+## 历史版本号
+
+- 当前版本：0.0.13
+
+- 0.0.10
+- 0.0.11
+- 0.0.12
+- 0.0.13
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install eslint-config-popcorn`
+- npm registry：https://registry.npmjs.org/eslint-config-popcorn

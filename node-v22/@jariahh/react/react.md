@@ -1,0 +1,24 @@
+# @jariahh/react
+
+> 标签: JavaScript
+
+## 简介
+
+@jariahh/react - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/jariahh/huly-embed#readme
+- 源码仓库：git+https://github.com/jariahh/huly-embed.git
+- npm 页面：https://www.npmjs.com/package/@jariahh/react
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @jariahh/react`
+- npm registry：https://registry.npmjs.org/@jariahh/react

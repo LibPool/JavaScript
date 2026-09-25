@@ -1,0 +1,36 @@
+# @ornikar/babel-preset-kitt-universal
+
+> 标签: JavaScript
+
+## 简介
+
+@ornikar/babel-preset-kitt-universal - JavaScript library from npm
+
+## 官网
+
+- 源码仓库：https://github.com/ornikar/shared-configs.git
+- npm 页面：https://www.npmjs.com/package/@ornikar/babel-preset-kitt-universal
+
+## 历史版本号
+
+- 当前版本：8.0.2
+
+- 7.1.0
+- 7.1.1-canary.cebd982f024e95a25777f94a6121dc706c9c71d0.0
+- 7.1.1-canary.e205608dafa84286a2bfb9f872b7f3fb49d4c668.0
+- 7.2.0
+- 7.2.1
+- 7.2.2-canary.1770040799.929a8629dd8af462f0a62b6594358246c0f93582.0
+- 8.0.0
+- 8.0.1
+- 8.0.1-canary.1771937661.f7da47f8c6819f789b166921d0b7fb69100f6a18.0
+- 8.0.1-canary.1774874991.c4a9976172c6013a812d7a759a23b7d1a3b2dba6.0
+- 8.0.2
+- 8.0.2-canary.1782999597.d38f758845437601b1e47c35176761c48a6eec95.0
+- 共 54 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @ornikar/babel-preset-kitt-universal`
+- npm registry：https://registry.npmjs.org/@ornikar/babel-preset-kitt-universal
+- Node 要求：>=22.22.0

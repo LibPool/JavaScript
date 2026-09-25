@@ -1,0 +1,24 @@
+# makehandler
+
+> 标签: CommandHandler, Events, EventsHandler, Fs, Handler, Handling, Module, Path, Rhino
+
+## 简介
+
+A Great NPM Official Module For Making Handlers Easily
+
+## 官网
+
+- 官网：https://github.com/ardakaragoz/makehandler#readme
+- 源码仓库：git+https://github.com/ardakaragoz/makehandler.git
+- npm 页面：https://www.npmjs.com/package/makehandler
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install makehandler`
+- npm registry：https://registry.npmjs.org/makehandler

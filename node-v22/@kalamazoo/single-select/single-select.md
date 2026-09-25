@@ -1,0 +1,25 @@
+# @kalamazoo/single-select
+
+> 标签: JavaScript
+
+## 简介
+
+React component which allows selection of a single item from a dropdown list. Substitute for the native select element
+
+## 官网
+
+- 官网：https://github.com/stevenselcuk/kalamazoo#readme
+- 源码仓库：git+https://github.com/stevenselcuk/kalamazoo.git
+- npm 页面：https://www.npmjs.com/package/@kalamazoo/single-select
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @kalamazoo/single-select`
+- npm registry：https://registry.npmjs.org/@kalamazoo/single-select

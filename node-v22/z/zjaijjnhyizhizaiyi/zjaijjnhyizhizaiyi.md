@@ -1,0 +1,22 @@
+# zjaijjnhyizhizaiyi
+
+> 标签: JavaScript
+
+## 简介
+
+zjaijjnhyizhizaiyi - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/zjaijjnhyizhizaiyi
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install zjaijjnhyizhizaiyi`
+- npm registry：https://registry.npmjs.org/zjaijjnhyizhizaiyi

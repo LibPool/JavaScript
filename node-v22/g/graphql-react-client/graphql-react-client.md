@@ -1,0 +1,31 @@
+# graphql-react-client
+
+> 标签: apollo, client, fast, graphql, lightweight, react, typescript
+
+## 简介
+
+Apollo Client service for React applications
+
+## 官网
+
+- 官网：https://github.com/manu2manu/graphql-react-client
+- 源码仓库：git+https://github.com/manu2manu/graphql-react-client.git
+- npm 页面：https://www.npmjs.com/package/graphql-react-client
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 0.1.0
+- 0.2.0
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install graphql-react-client`
+- npm registry：https://registry.npmjs.org/graphql-react-client
+- Node 要求：>=10

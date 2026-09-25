@@ -1,0 +1,35 @@
+# @perigress/perigress
+
+> 标签: contract, data, fake, generation, mock, mocks, testing
+
+## 简介
+
+Contract testing + Data Generation
+
+## 官网
+
+- 官网：https://github.com/perigress/perigress#readme
+- 源码仓库：git://github.com/perigress/perigress.git
+- npm 页面：https://www.npmjs.com/package/@perigress/perigress
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.3
+- 0.2.4
+- 0.2.5
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @perigress/perigress`
+- npm registry：https://registry.npmjs.org/@perigress/perigress

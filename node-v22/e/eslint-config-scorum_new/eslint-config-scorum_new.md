@@ -1,0 +1,23 @@
+# eslint-config-scorum_new
+
+> 标签: es2015, es2016, es2017, es2018, es6, jsx, lint, prettier, react, scorum, style guide
+
+## 简介
+
+Different style configs ready to be used in multiple Scorum projects
+
+## 官网
+
+- 官网：https://github.com/scorum/javascript
+- npm 页面：https://www.npmjs.com/package/eslint-config-scorum_new
+
+## 历史版本号
+
+- 当前版本：0.0.12
+
+- 0.0.12
+
+## 获取地址
+
+- npm 安装：`npm install eslint-config-scorum_new`
+- npm registry：https://registry.npmjs.org/eslint-config-scorum_new

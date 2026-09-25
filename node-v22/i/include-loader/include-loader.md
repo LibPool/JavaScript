@@ -1,0 +1,26 @@
+# include-loader
+
+> 标签: Html, Webpack
+
+## 简介
+
+Webpack loader to include file contens into an HTML output via html-includer-webpack-plugin
+
+## 官网
+
+- 官网：https://github.com/DevWurm/html-includer-webpack-plugin#readme
+- 源码仓库：git+https://github.com/DevWurm/html-includer-webpack-plugin.git
+- npm 页面：https://www.npmjs.com/package/include-loader
+
+## 历史版本号
+
+- 当前版本：1.1.0-beta
+
+- 0.0.0
+- 1.0.0-beta
+- 1.1.0-beta
+
+## 获取地址
+
+- npm 安装：`npm install include-loader`
+- npm registry：https://registry.npmjs.org/include-loader

@@ -1,0 +1,35 @@
+# typographic-exclamation-mark
+
+> 标签: textr
+
+## 简介
+
+Micro module to fix a common typographic issue that is hard to fix with most keyboard layouts.
+
+## 官网
+
+- 官网：https://github.com/zestedesavoir/zmarkdown/tree/master#readme
+- 源码仓库：git+https://github.com/zestedesavoir/zmarkdown.git#master
+- npm 页面：https://www.npmjs.com/package/typographic-exclamation-mark
+
+## 历史版本号
+
+- 当前版本：1.0.17
+
+- 1.0.14
+- 1.0.15
+- 1.0.16
+- 1.0.17
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+
+## 获取地址
+
+- npm 安装：`npm install typographic-exclamation-mark`
+- npm registry：https://registry.npmjs.org/typographic-exclamation-mark

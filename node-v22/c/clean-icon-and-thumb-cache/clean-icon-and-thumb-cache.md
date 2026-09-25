@@ -1,0 +1,27 @@
+# clean-icon-and-thumb-cache
+
+> 标签: Clean, Win10
+
+## 简介
+
+Cli toolkit for clean windows 10 icon & thumb cache
+
+## 官网
+
+- 官网：https://github.com/Soontao/clean-icon-and-thumb-cache#readme
+- 源码仓库：git+https://github.com/Soontao/clean-icon-and-thumb-cache.git
+- npm 页面：https://www.npmjs.com/package/clean-icon-and-thumb-cache
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install clean-icon-and-thumb-cache`
+- npm registry：https://registry.npmjs.org/clean-icon-and-thumb-cache
+- Node 要求：>6

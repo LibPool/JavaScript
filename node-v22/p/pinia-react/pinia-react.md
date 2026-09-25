@@ -1,0 +1,35 @@
+# pinia-react
+
+> 标签: pinia, pinia-react, react, react-pinia, react-store, redux, state-management, store, vue, zustand
+
+## 简介
+
+Intuitive, type safe and flexible Store for React
+
+## 官网
+
+- 官网：https://github.com/savageKarl/pinia-react#readme
+- 源码仓库：git+https://github.com/savageKarl/pinia-react.git
+- npm 页面：https://www.npmjs.com/package/pinia-react
+
+## 历史版本号
+
+- 当前版本：2.1.3
+
+- 1.5.2
+- 1.5.2-beta.1
+- 1.5.2-beta.2
+- 1.5.2-beta.3
+- 1.5.2-beta.4
+- 1.5.2-beta.5
+- 1.5.2-beta.6
+- 2.0.0
+- 2.1.0
+- 2.1.1
+- 2.1.2
+- 2.1.3
+
+## 获取地址
+
+- npm 安装：`npm install pinia-react`
+- npm registry：https://registry.npmjs.org/pinia-react

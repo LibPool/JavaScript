@@ -1,0 +1,29 @@
+# doc2dot
+
+> 标签: diagram, doc, dot, flow, graphviz, jsdoc
+
+## 简介
+
+Generates dot (graphviz) document from code documentation comments like JSDoc, JavaDoc, PHPDoc
+
+## 官网
+
+- 官网：https://github.com/sielay/doc2dot#readme
+- 源码仓库：git+ssh://git@github.com/sielay/doc2dot.git
+- npm 页面：https://www.npmjs.com/package/doc2dot
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.1.0
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install doc2dot`
+- npm registry：https://registry.npmjs.org/doc2dot

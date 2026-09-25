@@ -1,0 +1,36 @@
+# babel-plugin-blade
+
+> 标签: babel, babel-plugin, babel-plugin-macros, code generation
+
+## 简介
+
+generate inline graphql
+
+## 官网
+
+- 官网：https://github.com/sw-yx/babel-blade#readme
+- 源码仓库：git+https://github.com/sw-yx/babel-blade.git
+- npm 页面：https://www.npmjs.com/package/babel-plugin-blade
+
+## 历史版本号
+
+- 当前版本：0.1.11
+
+- 0.0.14
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.9
+- 0.1.0
+- 0.1.11
+- 0.1.4
+- 0.1.7
+
+## 获取地址
+
+- npm 安装：`npm install babel-plugin-blade`
+- npm registry：https://registry.npmjs.org/babel-plugin-blade
+- Node 要求：> 4

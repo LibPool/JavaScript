@@ -1,0 +1,34 @@
+# @the-/ui-qr
+
+> 标签: the, ui
+
+## 简介
+
+QRCode the-component
+
+## 官网
+
+- 官网：https://github.com/the-labo/the/tree/master/packages/ui-qr#readme
+- 源码仓库：git+https://github.com/the-labo/the.git
+- npm 页面：https://www.npmjs.com/package/@the-/ui-qr
+
+## 历史版本号
+
+- 当前版本：16.0.0
+
+- 15.2.3
+- 15.2.4
+- 15.4.0
+- 15.4.10
+- 15.4.11
+- 15.4.6
+- 15.4.8
+- 15.5.0
+- 15.5.1
+- 16.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @the-/ui-qr`
+- npm registry：https://registry.npmjs.org/@the-/ui-qr
+- Node 要求：>=10

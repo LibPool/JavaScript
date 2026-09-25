@@ -1,0 +1,24 @@
+# pqwn
+
+> 标签: developer-tools, governance, pqdc, pqdx
+
+## 简介
+
+Piqued Windows — Windows-specific ops: PowerToys, Terminal profiles, Quick Access, Task Scheduler, Authenticode.
+
+## 官网
+
+- 官网：https://pqdc.dev/pqwn
+- 源码仓库：git+https://github.com/pqdc/pqwn.git
+- npm 页面：https://www.npmjs.com/package/pqwn
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install pqwn`
+- npm registry：https://registry.npmjs.org/pqwn

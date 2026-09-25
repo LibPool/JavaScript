@@ -1,0 +1,26 @@
+# @react-native-oh-tpl/babylonjs-react-native
+
+> 标签: react-native
+
+## 简介
+
+Babylon Native integration into React Native
+
+## 官网
+
+- 官网：https://github.com/BabylonJS/BabylonReactNative#readme
+- 源码仓库：git+https://github.com/babylonjs/BabylonReactNative.git
+- npm 页面：https://www.npmjs.com/package/@react-native-oh-tpl/babylonjs-react-native
+
+## 历史版本号
+
+- 当前版本：1.8.7-rc.1
+
+- 1.8.7-rc.1
+- 1.8.7-rc.2
+- 1.8.7-rc.3
+
+## 获取地址
+
+- npm 安装：`npm install @react-native-oh-tpl/babylonjs-react-native`
+- npm registry：https://registry.npmjs.org/@react-native-oh-tpl/babylonjs-react-native

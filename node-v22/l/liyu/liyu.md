@@ -1,0 +1,29 @@
+# liyu
+
+> 标签: urban
+
+## 简介
+
+Urban dictionary in command line.
+
+## 官网
+
+- 官网：https://github.com/egoist/liyu#readme
+- 源码仓库：git+https://github.com/egoist/liyu.git
+- npm 页面：https://www.npmjs.com/package/liyu
+
+## 历史版本号
+
+- 当前版本：0.1.4
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+
+## 获取地址
+
+- npm 安装：`npm install liyu`
+- npm registry：https://registry.npmjs.org/liyu
+- Node 要求：>=4

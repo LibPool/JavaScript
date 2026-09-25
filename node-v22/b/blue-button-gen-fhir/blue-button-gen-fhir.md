@@ -1,0 +1,35 @@
+# blue-button-gen-fhir
+
+> 标签: C32, CCDA, CMS, FHIR, blue-button, bluebutton
+
+## 简介
+
+FHIR generation from blue-button model
+
+## 官网
+
+- 官网：https://github.com/amida-tech/blue-button-gen-fhir
+- 源码仓库：https://github.com/amida-tech/blue-button-gen-fhir.git
+- npm 页面：https://www.npmjs.com/package/blue-button-gen-fhir
+
+## 历史版本号
+
+- 当前版本：1.6.0-beta.2
+
+- 1.5.0-beta.1
+- 1.5.0-beta.10
+- 1.5.0-beta.2
+- 1.5.0-beta.3
+- 1.5.0-beta.4
+- 1.5.0-beta.5
+- 1.5.0-beta.6
+- 1.5.0-beta.7
+- 1.5.0-beta.8
+- 1.5.0-beta.9
+- 1.6.0-beta.1
+- 1.6.0-beta.2
+
+## 获取地址
+
+- npm 安装：`npm install blue-button-gen-fhir`
+- npm registry：https://registry.npmjs.org/blue-button-gen-fhir

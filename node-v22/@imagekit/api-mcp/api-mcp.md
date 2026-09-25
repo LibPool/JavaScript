@@ -1,0 +1,35 @@
+# @imagekit/api-mcp
+
+> 标签: JavaScript
+
+## 简介
+
+The official MCP Server for the Image Kit API
+
+## 官网
+
+- 官网：https://github.com/imagekit-developer/imagekit-nodejs/tree/main/packages/mcp-server#readme
+- 源码仓库：git+https://github.com/imagekit-developer/imagekit-nodejs.git
+- npm 页面：https://www.npmjs.com/package/@imagekit/api-mcp
+
+## 历史版本号
+
+- 当前版本：7.11.0
+
+- 7.3.0
+- 7.4.0
+- 7.5.0
+- 7.6.0
+- 7.6.1
+- 7.6.2
+- 7.6.3
+- 7.7.0
+- 7.8.0
+- 7.8.1
+- 7.9.0
+- 7.9.1
+
+## 获取地址
+
+- npm 安装：`npm install @imagekit/api-mcp`
+- npm registry：https://registry.npmjs.org/@imagekit/api-mcp

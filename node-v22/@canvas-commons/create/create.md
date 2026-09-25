@@ -1,0 +1,35 @@
+# @canvas-commons/create
+
+> 标签: JavaScript
+
+## 简介
+
+Quickly scaffold Canvas Commons projects
+
+## 官网
+
+- 官网：https://canvascommons.io/
+- 源码仓库：https://github.com/canvas-commons/canvas-commons.git
+- npm 页面：https://www.npmjs.com/package/@canvas-commons/create
+
+## 历史版本号
+
+- 当前版本：0.4.0
+
+- 0.4.0-next-20260924004309
+- 0.4.0-next-20260924005434
+- 0.4.0-next-20260924005834
+- 0.4.0-next-20260924010026
+- 0.4.0-next-20260924032248
+- 0.4.0-next-20260924042517
+- 0.4.0-next-20260924043213
+- 0.4.0-next-20260924045308
+- 0.4.0-next-20260924045523
+- 0.4.0-next-20260924052000
+- 0.4.0-next-20260924055736
+- 0.4.1-next-20260924065025
+
+## 获取地址
+
+- npm 安装：`npm install @canvas-commons/create`
+- npm registry：https://registry.npmjs.org/@canvas-commons/create

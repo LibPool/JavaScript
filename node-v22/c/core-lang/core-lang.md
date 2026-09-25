@@ -1,0 +1,27 @@
+# core-lang
+
+> 标签: JavaScript
+
+## 简介
+
+Classes that should be in the core of the JavaScript language. Collections. Promises. Reflection. Working and tested from IE8+.
+
+## 官网
+
+- 官网：http://blog.ciplogic.com
+- 源码仓库：https://github.com/bmustiata/core-lang.git
+- npm 页面：https://www.npmjs.com/package/core-lang
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install core-lang`
+- npm registry：https://registry.npmjs.org/core-lang

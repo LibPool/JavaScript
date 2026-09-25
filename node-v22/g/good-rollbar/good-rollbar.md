@@ -1,0 +1,27 @@
+# good-rollbar
+
+> 标签: good, hapi, rollbar
+
+## 简介
+
+Good reporter for Rollbar
+
+## 官网
+
+- 官网：https://github.com/colonyamerican/good-rollbar
+- 源码仓库：git+https://github.com/colonyamerican/good-rollbar.git
+- npm 页面：https://www.npmjs.com/package/good-rollbar
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 0.0.1
+- 1.0.0
+- 1.1.0
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install good-rollbar`
+- npm registry：https://registry.npmjs.org/good-rollbar

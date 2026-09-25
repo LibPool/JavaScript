@@ -1,0 +1,36 @@
+# @stdlib/blas-ext-base-sapxsumpw
+
+> 标签: array, blas, extended, float, float32, float32array, math, mathematics, pairwise, pw, single, statistics, stats, stdlib, stdmath, strided, strided array, sum, summation, total, typed
+
+## 简介
+
+Add a scalar constant to each single-precision floating-point strided array element and compute the sum using pairwise summation.
+
+## 官网
+
+- 官网：https://stdlib.io
+- 源码仓库：git://github.com/stdlib-js/blas-ext-base-sapxsumpw.git
+- npm 页面：https://www.npmjs.com/package/@stdlib/blas-ext-base-sapxsumpw
+
+## 历史版本号
+
+- 当前版本：0.3.1
+
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+- 0.1.0
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.3.0
+- 0.3.1
+
+## 获取地址
+
+- npm 安装：`npm install @stdlib/blas-ext-base-sapxsumpw`
+- npm registry：https://registry.npmjs.org/@stdlib/blas-ext-base-sapxsumpw
+- Node 要求：>=0.10.0

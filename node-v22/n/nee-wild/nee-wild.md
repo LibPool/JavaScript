@@ -1,0 +1,24 @@
+# nee-wild
+
+> 标签: emitter, event, novel, wild
+
+## 简介
+
+Novel Event Emitter wildcard.
+
+## 官网
+
+- 官网：https://github.com/nrn/nee
+- 源码仓库：github.com/nrn/nee-wild
+- npm 页面：https://www.npmjs.com/package/nee-wild
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install nee-wild`
+- npm registry：https://registry.npmjs.org/nee-wild

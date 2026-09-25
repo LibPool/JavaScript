@@ -1,0 +1,30 @@
+# @react-ui-types/dynamic-table
+
+> 标签: JavaScript
+
+## 简介
+
+Ladifire UI components in React
+
+## 官网
+
+- 官网：https://github.com/adobe/react-spectrum#readme
+- 源码仓库：git+https://github.com/adobe/react-spectrum.git
+- npm 页面：https://www.npmjs.com/package/@react-ui-types/dynamic-table
+
+## 历史版本号
+
+- 当前版本：1.0.21-alpha30
+
+- 1.0.21-alpha13
+- 1.0.21-alpha15
+- 1.0.21-alpha17
+- 1.0.21-alpha19
+- 1.0.21-alpha21
+- 1.0.21-alpha22
+- 1.0.21-alpha30
+
+## 获取地址
+
+- npm 安装：`npm install @react-ui-types/dynamic-table`
+- npm registry：https://registry.npmjs.org/@react-ui-types/dynamic-table

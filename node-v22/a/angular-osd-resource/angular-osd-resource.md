@@ -1,0 +1,24 @@
+# angular-osd-resource
+
+> 标签: JavaScript
+
+## 简介
+
+[![Build Status](https://travis-ci.org/Osedea/angular-osd-resource.svg?branch=master)](https://travis-ci.org/Osedea/angular-osd-resource)
+
+## 官网
+
+- 官网：https://github.com/Osedea/angular-osd-resource#readme
+- 源码仓库：git+https://github.com/Osedea/angular-osd-resource.git
+- npm 页面：https://www.npmjs.com/package/angular-osd-resource
+
+## 历史版本号
+
+- 当前版本：0.1.16
+
+- 0.1.16
+
+## 获取地址
+
+- npm 安装：`npm install angular-osd-resource`
+- npm registry：https://registry.npmjs.org/angular-osd-resource

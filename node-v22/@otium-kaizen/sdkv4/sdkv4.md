@@ -1,0 +1,25 @@
+# @otium-kaizen/sdkv4
+
+> 标签: rsk, rskswap, sdk
+
+## 简介
+
+🛠 An SDK for building applications on top of Kaizen.
+
+## 官网
+
+- 官网：https://github.com/KaizenDeFi/rskswap-sdk#readme
+- 源码仓库：git+https://github.com/KaizenDeFi/rskswap-sdk.git
+- npm 页面：https://www.npmjs.com/package/@otium-kaizen/sdkv4
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @otium-kaizen/sdkv4`
+- npm registry：https://registry.npmjs.org/@otium-kaizen/sdkv4
+- Node 要求：>=10

@@ -1,0 +1,30 @@
+# pinocchio-js
+
+> 标签: dynamics, kinematics, physics-engine, pinocchio, rigid-body-dynamics, robotics, wasm, webassembly
+
+## 简介
+
+High-performance WebAssembly bindings for the Pinocchio rigid body dynamics library
+
+## 官网
+
+- 官网：https://github.com/Mostafasaad1/pinocchio-js#readme
+- 源码仓库：git+https://github.com/Mostafasaad1/pinocchio-js.git
+- npm 页面：https://www.npmjs.com/package/pinocchio-js
+
+## 历史版本号
+
+- 当前版本：1.4.0
+
+- 1.0.1
+- 1.0.3
+- 1.1.0
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.4.0
+
+## 获取地址
+
+- npm 安装：`npm install pinocchio-js`
+- npm registry：https://registry.npmjs.org/pinocchio-js

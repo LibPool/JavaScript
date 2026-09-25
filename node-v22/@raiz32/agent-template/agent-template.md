@@ -1,0 +1,31 @@
+# @raiz32/agent-template
+
+> 标签: agent, ai, cli, coding-agent, template, workflow
+
+## 简介
+
+CLI for installing AI coding-agent instructions and workflows into Node.js projects.
+
+## 官网
+
+- 官网：https://github.com/raiz32/agent-template#readme
+- 源码仓库：git+https://github.com/raiz32/agent-template.git
+- npm 页面：https://www.npmjs.com/package/@raiz32/agent-template
+
+## 历史版本号
+
+- 当前版本：1.1.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+
+## 获取地址
+
+- npm 安装：`npm install @raiz32/agent-template`
+- npm registry：https://registry.npmjs.org/@raiz32/agent-template
+- Node 要求：>=20

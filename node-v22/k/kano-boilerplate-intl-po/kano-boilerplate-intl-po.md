@@ -1,0 +1,25 @@
+# kano-boilerplate-intl-po
+
+> 标签: babel-plugin-react-intl, po, pot, react-intl
+
+## 简介
+
+Extract POT from react-intl and convert back to json.
+
+## 官网
+
+- 官网：https://github.com/KanoComputing/kano-boilerplate-intl-po#readme
+- 源码仓库：git+https://github.com/KanoComputing/kano-boilerplate-intl-po.git
+- npm 页面：https://www.npmjs.com/package/kano-boilerplate-intl-po
+
+## 历史版本号
+
+- 当前版本：2.2.3
+
+- 2.2.2
+- 2.2.3
+
+## 获取地址
+
+- npm 安装：`npm install kano-boilerplate-intl-po`
+- npm registry：https://registry.npmjs.org/kano-boilerplate-intl-po

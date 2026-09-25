@@ -1,0 +1,27 @@
+# dredd-transactions-extended
+
+> 标签: acceptance, api, documenation, integration, test, testing
+
+## 简介
+
+Compiles HTTP Transactions (Request-Response pairs) from API description document
+
+## 官网
+
+- 官网：https://github.com/apiaryio/dredd-transactions#readme
+- 源码仓库：git+https://github.com/apiaryio/dredd-transactions.git
+- npm 页面：https://www.npmjs.com/package/dredd-transactions-extended
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+- 4.0.2
+
+## 获取地址
+
+- npm 安装：`npm install dredd-transactions-extended`
+- npm registry：https://registry.npmjs.org/dredd-transactions-extended
+- Node 要求：>= 4

@@ -1,0 +1,33 @@
+# @fre4x/inspector-bridge
+
+> 标签: ai, inspector-bridge, mcp, mcp-inspector, mcp-server, testing
+
+## 简介
+
+MCP inspector bridge server for connecting agents to other MCP servers without a browser.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@fre4x/inspector-bridge
+
+## 历史版本号
+
+- 当前版本：1.1.26
+
+- 1.1.0-beta.3
+- 1.1.0-beta.4
+- 1.1.0-beta.6
+- 1.1.1
+- 1.1.11
+- 1.1.13
+- 1.1.26
+- 1.1.3
+- 1.1.6
+- 1.1.7
+- 1.1.8
+- 1.1.9
+
+## 获取地址
+
+- npm 安装：`npm install @fre4x/inspector-bridge`
+- npm registry：https://registry.npmjs.org/@fre4x/inspector-bridge

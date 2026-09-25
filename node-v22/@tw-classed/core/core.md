@@ -1,0 +1,35 @@
+# @tw-classed/core
+
+> 标签: JavaScript
+
+## 简介
+
+A Stitches & Styled-Components inspired library to create reusable Tailwind react components
+
+## 官网
+
+- 官网：https://github.com/sannajammeh/tw-classed
+- 源码仓库：git+https://github.com/sannajammeh/tw-classed.git
+- npm 页面：https://www.npmjs.com/package/@tw-classed/core
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.4.0
+- 1.4.0-canary.1
+- 1.4.0-canary.5
+- 1.4.4
+- 1.5.0
+- 1.5.0-canary.0
+- 1.5.1
+- 1.5.2
+- 1.6.0
+- 1.7.0
+- 1.7.0-canary.0
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @tw-classed/core`
+- npm registry：https://registry.npmjs.org/@tw-classed/core

@@ -1,0 +1,29 @@
+# @mrathod05/nestjs-toolkit
+
+> 标签: cors-configuration, nestjs, nestjs-boilerplate, nestjs-cli, nestjs-configurator, nestjs-cors-helper, nestjs-database-config, nestjs-helper, nestjs-helper-cli, nestjs-project-setup, nestjs-setup, nestjs-starter, nestjs-swagger-helper, nestjs-toolkit, nodejs, swagger-setup
+
+## 简介
+
+A toolkit for easy project setup, configuration, and integrations including Swagger, CORS, Database setup, and more. Simplifies boilerplate code for your NestJS apps.
+
+## 官网
+
+- 官网：https://github.com/mrathod05/nestjs-toolkit#readme
+- 源码仓库：git+https://github.com/mrathod05/nestjs-toolkit.git
+- npm 页面：https://www.npmjs.com/package/@mrathod05/nestjs-toolkit
+
+## 历史版本号
+
+- 当前版本：2.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 2.0.0
+- 2.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @mrathod05/nestjs-toolkit`
+- npm registry：https://registry.npmjs.org/@mrathod05/nestjs-toolkit

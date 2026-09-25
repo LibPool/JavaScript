@@ -1,0 +1,27 @@
+# hiseq
+
+> 标签: JavaScript
+
+## 简介
+
+Sequence manipulation and querying library
+
+## 官网
+
+- 官网：https://github.com/rvikmanis/hiseq#readme
+- 源码仓库：git+https://github.com/rvikmanis/hiseq.git
+- npm 页面：https://www.npmjs.com/package/hiseq
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.0
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install hiseq`
+- npm registry：https://registry.npmjs.org/hiseq

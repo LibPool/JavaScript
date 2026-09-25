@@ -1,0 +1,35 @@
+# regexp-cjk-plugin-escape-unicode-property
+
+> 标签: char, character, characters, codegen, conv, conversion, convert, desugaring, ecmascript, es5, es6, escape unicode, escape unicode property, harmony, javascript, node-novel, plugin, property, refactoring, regex, regexp, regexp-cjk, regexp-cjk-plugin, regexpu, regular, regular expression, regular expressions, rewriting, syntax, transform, transformation, transpile, transpiler, unicode, unicode property
+
+## 简介
+
+use regexpu for escape unicode property in regexp-cjk
+
+## 官网
+
+- 官网：https://github.com/bluelovers/ws-regexp/tree/master/packages/regexp-cjk-plugin-escape-unicode-property#readme
+- 源码仓库：git+https://github.com/bluelovers/ws-regexp.git
+- npm 页面：https://www.npmjs.com/package/regexp-cjk-plugin-escape-unicode-property
+
+## 历史版本号
+
+- 当前版本：1.0.42
+
+- 1.0.37
+- 1.0.38
+- 1.0.39
+- 1.0.4
+- 1.0.40
+- 1.0.41
+- 1.0.42
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+
+## 获取地址
+
+- npm 安装：`npm install regexp-cjk-plugin-escape-unicode-property`
+- npm registry：https://registry.npmjs.org/regexp-cjk-plugin-escape-unicode-property

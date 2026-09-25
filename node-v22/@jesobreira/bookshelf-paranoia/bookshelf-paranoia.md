@@ -1,0 +1,24 @@
+# @jesobreira/bookshelf-paranoia
+
+> 标签: bookshelf, database, db, delete, knex, paranoia, safe, soft
+
+## 简介
+
+Soft delete data from your database
+
+## 官网
+
+- 官网：https://github.com/jesobreira/bookshelf-paranoia#readme
+- 源码仓库：git+https://github.com/jesobreira/bookshelf-paranoia.git
+- npm 页面：https://www.npmjs.com/package/@jesobreira/bookshelf-paranoia
+
+## 历史版本号
+
+- 当前版本：0.13.1
+
+- 0.13.1
+
+## 获取地址
+
+- npm 安装：`npm install @jesobreira/bookshelf-paranoia`
+- npm registry：https://registry.npmjs.org/@jesobreira/bookshelf-paranoia

@@ -1,0 +1,24 @@
+# niimbotlib
+
+> 标签: bluetooth, capacitor, label-printer, niimbot, niimbot-b1, niimbot-d110, reverse-engineering, serial, thermal-printer
+
+## 简介
+
+Library for the communication with NIIMBOT printers
+
+## 官网
+
+- 官网：https://github.com/withviktor/niimbotlib#readme
+- 源码仓库：git+https://github.com/withviktor/niimbotlib.git
+- npm 页面：https://www.npmjs.com/package/niimbotlib
+
+## 历史版本号
+
+- 当前版本：0.0.1-alpha.1
+
+- 0.0.1-alpha.1
+
+## 获取地址
+
+- npm 安装：`npm install niimbotlib`
+- npm registry：https://registry.npmjs.org/niimbotlib

@@ -1,0 +1,34 @@
+# barotube
+
+> 标签: api, discord-music, getplaylist, getvideo, no-limit, search, youtube, youtube-api, youtube-search, youtube-videos, youtubeapi, yt-search, ytdl
+
+## 简介
+
+BaroTube Module is a Node.js module used to interact with the BaroTube API.
+
+## 官网
+
+- 官网：http://in care
+- npm 页面：https://www.npmjs.com/package/barotube
+
+## 历史版本号
+
+- 当前版本：2.2.2
+
+- 2.1.2
+- 2.1.20
+- 2.1.3
+- 2.1.4
+- 2.1.5
+- 2.1.6
+- 2.1.7
+- 2.1.8
+- 2.1.9
+- 2.2.0
+- 2.2.1
+- 2.2.2
+
+## 获取地址
+
+- npm 安装：`npm install barotube`
+- npm registry：https://registry.npmjs.org/barotube

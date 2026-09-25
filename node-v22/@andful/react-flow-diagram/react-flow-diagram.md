@@ -1,0 +1,27 @@
+# @andful/react-flow-diagram
+
+> 标签: diagram, graph, network, react, svg
+
+## 简介
+
+A bare bone flow diagram library
+
+## 官网
+
+- 官网：https://github.com/Andful/react-flow-diagram#readme
+- 源码仓库：git+https://github.com/Andful/react-flow-diagram.git
+- npm 页面：https://www.npmjs.com/package/@andful/react-flow-diagram
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @andful/react-flow-diagram`
+- npm registry：https://registry.npmjs.org/@andful/react-flow-diagram
+- Node 要求：>=10

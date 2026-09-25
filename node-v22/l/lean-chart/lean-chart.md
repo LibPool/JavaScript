@@ -1,0 +1,24 @@
+# lean-chart
+
+> 标签: chart, lean-ui, library
+
+## 简介
+
+lean-ui's chart library
+
+## 官网
+
+- 官网：https://github.com/asnowwolf/lean-chart#readme
+- 源码仓库：git+ssh://git@github.com/lean-ui/lean-chart.git
+- npm 页面：https://www.npmjs.com/package/lean-chart
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install lean-chart`
+- npm registry：https://registry.npmjs.org/lean-chart

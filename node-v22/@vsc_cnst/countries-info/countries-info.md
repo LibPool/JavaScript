@@ -1,0 +1,22 @@
+# @vsc_cnst/countries-info
+
+> 标签: code, codes, countries, country, info, information, ts, type, types
+
+## 简介
+
+A TypeScript library that provides detailed information about countries, including their names, languages, translations, and other metadata.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@vsc_cnst/countries-info
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @vsc_cnst/countries-info`
+- npm registry：https://registry.npmjs.org/@vsc_cnst/countries-info

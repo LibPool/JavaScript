@@ -1,0 +1,28 @@
+# n8n-nodes-toneclone
+
+> 标签: ai, content-generation, n8n-community-node-package, persona, toneclone, writing
+
+## 简介
+
+Write with AI without sounding like AI. Write with AI using your unique voice and style with a model trained on your writing.
+
+To get started, you'll need a ToneClone API key from https://app.toneclone.ai/api-keys
+
+## 官网
+
+- 官网：https://github.com/toneclone/n8n-nodes-toneclone#readme
+- 源码仓库：git+https://github.com/toneclone/n8n-nodes-toneclone.git
+- npm 页面：https://www.npmjs.com/package/n8n-nodes-toneclone
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install n8n-nodes-toneclone`
+- npm registry：https://registry.npmjs.org/n8n-nodes-toneclone

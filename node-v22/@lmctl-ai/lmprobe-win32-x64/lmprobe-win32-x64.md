@@ -1,0 +1,24 @@
+# @lmctl-ai/lmprobe-win32-x64
+
+> 标签: ast-grep, cli, code-search, lmprobe
+
+## 简介
+
+Prebuilt lmprobe binary for win32-x64.
+
+## 官网
+
+- 官网：https://lmctl.com/lmprobe
+- npm 页面：https://www.npmjs.com/package/@lmctl-ai/lmprobe-win32-x64
+
+## 历史版本号
+
+- 当前版本：0.42.2
+
+- 0.42.1
+- 0.42.2
+
+## 获取地址
+
+- npm 安装：`npm install @lmctl-ai/lmprobe-win32-x64`
+- npm registry：https://registry.npmjs.org/@lmctl-ai/lmprobe-win32-x64

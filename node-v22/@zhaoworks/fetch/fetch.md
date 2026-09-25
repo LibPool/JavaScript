@@ -1,0 +1,29 @@
+# @zhaoworks/fetch
+
+> 标签: fetch, http
+
+## 简介
+
+an elegant fetch wrapper.
+
+## 官网
+
+- 官网：https://github.com/zhaoworks/fetch#readme
+- 源码仓库：git+https://github.com/zhaoworks/fetch.git
+- npm 页面：https://www.npmjs.com/package/@zhaoworks/fetch
+
+## 历史版本号
+
+- 当前版本：1.3.3
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.3.1
+- 1.3.2
+- 1.3.3
+
+## 获取地址
+
+- npm 安装：`npm install @zhaoworks/fetch`
+- npm registry：https://registry.npmjs.org/@zhaoworks/fetch

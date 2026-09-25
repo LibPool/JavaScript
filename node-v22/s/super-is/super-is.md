@@ -1,0 +1,28 @@
+# super-is
+
+> 标签: ibrokethat, is
+
+## 简介
+
+super assertions
+
+## 官网
+
+- 官网：https://github.com/ibrokethat/is
+- 源码仓库：git@github.com:ibrokethat/is
+- npm 页面：https://www.npmjs.com/package/super-is
+
+## 历史版本号
+
+- 当前版本：0.0.7
+
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+
+## 获取地址
+
+- npm 安装：`npm install super-is`
+- npm registry：https://registry.npmjs.org/super-is
+- Node 要求：*

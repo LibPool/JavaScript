@@ -1,0 +1,27 @@
+# instagramapi
+
+> 标签: driver, ig, instagram, node
+
+## 简介
+
+Simple Instagram driver for Node.js
+
+## 官网
+
+- 官网：https://github.com/teleportd/instagram-nodejs-api
+- 源码仓库：git+https://github.com/teleportd/instagram-nodejs-api.git
+- npm 页面：https://www.npmjs.com/package/instagramapi
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 0.5.8
+- 1.0.0
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install instagramapi`
+- npm registry：https://registry.npmjs.org/instagramapi
+- Node 要求：>=v0.6.0

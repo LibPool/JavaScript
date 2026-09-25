@@ -1,0 +1,26 @@
+# drawer-dialog
+
+> 标签: custom-element, drawer, drawer-dialog, mobile menu, web component, web-component
+
+## 简介
+
+A drawer web component, based on the dialog element. No dependencies and small.
+
+## 官网
+
+- 官网：https://github.com/anuarhdz/drawer-dialog
+- 源码仓库：git+https://github.com/anuarhdz/drawer-dialog.git
+- npm 页面：https://www.npmjs.com/package/drawer-dialog
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 0.0.1
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install drawer-dialog`
+- npm registry：https://registry.npmjs.org/drawer-dialog

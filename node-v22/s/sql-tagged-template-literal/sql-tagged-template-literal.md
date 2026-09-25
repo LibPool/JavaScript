@@ -1,0 +1,30 @@
+# sql-tagged-template-literal
+
+> 标签: es6, literal, mysql, sql, string, tag, tagged, template
+
+## 简介
+
+ES6 SQL-escaping tagged template literal that spits out a sanitized SQL string
+
+## 官网
+
+- 官网：https://github.com/TehShrike/sql-tagged-template-literal#readme
+- 源码仓库：git+https://github.com/TehShrike/sql-tagged-template-literal.git
+- npm 页面：https://www.npmjs.com/package/sql-tagged-template-literal
+
+## 历史版本号
+
+- 当前版本：1.3.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.0
+- 1.2.0
+- 1.3.0
+
+## 获取地址
+
+- npm 安装：`npm install sql-tagged-template-literal`
+- npm registry：https://registry.npmjs.org/sql-tagged-template-literal
+- Node 要求：>=16.0.0

@@ -1,0 +1,24 @@
+# torch-typescript
+
+> 标签: libtorch, machine-learning, pytorch, tensor, torch, typescript, wasm, webassembly
+
+## 简介
+
+PyTorch/libtorch compiled to WebAssembly for TypeScript
+
+## 官网
+
+- 官网：https://github.com/constructive-io/torch-typescript
+- 源码仓库：git://github.com/constructive-io/torch-typescript.git
+- npm 页面：https://www.npmjs.com/package/torch-typescript
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install torch-typescript`
+- npm registry：https://registry.npmjs.org/torch-typescript

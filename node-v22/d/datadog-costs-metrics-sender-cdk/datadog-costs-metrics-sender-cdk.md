@@ -1,0 +1,28 @@
+# datadog-costs-metrics-sender-cdk
+
+> 标签: cdk, datadog
+
+## 简介
+
+Retrieves values from the Datadog API about costs and submits them as custom metrics
+
+## 官网
+
+- 官网：https://github.com/isotoma/datadog-costs-metrics-sender-cdk#readme
+- 源码仓库：git+https://github.com/isotoma/datadog-costs-metrics-sender-cdk.git
+- npm 页面：https://www.npmjs.com/package/datadog-costs-metrics-sender-cdk
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install datadog-costs-metrics-sender-cdk`
+- npm registry：https://registry.npmjs.org/datadog-costs-metrics-sender-cdk

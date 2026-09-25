@@ -1,0 +1,24 @@
+# @imposterlabs/project
+
+> 标签: data, mocking, yantr
+
+## 简介
+
+main engine for imposter runner
+
+## 官网
+
+- 官网：https://github.com/imposterlabs/project#readme
+- 源码仓库：git+https://github.com/imposterlabs/project.git
+- npm 页面：https://www.npmjs.com/package/@imposterlabs/project
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @imposterlabs/project`
+- npm registry：https://registry.npmjs.org/@imposterlabs/project

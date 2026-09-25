@@ -1,0 +1,31 @@
+# compass-sunbird-quml-player
+
+> 标签: project-sunbird, sunbird, sunbird QuML player
+
+## 简介
+
+The QuML player library components are powered by Angular. This player is primarily designed to be used on Sunbird consumption platforms (mobile app, web portal, offline desktop app) to drive reusability and maintainability, hence reducing the redundant d
+
+## 官网
+
+- 官网：https://github.com/Sunbird-inQuiry/player#readme
+- 源码仓库：git+https://github.com/Sunbird-inQuiry/player.git
+- npm 页面：https://www.npmjs.com/package/compass-sunbird-quml-player
+
+## 历史版本号
+
+- 当前版本：0.0.8
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+
+## 获取地址
+
+- npm 安装：`npm install compass-sunbird-quml-player`
+- npm registry：https://registry.npmjs.org/compass-sunbird-quml-player

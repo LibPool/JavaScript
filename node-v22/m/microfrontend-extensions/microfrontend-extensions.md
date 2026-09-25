@@ -1,0 +1,35 @@
+# microfrontend-extensions
+
+> 标签: micro-frontend, module federation
+
+## 简介
+
+Just-in-time renderer for dynamic Angular components bundled with [Module Federation](https://webpack.js.org/concepts/module-federation/).
+
+## 官网
+
+- 官网：https://github.com/ggradnig/microfrontend-extensions#readme
+- 源码仓库：git+https://github.com/ggradnig/microfrontend-extensions.git
+- npm 页面：https://www.npmjs.com/package/microfrontend-extensions
+
+## 历史版本号
+
+- 当前版本：13.0.0
+
+- 1.0.23
+- 1.0.24
+- 1.0.25
+- 1.0.26
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+- 13.0.0
+
+## 获取地址
+
+- npm 安装：`npm install microfrontend-extensions`
+- npm registry：https://registry.npmjs.org/microfrontend-extensions

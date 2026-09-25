@@ -1,0 +1,36 @@
+# @loomfsm/mcp-server
+
+> 标签: agents, ai-agents, audit-trail, claude, durable-execution, human-in-the-loop, llm, mcp, model-context-protocol, orchestration, state-machine
+
+## 简介
+
+MCP transport for loom — exposes the pipeline tools over stdio and assembles the runnable registry.
+
+## 官网
+
+- 官网：https://loomfsm.dev
+- 源码仓库：git+https://github.com/teaarte/loom.git
+- npm 页面：https://www.npmjs.com/package/@loomfsm/mcp-server
+
+## 历史版本号
+
+- 当前版本：0.3.9
+
+- 0.2.1
+- 0.2.2
+- 0.3.0
+- 0.3.1
+- 0.3.2
+- 0.3.3
+- 0.3.4
+- 0.3.5
+- 0.3.6
+- 0.3.7
+- 0.3.8
+- 0.3.9
+
+## 获取地址
+
+- npm 安装：`npm install @loomfsm/mcp-server`
+- npm registry：https://registry.npmjs.org/@loomfsm/mcp-server
+- Node 要求：>=22

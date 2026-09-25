@@ -1,0 +1,36 @@
+# koa-oai-router
+
+> 标签: api, koa, oai, openapi, restful, router, swagger
+
+## 简介
+
+Koa Router, based on OpenAPI, Swagger and Json Schema.
+
+## 官网
+
+- 官网：https://github.com/amazing-gao/koa-oai-router#readme
+- 源码仓库：git+ssh://git@github.com/amazing-gao/koa-oai-router.git
+- npm 页面：https://www.npmjs.com/package/koa-oai-router
+
+## 历史版本号
+
+- 当前版本：2.0.4
+
+- 1.1.1
+- 1.1.2
+- 2.0.0-alpha.1
+- 2.0.0-alpha.2
+- 2.0.0-alpha.3
+- 2.0.0-alpha.4
+- 2.0.0-alpha.5
+- 2.0.0-alpha.6
+- 2.0.1
+- 2.0.2
+- 2.0.3
+- 2.0.4
+
+## 获取地址
+
+- npm 安装：`npm install koa-oai-router`
+- npm registry：https://registry.npmjs.org/koa-oai-router
+- Node 要求：>=6.0.0

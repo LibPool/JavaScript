@@ -1,0 +1,28 @@
+# jb-color-input
+
+> 标签: JavaScript
+
+## 简介
+
+CSS color input and picker web component
+
+## 官网
+
+- 官网：https://javadbat.github.io/design-system/?path=/docs/components-form-elements-inputs-jbcolorinput
+- 源码仓库：git+https://github.com/javadbat/jb-color-input.git
+- npm 页面：https://www.npmjs.com/package/jb-color-input
+
+## 历史版本号
+
+- 当前版本：0.4.1
+
+- 0.1.0
+- 0.2.0
+- 0.3.0
+- 0.4.0
+- 0.4.1
+
+## 获取地址
+
+- npm 安装：`npm install jb-color-input`
+- npm registry：https://registry.npmjs.org/jb-color-input

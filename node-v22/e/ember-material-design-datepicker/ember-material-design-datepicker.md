@@ -1,0 +1,36 @@
+# ember-material-design-datepicker
+
+> 标签: datepicker, ember-addon, ember-datepicker, material-design, material-design-datepicker
+
+## 简介
+
+A material design themed datepicker for Ember
+
+## 官网
+
+- 官网：https://github.com/angliafarmers/ember-material-design-datepicker#readme
+- 源码仓库：git+https://github.com/angliafarmers/ember-material-design-datepicker.git
+- npm 页面：https://www.npmjs.com/package/ember-material-design-datepicker
+
+## 历史版本号
+
+- 当前版本：1.1.7
+
+- 0.5.0
+- 0.5.1
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.1.6
+- 1.1.7
+
+## 获取地址
+
+- npm 安装：`npm install ember-material-design-datepicker`
+- npm registry：https://registry.npmjs.org/ember-material-design-datepicker
+- Node 要求：>= 0.10.0

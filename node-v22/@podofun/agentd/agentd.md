@@ -1,0 +1,26 @@
+# @podofun/agentd
+
+> 标签: JavaScript
+
+## 简介
+
+agent.d runtime and command-line client
+
+## 官网
+
+- 官网：https://github.com/podofun/agent.d
+- 源码仓库：git+https://github.com/podofun/agent.d.git
+- npm 页面：https://www.npmjs.com/package/@podofun/agentd
+
+## 历史版本号
+
+- 当前版本：0.10.0-alpha
+
+- 0.10.0-alpha
+- 0.8.3-alpha
+
+## 获取地址
+
+- npm 安装：`npm install @podofun/agentd`
+- npm registry：https://registry.npmjs.org/@podofun/agentd
+- Node 要求：>=22

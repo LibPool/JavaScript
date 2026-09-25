@@ -1,0 +1,23 @@
+# rechaxt
+
+> 标签: JavaScript
+
+## 简介
+
+rechaxt - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/rechaxt
+
+## 历史版本号
+
+- 当前版本：1.0.0-dev-01HQRD0CZT
+
+- 1.0.0-dev-01HQRD0CZT
+- 1.0.0-dev-01HR1XGEXP
+
+## 获取地址
+
+- npm 安装：`npm install rechaxt`
+- npm registry：https://registry.npmjs.org/rechaxt

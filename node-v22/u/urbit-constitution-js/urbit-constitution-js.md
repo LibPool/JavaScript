@@ -1,0 +1,29 @@
+# urbit-constitution-js
+
+> 标签: constitution, contract, smart, urbit
+
+## 简介
+
+Functions for interacting with Azimuth
+
+## 官网
+
+- 官网：https://github.com/urbit/constitution-js
+- 源码仓库：git+https://github.com/urbit/constitution-js.git
+- npm 页面：https://www.npmjs.com/package/urbit-constitution-js
+
+## 历史版本号
+
+- 当前版本：0.7.1
+
+- 0.5.0
+- 0.5.1
+- 0.5.2
+- 0.6.0
+- 0.7.0
+- 0.7.1
+
+## 获取地址
+
+- npm 安装：`npm install urbit-constitution-js`
+- npm registry：https://registry.npmjs.org/urbit-constitution-js

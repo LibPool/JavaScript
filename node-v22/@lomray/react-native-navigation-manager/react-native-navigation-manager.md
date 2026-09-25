@@ -1,0 +1,30 @@
+# @lomray/react-native-navigation-manager
+
+> 标签: js, manager, navigation, navite, react, reactnative
+
+## 简介
+
+React native navigation manager for wix react-native-navigation.
+
+## 官网
+
+- 官网：https://github.com/Lomray-Software/react-native-navigation-manager
+- 源码仓库：git+https://github.com/Lomray-Software/react-native-navigation-manager.git
+- npm 页面：https://www.npmjs.com/package/@lomray/react-native-navigation-manager
+
+## 历史版本号
+
+- 当前版本：1.4.1
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 1.4.0
+- 1.4.1
+
+## 获取地址
+
+- npm 安装：`npm install @lomray/react-native-navigation-manager`
+- npm registry：https://registry.npmjs.org/@lomray/react-native-navigation-manager

@@ -1,0 +1,27 @@
+# blacksheep-my-storybook
+
+> 标签: JavaScript
+
+## 简介
+
+This pack is for test react component + Storybook and NPM-Publish
+
+## 官网
+
+- 官网：https://github.com/carlos24sbs/sb-components#readme
+- 源码仓库：git+https://github.com/carlos24sbs/sb-components.git
+- npm 页面：https://www.npmjs.com/package/blacksheep-my-storybook
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install blacksheep-my-storybook`
+- npm registry：https://registry.npmjs.org/blacksheep-my-storybook

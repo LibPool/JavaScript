@@ -1,0 +1,26 @@
+# @z2net/bunframe
+
+> 标签: JavaScript
+
+## 简介
+
+The desktop application shell for Bun: native wry windows, typed schema-first RPC and the CLI - one package, platform binaries resolved automatically.
+
+## 官网
+
+- 官网：https://github.com/z2net/bunframe#readme
+- 源码仓库：git+https://github.com/z2net/bunframe.git
+- npm 页面：https://www.npmjs.com/package/@z2net/bunframe
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @z2net/bunframe`
+- npm registry：https://registry.npmjs.org/@z2net/bunframe

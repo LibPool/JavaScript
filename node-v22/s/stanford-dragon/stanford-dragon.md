@@ -1,0 +1,26 @@
+# stanford-dragon
+
+> 标签: 3d, cells, data, dragon, mesh, model, test, triangle
+
+## 简介
+
+The Stanford Dragon
+
+## 官网
+
+- 官网：https://github.com/hughsk/stanford-dragon
+- 源码仓库：git://github.com/hughsk/stanford-dragon.git
+- npm 页面：https://www.npmjs.com/package/stanford-dragon
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 0.0.0
+- 1.0.0
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install stanford-dragon`
+- npm registry：https://registry.npmjs.org/stanford-dragon

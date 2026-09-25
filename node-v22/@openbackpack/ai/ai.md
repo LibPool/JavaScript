@@ -1,0 +1,25 @@
+# @openbackpack/ai
+
+> 标签: JavaScript
+
+## 简介
+
+AI SDK tools for OpenBackpack.
+
+## 官网
+
+- 官网：https://github.com/GrahamQuan/openbackpack#readme
+- 源码仓库：git+https://github.com/GrahamQuan/openbackpack.git
+- npm 页面：https://www.npmjs.com/package/@openbackpack/ai
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.0
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @openbackpack/ai`
+- npm registry：https://registry.npmjs.org/@openbackpack/ai

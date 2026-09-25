@@ -1,0 +1,30 @@
+# eslint-config-wonka
+
+> 标签: alfraul, eslint, eslint-config, js, prettier, ts
+
+## 简介
+
+Eslint and Prettier config
+
+## 官网
+
+- 官网：https://github.com/alfraul14/eslint-config-wonka#readme
+- 源码仓库：git+https://github.com/alfraul14/eslint-config-wonka.git
+- npm 页面：https://www.npmjs.com/package/eslint-config-wonka
+
+## 历史版本号
+
+- 当前版本：1.3.3
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.3.0
+- 1.3.1
+- 1.3.2
+- 1.3.3
+
+## 获取地址
+
+- npm 安装：`npm install eslint-config-wonka`
+- npm registry：https://registry.npmjs.org/eslint-config-wonka

@@ -1,0 +1,31 @@
+# @tat-protocol/booth
+
+> 标签: commerce, invoice, nostr, payments, tat-protocol, token
+
+## 简介
+
+Booth Agent for TAT Protocol - Purchase and sales protocol
+
+## 官网
+
+- 官网：https://github.com/bigmarh/tat-protocol#readme
+- 源码仓库：git+https://github.com/bigmarh/tat-protocol.git
+- npm 页面：https://www.npmjs.com/package/@tat-protocol/booth
+
+## 历史版本号
+
+- 当前版本：1.3.0
+
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.1.0
+- 1.1.1
+- 1.2.0
+- 1.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @tat-protocol/booth`
+- npm registry：https://registry.npmjs.org/@tat-protocol/booth

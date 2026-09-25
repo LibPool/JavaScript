@@ -1,0 +1,25 @@
+# @mijnservices/section-wrapper
+
+> 标签: JavaScript
+
+## 简介
+
+Labelled section wrapper component for MijnServices, built on NL Design System architecture
+
+## 官网
+
+- 官网：https://github.com/maykinmedia/mijnservices-components#readme
+- 源码仓库：git+https://github.com/maykinmedia/mijnservices-components.git
+- npm 页面：https://www.npmjs.com/package/@mijnservices/section-wrapper
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.2.0
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @mijnservices/section-wrapper`
+- npm registry：https://registry.npmjs.org/@mijnservices/section-wrapper

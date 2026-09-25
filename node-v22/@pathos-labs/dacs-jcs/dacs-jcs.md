@@ -1,0 +1,23 @@
+# @pathos-labs/dacs-jcs
+
+> 标签: JavaScript
+
+## 简介
+
+PATH-OS JCS, SHA-256, and registry-bound Ed25519 toolkit
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@pathos-labs/dacs-jcs
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @pathos-labs/dacs-jcs`
+- npm registry：https://registry.npmjs.org/@pathos-labs/dacs-jcs
+- Node 要求：>=20.0.0

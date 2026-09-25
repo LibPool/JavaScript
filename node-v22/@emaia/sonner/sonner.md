@@ -1,0 +1,25 @@
+# @emaia/sonner
+
+> 标签: message, notifications, react, snackbar, toast
+
+## 简介
+
+An opinionated toast component for React/Vanilla.
+
+## 官网
+
+- 官网：https://github.com/emaia/sonner
+- 源码仓库：git+https://github.com/emaia/sonner.git
+- npm 页面：https://www.npmjs.com/package/@emaia/sonner
+
+## 历史版本号
+
+- 当前版本：2.1.1
+
+- 2.1.0
+- 2.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @emaia/sonner`
+- npm registry：https://registry.npmjs.org/@emaia/sonner

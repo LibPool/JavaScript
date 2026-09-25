@@ -1,0 +1,22 @@
+# demo-package-create
+
+> 标签: typescript
+
+## 简介
+
+Testing for package manager test
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/demo-package-create
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install demo-package-create`
+- npm registry：https://registry.npmjs.org/demo-package-create

@@ -1,0 +1,26 @@
+# harmonyos-sans-sc-webfont-splitted
+
+> 标签: JavaScript
+
+## 简介
+
+HarmonyOS Sans SC Webfont Splitted.
+
+## 官网
+
+- 官网：https://github.com/SunsetMkt/HarmonyOS_Sans_SC_Webfont_Splitted#readme
+- 源码仓库：git+https://github.com/SunsetMkt/HarmonyOS_Sans_SC_Webfont_Splitted.git
+- npm 页面：https://www.npmjs.com/package/harmonyos-sans-sc-webfont-splitted
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install harmonyos-sans-sc-webfont-splitted`
+- npm registry：https://registry.npmjs.org/harmonyos-sans-sc-webfont-splitted

@@ -1,0 +1,24 @@
+# elementui-plus-delta
+
+> 标签: components, element-plus, element-ui, elementui-plus-delta, t-ui, vite, vite3, vitepress, vitepress-theme-demoblock, vue, vue3, 二次封装组件, 封装组件
+
+## 简介
+
+Vue3 中基于Element-plus二次封装基础组件文档
+
+## 官网
+
+- 官网：https://wocwin.github.io/elementui-plus-delta/
+- 源码仓库：git+https://github.com/wocwin/elementui-plus-delta.git
+- npm 页面：https://www.npmjs.com/package/elementui-plus-delta
+
+## 历史版本号
+
+- 当前版本：1.1.21
+
+- 1.1.21
+
+## 获取地址
+
+- npm 安装：`npm install elementui-plus-delta`
+- npm registry：https://registry.npmjs.org/elementui-plus-delta

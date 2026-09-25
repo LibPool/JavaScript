@@ -1,0 +1,25 @@
+# effing-use
+
+> 标签: browser-automation, chromium, mcp, model-context-protocol, playwright, tmcp
+
+## 简介
+
+Token-efficient browser control: 3 tools (act, observe, extract) built with tmcp + Bun + Playwright
+
+## 官网
+
+- 官网：https://github.com/Michael-Obele/effing-use#readme
+- 源码仓库：git+https://github.com/Michael-Obele/effing-use.git
+- npm 页面：https://www.npmjs.com/package/effing-use
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install effing-use`
+- npm registry：https://registry.npmjs.org/effing-use

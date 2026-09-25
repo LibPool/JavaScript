@@ -1,0 +1,34 @@
+# image-tools-mcp
+
+> 标签: ai, dimension, image, image size, mcp, model-context-protocol, probe
+
+## 简介
+
+A Model Context Protocol (MCP) service for retrieving image dimensions, supporting both URL and local file sources.
+
+## 官网
+
+- 官网：https://github.com/kshern/image-tools-mcp#readme
+- 源码仓库：git+https://github.com/kshern/image-tools-mcp.git
+- npm 页面：https://www.npmjs.com/package/image-tools-mcp
+
+## 历史版本号
+
+- 当前版本：0.0.12
+
+- 0.0.10
+- 0.0.11
+- 0.0.12
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install image-tools-mcp`
+- npm registry：https://registry.npmjs.org/image-tools-mcp
+- Node 要求：>=16.0.0

@@ -1,0 +1,24 @@
+# @innodata/vue-v3-ya-metrika
+
+> 标签: Yandex, Yandex Metrica, Yandex Metrika, tracking, vue-v3-yandex-metrica, vue-v3-yandex-metrika, vue3, yandex, yandex metrica, yandex metrika, yandex tracking, Яндекс, Яндекс Метрика, яндекс, яндекс метрика
+
+## 简介
+
+Yandex Metrika plugin for Vue3
+
+## 官网
+
+- 官网：https://github.com/ddtikhonov/vue-v3-yandex-metrika#readme
+- 源码仓库：git+https://github.com/ddtikhonov/vue-v3-yandex-metrika.git
+- npm 页面：https://www.npmjs.com/package/@innodata/vue-v3-ya-metrika
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @innodata/vue-v3-ya-metrika`
+- npm registry：https://registry.npmjs.org/@innodata/vue-v3-ya-metrika

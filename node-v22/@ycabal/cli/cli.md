@@ -1,0 +1,25 @@
+# @ycabal/cli
+
+> 标签: oclif
+
+## 简介
+
+JSONRPC utility
+
+## 官网
+
+- 官网：https://github.com/backbonecabal/ycabal
+- 源码仓库：git+https://github.com/backbonecabal/ycabal.git
+- npm 页面：https://www.npmjs.com/package/@ycabal/cli
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @ycabal/cli`
+- npm registry：https://registry.npmjs.org/@ycabal/cli
+- Node 要求：>=8.0.0

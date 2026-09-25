@@ -1,0 +1,24 @@
+# @pixeldrew/jodit-react
+
+> 标签: editor, html, jodit, react, rich editor, rich text editor, rte, text, wysisyg
+
+## 简介
+
+Jodit is awesome and usefully wysiwyg editor with filebrowser - added external css
+
+## 官网
+
+- 官网：https://xdsoft.net/jodit/
+- 源码仓库：git+https://github.com/jodit/jodit-react.git
+- npm 页面：https://www.npmjs.com/package/@pixeldrew/jodit-react
+
+## 历史版本号
+
+- 当前版本：1.3.39
+
+- 1.3.39
+
+## 获取地址
+
+- npm 安装：`npm install @pixeldrew/jodit-react`
+- npm registry：https://registry.npmjs.org/@pixeldrew/jodit-react

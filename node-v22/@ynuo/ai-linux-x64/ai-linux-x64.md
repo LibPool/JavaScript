@@ -1,0 +1,27 @@
+# @ynuo/ai-linux-x64
+
+> 标签: JavaScript
+
+## 简介
+
+ynuo AI 守护启动器（linux/amd64）— 由 @ynuo/ai 自动安装
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@ynuo/ai-linux-x64
+
+## 历史版本号
+
+- 当前版本：0.3.5
+
+- 0.3.0
+- 0.3.1
+- 0.3.2
+- 0.3.3
+- 0.3.4
+- 0.3.5
+
+## 获取地址
+
+- npm 安装：`npm install @ynuo/ai-linux-x64`
+- npm registry：https://registry.npmjs.org/@ynuo/ai-linux-x64

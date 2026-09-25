@@ -1,0 +1,24 @@
+# mike-package-meueu
+
+> 标签: eu, mike, package
+
+## 简介
+
+This is my description
+
+## 官网
+
+- 官网：https://github.com/exploitmik/mike-package#readme
+- 源码仓库：git+https://github.com/exploitmik/mike-package.git
+- npm 页面：https://www.npmjs.com/package/mike-package-meueu
+
+## 历史版本号
+
+- 当前版本：0.0.5
+
+- 0.0.5
+
+## 获取地址
+
+- npm 安装：`npm install mike-package-meueu`
+- npm registry：https://registry.npmjs.org/mike-package-meueu

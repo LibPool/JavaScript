@@ -1,0 +1,35 @@
+# brain-games-rmakarov
+
+> 标签: console game, hexlet
+
+## 简介
+
+hexlet training project: console game
+
+## 官网
+
+- 官网：https://github.com/SmartRW/project-lvl1-s328#readme
+- 源码仓库：git+https://github.com/SmartRW/project-lvl1-s328.git
+- npm 页面：https://www.npmjs.com/package/brain-games-rmakarov
+
+## 历史版本号
+
+- 当前版本：1.9.2
+
+- 1.4.2
+- 1.5.0
+- 1.5.1
+- 1.6.0
+- 1.6.1
+- 1.6.2
+- 1.6.3
+- 1.7.0
+- 1.8.0
+- 1.9.0
+- 1.9.1
+- 1.9.2
+
+## 获取地址
+
+- npm 安装：`npm install brain-games-rmakarov`
+- npm registry：https://registry.npmjs.org/brain-games-rmakarov

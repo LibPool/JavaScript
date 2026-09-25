@@ -1,0 +1,36 @@
+# hereby
+
+> 标签: build, gulp, hereby, herebyfile, make, makefile, runner, task
+
+## 简介
+
+A simple task runner
+
+## 官网
+
+- 官网：https://github.com/jakebailey/hereby#readme
+- 源码仓库：git+https://github.com/jakebailey/hereby.git
+- npm 页面：https://www.npmjs.com/package/hereby
+
+## 历史版本号
+
+- 当前版本：1.15.2
+
+- 1.6.3
+- 1.6.4
+- 1.7.0
+- 1.7.1
+- 1.8.0
+- 1.8.1
+- 1.8.5
+- 1.8.6
+- 1.8.7
+- 1.8.8
+- 1.8.9
+- 1.9.0
+
+## 获取地址
+
+- npm 安装：`npm install hereby`
+- npm registry：https://registry.npmjs.org/hereby
+- Node 要求：>= 12.20

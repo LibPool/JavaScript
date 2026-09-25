@@ -1,0 +1,27 @@
+# do-vendor
+
+> 标签: JavaScript
+
+## 简介
+
+Copy files from your to node_modules dir to the configured directories
+
+## 官网
+
+- 官网：https://github.com/olanod/vendor#readme
+- 源码仓库：git+https://github.com/olanod/vendor.git
+- npm 页面：https://www.npmjs.com/package/do-vendor
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install do-vendor`
+- npm registry：https://registry.npmjs.org/do-vendor

@@ -1,0 +1,24 @@
+# @labset/eslint-plugin-license-notice
+
+> 标签: JavaScript
+
+## 简介
+
+eslint plugin to ensure license notice/header is included across your files
+
+## 官网
+
+- 官网：https://github.com/viqueen/eslint-plugin-license-notice#readme
+- 源码仓库：git+ssh://git@github.com/viqueen/eslint-plugin-license-notice.git
+- npm 页面：https://www.npmjs.com/package/@labset/eslint-plugin-license-notice
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @labset/eslint-plugin-license-notice`
+- npm registry：https://registry.npmjs.org/@labset/eslint-plugin-license-notice

@@ -1,0 +1,35 @@
+# finaeo-pattern-library
+
+> 标签: finaeo
+
+## 简介
+
+This projects containts all the styles, and HTML structure for portal.finaeo.com
+
+## 官网
+
+- 官网：https://github.com/FinaeoInc/finaeo-pattern-library-v2#readme
+- 源码仓库：git+https://github.com/FinaeoInc/finaeo-pattern-library-v2.git
+- npm 页面：https://www.npmjs.com/package/finaeo-pattern-library
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.1.12
+- 1.1.13
+- 1.1.14
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.1.6
+- 1.1.7
+- 1.1.8
+- 1.1.9
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install finaeo-pattern-library`
+- npm registry：https://registry.npmjs.org/finaeo-pattern-library

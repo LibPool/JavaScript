@@ -1,0 +1,24 @@
+# l.lg.c.kfork
+
+> 标签: collision, leaflet
+
+## 简介
+
+Leaflet plugin for uncluttering L.Markers using basic collision detection.
+
+## 官网
+
+- 官网：http://www.mazemap.com
+- 源码仓库：git+https://github.com/MazeMap/Leaflet.LayerGroup.Collision.git
+- npm 页面：https://www.npmjs.com/package/l.lg.c.kfork
+
+## 历史版本号
+
+- 当前版本：0.3.1
+
+- 0.3.1
+
+## 获取地址
+
+- npm 安装：`npm install l.lg.c.kfork`
+- npm registry：https://registry.npmjs.org/l.lg.c.kfork

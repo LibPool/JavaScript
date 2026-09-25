@@ -1,0 +1,27 @@
+# @kmuto/textlint-rule-preset-kmu-kubernetes
+
+> 标签: japanese, textlint, textlintrule
+
+## 简介
+
+textlint rule for Kubernetes translation in Japanese
+
+## 官网
+
+- 官网：https://github.com/kmuto/textlint-rule-preset-kmu-kubernetes#readme
+- 源码仓库：git+https://github.com/kmuto/textlint-rule-preset-kmu-kubernetes.git
+- npm 页面：https://www.npmjs.com/package/@kmuto/textlint-rule-preset-kmu-kubernetes
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @kmuto/textlint-rule-preset-kmu-kubernetes`
+- npm registry：https://registry.npmjs.org/@kmuto/textlint-rule-preset-kmu-kubernetes

@@ -1,0 +1,24 @@
+# @xname223/raretip
+
+> 标签: JavaScript
+
+## 简介
+
+@xname223/raretip - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/XNAME223/raretip#readme
+- 源码仓库：git+https://github.com/XNAME223/raretip.git
+- npm 页面：https://www.npmjs.com/package/@xname223/raretip
+
+## 历史版本号
+
+- 当前版本：4.0.0
+
+- 4.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @xname223/raretip`
+- npm registry：https://registry.npmjs.org/@xname223/raretip

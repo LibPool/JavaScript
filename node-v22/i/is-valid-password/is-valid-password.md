@@ -1,0 +1,25 @@
+# is-valid-password
+
+> 标签: password, validate, validator
+
+## 简介
+
+Validate password
+
+## 官网
+
+- 官网：https://github.com/miguelmota/is-valid-password
+- 源码仓库：git+https://github.com/miguelmota/is-valid-password.git
+- npm 页面：https://www.npmjs.com/package/is-valid-password
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install is-valid-password`
+- npm registry：https://registry.npmjs.org/is-valid-password

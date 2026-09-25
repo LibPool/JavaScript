@@ -1,0 +1,22 @@
+# @xydcloud-cli-dev/core
+
+> 标签: JavaScript
+
+## 简介
+
+xydcloud-cli-dev core
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@xydcloud-cli-dev/core
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @xydcloud-cli-dev/core`
+- npm registry：https://registry.npmjs.org/@xydcloud-cli-dev/core

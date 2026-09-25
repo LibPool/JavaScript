@@ -1,0 +1,27 @@
+# @mbarlocker/typescript-buffers
+
+> 标签: buffer, conversion, ipv4, ipv6, uuid
+
+## 简介
+
+Consistent conversion to and from buffers for various data types and representations.
+
+## 官网
+
+- 官网：https://github.com/mbarlocker/typescript-buffers
+- 源码仓库：git+https://github.com/mbarlocker/typescript-buffers.git
+- npm 页面：https://www.npmjs.com/package/@mbarlocker/typescript-buffers
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.1
+- 0.0.2
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @mbarlocker/typescript-buffers`
+- npm registry：https://registry.npmjs.org/@mbarlocker/typescript-buffers
+- Node 要求：>=10.0.0

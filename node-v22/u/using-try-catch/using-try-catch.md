@@ -1,0 +1,36 @@
+# using-try-catch
+
+> 标签: error, try-catch, typescript
+
+## 简介
+
+Simplify the use of try-catch
+
+## 官网
+
+- 官网：https://github.com/Oda2/using-try-catch
+- 源码仓库：git+https://github.com/Oda2/using-try-catch.git
+- npm 页面：https://www.npmjs.com/package/using-try-catch
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+- 0.2.0
+- 0.2.1
+- 0.3.0
+- 0.4.0
+- 0.5.0
+- 0.6.0
+- 0.8.0
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install using-try-catch`
+- npm registry：https://registry.npmjs.org/using-try-catch
+- Node 要求：>=18

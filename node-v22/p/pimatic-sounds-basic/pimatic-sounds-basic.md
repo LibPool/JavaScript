@@ -1,0 +1,28 @@
+# pimatic-sounds-basic
+
+> 标签: chromecast, pimatic, sounds, tts
+
+## 简介
+
+Playing mp3 files and tts sentences on Chromecast and Sonos devices (node v8+ only)
+
+## 官网
+
+- 官网：https://github.com/bertreb/pimatic-sounds-basic.git
+- 源码仓库：git+https://github.com/bertreb/pimatic-sounds-basic.git
+- npm 页面：https://www.npmjs.com/package/pimatic-sounds-basic
+
+## 历史版本号
+
+- 当前版本：0.1.24
+
+- 0.1.20
+- 0.1.22
+- 0.1.23
+- 0.1.24
+
+## 获取地址
+
+- npm 安装：`npm install pimatic-sounds-basic`
+- npm registry：https://registry.npmjs.org/pimatic-sounds-basic
+- Node 要求：>=8

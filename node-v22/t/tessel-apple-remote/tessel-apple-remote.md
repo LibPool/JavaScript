@@ -1,0 +1,25 @@
+# tessel-apple-remote
+
+> 标签: JavaScript
+
+## 简介
+
+An event-emitter interface to an Apple IR Remote using the Tessel IR Module
+
+## 官网
+
+- 官网：https://github.com/weisjohn/tessel-apple-remote
+- 源码仓库：https://github.com/weisjohn/tessel-apple-remote.git
+- npm 页面：https://www.npmjs.com/package/tessel-apple-remote
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install tessel-apple-remote`
+- npm registry：https://registry.npmjs.org/tessel-apple-remote

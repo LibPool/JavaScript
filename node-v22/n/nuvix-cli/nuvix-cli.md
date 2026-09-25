@@ -1,0 +1,25 @@
+# nuvix-cli
+
+> 标签: baas, backend, cli, infrastructure-as-code, nuvix
+
+## 简介
+
+Build, test, publish and deploy a Nuvix backend from a nuvix.json file.
+
+## 官网
+
+- 官网：https://github.com/eeslam99/Nuvix/blob/main/docs/CLI-GUIDE.md
+- 源码仓库：git+https://github.com/eeslam99/Nuvix.git
+- npm 页面：https://www.npmjs.com/package/nuvix-cli
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install nuvix-cli`
+- npm registry：https://registry.npmjs.org/nuvix-cli
+- Node 要求：>=20.10

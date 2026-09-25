@@ -1,0 +1,25 @@
+# @jr-icons/core
+
+> 标签: JavaScript
+
+## 简介
+
+Framework-independent SVG icon definitions and utilities for JR Icons.
+
+## 官网
+
+- 官网：https://github.com/gokujy/jr-icons#readme
+- 源码仓库：git+https://github.com/gokujy/jr-icons.git
+- npm 页面：https://www.npmjs.com/package/@jr-icons/core
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @jr-icons/core`
+- npm registry：https://registry.npmjs.org/@jr-icons/core
+- Node 要求：>=20.19

@@ -1,0 +1,33 @@
+# @rbxts/easy_jecs
+
+> 标签: JavaScript
+
+## 简介
+
+@rbxts/easy_jecs - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@rbxts/easy_jecs
+
+## 历史版本号
+
+- 当前版本：2.2.12
+
+- 2.2.1
+- 2.2.10
+- 2.2.11
+- 2.2.12
+- 2.2.2
+- 2.2.3
+- 2.2.4
+- 2.2.5
+- 2.2.6
+- 2.2.7
+- 2.2.8
+- 2.2.9
+
+## 获取地址
+
+- npm 安装：`npm install @rbxts/easy_jecs`
+- npm registry：https://registry.npmjs.org/@rbxts/easy_jecs

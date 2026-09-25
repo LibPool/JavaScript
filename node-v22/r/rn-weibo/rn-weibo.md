@@ -1,0 +1,25 @@
+# rn-weibo
+
+> 标签: android, ios, login, react-native, share, sina, weibo
+
+## 简介
+
+新浪微博登录和分享模块
+
+## 官网
+
+- 官网：https://github.com/yun77op/react-native-weibo#readme
+- 源码仓库：git+https://github.com/yun77op/react-native-weibo.git
+- npm 页面：https://www.npmjs.com/package/rn-weibo
+
+## 历史版本号
+
+- 当前版本：3.0.5
+
+- 3.0.4
+- 3.0.5
+
+## 获取地址
+
+- npm 安装：`npm install rn-weibo`
+- npm registry：https://registry.npmjs.org/rn-weibo

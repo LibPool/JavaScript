@@ -1,0 +1,23 @@
+# @nilu.986/mono-calc
+
+> 标签: JavaScript
+
+## 简介
+
+@nilu.986/mono-calc - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@nilu.986/mono-calc
+
+## 历史版本号
+
+- 当前版本：0.4.0
+
+- 0.3.0
+- 0.4.0
+
+## 获取地址
+
+- npm 安装：`npm install @nilu.986/mono-calc`
+- npm registry：https://registry.npmjs.org/@nilu.986/mono-calc

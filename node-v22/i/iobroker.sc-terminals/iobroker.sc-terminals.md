@@ -1,0 +1,24 @@
+# iobroker.sc-terminals
+
+> 标签: starcitizen, ui, vis
+
+## 简介
+
+Star Citizen themed Vis Pack
+
+## 官网
+
+- 官网：https://github.com/AlfonzRitzek/ioBroker.sc-terminals
+- 源码仓库：git+https://github.com/AlfonzRitzek/ioBroker.sc-terminals.git
+- npm 页面：https://www.npmjs.com/package/iobroker.sc-terminals
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install iobroker.sc-terminals`
+- npm registry：https://registry.npmjs.org/iobroker.sc-terminals

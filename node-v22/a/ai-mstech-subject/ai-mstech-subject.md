@@ -1,0 +1,24 @@
+# ai-mstech-subject
+
+> 标签: JavaScript
+
+## 简介
+
+ai-mstech-subject - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/fencer-yd/mstech-subject
+- 源码仓库：git+https://github.com/fencer-yd/mstech-subject.git
+- npm 页面：https://www.npmjs.com/package/ai-mstech-subject
+
+## 历史版本号
+
+- 当前版本：1.1.3
+
+- 1.1.3
+
+## 获取地址
+
+- npm 安装：`npm install ai-mstech-subject`
+- npm registry：https://registry.npmjs.org/ai-mstech-subject

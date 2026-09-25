@@ -1,0 +1,29 @@
+# @langgenius/nodwork
+
+> 标签: JavaScript
+
+## 简介
+
+Terminal client for nod.work.
+
+## 官网
+
+- 官网：https://github.com/langgenius/echo#readme
+- 源码仓库：git+https://github.com/langgenius/echo.git
+- npm 页面：https://www.npmjs.com/package/@langgenius/nodwork
+
+## 历史版本号
+
+- 当前版本：0.0.6
+
+- 0.0.1
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+
+## 获取地址
+
+- npm 安装：`npm install @langgenius/nodwork`
+- npm registry：https://registry.npmjs.org/@langgenius/nodwork
+- Node 要求：>=22.13.0

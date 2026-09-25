@@ -1,0 +1,24 @@
+# exec-all
+
+> 标签: JavaScript
+
+## 简介
+
+Execute a bunch of commands in parallel.
+
+## 官网
+
+- 官网：https://github.com/kpuputti/node-exec-all
+- 源码仓库：git://github.com/kpuputti/node-exec-all.git
+- npm 页面：https://www.npmjs.com/package/exec-all
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install exec-all`
+- npm registry：https://registry.npmjs.org/exec-all

@@ -1,0 +1,23 @@
+# @bazo/js-translator
+
+> 标签: JavaScript
+
+## 简介
+
+Translator for JS using Symfony translations
+
+## 官网
+
+- 源码仓库：git@github.com:bazo/js-translator.git
+- npm 页面：https://www.npmjs.com/package/@bazo/js-translator
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @bazo/js-translator`
+- npm registry：https://registry.npmjs.org/@bazo/js-translator

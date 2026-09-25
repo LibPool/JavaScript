@@ -1,0 +1,36 @@
+# @nurix/nustack
+
+> 标签: JavaScript
+
+## 简介
+
+The nustack CLI — bootstrap NuStack services into a repo via the NuStack discovery plane.
+
+## 官网
+
+- 官网：https://github.com/nurixlabs/NuStack#readme
+- 源码仓库：git+https://github.com/nurixlabs/NuStack.git
+- npm 页面：https://www.npmjs.com/package/@nurix/nustack
+
+## 历史版本号
+
+- 当前版本：0.18.1
+
+- 0.14.4
+- 0.14.5
+- 0.14.6
+- 0.15.0
+- 0.15.1
+- 0.16.0
+- 0.16.1
+- 0.16.2
+- 0.17.0
+- 0.17.1
+- 0.18.0
+- 0.18.1
+
+## 获取地址
+
+- npm 安装：`npm install @nurix/nustack`
+- npm registry：https://registry.npmjs.org/@nurix/nustack
+- Node 要求：>=22.13.0

@@ -1,0 +1,27 @@
+# adonisjs-maestro
+
+> 标签: adonisjs, agent-skills, maestro, skills
+
+## 简介
+
+Install AdonisJS Maestro agent skills by stack
+
+## 官网
+
+- 官网：https://github.com/lncitador/adonisjs-maestro#readme
+- 源码仓库：git+https://github.com/lncitador/adonisjs-maestro.git
+- npm 页面：https://www.npmjs.com/package/adonisjs-maestro
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.0.1
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install adonisjs-maestro`
+- npm registry：https://registry.npmjs.org/adonisjs-maestro

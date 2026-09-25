@@ -1,0 +1,24 @@
+# @yishayweb/react_dates
+
+> 标签: JavaScript
+
+## 简介
+
+@yishayweb/react_dates - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/yishayweb/react_dates#readme
+- 源码仓库：git+https://github.com/yishayweb/react_dates.git
+- npm 页面：https://www.npmjs.com/package/@yishayweb/react_dates
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @yishayweb/react_dates`
+- npm registry：https://registry.npmjs.org/@yishayweb/react_dates

@@ -1,0 +1,34 @@
+# nextjs-progressbar-withdelay
+
+> 标签: Next, Next.js, Nprogress, Progressbar
+
+## 简介
+
+Nprogress component for Next.js app.
+
+## 官网
+
+- 官网：https://github.com/jacknight/nextjs-progressbar#readme
+- 源码仓库：git+https://github.com/jacknight/nextjs-progressbar.git
+- npm 页面：https://www.npmjs.com/package/nextjs-progressbar-withdelay
+
+## 历史版本号
+
+- 当前版本：0.0.11
+
+- 0.0.1
+- 0.0.10
+- 0.0.11
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install nextjs-progressbar-withdelay`
+- npm registry：https://registry.npmjs.org/nextjs-progressbar-withdelay

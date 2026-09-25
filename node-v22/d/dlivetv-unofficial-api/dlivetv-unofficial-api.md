@@ -1,0 +1,35 @@
+# dlivetv-unofficial-api
+
+> 标签: JavaScript
+
+## 简介
+
+Unofficial dlive.tv api
+
+## 官网
+
+- 官网：https://github.com/dlive-apis/dlivetv-api-js#readme
+- 源码仓库：git+https://github.com/dlive-apis/dlivetv-api-js.git
+- npm 页面：https://www.npmjs.com/package/dlivetv-unofficial-api
+
+## 历史版本号
+
+- 当前版本：2.2.0
+
+- 2.0.8
+- 2.0.9
+- 2.1.10
+- 2.1.11
+- 2.1.12
+- 2.1.13
+- 2.1.14
+- 2.1.15
+- 2.1.16
+- 2.1.18
+- 2.1.19
+- 2.2.0
+
+## 获取地址
+
+- npm 安装：`npm install dlivetv-unofficial-api`
+- npm registry：https://registry.npmjs.org/dlivetv-unofficial-api

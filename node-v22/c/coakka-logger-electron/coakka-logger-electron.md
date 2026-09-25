@@ -1,0 +1,31 @@
+# coakka-logger-electron
+
+> 标签: coakka, electron, ipc, logger, native, structured-logging
+
+## 简介
+
+Electron main-process intent bridge for the CoAkka logger
+
+## 官网
+
+- 官网：https://github.com/phuong-tran/coakka-samples/tree/main/logger/electron
+- 源码仓库：git+https://github.com/phuong-tran/coakka-publish.git
+- npm 页面：https://www.npmjs.com/package/coakka-logger-electron
+
+## 历史版本号
+
+- 当前版本：1.2.7
+
+- 1.2.1
+- 1.2.2
+- 1.2.3
+- 1.2.4
+- 1.2.5
+- 1.2.6
+- 1.2.7
+
+## 获取地址
+
+- npm 安装：`npm install coakka-logger-electron`
+- npm registry：https://registry.npmjs.org/coakka-logger-electron
+- Node 要求：>=22

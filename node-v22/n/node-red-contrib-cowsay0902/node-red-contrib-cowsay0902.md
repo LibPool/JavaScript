@@ -1,0 +1,25 @@
+# node-red-contrib-cowsay0902
+
+> 标签: cowsay, node-red, node-red-nodegen
+
+## 简介
+
+Node-RED node for cowsay
+
+## 官网
+
+- 官网：https://github.com/kerorinyokoi/node-red-contrib-cowsay0902#readme
+- 源码仓库：git+https://github.com/kerorinyokoi/node-red-contrib-cowsay0902.git
+- npm 页面：https://www.npmjs.com/package/node-red-contrib-cowsay0902
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install node-red-contrib-cowsay0902`
+- npm registry：https://registry.npmjs.org/node-red-contrib-cowsay0902
+- Node 要求：>=12.0.0

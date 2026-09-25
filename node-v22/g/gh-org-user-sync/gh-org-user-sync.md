@@ -1,0 +1,26 @@
+# gh-org-user-sync
+
+> 标签: api, github, organization, sync, user
+
+## 简介
+
+Syncs the members of a GitHub organization to a new GitHub organization
+
+## 官网
+
+- 官网：https://github.com/asheliahut/gh-org-user-sync
+- 源码仓库：git+https://github.com/asheliahut/gh-org-user-sync.git
+- npm 页面：https://www.npmjs.com/package/gh-org-user-sync
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install gh-org-user-sync`
+- npm registry：https://registry.npmjs.org/gh-org-user-sync

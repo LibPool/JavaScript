@@ -1,0 +1,34 @@
+# @lijuhong1981/picking
+
+> 标签: colorpick, depthpick, gpupick, picking, raycast, renderpick, three, webgl, webgpu
+
+## 简介
+
+因threejs自带的拾取只有射线检测一种方式，当场景较大，几何体数量较多时，检测性能就低下，经常导致页面卡顿。 为解决这个问题开发了这个拾取管理器，引入了基于GPU的颜色拾取与深度拾取方式，同时保留并优化了原有的射线检测方式，以提供更好的体验。
+
+## 官网
+
+- 官网：https://github.com/lijuhong1981/threePicking#readme
+- 源码仓库：git+https://github.com/lijuhong1981/threePicking.git
+- npm 页面：https://www.npmjs.com/package/@lijuhong1981/picking
+
+## 历史版本号
+
+- 当前版本：1.0.10
+
+- 1.0.0
+- 1.0.1
+- 1.0.10
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @lijuhong1981/picking`
+- npm registry：https://registry.npmjs.org/@lijuhong1981/picking

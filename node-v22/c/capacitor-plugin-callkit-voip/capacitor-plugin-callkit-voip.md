@@ -1,0 +1,27 @@
+# capacitor-plugin-callkit-voip
+
+> 标签: capacitor, native, plugin
+
+## 简介
+
+Provide CallKit and PushKit functionality to capacitor
+
+## 官网
+
+- 官网：https://github.com/kin9aziz/capacitor-plugin-callkit-voip.git#readme
+- 源码仓库：git+https://github.com/kin9aziz/capacitor-plugin-callkit-voip.git.git
+- npm 页面：https://www.npmjs.com/package/capacitor-plugin-callkit-voip
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 0.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install capacitor-plugin-callkit-voip`
+- npm registry：https://registry.npmjs.org/capacitor-plugin-callkit-voip

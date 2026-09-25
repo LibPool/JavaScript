@@ -1,0 +1,24 @@
+# @lambourl/npm-test-lla
+
+> 标签: c++, cpp
+
+## 简介
+
+test for install
+
+## 官网
+
+- 官网：https://github.com/Lambourl/npm-test-lla#readme
+- 源码仓库：git+https://github.com/Lambourl/npm-test-lla.git
+- npm 页面：https://www.npmjs.com/package/@lambourl/npm-test-lla
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @lambourl/npm-test-lla`
+- npm registry：https://registry.npmjs.org/@lambourl/npm-test-lla

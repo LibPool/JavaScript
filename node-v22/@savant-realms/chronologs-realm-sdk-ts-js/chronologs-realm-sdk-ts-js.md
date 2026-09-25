@@ -1,0 +1,22 @@
+# @savant-realms/chronologs-realm-sdk-ts-js
+
+> 标签: auth, chronologs, federated, logs, observability, savant-realms, sdk, telemetry
+
+## 简介
+
+SDK for Chronologs Realm logging plus federated auth helpers.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@savant-realms/chronologs-realm-sdk-ts-js
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @savant-realms/chronologs-realm-sdk-ts-js`
+- npm registry：https://registry.npmjs.org/@savant-realms/chronologs-realm-sdk-ts-js

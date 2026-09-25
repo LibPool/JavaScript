@@ -1,0 +1,29 @@
+# neumedia-video-player-m
+
+> 标签: JavaScript
+
+## 简介
+
+H5端视频播放器，播放视频格式 `mp4`。
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/neumedia-video-player-m
+
+## 历史版本号
+
+- 当前版本：1.2.6
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.2.1
+- 1.2.2
+- 1.2.4
+- 1.2.5
+- 1.2.6
+
+## 获取地址
+
+- npm 安装：`npm install neumedia-video-player-m`
+- npm registry：https://registry.npmjs.org/neumedia-video-player-m

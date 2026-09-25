@@ -1,0 +1,35 @@
+# react-lz-editor-whkfzyx
+
+> 标签: draft-js, react editor, react-lz-editor, react-rich-editor
+
+## 简介
+
+An open source react rich-text editor (mordern react editor includes media support such as texts, images, videos, audios, links etc.), development based on Draft-Js and Ant-design, good support html, markdown, draft-raw mode.
+
+## 官网
+
+- 官网：https://github.com/WHKFZYX-Tool/react-lz-editor-whkfzyx#readme
+- 源码仓库：git+ssh://git@github.com/WHKFZYX-Tool/react-lz-editor-whkfzyx.git
+- npm 页面：https://www.npmjs.com/package/react-lz-editor-whkfzyx
+
+## 历史版本号
+
+- 当前版本：1.0.13
+
+- 1.0.10
+- 1.0.11
+- 1.0.12
+- 1.0.13
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+
+## 获取地址
+
+- npm 安装：`npm install react-lz-editor-whkfzyx`
+- npm registry：https://registry.npmjs.org/react-lz-editor-whkfzyx

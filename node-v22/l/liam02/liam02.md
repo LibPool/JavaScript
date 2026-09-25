@@ -1,0 +1,24 @@
+# liam02
+
+> 标签: JavaScript
+
+## 简介
+
+Build for utils
+
+## 官网
+
+- 官网：https://liam-02.xyz
+- 源码仓库：git+https://github.com/VPNAM-02/LIAM-utils.git
+- npm 页面：https://www.npmjs.com/package/liam02
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install liam02`
+- npm registry：https://registry.npmjs.org/liam02

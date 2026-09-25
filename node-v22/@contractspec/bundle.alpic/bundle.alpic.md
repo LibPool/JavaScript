@@ -1,0 +1,36 @@
+# @contractspec/bundle.alpic
+
+> 标签: alpic, chatgpt-app, contractspec, hosting, mcp, typescript
+
+## 简介
+
+Alpic MCP server and ChatGPT App hosting bundle
+
+## 官网
+
+- 官网：https://contractspec.io
+- 源码仓库：git+https://github.com/lssm-tech/contractspec.git
+- npm 页面：https://www.npmjs.com/package/@contractspec/bundle.alpic
+
+## 历史版本号
+
+- 当前版本：3.7.28
+
+- 3.7.22
+- 3.7.23
+- 3.7.24
+- 3.7.25
+- 3.7.26
+- 3.7.27
+- 3.7.28
+- 3.7.3
+- 3.7.4
+- 3.7.5
+- 3.7.6
+- 3.7.7
+- 共 58 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @contractspec/bundle.alpic`
+- npm registry：https://registry.npmjs.org/@contractspec/bundle.alpic

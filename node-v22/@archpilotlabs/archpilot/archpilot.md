@@ -1,0 +1,34 @@
+# @archpilotlabs/archpilot
+
+> 标签: adr, architecture, architecture-validation, ci, cli, dependency-validation, developer-tools, governance, smart-init
+
+## 简介
+
+Executable architecture governance CLI for Smart Init, validation, drift detection, and CI.
+
+## 官网
+
+- 官网：https://archpilot.org
+- npm 页面：https://www.npmjs.com/package/@archpilotlabs/archpilot
+
+## 历史版本号
+
+- 当前版本：0.2.10
+
+- 0.1.0
+- 0.2.0
+- 0.2.1
+- 0.2.10
+- 0.2.2
+- 0.2.3
+- 0.2.4
+- 0.2.5
+- 0.2.6
+- 0.2.7
+- 0.2.8
+- 0.2.9
+
+## 获取地址
+
+- npm 安装：`npm install @archpilotlabs/archpilot`
+- npm registry：https://registry.npmjs.org/@archpilotlabs/archpilot

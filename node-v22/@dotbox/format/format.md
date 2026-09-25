@@ -1,0 +1,26 @@
+# @dotbox/format
+
+> 标签: box, compiler, config, json, language
+
+## 简介
+
+A library for formatting DotBox files.
+
+## 官网
+
+- 官网：https://github.com/jakehamilton/dotbox
+- 源码仓库：git+https://github.com/jakehamilton/dotbox.git
+- npm 页面：https://www.npmjs.com/package/@dotbox/format
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @dotbox/format`
+- npm registry：https://registry.npmjs.org/@dotbox/format

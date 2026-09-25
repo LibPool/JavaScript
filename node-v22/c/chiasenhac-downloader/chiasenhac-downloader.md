@@ -1,0 +1,29 @@
+# chiasenhac-downloader
+
+> 标签: chiasenhac, downloader
+
+## 简介
+
+Download any mp3/lossless music file from chiasenhac.vn with Nodejs
+
+## 官网
+
+- 官网：https://github.com/minhnvc/chiasenhac-downloader#readme
+- 源码仓库：git+https://github.com/minhnvc/chiasenhac-downloader.git
+- npm 页面：https://www.npmjs.com/package/chiasenhac-downloader
+
+## 历史版本号
+
+- 当前版本：1.2.2
+
+- 0.1.3
+- 0.1.4
+- 1.0.1
+- 1.2.0
+- 1.2.1
+- 1.2.2
+
+## 获取地址
+
+- npm 安装：`npm install chiasenhac-downloader`
+- npm registry：https://registry.npmjs.org/chiasenhac-downloader

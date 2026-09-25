@@ -1,0 +1,28 @@
+# cordova-plugin-ns0m-nfc
+
+> 标签: cordova, cordova-android, cordova-blackberry10, cordova-ios, cordova-windows, cordova-wp8, ecosystem:cordova, ndef, nfc
+
+## 简介
+
+Near Field Communication (NFC) Plugin. Read and write NDEF messages to NFC tags and share NDEF messages with peers.
+
+## 官网
+
+- 官网：https://github.com/ns0m/cordova-plugin-ns0m-nfc#readme
+- 源码仓库：git+https://github.com/ns0m/cordova-plugin-ns0m-nfc.git
+- npm 页面：https://www.npmjs.com/package/cordova-plugin-ns0m-nfc
+
+## 历史版本号
+
+- 当前版本：1.3.0-5
+
+- 1.3.0-1
+- 1.3.0-2
+- 1.3.0-3
+- 1.3.0-4
+- 1.3.0-5
+
+## 获取地址
+
+- npm 安装：`npm install cordova-plugin-ns0m-nfc`
+- npm registry：https://registry.npmjs.org/cordova-plugin-ns0m-nfc

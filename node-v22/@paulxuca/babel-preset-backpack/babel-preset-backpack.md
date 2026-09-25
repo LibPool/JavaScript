@@ -1,0 +1,24 @@
+# @paulxuca/babel-preset-backpack
+
+> 标签: babel, backpack, es6, node
+
+## 简介
+
+Babel preset for Backpack projects
+
+## 官网
+
+- 官网：https://github.com/palmerhq/backpack#readme
+- 源码仓库：git+https://github.com/palmerhq/backpack.git
+- npm 页面：https://www.npmjs.com/package/@paulxuca/babel-preset-backpack
+
+## 历史版本号
+
+- 当前版本：0.8.5
+
+- 0.8.5
+
+## 获取地址
+
+- npm 安装：`npm install @paulxuca/babel-preset-backpack`
+- npm registry：https://registry.npmjs.org/@paulxuca/babel-preset-backpack

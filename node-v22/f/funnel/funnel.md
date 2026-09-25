@@ -1,0 +1,24 @@
+# funnel
+
+> 标签: cloudwatch, dbi, funnel, graphite, json, mongodb, munin, nagios, statsd
+
+## 简介
+
+Funnel metrics from various sources into StatsD
+
+## 官网
+
+- 源码仓库：https://github.com/fictivekin/funnel.git
+- npm 页面：https://www.npmjs.com/package/funnel
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install funnel`
+- npm registry：https://registry.npmjs.org/funnel
+- Node 要求：>=0.8.0

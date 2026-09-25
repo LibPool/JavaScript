@@ -1,0 +1,25 @@
+# @mktsys/udt-project
+
+> 标签: agents, bmad, claude, cline, codex, copilot, gemini, opencode, skills, udt
+
+## 简介
+
+Install UDT BMAD agent, skill, instruction, and plugin artifacts into a project.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@mktsys/udt-project
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @mktsys/udt-project`
+- npm registry：https://registry.npmjs.org/@mktsys/udt-project
+- Node 要求：>=20

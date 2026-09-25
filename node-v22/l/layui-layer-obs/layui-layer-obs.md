@@ -1,0 +1,24 @@
+# layui-layer-obs
+
+> 标签: JavaScript
+
+## 简介
+
+layui-layer-obs - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/layui-layer-obs
+
+## 历史版本号
+
+- 当前版本：3.1.3
+
+- 3.1.1
+- 3.1.2
+- 3.1.3
+
+## 获取地址
+
+- npm 安装：`npm install layui-layer-obs`
+- npm registry：https://registry.npmjs.org/layui-layer-obs

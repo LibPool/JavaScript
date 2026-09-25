@@ -1,0 +1,25 @@
+# @unitra/core
+
+> 标签: JavaScript
+
+## 简介
+
+Core functionality for Unitra framework
+
+## 官网
+
+- 源码仓库：git+https://github.com/komed3/unitra.git
+- npm 页面：https://www.npmjs.com/package/@unitra/core
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @unitra/core`
+- npm registry：https://registry.npmjs.org/@unitra/core

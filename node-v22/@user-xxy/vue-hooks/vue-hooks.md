@@ -1,0 +1,25 @@
+# @user-xxy/vue-hooks
+
+> 标签: composables, hooks, vue, vue3
+
+## 简介
+
+Composition-API hooks for Vue 3 — built from real-world admin, H5, and mini-program projects.
+
+## 官网
+
+- 官网：https://github.com/user-xxy/vue-hooks#readme
+- 源码仓库：git+https://github.com/user-xxy/vue-hooks.git
+- npm 页面：https://www.npmjs.com/package/@user-xxy/vue-hooks
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @user-xxy/vue-hooks`
+- npm registry：https://registry.npmjs.org/@user-xxy/vue-hooks
+- Node 要求：>=18

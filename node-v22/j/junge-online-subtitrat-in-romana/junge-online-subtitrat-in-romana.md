@@ -1,0 +1,22 @@
+# junge-online-subtitrat-in-romana
+
+> 标签: JavaScript
+
+## 简介
+
+****<br />
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/junge-online-subtitrat-in-romana
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install junge-online-subtitrat-in-romana`
+- npm registry：https://registry.npmjs.org/junge-online-subtitrat-in-romana

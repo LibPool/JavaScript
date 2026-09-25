@@ -1,0 +1,24 @@
+# @lambrioanpm/fugit-eos-quos
+
+> 标签: $.extend, 256, 6to5, Array, Array.prototype.contains, Array.prototype.findLastIndex, Array.prototype.flat, Array.prototype.flatten, ArrayBuffer#slice, ArrayBuffer.prototype.slice, AsyncIterator, BigInt64Array, CSSStyleDeclaration, ECMAScript 2015, ECMAScript 2016, ECMAScript 2017, ECMAScript 2020, ECMAScript 2021, ECMAScript 2022, ECMAScript 2023, ECMAScript 3, ECMAScript 5, ES2015, ES2016, ES2019, ES2020, ES2021, ES2023, ES5, ES6, ES7, ES8, Float32Array, Int16Array, Int8Array, JSON, Microsoft, Object.assign, Object.entries, Object.keys, Object.values, Observables, Promise, Push, ReactiveExtensions, ReactiveX, RegExp#flags, Rx, Set, Stream, String.prototype.trim, StyleSheet, Symbol.toStringTag, TypeBox, TypedArray, Uint32Array, Uint8ClampedArray, YAML, __proto__, accessor, ajax, ajv, api, apollo, app, argparse, args, argument, arguments, arktype, art, ascii, assert, assertion, ast, async, auth, ava, babel-core, banner, bcrypt, bluebird, bound, browser, browserlist, browserslist, buffer, buffers, bundling, byte, byteOffset, cache, call-bind, callback, callbind, censor, chai, characters, child, chrome, clone, code points, collection, collection.es6, color, colour, command, commander, compile less, compiler, computed-types, concat, concatMap, config, connect, console, consume, contains, core, core-js, cors, create, crypt, crypto, css variable, css-in-js, curl, dataView, date, dayjs, debug, deep, deep-clone, deep-copy, deepclone, deepcopy, define, defineProperty, delete, dependencies, dependency manager, description, dir, directory, dom, dom-testing-library, dotenv, drag, drop, duplex, east-asian-width, electron, emit, encryption, entries, enumerable, env, environment, equal, equality, error, error-handling, es, es-abstract, es-shim API, es-shims, es2015, es2016, es2018, es5, es6, es7, eslint-plugin, exe, exec, exit-code, express, expression, extend, extension, extra, fast, fast-deep-clone, fastclone, fastcopy, fetch, figlet, file, file system, find, find-up, findLastIndex, findup, flag, flat, folder, forEach, form-validation, fp, from, fs, full, functional, functions, gdpr, gestures, getopt, graphql, group, groupBy, guid, handlers, harmony, has, hash, higher-order, hookform, http, i18n, id, immutable, import, includes, indicator, input, inspect, internal, interrupts, intrinsic, isConcatSpreadable, iteration, jQuery, japanese, jasmine, jest, joi, jsdiff, jsdom, json-schema, json-schema-validator, jsonpath, jsonschema, jsx, jwt, keys, korean, l10n, launch, lazy, less, less compiler, less css, less mixins, lesscss, let, limit, limited, linux, listeners, loading, lockfile, logger, logging, look-up, macos, make dir, map, match, matches, merge, metadata, middleware, mime, mimetypes, mkdirp, mkdirs, mocha, module, move, name, names, negative, negative zero, nested css, obj, offset, omit, once, opener, option, output, package, package manager, parent, parse, patch, path, performance, performant, picomatch, plugin, point-free, ponyfill, popmotion, pose, postcss, prefix, preprocessor, preserve-symlinks, private data, process, progress, promises, prop, property, proto, pure, push, qs, query, querystring, queueMicrotask, quote, ramda, random, rangeerror, rapid, ratelimit, react-hooks, react-testing-library, read, readable, recursive, redact, reducer, regexp, require, rgb, rm -fr, rm -rf, rmdir, safe, sanitization, sanitize, schema, scheme, scheme-validation, search, sequence, serialize, set, sham, sharedarraybuffer, shebang, shell, shrinkwrap, side, signal, signals, slice, sorted, spec, speed, spring, stable, start, starter, stream, string, stringifier, stringify, style, styled-components, styleguide, stylesheet, superagent, superstruct, symlink, syntax, syntaxerror, take, task, tc39, tdd, telephone, term, testing, text, three, toArray, toStringTag, toobject, transpiler, trimEnd, trimLeft, trimStart, ts, tty, typanion, type, typed, typedarrays, typeerror, typeof, types, typesafe, typescript, up, url, urls, user-streams, utilities, utility, validation, value, values, view, visual, waapi, wait, walking, watch, watcher, weakset, web, website, width, wordbreak, worker, wrap, write, xhr, xss, xterm, yaml, zod
+
+## 简介
+
+[![github actions][actions-image]][actions-url] [![coverage][codecov-image]][codecov-url] [![dependency status][5]][6] [![dev dependency status][7]][8] [![License][license-image]][license-url] [![Downloads][downloads-image]][downloads-url]
+
+## 官网
+
+- 官网：https://github.com/lambrioanpm/fugit-eos-quos/#readme
+- 源码仓库：git+https://github.com/lambrioanpm/fugit-eos-quos.git
+- npm 页面：https://www.npmjs.com/package/@lambrioanpm/fugit-eos-quos
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @lambrioanpm/fugit-eos-quos`
+- npm registry：https://registry.npmjs.org/@lambrioanpm/fugit-eos-quos

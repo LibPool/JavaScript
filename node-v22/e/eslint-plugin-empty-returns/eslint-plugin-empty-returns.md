@@ -1,0 +1,26 @@
+# eslint-plugin-empty-returns
+
+> 标签: eslint-plugin, zulip
+
+## 简介
+
+Eslint plugin to ensure undefined returns are empty.
+
+## 官网
+
+- 官网：https://github.com/aero31aero/eslint-plugin-empty-returns#readme
+- 源码仓库：git+https://github.com/aero31aero/eslint-plugin-empty-returns.git
+- npm 页面：https://www.npmjs.com/package/eslint-plugin-empty-returns
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install eslint-plugin-empty-returns`
+- npm registry：https://registry.npmjs.org/eslint-plugin-empty-returns

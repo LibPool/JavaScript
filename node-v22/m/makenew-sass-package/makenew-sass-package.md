@@ -1,0 +1,25 @@
+# makenew-sass-package
+
+> 标签: css, sass
+
+## 简介
+
+Sass package skeleton.
+
+## 官网
+
+- 官网：https://github.com/makenew/sass-package
+- 源码仓库：git+https://github.com/makenew/sass-package.git
+- npm 页面：https://www.npmjs.com/package/makenew-sass-package
+
+## 历史版本号
+
+- 当前版本：2.0.1
+
+- 2.0.0
+- 2.0.1
+
+## 获取地址
+
+- npm 安装：`npm install makenew-sass-package`
+- npm registry：https://registry.npmjs.org/makenew-sass-package

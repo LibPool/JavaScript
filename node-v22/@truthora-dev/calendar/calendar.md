@@ -1,0 +1,27 @@
+# @truthora-dev/calendar
+
+> 标签: JavaScript
+
+## 简介
+
+React Native Calendar Components
+
+## 官网
+
+- 源码仓库：git+https://github.com/truthora/lunar-calendar
+- npm 页面：https://www.npmjs.com/package/@truthora-dev/calendar
+
+## 历史版本号
+
+- 当前版本：1.22.3
+
+- 1.22.0
+- 1.22.1
+- 1.22.2
+- 1.22.3
+
+## 获取地址
+
+- npm 安装：`npm install @truthora-dev/calendar`
+- npm registry：https://registry.npmjs.org/@truthora-dev/calendar
+- Node 要求：>=18

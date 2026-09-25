@@ -1,0 +1,29 @@
+# @tractorbeam/typescript-config
+
+> 标签: nextjs, react, tanstack, tractorbeam, tractorbeamai, tsconfig, tsconfig-bases, typescript, vite
+
+## 简介
+
+Shared tsconfig presets for Tractorbeam projects
+
+## 官网
+
+- 官网：https://github.com/tractorbeamai/reusables/tree/main/packages/typescript-config#readme
+- 源码仓库：git+https://github.com/tractorbeamai/reusables.git
+- npm 页面：https://www.npmjs.com/package/@tractorbeam/typescript-config
+
+## 历史版本号
+
+- 当前版本：0.4.0
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.2.0
+- 0.3.0
+- 0.4.0
+
+## 获取地址
+
+- npm 安装：`npm install @tractorbeam/typescript-config`
+- npm registry：https://registry.npmjs.org/@tractorbeam/typescript-config

@@ -1,0 +1,34 @@
+# liaison-core
+
+> 标签: cors, embedded, iframe, javascript, postMessage
+
+## 简介
+
+A simple messaging library meant to enable easy CORS communication between windows and embedded iframes - using the browser postMessage API.
+
+## 官网
+
+- 官网：https://github.com/Drew-Daniels/liaison-core#readme
+- npm 页面：https://www.npmjs.com/package/liaison-core
+
+## 历史版本号
+
+- 当前版本：0.0.17
+
+- 0.0.13
+- 0.0.14
+- 0.0.15
+- 0.0.16
+- 0.0.17
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install liaison-core`
+- npm registry：https://registry.npmjs.org/liaison-core

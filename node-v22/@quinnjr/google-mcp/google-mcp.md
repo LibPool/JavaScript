@@ -1,0 +1,26 @@
+# @quinnjr/google-mcp
+
+> 标签: ai, claude, cursor, gmail, google, google-calendar, google-chat, google-contacts, google-docs, google-drive, google-forms, google-meet, google-sheets, google-slides, google-tasks, google-workspace, llm, mcp, model-context-protocol, oauth, oauth2, youtube
+
+## 简介
+
+Model Context Protocol (MCP) server for Google Workspace - Calendar, Gmail, Drive, Docs, Sheets, Slides, Meet, Chat, Forms, YouTube, Tasks, and Contacts with OAuth 2.0 authentication
+
+## 官网
+
+- 官网：https://github.com/quinnjr/google-mcp#readme
+- 源码仓库：git+https://github.com/quinnjr/google-mcp.git
+- npm 页面：https://www.npmjs.com/package/@quinnjr/google-mcp
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.2.0
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @quinnjr/google-mcp`
+- npm registry：https://registry.npmjs.org/@quinnjr/google-mcp
+- Node 要求：>=20.19.0

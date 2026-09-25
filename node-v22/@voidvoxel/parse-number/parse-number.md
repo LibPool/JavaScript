@@ -1,0 +1,24 @@
+# @voidvoxel/parse-number
+
+> 标签: chance, of, percent, percentage
+
+## 简介
+
+Parse a string as a number
+
+## 官网
+
+- 官网：https://github.com/voidvoxel/node-chanceof#readme
+- 源码仓库：git+https://github.com/voidvoxel/node-chanceof.git
+- npm 页面：https://www.npmjs.com/package/@voidvoxel/parse-number
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @voidvoxel/parse-number`
+- npm registry：https://registry.npmjs.org/@voidvoxel/parse-number

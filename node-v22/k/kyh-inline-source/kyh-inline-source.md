@@ -1,0 +1,27 @@
+# kyh-inline-source
+
+> 标签: css, html, inline, js, svg
+
+## 简介
+
+Inline all flagged js, css, image source files
+
+## 官网
+
+- 官网：https://github.com/kuangyeheng/inline-source#readme
+- 源码仓库：git+https://github.com/kuangyeheng/inline-source.git
+- npm 页面：https://www.npmjs.com/package/kyh-inline-source
+
+## 历史版本号
+
+- 当前版本：5.1.5
+
+- 1.0.1
+- 5.1.4
+- 5.1.5
+
+## 获取地址
+
+- npm 安装：`npm install kyh-inline-source`
+- npm registry：https://registry.npmjs.org/kyh-inline-source
+- Node 要求：>=4

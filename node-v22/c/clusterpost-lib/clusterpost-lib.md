@@ -1,0 +1,35 @@
+# clusterpost-lib
+
+> 标签: API, clusterpost, implementation, library
+
+## 简介
+
+Library implementing the API of clusterpost-server application
+
+## 官网
+
+- 官网：https://github.com/juanprietob/clusterpost#readme
+- 源码仓库：git+ssh://git@github.com/juanprietob/clusterpost.git
+- npm 页面：https://www.npmjs.com/package/clusterpost-lib
+
+## 历史版本号
+
+- 当前版本：2.9.1
+
+- 2.2.0
+- 2.3.0
+- 2.4.0
+- 2.4.1
+- 2.4.2
+- 2.5.0
+- 2.6.0
+- 2.6.1
+- 2.7.0
+- 2.8.0
+- 2.9.0
+- 2.9.1
+
+## 获取地址
+
+- npm 安装：`npm install clusterpost-lib`
+- npm registry：https://registry.npmjs.org/clusterpost-lib

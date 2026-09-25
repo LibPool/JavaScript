@@ -1,0 +1,32 @@
+# spawnr
+
+> 标签: agents, ai-agents, claude-code, erc-8004, mcp, spwr, thespawn, x402
+
+## 简介
+
+Hire verified agents into your AI workflows. Works with Claude Code, Cursor, Codex, Openclaw.
+
+## 官网
+
+- 官网：https://thespawn.io
+- 源码仓库：git+https://github.com/SwiftAdviser/thespawn-cli.git
+- npm 页面：https://www.npmjs.com/package/spawnr
+
+## 历史版本号
+
+- 当前版本：0.4.2
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.2.0
+- 0.3.1
+- 0.4.0
+- 0.4.1
+- 0.4.2
+
+## 获取地址
+
+- npm 安装：`npm install spawnr`
+- npm registry：https://registry.npmjs.org/spawnr

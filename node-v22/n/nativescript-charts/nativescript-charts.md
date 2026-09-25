@@ -1,0 +1,24 @@
+# nativescript-charts
+
+> 标签: Android, JavaScript, NativeScript, charts, nativescript-charts
+
+## 简介
+
+Chart plugin for Nativescript.
+
+## 官网
+
+- 官网：https://github.com/markosko/nativescript-charts
+- 源码仓库：git+https://github.com/markosko/nativescript-charts.git
+- npm 页面：https://www.npmjs.com/package/nativescript-charts
+
+## 历史版本号
+
+- 当前版本：0.0.7
+
+- 0.0.7
+
+## 获取地址
+
+- npm 安装：`npm install nativescript-charts`
+- npm registry：https://registry.npmjs.org/nativescript-charts

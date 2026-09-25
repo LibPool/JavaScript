@@ -1,0 +1,28 @@
+# @janados/microservice-utils
+
+> 标签: JavaScript
+
+## 简介
+
+@janados/microservice-utils - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/YernarT/janados-microservice-utils#readme
+- 源码仓库：git+https://github.com/YernarT/janados-microservice-utils.git
+- npm 页面：https://www.npmjs.com/package/@janados/microservice-utils
+
+## 历史版本号
+
+- 当前版本：3.1.0
+
+- 1.0.0
+- 2.0.0
+- 3.0.0
+- 3.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @janados/microservice-utils`
+- npm registry：https://registry.npmjs.org/@janados/microservice-utils
+- Node 要求：>=18.0.0

@@ -1,0 +1,25 @@
+# daily-moti-vator43r
+
+> 标签: npm, package, sample
+
+## 简介
+
+a Node.js command-line application that provides users with a new motivational quote every day.
+
+## 官网
+
+- 官网：https://github.com/nataliyaecdb/Daily-Motivator#readme
+- 源码仓库：git+https://github.com/nataliyaecdb/Daily-Motivator.git
+- npm 页面：https://www.npmjs.com/package/daily-moti-vator43r
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install daily-moti-vator43r`
+- npm registry：https://registry.npmjs.org/daily-moti-vator43r

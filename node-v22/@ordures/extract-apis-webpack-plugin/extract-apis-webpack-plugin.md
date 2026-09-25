@@ -1,0 +1,29 @@
+# @ordures/extract-apis-webpack-plugin
+
+> 标签: apis, extract-apis, plugins, ts, webpack
+
+## 简介
+
+从项目中提取 apis 的声明生成 apis-keys.d.ts 文件
+
+## 官网
+
+- 官网：https://github.com/BovineBoy/extract-apis-webpack-plugin#readme
+- 源码仓库：git+https://github.com/BovineBoy/extract-apis-webpack-plugin.git
+- npm 页面：https://www.npmjs.com/package/@ordures/extract-apis-webpack-plugin
+
+## 历史版本号
+
+- 当前版本：1.0.6
+
+- 1.0.1
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+
+## 获取地址
+
+- npm 安装：`npm install @ordures/extract-apis-webpack-plugin`
+- npm registry：https://registry.npmjs.org/@ordures/extract-apis-webpack-plugin
+- Node 要求：>=8.9.0

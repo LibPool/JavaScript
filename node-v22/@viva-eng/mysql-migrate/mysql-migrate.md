@@ -1,0 +1,28 @@
+# @viva-eng/mysql-migrate
+
+> 标签: logger
+
+## 简介
+
+A utility defining, modifying, and migrating MySQL databases
+
+## 官网
+
+- 官网：https://github.com/viva-engineering/mysql-migrate#readme
+- 源码仓库：git+https://github.com/viva-engineering/mysql-migrate.git
+- npm 页面：https://www.npmjs.com/package/@viva-eng/mysql-migrate
+
+## 历史版本号
+
+- 当前版本：2.0.2
+
+- 1.0.0
+- 1.0.1
+- 2.0.0
+- 2.0.1
+- 2.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @viva-eng/mysql-migrate`
+- npm registry：https://registry.npmjs.org/@viva-eng/mysql-migrate

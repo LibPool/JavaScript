@@ -1,0 +1,28 @@
+# react-intl-tel-input-fixed
+
+> 标签: international-telephone-input, intl-tel-input, phonenumber, react, react-component, tel, telephone
+
+## 简介
+
+Telephone input component. Rewrite intl-tel-input in React.js. With some fixes.
+
+## 官网
+
+- 官网：https://github.com/ilagnev/react-intl-tel-input#readme
+- 源码仓库：git+https://github.com/ilagnev/react-intl-tel-input.git
+- npm 页面：https://www.npmjs.com/package/react-intl-tel-input-fixed
+
+## 历史版本号
+
+- 当前版本：5.0.11
+
+- 5.0.10
+- 5.0.11
+- 5.0.8
+- 5.0.9
+
+## 获取地址
+
+- npm 安装：`npm install react-intl-tel-input-fixed`
+- npm registry：https://registry.npmjs.org/react-intl-tel-input-fixed
+- Node 要求：>=6.2.2

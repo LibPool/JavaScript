@@ -1,0 +1,25 @@
+# medipass-release-drafter
+
+> 标签: github, probot, probot-app
+
+## 简介
+
+A Probot app
+
+## 官网
+
+- 官网：https://github.com//medipass-release-drafter
+- 源码仓库：https://github.com//medipass-release-drafter.git
+- npm 页面：https://www.npmjs.com/package/medipass-release-drafter
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install medipass-release-drafter`
+- npm registry：https://registry.npmjs.org/medipass-release-drafter
+- Node 要求：>= 8.3.0

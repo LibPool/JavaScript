@@ -1,0 +1,23 @@
+# @point-of-sale/capacitor-epson-epos-receipt-printer
+
+> 标签: capacitor, epos, epos2, epson, escpos, mfi, receipt, receiptprinter, tm-m30
+
+## 简介
+
+Capacitor plugin for Epson receipt printers via the ePOS2 SDK — a raw ESC/POS (addCommand/sendData) transport over LAN, Bluetooth (MFi/SPP), BLE and USB
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@point-of-sale/capacitor-epson-epos-receipt-printer
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.1
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @point-of-sale/capacitor-epson-epos-receipt-printer`
+- npm registry：https://registry.npmjs.org/@point-of-sale/capacitor-epson-epos-receipt-printer

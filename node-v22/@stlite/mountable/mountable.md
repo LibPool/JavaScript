@@ -1,0 +1,35 @@
+# @stlite/mountable
+
+> 标签: pyodide, stlite, streamlit, wasm, webassembly
+
+## 简介
+
+Mountable stlite application
+
+## 官网
+
+- 源码仓库：https://github.com/whitphx/stlite.git
+- npm 页面：https://www.npmjs.com/package/@stlite/mountable
+
+## 历史版本号
+
+- 当前版本：0.75.0
+
+- 0.68.0
+- 0.69.0
+- 0.69.1
+- 0.69.2
+- 0.70.0
+- 0.71.0
+- 0.72.0
+- 0.72.1
+- 0.73.0
+- 0.73.1
+- 0.74.0
+- 0.75.0
+- 共 167 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @stlite/mountable`
+- npm registry：https://registry.npmjs.org/@stlite/mountable

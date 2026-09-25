@@ -1,0 +1,24 @@
+# wsc-crypto-ts
+
+> 标签: crypto, cryptography, typescript, woltlab, wsc
+
+## 简介
+
+PoC of cryptographic utility functions for WoltLab Suite Core, implemented in TypeScript.
+
+## 官网
+
+- 官网：https://github.com/SoftCreatR/wsc-crypto-ts#readme
+- 源码仓库：git+https://github.com/SoftCreatR/wsc-crypto-ts.git
+- npm 页面：https://www.npmjs.com/package/wsc-crypto-ts
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install wsc-crypto-ts`
+- npm registry：https://registry.npmjs.org/wsc-crypto-ts

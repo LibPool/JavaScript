@@ -1,0 +1,26 @@
+# growi-plugin-schedaus
+
+> 标签: growi, growi-plugin
+
+## 简介
+
+GROWI plugin to use a gantt chart tool
+
+## 官网
+
+- 官网：https://github.com/rsp9u/growi-plugin-schedaus#readme
+- 源码仓库：git+https://github.com/rsp9u/growi-plugin-schedaus.git
+- npm 页面：https://www.npmjs.com/package/growi-plugin-schedaus
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install growi-plugin-schedaus`
+- npm registry：https://registry.npmjs.org/growi-plugin-schedaus

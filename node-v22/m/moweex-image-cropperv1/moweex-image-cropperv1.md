@@ -1,0 +1,25 @@
+# moweex-image-cropperv1
+
+> 标签: angular2, cropper, image
+
+## 简介
+
+Angular2 Image Cropper Component
+
+## 官网
+
+- 官网：https://github.com/cstefanache/angular2-img-cropper#readme
+- 源码仓库：git+https://github.com/cstefanache/angular2-img-cropper.git
+- npm 页面：https://www.npmjs.com/package/moweex-image-cropperv1
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.9.0
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install moweex-image-cropperv1`
+- npm registry：https://registry.npmjs.org/moweex-image-cropperv1

@@ -1,0 +1,35 @@
+# kevbadge
+
+> 标签: badge, kevinleutzinger
+
+## 简介
+
+badge featured on a few of my websites which provides info like source code, links, and other fun things
+
+## 官网
+
+- 官网：https://github.com/kleutzinger/kleutzinger.github.io/tree/master/site-generator#readme
+- 源码仓库：git+https://github.com/kleutzinger/kleutzinger.github.io.git
+- npm 页面：https://www.npmjs.com/package/kevbadge
+
+## 历史版本号
+
+- 当前版本：0.0.19
+
+- 0.0.15
+- 0.0.16
+- 0.0.17
+- 0.0.18
+- 0.0.19
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install kevbadge`
+- npm registry：https://registry.npmjs.org/kevbadge

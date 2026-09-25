@@ -1,0 +1,26 @@
+# cordova-admob-mobfox
+
+> 标签: ad, admob, cordova-android, cordova-ios, ecosystem:cordova, mobfox
+
+## 简介
+
+Cordova AdMob Mediation Plugin for MobFox
+
+## 官网
+
+- 官网：https://github.com/rehy/cordova-admob-mediation#readme
+- 源码仓库：git+https://github.com/rehy/cordova-admob-mediation.git
+- npm 页面：https://www.npmjs.com/package/cordova-admob-mobfox
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install cordova-admob-mobfox`
+- npm registry：https://registry.npmjs.org/cordova-admob-mobfox

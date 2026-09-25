@@ -1,0 +1,35 @@
+# @workday/canvas-kit-labs-react-side-panel
+
+> 标签: canvas, canvas-kit, components, react, side-panel, workday
+
+## 简介
+
+A collapsable side panel
+
+## 官网
+
+- 源码仓库：https://github.com/Workday/canvas-kit/tree/master/modules/_labs/side-panel/react
+- npm 页面：https://www.npmjs.com/package/@workday/canvas-kit-labs-react-side-panel
+
+## 历史版本号
+
+- 当前版本：4.8.1
+
+- 4.7.1-next.7
+- 4.7.1-next.8
+- 4.7.1-next.9
+- 4.8.0
+- 4.8.1
+- 4.8.2
+- 4.8.3
+- 5.0.0-beta.0
+- 5.0.0-beta.1-next.3
+- 5.0.0-beta.1-next.4
+- 5.0.0-beta.1-next.5
+- 5.0.0-beta.1-next.6
+- 共 81 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @workday/canvas-kit-labs-react-side-panel`
+- npm registry：https://registry.npmjs.org/@workday/canvas-kit-labs-react-side-panel

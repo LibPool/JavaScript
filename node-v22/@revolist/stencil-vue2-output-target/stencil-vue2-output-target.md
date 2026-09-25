@@ -1,0 +1,29 @@
+# @revolist/stencil-vue2-output-target
+
+> 标签: JavaScript
+
+## 简介
+
+Vue2  output target for @stencil/core components.
+
+## 官网
+
+- 官网：https://github.com/revolist/stencil-vue2-output-target#readme
+- 源码仓库：git+https://github.com/revolist/stencil-vue2-output-target.git
+- npm 页面：https://www.npmjs.com/package/@revolist/stencil-vue2-output-target
+
+## 历史版本号
+
+- 当前版本：0.0.6
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+
+## 获取地址
+
+- npm 安装：`npm install @revolist/stencil-vue2-output-target`
+- npm registry：https://registry.npmjs.org/@revolist/stencil-vue2-output-target

@@ -1,0 +1,26 @@
+# response-formater
+
+> 标签: JavaScript
+
+## 简介
+
+Package for generating base format for all express response
+
+## 官网
+
+- 官网：https://github.com/chabuuuu/response-formater#readme
+- 源码仓库：git://github.com/chabuuuu/response-formater.git
+- npm 页面：https://www.npmjs.com/package/response-formater
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install response-formater`
+- npm registry：https://registry.npmjs.org/response-formater

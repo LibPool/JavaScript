@@ -1,0 +1,26 @@
+# snapshot-whale.js
+
+> 标签: JavaScript
+
+## 简介
+
+[![npm](https://img.shields.io/npm/v/@snapshot-labs/snapshot.js?label=npm)](https://www.npmjs.com/package/@snapshot-labs/snapshot.js)
+
+## 官网
+
+- 官网：https://github.com/orangemio/snapshot.js#readme
+- 源码仓库：git+https://github.com/orangemio/snapshot.js.git
+- npm 页面：https://www.npmjs.com/package/snapshot-whale.js
+
+## 历史版本号
+
+- 当前版本：0.4.0
+
+- 0.3.26
+- 0.4.0
+
+## 获取地址
+
+- npm 安装：`npm install snapshot-whale.js`
+- npm registry：https://registry.npmjs.org/snapshot-whale.js
+- Node 要求：>=14

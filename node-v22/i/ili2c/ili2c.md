@@ -1,0 +1,35 @@
+# ili2c
+
+> 标签: compiler, ili2c, interlis
+
+## 简介
+
+A simple Node.js wrapper to compile INTERLIS models.
+
+## 官网
+
+- 官网：https://github.com/edigonzales/ili2c-node#readme
+- 源码仓库：git+https://github.com/edigonzales/ili2c-node.git
+- npm 页面：https://www.npmjs.com/package/ili2c
+
+## 历史版本号
+
+- 当前版本：0.0.45
+
+- 0.0.38
+- 0.0.39
+- 0.0.4
+- 0.0.40
+- 0.0.41
+- 0.0.42
+- 0.0.43
+- 0.0.44
+- 0.0.45
+- 0.0.5
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install ili2c`
+- npm registry：https://registry.npmjs.org/ili2c

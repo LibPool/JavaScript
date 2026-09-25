@@ -1,0 +1,33 @@
+# paowx-ui
+
+> 标签: JavaScript
+
+## 简介
+
+``` 自定义UI组件库 ``` ## 创建Vue 3 + TypeScript + Vite项目 ``` vue create paowx-ui ``` ## 目录调整 ``` packages -- 用于存放所有的组件 src -- 用于进行测试 ``` ## vite.config.js文件配置 新增vite.config.js配置 ``` import { defineConfig } from 'vite' import vue from '@vitejs/plu
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/paowx-ui
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install paowx-ui`
+- npm registry：https://registry.npmjs.org/paowx-ui

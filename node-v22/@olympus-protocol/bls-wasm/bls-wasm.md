@@ -1,0 +1,26 @@
+# @olympus-protocol/bls-wasm
+
+> 标签: BLS signature, WebAssembly, pairing
+
+## 简介
+
+BLS signature for Node.js by WebAssembly for Olympus protocol
+
+## 官网
+
+- 官网：https://github.com/olympus-protocol/bls-wasm#readme
+- 源码仓库：git+https://github.com/olympus-protocol/bls-wasm.git
+- npm 页面：https://www.npmjs.com/package/@olympus-protocol/bls-wasm
+
+## 历史版本号
+
+- 当前版本：1.1.4
+
+- 1.1.0
+- 1.1.4
+
+## 获取地址
+
+- npm 安装：`npm install @olympus-protocol/bls-wasm`
+- npm registry：https://registry.npmjs.org/@olympus-protocol/bls-wasm
+- Node 要求：>=8.9.0

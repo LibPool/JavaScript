@@ -1,0 +1,25 @@
+# acs-expression-builder
+
+> 标签: JavaScript
+
+## 简介
+
+An OData Filter Expression Builder for Azure Cognitive Search.
+
+## 官网
+
+- 官网：https://github.com/chuanqisun/acs-expression-builder#readme
+- 源码仓库：git+https://github.com/chuanqisun/acs-expression-builder.git
+- npm 页面：https://www.npmjs.com/package/acs-expression-builder
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install acs-expression-builder`
+- npm registry：https://registry.npmjs.org/acs-expression-builder

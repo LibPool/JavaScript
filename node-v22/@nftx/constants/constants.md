@@ -1,0 +1,35 @@
+# @nftx/constants
+
+> 标签: JavaScript
+
+## 简介
+
+This package contains constant values used by nftx.js, including contract addresses, subgraph urls, tick ranges, and networks.
+
+## 官网
+
+- 官网：https://github.com/NFTX-project/nftxjs#readme
+- 源码仓库：git+https://github.com/NFTX-project/nftxjs.git
+- npm 页面：https://www.npmjs.com/package/@nftx/constants
+
+## 历史版本号
+
+- 当前版本：4.1.1
+
+- 2.0.1
+- 2.0.2
+- 2.1.0
+- 2.2.1
+- 2.3.0
+- 3.0.0
+- 3.4.0
+- 3.4.1
+- 3.4.2
+- 3.4.3
+- 4.0.0
+- 4.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @nftx/constants`
+- npm registry：https://registry.npmjs.org/@nftx/constants

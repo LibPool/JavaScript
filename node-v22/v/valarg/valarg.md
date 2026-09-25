@@ -1,0 +1,30 @@
+# valarg
+
+> 标签: JavaScript
+
+## 简介
+
+Simple argument validation inspired by [ow](https://github.com/sindresorhus/ow) and [Vue prop validation](https://vuejs.org/v2/guide/components-props.html#Prop-Validation)
+
+## 官网
+
+- 官网：https://github.com/reed665/valarg#readme
+- 源码仓库：git+https://github.com/reed665/valarg.git
+- npm 页面：https://www.npmjs.com/package/valarg
+
+## 历史版本号
+
+- 当前版本：0.2.4
+
+- 0.1.0
+- 0.1.1
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.3
+- 0.2.4
+
+## 获取地址
+
+- npm 安装：`npm install valarg`
+- npm registry：https://registry.npmjs.org/valarg

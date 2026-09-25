@@ -1,0 +1,24 @@
+# cordova-plugin-cookieemperor
+
+> 标签: cookie, cookies, cordova, cordova-ios, ecosystem:cordova, manipulate
+
+## 简介
+
+Cordova webkit browser cookie manipulation, XWalk solution
+
+## 官网
+
+- 官网：https://github.com/RTK/cordova-cookie-emperor#readme
+- 源码仓库：git+https://github.com/RTK/cordova-cookie-emperor.git
+- npm 页面：https://www.npmjs.com/package/cordova-plugin-cookieemperor
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install cordova-plugin-cookieemperor`
+- npm registry：https://registry.npmjs.org/cordova-plugin-cookieemperor

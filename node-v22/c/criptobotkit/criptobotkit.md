@@ -1,0 +1,24 @@
+# criptobotkit
+
+> 标签: bots, chatbots, facebook messenger
+
+## 简介
+
+Botkit mod to easy encrypt and deploy on hosts
+
+## 官网
+
+- 官网：https://github.com/AdanTL/cryptobotkit#readme
+- 源码仓库：git+https://github.com/AdanTL/cryptobotkit.git
+- npm 页面：https://www.npmjs.com/package/criptobotkit
+
+## 历史版本号
+
+- 当前版本：0.5.4
+
+- 0.5.4
+
+## 获取地址
+
+- npm 安装：`npm install criptobotkit`
+- npm registry：https://registry.npmjs.org/criptobotkit

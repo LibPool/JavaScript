@@ -1,0 +1,25 @@
+# exclison-cli-vue
+
+> 标签: cli, javascript, node, vue
+
+## 简介
+
+A cli with vue form exclison
+
+## 官网
+
+- 官网：https://github.com/exclison/exclison-cli-vue
+- 源码仓库：git+https://github.com/exclison/exclison-cli-vue.git
+- npm 页面：https://www.npmjs.com/package/exclison-cli-vue
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install exclison-cli-vue`
+- npm registry：https://registry.npmjs.org/exclison-cli-vue

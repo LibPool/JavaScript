@@ -1,0 +1,24 @@
+# @isaiahiroko/ng-utils
+
+> 标签: Angular, Core, Utility
+
+## 简介
+
+A collection of common services for everyday angular application developemnt.
+
+## 官网
+
+- 官网：https://github.com/isaiahiroko/ng-utils#readme
+- 源码仓库：git+https://github.com/isaiahiroko/ng-utils.git
+- npm 页面：https://www.npmjs.com/package/@isaiahiroko/ng-utils
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @isaiahiroko/ng-utils`
+- npm registry：https://registry.npmjs.org/@isaiahiroko/ng-utils

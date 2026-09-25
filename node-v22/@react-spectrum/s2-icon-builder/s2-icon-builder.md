@@ -1,0 +1,37 @@
+# @react-spectrum/s2-icon-builder
+
+> 标签: JavaScript
+
+## 简介
+
+This package is part of [react-spectrum](https://github.com/adobe/react-spectrum). See the repo for more details.
+
+## 官网
+
+- 官网：https://github.com/adobe/react-spectrum#readme
+- 源码仓库：git+https://github.com/adobe/react-spectrum.git
+- npm 页面：https://www.npmjs.com/package/@react-spectrum/s2-icon-builder
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 3.0.0-nightly-be5bcc375-260917
+- 3.0.0-nightly-c1d8023d1-260723
+- 3.0.0-nightly-cce1ec97a-260721
+- 3.0.0-nightly-cffc2e81d-260728
+- 3.0.0-nightly-d038f4615-260801
+- 3.0.0-nightly-d038f4615-260802
+- 3.0.0-nightly-d038f4615-260803
+- 3.0.0-nightly-d1c8b1edd-260716
+- 3.0.0-nightly-d7e8e74e2-260908
+- 3.0.0-nightly-d7e8e74e2-260909
+- 3.0.0-nightly-dd1026ce2-260810
+- 3.0.0-nightly-f1cee8374-260923
+- 共 646 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @react-spectrum/s2-icon-builder`
+- npm registry：https://registry.npmjs.org/@react-spectrum/s2-icon-builder
+- Node 要求：>=20.0.0

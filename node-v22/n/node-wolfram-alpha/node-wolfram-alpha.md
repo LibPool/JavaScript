@@ -1,0 +1,35 @@
+# node-wolfram-alpha
+
+> 标签: JavaScript
+
+## 简介
+
+A tiny Wolfram API wrapper with async support.
+
+## 官网
+
+- 官网：https://github.com/Kamilczak020/node-wolfram-alpha#readme
+- 源码仓库：git+https://github.com/Kamilczak020/node-wolfram-alpha.git
+- npm 页面：https://www.npmjs.com/package/node-wolfram-alpha
+
+## 历史版本号
+
+- 当前版本：1.2.5
+
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.2.0
+- 1.2.1
+- 1.2.5
+
+## 获取地址
+
+- npm 安装：`npm install node-wolfram-alpha`
+- npm registry：https://registry.npmjs.org/node-wolfram-alpha

@@ -1,0 +1,26 @@
+# @manasdb/mcp-server
+
+> 标签: ai-memory, claude, cursor, llm, manasdb, mcp, model-context-protocol, mongodb, polyglot, postgresql, rag, vector-search
+
+## 简介
+
+Plug-and-play MCP memory server for AI agents — powered by ManasDB polyglot storage (MongoDB, PostgreSQL, and more)
+
+## 官网
+
+- 官网：https://github.com/manasdb/mcp-server#readme
+- 源码仓库：git+https://github.com/manasdb/mcp-server.git
+- npm 页面：https://www.npmjs.com/package/@manasdb/mcp-server
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @manasdb/mcp-server`
+- npm registry：https://registry.npmjs.org/@manasdb/mcp-server
+- Node 要求：>=18

@@ -1,0 +1,31 @@
+# create-react-boilerplate-sllozier
+
+> 标签: boilerplate, fullstack, noBulma, webpack
+
+## 简介
+
+React boilerplate that builds from webpack but no bulma added for fullstack app.
+
+## 官网
+
+- 官网：https://github.com/sllozier/create-react-boilerplate
+- 源码仓库：git+https://github.com/sllozier/create-react-boilerplate.git
+- npm 页面：https://www.npmjs.com/package/create-react-boilerplate-sllozier
+
+## 历史版本号
+
+- 当前版本：0.0.8
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+
+## 获取地址
+
+- npm 安装：`npm install create-react-boilerplate-sllozier`
+- npm registry：https://registry.npmjs.org/create-react-boilerplate-sllozier

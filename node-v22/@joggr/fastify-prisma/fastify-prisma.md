@@ -1,0 +1,35 @@
+# @joggr/fastify-prisma
+
+> 标签: fastify, fastify-plugin, plugin, prisma
+
+## 简介
+
+Fastify Prisma plugin connection to share the same connection across your entire server.
+
+## 官网
+
+- 官网：https://github.com/joggrdocs/fastify-prisma#readme
+- 源码仓库：git+https://github.com/joggrdocs/fastify-prisma.git
+- npm 页面：https://www.npmjs.com/package/@joggr/fastify-prisma
+
+## 历史版本号
+
+- 当前版本：7.0.1
+
+- 3.0.0
+- 3.0.1
+- 4.0.0
+- 4.1.0
+- 5.0.0
+- 5.2.0
+- 5.2.1
+- 6.0.0
+- 6.0.1
+- 6.0.2
+- 7.0.0
+- 7.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @joggr/fastify-prisma`
+- npm registry：https://registry.npmjs.org/@joggr/fastify-prisma

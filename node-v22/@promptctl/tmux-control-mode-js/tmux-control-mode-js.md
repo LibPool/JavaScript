@@ -1,0 +1,25 @@
+# @promptctl/tmux-control-mode-js
+
+> 标签: control-mode, terminal, tmux
+
+## 简介
+
+Node.js client for tmux control mode protocol
+
+## 官网
+
+- 官网：https://github.com/promptctl/tmux-control-mode-js#readme
+- 源码仓库：git+https://github.com/promptctl/tmux-control-mode-js.git
+- npm 页面：https://www.npmjs.com/package/@promptctl/tmux-control-mode-js
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @promptctl/tmux-control-mode-js`
+- npm registry：https://registry.npmjs.org/@promptctl/tmux-control-mode-js
+- Node 要求：>=20

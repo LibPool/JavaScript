@@ -1,0 +1,26 @@
+# @metahkg/react-google-recaptcha
+
+> 标签: captcha, google-recaptcha, react, react-component, recaptcha
+
+## 简介
+
+React Component Wrapper for Google reCAPTCHA
+
+## 官网
+
+- 官网：https://github.com/dozoisch/react-google-recaptcha
+- 源码仓库：https://github.com/dozoisch/react-google-recaptcha.git
+- npm 页面：https://www.npmjs.com/package/@metahkg/react-google-recaptcha
+
+## 历史版本号
+
+- 当前版本：3.0.2
+
+- 3.0.0
+- 3.0.1
+- 3.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @metahkg/react-google-recaptcha`
+- npm registry：https://registry.npmjs.org/@metahkg/react-google-recaptcha

@@ -1,0 +1,26 @@
+# cordova-plugin-vector-smooth
+
+> 标签: Cordova, Plugin, drawable, ecosystem:cordova, image, vectorDrawable, xml
+
+## 简介
+
+The cordova-plugin-vector-smooth plugin is used to convert vector drawable files into base64 encoded images for use in Cordova applications. It supports XML vector drawable files, as well as PNG and BMP file formats.
+
+## 官网
+
+- 官网：https://github.com/buyungSP/cordova-plugin-vector-smooth#readme
+- 源码仓库：git+https://github.com/buyungSP/cordova-plugin-vector-smooth.git
+- npm 页面：https://www.npmjs.com/package/cordova-plugin-vector-smooth
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install cordova-plugin-vector-smooth`
+- npm registry：https://registry.npmjs.org/cordova-plugin-vector-smooth

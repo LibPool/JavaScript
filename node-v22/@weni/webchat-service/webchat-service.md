@@ -1,0 +1,35 @@
+# @weni/webchat-service
+
+> 标签: chat, messaging, webchat, websocket, weni
+
+## 简介
+
+Framework-agnostic JavaScript library for Weni WebChat integration
+
+## 官网
+
+- 官网：https://github.com/weni-ai/webchat-service#readme
+- 源码仓库：git+https://github.com/weni-ai/webchat-service.git
+- npm 页面：https://www.npmjs.com/package/@weni/webchat-service
+
+## 历史版本号
+
+- 当前版本：1.17.2
+
+- 1.5.0
+- 1.5.1-staging.0
+- 1.6.0
+- 1.7.0
+- 1.7.0-staging.0
+- 1.8.0
+- 1.8.0-staging.0
+- 1.8.0-staging.1
+- 1.8.0-staging.2
+- 1.8.0-staging.3
+- 1.9.0
+- 1.9.0-staging.0
+
+## 获取地址
+
+- npm 安装：`npm install @weni/webchat-service`
+- npm registry：https://registry.npmjs.org/@weni/webchat-service

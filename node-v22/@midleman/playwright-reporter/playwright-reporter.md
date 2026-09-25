@@ -1,0 +1,34 @@
+# @midleman/playwright-reporter
+
+> 标签: parquet, playwright, reporter, s3, test-results
+
+## 简介
+
+Playwright reporter that writes test results to S3 as Parquet files
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@midleman/playwright-reporter
+
+## 历史版本号
+
+- 当前版本：0.55.1
+
+- 0.48.0
+- 0.49.0
+- 0.50.0
+- 0.51.0
+- 0.52.0
+- 0.52.1
+- 0.53.0
+- 0.54.0
+- 0.54.1
+- 0.54.2
+- 0.55.0
+- 0.55.1
+- 共 74 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @midleman/playwright-reporter`
+- npm registry：https://registry.npmjs.org/@midleman/playwright-reporter

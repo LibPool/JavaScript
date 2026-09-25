@@ -1,0 +1,33 @@
+# generator-crown-static
+
+> 标签: yeoman-generator
+
+## 简介
+
+A simple generator for Yeoman
+
+## 官网
+
+- 官网：https://github.com/acroidea/yeoman-generator-crown-static
+- 源码仓库：https://github.com/acroidea/yeoman-generator-crown-static.git
+- npm 页面：https://www.npmjs.com/package/generator-crown-static
+
+## 历史版本号
+
+- 当前版本：0.4.6
+
+- 0.3.5
+- 0.3.6
+- 0.3.7
+- 0.3.8
+- 0.3.9
+- 0.4.1
+- 0.4.4
+- 0.4.5
+- 0.4.6
+
+## 获取地址
+
+- npm 安装：`npm install generator-crown-static`
+- npm registry：https://registry.npmjs.org/generator-crown-static
+- Node 要求：>=0.8.0

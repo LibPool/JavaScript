@@ -1,0 +1,36 @@
+# @stone-js/testing
+
+> 标签: StoneJS, e2e, factories, harness, integration, test, testing
+
+## 简介
+
+Testing utilities for Stone.js. Boot a real app in-memory and dispatch synthetic events through the full kernel — no server, no adapter — plus event/response factories. Works with any test runner.
+
+## 官网
+
+- 官网：https://stonejs.dev
+- 源码仓库：git+https://github.com/stone-foundation/stone-js-framework.git
+- npm 页面：https://www.npmjs.com/package/@stone-js/testing
+
+## 历史版本号
+
+- 当前版本：0.8.19
+
+- 0.8.16
+- 0.8.17
+- 0.8.18
+- 0.8.19
+- 0.8.2
+- 0.8.3
+- 0.8.4
+- 0.8.5
+- 0.8.6
+- 0.8.7
+- 0.8.8
+- 0.8.9
+
+## 获取地址
+
+- npm 安装：`npm install @stone-js/testing`
+- npm registry：https://registry.npmjs.org/@stone-js/testing
+- Node 要求：>=18.17.0

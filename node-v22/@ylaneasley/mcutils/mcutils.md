@@ -1,0 +1,29 @@
+# @ylaneasley/mcutils
+
+> 标签: mc, minecraft, npm, package
+
+## 简介
+
+Utilities for fetching information about a minecraft player.
+
+## 官网
+
+- 官网：https://github.com/YlanEasley/mcutils#readme
+- 源码仓库：git+https://github.com/YlanEasley/mcutils.git
+- npm 页面：https://www.npmjs.com/package/@ylaneasley/mcutils
+
+## 历史版本号
+
+- 当前版本：2.5.0
+
+- 2.0.0
+- 2.1.0
+- 2.2.0
+- 2.3.0
+- 2.4.0
+- 2.5.0
+
+## 获取地址
+
+- npm 安装：`npm install @ylaneasley/mcutils`
+- npm registry：https://registry.npmjs.org/@ylaneasley/mcutils

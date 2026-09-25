@@ -1,0 +1,24 @@
+# @stroypodryad/nest-common
+
+> 标签: JavaScript
+
+## 简介
+
+This package provides decorator classes for describing `dto`, `http controller`, and other useful things
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@stroypodryad/nest-common
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.1
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @stroypodryad/nest-common`
+- npm registry：https://registry.npmjs.org/@stroypodryad/nest-common

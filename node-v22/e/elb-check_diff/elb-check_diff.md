@@ -1,0 +1,25 @@
+# elb-check_diff
+
+> 标签: diff-generator, hexlet
+
+## 简介
+
+Hexlet second project
+
+## 官网
+
+- 官网：https://github.com/BabayevEldar/project-lvl2-s487#readme
+- 源码仓库：git+https://github.com/BabayevEldar/project-lvl2-s487.git
+- npm 页面：https://www.npmjs.com/package/elb-check_diff
+
+## 历史版本号
+
+- 当前版本：1.4.0
+
+- 1.3.0
+- 1.4.0
+
+## 获取地址
+
+- npm 安装：`npm install elb-check_diff`
+- npm registry：https://registry.npmjs.org/elb-check_diff

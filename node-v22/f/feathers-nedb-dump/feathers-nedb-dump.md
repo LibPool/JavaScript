@@ -1,0 +1,29 @@
+# feathers-nedb-dump
+
+> 标签: backend, database, feathers, middleware, nedb
+
+## 简介
+
+Middleware for Feathers.js - dumps and restores NeDB database for a given service
+
+## 官网
+
+- 官网：https://github.com/bahmutov/feathers-nedb-dump#readme
+- 源码仓库：git+https://github.com/bahmutov/feathers-nedb-dump.git
+- npm 页面：https://www.npmjs.com/package/feathers-nedb-dump
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.1.1
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install feathers-nedb-dump`
+- npm registry：https://registry.npmjs.org/feathers-nedb-dump
+- Node 要求：>=6

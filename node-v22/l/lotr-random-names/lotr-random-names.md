@@ -1,0 +1,27 @@
+# lotr-random-names
+
+> 标签: random, star wars
+
+## 简介
+
+Get random LOTR character names
+
+## 官网
+
+- 官网：https://github.com/jabhishek/lotr-random-names#readme
+- 源码仓库：git+https://github.com/jabhishek/lotr-random-names.git
+- npm 页面：https://www.npmjs.com/package/lotr-random-names
+
+## 历史版本号
+
+- 当前版本：2.1.0
+
+- 1.0.0
+- 2.0.0
+- 2.0.1
+- 2.1.0
+
+## 获取地址
+
+- npm 安装：`npm install lotr-random-names`
+- npm registry：https://registry.npmjs.org/lotr-random-names

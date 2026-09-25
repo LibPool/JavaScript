@@ -1,0 +1,27 @@
+# zona-x
+
+> 标签: MOD, X, Zona
+
+## 简介
+
+Zona X MOD
+
+## 官网
+
+- 官网：https://github.com/zoonai/zona-x#readme
+- 源码仓库：git+https://github.com/zoonai/zona-x.git
+- npm 页面：https://www.npmjs.com/package/zona-x
+
+## 历史版本号
+
+- 当前版本：1.27.0
+
+- 1.24.3
+- 1.25.0
+- 1.26.0
+- 1.27.0
+
+## 获取地址
+
+- npm 安装：`npm install zona-x`
+- npm registry：https://registry.npmjs.org/zona-x

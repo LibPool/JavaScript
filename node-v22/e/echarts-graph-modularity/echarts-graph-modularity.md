@@ -1,0 +1,31 @@
+# echarts-graph-modularity
+
+> 标签: JavaScript
+
+## 简介
+
+ECharts graph modularity extension for community detection
+
+## 官网
+
+- 官网：https://github.com/ecomfe/echarts-graph-modularity#readme
+- 源码仓库：git+https://github.com/ecomfe/echarts-graph-modularity.git
+- npm 页面：https://www.npmjs.com/package/echarts-graph-modularity
+
+## 历史版本号
+
+- 当前版本：2.1.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.1.0
+- 2.0.0
+- 2.1.0
+
+## 获取地址
+
+- npm 安装：`npm install echarts-graph-modularity`
+- npm registry：https://registry.npmjs.org/echarts-graph-modularity

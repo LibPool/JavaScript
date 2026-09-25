@@ -1,0 +1,24 @@
+# @luis.gonzalez/list-class
+
+> 标签: JavaScript
+
+## 简介
+
+List implemented in JS (class)
+
+## 官网
+
+- 官网：https://bitbucket.org/iluisgonzalez/iya049-20192020#readme
+- 源码仓库：git+https://iluisgonzalez@bitbucket.org/iluisgonzalez/iya049-20192020.git
+- npm 页面：https://www.npmjs.com/package/@luis.gonzalez/list-class
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @luis.gonzalez/list-class`
+- npm registry：https://registry.npmjs.org/@luis.gonzalez/list-class

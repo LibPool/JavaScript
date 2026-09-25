@@ -1,0 +1,25 @@
+# hash-file-cli
+
+> 标签: app, base, cli, cli-app, crypto, easy, file, fs, hash, hasha, hashing, hex, name, rev, sha, simple
+
+## 简介
+
+Create hash from file. CLI for `hash-file` package.
+
+## 官网
+
+- 官网：https://github.com/tunnckocore/hash-file-cli#readme
+- 源码仓库：git+https://github.com/tunnckocore/hash-file-cli.git
+- npm 页面：https://www.npmjs.com/package/hash-file-cli
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.0
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install hash-file-cli`
+- npm registry：https://registry.npmjs.org/hash-file-cli

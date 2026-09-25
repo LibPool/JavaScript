@@ -1,0 +1,22 @@
+# peredacha-bolshikh-failov-p2p-qvutf6e82
+
+> 标签: JavaScript
+
+## 简介
+
+peredacha-bolshikh-failov-p2p-qvutf6e82
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/peredacha-bolshikh-failov-p2p-qvutf6e82
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install peredacha-bolshikh-failov-p2p-qvutf6e82`
+- npm registry：https://registry.npmjs.org/peredacha-bolshikh-failov-p2p-qvutf6e82

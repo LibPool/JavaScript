@@ -1,0 +1,24 @@
+# @sudoo/node-map
+
+> 标签: sudoo
+
+## 简介
+
+:rooster: Cross check ready note map
+
+## 官网
+
+- 官网：https://github.com/SudoDotDog/Sudoo-Note-Map#readme
+- 源码仓库：git+https://github.com/SudoDotDog/Sudoo-Note-Map.git
+- npm 页面：https://www.npmjs.com/package/@sudoo/node-map
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @sudoo/node-map`
+- npm registry：https://registry.npmjs.org/@sudoo/node-map

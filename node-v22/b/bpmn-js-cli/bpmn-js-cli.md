@@ -1,0 +1,35 @@
+# bpmn-js-cli
+
+> 标签: bpmn-js, bpmn-js-plugin
+
+## 简介
+
+A command-line interface for bpmn-js
+
+## 官网
+
+- 官网：https://github.com/bpmn-io/bpmn-js-cli#readme
+- 源码仓库：git+https://github.com/bpmn-io/bpmn-js-cli.git
+- npm 页面：https://www.npmjs.com/package/bpmn-js-cli
+
+## 历史版本号
+
+- 当前版本：2.4.0
+
+- 1.3.0
+- 1.3.1
+- 1.4.0
+- 1.4.1
+- 2.0.0
+- 2.0.1
+- 2.0.2
+- 2.1.0
+- 2.2.0
+- 2.2.1
+- 2.3.0
+- 2.4.0
+
+## 获取地址
+
+- npm 安装：`npm install bpmn-js-cli`
+- npm registry：https://registry.npmjs.org/bpmn-js-cli

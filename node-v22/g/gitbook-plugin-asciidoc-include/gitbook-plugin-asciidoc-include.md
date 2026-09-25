@@ -1,0 +1,33 @@
+# gitbook-plugin-asciidoc-include
+
+> 标签: asciidoc, gitbook, include, plugin
+
+## 简介
+
+Syntax asciidoc include for Gitbook
+
+## 官网
+
+- 官网：https://github.com/ZihoRo/gitbook-plugin-asciidoc-include
+- 源码仓库：git+https://github.com/ZihoRo/gitbook-plugin-asciidoc-include.git
+- npm 页面：https://www.npmjs.com/package/gitbook-plugin-asciidoc-include
+
+## 历史版本号
+
+- 当前版本：0.1.9
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install gitbook-plugin-asciidoc-include`
+- npm registry：https://registry.npmjs.org/gitbook-plugin-asciidoc-include

@@ -1,0 +1,22 @@
+# @momocow/generator-node
+
+> 标签: yeoman-generator
+
+## 简介
+
+MomoCow's private NodeJs boilerplates.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@momocow/generator-node
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @momocow/generator-node`
+- npm registry：https://registry.npmjs.org/@momocow/generator-node

@@ -1,0 +1,26 @@
+# virtual-packages
+
+> 标签: npm, package, private, publish, virtual
+
+## 简介
+
+Allows calling unpublished NPM packages as if they were published
+
+## 官网
+
+- 官网：https://github.com/onexdata/virtual-packages
+- 源码仓库：git+https://github.com/onexdata/virtual-packages.git
+- npm 页面：https://www.npmjs.com/package/virtual-packages
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install virtual-packages`
+- npm registry：https://registry.npmjs.org/virtual-packages

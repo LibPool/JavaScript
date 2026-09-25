@@ -1,0 +1,24 @@
+# react-intl-aggregate-flat-webpack-plugin
+
+> 标签: JavaScript
+
+## 简介
+
+Aggregates internationalization messages generated from the babel-plugin-react-intl - Forked from Andrew Turgeon's version
+
+## 官网
+
+- 官网：https://github.com/BedyCasa/react-intl-aggregate-webpack-plugin#readme
+- 源码仓库：git+https://github.com/BedyCasa/react-intl-aggregate-webpack-plugin.git
+- npm 页面：https://www.npmjs.com/package/react-intl-aggregate-flat-webpack-plugin
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install react-intl-aggregate-flat-webpack-plugin`
+- npm registry：https://registry.npmjs.org/react-intl-aggregate-flat-webpack-plugin

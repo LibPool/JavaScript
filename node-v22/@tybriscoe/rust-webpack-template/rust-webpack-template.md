@@ -1,0 +1,22 @@
+# @tybriscoe/rust-webpack-template
+
+> 标签: JavaScript
+
+## 简介
+
+My super awesome Rust, WebAssembly, and Webpack project!
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@tybriscoe/rust-webpack-template
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @tybriscoe/rust-webpack-template`
+- npm registry：https://registry.npmjs.org/@tybriscoe/rust-webpack-template

@@ -1,0 +1,30 @@
+# volcano-plot
+
+> 标签: data-visualization, genomics, highcharts, react, volcano-plot
+
+## 简介
+
+Volcano Plot is a React.js component powered by Highcharts, designed to visualise RNA sequencing data and identify statistically significant genes. It allows dynamic threshold adjustment for a comprehensive and interactive data analysis experience.
+
+## 官网
+
+- 官网：https://github.com/cedekpoole/seq-volcano-plot#readme
+- 源码仓库：git+https://github.com/cedekpoole/seq-volcano-plot.git
+- npm 页面：https://www.npmjs.com/package/volcano-plot
+
+## 历史版本号
+
+- 当前版本：1.0.6
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+
+## 获取地址
+
+- npm 安装：`npm install volcano-plot`
+- npm registry：https://registry.npmjs.org/volcano-plot

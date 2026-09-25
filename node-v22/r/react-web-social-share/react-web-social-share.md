@@ -1,0 +1,28 @@
+# react-web-social-share
+
+> 标签: component, fallback, lightweight, native, polyfill, react, share, tiny, web-share
+
+## 简介
+
+Web Social Share API Wrapper with fallback for unsupported browsers
+
+## 官网
+
+- 官网：https://github.com/DevGupta004/react-web-social-share#readme
+- 源码仓库：git+https://github.com/DevGupta004/react-web-social-share.git
+- npm 页面：https://www.npmjs.com/package/react-web-social-share
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 2.0.2
+
+## 获取地址
+
+- npm 安装：`npm install react-web-social-share`
+- npm registry：https://registry.npmjs.org/react-web-social-share

@@ -1,0 +1,35 @@
+# @psirenny/browserslist-config-node
+
+> 标签: browserslist, config, node, psirenny
+
+## 简介
+
+psirenny's node browserslist config
+
+## 官网
+
+- 官网：https://github.com/psirenny/monorepo/tree/master/packages/browserslist-config-node
+- 源码仓库：git+https://github.com/psirenny/monorepo/tree/master/packages/browserslist-config-node.git
+- npm 页面：https://www.npmjs.com/package/@psirenny/browserslist-config-node
+
+## 历史版本号
+
+- 当前版本：4.0.4
+
+- 2.0.0
+- 2.0.1
+- 2.0.2
+- 3.0.0
+- 3.0.1
+- 3.0.2
+- 3.0.3
+- 4.0.0
+- 4.0.1
+- 4.0.2
+- 4.0.3
+- 4.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @psirenny/browserslist-config-node`
+- npm registry：https://registry.npmjs.org/@psirenny/browserslist-config-node

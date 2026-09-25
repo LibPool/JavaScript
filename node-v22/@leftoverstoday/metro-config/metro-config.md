@@ -1,0 +1,24 @@
+# @leftoverstoday/metro-config
+
+> 标签: expo, metro-config, react-native, wundergraph
+
+## 简介
+
+WunderGraph Metro Config for React Native and Expo
+
+## 官网
+
+- 官网：https://wundergraph.com
+- 源码仓库：git+https://github.com/wundergraph/wundergraph.git
+- npm 页面：https://www.npmjs.com/package/@leftoverstoday/metro-config
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @leftoverstoday/metro-config`
+- npm registry：https://registry.npmjs.org/@leftoverstoday/metro-config

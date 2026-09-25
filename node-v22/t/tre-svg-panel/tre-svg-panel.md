@@ -1,0 +1,22 @@
+# tre-svg-panel
+
+> 标签: ssb, tre
+
+## 简介
+
+Edit SVGs and watch the effect in realtime
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/tre-svg-panel
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install tre-svg-panel`
+- npm registry：https://registry.npmjs.org/tre-svg-panel

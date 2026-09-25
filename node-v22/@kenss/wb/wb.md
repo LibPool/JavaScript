@@ -1,0 +1,24 @@
+# @kenss/wb
+
+> 标签: bot, wabot, whatsapp, whatsapp-api, whattapp-bot
+
+## 简介
+
+Simplicity WhatsApp Bot (Baileys)
+
+## 官网
+
+- 官网：https://github.com/neoxr/neoxr-bot#readme
+- 源码仓库：git+https://github.com/neoxr/neoxr-bot.git
+- npm 页面：https://www.npmjs.com/package/@kenss/wb
+
+## 历史版本号
+
+- 当前版本：1.35.47
+
+- 1.35.47
+
+## 获取地址
+
+- npm 安装：`npm install @kenss/wb`
+- npm registry：https://registry.npmjs.org/@kenss/wb

@@ -1,0 +1,25 @@
+# docpad-plugin-dateurls_wr
+
+> 标签: date, docpad, docpad-plugin, urls
+
+## 简介
+
+DocPad plugin which adds the ability to use the date within posts to add url routes /YEAR/MONTH/DAY.
+
+## 官网
+
+- 官网：https://github.com/mgroves84/docpad-plugin-dateurls
+- 源码仓库：https://github.com/mgroves84/docpad-plugin-dateurls.git
+- npm 页面：https://www.npmjs.com/package/docpad-plugin-dateurls_wr
+
+## 历史版本号
+
+- 当前版本：2.4.0
+
+- 2.4.0
+
+## 获取地址
+
+- npm 安装：`npm install docpad-plugin-dateurls_wr`
+- npm registry：https://registry.npmjs.org/docpad-plugin-dateurls_wr
+- Node 要求：>=0.6.0

@@ -1,0 +1,26 @@
+# grunt-ec2-2
+
+> 标签: aws, deploy, ec2, gruntplugin, nginx, release, rsync, ssh
+
+## 简介
+
+Grunt tasks to create, terminate, and deploy to AWS EC2 instances
+
+## 官网
+
+- 官网：https://github.com/mattduffield/grunt-ec2
+- 源码仓库：git://github.com/mattduffield/grunt-ec2.git
+- npm 页面：https://www.npmjs.com/package/grunt-ec2-2
+
+## 历史版本号
+
+- 当前版本：0.4.8
+
+- 0.4.7
+- 0.4.8
+
+## 获取地址
+
+- npm 安装：`npm install grunt-ec2-2`
+- npm registry：https://registry.npmjs.org/grunt-ec2-2
+- Node 要求：0.10.18

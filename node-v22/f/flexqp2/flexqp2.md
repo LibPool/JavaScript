@@ -1,0 +1,24 @@
+# flexqp2
+
+> 标签: flexqp
+
+## 简介
+
+query processor as a wrapper on top of mysql
+
+## 官网
+
+- 官网：https://github.com/rogerlinchehao/flexqueryprocessor#readme
+- 源码仓库：git+https://github.com/rogerlinchehao/flexqueryprocessor.git
+- npm 页面：https://www.npmjs.com/package/flexqp2
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install flexqp2`
+- npm registry：https://registry.npmjs.org/flexqp2

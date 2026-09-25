@@ -1,0 +1,35 @@
+# didi-simple-table
+
+> 标签: angular, angular component, angular data table, angular datatable, angular table, data grid, data table, datatable, grid, pagination, searchable, searchable table, sortable, sortable table, standalone, table, table component, typescript, typescript table
+
+## 简介
+
+A lightweight, developer-friendly data table for Angular with sorting, searching, pagination, selection and custom cell templates.
+
+## 官网
+
+- 官网：https://dinuka991028.github.io/didi-simple-table/
+- 源码仓库：git+https://github.com/Dinuka991028/didi-simple-table.git
+- npm 页面：https://www.npmjs.com/package/didi-simple-table
+
+## 历史版本号
+
+- 当前版本：0.2.5
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.6
+- 0.1.7
+- 0.2.1
+- 0.2.2
+- 0.2.3
+- 0.2.4
+- 0.2.5
+
+## 获取地址
+
+- npm 安装：`npm install didi-simple-table`
+- npm registry：https://registry.npmjs.org/didi-simple-table

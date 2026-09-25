@@ -1,0 +1,24 @@
+# koishi-plugin-chatluna-thoughts-viewer
+
+> 标签: chatbot, chatluna, koishi, plugin
+
+## 简介
+
+提取 chatluna-character 模型输出中的 think 标签，并通过指令展示内容。
+
+## 官网
+
+- 官网：https://github.com/Sor85/koishi-plugins
+- 源码仓库：git+https://github.com/Sor85/koishi-plugins.git
+- npm 页面：https://www.npmjs.com/package/koishi-plugin-chatluna-thoughts-viewer
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install koishi-plugin-chatluna-thoughts-viewer`
+- npm registry：https://registry.npmjs.org/koishi-plugin-chatluna-thoughts-viewer

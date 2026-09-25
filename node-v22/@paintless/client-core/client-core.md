@@ -1,0 +1,24 @@
+# @paintless/client-core
+
+> 标签: browser, element-picker, inspector, overlay, paintless, visual-feedback
+
+## 简介
+
+Framework-agnostic element picker, context capture and request panel for Paintless
+
+## 官网
+
+- 官网：https://kyechan99.github.io/paintless/
+- 源码仓库：git+https://github.com/kyechan99/paintless.git
+- npm 页面：https://www.npmjs.com/package/@paintless/client-core
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @paintless/client-core`
+- npm registry：https://registry.npmjs.org/@paintless/client-core

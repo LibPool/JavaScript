@@ -1,0 +1,24 @@
+# @syrx/eth-sdk
+
+> 标签: TypeChain, TypeScript, bindings, blockchain, codegen, ethereum, sdk, smartcontract
+
+## 简介
+
+🛠 Generate type-safe, lightweight SDK for your Ethereum smart contracts
+
+## 官网
+
+- 官网：https://github.com/dethcrypto/eth-sdk#readme
+- 源码仓库：git+https://github.com/dethcrypto/eth-sdk.git
+- npm 页面：https://www.npmjs.com/package/@syrx/eth-sdk
+
+## 历史版本号
+
+- 当前版本：0.3.5
+
+- 0.3.5
+
+## 获取地址
+
+- npm 安装：`npm install @syrx/eth-sdk`
+- npm registry：https://registry.npmjs.org/@syrx/eth-sdk

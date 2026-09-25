@@ -1,0 +1,25 @@
+# legacy-loader
+
+> 标签: global, legacy, loader, namespace, webpack
+
+## 简介
+
+Webpack loader that prevents scripts from extending the window object
+
+## 官网
+
+- 官网：https://github.com/peerigon/legacy-loader
+- 源码仓库：https://github.com/peerigon/legacy-loader.git
+- npm 页面：https://www.npmjs.com/package/legacy-loader
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install legacy-loader`
+- npm registry：https://registry.npmjs.org/legacy-loader

@@ -1,0 +1,28 @@
+# framez-core
+
+> 标签: JavaScript
+
+## 简介
+
+Animation engine and utility functions for web
+
+## 官网
+
+- 官网：https://github.com/exah/A#readme
+- 源码仓库：git+https://github.com/exah/A.git
+- npm 页面：https://www.npmjs.com/package/framez-core
+
+## 历史版本号
+
+- 当前版本：0.0.0-alpha.7fdd0cbc
+
+- 0.0.0-alpha.7fdd0cbc
+- 0.0.0-alpha.7fdd0cbc-alpha.7fdd0cbc
+- 0.0.0-alpha.7fdd0cbc-alpha.7fdd0cbc-alpha.69de4f3f
+- 0.0.2-alpha.e16e2f0d
+- 0.0.2-alpha.ef73e64b
+
+## 获取地址
+
+- npm 安装：`npm install framez-core`
+- npm registry：https://registry.npmjs.org/framez-core

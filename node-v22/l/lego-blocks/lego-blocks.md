@@ -1,0 +1,24 @@
+# lego-blocks
+
+> 标签: CSS, flex-box, framework, modern, variables
+
+## 简介
+
+Is a flexible CSS framework that can be customized easily using CSS variables and full collection of CSS utility classes.
+
+## 官网
+
+- 官网：https://github.com/Abdelrahman3D/lego-blocks#readme
+- 源码仓库：git+https://github.com/Abdelrahman3D/lego-blocks.git
+- npm 页面：https://www.npmjs.com/package/lego-blocks
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install lego-blocks`
+- npm registry：https://registry.npmjs.org/lego-blocks

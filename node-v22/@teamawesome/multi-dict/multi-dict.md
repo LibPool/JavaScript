@@ -1,0 +1,31 @@
+# @teamawesome/multi-dict
+
+> 标签: cache, complex, dict, dictionary, multiple, store, trie, triemap
+
+## 简介
+
+```shell script npm install @teamawesome/multi-dict ``` # Usage The aim of multi-dict is to behave just like a set of nested maps, but with an easy to use api. It supports all the regular methods of `Map`, including the iterators. ```js import Dict
+
+## 官网
+
+- 官网：https://github.com/tomhooijenga/multi-dict
+- npm 页面：https://www.npmjs.com/package/@teamawesome/multi-dict
+
+## 历史版本号
+
+- 当前版本：2.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 2.0.0
+- 2.0.1
+- 2.0.2
+- 2.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @teamawesome/multi-dict`
+- npm registry：https://registry.npmjs.org/@teamawesome/multi-dict

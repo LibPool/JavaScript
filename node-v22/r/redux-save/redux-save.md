@@ -1,0 +1,24 @@
+# redux-save
+
+> 标签: fetch, middleware, react, redux
+
+## 简介
+
+merge in styling with ajax requests in redux
+
+## 官网
+
+- 官网：https://github.com/Legitcode/redux-save#readme
+- 源码仓库：git+ssh://git@github.com/Legitcode/redux-save.git
+- npm 页面：https://www.npmjs.com/package/redux-save
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install redux-save`
+- npm registry：https://registry.npmjs.org/redux-save

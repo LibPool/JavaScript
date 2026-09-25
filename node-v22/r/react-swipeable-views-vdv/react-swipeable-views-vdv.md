@@ -1,0 +1,27 @@
+# react-swipeable-views-vdv
+
+> 标签: component, react, swipe, swipeable
+
+## 简介
+
+A React component for swipeable views forked from react swipeable views
+
+## 官网
+
+- 官网：https://github.com/oliviertassinari/react-swipeable-views#readme
+- 源码仓库：git+https://github.com/oliviertassinari/react-swipeable-views.git
+- npm 页面：https://www.npmjs.com/package/react-swipeable-views-vdv
+
+## 历史版本号
+
+- 当前版本：0.15.2
+
+- 0.15.0
+- 0.15.1
+- 0.15.2
+
+## 获取地址
+
+- npm 安装：`npm install react-swipeable-views-vdv`
+- npm registry：https://registry.npmjs.org/react-swipeable-views-vdv
+- Node 要求：>=6.0.0

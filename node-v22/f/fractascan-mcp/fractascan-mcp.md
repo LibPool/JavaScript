@@ -1,0 +1,36 @@
+# fractascan-mcp
+
+> 标签: fracta, lgpd, mcp, model-context-protocol, security
+
+## 简介
+
+Model Context Protocol server exposing Fracta scan tools (passive_scan, scan_repo, …)
+
+## 官网
+
+- 官网：https://github.com/andersongadelhaadv-cmyk/fracta#readme
+- 源码仓库：git+https://github.com/andersongadelhaadv-cmyk/fracta.git
+- npm 页面：https://www.npmjs.com/package/fractascan-mcp
+
+## 历史版本号
+
+- 当前版本：0.4.0
+
+- 0.1.2
+- 0.1.20
+- 0.1.21
+- 0.1.22
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+- 0.4.0
+
+## 获取地址
+
+- npm 安装：`npm install fractascan-mcp`
+- npm registry：https://registry.npmjs.org/fractascan-mcp
+- Node 要求：>=20

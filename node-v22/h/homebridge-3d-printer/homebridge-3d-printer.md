@@ -1,0 +1,32 @@
+# homebridge-3d-printer
+
+> 标签: homebridge-plugin
+
+## 简介
+
+A short description about what your plugin does.
+
+## 官网
+
+- 官网：https://github.com/Mathieu52/3DPrinter-V2#readme
+- 源码仓库：git://github.com/Mathieu52/3DPrinter-V2.git
+- npm 页面：https://www.npmjs.com/package/homebridge-3d-printer
+
+## 历史版本号
+
+- 当前版本：1.0.1-beta.0
+
+- 1.0.1-beta.0
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+
+## 获取地址
+
+- npm 安装：`npm install homebridge-3d-printer`
+- npm registry：https://registry.npmjs.org/homebridge-3d-printer
+- Node 要求：>=14.18.1

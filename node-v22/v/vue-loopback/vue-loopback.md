@@ -1,0 +1,35 @@
+# vue-loopback
+
+> 标签: vuejs
+
+## 简介
+
+A Vue project template with Loopback framework featuring ES6, Gulp, and Mocha for unit tests
+
+## 官网
+
+- 官网：https://github.com/InCuca/vue-loopback#readme
+- 源码仓库：git+https://github.com/InCuca/vue-loopback.git
+- npm 页面：https://www.npmjs.com/package/vue-loopback
+
+## 历史版本号
+
+- 当前版本：5.2.1
+
+- 3.1.0
+- 3.1.1
+- 3.2.0
+- 4.0.0
+- 4.0.1
+- 4.1.0
+- 4.1.1
+- 4.2.0
+- 5.0.0
+- 5.1.0
+- 5.2.0
+- 5.2.1
+
+## 获取地址
+
+- npm 安装：`npm install vue-loopback`
+- npm registry：https://registry.npmjs.org/vue-loopback

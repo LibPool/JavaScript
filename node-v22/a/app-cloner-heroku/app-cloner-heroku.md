@@ -1,0 +1,26 @@
+# app-cloner-heroku
+
+> 标签: app.json, deploy, heroku
+
+## 简介
+
+A node module for deploying app.json apps to Heroku. Designed to work on the server, the browser, and the command line.
+
+## 官网
+
+- 官网：https://github.com/app-json/app-cloner-heroku
+- 源码仓库：https://github.com/app-json/app-cloner-heroku
+- npm 页面：https://www.npmjs.com/package/app-cloner-heroku
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.0.0
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install app-cloner-heroku`
+- npm registry：https://registry.npmjs.org/app-cloner-heroku

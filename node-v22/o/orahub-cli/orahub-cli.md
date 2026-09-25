@@ -1,0 +1,25 @@
+# orahub-cli
+
+> 标签: ai, cli, image, orahub
+
+## 简介
+
+Orahub CLI - command-line client for Orahub image AI workflows
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/orahub-cli
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install orahub-cli`
+- npm registry：https://registry.npmjs.org/orahub-cli
+- Node 要求：>=18

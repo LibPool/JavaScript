@@ -1,0 +1,36 @@
+# @vidova/cli
+
+> 标签: cli, macos, recording, screen-recorder, screencapture
+
+## 简介
+
+Lightweight, full-featured screen recorder CLI
+
+## 官网
+
+- 官网：https://github.com/youneslaaroussi/vidova-cli
+- 源码仓库：git+https://github.com/youneslaaroussi/vidova-cli.git
+- npm 页面：https://www.npmjs.com/package/@vidova/cli
+
+## 历史版本号
+
+- 当前版本：2.6.9
+
+- 2.4.8
+- 2.4.9
+- 2.5.0
+- 2.5.1
+- 2.6.0
+- 2.6.1
+- 2.6.4
+- 2.6.5
+- 2.6.6
+- 2.6.7
+- 2.6.8
+- 2.6.9
+
+## 获取地址
+
+- npm 安装：`npm install @vidova/cli`
+- npm registry：https://registry.npmjs.org/@vidova/cli
+- Node 要求：>=18

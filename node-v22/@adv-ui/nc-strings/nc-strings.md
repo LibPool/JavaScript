@@ -1,0 +1,24 @@
+# @adv-ui/nc-strings
+
+> 标签: JavaScript
+
+## 简介
+
+Set of New Construction JS string utilities (text formatters).
+
+## 官网
+
+- 官网：https://github.schibsted.io/scmspain/frontend-nc--lib-js/tree/master/packages/nc-strings#readme
+- 源码仓库：git+https://github.schibsted.io/scmspain/frontend-nc--lib-js.git
+- npm 页面：https://www.npmjs.com/package/@adv-ui/nc-strings
+
+## 历史版本号
+
+- 当前版本：3.2.0
+
+- 3.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @adv-ui/nc-strings`
+- npm registry：https://registry.npmjs.org/@adv-ui/nc-strings

@@ -1,0 +1,34 @@
+# ng-ace
+
+> 标签: ace, angular-ace, angular2, angular5, editor, ng2, ng2-ace
+
+## 简介
+
+An ace editor directive for angular.
+
+## 官网
+
+- 官网：https://github.com/giscafer/ng-ace#readme
+- 源码仓库：git+https://github.com/giscafer/ng-ace.git
+- npm 页面：https://www.npmjs.com/package/ng-ace
+
+## 历史版本号
+
+- 当前版本：0.2.2
+
+- 0.0.9
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.2.0
+- 0.2.1
+- 0.2.2
+
+## 获取地址
+
+- npm 安装：`npm install ng-ace`
+- npm registry：https://registry.npmjs.org/ng-ace

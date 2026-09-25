@@ -1,0 +1,31 @@
+# circon
+
+> 标签: circleci, circon, config, configuration, typescript, utility
+
+## 简介
+
+[![npm version](https://badge.fury.io/js/circon.svg)](https://badge.fury.io/js/circon) [![CircleCI](https://circleci.com/gh/acro5piano/circon.svg?style=svg)](https://circleci.com/gh/acro5piano/circon)
+
+## 官网
+
+- 官网：https://github.com/acro5piano/ccg#readme
+- 源码仓库：git+ssh://git@github.com/acro5piano/ccg.git
+- npm 页面：https://www.npmjs.com/package/circon
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install circon`
+- npm registry：https://registry.npmjs.org/circon

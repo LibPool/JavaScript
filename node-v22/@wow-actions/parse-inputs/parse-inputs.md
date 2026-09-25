@@ -1,0 +1,28 @@
+# @wow-actions/parse-inputs
+
+> 标签: action, inputs, parse
+
+## 简介
+
+Utility method to parse action's inputs
+
+## 官网
+
+- 官网：https://github.com/wow-actions/parse-inputs#readme
+- 源码仓库：git+https://github.com/wow-actions/parse-inputs.git
+- npm 页面：https://www.npmjs.com/package/@wow-actions/parse-inputs
+
+## 历史版本号
+
+- 当前版本：2.0.1
+
+- 1.0.1
+- 1.1.0
+- 1.2.0
+- 2.0.0
+- 2.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @wow-actions/parse-inputs`
+- npm registry：https://registry.npmjs.org/@wow-actions/parse-inputs

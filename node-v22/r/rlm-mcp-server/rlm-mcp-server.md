@@ -1,0 +1,28 @@
+# rlm-mcp-server
+
+> 标签: ai, long-context, mcp, python, rlm, sandbox
+
+## 简介
+
+Recursive Language Model as an MCP server: recursive long-context Q&A and a persistent Python kernel.
+
+## 官网
+
+- 官网：https://github.com/BrianHung/harness/tree/main/packages/recursive-language-model
+- 源码仓库：git+https://github.com/BrianHung/harness.git
+- npm 页面：https://www.npmjs.com/package/rlm-mcp-server
+
+## 历史版本号
+
+- 当前版本：0.1.3
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+
+## 获取地址
+
+- npm 安装：`npm install rlm-mcp-server`
+- npm registry：https://registry.npmjs.org/rlm-mcp-server
+- Node 要求：>=20

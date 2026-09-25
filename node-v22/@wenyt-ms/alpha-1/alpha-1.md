@@ -1,0 +1,33 @@
+# @wenyt-ms/alpha-1
+
+> 标签: JavaScript
+
+## 简介
+
+@wenyt-ms/alpha-1 - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@wenyt-ms/alpha-1
+
+## 历史版本号
+
+- 当前版本：6.1.3
+
+- 6.0.1
+- 6.0.1-alpha.0
+- 6.0.1-rc.0
+- 6.0.2-alpha.0
+- 6.0.2-alpha.2
+- 6.1.0
+- 6.1.0-rc.0
+- 6.1.1
+- 6.1.1-alpha.0
+- 6.1.1-alpha.16899e8.0
+- 6.1.2
+- 6.1.3
+
+## 获取地址
+
+- npm 安装：`npm install @wenyt-ms/alpha-1`
+- npm registry：https://registry.npmjs.org/@wenyt-ms/alpha-1

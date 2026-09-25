@@ -1,0 +1,36 @@
+# gulp-tinypng-compress
+
+> 标签: compress, gulpplugin, image, img, minifier, minify, photo, picture, png, tinypng
+
+## 简介
+
+TinyPNG API wrapper for compressing PNG & JPG images
+
+## 官网
+
+- 官网：https://github.com/stnvh/gulp-tinypng-compress#readme
+- 源码仓库：git+https://github.com/stnvh/gulp-tinypng-compress.git
+- npm 页面：https://www.npmjs.com/package/gulp-tinypng-compress
+
+## 历史版本号
+
+- 当前版本：1.2.5
+
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.1.6
+- 1.1.7
+- 1.1.8
+- 1.2.0
+- 1.2.1
+- 1.2.5
+
+## 获取地址
+
+- npm 安装：`npm install gulp-tinypng-compress`
+- npm registry：https://registry.npmjs.org/gulp-tinypng-compress
+- Node 要求：>=6

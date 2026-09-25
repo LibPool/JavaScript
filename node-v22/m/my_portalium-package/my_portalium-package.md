@@ -1,0 +1,27 @@
+# my_portalium-package
+
+> 标签: JavaScript
+
+## 简介
+
+Bu benim ilk test modulum
+
+## 官网
+
+- 官网：https://github.com/demirmehmet0/ionic-academy-module
+- 源码仓库：git+https://github.com/demirmehmet0/ionic-academy-module.git
+- npm 页面：https://www.npmjs.com/package/my_portalium-package
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install my_portalium-package`
+- npm registry：https://registry.npmjs.org/my_portalium-package

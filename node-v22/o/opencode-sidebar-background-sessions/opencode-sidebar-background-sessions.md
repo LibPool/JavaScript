@@ -1,0 +1,34 @@
+# opencode-sidebar-background-sessions
+
+> 标签: agents, opencode, opencode-plugin, sidebar, tui, tui-plugin
+
+## 简介
+
+OpenCode TUI sidebar plugin that shows running background sub-agents.
+
+## 官网
+
+- 官网：https://github.com/dnaroid/opencode-sidebar-background-sessions#readme
+- 源码仓库：git+https://github.com/dnaroid/opencode-sidebar-background-sessions.git
+- npm 页面：https://www.npmjs.com/package/opencode-sidebar-background-sessions
+
+## 历史版本号
+
+- 当前版本：0.5.0
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.3
+- 0.3.0
+- 0.4.0
+- 0.5.0
+
+## 获取地址
+
+- npm 安装：`npm install opencode-sidebar-background-sessions`
+- npm registry：https://registry.npmjs.org/opencode-sidebar-background-sessions

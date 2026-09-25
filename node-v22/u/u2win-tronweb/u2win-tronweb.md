@@ -1,0 +1,25 @@
+# u2win-tronweb
+
+> 标签: TRON, tronweb
+
+## 简介
+
+JavaScript SDK that encapsulates the TRON HTTP API
+
+## 官网
+
+- 官网：https://tronweb.network
+- 源码仓库：git+https://github.com/tronprotocol/tronweb.git
+- npm 页面：https://www.npmjs.com/package/u2win-tronweb
+
+## 历史版本号
+
+- 当前版本：5.2.1
+
+- 5.2.0
+- 5.2.1
+
+## 获取地址
+
+- npm 安装：`npm install u2win-tronweb`
+- npm registry：https://registry.npmjs.org/u2win-tronweb

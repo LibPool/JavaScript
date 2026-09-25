@@ -1,0 +1,24 @@
+# db-hiprint
+
+> 标签: hiprint, print, vue
+
+## 简介
+
+hiprint for Vue2.x / Vue3.x 支持拖拽(分页(不分页)、表头表脚、样式设置、复制粘贴、缩放、撤销重做)生成打印模板、导出json模板数据、静默打印/获取MAC地址(借助客户端)
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/db-hiprint
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.36-fix
+- 0.0.37
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install db-hiprint`
+- npm registry：https://registry.npmjs.org/db-hiprint

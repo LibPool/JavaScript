@@ -1,0 +1,32 @@
+# @minecraft-skills/rcon
+
+> 标签: ai, minecraft, rcon
+
+## 简介
+
+RCON configuration, permissions, and execution utilities for Minecraft Skills.
+
+## 官网
+
+- 官网：https://github.com/sya-ri/minecraft-skills#readme
+- 源码仓库：git+https://github.com/sya-ri/minecraft-skills.git
+- npm 页面：https://www.npmjs.com/package/@minecraft-skills/rcon
+
+## 历史版本号
+
+- 当前版本：0.1.10
+
+- 0.1.10
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install @minecraft-skills/rcon`
+- npm registry：https://registry.npmjs.org/@minecraft-skills/rcon
+- Node 要求：>=22.12

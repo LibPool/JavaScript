@@ -1,0 +1,24 @@
+# yjs-ipfs-connector
+
+> 标签: JavaScript
+
+## 简介
+
+Y.js connector over IPFS
+
+## 官网
+
+- 官网：https://github.com/pgte/y-ipfs-connector#readme
+- 源码仓库：git+https://github.com/pgte/y-ipfs-connector.git
+- npm 页面：https://www.npmjs.com/package/yjs-ipfs-connector
+
+## 历史版本号
+
+- 当前版本：2.3.0
+
+- 2.3.0
+
+## 获取地址
+
+- npm 安装：`npm install yjs-ipfs-connector`
+- npm registry：https://registry.npmjs.org/yjs-ipfs-connector

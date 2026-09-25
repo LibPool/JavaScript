@@ -1,0 +1,35 @@
+# @naviaero/winds-aloft
+
+> 标签: aviation, stations, temperatures, temps, typed, weather, weather.gov, winds, winds aloft
+
+## 简介
+
+Get Winds and Temps Aloft data from https://api.weather.gov. A typed fork of @faa-aviation-data-portal/winds-aloft.
+
+## 官网
+
+- 官网：https://github.com/danothemen/winds-aloft#readme
+- 源码仓库：git+https://github.com/danothemen/winds-aloft.git
+- npm 页面：https://www.npmjs.com/package/@naviaero/winds-aloft
+
+## 历史版本号
+
+- 当前版本：1.0.10
+
+- 1.0.0
+- 1.0.1
+- 1.0.10
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @naviaero/winds-aloft`
+- npm registry：https://registry.npmjs.org/@naviaero/winds-aloft
+- Node 要求：>=18

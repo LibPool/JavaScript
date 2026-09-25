@@ -1,0 +1,37 @@
+# @sourcegraph/webapp
+
+> 标签: JavaScript
+
+## 简介
+
+The Sourcegraph web app
+
+## 官网
+
+- 官网：https://github.com/sourcegraph/sourcegraph#readme
+- 源码仓库：git+https://github.com/sourcegraph/sourcegraph.git
+- npm 页面：https://www.npmjs.com/package/@sourcegraph/webapp
+
+## 历史版本号
+
+- 当前版本：0.0.291
+
+- 0.0.281
+- 0.0.282
+- 0.0.283
+- 0.0.284
+- 0.0.285
+- 0.0.286
+- 0.0.287
+- 0.0.288
+- 0.0.289
+- 0.0.290
+- 0.0.290-2-12-patch
+- 0.0.291
+- 共 293 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @sourcegraph/webapp`
+- npm registry：https://registry.npmjs.org/@sourcegraph/webapp
+- Node 要求：>=8.0.0 <11.0.0

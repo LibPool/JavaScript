@@ -1,0 +1,24 @@
+# rawdevjs-browser
+
+> 标签: browser, rawdevjs
+
+## 简介
+
+RawDevJS browser interface
+
+## 官网
+
+- 官网：https://github.com/rawdevjs/rawdevjs-browser
+- 源码仓库：git://github.com/rawdevjs/rawdevjs-browser.git
+- npm 页面：https://www.npmjs.com/package/rawdevjs-browser
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install rawdevjs-browser`
+- npm registry：https://registry.npmjs.org/rawdevjs-browser

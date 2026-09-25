@@ -1,0 +1,24 @@
+# fn.map
+
+> 标签: argument, binding, function, mapping
+
+## 简介
+
+Function binding with argument mapping.
+
+## 官网
+
+- 官网：https://github.com/adriancooney/fn.map
+- 源码仓库：https://github.com/adriancooney/fn.map.git
+- npm 页面：https://www.npmjs.com/package/fn.map
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install fn.map`
+- npm registry：https://registry.npmjs.org/fn.map

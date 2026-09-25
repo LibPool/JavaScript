@@ -1,0 +1,24 @@
+# exitlaunch-multiples-mcp
+
+> 标签: business-valuation, deal-comps, ev-ebitda, ev-revenue, exitlaunch, industry-multiples, investment-banking, m-and-a, mcp, model-context-protocol, multiples, pe-ratio, valuation
+
+## 简介
+
+MCP server providing industry valuation multiples database — EV/Revenue, EV/EBITDA, P/E ratios across 50+ industries and sub-sectors. Includes historical trends, deal comps, and size/growth adjustments for M&A and business valuation.
+
+## 官网
+
+- 官网：https://exitlaunch.io
+- 源码仓库：git+https://github.com/crawde/exitlaunch-multiples-mcp.git
+- npm 页面：https://www.npmjs.com/package/exitlaunch-multiples-mcp
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install exitlaunch-multiples-mcp`
+- npm registry：https://registry.npmjs.org/exitlaunch-multiples-mcp

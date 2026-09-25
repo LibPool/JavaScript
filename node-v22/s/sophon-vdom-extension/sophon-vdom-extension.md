@@ -1,0 +1,24 @@
+# sophon-vdom-extension
+
+> 标签: JavaScript
+
+## 简介
+
+JupyterLab - VDOM Renderer
+
+## 官网
+
+- 官网：https://github.com/jupyterlab/jupyterlab
+- 源码仓库：git+https://github.com/jupyterlab/jupyterlab.git
+- npm 页面：https://www.npmjs.com/package/sophon-vdom-extension
+
+## 历史版本号
+
+- 当前版本：0.17.3
+
+- 0.17.3
+
+## 获取地址
+
+- npm 安装：`npm install sophon-vdom-extension`
+- npm registry：https://registry.npmjs.org/sophon-vdom-extension

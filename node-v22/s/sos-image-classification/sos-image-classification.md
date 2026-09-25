@@ -1,0 +1,33 @@
+# sos-image-classification
+
+> 标签: image-classification, machine-learning, tensorflow
+
+## 简介
+
+Easy use image classification. Used for recognize dogs/cats for S.O.S. Patas Application
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/sos-image-classification
+
+## 历史版本号
+
+- 当前版本：1.0.16
+
+- 1.0.13
+- 1.0.14
+- 1.0.15
+- 1.0.16
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+
+## 获取地址
+
+- npm 安装：`npm install sos-image-classification`
+- npm registry：https://registry.npmjs.org/sos-image-classification

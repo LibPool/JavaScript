@@ -1,0 +1,24 @@
+# maxpay-react-native
+
+> 标签: Alipay, Android, JavaScript, MaxLeap, Pay, ReactNative, Support, UPPaymentControl, Union, UnionPay, Wechat, WeiXin, iOS
+
+## 简介
+
+MaxLeap SDK for ReactNative
+
+## 官网
+
+- 官网：https://github.com/MaxLeap/Module-MaxPay-RN
+- 源码仓库：git+ssh://git@github.com/MaxLeap/SDK-ReactNative.git
+- npm 页面：https://www.npmjs.com/package/maxpay-react-native
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install maxpay-react-native`
+- npm registry：https://registry.npmjs.org/maxpay-react-native

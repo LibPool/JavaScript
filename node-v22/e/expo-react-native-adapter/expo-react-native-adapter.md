@@ -1,0 +1,35 @@
+# expo-react-native-adapter
+
+> 标签: adapter, expo, react-native
+
+## 简介
+
+The adapter to use Expo universal modules with the React Native bridge
+
+## 官网
+
+- 官网：https://github.com/expo/expo/tree/master/packages/expo-react-native-adapter
+- 源码仓库：git+https://github.com/expo/expo.git
+- npm 页面：https://www.npmjs.com/package/expo-react-native-adapter
+
+## 历史版本号
+
+- 当前版本：3.0.1
+
+- 1.2.0
+- 1.2.0-rc.0
+- 1.2.0-rc.1
+- 2.0.0
+- 2.0.0-rc.0
+- 2.0.0-rc.1
+- 2.0.0-rc.2
+- 2.0.0-rc.3
+- 2.1.0-alpha.0
+- 2.1.0-alpha.1
+- 3.0.0
+- 3.0.1
+
+## 获取地址
+
+- npm 安装：`npm install expo-react-native-adapter`
+- npm registry：https://registry.npmjs.org/expo-react-native-adapter

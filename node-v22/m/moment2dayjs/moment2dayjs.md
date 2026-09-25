@@ -1,0 +1,24 @@
+# moment2dayjs
+
+> 标签: codemod, dayjs, moment, momentjs
+
+## 简介
+
+https://github.com/yanaemon/moment-to-dayjs-codemod
+
+## 官网
+
+- 官网：https://github.com/cheapCoder/moment2dayjs#readme
+- 源码仓库：git+https://github.com/cheapCoder/moment2dayjs.git
+- npm 页面：https://www.npmjs.com/package/moment2dayjs
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install moment2dayjs`
+- npm registry：https://registry.npmjs.org/moment2dayjs

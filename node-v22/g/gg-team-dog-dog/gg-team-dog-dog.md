@@ -1,0 +1,24 @@
+# gg-team-dog-dog
+
+> 标签: JavaScript
+
+## 简介
+
+Paket dibuat oleh Bot GG Team AI
+
+## 官网
+
+- 官网：https://github.com/zoonai/zoonai-repo#readme
+- 源码仓库：git+https://github.com/zoonai/zoonai-repo.git
+- npm 页面：https://www.npmjs.com/package/gg-team-dog-dog
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install gg-team-dog-dog`
+- npm registry：https://registry.npmjs.org/gg-team-dog-dog

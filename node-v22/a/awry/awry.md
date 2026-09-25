@@ -1,0 +1,36 @@
+# awry
+
+> 标签: ari, asterisk
+
+## 简介
+
+An ARI websocket and API client library
+
+## 官网
+
+- 官网：https://github.com/chadxz/awry#readme
+- 源码仓库：git+https://github.com/chadxz/awry.git
+- npm 页面：https://www.npmjs.com/package/awry
+
+## 历史版本号
+
+- 当前版本：8.1.0
+
+- 1.0.0
+- 2.0.0
+- 2.0.1
+- 3.0.0
+- 4.0.1
+- 5.0.0
+- 6.0.0
+- 7.0.0
+- 7.1.0
+- 7.2.0
+- 8.0.0
+- 8.1.0
+
+## 获取地址
+
+- npm 安装：`npm install awry`
+- npm registry：https://registry.npmjs.org/awry
+- Node 要求：>=10.24.0

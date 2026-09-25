@@ -1,0 +1,30 @@
+# atom-lib
+
+> 标签: ReactJS, component, library
+
+## 简介
+
+Personal ReactJS container library
+
+## 官网
+
+- 官网：https://github.com/bbgrabbag/react-lib#readme
+- 源码仓库：git+https://github.com/bbgrabbag/react-lib.git
+- npm 页面：https://www.npmjs.com/package/atom-lib
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.1.0
+- 1.1.1
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install atom-lib`
+- npm registry：https://registry.npmjs.org/atom-lib

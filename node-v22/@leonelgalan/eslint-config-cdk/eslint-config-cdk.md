@@ -1,0 +1,25 @@
+# @leonelgalan/eslint-config-cdk
+
+> 标签: JavaScript
+
+## 简介
+
+My personal ESLint config for CDK
+
+## 官网
+
+- 官网：https://github.com/leonelgalan/eslint-config-cdk#readme
+- 源码仓库：git+ssh://git@github.com/leonelgalan/eslint-config-cdk.git
+- npm 页面：https://www.npmjs.com/package/@leonelgalan/eslint-config-cdk
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @leonelgalan/eslint-config-cdk`
+- npm registry：https://registry.npmjs.org/@leonelgalan/eslint-config-cdk

@@ -1,0 +1,37 @@
+# ember-zli
+
+> 标签: ember, emberznet, ezsp, herdsman, silabs, z2m, zigbee, zigbee-herdsman, zigbee2mqtt
+
+## 简介
+
+Interact with EmberZNet-based adapters using zigbee-herdsman 'ember' driver
+
+## 官网
+
+- 官网：https://github.com/Nerivec/ember-zli
+- 源码仓库：git+https://github.com/Nerivec/ember-zli.git
+- npm 页面：https://www.npmjs.com/package/ember-zli
+
+## 历史版本号
+
+- 当前版本：5.0.0
+
+- 3.3.0
+- 3.3.1
+- 3.3.2
+- 4.0.0
+- 4.0.1
+- 4.0.2
+- 4.1.0
+- 4.2.0
+- 4.2.1
+- 4.2.2
+- 4.2.3
+- 5.0.0
+- 共 59 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install ember-zli`
+- npm registry：https://registry.npmjs.org/ember-zli
+- Node 要求：^22.22.0 || ^24.12.0 || <=26.2.0

@@ -1,0 +1,30 @@
+# json-expected-stream
+
+> 标签: expected, fields, filter, json, mask, projection, query, select, stream, stream2
+
+## 简介
+
+Filter stream that enforces only selected JSON object string elements exist and that they exist in order
+
+## 官网
+
+- 官网：https://github.com/angleman/json-expected-stream
+- 源码仓库：https://github.com/angleman/json-expected-stream.git
+- npm 页面：https://www.npmjs.com/package/json-expected-stream
+
+## 历史版本号
+
+- 当前版本：0.2.2
+
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.2.1
+- 0.2.2
+
+## 获取地址
+
+- npm 安装：`npm install json-expected-stream`
+- npm registry：https://registry.npmjs.org/json-expected-stream

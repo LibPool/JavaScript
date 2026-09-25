@@ -1,0 +1,24 @@
+# myrbtpagination
+
+> 标签: pagination, table
+
+## 简介
+
+create configurable paginated bootsrap table
+
+## 官网
+
+- 官网：https://github.com/Hristakos/myRBTPagination#readme
+- 源码仓库：git+https://github.com/Hristakos/myRBTPagination.git
+- npm 页面：https://www.npmjs.com/package/myrbtpagination
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install myrbtpagination`
+- npm registry：https://registry.npmjs.org/myrbtpagination

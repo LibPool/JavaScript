@@ -1,0 +1,34 @@
+# @velocitycareerlabs/signature-verification-library
+
+> 标签: JavaScript
+
+## 简介
+
+@velocitycareerlabs/signature-verification-library - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@velocitycareerlabs/signature-verification-library
+
+## 历史版本号
+
+- 当前版本：1.25.0-dev-build.12642c864
+
+- 1.25.0-dev-build.1ca3a092f
+- 1.25.0-dev-build.1cb8dca79
+- 1.25.0-dev-build.1ccf373cd
+- 1.25.0-dev-build.1cddc4247
+- 1.25.0-dev-build.1ced5066a
+- 1.25.0-dev-build.1dea3c19f
+- 1.25.0-dev-build.1e70bde02
+- 1.25.0-dev-build.1efd30eba
+- 1.25.0-dev-build.1f15e3d87
+- 1.25.0-dev-build.1f466ea4a
+- 1.25.0-dev-build.1fa19dd79
+- 1.25.0-dev-build.1fc58e10b
+- 共 159 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @velocitycareerlabs/signature-verification-library`
+- npm registry：https://registry.npmjs.org/@velocitycareerlabs/signature-verification-library

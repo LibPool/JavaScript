@@ -1,0 +1,25 @@
+# passport-punwave
+
+> 标签: auth, authentication, oauth, oauth2, passport, punwave
+
+## 简介
+
+Punwave authentication strategy for Passport
+
+## 官网
+
+- 官网：https://github.com/punwave/passport-punwave#readme
+- 源码仓库：git+https://github.com/punwave/passport-punwave.git
+- npm 页面：https://www.npmjs.com/package/passport-punwave
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install passport-punwave`
+- npm registry：https://registry.npmjs.org/passport-punwave

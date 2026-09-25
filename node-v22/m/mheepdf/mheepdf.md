@@ -1,0 +1,35 @@
+# mheepdf
+
+> 标签: compression, encryption, font, harfbuzz, image, pdf, pdf-builder, pdf-generator, table, thai, thai-pdf, typescript
+
+## 简介
+
+TypeScript PDF generation library with Thai language support, custom fonts, images, tables, encryption, and compression
+
+## 官网
+
+- 官网：https://github.com/a1um1/MheePDF#readme
+- 源码仓库：git+https://github.com/a1um1/MheePDF.git
+- npm 页面：https://www.npmjs.com/package/mheepdf
+
+## 历史版本号
+
+- 当前版本：0.0.15
+
+- 0.0.1
+- 0.0.10
+- 0.0.11
+- 0.0.12
+- 0.0.13
+- 0.0.14
+- 0.0.15
+- 0.0.3
+- 0.0.4
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install mheepdf`
+- npm registry：https://registry.npmjs.org/mheepdf
+- Node 要求：>=20

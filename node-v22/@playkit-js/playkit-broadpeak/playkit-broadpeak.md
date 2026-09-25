@@ -1,0 +1,24 @@
+# @playkit-js/playkit-broadpeak
+
+> 标签: html5 player, kaltura, player, playkit-js, playkit-js-broadpeak
+
+## 简介
+
+[![Build Status](https://travis-ci.com/kaltura/playkit-js-avplay.svg?branch=master)](https://travis-ci.org/kaltura/playkit-js-broadpeak-smartlib) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](http
+
+## 官网
+
+- 官网：https://github.com/kaltura/playkit-js-broadpeak-smartlib
+- 源码仓库：git+https://github.com/kaltura/playkit-js-broadpeak-smartlib.git
+- npm 页面：https://www.npmjs.com/package/@playkit-js/playkit-broadpeak
+
+## 历史版本号
+
+- 当前版本：1.3.2-canary.1-d391d9c
+
+- 1.3.2-canary.1-d391d9c
+
+## 获取地址
+
+- npm 安装：`npm install @playkit-js/playkit-broadpeak`
+- npm registry：https://registry.npmjs.org/@playkit-js/playkit-broadpeak

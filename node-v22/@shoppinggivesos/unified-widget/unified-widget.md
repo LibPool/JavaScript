@@ -1,0 +1,26 @@
+# @shoppinggivesos/unified-widget
+
+> 标签: JavaScript
+
+## 简介
+
+Platform-agnostic custom elements for the ShoppingGives unified widget.
+
+## 官网
+
+- 官网：https://github.com/NicheInteractiveMedia/unified-widget-component#readme
+- 源码仓库：git+https://github.com/NicheInteractiveMedia/unified-widget-component.git
+- npm 页面：https://www.npmjs.com/package/@shoppinggivesos/unified-widget
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.1
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @shoppinggivesos/unified-widget`
+- npm registry：https://registry.npmjs.org/@shoppinggivesos/unified-widget
+- Node 要求：>=22.20.0

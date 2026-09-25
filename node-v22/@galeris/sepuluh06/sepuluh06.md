@@ -1,0 +1,22 @@
+# @galeris/sepuluh06
+
+> 标签: JavaScript
+
+## 简介
+
+@galeris/sepuluh06 - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@galeris/sepuluh06
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @galeris/sepuluh06`
+- npm registry：https://registry.npmjs.org/@galeris/sepuluh06

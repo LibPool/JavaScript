@@ -1,0 +1,27 @@
+# miaoda-game-roster-core
+
+> 标签: autobattler, bench, cocos, formation, lineup, merge, phaser, roster, squad, traits, upgrade
+
+## 简介
+
+Engine-agnostic roster and squad state: uniquely identified unit instances across named capacity/eligibility zones, atomic add/move/swap/remove operations, deterministic cascading merge recipes with payload inheritance, trait-threshold derivation, structu
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/miaoda-game-roster-core
+
+## 历史版本号
+
+- 当前版本：0.3.1
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.2.0
+- 0.3.0
+- 0.3.1
+
+## 获取地址
+
+- npm 安装：`npm install miaoda-game-roster-core`
+- npm registry：https://registry.npmjs.org/miaoda-game-roster-core

@@ -1,0 +1,26 @@
+# @socialgo/sdk
+
+> 标签: sdk, smm, smm-api, smm-panel, social-media-marketing, socialgo, typescript
+
+## 简介
+
+TypeScript SDK for the SocialGO SMM API v2 — typed client, models and pricing helpers.
+
+## 官网
+
+- 官网：https://github.com/SocialGOcompany/socialgo-tools/tree/main/packages/sdk#readme
+- 源码仓库：git+https://github.com/SocialGOcompany/socialgo-tools.git
+- npm 页面：https://www.npmjs.com/package/@socialgo/sdk
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.1.0
+- 0.2.0
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @socialgo/sdk`
+- npm registry：https://registry.npmjs.org/@socialgo/sdk

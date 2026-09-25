@@ -1,0 +1,26 @@
+# dsh-ezprot-plugin
+
+> 标签: JavaScript
+
+## 简介
+
+Plug-and-play proteomics analysis bundle for DeepSeek Harness: auto-managed R 4.4 runtime, step-wise traceable pipeline (normalize / PCA / batch / DEA / enrichment / GSEA), cached GO-KEGG annotation backgrounds.
+
+## 官网
+
+- 官网：https://github.com/YukunR/dsh-ezprot-plugin#readme
+- 源码仓库：git+https://github.com/YukunR/dsh-ezprot-plugin.git
+- npm 页面：https://www.npmjs.com/package/dsh-ezprot-plugin
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install dsh-ezprot-plugin`
+- npm registry：https://registry.npmjs.org/dsh-ezprot-plugin
+- Node 要求：>=18

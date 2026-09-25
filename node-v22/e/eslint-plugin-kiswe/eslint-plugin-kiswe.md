@@ -1,0 +1,29 @@
+# eslint-plugin-kiswe
+
+> 标签: JavaScript
+
+## 简介
+
+Additional Eslint plugins
+
+## 官网
+
+- 官网：https://github.com/Kiswe/eslint-plugin-kiswe#readme
+- 源码仓库：git+https://github.com/Kiswe/eslint-plugin-kiswe.git
+- npm 页面：https://www.npmjs.com/package/eslint-plugin-kiswe
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+
+## 获取地址
+
+- npm 安装：`npm install eslint-plugin-kiswe`
+- npm registry：https://registry.npmjs.org/eslint-plugin-kiswe

@@ -1,0 +1,23 @@
+# kira-kit
+
+> 标签: cli, kira-kit, react, tailwind, ui-components
+
+## 简介
+
+CLI tool for adding Kira Kit components to your project
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/kira-kit
+
+## 历史版本号
+
+- 当前版本：0.2.1
+
+- 0.2.0
+- 0.2.1
+
+## 获取地址
+
+- npm 安装：`npm install kira-kit`
+- npm registry：https://registry.npmjs.org/kira-kit

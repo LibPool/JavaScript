@@ -1,0 +1,31 @@
+# snarkyjs-elgamal
+
+> 标签: cryptography, elgamal, homomorphic encryption, mina-dapp, mina-zk-app, mina-zkapp, snark, zero knowledge, zk, zkSNARK, zkapp
+
+## 简介
+
+This repository implements Elgmal, a partial homomorphic encryption scheme originally described by [Taher Elgamal in 1985](https://caislab.kaist.ac.kr/lecture/2010/spring/cs548/basic/B02.pdf). This implementation includes the original version of Elgamal,
+
+## 官网
+
+- 官网：https://github.com/Trivo25/snarkyjs-elgamal#snarkyjs-elgamal
+- npm 页面：https://www.npmjs.com/package/snarkyjs-elgamal
+
+## 历史版本号
+
+- 当前版本：0.0.9
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install snarkyjs-elgamal`
+- npm registry：https://registry.npmjs.org/snarkyjs-elgamal

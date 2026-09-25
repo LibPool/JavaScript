@@ -1,0 +1,35 @@
+# @ricsam/quickjs-test-utils
+
+> 标签: emscripten, fetch, filesystem, javascript, quickjs, runtime, sandbox, streams, wasm
+
+## 简介
+
+Testing utilities for QuickJS runtime
+
+## 官网
+
+- 官网：https://github.com/ricsam/richie-qjs#readme
+- 源码仓库：git+https://github.com/ricsam/richie-qjs.git
+- npm 页面：https://www.npmjs.com/package/@ricsam/quickjs-test-utils
+
+## 历史版本号
+
+- 当前版本：1.0.26
+
+- 1.0.22
+- 1.0.23
+- 1.0.24
+- 1.0.25
+- 1.0.26
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @ricsam/quickjs-test-utils`
+- npm registry：https://registry.npmjs.org/@ricsam/quickjs-test-utils

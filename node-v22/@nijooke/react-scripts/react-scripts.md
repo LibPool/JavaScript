@@ -1,0 +1,27 @@
+# @nijooke/react-scripts
+
+> 标签: JavaScript
+
+## 简介
+
+Configuration and scripts for Create React App.
+
+## 官网
+
+- 源码仓库：https://gitlab.oxygem.tv/mindbaz/front/create-react-app.git
+- npm 页面：https://www.npmjs.com/package/@nijooke/react-scripts
+
+## 历史版本号
+
+- 当前版本：3.3.1
+
+- 3.1.1
+- 3.2.0
+- 3.3.0
+- 3.3.1
+
+## 获取地址
+
+- npm 安装：`npm install @nijooke/react-scripts`
+- npm registry：https://registry.npmjs.org/@nijooke/react-scripts
+- Node 要求：>=8.10

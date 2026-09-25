@@ -1,0 +1,24 @@
+# @unitehere/nativescript-phone
+
+> 标签: NativeScript, Phone, SMS, android, ios
+
+## 简介
+
+NativeScript plugin to use the device phone and SMS features for Android and iOS
+
+## 官网
+
+- 官网：https://github.com/unitehere/nativescript-phone
+- 源码仓库：git+https://github.com/unitehere/nativescript-phone.git
+- npm 页面：https://www.npmjs.com/package/@unitehere/nativescript-phone
+
+## 历史版本号
+
+- 当前版本：3.1.0
+
+- 3.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @unitehere/nativescript-phone`
+- npm registry：https://registry.npmjs.org/@unitehere/nativescript-phone

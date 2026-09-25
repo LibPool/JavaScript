@@ -1,0 +1,23 @@
+# cache-sync-keyv
+
+> 标签: cache-sync, keyv, node.js, typescript
+
+## 简介
+
+cache-sync keyv package
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/cache-sync-keyv
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install cache-sync-keyv`
+- npm registry：https://registry.npmjs.org/cache-sync-keyv
+- Node 要求：>=20.17.0 <21.0.0 || >=22.0.0 <23.0.0 || >=24.0.0

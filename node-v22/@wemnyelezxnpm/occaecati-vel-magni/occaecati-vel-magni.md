@@ -1,0 +1,24 @@
+# @wemnyelezxnpm/occaecati-vel-magni
+
+> 标签: JavaScript
+
+## 简介
+
+@wemnyelezxnpm/occaecati-vel-magni - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/wemnyelezxnpm/occaecati-vel-magni#readme
+- 源码仓库：git+https://github.com/wemnyelezxnpm/occaecati-vel-magni.git
+- npm 页面：https://www.npmjs.com/package/@wemnyelezxnpm/occaecati-vel-magni
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @wemnyelezxnpm/occaecati-vel-magni`
+- npm registry：https://registry.npmjs.org/@wemnyelezxnpm/occaecati-vel-magni

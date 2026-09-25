@@ -1,0 +1,26 @@
+# temporeipsam
+
+> 标签: assumenda, contracts, corrupti, eum, lens, lens-protocol, sed, web3
+
+## 简介
+
+All interfaces and base classes from Lens core used for creating follow, collect, and open action modules
+
+## 官网
+
+- 官网：https://github.com/MozelleErnser/temporeipsam#readme
+- 源码仓库：git+https://github.com/MozelleErnser/temporeipsam.git
+- npm 页面：https://www.npmjs.com/package/temporeipsam
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install temporeipsam`
+- npm registry：https://registry.npmjs.org/temporeipsam

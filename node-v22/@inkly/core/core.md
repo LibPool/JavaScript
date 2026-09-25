@@ -1,0 +1,22 @@
+# @inkly/core
+
+> 标签: JavaScript
+
+## 简介
+
+The inkly server core: typed app, router, rooms/presence, RPC, and resumable streams. Runtime-agnostic.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@inkly/core
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @inkly/core`
+- npm registry：https://registry.npmjs.org/@inkly/core

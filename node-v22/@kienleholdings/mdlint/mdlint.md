@@ -1,0 +1,24 @@
+# @kienleholdings/mdlint
+
+> 标签: Kienle Holdings, markdown, markdownlint
+
+## 简介
+
+Kienle Holdings Markdownlint Config
+
+## 官网
+
+- 官网：https://github.com/kienleholdings/technologies/tree/main/packages/mdlint#readme
+- 源码仓库：git+https://github.com/kienleholdings/technologies.git
+- npm 页面：https://www.npmjs.com/package/@kienleholdings/mdlint
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @kienleholdings/mdlint`
+- npm registry：https://registry.npmjs.org/@kienleholdings/mdlint

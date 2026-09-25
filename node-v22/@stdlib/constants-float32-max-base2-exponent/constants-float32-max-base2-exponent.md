@@ -1,0 +1,26 @@
+# @stdlib/constants-float32-max-base2-exponent
+
+> 标签: base 2, bias, binary, const, constant, exponent, float, floating-point, flt, ieee754, math, mathematics, max, maximum, single, stdlib, stdmath
+
+## 简介
+
+The maximum biased base 2 exponent for a single-precision floating-point number.
+
+## 官网
+
+- 官网：https://stdlib.io
+- 源码仓库：git://github.com/stdlib-js/constants-float32-max-base2-exponent.git
+- npm 页面：https://www.npmjs.com/package/@stdlib/constants-float32-max-base2-exponent
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @stdlib/constants-float32-max-base2-exponent`
+- npm registry：https://registry.npmjs.org/@stdlib/constants-float32-max-base2-exponent
+- Node 要求：>=0.10.0

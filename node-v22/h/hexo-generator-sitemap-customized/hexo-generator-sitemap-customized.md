@@ -1,0 +1,23 @@
+# hexo-generator-sitemap-customized
+
+> 标签: generator, hexo, seo, sitemap
+
+## 简介
+
+Sitemap generator plugin for Hexo
+
+## 官网
+
+- 官网：https://github.com/hexojs/hexo-generator-sitemap
+- npm 页面：https://www.npmjs.com/package/hexo-generator-sitemap-customized
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install hexo-generator-sitemap-customized`
+- npm registry：https://registry.npmjs.org/hexo-generator-sitemap-customized

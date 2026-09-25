@@ -1,0 +1,24 @@
+# random-number-display-singhg
+
+> 标签: react, react-component
+
+## 简介
+
+Random number display. Sample app for creating React Npm packages with ES2015
+
+## 官网
+
+- 官网：https://github.com/dilunika/random-number-display
+- 源码仓库：git+https://github.com/dilunika/random-number-display.git
+- npm 页面：https://www.npmjs.com/package/random-number-display-singhg
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install random-number-display-singhg`
+- npm registry：https://registry.npmjs.org/random-number-display-singhg

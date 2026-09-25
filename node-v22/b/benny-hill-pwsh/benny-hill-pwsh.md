@@ -1,0 +1,24 @@
+# benny-hill-pwsh
+
+> 标签: JavaScript
+
+## 简介
+
+Play the Benny Hill theme while running another command. Forked from mafintosh/benny-hill
+
+## 官网
+
+- 官网：https://github.com/tariano/benny-hill-pwsh
+- 源码仓库：git+https://github.com/tariano/benny-hill-pwsh.git
+- npm 页面：https://www.npmjs.com/package/benny-hill-pwsh
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install benny-hill-pwsh`
+- npm registry：https://registry.npmjs.org/benny-hill-pwsh

@@ -1,0 +1,29 @@
+# brazilian-tabs
+
+> 标签: tabs
+
+## 简介
+
+Generate dynamic tabs
+
+## 官网
+
+- 官网：https://github.com/palehorse/brazilian-tabs#readme
+- 源码仓库：git+https://palehorse:Aa0952184225@github.com/palehorse/brazilian-tabs.git
+- npm 页面：https://www.npmjs.com/package/brazilian-tabs
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+
+## 获取地址
+
+- npm 安装：`npm install brazilian-tabs`
+- npm registry：https://registry.npmjs.org/brazilian-tabs

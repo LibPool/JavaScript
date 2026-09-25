@@ -1,0 +1,24 @@
+# noulett
+
+> 标签: JavaScript
+
+## 简介
+
+File compression is the main process of compressing or squeezing data files
+
+## 官网
+
+- 官网：https://github.com/noueletta/filecompression#readme
+- 源码仓库：git+https://github.com/noueletta/filecompression.git
+- npm 页面：https://www.npmjs.com/package/noulett
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install noulett`
+- npm registry：https://registry.npmjs.org/noulett

@@ -1,0 +1,25 @@
+# @outlinejs/conf
+
+> 标签: JavaScript
+
+## 简介
+
+OutlineJS Configuration Package
+
+## 官网
+
+- 官网：https://github.com/outlinejs/outlinejs#readme
+- 源码仓库：git+https://github.com/outlinejs/outlinejs.git
+- npm 页面：https://www.npmjs.com/package/@outlinejs/conf
+
+## 历史版本号
+
+- 当前版本：4.0.0
+
+- 3.0.3
+- 4.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @outlinejs/conf`
+- npm registry：https://registry.npmjs.org/@outlinejs/conf

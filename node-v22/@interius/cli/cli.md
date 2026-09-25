@@ -1,0 +1,23 @@
+# @interius/cli
+
+> 标签: agent, cli, codegen, fastapi, interius
+
+## 简介
+
+Interius CLI for generating backend projects into the local workspace and running them locally.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@interius/cli
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @interius/cli`
+- npm registry：https://registry.npmjs.org/@interius/cli
+- Node 要求：>=18

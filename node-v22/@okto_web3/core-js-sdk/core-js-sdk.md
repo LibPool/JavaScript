@@ -1,0 +1,34 @@
+# @okto_web3/core-js-sdk
+
+> 标签: JavaScript
+
+## 简介
+
+Core JS for Okto SDK
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@okto_web3/core-js-sdk
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.1.0-dev.8
+- 1.1.0-dev.9
+- 1.2.0-dev.1
+- 1.2.0-dev.2
+- 1.2.0-dev.4
+- 1.2.0-dev.5
+- 1.2.0-dev.6
+- 1.2.0-dev.7
+- 1.2.0-dev.8
+- 1.2.0-rc.1
+- 1.2.0-rc.2
+- 1.3.0-rc.1
+- 共 352 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @okto_web3/core-js-sdk`
+- npm registry：https://registry.npmjs.org/@okto_web3/core-js-sdk

@@ -1,0 +1,29 @@
+# wipe-dev
+
+> 标签: clean, cli, node-modules, parallel, performance, recursive, remove, worker
+
+## 简介
+
+High-performance recursive node_modules removal tool
+
+## 官网
+
+- 官网：https://github.com/AnEntrypoint/roomba-js#readme
+- 源码仓库：git+https://github.com/AnEntrypoint/roomba-js.git
+- npm 页面：https://www.npmjs.com/package/wipe-dev
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install wipe-dev`
+- npm registry：https://registry.npmjs.org/wipe-dev
+- Node 要求：>=14.0.0

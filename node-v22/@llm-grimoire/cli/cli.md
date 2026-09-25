@@ -1,0 +1,31 @@
+# @llm-grimoire/cli
+
+> 标签: ai, cli, codebase, documentation, effect, navigation, scaffolding
+
+## 简介
+
+Instant codebase documentation for AI agents and humans
+
+## 官网
+
+- 官网：https://github.com/llm-grimoire/cli#readme
+- 源码仓库：git+https://github.com/llm-grimoire/cli.git
+- npm 页面：https://www.npmjs.com/package/@llm-grimoire/cli
+
+## 历史版本号
+
+- 当前版本：0.4.0
+
+- 0.1.0
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.3
+- 0.2.4
+- 0.2.7
+- 0.4.0
+
+## 获取地址
+
+- npm 安装：`npm install @llm-grimoire/cli`
+- npm registry：https://registry.npmjs.org/@llm-grimoire/cli

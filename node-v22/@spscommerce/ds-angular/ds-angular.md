@@ -1,0 +1,36 @@
+# @spscommerce/ds-angular
+
+> 标签: JavaScript
+
+## 简介
+
+DS Angular components.
+
+## 官网
+
+- 官网：https://github.com/spscommerce/design-system/tree/main/packages/@spscommerce/ds-angular#readme
+- 源码仓库：https://github.com/spscommerce/design-system/tree/main/packages/@spscommerce/ds-angular
+- npm 页面：https://www.npmjs.com/package/@spscommerce/ds-angular
+
+## 历史版本号
+
+- 当前版本：1.3.2
+
+- 2.23.0
+- 2.23.1
+- 2.23.2
+- 2.24.0
+- 2.24.1
+- 2.24.2
+- 2.24.3
+- 2.25.0
+- 2.25.1
+- 2.25.2
+- 2.26.0
+- 2.26.1
+- 共 117 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @spscommerce/ds-angular`
+- npm registry：https://registry.npmjs.org/@spscommerce/ds-angular

@@ -1,0 +1,34 @@
+# grunt-styleguide-colors
+
+> 标签: gruntplugin
+
+## 简介
+
+generate html markup for display project color variables
+
+## 官网
+
+- 官网：https://github.com/webdesignberlin/grunt-styleguide-colors
+- 源码仓库：git://github.com/webdesignberlin/grunt-styleguide-colors.git
+- npm 页面：https://www.npmjs.com/package/grunt-styleguide-colors
+
+## 历史版本号
+
+- 当前版本：0.3.1
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.2.0
+- 0.3.0
+- 0.3.1
+
+## 获取地址
+
+- npm 安装：`npm install grunt-styleguide-colors`
+- npm registry：https://registry.npmjs.org/grunt-styleguide-colors
+- Node 要求：>= 0.8.0

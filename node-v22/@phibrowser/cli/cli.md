@@ -1,0 +1,28 @@
+# @phibrowser/cli
+
+> 标签: agent, browser-automation, cdp, chrome-devtools-protocol, cli, phibrowser, playwright
+
+## 简介
+
+Command-line browser automation for Phi Browser — drives agent Spaces over CDP, playwright-cli style
+
+## 官网
+
+- 官网：https://github.com/phibrowser/phibrowser-cli#readme
+- 源码仓库：git+https://github.com/phibrowser/phibrowser-cli.git
+- npm 页面：https://www.npmjs.com/package/@phibrowser/cli
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.1.0
+- 0.1.1
+- 0.2.0
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @phibrowser/cli`
+- npm registry：https://registry.npmjs.org/@phibrowser/cli
+- Node 要求：>=22

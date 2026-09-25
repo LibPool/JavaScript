@@ -1,0 +1,30 @@
+# phaser-plugin-display-list-watcher
+
+> 标签: phaser, phaser-plugin
+
+## 简介
+
+Shows the scene display lists
+
+## 官网
+
+- 官网：https://github.com/samme/phaser-plugin-display-list-watcher#readme
+- 源码仓库：git+https://github.com/samme/phaser-plugin-display-list-watcher.git
+- npm 页面：https://www.npmjs.com/package/phaser-plugin-display-list-watcher
+
+## 历史版本号
+
+- 当前版本：1.2.1
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.0
+- 1.2.0
+- 1.2.1
+- 2.0.0-0
+
+## 获取地址
+
+- npm 安装：`npm install phaser-plugin-display-list-watcher`
+- npm registry：https://registry.npmjs.org/phaser-plugin-display-list-watcher

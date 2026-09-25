@@ -1,0 +1,24 @@
+# @6pm/emit
+
+> 标签: emitter, event
+
+## 简介
+
+Screaming fast event emitter, with Symbol support
+
+## 官网
+
+- 源码仓库：https://www.github.com/6pm-js/emit.git
+- npm 页面：https://www.npmjs.com/package/@6pm/emit
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @6pm/emit`
+- npm registry：https://registry.npmjs.org/@6pm/emit
+- Node 要求：>=4

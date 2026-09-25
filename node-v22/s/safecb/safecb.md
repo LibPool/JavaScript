@@ -1,0 +1,24 @@
+# safecb
+
+> 标签: callback, dezalgo, once, safe
+
+## 简介
+
+normalize callback arguments
+
+## 官网
+
+- 官网：https://github.com/mvayngrib/safecb
+- 源码仓库：https://github.com/mvayngrib/safecb
+- npm 页面：https://www.npmjs.com/package/safecb
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install safecb`
+- npm registry：https://registry.npmjs.org/safecb

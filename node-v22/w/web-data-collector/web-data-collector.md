@@ -1,0 +1,28 @@
+# web-data-collector
+
+> 标签: JavaScript
+
+## 简介
+
+TBD
+
+## 官网
+
+- 源码仓库：git@github.com:traveloka/web-data-collector.git
+- npm 页面：https://www.npmjs.com/package/web-data-collector
+
+## 历史版本号
+
+- 当前版本：0.0.6
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+
+## 获取地址
+
+- npm 安装：`npm install web-data-collector`
+- npm registry：https://registry.npmjs.org/web-data-collector

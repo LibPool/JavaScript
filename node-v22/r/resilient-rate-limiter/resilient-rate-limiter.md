@@ -1,0 +1,22 @@
+# resilient-rate-limiter
+
+> 标签: JavaScript
+
+## 简介
+
+Redis-backed Express middleware with automatic degraded-mode fallback handling.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/resilient-rate-limiter
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install resilient-rate-limiter`
+- npm registry：https://registry.npmjs.org/resilient-rate-limiter

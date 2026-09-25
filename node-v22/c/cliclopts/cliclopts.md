@@ -1,0 +1,26 @@
+# cliclopts
+
+> 标签: cli, minimist, options
+
+## 简介
+
+Command line options helper and usage printer
+
+## 官网
+
+- 官网：https://github.com/finnp/cliclopts
+- 源码仓库：git+https://github.com/finnp/cliclopts.git
+- npm 页面：https://www.npmjs.com/package/cliclopts
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install cliclopts`
+- npm registry：https://registry.npmjs.org/cliclopts

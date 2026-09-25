@@ -1,0 +1,24 @@
+# @arco-design/arco-template-arco-design-pro-simple
+
+> 标签: arco, arco-design, arco-design-pro, arco-template
+
+## 简介
+
+Template Of Arco Design Pro
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@arco-design/arco-template-arco-design-pro-simple
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @arco-design/arco-template-arco-design-pro-simple`
+- npm registry：https://registry.npmjs.org/@arco-design/arco-template-arco-design-pro-simple

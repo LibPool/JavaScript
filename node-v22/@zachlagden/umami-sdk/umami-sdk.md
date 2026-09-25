@@ -1,0 +1,25 @@
+# @zachlagden/umami-sdk
+
+> 标签: analytics, privacy, sdk, tracking, typescript, umami
+
+## 简介
+
+Lightweight, type-safe SDK for Umami analytics — works everywhere.
+
+## 官网
+
+- 官网：https://github.com/zachlagden/umami-sdk#readme
+- 源码仓库：git+https://github.com/zachlagden/umami-sdk.git
+- npm 页面：https://www.npmjs.com/package/@zachlagden/umami-sdk
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @zachlagden/umami-sdk`
+- npm registry：https://registry.npmjs.org/@zachlagden/umami-sdk
+- Node 要求：>=18

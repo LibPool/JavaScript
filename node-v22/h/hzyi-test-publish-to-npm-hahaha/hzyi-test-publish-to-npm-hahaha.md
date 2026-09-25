@@ -1,0 +1,22 @@
+# hzyi-test-publish-to-npm-hahaha
+
+> 标签: JavaScript
+
+## 简介
+
+test purposes, do not use
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/hzyi-test-publish-to-npm-hahaha
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install hzyi-test-publish-to-npm-hahaha`
+- npm registry：https://registry.npmjs.org/hzyi-test-publish-to-npm-hahaha

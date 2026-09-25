@@ -1,0 +1,24 @@
+# lru-memory-cache
+
+> 标签: cache, lru, memory
+
+## 简介
+
+Simple in-memory cache implementation with LRU
+
+## 官网
+
+- 官网：https://github.com/kashey/lru-memory-cache
+- 源码仓库：https://github.com/kashey/lru-memory-cache
+- npm 页面：https://www.npmjs.com/package/lru-memory-cache
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install lru-memory-cache`
+- npm registry：https://registry.npmjs.org/lru-memory-cache

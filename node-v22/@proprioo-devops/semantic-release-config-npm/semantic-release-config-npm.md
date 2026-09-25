@@ -1,0 +1,28 @@
+# @proprioo-devops/semantic-release-config-npm
+
+> 标签: conventional-changelog, gitlab, release, semantic-release, semantic-release-config, version
+
+## 简介
+
+semantic-release shareable config for Proprioo devops projects with package.json
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@proprioo-devops/semantic-release-config-npm
+
+## 历史版本号
+
+- 当前版本：1.2.3
+
+- 0.0.1
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.2.3
+
+## 获取地址
+
+- npm 安装：`npm install @proprioo-devops/semantic-release-config-npm`
+- npm registry：https://registry.npmjs.org/@proprioo-devops/semantic-release-config-npm

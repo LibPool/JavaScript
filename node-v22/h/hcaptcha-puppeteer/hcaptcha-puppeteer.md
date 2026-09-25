@@ -1,0 +1,24 @@
+# hcaptcha-puppeteer
+
+> 标签: JavaScript
+
+## 简介
+
+Based on [aw1875/puppeteer-hcaptcha](https://github.com/aw1875/puppeteer-hcaptcha/), the deprecated package request-promise-native was replaced with Axios and now it's working properly.
+
+## 官网
+
+- 官网：https://github.com/d4n5h/hcaptcha#readme
+- 源码仓库：git+https://github.com/d4n5h/hcaptcha.git
+- npm 页面：https://www.npmjs.com/package/hcaptcha-puppeteer
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install hcaptcha-puppeteer`
+- npm registry：https://registry.npmjs.org/hcaptcha-puppeteer

@@ -1,0 +1,36 @@
+# @mapp-digital/mapp-fonts
+
+> 标签: font, fonts, iconfont, icons, mapp, svg
+
+## 简介
+
+A collection of fonts used in Mapp UIs.
+
+## 官网
+
+- 官网：https://github.com/mapp-digital/mapp-fonts#readme
+- 源码仓库：git+https://github.com/mapp-digital/mapp-fonts.git
+- npm 页面：https://www.npmjs.com/package/@mapp-digital/mapp-fonts
+
+## 历史版本号
+
+- 当前版本：0.1.14
+
+- 0.0.95
+- 0.0.96
+- 0.0.97
+- 0.0.98
+- 0.1.1
+- 0.1.10
+- 0.1.13
+- 0.1.14
+- 0.1.3
+- 0.1.4
+- 0.1.8
+- 0.1.9
+- 共 97 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @mapp-digital/mapp-fonts`
+- npm registry：https://registry.npmjs.org/@mapp-digital/mapp-fonts

@@ -1,0 +1,27 @@
+# aws-lambda-golang-cdk-v2
+
+> 标签: cdk
+
+## 简介
+
+CDK construct for golang files
+
+## 官网
+
+- 源码仓库：https://github.com/kochie/aws-lambda-golang-cdk-v2.git
+- npm 页面：https://www.npmjs.com/package/aws-lambda-golang-cdk-v2
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install aws-lambda-golang-cdk-v2`
+- npm registry：https://registry.npmjs.org/aws-lambda-golang-cdk-v2

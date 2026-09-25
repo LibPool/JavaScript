@@ -1,0 +1,36 @@
+# @tbowmo/node-red-small-timer
+
+> 标签: JavaScript
+
+## 简介
+
+Small timer node for Node-RED with support for sunrise, sunset etc. timers
+
+## 官网
+
+- 官网：https://github.com/tbowmo/node-red-small-timer
+- 源码仓库：git+https://github.com/tbowmo/node-red-small-timer.git
+- npm 页面：https://www.npmjs.com/package/@tbowmo/node-red-small-timer
+
+## 历史版本号
+
+- 当前版本：0.19.0
+
+- 0.4.0
+- 0.4.1
+- 0.5.0
+- 0.5.1
+- 0.5.2
+- 0.5.3
+- 0.6.0
+- 0.7.0
+- 0.7.1
+- 0.8.0
+- 0.9.0
+- 0.9.1
+
+## 获取地址
+
+- npm 安装：`npm install @tbowmo/node-red-small-timer`
+- npm registry：https://registry.npmjs.org/@tbowmo/node-red-small-timer
+- Node 要求：>=14.0.0

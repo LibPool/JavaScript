@@ -1,0 +1,27 @@
+# @rahulrpandya/pw-core-design
+
+> 标签: api, automation, browser, chromium, e2e, end-to-end, firefox, framework, playwright, test, testing, typescript, web, webkit
+
+## 简介
+
+A core automation framework for Web and API testing built on Playwright
+
+## 官网
+
+- 官网：https://github.com/MrRahulR/pw-core-design#readme
+- 源码仓库：git+https://github.com/MrRahulR/pw-core-design.git
+- npm 页面：https://www.npmjs.com/package/@rahulrpandya/pw-core-design
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @rahulrpandya/pw-core-design`
+- npm registry：https://registry.npmjs.org/@rahulrpandya/pw-core-design
+- Node 要求：>=18.0.0

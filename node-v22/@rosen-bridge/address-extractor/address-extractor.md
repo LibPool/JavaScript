@@ -1,0 +1,37 @@
+# @rosen-bridge/address-extractor
+
+> 标签: JavaScript
+
+## 简介
+
+UTXO box extractor for any address or token.
+
+## 官网
+
+- 官网：https://github.com/rosen-bridge/scanner#readme
+- 源码仓库：git+https://github.com/rosen-bridge/scanner.git
+- npm 页面：https://www.npmjs.com/package/@rosen-bridge/address-extractor
+
+## 历史版本号
+
+- 当前版本：7.0.8
+
+- 7.0.3
+- 7.0.3-e380198a
+- 7.0.4
+- 7.0.5
+- 7.0.6
+- 7.0.6-7fb8eca0
+- 7.0.7
+- 7.0.8
+- 7.0.9-07c75c7c
+- 7.0.9-08d5c851
+- 7.0.9-70467c85
+- 7.0.9-8b5da597
+- 共 126 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @rosen-bridge/address-extractor`
+- npm registry：https://registry.npmjs.org/@rosen-bridge/address-extractor
+- Node 要求：>=22.18.0

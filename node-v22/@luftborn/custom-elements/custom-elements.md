@@ -1,0 +1,34 @@
+# @luftborn/custom-elements
+
+> 标签: JavaScript
+
+## 简介
+
+custom HTML elements for the form builder application (node version: 18)
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@luftborn/custom-elements
+
+## 历史版本号
+
+- 当前版本：2.16.0
+
+- 2.8.10
+- 2.8.11
+- 2.8.12
+- 2.8.2
+- 2.8.3
+- 2.8.4
+- 2.8.5
+- 2.8.6
+- 2.8.7
+- 2.8.8
+- 2.8.9
+- 2.9.0
+- 共 156 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @luftborn/custom-elements`
+- npm registry：https://registry.npmjs.org/@luftborn/custom-elements

@@ -1,0 +1,23 @@
+# doctagon.js
+
+> 标签: doc, docs, documentation
+
+## 简介
+
+A tool for creating docs from simple markdown
+
+## 官网
+
+- 源码仓库：https://github.com/morganherlocker/doctagon.js.git
+- npm 页面：https://www.npmjs.com/package/doctagon.js
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install doctagon.js`
+- npm registry：https://registry.npmjs.org/doctagon.js

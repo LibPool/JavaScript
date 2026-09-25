@@ -1,0 +1,36 @@
+# @jamsr-ui/link
+
+> 标签: JamsrUI, Next.js, React, TypeScript, UI components, jamsr-ui, react, ui
+
+## 简介
+
+A modern and beautiful Next.js UI components library.
+
+## 官网
+
+- 官网：https://jamsr-ui.jamsrworld.com
+- 源码仓库：git+https://github.com/jamsrworld/jamsr-ui.git
+- npm 页面：https://www.npmjs.com/package/@jamsr-ui/link
+
+## 历史版本号
+
+- 当前版本：0.1.4
+
+- 0.0.84
+- 0.0.85
+- 0.0.86
+- 0.0.87
+- 0.0.88
+- 0.0.89
+- 0.0.90
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 共 94 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @jamsr-ui/link`
+- npm registry：https://registry.npmjs.org/@jamsr-ui/link

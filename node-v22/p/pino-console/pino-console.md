@@ -1,0 +1,26 @@
+# pino-console
+
+> 标签: console, json, logger, pino, structured-logging, whatwg
+
+## 简介
+
+WHATWG Console API adapter for Pino loggers
+
+## 官网
+
+- 官网：https://github.com/pinojs/pino-console#readme
+- 源码仓库：git+https://github.com/pinojs/pino-console.git
+- npm 页面：https://www.npmjs.com/package/pino-console
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install pino-console`
+- npm registry：https://registry.npmjs.org/pino-console
+- Node 要求：>=20.0.0

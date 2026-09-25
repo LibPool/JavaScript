@@ -1,0 +1,26 @@
+# @nodert-win11-22h2/windows.networking.networkoperators
+
+> 标签: DataClasses, ESim, ESimAddedEventArgs, ESimAuthenticationPreference, ESimDiscoverEvent, ESimDiscoverResult, ESimDiscoverResultKind, ESimDownloadProfileMetadataResult, ESimManager, ESimOperationResult, ESimOperationStatus, ESimPolicy, ESimProfile, ESimProfileClass, ESimProfileInstallProgress, ESimProfileMetadata, ESimProfileMetadataState, ESimProfilePolicy, ESimProfileState, ESimRemovedEventArgs, ESimServiceInfo, ESimState, ESimUpdatedEventArgs, ESimWatcher, ESimWatcherStatus, FdnAccessManager, HotspotAuthenticationContext, HotspotAuthenticationEventDetails, HotspotAuthenticationResponseCode, HotspotCredentialsAuthenticationResult, KnownCSimFilePaths, KnownRuimFilePaths, KnownSimFilePaths, KnownUSimFilePaths, LegacyNetworkOperatorsContract, Microsoft, MobileBroadbandAccount, MobileBroadbandAccountEventArgs, MobileBroadbandAccountUpdatedEventArgs, MobileBroadbandAccountWatcher, MobileBroadbandAccountWatcherStatus, MobileBroadbandAntennaSar, MobileBroadbandCellCdma, MobileBroadbandCellGsm, MobileBroadbandCellLte, MobileBroadbandCellNR, MobileBroadbandCellTdscdma, MobileBroadbandCellUmts, MobileBroadbandCellsInfo, MobileBroadbandCurrentSlotIndexChangedEventArgs, MobileBroadbandDeviceInformation, MobileBroadbandDeviceService, MobileBroadbandDeviceServiceCommandResult, MobileBroadbandDeviceServiceCommandSession, MobileBroadbandDeviceServiceDataReceivedEventArgs, MobileBroadbandDeviceServiceDataSession, MobileBroadbandDeviceServiceInformation, MobileBroadbandDeviceServiceTriggerDetails, MobileBroadbandDeviceType, MobileBroadbandModem, MobileBroadbandModemConfiguration, MobileBroadbandModemIsolation, MobileBroadbandModemStatus, MobileBroadbandNetwork, MobileBroadbandNetworkRegistrationStateChange, MobileBroadbandNetworkRegistrationStateChangeTriggerDetails, MobileBroadbandPco, MobileBroadbandPcoDataChangeTriggerDetails, MobileBroadbandPin, MobileBroadbandPinFormat, MobileBroadbandPinLockState, MobileBroadbandPinLockStateChange, MobileBroadbandPinLockStateChangeTriggerDetails, MobileBroadbandPinManager, MobileBroadbandPinOperationResult, MobileBroadbandPinType, MobileBroadbandRadioState, MobileBroadbandRadioStateChange, MobileBroadbandRadioStateChangeTriggerDetails, MobileBroadbandSarManager, MobileBroadbandSlotInfo, MobileBroadbandSlotInfoChangedEventArgs, MobileBroadbandSlotManager, MobileBroadbandSlotState, MobileBroadbandTransmissionStateChangedEventArgs, MobileBroadbandUicc, MobileBroadbandUiccApp, MobileBroadbandUiccAppOperationStatus, MobileBroadbandUiccAppReadRecordResult, MobileBroadbandUiccAppRecordDetailsResult, MobileBroadbandUiccAppsResult, NetworkDeviceStatus, NetworkOperatorDataUsageNotificationKind, NetworkOperatorDataUsageTriggerDetails, NetworkOperatorEventMessageType, NetworkOperatorNotificationEventDetails, NetworkOperatorTetheringAccessPointConfiguration, NetworkOperatorTetheringClient, NetworkOperatorTetheringManager, NetworkOperatorTetheringOperationResult, NetworkOperators, NetworkOperatorsFdnContract, NetworkRegistrationState, Networking, NodeRT, ProfileMediaType, ProfileUsage, ProvisionFromXmlDocumentResults, ProvisionedProfile, ProvisioningAgent, TetheringCapability, TetheringEntitlementCheckTriggerDetails, TetheringOperationStatus, TetheringOperationalState, TetheringWiFiBand, UiccAccessCondition, UiccAppKind, UiccAppRecordKind, UssdMessage, UssdReply, UssdResultCode, UssdSession, WinRT, Windows, Windows.Networking.NetworkOperators
+
+## 简介
+
+Use the Windows.Networking.NetworkOperators UWP API directly from Node.js
+
+## 官网
+
+- 官网：https://github.com/demosjarco/NodeRT/tree/vs2022
+- 源码仓库：git://github.com/demosjarco/NodeRT.git
+- npm 页面：https://www.npmjs.com/package/@nodert-win11-22h2/windows.networking.networkoperators
+
+## 历史版本号
+
+- 当前版本：0.1.6
+
+- 0.1.4
+- 0.1.5
+- 0.1.6
+
+## 获取地址
+
+- npm 安装：`npm install @nodert-win11-22h2/windows.networking.networkoperators`
+- npm registry：https://registry.npmjs.org/@nodert-win11-22h2/windows.networking.networkoperators

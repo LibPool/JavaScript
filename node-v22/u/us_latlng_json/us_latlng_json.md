@@ -1,0 +1,26 @@
+# us_latlng_json
+
+> 标签: coordinates, gps, json, latitude, latlng, longitude, usa
+
+## 简介
+
+JSON dataset of latitude and longitude co-ordinates for USA state counties and cities
+
+## 官网
+
+- 官网：https://github.com/hiddentao/us_latlng_json
+- 源码仓库：https://github.com/hiddentao/us_latlng_json.git
+- npm 页面：https://www.npmjs.com/package/us_latlng_json
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install us_latlng_json`
+- npm registry：https://registry.npmjs.org/us_latlng_json

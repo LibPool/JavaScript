@@ -1,0 +1,33 @@
+# @statedelta-apex/router
+
+> 标签: apex, dsl, plugin, router, state, statedelta, typescript
+
+## 简介
+
+ApexStore Router - generic adapter between untyped DSL/engine and typed states via plugin system
+
+## 官网
+
+- 官网：https://github.com/andersondrosa/statedelta-apex#readme
+- 源码仓库：git+https://github.com/andersondrosa/statedelta-apex.git
+- npm 页面：https://www.npmjs.com/package/@statedelta-apex/router
+
+## 历史版本号
+
+- 当前版本：3.3.1
+
+- 1.0.0
+- 2.0.0
+- 3.0.0
+- 3.0.1
+- 3.1.0
+- 3.1.1
+- 3.2.0
+- 3.3.0
+- 3.3.1
+
+## 获取地址
+
+- npm 安装：`npm install @statedelta-apex/router`
+- npm registry：https://registry.npmjs.org/@statedelta-apex/router
+- Node 要求：>=18

@@ -1,0 +1,24 @@
+# eternally-draw-plan-society
+
+> 标签: eternally-draw-plan-society, package-manager
+
+## 简介
+
+Eternally Draw Plan Society - This function is used to convert multiple words into an interesting sentence containing the word Eternally Draw Plan Society.
+
+## 官网
+
+- 官网：https://github.com/npmtea2024/eternally-draw-plan-society#readme
+- 源码仓库：git+https://github.com/npmtea2024/eternally-draw-plan-society.git
+- npm 页面：https://www.npmjs.com/package/eternally-draw-plan-society
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install eternally-draw-plan-society`
+- npm registry：https://registry.npmjs.org/eternally-draw-plan-society

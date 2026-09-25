@@ -1,0 +1,24 @@
+# @iteris-temp/rn-rider
+
+> 标签: JavaScript
+
+## 简介
+
+Public React Native rider SDK for the Iteris Transit Apps Platform.
+
+## 官网
+
+- 源码仓库：https://github.com/hosam-hubspire/Iteris-Transit-Apps-Platform.git
+- npm 页面：https://www.npmjs.com/package/@iteris-temp/rn-rider
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @iteris-temp/rn-rider`
+- npm registry：https://registry.npmjs.org/@iteris-temp/rn-rider

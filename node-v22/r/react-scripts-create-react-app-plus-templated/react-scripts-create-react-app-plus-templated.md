@@ -1,0 +1,29 @@
+# react-scripts-create-react-app-plus-templated
+
+> 标签: JavaScript
+
+## 简介
+
+Configuration for an opinionated version of CRA that sets up a project with routing and folder structure.
+
+## 官网
+
+- 官网：https://github.com/KanishkVashisht/create-react-app#readme
+- 源码仓库：git+https://github.com/KanishkVashisht/create-react-app.git
+- npm 页面：https://www.npmjs.com/package/react-scripts-create-react-app-plus-templated
+
+## 历史版本号
+
+- 当前版本：0.0.5
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+
+## 获取地址
+
+- npm 安装：`npm install react-scripts-create-react-app-plus-templated`
+- npm registry：https://registry.npmjs.org/react-scripts-create-react-app-plus-templated
+- Node 要求：>=8.10

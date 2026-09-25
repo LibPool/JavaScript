@@ -1,0 +1,24 @@
+# @hy-app/mcp
+
+> 标签: components, hy-app, hy-design, mcp, model-context-protocol, uni-app
+
+## 简介
+
+华玥组件库(hy-app) MCP 服务器 - 为 AI 编辑器提供组件文档查询支持
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@hy-app/mcp
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @hy-app/mcp`
+- npm registry：https://registry.npmjs.org/@hy-app/mcp

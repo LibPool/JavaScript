@@ -1,0 +1,27 @@
+# claude-usage-rzp
+
+> 标签: anthropic, claude, cli, cost, tokens, usage
+
+## 简介
+
+View Claude Code API usage directly in your terminal
+
+## 官网
+
+- 官网：https://github.com/hamid-miran/claude-usage-cli#readme
+- 源码仓库：git+https://github.com/hamid-miran/claude-usage-cli.git
+- npm 页面：https://www.npmjs.com/package/claude-usage-rzp
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install claude-usage-rzp`
+- npm registry：https://registry.npmjs.org/claude-usage-rzp
+- Node 要求：>=18.0.0

@@ -1,0 +1,23 @@
+# @simplywarmup/mcp
+
+> 标签: email, mcp, model-context-protocol, simplywarmup, stdio, streamable-http
+
+## 简介
+
+Stdio bridge for the hosted SimplyWarmup MCP server.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@simplywarmup/mcp
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @simplywarmup/mcp`
+- npm registry：https://registry.npmjs.org/@simplywarmup/mcp
+- Node 要求：>=18

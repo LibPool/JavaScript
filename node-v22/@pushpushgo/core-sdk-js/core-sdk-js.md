@@ -1,0 +1,33 @@
+# @pushpushgo/core-sdk-js
+
+> 标签: JavaScript
+
+## 简介
+
+CORE by PushPushGo SDK for JavaScript / TypeScript - browser / server
+
+## 官网
+
+- 官网：https://github.com/ppgco/ppg-core-js-sdk#readme
+- 源码仓库：git+https://github.com/ppgco/ppg-core-js-sdk.git
+- npm 页面：https://www.npmjs.com/package/@pushpushgo/core-sdk-js
+
+## 历史版本号
+
+- 当前版本：0.0.10
+
+- 0.0.10
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @pushpushgo/core-sdk-js`
+- npm registry：https://registry.npmjs.org/@pushpushgo/core-sdk-js
+- Node 要求：>=14

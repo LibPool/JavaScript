@@ -1,0 +1,29 @@
+# confluence-to-notion
+
+> 标签: confluence, converter, migration, notion, wiki
+
+## 简介
+
+Auto-discover Confluence → Notion transformation rules using a multi-agent pipeline
+
+## 官网
+
+- 官网：https://github.com/let-sunny/confluence-to-notion#readme
+- 源码仓库：git+https://github.com/let-sunny/confluence-to-notion.git
+- npm 页面：https://www.npmjs.com/package/confluence-to-notion
+
+## 历史版本号
+
+- 当前版本：0.1.4
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+
+## 获取地址
+
+- npm 安装：`npm install confluence-to-notion`
+- npm registry：https://registry.npmjs.org/confluence-to-notion
+- Node 要求：>=20

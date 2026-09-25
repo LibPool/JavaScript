@@ -1,0 +1,26 @@
+# angry-pixel-math
+
+> 标签: JavaScript
+
+## 简介
+
+Basic math tools for Angry Pixel Engine
+
+## 官网
+
+- 官网：https://github.com/angry-pixel-studio/angry-pixel-math
+- 源码仓库：git+https://github.com/angry-pixel-studio/angry-pixel-math
+- npm 页面：https://www.npmjs.com/package/angry-pixel-math
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install angry-pixel-math`
+- npm registry：https://registry.npmjs.org/angry-pixel-math

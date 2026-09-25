@@ -1,0 +1,25 @@
+# strategy-game-engines
+
+> 标签: games, strategy
+
+## 简介
+
+Engines for strategy games
+
+## 官网
+
+- 官网：https://github.com/Holmes89/strategy-game-engines#readme
+- 源码仓库：git+https://github.com/Holmes89/strategy-game-engines.git
+- npm 页面：https://www.npmjs.com/package/strategy-game-engines
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install strategy-game-engines`
+- npm registry：https://registry.npmjs.org/strategy-game-engines

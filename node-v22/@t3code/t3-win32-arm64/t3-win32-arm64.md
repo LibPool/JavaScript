@@ -1,0 +1,36 @@
+# @t3code/t3-win32-arm64
+
+> 标签: JavaScript
+
+## 简介
+
+T3 Code CLI executable for win32-arm64
+
+## 官网
+
+- 官网：https://github.com/pingdotgg/t3code#readme
+- 源码仓库：git+https://github.com/pingdotgg/t3code.git
+- npm 页面：https://www.npmjs.com/package/@t3code/t3-win32-arm64
+
+## 历史版本号
+
+- 当前版本：0.0.42
+
+- 0.0.43-nightly.20260923.2173
+- 0.0.43-nightly.20260924.2187
+- 0.0.43-nightly.20260924.2200
+- 0.0.43-nightly.20260924.2213
+- 0.0.43-preview.20260917.1883
+- 0.0.43-preview.20260918.1887
+- 0.0.43-preview.20260919.1937
+- 0.0.43-preview.20260919.1946
+- 0.0.43-preview.20260919.1974
+- 0.0.43-preview.20260921.2045
+- 0.0.43-preview.20260923.2138
+- 0.0.43-preview.20260923.2177
+- 共 54 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @t3code/t3-win32-arm64`
+- npm registry：https://registry.npmjs.org/@t3code/t3-win32-arm64

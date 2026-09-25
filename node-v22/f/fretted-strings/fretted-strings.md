@@ -1,0 +1,28 @@
+# fretted-strings
+
+> 标签: string
+
+## 简介
+
+Mark on your strings and get it's position
+
+## 官网
+
+- 官网：https://github.com/Quramy/fretted-strings#readme
+- 源码仓库：git+https://github.com/Quramy/fretted-strings.git
+- npm 页面：https://www.npmjs.com/package/fretted-strings
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.0.0
+- 1.0.0-alpha.1
+- 1.0.1
+- 2.0.0
+- 2.0.0-alpha.0
+
+## 获取地址
+
+- npm 安装：`npm install fretted-strings`
+- npm registry：https://registry.npmjs.org/fretted-strings

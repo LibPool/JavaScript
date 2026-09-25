@@ -1,0 +1,24 @@
+# @flex-development/strip-ansi
+
+> 标签: 256, ansi, cli, color, colors, command-line, console, escape, formatting, log, logging, remove, rgb, shell, strip, styles, terminal, text, trim, tty, xterm
+
+## 简介
+
+Remove ANSI escape codes
+
+## 官网
+
+- 官网：https://github.com/flex-development/strip-ansi
+- 源码仓库：git+https://github.com/flex-development/strip-ansi.git
+- npm 页面：https://www.npmjs.com/package/@flex-development/strip-ansi
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @flex-development/strip-ansi`
+- npm registry：https://registry.npmjs.org/@flex-development/strip-ansi

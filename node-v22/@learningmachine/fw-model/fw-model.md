@@ -1,0 +1,22 @@
+# @learningmachine/fw-model
+
+> 标签: JavaScript
+
+## 简介
+
+a package for handling models with decorators. Also provides "form" bindings with simple validation rules that can be applied.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@learningmachine/fw-model
+
+## 历史版本号
+
+- 当前版本：0.3.6
+
+- 0.3.6
+
+## 获取地址
+
+- npm 安装：`npm install @learningmachine/fw-model`
+- npm registry：https://registry.npmjs.org/@learningmachine/fw-model

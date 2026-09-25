@@ -1,0 +1,29 @@
+# n8n-nodes-frameline
+
+> 标签: frameline, image-generation, n8n-community-node-package, render, template
+
+## 简介
+
+n8n community node for Frameline — render design templates to PNG, JPEG or PDF from a workflow.
+
+## 官网
+
+- 官网：https://github.com/Techtiz/n8n-nodes-frameline#readme
+- 源码仓库：git+https://github.com/Techtiz/n8n-nodes-frameline.git
+- npm 页面：https://www.npmjs.com/package/n8n-nodes-frameline
+
+## 历史版本号
+
+- 当前版本：0.1.4
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+
+## 获取地址
+
+- npm 安装：`npm install n8n-nodes-frameline`
+- npm registry：https://registry.npmjs.org/n8n-nodes-frameline
+- Node 要求：>=20.15

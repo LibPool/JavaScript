@@ -1,0 +1,36 @@
+# eslint-config-weseek
+
+> 标签: airbnb, config, ecmascript, eslint, eslintconfig, javascript, typescript
+
+## 简介
+
+Shareable configurations of ESLint by WESEEK, Inc. based on eslint-config-airbnb.
+
+## 官网
+
+- 官网：https://github.com/airbnb/javascript
+- 源码仓库：git+https://github.com/weseek/eslint-config-weseek.git
+- npm 页面：https://www.npmjs.com/package/eslint-config-weseek
+
+## 历史版本号
+
+- 当前版本：2.1.1
+
+- 1.0.14
+- 1.0.15
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.8
+- 1.1.0
+- 2.0.0
+- 2.1.0
+- 2.1.1
+
+## 获取地址
+
+- npm 安装：`npm install eslint-config-weseek`
+- npm registry：https://registry.npmjs.org/eslint-config-weseek
+- Node 要求：>= 4

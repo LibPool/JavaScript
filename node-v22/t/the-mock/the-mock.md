@@ -1,0 +1,28 @@
+# the-mock
+
+> 标签: API, REST, data, dummy, fake, front-end, mock, mocking, server, test, testing
+
+## 简介
+
+Create & Delete RESTful API End-Points dynamically from a deployed the-mock server
+
+## 官网
+
+- 官网：https://github.com/omarsalim1992/the-mock#readme
+- 源码仓库：git+https://github.com/omarsalim1992/the-mock.git
+- npm 页面：https://www.npmjs.com/package/the-mock
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install the-mock`
+- npm registry：https://registry.npmjs.org/the-mock

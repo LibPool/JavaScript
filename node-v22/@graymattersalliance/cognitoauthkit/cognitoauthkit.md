@@ -1,0 +1,25 @@
+# @graymattersalliance/cognitoauthkit
+
+> 标签: JavaScript
+
+## 简介
+
+AWS Cognito helpers for Node/Express (sign-in, MFA, tokens) by Thomas Woodfin
+
+## 官网
+
+- 官网：https://github.com/ThomasWDev/CognitoAuthKit
+- 源码仓库：git+https://github.com/ThomasWDev/CognitoAuthKit.git
+- npm 页面：https://www.npmjs.com/package/@graymattersalliance/cognitoauthkit
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @graymattersalliance/cognitoauthkit`
+- npm registry：https://registry.npmjs.org/@graymattersalliance/cognitoauthkit

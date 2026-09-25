@@ -1,0 +1,25 @@
+# @pake/whatsapp-api-js
+
+> 标签: api, bot, bot-api, bot-framework, bun, business-api, chatbot, cloud, cloud-api, deno, framework, nodejs, server-agnostic, typescript, whatsapp, whatsapp-api, whatsapp-bot, whatsapp-business, whatsapp-business-api, whatsapp-cloud, whatsapp-cloud-api
+
+## 简介
+
+A TypeScript server agnostic Whatsapp's Official API framework
+
+## 官网
+
+- 官网：https://github.com/Secreto31126/whatsapp-api-js#readme
+- 源码仓库：git+https://github.com/Secreto31126/whatsapp-api-js.git
+- npm 页面：https://www.npmjs.com/package/@pake/whatsapp-api-js
+
+## 历史版本号
+
+- 当前版本：3.0.0
+
+- 3.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @pake/whatsapp-api-js`
+- npm registry：https://registry.npmjs.org/@pake/whatsapp-api-js
+- Node 要求：>=16

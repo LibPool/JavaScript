@@ -1,0 +1,29 @@
+# anonydb
+
+> 标签: anony database, anony db, anony-db, anonydb, database, db, db.txt, text database, text file database, txt, txt database, txt file database, txt-db, txtdb, txtfile database, txtfile-database, txtfile-db, txtfiledb
+
+## 简介
+
+This awesome database package was created by Anonydiamond
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/anonydb
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.0.0
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install anonydb`
+- npm registry：https://registry.npmjs.org/anonydb

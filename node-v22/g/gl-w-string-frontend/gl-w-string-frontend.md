@@ -1,0 +1,35 @@
+# gl-w-string-frontend
+
+> 标签: front-end, javascript tool, pure javascript, string, string tool, typescript tool
+
+## 简介
+
+Common code for using among web front-end development such as ES6+ and TypeScript
+
+## 官网
+
+- 官网：https://www.glauciosantana.com
+- 源码仓库：git+https://github.com/glaucioleonardo/gl-w-frontend.git
+- npm 页面：https://www.npmjs.com/package/gl-w-string-frontend
+
+## 历史版本号
+
+- 当前版本：6.3.1
+
+- 3.0.1
+- 4.0.0
+- 5.0.0
+- 5.0.1
+- 6.0.0
+- 6.0.1
+- 6.1.0
+- 6.2.0
+- 6.2.1
+- 6.2.2
+- 6.3.0
+- 6.3.1
+
+## 获取地址
+
+- npm 安装：`npm install gl-w-string-frontend`
+- npm registry：https://registry.npmjs.org/gl-w-string-frontend

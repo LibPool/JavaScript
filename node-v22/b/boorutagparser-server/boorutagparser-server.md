@@ -1,0 +1,25 @@
+# boorutagparser-server
+
+> 标签: booru, hydrus, image, parser, server, tagging
+
+## 简介
+
+Saves requests from github.com/jetboom/boorutagparser as file/tag list pairs for extremely easy bulk import of tagged items in to Hydrus Network.
+
+## 官网
+
+- 官网：https://github.com/jetboom/boorutagparser-server#readme
+- 源码仓库：git+https://github.com/jetboom/boorutagparser-server.git
+- npm 页面：https://www.npmjs.com/package/boorutagparser-server
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install boorutagparser-server`
+- npm registry：https://registry.npmjs.org/boorutagparser-server

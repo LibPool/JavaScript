@@ -1,0 +1,29 @@
+# picomatch-browser
+
+> 标签: glob, match, picomatch
+
+## 简介
+
+(temporary fork of picomatch) Blazing fast and accurate glob matcher written in JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular expressions.
+
+## 官网
+
+- 官网：https://github.com/acao/picomatch
+- 源码仓库：git+https://github.com/micromatch/picomatch.git
+- npm 页面：https://www.npmjs.com/package/picomatch-browser
+
+## 历史版本号
+
+- 当前版本：2.2.6
+
+- 2.2.2
+- 2.2.3
+- 2.2.4
+- 2.2.5
+- 2.2.6
+
+## 获取地址
+
+- npm 安装：`npm install picomatch-browser`
+- npm registry：https://registry.npmjs.org/picomatch-browser
+- Node 要求：>=8.6

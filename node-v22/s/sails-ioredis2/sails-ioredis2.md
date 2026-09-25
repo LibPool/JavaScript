@@ -1,0 +1,29 @@
+# sails-ioredis2
+
+> 标签: adapter, cache, redis, sails, sails.js, sailsjs, waterline
+
+## 简介
+
+A lightweight Redis adapter for Sails / Node.js apps.  Useful for caching.
+
+## 官网
+
+- 官网：https://github.com/visitsb/sails-ioredis#readme
+- 源码仓库：git+https://github.com/visitsb/sails-ioredis.git
+- npm 页面：https://www.npmjs.com/package/sails-ioredis2
+
+## 历史版本号
+
+- 当前版本：1.1.5
+
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.1.5
+
+## 获取地址
+
+- npm 安装：`npm install sails-ioredis2`
+- npm registry：https://registry.npmjs.org/sails-ioredis2
+- Node 要求：^13.0
