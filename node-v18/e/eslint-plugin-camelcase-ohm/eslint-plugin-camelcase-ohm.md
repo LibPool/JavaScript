@@ -1,0 +1,26 @@
+# eslint-plugin-camelcase-ohm
+
+> 标签: eslint, extension, node, path, plugin, require
+
+## 简介
+
+An ESLint plugin that extends the built-in camelcase rule to allow underscores in semantic action names.
+
+## 官网
+
+- 官网：https://github.com/ohmlang/eslint-plugin-camelcase-ohm
+- 源码仓库：git+https://github.com/ohmlang/eslint-plugin-camelcase-ohm.git
+- npm 页面：https://www.npmjs.com/package/eslint-plugin-camelcase-ohm
+
+## 历史版本号
+
+- 当前版本：0.2.1
+
+- 0.1.0
+- 0.2.0
+- 0.2.1
+
+## 获取地址
+
+- npm 安装：`npm install eslint-plugin-camelcase-ohm`
+- npm registry：https://registry.npmjs.org/eslint-plugin-camelcase-ohm

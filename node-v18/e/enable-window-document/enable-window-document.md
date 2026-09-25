@@ -1,0 +1,33 @@
+# enable-window-document
+
+> 标签: browser, compatibility, document, window
+
+## 简介
+
+Enables "window" and "document" globals so browser code does not throw errors in Node. Built with JSDOM.
+
+## 官网
+
+- 官网：https://github.com/TeleworkInc/enable-window-document#readme
+- 源码仓库：git+https://github.com/TeleworkInc/enable-window-document.git
+- npm 页面：https://www.npmjs.com/package/enable-window-document
+
+## 历史版本号
+
+- 当前版本：1.19.0
+
+- 1.13.0
+- 1.15.0
+- 1.17.0
+- 1.19.0
+- 1.2.0
+- 1.3.0
+- 1.4.0
+- 1.5.0
+- 1.6.0
+- 1.7.0
+
+## 获取地址
+
+- npm 安装：`npm install enable-window-document`
+- npm registry：https://registry.npmjs.org/enable-window-document

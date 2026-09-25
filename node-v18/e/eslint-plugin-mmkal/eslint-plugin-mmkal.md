@@ -1,0 +1,36 @@
+# eslint-plugin-mmkal
+
+> 标签: JavaScript
+
+## 简介
+
+My eslint plugin with rules I find good. If you aren't me you probably shouldn't use this.
+
+## 官网
+
+- 官网：https://github.com/mmkal/eslint-plugin-mmkal#readme
+- 源码仓库：git+https://github.com/mmkal/eslint-plugin-mmkal.git
+- npm 页面：https://www.npmjs.com/package/eslint-plugin-mmkal
+
+## 历史版本号
+
+- 当前版本：0.11.3
+
+- 0.5.0
+- 0.5.1
+- 0.6.0
+- 0.7.0
+- 0.7.0-0
+- 0.7.0-1
+- 0.7.0-2
+- 0.7.0-3
+- 0.7.0-4
+- 0.7.0-5
+- 0.8.0
+- 0.9.0
+
+## 获取地址
+
+- npm 安装：`npm install eslint-plugin-mmkal`
+- npm registry：https://registry.npmjs.org/eslint-plugin-mmkal
+- Node 要求：>=18

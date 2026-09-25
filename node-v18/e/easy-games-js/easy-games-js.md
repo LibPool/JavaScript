@@ -1,0 +1,28 @@
+# easy-games-js
+
+> 标签: JavaScript
+
+## 简介
+
+This package is coded by Tovade#0001. Please do not steal this package or recreate it!
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/easy-games-js
+
+## 历史版本号
+
+- 当前版本：1.2.1
+
+- 1.0.0
+- 1.0.1
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.2.0
+- 1.2.1
+
+## 获取地址
+
+- npm 安装：`npm install easy-games-js`
+- npm registry：https://registry.npmjs.org/easy-games-js

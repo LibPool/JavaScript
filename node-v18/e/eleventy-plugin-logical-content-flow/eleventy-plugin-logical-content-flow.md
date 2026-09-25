@@ -1,0 +1,25 @@
+# eleventy-plugin-logical-content-flow
+
+> 标签: eleventy, eleventy-plugin
+
+## 简介
+
+An Eleventy linter plugin to check for issues with the Logical Content Flow of the heading elements on your site.
+
+## 官网
+
+- 官网：https://github.com/workeffortwaste/eleventy-plugin-logical-content-flow/
+- 源码仓库：git+https://github.com/workeffortwaste/eleventy-plugin-logical-content-flow.git
+- npm 页面：https://www.npmjs.com/package/eleventy-plugin-logical-content-flow
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install eleventy-plugin-logical-content-flow`
+- npm registry：https://registry.npmjs.org/eleventy-plugin-logical-content-flow

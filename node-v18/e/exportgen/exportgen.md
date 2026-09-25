@@ -1,0 +1,29 @@
+# exportgen
+
+> 标签: generator, index.js
+
+## 简介
+
+Generate an `index.js` file for each directory containing source code in a module
+
+## 官网
+
+- 官网：https://github.com/voidvoxel/exportgen#readme
+- 源码仓库：git+https://github.com/voidvoxel/exportgen.git
+- npm 页面：https://www.npmjs.com/package/exportgen
+
+## 历史版本号
+
+- 当前版本：0.1.5
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+
+## 获取地址
+
+- npm 安装：`npm install exportgen`
+- npm registry：https://registry.npmjs.org/exportgen

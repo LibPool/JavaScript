@@ -1,0 +1,34 @@
+# electron-packager-interactive
+
+> 标签: electron, linux, osx, package, win
+
+## 简介
+
+An interactive implementation of electron-packager
+
+## 官网
+
+- 官网：https://github.com/Urucas/electron-packager-interactive#readme
+- 源码仓库：git+https://github.com/Urucas/electron-packager-interactive.git
+- npm 页面：https://www.npmjs.com/package/electron-packager-interactive
+
+## 历史版本号
+
+- 当前版本：0.1.3
+
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.7
+- 0.0.8
+- 0.0.9
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+
+## 获取地址
+
+- npm 安装：`npm install electron-packager-interactive`
+- npm registry：https://registry.npmjs.org/electron-packager-interactive

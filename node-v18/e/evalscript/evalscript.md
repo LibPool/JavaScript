@@ -1,0 +1,35 @@
+# evalscript
+
+> 标签: Compiler, EvalScript, JavaScript, Language, Parser, Rewrite
+
+## 简介
+
+Funny* language compiling into JavaScript
+
+## 官网
+
+- 官网：https://github.com/kocisov/evalscript#readme
+- 源码仓库：git+https://github.com/kocisov/evalscript.git
+- npm 页面：https://www.npmjs.com/package/evalscript
+
+## 历史版本号
+
+- 当前版本：0.0.8
+
+- 0.3.4
+- 0.4.0
+- 0.4.1
+- 0.4.3
+- 0.4.5
+- 0.4.6
+- 0.4.7
+- 0.4.8
+- 0.4.9
+- 0.5.0
+- 0.5.1
+- 0.5.1-latest
+
+## 获取地址
+
+- npm 安装：`npm install evalscript`
+- npm registry：https://registry.npmjs.org/evalscript

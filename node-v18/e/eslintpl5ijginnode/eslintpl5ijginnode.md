@@ -1,0 +1,23 @@
+# eslintpl5ijginnode
+
+> 标签: JavaScript
+
+## 简介
+
+security holding package
+
+## 官网
+
+- 源码仓库：npm/security-holder
+- npm 页面：https://www.npmjs.com/package/eslintpl5ijginnode
+
+## 历史版本号
+
+- 当前版本：0.0.1-security.2
+
+- 0.0.1-security.2
+
+## 获取地址
+
+- npm 安装：`npm install eslintpl5ijginnode`
+- npm registry：https://registry.npmjs.org/eslintpl5ijginnode

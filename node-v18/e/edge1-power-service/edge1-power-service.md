@@ -1,0 +1,24 @@
+# edge1-power-service
+
+> 标签: JavaScript
+
+## 简介
+
+Edge1 micro service for thermal & power management
+
+## 官网
+
+- 官网：https://github.com/Skycatch/edge1-power-service#readme
+- 源码仓库：git+https://github.com/Skycatch/edge1-power-service.git
+- npm 页面：https://www.npmjs.com/package/edge1-power-service
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install edge1-power-service`
+- npm registry：https://registry.npmjs.org/edge1-power-service

@@ -1,0 +1,25 @@
+# es-sifter
+
+> 标签: autocomplete, data, filter, match, results, search, sift, sort
+
+## 简介
+
+A library for textually searching arrays and hashes of objects by property (or multiple properties). Designed specifically for autocomplete.
+
+## 官网
+
+- 官网：https://github.com/brianreavis/sifter.js#readme
+- 源码仓库：git://github.com/brianreavis/sifter.js.git
+- npm 页面：https://www.npmjs.com/package/es-sifter
+
+## 历史版本号
+
+- 当前版本：0.5.2
+
+- 0.5.2
+
+## 获取地址
+
+- npm 安装：`npm install es-sifter`
+- npm registry：https://registry.npmjs.org/es-sifter
+- Node 要求：*

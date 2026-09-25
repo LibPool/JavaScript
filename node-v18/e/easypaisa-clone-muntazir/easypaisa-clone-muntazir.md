@@ -1,0 +1,26 @@
+# easypaisa-clone-muntazir
+
+> 标签: JavaScript
+
+## 简介
+
+An esaypaisa clone made by using Typescript.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/easypaisa-clone-muntazir
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install easypaisa-clone-muntazir`
+- npm registry：https://registry.npmjs.org/easypaisa-clone-muntazir

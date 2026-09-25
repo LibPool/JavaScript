@@ -1,0 +1,34 @@
+# eslint-config-jw397
+
+> 标签: eslint, jw
+
+## 简介
+
+规则详见官网：http://eslint.org/docs/rules
+
+## 官网
+
+- 官网：https://github.com/jiawei397/eslint-config-jw#readme
+- 源码仓库：git+https://github.com/jiawei397/eslint-config-jw.git
+- npm 页面：https://www.npmjs.com/package/eslint-config-jw397
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install eslint-config-jw397`
+- npm registry：https://registry.npmjs.org/eslint-config-jw397

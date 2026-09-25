@@ -1,0 +1,24 @@
+# ebml-json
+
+> 标签: ebml, json
+
+## 简介
+
+organizes the ebml tags in a json structure
+
+## 官网
+
+- 官网：https://github.com/Morgas01/ebml-json#readme
+- 源码仓库：git+https://github.com/Morgas01/ebml-json.git
+- npm 页面：https://www.npmjs.com/package/ebml-json
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install ebml-json`
+- npm registry：https://registry.npmjs.org/ebml-json

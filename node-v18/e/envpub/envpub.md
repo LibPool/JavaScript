@@ -1,0 +1,27 @@
+# envpub
+
+> 标签: .env, .envpub, config, dotenv, env, environment, envpub, settings, variables
+
+## 简介
+
+a configurable local environment to connect to a remote one
+
+## 官网
+
+- 官网：https://github.com/damiandennis/envpub
+- 源码仓库：git+https://github.com/damiandennis/envpub.git
+- npm 页面：https://www.npmjs.com/package/envpub
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install envpub`
+- npm registry：https://registry.npmjs.org/envpub
+- Node 要求：>=16

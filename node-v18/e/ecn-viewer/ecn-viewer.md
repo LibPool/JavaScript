@@ -1,0 +1,26 @@
+# ecn-viewer
+
+> 标签: JavaScript
+
+## 简介
+
+Edgeworx ioFog Edge Cloud Network Viewer project  \\nCopyright (c) 2019 Edgeworx, Inc.
+
+## 官网
+
+- 官网：https://github.com/Edgeworx/ECN-viewer#readme
+- 源码仓库：git+https://github.com/Edgeworx/ECN-viewer.git
+- npm 页面：https://www.npmjs.com/package/ecn-viewer
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install ecn-viewer`
+- npm registry：https://registry.npmjs.org/ecn-viewer

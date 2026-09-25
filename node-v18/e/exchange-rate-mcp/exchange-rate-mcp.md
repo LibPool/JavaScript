@@ -1,0 +1,24 @@
+# exchange-rate-mcp
+
+> 标签: JavaScript
+
+## 简介
+
+💱 Real-time Exchange Rate Tool for AI Agents (Built with Model Context Protocol)
+
+## 官网
+
+- 官网：https://github.com/NotNull92/exchange-rate-mcp#readme
+- 源码仓库：git+https://github.com/NotNull92/exchange-rate-mcp.git
+- npm 页面：https://www.npmjs.com/package/exchange-rate-mcp
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install exchange-rate-mcp`
+- npm registry：https://registry.npmjs.org/exchange-rate-mcp

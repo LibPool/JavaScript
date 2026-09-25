@@ -1,0 +1,36 @@
+# ern-runner-gen-android
+
+> 标签: android, electrode, ern, node, react-native, runner
+
+## 简介
+
+Electrode Native Runner Generator for Android
+
+## 官网
+
+- 官网：https://www.electrode.io
+- 源码仓库：git+https://github.com/electrode-io/electrode-native.git
+- npm 页面：https://www.npmjs.com/package/ern-runner-gen-android
+
+## 历史版本号
+
+- 当前版本：0.54.2
+
+- 0.52.1
+- 0.53.0
+- 0.53.1
+- 0.53.2
+- 0.53.3
+- 0.53.4
+- 0.53.5
+- 0.53.6
+- 0.53.7
+- 0.54.0
+- 0.54.1
+- 0.54.2
+- 共 158 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install ern-runner-gen-android`
+- npm registry：https://registry.npmjs.org/ern-runner-gen-android
