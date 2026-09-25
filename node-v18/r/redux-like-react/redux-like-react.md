@@ -1,0 +1,35 @@
+# redux-like-react
+
+> 标签: react, redux, redux-like, state-management, state-manager, store
+
+## 简介
+
+This is my basic Redux implementation. It is not intended to be used as a production-ready library, but rather as a learning tool.
+
+## 官网
+
+- 官网：https://github.com/AbdelrhmanAmin/Redux-like#readme
+- 源码仓库：git+https://github.com/AbdelrhmanAmin/Redux-like.git
+- npm 页面：https://www.npmjs.com/package/redux-like-react
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 0.0.13
+- 0.0.15
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install redux-like-react`
+- npm registry：https://registry.npmjs.org/redux-like-react

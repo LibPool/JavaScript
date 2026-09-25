@@ -1,0 +1,34 @@
+# react-navigation-controller
+
+> 标签: react, react-component
+
+## 简介
+
+React view manager similar to UINavigationController
+
+## 官网
+
+- 官网：https://github.com/aputinski/react-navigation-controller#readme
+- 源码仓库：git+ssh://git@github.com/aputinski/react-navigation-controller.git
+- npm 页面：https://www.npmjs.com/package/react-navigation-controller
+
+## 历史版本号
+
+- 当前版本：3.1.1
+
+- 1.0.1
+- 1.0.2
+- 2.0.0
+- 2.1.0
+- 2.1.1
+- 3.0.0
+- 3.0.1
+- 3.0.2
+- 3.1.0
+- 3.1.1
+- 4.0.0-beta.1
+
+## 获取地址
+
+- npm 安装：`npm install react-navigation-controller`
+- npm registry：https://registry.npmjs.org/react-navigation-controller

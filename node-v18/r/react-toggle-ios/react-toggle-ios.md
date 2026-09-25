@@ -1,0 +1,27 @@
+# react-toggle-ios
+
+> 标签: react, react-component, switch, toggle
+
+## 简介
+
+React switch component
+
+## 官网
+
+- 官网：https://github.com/clari/react-ios-switch#readme
+- 源码仓库：git+https://github.com/clari/react-ios-switch.git
+- npm 页面：https://www.npmjs.com/package/react-toggle-ios
+
+## 历史版本号
+
+- 当前版本：0.1.22
+
+- 0.1.19
+- 0.1.20
+- 0.1.21
+- 0.1.22
+
+## 获取地址
+
+- npm 安装：`npm install react-toggle-ios`
+- npm registry：https://registry.npmjs.org/react-toggle-ios

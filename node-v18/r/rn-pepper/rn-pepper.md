@@ -1,0 +1,28 @@
+# rn-pepper
+
+> 标签: JavaScript
+
+## 简介
+
+Clone project for react-native paper
+
+## 官网
+
+- 官网：https://github.com/jiiinCho/rn-pepper#readme
+- 源码仓库：git+https://github.com/jiiinCho/rn-pepper.git
+- npm 页面：https://www.npmjs.com/package/rn-pepper
+
+## 历史版本号
+
+- 当前版本：1.1.4
+
+- 1.0.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.1.4
+
+## 获取地址
+
+- npm 安装：`npm install rn-pepper`
+- npm registry：https://registry.npmjs.org/rn-pepper

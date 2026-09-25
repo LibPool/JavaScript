@@ -1,0 +1,22 @@
+# rooritm.js
+
+> 标签: rooritm
+
+## 简介
+
+rooritm.js
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/rooritm.js
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install rooritm.js`
+- npm registry：https://registry.npmjs.org/rooritm.js

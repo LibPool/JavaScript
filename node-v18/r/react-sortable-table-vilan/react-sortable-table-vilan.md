@@ -1,0 +1,24 @@
+# react-sortable-table-vilan
+
+> 标签: react, react-component, sortable, table
+
+## 简介
+
+sortable table component in React.js
+
+## 官网
+
+- 官网：https://github.com/Rudolph-Miller/react-sortable-table#readme
+- 源码仓库：git://github.com/Rudolph-Miller/react-sortable-table.git
+- npm 页面：https://www.npmjs.com/package/react-sortable-table-vilan
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install react-sortable-table-vilan`
+- npm registry：https://registry.npmjs.org/react-sortable-table-vilan

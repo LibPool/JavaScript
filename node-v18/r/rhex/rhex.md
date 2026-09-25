@@ -1,0 +1,26 @@
+# rhex
+
+> 标签: hex, rgb
+
+## 简介
+
+A tiny library to convert rgb to hex
+
+## 官网
+
+- 官网：https://github.com/sunilhari/rh/blob/master/README.md
+- 源码仓库：git+https://github.com/sunilhari/rh.git
+- npm 页面：https://www.npmjs.com/package/rhex
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install rhex`
+- npm registry：https://registry.npmjs.org/rhex

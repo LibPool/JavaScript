@@ -1,0 +1,24 @@
+# regressing-hour-everyone-solve
+
+> 标签: package-manager, regressing-hour-everyone-solve
+
+## 简介
+
+Regressing Hour Everyone Solve - This function is used to convert multiple words into an interesting sentence containing the word Regressing Hour Everyone Solve.
+
+## 官网
+
+- 官网：https://github.com/npmtea2024/regressing-hour-everyone-solve#readme
+- 源码仓库：git+https://github.com/npmtea2024/regressing-hour-everyone-solve.git
+- npm 页面：https://www.npmjs.com/package/regressing-hour-everyone-solve
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install regressing-hour-everyone-solve`
+- npm registry：https://registry.npmjs.org/regressing-hour-everyone-solve

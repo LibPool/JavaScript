@@ -1,0 +1,31 @@
+# rotala-theme-default-light
+
+> 标签: UI, UX, css, framework, rotala, rotala-extension, rotala-theme
+
+## 简介
+
+a light theme for rotala.css framework
+
+## 官网
+
+- 官网：https://github.com/daiyanze/rotala#readme
+- 源码仓库：git+https://github.com/daiyanze/rotala.git
+- npm 页面：https://www.npmjs.com/package/rotala-theme-default-light
+
+## 历史版本号
+
+- 当前版本：0.0.7
+
+- 0.0.1-alpha.0
+- 0.0.1-alpha.4
+- 0.0.1-alpha.5
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+
+## 获取地址
+
+- npm 安装：`npm install rotala-theme-default-light`
+- npm registry：https://registry.npmjs.org/rotala-theme-default-light

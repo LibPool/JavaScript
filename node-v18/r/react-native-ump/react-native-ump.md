@@ -1,0 +1,25 @@
+# react-native-ump
+
+> 标签: admanager, admob, cmp, funding choices, google, react-native, ump
+
+## 简介
+
+A React Native component for Google User Messaging Platform SDK (Funding Choices)
+
+## 官网
+
+- 官网：https://github.com/mondadori-digital/react-native-ump#readme
+- 源码仓库：git+https://github.com/mondadori-digital/react-native-ump.git
+- npm 页面：https://www.npmjs.com/package/react-native-ump
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install react-native-ump`
+- npm registry：https://registry.npmjs.org/react-native-ump

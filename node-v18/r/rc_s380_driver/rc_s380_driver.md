@@ -1,0 +1,30 @@
+# rc_s380_driver
+
+> 标签: JavaScript
+
+## 简介
+
+PaSoRi RC-S380 Driver for WebUSB
+
+## 官网
+
+- 官网：https://github.com/aruneko/WebUSB-RC-S380#readme
+- 源码仓库：git+https://github.com/aruneko/WebUSB-RC-S380.git
+- npm 页面：https://www.npmjs.com/package/rc_s380_driver
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install rc_s380_driver`
+- npm registry：https://registry.npmjs.org/rc_s380_driver

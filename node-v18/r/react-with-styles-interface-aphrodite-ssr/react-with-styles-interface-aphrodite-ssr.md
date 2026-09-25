@@ -1,0 +1,24 @@
+# react-with-styles-interface-aphrodite-ssr
+
+> 标签: aphrodite-ssr, react-with-styles
+
+## 简介
+
+react-with-styles interface for Aphrodite
+
+## 官网
+
+- 官网：https://github.com/airbnb/react-with-styles-interface-aphrodite#readme
+- 源码仓库：git+https://github.com/godronus/react-with-styles-interface-aphrodite.git
+- npm 页面：https://www.npmjs.com/package/react-with-styles-interface-aphrodite-ssr
+
+## 历史版本号
+
+- 当前版本：6.0.1-ssr-1
+
+- 6.0.1-ssr-1
+
+## 获取地址
+
+- npm 安装：`npm install react-with-styles-interface-aphrodite-ssr`
+- npm registry：https://registry.npmjs.org/react-with-styles-interface-aphrodite-ssr

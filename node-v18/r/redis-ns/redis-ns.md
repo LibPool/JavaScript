@@ -1,0 +1,27 @@
+# redis-ns
+
+> 标签: namespace, ns, redis
+
+## 简介
+
+This module enables you to create Redis namespaces.
+
+## 官网
+
+- 官网：https://github.com/nosco/redis-ns
+- 源码仓库：http://github.com/nosco/redis-ns.git
+- npm 页面：https://www.npmjs.com/package/redis-ns
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.0
+- 0.1.1
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install redis-ns`
+- npm registry：https://registry.npmjs.org/redis-ns
+- Node 要求：>=0.8.0

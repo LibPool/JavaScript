@@ -1,0 +1,35 @@
+# realm-orm
+
+> 标签: JavaScript
+
+## 简介
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Coverage/95a92109f4aa428ca891e2a9fab1219f)](https://app.codacy.com/gh/artis-auxilium/realm-orm/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_coverage) [![Codacy Badge](htt
+
+## 官网
+
+- 官网：https://github.com/artis-auxilium/realm-orm#readme
+- 源码仓库：git+https://github.com/artis-auxilium/realm-orm.git
+- npm 页面：https://www.npmjs.com/package/realm-orm
+
+## 历史版本号
+
+- 当前版本：4.0.0
+
+- 1.0.7
+- 2.0.0
+- 2.0.1
+- 2.0.2
+- 2.0.3
+- 3.0.0
+- 3.0.0-beta.1
+- 3.0.1
+- 3.0.2
+- 3.0.3
+- 3.1.0
+- 4.0.0
+
+## 获取地址
+
+- npm 安装：`npm install realm-orm`
+- npm registry：https://registry.npmjs.org/realm-orm

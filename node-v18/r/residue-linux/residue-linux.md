@@ -1,0 +1,35 @@
+# residue-linux
+
+> 标签: linux, logging-server, realtime, residue
+
+## 简介
+
+Residue server daemon (Linux)
+
+## 官网
+
+- 官网：https://github.com/muflihun/residue
+- 源码仓库：git+ssh://git@github.com/muflihun/residue.git
+- npm 页面：https://www.npmjs.com/package/residue-linux
+
+## 历史版本号
+
+- 当前版本：2.3.5
+
+- 2.0.0-1
+- 2.1.0
+- 2.1.0-1
+- 2.1.0-2
+- 2.1.1
+- 2.2.1
+- 2.3.0-1
+- 2.3.1
+- 2.3.2
+- 2.3.3
+- 2.3.4-1
+- 2.3.5
+
+## 获取地址
+
+- npm 安装：`npm install residue-linux`
+- npm registry：https://registry.npmjs.org/residue-linux

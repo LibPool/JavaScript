@@ -1,0 +1,24 @@
+# react-native-doorbell
+
+> 标签: react-native
+
+## 简介
+
+Unofficial Doorbell.io SDK wrapper for react-native
+
+## 官网
+
+- 官网：https://github.com/davidgovea/react-native-doorbell
+- 源码仓库：git+https://github.com/davidgovea/react-native-doorbell.git
+- npm 页面：https://www.npmjs.com/package/react-native-doorbell
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install react-native-doorbell`
+- npm registry：https://registry.npmjs.org/react-native-doorbell

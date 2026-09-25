@@ -1,0 +1,35 @@
+# rxan-core
+
+> 标签: animation, reactive, rx, rxan, rxjs, ui
+
+## 简介
+
+Core library for rxan (rxjs animation)
+
+## 官网
+
+- 官网：https://github.com/Ailrun/rxan-core#readme
+- 源码仓库：git+https://github.com/Ailrun/rxan-core.git
+- npm 页面：https://www.npmjs.com/package/rxan-core
+
+## 历史版本号
+
+- 当前版本：2.0.4
+
+- 1.2.0
+- 1.2.1
+- 1.3.0
+- 1.3.1
+- 2.0.0
+- 2.0.0-alpha.1
+- 2.0.0-alpha.3
+- 2.0.0-alpha.4
+- 2.0.0-alpha.5
+- 2.0.2
+- 2.0.3
+- 2.0.4
+
+## 获取地址
+
+- npm 安装：`npm install rxan-core`
+- npm registry：https://registry.npmjs.org/rxan-core

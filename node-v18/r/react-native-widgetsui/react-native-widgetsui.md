@@ -1,0 +1,33 @@
+# react-native-widgetsui
+
+> 标签: front-end, react, react-native, react-native widgets, react-native-UI
+
+## 简介
+
+<img src="https://www.qed42.com/sites/default/files/styles/featured_image/public/2018-11/react-native.png?itok=lj4A4r0I" alt="Getting started" />
+
+## 官网
+
+- 官网：https://github.com/AarizAnsari/React-Native-Widgets/tree/installation#readme
+- 源码仓库：git+https://github.com/AarizAnsari/React-Native-Widgets.git#installation
+- npm 页面：https://www.npmjs.com/package/react-native-widgetsui
+
+## 历史版本号
+
+- 当前版本：1.7.4
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 1.5.1
+- 1.6.1
+- 1.7.1
+- 1.7.2
+- 1.7.3
+- 1.7.4
+
+## 获取地址
+
+- npm 安装：`npm install react-native-widgetsui`
+- npm registry：https://registry.npmjs.org/react-native-widgetsui

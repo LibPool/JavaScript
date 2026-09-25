@@ -1,0 +1,23 @@
+# rectangle-drawer
+
+> 标签: ascii, drawing, rectangle, shapes
+
+## 简介
+
+Draw rectangle shapes using dots and dashes
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/rectangle-drawer
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install rectangle-drawer`
+- npm registry：https://registry.npmjs.org/rectangle-drawer

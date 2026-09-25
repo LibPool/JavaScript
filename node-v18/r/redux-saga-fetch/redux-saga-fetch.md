@@ -1,0 +1,32 @@
+# redux-saga-fetch
+
+> 标签: fetch, http, redux, redux-saga, request
+
+## 简介
+
+A saga that reduces http request duplication
+
+## 官网
+
+- 官网：https://github.com/dat2/redux-saga-fetch#readme
+- 源码仓库：git+https://github.com/dat2/redux-saga-fetch.git
+- npm 页面：https://www.npmjs.com/package/redux-saga-fetch
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.3
+- 0.2.4
+- 0.2.6
+- 0.2.7
+- 0.2.8
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install redux-saga-fetch`
+- npm registry：https://registry.npmjs.org/redux-saga-fetch

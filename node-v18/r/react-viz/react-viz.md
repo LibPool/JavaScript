@@ -1,0 +1,22 @@
+# react-viz
+
+> 标签: components, react, ui
+
+## 简介
+
+Composable visual components for handling data
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/react-viz
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install react-viz`
+- npm registry：https://registry.npmjs.org/react-viz

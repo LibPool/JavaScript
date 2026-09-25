@@ -1,0 +1,27 @@
+# react-native-toast-manager
+
+> 标签: local, notification, toast
+
+## 简介
+
+react-native-toast-manager - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/leanhtuan1994/react-native-toast-manager#readme
+- 源码仓库：git+ssh://git@github.com/leanhtuan1994/react-native-toast-manager.git
+- npm 页面：https://www.npmjs.com/package/react-native-toast-manager
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install react-native-toast-manager`
+- npm registry：https://registry.npmjs.org/react-native-toast-manager

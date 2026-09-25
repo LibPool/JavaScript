@@ -1,0 +1,22 @@
+# rpc-like
+
+> 标签: JavaScript
+
+## 简介
+
+A zero dependency rpc like helper to deal with communications between iframes、processes、workers.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/rpc-like
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install rpc-like`
+- npm registry：https://registry.npmjs.org/rpc-like

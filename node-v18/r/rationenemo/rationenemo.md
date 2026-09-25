@@ -1,0 +1,27 @@
+# rationenemo
+
+> 标签: JavaScript
+
+## 简介
+
+A SQL query builder based on knex with powerful TypeScript type support
+
+## 官网
+
+- 官网：https://github.com/MurphyNader/rationenemo.git
+- 源码仓库：git+https://github.com/MurphyNader/rationenemo.git
+- npm 页面：https://www.npmjs.com/package/rationenemo
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install rationenemo`
+- npm registry：https://registry.npmjs.org/rationenemo
+- Node 要求：>=14.15.0

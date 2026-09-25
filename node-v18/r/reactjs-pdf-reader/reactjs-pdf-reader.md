@@ -1,0 +1,36 @@
+# reactjs-pdf-reader
+
+> 标签: pdf, pdfjs, react, react-pdf-reader, reactjs-pdf-reader
+
+## 简介
+
+PDF Reader in browser for React js
+
+## 官网
+
+- 官网：https://github.com/rahul2104/reactjs-pdf-reader
+- 源码仓库：git+https://github.com/rahul2104/reactjs-pdf-reader.git
+- npm 页面：https://www.npmjs.com/package/reactjs-pdf-reader
+
+## 历史版本号
+
+- 当前版本：1.0.12
+
+- 1.0.10
+- 1.0.11
+- 1.0.12
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+- 2.0.9
+
+## 获取地址
+
+- npm 安装：`npm install reactjs-pdf-reader`
+- npm registry：https://registry.npmjs.org/reactjs-pdf-reader
+- Node 要求：>=10.0.0

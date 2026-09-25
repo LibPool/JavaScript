@@ -1,0 +1,24 @@
+# react-native-tus
+
+> 标签: android, background-upload, chunked-upload, file-upload, ios, nitro-modules, persistent-upload, react-native, resumable, tus, tus-protocol, tuskit, upload
+
+## 简介
+
+High-performance TUS (resumable upload) client for React Native with native performance, background uploads, and persistent state
+
+## 官网
+
+- 官网：https://github.com/zarifnazmi/react-native-tus#readme
+- 源码仓库：git+https://github.com/zarifnazmi/react-native-tus.git
+- npm 页面：https://www.npmjs.com/package/react-native-tus
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install react-native-tus`
+- npm registry：https://registry.npmjs.org/react-native-tus

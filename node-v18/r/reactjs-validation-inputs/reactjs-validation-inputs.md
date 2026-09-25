@@ -1,0 +1,24 @@
+# reactjs-validation-inputs
+
+> 标签: Reuseable, Validatation, emailValidatation, etc, passwordValidatation
+
+## 简介
+
+reuseablecomponents
+
+## 官网
+
+- 官网：https://github.com/vvmohanskein/reuseablecomponent_error_handle#readme
+- 源码仓库：git+https://github.com/vvmohanskein/reuseablecomponent_error_handle.git
+- npm 页面：https://www.npmjs.com/package/reactjs-validation-inputs
+
+## 历史版本号
+
+- 当前版本：1.2.5
+
+- 1.2.5
+
+## 获取地址
+
+- npm 安装：`npm install reactjs-validation-inputs`
+- npm registry：https://registry.npmjs.org/reactjs-validation-inputs

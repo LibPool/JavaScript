@@ -1,0 +1,25 @@
+# react-native-identyum-auth
+
+> 标签: appauth, auth, authentication, oauth, oauth2, react, react-native
+
+## 简介
+
+React Native bridge for Identyum authorization
+
+## 官网
+
+- 官网：https://bitbucket.org/identyum/react-native-identyum-auth
+- 源码仓库：git+https://bitbucket.org/identyum/react-native-identyum-auth.git
+- npm 页面：https://www.npmjs.com/package/react-native-identyum-auth
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install react-native-identyum-auth`
+- npm registry：https://registry.npmjs.org/react-native-identyum-auth

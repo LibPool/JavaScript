@@ -1,0 +1,26 @@
+# rw-image
+
+> 标签: image, react, react-component, react-image
+
+## 简介
+
+React easy to use image component
+
+## 官网
+
+- 官网：http://github.com/react-component/image
+- 源码仓库：git+ssh://git@github.com/react-component/image.git
+- npm 页面：https://www.npmjs.com/package/rw-image
+
+## 历史版本号
+
+- 当前版本：0.1.9
+
+- 0.1.5
+- 0.1.7
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install rw-image`
+- npm registry：https://registry.npmjs.org/rw-image

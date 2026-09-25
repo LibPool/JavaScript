@@ -1,0 +1,27 @@
+# reapex-plugin-dataloader
+
+> 标签: dataloader, reapex
+
+## 简介
+
+reapex dataloader plugin
+
+## 官网
+
+- 官网：https://github.com/ReapexJS/reapex-plugin-dataloader#readme
+- 源码仓库：git+https://github.com/ReapexJS/reapex-plugin-dataloader.git
+- npm 页面：https://www.npmjs.com/package/reapex-plugin-dataloader
+
+## 历史版本号
+
+- 当前版本：1.2.1
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.2.1
+
+## 获取地址
+
+- npm 安装：`npm install reapex-plugin-dataloader`
+- npm registry：https://registry.npmjs.org/reapex-plugin-dataloader

@@ -1,0 +1,36 @@
+# react-drive-in
+
+> 标签: background, bigvideo, component, playlist, react, react-component, slideshow, video
+
+## 简介
+
+React component supporting background videos and playlists.
+
+## 官网
+
+- 官网：https://github.com/ronik-design/react-drive-in
+- 源码仓库：git+https://github.com/ronik-design/react-drive-in.git
+- npm 页面：https://www.npmjs.com/package/react-drive-in
+
+## 历史版本号
+
+- 当前版本：1.7.3
+
+- 1.3.0
+- 1.3.1
+- 1.4.0
+- 1.4.1
+- 1.5.0
+- 1.6.0
+- 1.6.1
+- 1.6.2
+- 1.7.0
+- 1.7.1
+- 1.7.2
+- 1.7.3
+
+## 获取地址
+
+- npm 安装：`npm install react-drive-in`
+- npm registry：https://registry.npmjs.org/react-drive-in
+- Node 要求：>=4.0.0

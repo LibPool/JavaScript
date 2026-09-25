@@ -1,0 +1,28 @@
+# react-simple-expand
+
+> 标签: JavaScript
+
+## 简介
+
+React Component for creating accessible and performant expandable UI
+
+## 官网
+
+- 官网：https://github.com/aranja/react-simple-expand#readme
+- 源码仓库：git+https://github.com/aranja/react-simple-expand.git
+- npm 页面：https://www.npmjs.com/package/react-simple-expand
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.0
+- 0.0.0-semantically-released
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install react-simple-expand`
+- npm registry：https://registry.npmjs.org/react-simple-expand
+- Node 要求：>=8

@@ -1,0 +1,33 @@
+# rpi-gpio-buttons
+
+> 标签: button, click, debounce, gpio, pi, press, raspberry, release
+
+## 简介
+
+Generates button events from GPIO pins.
+
+## 官网
+
+- 官网：https://github.com/bnielsen1965/rpi-gpio-buttons#readme
+- 源码仓库：git+https://github.com/bnielsen1965/rpi-gpio-buttons.git
+- npm 页面：https://www.npmjs.com/package/rpi-gpio-buttons
+
+## 历史版本号
+
+- 当前版本：2.0.1
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.1.0
+- 1.1.1
+- 1.2.0
+- 2.0.0
+- 2.0.1
+
+## 获取地址
+
+- npm 安装：`npm install rpi-gpio-buttons`
+- npm registry：https://registry.npmjs.org/rpi-gpio-buttons

@@ -1,0 +1,25 @@
+# react-native-tv-recommended-content
+
+> 标签: android, android-tv, google-tv, ios, react-native, recommended content, top shelf, tvos, watch-next
+
+## 简介
+
+Publish content to the Android TV / Google TV home screen from your React Native app to the "Continue Watching" (Watch Next) row, and your own fully custom recommendation channels
+
+## 官网
+
+- 官网：https://github.com/MadeByRaymond/react-native-tv-recommended-content#readme
+- 源码仓库：git+https://github.com/MadeByRaymond/react-native-tv-recommended-content.git
+- npm 页面：https://www.npmjs.com/package/react-native-tv-recommended-content
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 1.1.0
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install react-native-tv-recommended-content`
+- npm registry：https://registry.npmjs.org/react-native-tv-recommended-content

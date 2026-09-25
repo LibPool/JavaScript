@@ -1,0 +1,28 @@
+# route-now
+
+> 标签: JavaScript
+
+## 简介
+
+Express inspired ultra fast and minimalist router for serverless functions. Uses [trouter](https://www.npmjs.com/package/trouter#trouteraddmethod-pattern-handlers) and [qs](https://www.npmjs.com/package/qs)
+
+## 官网
+
+- 官网：https://github.com/esundahl/route-now#readme
+- 源码仓库：git://github.com/esundahl/route-now.git
+- npm 页面：https://www.npmjs.com/package/route-now
+
+## 历史版本号
+
+- 当前版本：0.0.5
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+
+## 获取地址
+
+- npm 安装：`npm install route-now`
+- npm registry：https://registry.npmjs.org/route-now

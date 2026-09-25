@@ -1,0 +1,26 @@
+# react-native-tag-select-option
+
+> 标签: native, react
+
+## 简介
+
+[![npm version](https://badge.fury.io/js/react-native-tag-select.svg)](https://badge.fury.io/js/react-native-tag-select)
+
+## 官网
+
+- 官网：https:///github.com/zhein04/react-native-tag-select#readme
+- 源码仓库：git+https://github.com/zhein04/react-native-tag-select.git
+- npm 页面：https://www.npmjs.com/package/react-native-tag-select-option
+
+## 历史版本号
+
+- 当前版本：3.0.2
+
+- 3.0.0
+- 3.0.1
+- 3.0.2
+
+## 获取地址
+
+- npm 安装：`npm install react-native-tag-select-option`
+- npm registry：https://registry.npmjs.org/react-native-tag-select-option

@@ -1,0 +1,28 @@
+# react-flyd-class
+
+> 标签: Event, flyd, react, reactive, reactjs
+
+## 简介
+
+create reactive react classes for flyd streams
+
+## 官网
+
+- 官网：https://github.com/theadam/react-flyd-class#readme
+- 源码仓库：git+https://github.com/theadam/react-flyd-class.git
+- npm 页面：https://www.npmjs.com/package/react-flyd-class
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install react-flyd-class`
+- npm registry：https://registry.npmjs.org/react-flyd-class

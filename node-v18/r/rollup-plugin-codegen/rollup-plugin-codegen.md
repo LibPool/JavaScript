@@ -1,0 +1,35 @@
+# rollup-plugin-codegen
+
+> 标签: codegen, plugin, rollup
+
+## 简介
+
+A plugin for Rollup (2 and higher) to generate useful modules at bundle-time.
+
+## 官网
+
+- 源码仓库：git+https://github.com/FlorianRappl/codegen-js.git
+- npm 页面：https://www.npmjs.com/package/rollup-plugin-codegen
+
+## 历史版本号
+
+- 当前版本：2.1.0
+
+- 0.15.0-beta.4639
+- 0.15.0-beta.5720
+- 1.0.0
+- 1.0.0-beta.5757
+- 2.0.0
+- 2.0.0-pre.1
+- 2.0.0-pre.2
+- 2.0.0-pre.3
+- 2.1.0
+- 2.1.0-pre.11
+- 2.1.0-pre.8
+- 2.1.0-pre.9
+
+## 获取地址
+
+- npm 安装：`npm install rollup-plugin-codegen`
+- npm registry：https://registry.npmjs.org/rollup-plugin-codegen
+- Node 要求：>=16.0

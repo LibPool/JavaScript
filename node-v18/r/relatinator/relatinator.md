@@ -1,0 +1,35 @@
+# relatinator
+
+> 标签: articles, posts, related, relatinator, static, words
+
+## 简介
+
+A humble library for finding related posts and content. Uses tf-idf under the hood. Primarily aimed at static site generators.
+
+## 官网
+
+- 官网：https://github.com/DBozhinovski/relatinator#readme
+- 源码仓库：git+https://github.com/DBozhinovski/relatinator.git
+- npm 页面：https://www.npmjs.com/package/relatinator
+
+## 历史版本号
+
+- 当前版本：2.1.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 2.0.0
+- 2.0.1
+- 2.1.0
+
+## 获取地址
+
+- npm 安装：`npm install relatinator`
+- npm registry：https://registry.npmjs.org/relatinator

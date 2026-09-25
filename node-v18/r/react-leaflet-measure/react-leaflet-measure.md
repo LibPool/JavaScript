@@ -1,0 +1,35 @@
+# react-leaflet-measure
+
+> 标签: leaflet, leaflet-measure, react, react-leaflet, react-leaflet-measure, react-leaflet-v4, react-leaflet-v5
+
+## 简介
+
+React wrapper of leaflet-measure. Coordinate, linear, and area measure control for Leaflet maps.
+
+## 官网
+
+- 官网：https://mhasbie.github.io/react-leaflet-measure/
+- 源码仓库：git+https://github.com/mhasbie/react-leaflet-measure.git
+- npm 页面：https://www.npmjs.com/package/react-leaflet-measure
+
+## 历史版本号
+
+- 当前版本：3.0.1
+
+- 2.0.2
+- 2.0.3
+- 2.0.4
+- 2.0.5
+- 2.0.6
+- 2.0.7
+- 2.1.0
+- 2.1.1
+- 3.0.0
+- 3.0.0-beta.0
+- 3.0.0-beta.1
+- 3.0.1
+
+## 获取地址
+
+- npm 安装：`npm install react-leaflet-measure`
+- npm registry：https://registry.npmjs.org/react-leaflet-measure

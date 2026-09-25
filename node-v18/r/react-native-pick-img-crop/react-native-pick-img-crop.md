@@ -1,0 +1,35 @@
+# react-native-pick-img-crop
+
+> 标签: camera, crop, image, react-native, react-native-pick, react-native-pick-img, react-native-pick-img-crop, 图片, 相册, 裁剪, 选择器
+
+## 简介
+
+高新能实用的相册图片选择器，可以多张图片选择和裁剪，也可以单张图片选择
+
+## 官网
+
+- 官网：https://github.com/gegeyang0124/react-native-pick-img-crop#readme
+- 源码仓库：git+https://github.com/gegeyang0124/react-native-pick-img-crop.git
+- npm 页面：https://www.npmjs.com/package/react-native-pick-img-crop
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install react-native-pick-img-crop`
+- npm registry：https://registry.npmjs.org/react-native-pick-img-crop

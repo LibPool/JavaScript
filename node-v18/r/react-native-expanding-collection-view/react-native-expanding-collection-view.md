@@ -1,0 +1,24 @@
+# react-native-expanding-collection-view
+
+> 标签: android, expanding-collection, ios, react, react-component, react-native, span-carousel
+
+## 简介
+
+React Native component for creating animated, expanding collection
+
+## 官网
+
+- 官网：https://openGeeksLab.com
+- 源码仓库：git+https://github.com/openGeeksLab/react-native-expanding-collection-view.git
+- npm 页面：https://www.npmjs.com/package/react-native-expanding-collection-view
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install react-native-expanding-collection-view`
+- npm registry：https://registry.npmjs.org/react-native-expanding-collection-view

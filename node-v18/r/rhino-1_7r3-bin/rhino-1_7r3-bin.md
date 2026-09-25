@@ -1,0 +1,25 @@
+# rhino-1_7r3-bin
+
+> 标签: bin, rhino, wrapper
+
+## 简介
+
+Node.js binary wrapper for Rhino 1.7R3.
+
+## 官网
+
+- 官网：https://github.com/d10/node-rhino-1_7r3-bin
+- 源码仓库：git://github.com/d10/node-rhino-1_7r3-bin
+- npm 页面：https://www.npmjs.com/package/rhino-1_7r3-bin
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install rhino-1_7r3-bin`
+- npm registry：https://registry.npmjs.org/rhino-1_7r3-bin

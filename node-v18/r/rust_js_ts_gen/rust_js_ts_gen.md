@@ -1,0 +1,24 @@
+# rust_js_ts_gen
+
+> 标签: JavaScript
+
+## 简介
+
+implementation for js-ts-code-generator by rust
+
+## 官网
+
+- 官网：https://github.com/narumincho/rust-js-ts-gen#readme
+- 源码仓库：git+https://github.com/narumincho/rust-js-ts-gen.git
+- npm 页面：https://www.npmjs.com/package/rust_js_ts_gen
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install rust_js_ts_gen`
+- npm registry：https://registry.npmjs.org/rust_js_ts_gen

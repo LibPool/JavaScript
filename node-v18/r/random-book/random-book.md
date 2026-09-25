@@ -1,0 +1,25 @@
+# random-book
+
+> 标签: books, javascript, node
+
+## 简介
+
+Get a random book name
+
+## 官网
+
+- 官网：https://github.com/osoriodev/random-book#readme
+- 源码仓库：git+https://github.com/osoriodev/random-book.git
+- npm 页面：https://www.npmjs.com/package/random-book
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install random-book`
+- npm registry：https://registry.npmjs.org/random-book

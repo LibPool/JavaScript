@@ -1,0 +1,22 @@
+# rob-demo-pkg
+
+> 标签: JavaScript
+
+## 简介
+
+just trying this out
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/rob-demo-pkg
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install rob-demo-pkg`
+- npm registry：https://registry.npmjs.org/rob-demo-pkg

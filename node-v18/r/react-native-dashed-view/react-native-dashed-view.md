@@ -1,0 +1,24 @@
+# react-native-dashed-view
+
+> 标签: dash, dashed, dashed-line, divider, dotted, dotted-line, line, react-native, separator
+
+## 简介
+
+A simple and customizable dashed line component for React Native
+
+## 官网
+
+- 官网：https://github.com/RahulMandyal1/react-native-dashed-view#readme
+- 源码仓库：git+https://github.com/RahulMandyal1/react-native-dashed-view.git
+- npm 页面：https://www.npmjs.com/package/react-native-dashed-view
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install react-native-dashed-view`
+- npm registry：https://registry.npmjs.org/react-native-dashed-view

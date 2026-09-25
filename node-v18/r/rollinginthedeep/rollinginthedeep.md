@@ -1,0 +1,24 @@
+# rollinginthedeep
+
+> 标签: JavaScript
+
+## 简介
+
+rollinginthedeep - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/Greez13/rollinginthedeep#readme
+- 源码仓库：git+https://github.com/Greez13/rollinginthedeep.git
+- npm 页面：https://www.npmjs.com/package/rollinginthedeep
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install rollinginthedeep`
+- npm registry：https://registry.npmjs.org/rollinginthedeep

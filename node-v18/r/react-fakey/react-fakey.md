@@ -1,0 +1,29 @@
+# react-fakey
+
+> 标签: react
+
+## 简介
+
+A repo that allows you to create fake elements for loading-ish states
+
+## 官网
+
+- 官网：https://github.com/ericadamski/react-fakey#readme
+- 源码仓库：git+ssh://git@github.com/ericadamski/react-fakey.git
+- npm 页面：https://www.npmjs.com/package/react-fakey
+
+## 历史版本号
+
+- 当前版本：1.1.3
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+
+## 获取地址
+
+- npm 安装：`npm install react-fakey`
+- npm registry：https://registry.npmjs.org/react-fakey

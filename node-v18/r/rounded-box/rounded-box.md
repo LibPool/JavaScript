@@ -1,0 +1,27 @@
+# rounded-box
+
+> 标签: 3D, box, cube, geometry, mesh, procedural, rounded box, rounded cube, webgl
+
+## 简介
+
+Generates a rounded box mesh centered on the origin with configurable dimensions, corner and edge radius, and resolution.
+
+## 官网
+
+- 官网：https://github.com/wwwtyro/rounded-box
+- 源码仓库：git+https://github.com/wwwtyro/rounded-box.git
+- npm 页面：https://www.npmjs.com/package/rounded-box
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install rounded-box`
+- npm registry：https://registry.npmjs.org/rounded-box

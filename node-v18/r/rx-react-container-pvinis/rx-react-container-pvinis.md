@@ -1,0 +1,25 @@
+# rx-react-container-pvinis
+
+> 标签: container, isomorphic, react, rxjs
+
+## 简介
+
+Provides HoC component, and utilities to connect RxJS logic to React Component.
+
+## 官网
+
+- 官网：https://github.com/zxbodya/rx-react-container#readme
+- 源码仓库：git+https://github.com/zxbodya/rx-react-container.git
+- npm 页面：https://www.npmjs.com/package/rx-react-container-pvinis
+
+## 历史版本号
+
+- 当前版本：0.7.0
+
+- 0.7.0
+
+## 获取地址
+
+- npm 安装：`npm install rx-react-container-pvinis`
+- npm registry：https://registry.npmjs.org/rx-react-container-pvinis
+- Node 要求：>=0.12.0

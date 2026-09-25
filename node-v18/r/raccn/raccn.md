@@ -1,0 +1,25 @@
+# raccn
+
+> 标签: JavaScript
+
+## 简介
+
+A simple node.js static site generator inspired by Jekyll.
+
+## 官网
+
+- 官网：https://github.com/andeersg/raccn#readme
+- 源码仓库：git+https://github.com/andeersg/raccn.git
+- npm 页面：https://www.npmjs.com/package/raccn
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install raccn`
+- npm registry：https://registry.npmjs.org/raccn

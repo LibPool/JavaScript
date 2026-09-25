@@ -1,0 +1,30 @@
+# react-native-navigation-bottom-sheet
+
+> 标签: android, bottom-sheet, bottomsheet, ios, modal, react-native, react-native-navigation, sheet
+
+## 简介
+
+A performant customizable bottom sheet component made on top of wix react-native-navigation library.
+
+## 官网
+
+- 官网：https://github.com/CursedWizard/react-native-navigation-bottom-sheet#readme
+- 源码仓库：git+https://github.com/CursedWizard/react-native-navigation-bottom-sheet.git
+- npm 页面：https://www.npmjs.com/package/react-native-navigation-bottom-sheet
+
+## 历史版本号
+
+- 当前版本：1.4.0
+
+- 0.1.0
+- 0.1.1
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 1.4.0
+
+## 获取地址
+
+- npm 安装：`npm install react-native-navigation-bottom-sheet`
+- npm registry：https://registry.npmjs.org/react-native-navigation-bottom-sheet

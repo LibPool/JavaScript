@@ -1,0 +1,35 @@
+# react-native-settings
+
+> 标签: react-native, react-native-settings, settings
+
+## 简介
+
+Access iOS and Android device settings from React Native
+
+## 官网
+
+- 官网：https://github.com/rmrs/react-native-settings#readme
+- 源码仓库：git+ssh://git@github.com/rmrs/react-native-settings.git
+- npm 页面：https://www.npmjs.com/package/react-native-settings
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 0.0.1-alpha7
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.3
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install react-native-settings`
+- npm registry：https://registry.npmjs.org/react-native-settings

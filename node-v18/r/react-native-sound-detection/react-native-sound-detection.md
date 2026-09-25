@@ -1,0 +1,33 @@
+# react-native-sound-detection
+
+> 标签: react-native
+
+## 简介
+
+This library simply gets the audio/video tracks and their type. This is to detect whether they exist on a media file (Video/Mp3/etc) in Android and iOS React Native. **Note**: Skip 2.0.0 as it's corrupted, use 2.0.2 ## Getting started
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/react-native-sound-detection
+
+## 历史版本号
+
+- 当前版本：2.0.3
+
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.1.6
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 2.0.0
+- 2.0.1
+- 2.0.2
+- 2.0.3
+
+## 获取地址
+
+- npm 安装：`npm install react-native-sound-detection`
+- npm registry：https://registry.npmjs.org/react-native-sound-detection

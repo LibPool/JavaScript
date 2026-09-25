@@ -1,0 +1,27 @@
+# react-svg-donut-chart-lib
+
+> 标签: chart, donut chart, react, svg
+
+## 简介
+
+A React library for rendering donut charts using SVG.
+
+## 官网
+
+- 官网：https://github.com/aexetane/react-svg-donut-chart-lib#readme
+- 源码仓库：git+https://github.com/aexetane/react-svg-donut-chart-lib.git
+- npm 页面：https://www.npmjs.com/package/react-svg-donut-chart-lib
+
+## 历史版本号
+
+- 当前版本：0.1.14
+
+- 0.0.11
+- 0.1.12
+- 0.1.13
+- 0.1.14
+
+## 获取地址
+
+- npm 安装：`npm install react-svg-donut-chart-lib`
+- npm registry：https://registry.npmjs.org/react-svg-donut-chart-lib

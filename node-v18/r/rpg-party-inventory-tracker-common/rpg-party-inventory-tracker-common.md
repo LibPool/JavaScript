@@ -1,0 +1,27 @@
+# rpg-party-inventory-tracker-common
+
+> 标签: JavaScript
+
+## 简介
+
+Shared files
+
+## 官网
+
+- 官网：https://github.com/TClark1011/graphql-mock-store-backend#readme
+- 源码仓库：git+https://github.com/TClark1011/graphql-mock-store-backend.git
+- npm 页面：https://www.npmjs.com/package/rpg-party-inventory-tracker-common
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install rpg-party-inventory-tracker-common`
+- npm registry：https://registry.npmjs.org/rpg-party-inventory-tracker-common

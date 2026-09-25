@@ -1,0 +1,35 @@
+# reactors-cli
+
+> 标签: android, app, awesome, desktop, electron, hybrid, ios, linux, mac osx, mobile, native, react, react-native, reactors, ubuntu, web, window
+
+## 简介
+
+Command line utility for reactors
+
+## 官网
+
+- 官网：https://github.com/co2-git/reactors-git#readme
+- 源码仓库：git+https://github.com/co2-git/reactors-git.git
+- npm 页面：https://www.npmjs.com/package/reactors-cli
+
+## 历史版本号
+
+- 当前版本：4.0.4
+
+- 1.3.2
+- 1.3.4
+- 1.3.6
+- 1.3.7
+- 2.0.0
+- 3.0.0
+- 3.0.1
+- 4.0.0
+- 4.0.1
+- 4.0.2
+- 4.0.3
+- 4.0.4
+
+## 获取地址
+
+- npm 安装：`npm install reactors-cli`
+- npm registry：https://registry.npmjs.org/reactors-cli

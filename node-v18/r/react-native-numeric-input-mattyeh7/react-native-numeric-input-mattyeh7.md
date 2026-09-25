@@ -1,0 +1,28 @@
+# react-native-numeric-input-mattyeh7
+
+> 标签: android, input, ios, mobile, number, number-input, numeric, numeric-input, react, react-component, react-native, react-native-component
+
+## 简介
+
+a stylish numeric input for react native
+
+## 官网
+
+- 官网：https://github.com/himelbrand/react-native-numeric-input
+- 源码仓库：git://github.com/himelbrand/react-native-numeric-input.git
+- npm 页面：https://www.npmjs.com/package/react-native-numeric-input-mattyeh7
+
+## 历史版本号
+
+- 当前版本：1.9.5
+
+- 1.9.1
+- 1.9.2
+- 1.9.3
+- 1.9.4
+- 1.9.5
+
+## 获取地址
+
+- npm 安装：`npm install react-native-numeric-input-mattyeh7`
+- npm registry：https://registry.npmjs.org/react-native-numeric-input-mattyeh7

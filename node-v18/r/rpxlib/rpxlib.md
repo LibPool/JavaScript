@@ -1,0 +1,36 @@
+# rpxlib
+
+> 标签: cafe, elf, rpl, rpx, wiiu
+
+## 简介
+
+A general purpose RPL/RPX library.
+
+## 官网
+
+- 官网：https://github.com/jhmaster2000/rpxlib#readme
+- 源码仓库：git+https://github.com/jhmaster2000/rpxlib.git
+- npm 页面：https://www.npmjs.com/package/rpxlib
+
+## 历史版本号
+
+- 当前版本：0.9.1
+
+- 0.5.0
+- 0.5.1
+- 0.6.0
+- 0.6.1
+- 0.6.2
+- 0.7.0
+- 0.8.0
+- 0.8.1
+- 0.8.3
+- 0.8.4
+- 0.9.0
+- 0.9.1
+
+## 获取地址
+
+- npm 安装：`npm install rpxlib`
+- npm registry：https://registry.npmjs.org/rpxlib
+- Node 要求：>=20.2.0

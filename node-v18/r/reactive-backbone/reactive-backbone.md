@@ -1,0 +1,24 @@
+# reactive-backbone
+
+> 标签: backbone, reactive
+
+## 简介
+
+Reactive model adapter for Backbone models.
+
+## 官网
+
+- 官网：https://github.com/airportyh/reactive-backbone
+- 源码仓库：git://github.com/airportyh/reactive-backbone.git
+- npm 页面：https://www.npmjs.com/package/reactive-backbone
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install reactive-backbone`
+- npm registry：https://registry.npmjs.org/reactive-backbone

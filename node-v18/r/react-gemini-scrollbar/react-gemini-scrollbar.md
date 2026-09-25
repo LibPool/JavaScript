@@ -1,0 +1,35 @@
+# react-gemini-scrollbar
+
+> 标签: custom, native, react, scrollbar, scrollbars, scrolling
+
+## 简介
+
+React component for custom scrollbars with native scrolling
+
+## 官网
+
+- 官网：https://github.com/noeldelgado/react-gemini-scrollbar
+- 源码仓库：git+https://github.com/noeldelgado/react-gemini-scrollbar.git
+- npm 页面：https://www.npmjs.com/package/react-gemini-scrollbar
+
+## 历史版本号
+
+- 当前版本：2.3.4
+
+- 2.1.0
+- 2.1.1
+- 2.1.2
+- 2.1.3
+- 2.1.4
+- 2.1.5
+- 2.2.0
+- 2.3.0
+- 2.3.1
+- 2.3.2
+- 2.3.3
+- 2.3.4
+
+## 获取地址
+
+- npm 安装：`npm install react-gemini-scrollbar`
+- npm registry：https://registry.npmjs.org/react-gemini-scrollbar

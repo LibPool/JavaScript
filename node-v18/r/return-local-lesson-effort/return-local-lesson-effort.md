@@ -1,0 +1,24 @@
+# return-local-lesson-effort
+
+> 标签: package-manager, return-local-lesson-effort
+
+## 简介
+
+Return Local Lesson Effort - This function is used to convert multiple words into an interesting sentence containing the word Return Local Lesson Effort.
+
+## 官网
+
+- 官网：https://github.com/npmtea2024/return-local-lesson-effort#readme
+- 源码仓库：git+https://github.com/npmtea2024/return-local-lesson-effort.git
+- npm 页面：https://www.npmjs.com/package/return-local-lesson-effort
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install return-local-lesson-effort`
+- npm registry：https://registry.npmjs.org/return-local-lesson-effort

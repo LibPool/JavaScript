@@ -1,0 +1,26 @@
+# react-native-3d-carousel
+
+> 标签: 3d, animation, carousel, gesture, react-native, swipe
+
+## 简介
+
+A 3D carousel component for React Native with smooth animations and gestures
+
+## 官网
+
+- 官网：https://github.com/iamsydali/react-native-3d-carousel#readme
+- 源码仓库：git+https://github.com/iamsydali/react-native-3d-carousel.git
+- npm 页面：https://www.npmjs.com/package/react-native-3d-carousel
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install react-native-3d-carousel`
+- npm registry：https://registry.npmjs.org/react-native-3d-carousel

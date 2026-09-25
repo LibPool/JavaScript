@@ -1,0 +1,23 @@
+# react-native-image-manipulator
+
+> 标签: flip, image, manipulator, react, react-native, react-native-flip-image, react-native-image-manipulator, react-native-rotate-image, rotate
+
+## 简介
+
+ImageManipulator for react native without Expo and Unimodules. Based on Expo ImageManipulator
+
+## 官网
+
+- 官网：https://github.com/tabakharniuk/react-native-image-manipulator
+- npm 页面：https://www.npmjs.com/package/react-native-image-manipulator
+
+## 历史版本号
+
+- 当前版本：1.0.6
+
+- 1.0.6
+
+## 获取地址
+
+- npm 安装：`npm install react-native-image-manipulator`
+- npm registry：https://registry.npmjs.org/react-native-image-manipulator

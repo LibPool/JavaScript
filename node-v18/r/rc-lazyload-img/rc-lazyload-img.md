@@ -1,0 +1,27 @@
+# rc-lazyload-img
+
+> 标签: JavaScript
+
+## 简介
+
+react intersetion-observer lazyload lazyload-img
+
+## 官网
+
+- 官网：https://github.com/meooxx/rc-lazyload-img#readme
+- 源码仓库：git+https://github.com/meooxx/rc-lazyload-img.git
+- npm 页面：https://www.npmjs.com/package/rc-lazyload-img
+
+## 历史版本号
+
+- 当前版本：1.3.0
+
+- 1.0.1
+- 1.1.0
+- 1.2.0
+- 1.3.0
+
+## 获取地址
+
+- npm 安装：`npm install rc-lazyload-img`
+- npm registry：https://registry.npmjs.org/rc-lazyload-img

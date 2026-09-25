@@ -1,0 +1,23 @@
+# rn-push-provisioning
+
+> 标签: JavaScript
+
+## 简介
+
+security holding package
+
+## 官网
+
+- 源码仓库：npm/security-holder
+- npm 页面：https://www.npmjs.com/package/rn-push-provisioning
+
+## 历史版本号
+
+- 当前版本：0.0.1-security
+
+- 0.0.1-security
+
+## 获取地址
+
+- npm 安装：`npm install rn-push-provisioning`
+- npm registry：https://registry.npmjs.org/rn-push-provisioning

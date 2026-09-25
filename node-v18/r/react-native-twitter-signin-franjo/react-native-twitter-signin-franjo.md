@@ -1,0 +1,25 @@
+# react-native-twitter-signin-franjo
+
+> 标签: authentication, react native, signin, social signin, twitter
+
+## 简介
+
+Social Signin with Twitter
+
+## 官网
+
+- 官网：https://github.com/GoldenOwlAsia/react-native-twitter-signin.git
+- 源码仓库：git+ssh://git@github.com/GoldenOwlAsia/react-native-twitter-signin.git
+- npm 页面：https://www.npmjs.com/package/react-native-twitter-signin-franjo
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install react-native-twitter-signin-franjo`
+- npm registry：https://registry.npmjs.org/react-native-twitter-signin-franjo
+- Node 要求：>=4.0.0

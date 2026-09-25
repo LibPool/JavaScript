@@ -1,0 +1,24 @@
+# randy_tea_03
+
+> 标签: randy_Tea
+
+## 简介
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## 官网
+
+- 官网：https://github.com/i2aleep/randy_tea_03#readme
+- 源码仓库：git+https://github.com/i2aleep/randy_tea_03.git
+- npm 页面：https://www.npmjs.com/package/randy_tea_03
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install randy_tea_03`
+- npm registry：https://registry.npmjs.org/randy_tea_03

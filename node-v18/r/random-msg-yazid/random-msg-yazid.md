@@ -1,0 +1,25 @@
+# random-msg-yazid
+
+> 标签: javascript
+
+## 简介
+
+mensaje random
+
+## 官网
+
+- 官网：https://github.com/yazid113/mensaje-random-yazid#readme
+- 源码仓库：git+https://github.com/yazid113/mensaje-random-yazid.git
+- npm 页面：https://www.npmjs.com/package/random-msg-yazid
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install random-msg-yazid`
+- npm registry：https://registry.npmjs.org/random-msg-yazid

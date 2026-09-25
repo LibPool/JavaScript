@@ -1,0 +1,25 @@
+# railjs-core
+
+> 标签: architecture, async, event-bus, event-driven, event-emitter, events, modular, module-isolation, pub-sub, typescript
+
+## 简介
+
+A lightweight event bus for building modular JavaScript applications with strict module isolation
+
+## 官网
+
+- 官网：https://github.com/PxPerfectMike/RailJS#readme
+- 源码仓库：git+https://github.com/PxPerfectMike/RailJS.git
+- npm 页面：https://www.npmjs.com/package/railjs-core
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install railjs-core`
+- npm registry：https://registry.npmjs.org/railjs-core
+- Node 要求：>=14.0.0
