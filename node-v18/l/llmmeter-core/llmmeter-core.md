@@ -1,0 +1,26 @@
+# llmmeter-core
+
+> 标签: JavaScript
+
+## 简介
+
+Core types, context, batching, sinks, redaction, sampling, and pricing for llmmeter.
+
+## 官网
+
+- 官网：https://amit641.github.io/llmmeter/
+- 源码仓库：git+https://github.com/amit641/llmmeter.git
+- npm 页面：https://www.npmjs.com/package/llmmeter-core
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install llmmeter-core`
+- npm registry：https://registry.npmjs.org/llmmeter-core
+- Node 要求：>=18.18.0

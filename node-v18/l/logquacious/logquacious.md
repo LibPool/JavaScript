@@ -1,0 +1,30 @@
+# logquacious
+
+> 标签: logger, logging
+
+## 简介
+
+Yet another logging library for node.js
+
+## 官网
+
+- 官网：https://github.com/jlekie/logquacious#readme
+- 源码仓库：git+https://github.com/jlekie/logquacious.git
+- npm 页面：https://www.npmjs.com/package/logquacious
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 0.4.0
+- 0.4.1
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install logquacious`
+- npm registry：https://registry.npmjs.org/logquacious
+- Node 要求：>=4.x

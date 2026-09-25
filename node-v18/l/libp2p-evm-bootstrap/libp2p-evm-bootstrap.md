@@ -1,0 +1,27 @@
+# libp2p-evm-bootstrap
+
+> 标签: bootstrap, evm, libp2p
+
+## 简介
+
+Bootstrap from peer IDs stored on an EVM smart contract
+
+## 官网
+
+- 官网：https://github.com/dozyio/js-libp2p-evm-bootstrap#readme
+- 源码仓库：git+https://github.com/dozyio/js-libp2p-evm-bootstrap.git
+- npm 页面：https://www.npmjs.com/package/libp2p-evm-bootstrap
+
+## 历史版本号
+
+- 当前版本：0.1.4
+
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+
+## 获取地址
+
+- npm 安装：`npm install libp2p-evm-bootstrap`
+- npm registry：https://registry.npmjs.org/libp2p-evm-bootstrap

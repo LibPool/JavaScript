@@ -1,0 +1,22 @@
+# lpc-simple-date
+
+> 标签: JavaScript
+
+## 简介
+
+lpc-simple-date - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/lpc-simple-date
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install lpc-simple-date`
+- npm registry：https://registry.npmjs.org/lpc-simple-date

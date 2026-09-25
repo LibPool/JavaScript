@@ -1,0 +1,27 @@
+# linguajs
+
+> 标签: JavaScript
+
+## 简介
+
+ERROR: No README.md file found!
+
+## 官网
+
+- 源码仓库：https://github.com/linguajs/linguajs.git
+- npm 页面：https://www.npmjs.com/package/linguajs
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+- 0.0.1-SNAPSHOT
+- 0.0.2
+- 0.0.2-SNAPSHOT
+
+## 获取地址
+
+- npm 安装：`npm install linguajs`
+- npm registry：https://registry.npmjs.org/linguajs
+- Node 要求：>= 0.6.0

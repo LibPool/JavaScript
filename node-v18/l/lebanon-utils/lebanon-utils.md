@@ -1,0 +1,25 @@
+# lebanon-utils
+
+> 标签: lebanon, lebanon utils, utils
+
+## 简介
+
+utility functions that could be used in lebanese apps
+
+## 官网
+
+- 官网：https://github.com/Ghamza-Jd/lebanon-utils.git
+- 源码仓库：git+https://github.com/Ghamza-Jd/lebanon-utils.git
+- npm 页面：https://www.npmjs.com/package/lebanon-utils
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install lebanon-utils`
+- npm registry：https://registry.npmjs.org/lebanon-utils

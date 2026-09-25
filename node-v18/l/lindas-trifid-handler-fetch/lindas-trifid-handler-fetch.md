@@ -1,0 +1,25 @@
+# lindas-trifid-handler-fetch
+
+> 标签: handler-fetch, trifid, trifid-plugin
+
+## 简介
+
+Fetch handler for Trifid
+
+## 官网
+
+- 官网：https://github.com/SwissFederalArchives/lindas-trifid
+- 源码仓库：git+https://github.com/SwissFederalArchives/lindas-trifid.git
+- npm 页面：https://www.npmjs.com/package/lindas-trifid-handler-fetch
+
+## 历史版本号
+
+- 当前版本：4.0.1
+
+- 4.0.0
+- 4.0.1
+
+## 获取地址
+
+- npm 安装：`npm install lindas-trifid-handler-fetch`
+- npm registry：https://registry.npmjs.org/lindas-trifid-handler-fetch

@@ -1,0 +1,26 @@
+# loggear
+
+> 标签: log, logger, logging
+
+## 简介
+
+Modern logging package
+
+## 官网
+
+- 官网：https://github.com/acecow/Logger#readme
+- 源码仓库：git+https://github.com/acecow/Logger.git
+- npm 页面：https://www.npmjs.com/package/loggear
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install loggear`
+- npm registry：https://registry.npmjs.org/loggear

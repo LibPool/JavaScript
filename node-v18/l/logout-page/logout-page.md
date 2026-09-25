@@ -1,0 +1,23 @@
+# logout-page
+
+> 标签: JavaScript
+
+## 简介
+
+> Logout page for all Volenday web apps.
+
+## 官网
+
+- 源码仓库：https://rayanfeliciano@bitbucket.org/volenday-dev/logout-page.git
+- npm 页面：https://www.npmjs.com/package/logout-page
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install logout-page`
+- npm registry：https://registry.npmjs.org/logout-page

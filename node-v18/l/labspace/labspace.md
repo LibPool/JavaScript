@@ -1,0 +1,23 @@
+# labspace
+
+> 标签: JavaScript
+
+## 简介
+
+A custom Squarespace template for Labspace.
+
+## 官网
+
+- 源码仓库：https://labspace-blog.squarespace.com/template.git
+- npm 页面：https://www.npmjs.com/package/labspace
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install labspace`
+- npm registry：https://registry.npmjs.org/labspace
