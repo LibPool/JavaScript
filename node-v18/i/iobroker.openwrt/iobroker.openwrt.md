@@ -1,0 +1,26 @@
+# iobroker.openwrt
+
+> 标签: api, network, openwrt, router
+
+## 简介
+
+Interact with the openwrt RPC API
+
+## 官网
+
+- 官网：https://github.com/Schnup89/ioBroker.openwrt
+- 源码仓库：git+https://github.com/Schnup89/ioBroker.openwrt.git
+- npm 页面：https://www.npmjs.com/package/iobroker.openwrt
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.1
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install iobroker.openwrt`
+- npm registry：https://registry.npmjs.org/iobroker.openwrt

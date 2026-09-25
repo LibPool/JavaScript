@@ -1,0 +1,22 @@
+# insomnia-plugin-load-testing
+
+> 标签: JavaScript
+
+## 简介
+
+insomnia-plugin-load-testing - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/insomnia-plugin-load-testing
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install insomnia-plugin-load-testing`
+- npm registry：https://registry.npmjs.org/insomnia-plugin-load-testing

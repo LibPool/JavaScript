@@ -1,0 +1,27 @@
+# image-file-size
+
+> 标签: file, image, size
+
+## 简介
+
+get dimensions of any image file in browser
+
+## 官网
+
+- 官网：https://github.com/luxp/image-file-size#readme
+- 源码仓库：git+https://github.com/luxp/image-file-size.git
+- npm 页面：https://www.npmjs.com/package/image-file-size
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 0.0.2
+- 0.0.3
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install image-file-size`
+- npm registry：https://registry.npmjs.org/image-file-size

@@ -1,0 +1,22 @@
+# image-carousel-juan-correa-50
+
+> 标签: JavaScript
+
+## 简介
+
+Image Carousel for website
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/image-carousel-juan-correa-50
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install image-carousel-juan-correa-50`
+- npm registry：https://registry.npmjs.org/image-carousel-juan-correa-50

@@ -1,0 +1,36 @@
+# iobroker.tinymqttbroker
+
+> 标签: MQTT, MQTT broker, MQTT server, ioBroker
+
+## 简介
+
+tinymqttbroker
+
+## 官网
+
+- 官网：https://github.com/HGlab01/ioBroker.tinymqttbroker
+- 源码仓库：git+https://github.com/HGlab01/ioBroker.tinymqttbroker.git
+- npm 页面：https://www.npmjs.com/package/iobroker.tinymqttbroker
+
+## 历史版本号
+
+- 当前版本：0.1.7
+
+- 0.1.2-alpha.1
+- 0.1.3
+- 0.1.3-alpha.0
+- 0.1.4
+- 0.1.5
+- 0.1.5-alpha.0
+- 0.1.6
+- 0.1.6-alpha.0
+- 0.1.6-alpha.1
+- 0.1.6-alpha.2
+- 0.1.6-alpha.3
+- 0.1.7
+
+## 获取地址
+
+- npm 安装：`npm install iobroker.tinymqttbroker`
+- npm registry：https://registry.npmjs.org/iobroker.tinymqttbroker
+- Node 要求：>= 22.0.0

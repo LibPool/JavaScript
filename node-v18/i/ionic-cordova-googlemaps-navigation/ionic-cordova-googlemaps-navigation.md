@@ -1,0 +1,28 @@
+# ionic-cordova-googlemaps-navigation
+
+> 标签: cordova, google maps, ionic, navigation
+
+## 简介
+
+Ionic/Cordova Plugin for the google maps navigation.
+
+## 官网
+
+- 官网：https://github.com/joetjacobs/ionic-cordova-googlemaps-navigation
+- 源码仓库：git+https://github.com/joetjacobs/ionic-cordova-googlemaps-navigation.git
+- npm 页面：https://www.npmjs.com/package/ionic-cordova-googlemaps-navigation
+
+## 历史版本号
+
+- 当前版本：1.2.3
+
+- 1.1.0
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.2.3
+
+## 获取地址
+
+- npm 安装：`npm install ionic-cordova-googlemaps-navigation`
+- npm registry：https://registry.npmjs.org/ionic-cordova-googlemaps-navigation

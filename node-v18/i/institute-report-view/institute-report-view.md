@@ -1,0 +1,34 @@
+# institute-report-view
+
+> 标签: JavaScript
+
+## 简介
+
+报告
+
+## 官网
+
+- 源码仓库：https://e.coding.net/labbolwuhan/xiaolechanpin/product-yun-report-view.git
+- npm 页面：https://www.npmjs.com/package/institute-report-view
+
+## 历史版本号
+
+- 当前版本：0.0.15
+
+- 0.0.12
+- 0.0.13
+- 0.0.14
+- 0.0.15
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install institute-report-view`
+- npm registry：https://registry.npmjs.org/institute-report-view

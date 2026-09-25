@@ -1,0 +1,29 @@
+# is-proto-prop
+
+> 标签: javascript, js, properties, proto
+
+## 简介
+
+Does a JS type's prototype have a property
+
+## 官网
+
+- 官网：https://github.com/dustinspecker/is-proto-prop#readme
+- 源码仓库：git+https://github.com/dustinspecker/is-proto-prop.git
+- npm 页面：https://www.npmjs.com/package/is-proto-prop
+
+## 历史版本号
+
+- 当前版本：3.0.1
+
+- 1.0.0
+- 1.0.1
+- 2.0.0
+- 3.0.0
+- 3.0.1
+
+## 获取地址
+
+- npm 安装：`npm install is-proto-prop`
+- npm registry：https://registry.npmjs.org/is-proto-prop
+- Node 要求：>=18.0.0

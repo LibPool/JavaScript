@@ -1,0 +1,22 @@
+# ios-simulator-pilot
+
+> 标签: accessibility, axe, claude-code, ios, mcp, simulator, testing
+
+## 简介
+
+MCP server for iOS Simulator UI testing. Claude Code controls iOS apps via accessibility hierarchy and AXe CLI.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/ios-simulator-pilot
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install ios-simulator-pilot`
+- npm registry：https://registry.npmjs.org/ios-simulator-pilot

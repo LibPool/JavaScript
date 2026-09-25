@@ -1,0 +1,26 @@
+# is-ascii-control-char
+
+> 标签: ascii, char, character, check, code, control, control-character, string, test
+
+## 简介
+
+Check if a given value is one of the ASCII control characters
+
+## 官网
+
+- 官网：https://github.com/shinnn/is-ascii-control-char-code#readme
+- 源码仓库：git+https://github.com/shinnn/is-ascii-control-char-code.git
+- npm 页面：https://www.npmjs.com/package/is-ascii-control-char
+
+## 历史版本号
+
+- 当前版本：2.0.0-0
+
+- 0.0.0
+- 1.0.0
+- 2.0.0-0
+
+## 获取地址
+
+- npm 安装：`npm install is-ascii-control-char`
+- npm registry：https://registry.npmjs.org/is-ascii-control-char

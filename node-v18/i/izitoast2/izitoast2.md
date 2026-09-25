@@ -1,0 +1,25 @@
+# izitoast2
+
+> 标签: alert, confirm, info,, izitoast, js, message, notification, question, success, toast, toaster, warning
+
+## 简介
+
+Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
+
+## 官网
+
+- 官网：https://github.com/joshuakaluba/iziToast#readme
+- 源码仓库：git+https://github.com/joshuakaluba/iziToast.git
+- npm 页面：https://www.npmjs.com/package/izitoast2
+
+## 历史版本号
+
+- 当前版本：1.4.1
+
+- 1.4.0
+- 1.4.1
+
+## 获取地址
+
+- npm 安装：`npm install izitoast2`
+- npm registry：https://registry.npmjs.org/izitoast2
