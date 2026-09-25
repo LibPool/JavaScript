@@ -1,0 +1,24 @@
+# kv-tag
+
+> 标签: config, config file, key value, tag function, tagged template literal, template literal
+
+## 简介
+
+convert template tags with `key: value` statements to objects
+
+## 官网
+
+- 官网：https://github.com/sethvincent/kv-tag#readme
+- 源码仓库：git+https://github.com/sethvincent/kv-tag.git
+- npm 页面：https://www.npmjs.com/package/kv-tag
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install kv-tag`
+- npm registry：https://registry.npmjs.org/kv-tag

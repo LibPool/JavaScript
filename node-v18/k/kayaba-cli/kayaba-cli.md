@@ -1,0 +1,22 @@
+# kayaba-cli
+
+> 标签: scar
+
+## 简介
+
+kayaba的脚手架
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/kayaba-cli
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install kayaba-cli`
+- npm registry：https://registry.npmjs.org/kayaba-cli

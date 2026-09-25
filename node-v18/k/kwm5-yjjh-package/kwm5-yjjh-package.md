@@ -1,0 +1,33 @@
+# kwm5-yjjh-package
+
+> 标签: JavaScript
+
+## 简介
+
+the kwm5-yjjh-package based on vue.js
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/kwm5-yjjh-package
+
+## 历史版本号
+
+- 当前版本：0.1.16-beta4
+
+- 0.1.17-beta7
+- 0.1.17-beta8
+- 0.1.17-beta9
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+- 0.1.9-beta1.1
+
+## 获取地址
+
+- npm 安装：`npm install kwm5-yjjh-package`
+- npm registry：https://registry.npmjs.org/kwm5-yjjh-package

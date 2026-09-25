@@ -1,0 +1,24 @@
+# kkkkk-loader
+
+> 标签: kkkkk-loader
+
+## 简介
+
+kkk
+
+## 官网
+
+- 官网：https://github.com/kaungkyawkyaw/kkkkkloader#readme
+- 源码仓库：git+https://github.com/kaungkyawkyaw/kkkkkloader.git
+- npm 页面：https://www.npmjs.com/package/kkkkk-loader
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install kkkkk-loader`
+- npm registry：https://registry.npmjs.org/kkkkk-loader

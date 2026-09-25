@@ -1,0 +1,25 @@
+# krc-pagination
+
+> 标签: control, controls, kraken, kraken team, kraken-team, krc, krc-pagination, pagination, paging, reactjs
+
+## 简介
+
+Kraken react controls - pagation
+
+## 官网
+
+- 官网：https://github.com/DuyLuongPhung/krc-pagination#readme
+- 源码仓库：git+https://github.com/DuyLuongPhung/krc-pagination.git
+- npm 页面：https://www.npmjs.com/package/krc-pagination
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install krc-pagination`
+- npm registry：https://registry.npmjs.org/krc-pagination

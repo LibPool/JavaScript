@@ -1,0 +1,22 @@
+# kot0la_conf1g_tml
+
+> 标签: mcp1, mcp_02
+
+## 简介
+
+kot0la_conf1g_tml - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/kot0la_conf1g_tml
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install kot0la_conf1g_tml`
+- npm registry：https://registry.npmjs.org/kot0la_conf1g_tml

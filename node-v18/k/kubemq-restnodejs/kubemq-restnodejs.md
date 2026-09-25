@@ -1,0 +1,26 @@
+# kubemq-restnodejs
+
+> 标签: Messaging
+
+## 简介
+
+The KubeMQ SDK for Nodejs enables Nodejs developers to communicate with KubeMQ server.
+
+## 官网
+
+- 官网：https://github.com/kubemq-io/kubemq-rest-nodejs#readme
+- 源码仓库：git+https://github.com/kubemq-io/kubemq-rest-nodejs.git
+- npm 页面：https://www.npmjs.com/package/kubemq-restnodejs
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install kubemq-restnodejs`
+- npm registry：https://registry.npmjs.org/kubemq-restnodejs

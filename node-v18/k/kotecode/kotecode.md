@@ -1,0 +1,28 @@
+# kotecode
+
+> 标签: JavaScript
+
+## 简介
+
+KoteCode — AI coding agent based on OpenCode
+
+## 官网
+
+- 官网：https://github.com/koteyye/KoteCode#readme
+- 源码仓库：git+https://github.com/koteyye/KoteCode.git
+- npm 页面：https://www.npmjs.com/package/kotecode
+
+## 历史版本号
+
+- 当前版本：0.2.1
+
+- 0.0.0-bootstrap.1
+- 0.1.0
+- 0.2.0
+- 0.2.1
+
+## 获取地址
+
+- npm 安装：`npm install kotecode`
+- npm registry：https://registry.npmjs.org/kotecode
+- Node 要求：>=18

@@ -1,0 +1,24 @@
+# koa-route-schema-yapi
+
+> 标签: JavaScript
+
+## 简介
+
+yapi export to koa-route-schema schemaOptions
+
+## 官网
+
+- 官网：https://github.com/keepgoingwm/koa-route-schema-yapi#readme
+- 源码仓库：git+ssh://git@github.com/keepgoingwm/koa-route-schema-yapi.git
+- npm 页面：https://www.npmjs.com/package/koa-route-schema-yapi
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install koa-route-schema-yapi`
+- npm registry：https://registry.npmjs.org/koa-route-schema-yapi

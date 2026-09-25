@@ -1,0 +1,29 @@
+# key-display-names
+
+> 标签: key-names, keyboard, keycodes, keynames, keys, shortcut
+
+## 简介
+
+Convert key codes to easily readable names.
+
+## 官网
+
+- 官网：https://github.com/joker876/key-names#readme
+- 源码仓库：git+https://github.com/joker876/key-names.git
+- npm 页面：https://www.npmjs.com/package/key-display-names
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.2.0
+- 1.3.0
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install key-display-names`
+- npm registry：https://registry.npmjs.org/key-display-names

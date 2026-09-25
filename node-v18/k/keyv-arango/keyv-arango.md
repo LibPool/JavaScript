@@ -1,0 +1,29 @@
+# keyv-arango
+
+> 标签: arango, arangodb, cache, key-value, keyv, persistence, storage
+
+## 简介
+
+ArangoDB adapter for Keyv, the simple persistent key-value storage module.
+
+## 官网
+
+- 官网：https://github.com/TimMikeladze/keyv-arango#readme
+- 源码仓库：git+https://github.com/TimMikeladze/keyv-arango.git
+- npm 页面：https://www.npmjs.com/package/keyv-arango
+
+## 历史版本号
+
+- 当前版本：1.4.0
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 1.4.0
+
+## 获取地址
+
+- npm 安装：`npm install keyv-arango`
+- npm registry：https://registry.npmjs.org/keyv-arango
