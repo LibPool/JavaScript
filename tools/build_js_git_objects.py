@@ -244,7 +244,7 @@ def build_release_tree(
         env=env,
     )
 
-    root_entries: list[tuple[str, bytes]] = []
+    root_entries: dict[str, bytes] = {}
     dirs: list[tuple[str, bytes]] = []
     files: list[tuple[str, bytes]] = []
     current_top: str | None = None
@@ -289,21 +289,19 @@ def build_release_tree(
                 entries,
                 store,
             )
-            for idx, (name, _oid) in enumerate(root_entries):
-                if name == current_top:
-                    print(
-                        f"  WARNING duplicate top {current_top!r} "
-                        f"old={_oid.hex()} new={oid.hex()}",
-                        file=sys.stderr,
-                        flush=True,
-                    )
-                    root_entries[idx] = (
-                        current_top,
-                        merge_root_entry(store, _oid, oid),
-                    )
-                    break
+            previous = root_entries.get(current_top)
+            if previous is None:
+                root_entries[current_top] = oid
             else:
-                root_entries.append((current_top, oid))
+                print(
+                    f"  WARNING duplicate top {current_top!r} "
+                    f"old={previous.hex()} new={oid.hex()}",
+                    file=sys.stderr,
+                    flush=True,
+                )
+                root_entries[current_top] = merge_root_entry(
+                    store, previous, oid
+                )
             dirs = []
             files = []
 
@@ -341,7 +339,10 @@ def build_release_tree(
         append_pkg_dir()
         finalize_top()
     return write_tree(
-        [(b"40000", name.encode("ascii"), oid) for name, oid in root_entries],
+        [
+            (b"40000", name.encode("ascii"), oid)
+            for name, oid in root_entries.items()
+        ],
         store,
     )
 
