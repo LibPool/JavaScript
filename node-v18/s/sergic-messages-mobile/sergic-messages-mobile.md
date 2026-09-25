@@ -1,0 +1,25 @@
+# sergic-messages-mobile
+
+> 标签: Ionic
+
+## 简介
+
+Component messages for Sergic mobile Apps
+
+## 官网
+
+- 官网：https://github.com/gaetanmallet/messages-list-component#readme
+- 源码仓库：git+https://gaetanmallet@bitbucket.org/gaetanmallet/sergic-messages-mobile.git
+- npm 页面：https://www.npmjs.com/package/sergic-messages-mobile
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install sergic-messages-mobile`
+- npm registry：https://registry.npmjs.org/sergic-messages-mobile

@@ -1,0 +1,35 @@
+# sz-editor
+
+> 标签: link, link card, wangeditor
+
+## 简介
+
+修改卡片 a标签跳转为span跳转
+
+## 官网
+
+- 官网：http://web-design/sz-editor#readme
+- 源码仓库：git+https://github.com/web-design/sz-editor.git
+- npm 页面：https://www.npmjs.com/package/sz-editor
+
+## 历史版本号
+
+- 当前版本：0.2.2
+
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+- 0.2.0
+- 0.2.1
+- 0.2.2
+
+## 获取地址
+
+- npm 安装：`npm install sz-editor`
+- npm registry：https://registry.npmjs.org/sz-editor

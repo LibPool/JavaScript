@@ -1,0 +1,36 @@
+# setmy-info-less-extended
+
+> 标签: css, jest, less, pug, selenium
+
+## 简介
+
+SMI LESS project
+
+## 官网
+
+- 官网：https://github.com/setmy-info/setmy-info-less
+- 源码仓库：git+https://github.com/setmy-info/setmy-info-less.git
+- npm 页面：https://www.npmjs.com/package/setmy-info-less-extended
+
+## 历史版本号
+
+- 当前版本：5.2.7
+
+- 4.2.0
+- 5.0.0
+- 5.1.0
+- 5.1.1
+- 5.2.0
+- 5.2.1
+- 5.2.2
+- 5.2.3
+- 5.2.4
+- 5.2.5
+- 5.2.6
+- 5.2.7
+
+## 获取地址
+
+- npm 安装：`npm install setmy-info-less-extended`
+- npm registry：https://registry.npmjs.org/setmy-info-less-extended
+- Node 要求：>=24.0.0

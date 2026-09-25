@@ -1,0 +1,30 @@
+# shesha-reports
+
+> 标签: JavaScript
+
+## 简介
+
+Boilerplate for writing React Libraries bundled with Rollup.js to commonJs and ES6 Modules and React Styleguidist
+
+## 官网
+
+- 官网：https://boxfusion@dev.azure.com/boxfusion/shesha-reactjs-reports/_git/shesha-reactjs-reports
+- 源码仓库：https://boxfusion@dev.azure.com/boxfusion/shesha-reactjs-reports/_git/shesha-reactjs-reports
+- npm 页面：https://www.npmjs.com/package/shesha-reports
+
+## 历史版本号
+
+- 当前版本：0.0.6
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+
+## 获取地址
+
+- npm 安装：`npm install shesha-reports`
+- npm registry：https://registry.npmjs.org/shesha-reports
+- Node 要求：>=14

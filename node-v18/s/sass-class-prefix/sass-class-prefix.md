@@ -1,0 +1,27 @@
+# sass-class-prefix
+
+> 标签: JavaScript
+
+## 简介
+
+Parse sass file and add any prefix to scss(sass)'s class selector
+
+## 官网
+
+- 官网：https://github.com/joe-re/sass-class-prefix#readme
+- 源码仓库：git+https://github.com/joe-re/sass-class-prefix.git
+- npm 页面：https://www.npmjs.com/package/sass-class-prefix
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install sass-class-prefix`
+- npm registry：https://registry.npmjs.org/sass-class-prefix
+- Node 要求：>=4.0.0

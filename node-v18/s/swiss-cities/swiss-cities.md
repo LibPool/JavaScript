@@ -1,0 +1,31 @@
+# swiss-cities
+
+> 标签: Cities, Swiss
+
+## 简介
+
+Provides a list of swiss cities based on data from bfs.admin.ch
+
+## 官网
+
+- 官网：https://github.com/samzurcher/swiss-cities
+- 源码仓库：git+https://github.com/samzurcher/swiss-cities.git
+- npm 页面：https://www.npmjs.com/package/swiss-cities
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.1.0
+- 1.1.1
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install swiss-cities`
+- npm registry：https://registry.npmjs.org/swiss-cities

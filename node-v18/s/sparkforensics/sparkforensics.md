@@ -1,0 +1,25 @@
+# sparkforensics
+
+> 标签: apache-spark, cli, diagnostics, event-log, performance, spark, spark-history-server
+
+## 简介
+
+Installs the sparkforensics-analyze command from sparkforensics-cli: analyze Apache Spark event logs for skew, spill, GC pressure, stragglers, and more.
+
+## 官网
+
+- 官网：https://github.com/shuffle-works/sparkforensics#readme
+- 源码仓库：git+https://github.com/shuffle-works/sparkforensics.git
+- npm 页面：https://www.npmjs.com/package/sparkforensics
+
+## 历史版本号
+
+- 当前版本：0.2.4
+
+- 0.2.4
+
+## 获取地址
+
+- npm 安装：`npm install sparkforensics`
+- npm registry：https://registry.npmjs.org/sparkforensics
+- Node 要求：>=18

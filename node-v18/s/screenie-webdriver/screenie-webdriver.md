@@ -1,0 +1,35 @@
+# screenie-webdriver
+
+> 标签: cli, regression, screenshot
+
+## 简介
+
+Webdriver runner for screenie
+
+## 官网
+
+- 官网：https://github.com/madjam002/screenie#readme
+- 源码仓库：git://github.com/madjam002/screenie.git
+- npm 页面：https://www.npmjs.com/package/screenie-webdriver
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.3.0
+- 0.3.1
+- 0.3.2
+- 1.0.0-0
+- 1.0.0-1
+- 1.0.0-2
+- 1.0.0-3
+- 1.0.0-4
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install screenie-webdriver`
+- npm registry：https://registry.npmjs.org/screenie-webdriver

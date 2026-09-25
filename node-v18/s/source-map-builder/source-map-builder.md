@@ -1,0 +1,30 @@
+# source-map-builder
+
+> 标签: source map
+
+## 简介
+
+A better libaray to consume, generate and merge source maps.
+
+## 官网
+
+- 官网：https://github.com/digojs/source-map-builder#readme
+- 源码仓库：git+ssh://git@github.com/digojs/source-map-builder.git
+- npm 页面：https://www.npmjs.com/package/source-map-builder
+
+## 历史版本号
+
+- 当前版本：0.0.7
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+
+## 获取地址
+
+- npm 安装：`npm install source-map-builder`
+- npm registry：https://registry.npmjs.org/source-map-builder

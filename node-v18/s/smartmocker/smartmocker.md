@@ -1,0 +1,24 @@
+# smartmocker
+
+> 标签: openapi
+
+## 简介
+
+OpenAPI 3.x/Swagger 2 mock server generator for Node.js
+
+## 官网
+
+- 官网：https://github.com/smartface/smartmocker#readme
+- 源码仓库：git+https://github.com/smartface/smartmocker.git
+- npm 页面：https://www.npmjs.com/package/smartmocker
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install smartmocker`
+- npm registry：https://registry.npmjs.org/smartmocker

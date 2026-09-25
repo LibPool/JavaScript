@@ -1,0 +1,34 @@
+# stylelint-value-list-box-shadow-inset-first
+
+> 标签: box-shadow, inset, stylelint-plugin
+
+## 简介
+
+Stylelint rule for checking if box-shadow inset values are first in list.
+
+## 官网
+
+- 官网：https://github.com/niksy/stylelint-value-list-box-shadow-inset-first#readme
+- 源码仓库：git+https://github.com/niksy/stylelint-value-list-box-shadow-inset-first.git
+- npm 页面：https://www.npmjs.com/package/stylelint-value-list-box-shadow-inset-first
+
+## 历史版本号
+
+- 当前版本：3.3.1
+
+- 1.0.0
+- 1.0.1
+- 2.0.0
+- 2.0.1
+- 3.0.0
+- 3.1.0
+- 3.1.1
+- 3.2.0
+- 3.3.0
+- 3.3.1
+
+## 获取地址
+
+- npm 安装：`npm install stylelint-value-list-box-shadow-inset-first`
+- npm registry：https://registry.npmjs.org/stylelint-value-list-box-shadow-inset-first
+- Node 要求：>=12 || >=16

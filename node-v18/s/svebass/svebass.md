@@ -1,0 +1,28 @@
+# svebass
+
+> 标签: css, emotion, flexbox, grid-styled, javascript, layout, rebass, rebass-grid, style, svebass, svelte
+
+## 简介
+
+Primitive, themeable UI components for Svelte, built with Styled System.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/svebass
+
+## 历史版本号
+
+- 当前版本：1.1.7
+
+- 1.0.0
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.1.6
+- 1.1.7
+
+## 获取地址
+
+- npm 安装：`npm install svebass`
+- npm registry：https://registry.npmjs.org/svebass

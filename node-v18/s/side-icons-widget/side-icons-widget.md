@@ -1,0 +1,22 @@
+# side-icons-widget
+
+> 标签: css, html, ionicons, social-icons, widget
+
+## 简介
+
+Side social icons widget (HTML/CSS + Ionicons) with hover labels
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/side-icons-widget
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install side-icons-widget`
+- npm registry：https://registry.npmjs.org/side-icons-widget

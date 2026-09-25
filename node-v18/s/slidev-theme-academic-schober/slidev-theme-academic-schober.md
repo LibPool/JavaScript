@@ -1,0 +1,36 @@
+# slidev-theme-academic-schober
+
+> 标签: academic, slidev, slidev-theme, slidev-theme-academic, slidev-theme-academic-schober
+
+## 简介
+
+Academic presentations with Slidev / personal version
+
+## 官网
+
+- 官网：https://github.com/schober-ch/slidev-theme-academic-schober#readme
+- 源码仓库：git+https://github.com/schober-ch/slidev-theme-academic-schober.git
+- npm 页面：https://www.npmjs.com/package/slidev-theme-academic-schober
+
+## 历史版本号
+
+- 当前版本：1.2.24
+
+- 1.2.17
+- 1.2.19
+- 1.2.2
+- 1.2.20
+- 1.2.21
+- 1.2.22
+- 1.2.23
+- 1.2.24
+- 1.2.3
+- 1.2.6
+- 1.2.8
+- 1.2.9
+
+## 获取地址
+
+- npm 安装：`npm install slidev-theme-academic-schober`
+- npm registry：https://registry.npmjs.org/slidev-theme-academic-schober
+- Node 要求：>=18.0.0

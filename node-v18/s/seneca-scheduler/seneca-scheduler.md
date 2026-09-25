@@ -1,0 +1,25 @@
+# seneca-scheduler
+
+> 标签: cron, scheduler, scheduling, seneca
+
+## 简介
+
+Senecea scheduler plugin
+
+## 官网
+
+- 官网：https://github.com/davidmarkclements/seneca-scheduler
+- 源码仓库：github.com/davidmarkclements/seneca-scheduler
+- npm 页面：https://www.npmjs.com/package/seneca-scheduler
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.0
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install seneca-scheduler`
+- npm registry：https://registry.npmjs.org/seneca-scheduler

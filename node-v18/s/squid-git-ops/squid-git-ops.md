@@ -1,0 +1,26 @@
+# squid-git-ops
+
+> 标签: git operations
+
+## 简介
+
+Git operations on various git vendors
+
+## 官网
+
+- 官网：https://github.com/rajeevnaikte/git-ops#readme
+- 源码仓库：git+https://github.com/rajeevnaikte/git-ops.git
+- npm 页面：https://www.npmjs.com/package/squid-git-ops
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install squid-git-ops`
+- npm registry：https://registry.npmjs.org/squid-git-ops

@@ -1,0 +1,25 @@
+# sd-webui-api-sdk
+
+> 标签: sd-webui-api, stable diffusion, stable diffusion api
+
+## 简介
+
+For more information, see https://github.com/joindn/sd-webui-api-sdk
+
+## 官网
+
+- 官网：https://github.com/joindn/sd-webui-api-sdk#readme
+- 源码仓库：git+https://github.com/joindn/sd-webui-api-sdk.git
+- npm 页面：https://www.npmjs.com/package/sd-webui-api-sdk
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install sd-webui-api-sdk`
+- npm registry：https://registry.npmjs.org/sd-webui-api-sdk

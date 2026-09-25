@@ -1,0 +1,28 @@
+# shipday-cli
+
+> 标签: demo, launch, localhost, ship, shipday, tunnel
+
+## 简介
+
+Ship your localhost to the world. One command.
+
+## 官网
+
+- 官网：https://shipday.dev
+- 源码仓库：git+https://github.com/hearenzo/shipday-cli.git
+- npm 页面：https://www.npmjs.com/package/shipday-cli
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install shipday-cli`
+- npm registry：https://registry.npmjs.org/shipday-cli
+- Node 要求：>=18

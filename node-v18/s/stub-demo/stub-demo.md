@@ -1,0 +1,24 @@
+# stub-demo
+
+> 标签: demo, stub
+
+## 简介
+
+List of demos of how to use `stub`
+
+## 官网
+
+- 官网：https://github.com/meituan/stub-demo#readme
+- 源码仓库：git+https://github.com/meituan/stub-demo.git
+- npm 页面：https://www.npmjs.com/package/stub-demo
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install stub-demo`
+- npm registry：https://registry.npmjs.org/stub-demo

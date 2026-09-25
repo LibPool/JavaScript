@@ -1,0 +1,24 @@
+# strapi-plugin-keylearnings-field
+
+> 标签: custom-fields, strapi, strapi-plugin
+
+## 简介
+
+A strapi custom field for adding key learnings JSON field
+
+## 官网
+
+- 官网：https://github.com/dohrnii-dev/strapi-plugin-keylearnings-field#readme
+- 源码仓库：git+https://github.com/dohrnii-dev/strapi-plugin-keylearnings-field.git
+- npm 页面：https://www.npmjs.com/package/strapi-plugin-keylearnings-field
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install strapi-plugin-keylearnings-field`
+- npm registry：https://registry.npmjs.org/strapi-plugin-keylearnings-field

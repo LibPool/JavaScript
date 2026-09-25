@@ -1,0 +1,35 @@
+# slate-sidebar
+
+> 标签: JavaScript
+
+## 简介
+
+Quick and easy way to implement sidebar in your slate editor.
+
+## 官网
+
+- 官网：http:
+- 源码仓库：https://github.com/Canner/slate-sidebar.git
+- npm 页面：https://www.npmjs.com/package/slate-sidebar
+
+## 历史版本号
+
+- 当前版本：1.5.0
+
+- 0.1.0
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.3
+- 0.2.4
+- 0.3.0
+- 1.4.2
+- 1.4.3
+- 1.4.3-alpha.0
+- 1.4.4
+- 1.5.0
+
+## 获取地址
+
+- npm 安装：`npm install slate-sidebar`
+- npm registry：https://registry.npmjs.org/slate-sidebar

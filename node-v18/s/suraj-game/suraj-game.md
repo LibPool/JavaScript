@@ -1,0 +1,27 @@
+# suraj-game
+
+> 标签: JavaScript
+
+## 简介
+
+it is a commandline game for you
+
+## 官网
+
+- 官网：https://github.com/SurajjBhardwaj/commandline_game[1;6D[1;6D[1;6C[C[1;6D[1;6D[C[C[#readme
+- 源码仓库：git+https://github.com/SurajjBhardwaj/commandline_game.git
+- npm 页面：https://www.npmjs.com/package/suraj-game
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install suraj-game`
+- npm registry：https://registry.npmjs.org/suraj-game

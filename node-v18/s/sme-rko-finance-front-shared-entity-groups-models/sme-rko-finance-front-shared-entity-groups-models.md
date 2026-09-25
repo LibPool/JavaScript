@@ -1,0 +1,23 @@
+# sme-rko-finance-front-shared-entity-groups-models
+
+> 标签: JavaScript
+
+## 简介
+
+security holding package
+
+## 官网
+
+- 源码仓库：npm/security-holder
+- npm 页面：https://www.npmjs.com/package/sme-rko-finance-front-shared-entity-groups-models
+
+## 历史版本号
+
+- 当前版本：0.0.1-security
+
+- 0.0.1-security
+
+## 获取地址
+
+- npm 安装：`npm install sme-rko-finance-front-shared-entity-groups-models`
+- npm registry：https://registry.npmjs.org/sme-rko-finance-front-shared-entity-groups-models

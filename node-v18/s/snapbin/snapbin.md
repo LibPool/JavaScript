@@ -1,0 +1,25 @@
+# snapbin
+
+> 标签: clipboard, code, developer-tools, pastebin, self-hosted, sharing, snippet
+
+## 简介
+
+Self-hosted pastebin — paste code, get a share link. Zero config, zero database.
+
+## 官网
+
+- 官网：https://github.com/aiyang-zh/zhenyi-snapbin#readme
+- 源码仓库：git+https://github.com/aiyang-zh/zhenyi-snapbin.git
+- npm 页面：https://www.npmjs.com/package/snapbin
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install snapbin`
+- npm registry：https://registry.npmjs.org/snapbin
+- Node 要求：>=16

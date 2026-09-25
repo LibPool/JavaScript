@@ -1,0 +1,29 @@
+# sfnick
+
+> 标签: sfdx-plugin
+
+## 简介
+
+A CLI tool to make life easier while working at Fonteva | by Nicholas Glesmann
+
+## 官网
+
+- 官网：https://github.com/nicholasglesmann/sfnick
+- 源码仓库：git+https://github.com/nicholasglesmann/sfnick.git
+- npm 页面：https://www.npmjs.com/package/sfnick
+
+## 历史版本号
+
+- 当前版本：0.0.5
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+
+## 获取地址
+
+- npm 安装：`npm install sfnick`
+- npm registry：https://registry.npmjs.org/sfnick
+- Node 要求：>=8.0.0

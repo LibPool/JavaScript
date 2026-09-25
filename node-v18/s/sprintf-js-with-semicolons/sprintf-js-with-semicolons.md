@@ -1,0 +1,24 @@
+# sprintf-js-with-semicolons
+
+> 标签: JavaScript
+
+## 简介
+
+JavaScript sprintf implementation with semicolon issue fixed
+
+## 官网
+
+- 官网：https://github.com/pauljmelia/sprintf.js#readme
+- 源码仓库：git+https://github.com/pauljmelia/sprintf.js.git
+- npm 页面：https://www.npmjs.com/package/sprintf-js-with-semicolons
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install sprintf-js-with-semicolons`
+- npm registry：https://registry.npmjs.org/sprintf-js-with-semicolons

@@ -1,0 +1,22 @@
+# shoukaiseki-wait-mcp
+
+> 标签: mcp, model-context-protocol, wait
+
+## 简介
+
+MCP server for waiting N seconds
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/shoukaiseki-wait-mcp
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install shoukaiseki-wait-mcp`
+- npm registry：https://registry.npmjs.org/shoukaiseki-wait-mcp

@@ -1,0 +1,24 @@
+# ssh2-sftp-server-linux
+
+> 标签: SSH2, sftp
+
+## 简介
+
+SSH2 sftp server
+
+## 官网
+
+- 官网：https://github.com/jasonhillier/ssh2-sftp-server#readme
+- 源码仓库：git+https://github.com/jasonhillier/ssh2-sftp-server.git
+- npm 页面：https://www.npmjs.com/package/ssh2-sftp-server-linux
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install ssh2-sftp-server-linux`
+- npm registry：https://registry.npmjs.org/ssh2-sftp-server-linux

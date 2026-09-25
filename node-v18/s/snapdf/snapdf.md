@@ -1,0 +1,35 @@
+# snapdf
+
+> 标签: ai-conversation, chatgpt, chatgpt-to-pdf, chrome, claude, claude-to-pdf, cli, conversation-to-pdf, headless, html-to-pdf, llm, pdf, puppeteer, scraper, virtual-scroll, webpage-to-pdf
+
+## 简介
+
+Save ChatGPT and Claude conversations and JavaScript-rendered pages to searchable PDF or plain text
+
+## 官网
+
+- 官网：https://github.com/jayrdeaton/snapdf#readme
+- 源码仓库：git+https://github.com/jayrdeaton/snapdf.git
+- npm 页面：https://www.npmjs.com/package/snapdf
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.0.0
+- 1.0.1
+- 1.0.10
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install snapdf`
+- npm registry：https://registry.npmjs.org/snapdf

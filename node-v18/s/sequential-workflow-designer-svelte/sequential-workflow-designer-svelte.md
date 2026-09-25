@@ -1,0 +1,34 @@
+# sequential-workflow-designer-svelte
+
+> 标签: builder, designer, flow, lowcode, nocode, svelte, sveltejs, workflow
+
+## 简介
+
+Svelte wrapper for Sequential Workflow Designer component.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/sequential-workflow-designer-svelte
+
+## 历史版本号
+
+- 当前版本：0.40.4
+
+- 0.37.3
+- 0.37.4
+- 0.38.0
+- 0.38.1
+- 0.38.2
+- 0.39.0
+- 0.39.1
+- 0.40.0
+- 0.40.1
+- 0.40.2
+- 0.40.3
+- 0.40.4
+- 共 79 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install sequential-workflow-designer-svelte`
+- npm registry：https://registry.npmjs.org/sequential-workflow-designer-svelte

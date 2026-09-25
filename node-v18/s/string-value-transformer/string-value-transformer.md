@@ -1,0 +1,25 @@
+# string-value-transformer
+
+> 标签: JavaScript
+
+## 简介
+
+transforms string to other types of values and vice versa safely
+
+## 官网
+
+- 官网：https://github.com/arumi-s/string-value-transformer#readme
+- 源码仓库：git://github.com/arumi-s/string-value-transformer.git
+- npm 页面：https://www.npmjs.com/package/string-value-transformer
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install string-value-transformer`
+- npm registry：https://registry.npmjs.org/string-value-transformer

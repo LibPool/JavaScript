@@ -1,0 +1,35 @@
+# stares
+
+> 标签: gaze, glob, inter-process, kill, process, rpc, watch, watcher
+
+## 简介
+
+Stares is a inter-process node.js module to manage multiple file watchers.
+
+## 官网
+
+- 官网：https://github.com/kaelzhang/node-stares
+- 源码仓库：git@github.com:kaelzhang/node-stares.git
+- npm 页面：https://www.npmjs.com/package/stares
+
+## 历史版本号
+
+- 当前版本：1.5.5
+
+- 0.3.0
+- 0.4.0
+- 1.4.0
+- 1.4.1
+- 1.4.2
+- 1.4.3
+- 1.5.0
+- 1.5.1
+- 1.5.2
+- 1.5.3
+- 1.5.4
+- 1.5.5
+
+## 获取地址
+
+- npm 安装：`npm install stares`
+- npm registry：https://registry.npmjs.org/stares

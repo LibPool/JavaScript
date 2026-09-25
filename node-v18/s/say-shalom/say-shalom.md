@@ -1,0 +1,32 @@
+# say-shalom
+
+> 标签: helloworld, shalom
+
+## 简介
+
+the command-line tool that says "Shalom!" to World :blush:
+
+## 官网
+
+- 官网：https://github.com/joisadler/say-shalom#readme
+- 源码仓库：git+https://github.com/joisadler/say-shalom.git
+- npm 页面：https://www.npmjs.com/package/say-shalom
+
+## 历史版本号
+
+- 当前版本：1.2.7
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.1.5
+- 1.2.5
+- 1.2.6
+- 1.2.7
+
+## 获取地址
+
+- npm 安装：`npm install say-shalom`
+- npm registry：https://registry.npmjs.org/say-shalom

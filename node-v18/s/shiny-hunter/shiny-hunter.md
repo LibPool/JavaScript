@@ -1,0 +1,28 @@
+# shiny-hunter
+
+> 标签: buddy, claude, claude-code, cli, companion
+
+## 简介
+
+Find your perfect Claude Code buddy — hunt for the exact species, rarity, and stats you want
+
+## 官网
+
+- 官网：https://github.com/agentenatalie/shiny-hunter#readme
+- 源码仓库：git+https://github.com/agentenatalie/shiny-hunter.git
+- npm 页面：https://www.npmjs.com/package/shiny-hunter
+
+## 历史版本号
+
+- 当前版本：2.2.0
+
+- 1.0.0
+- 2.0.0
+- 2.1.0
+- 2.2.0
+
+## 获取地址
+
+- npm 安装：`npm install shiny-hunter`
+- npm registry：https://registry.npmjs.org/shiny-hunter
+- Node 要求：>=18

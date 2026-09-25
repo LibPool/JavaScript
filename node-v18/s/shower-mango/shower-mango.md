@@ -1,0 +1,25 @@
+# shower-mango
+
+> 标签: mango solutions, presentation, shower, theme
+
+## 简介
+
+Mango theme for Shower HTML presentation engine
+
+## 官网
+
+- 官网：https://github.com/mangothecat/shower-mango
+- 源码仓库：git://github.com/mangothecat/shower-mango.git
+- npm 页面：https://www.npmjs.com/package/shower-mango
+
+## 历史版本号
+
+- 当前版本：3.1.0
+
+- 3.0.0
+- 3.1.0
+
+## 获取地址
+
+- npm 安装：`npm install shower-mango`
+- npm registry：https://registry.npmjs.org/shower-mango

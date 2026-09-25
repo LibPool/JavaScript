@@ -1,0 +1,24 @@
+# squealing-crimson-skunk
+
+> 标签: JavaScript
+
+## 简介
+
+This is package squealing-crimson-skunk
+
+## 官网
+
+- 官网：https://github.com/luthfiamrullah/squealing-crimson-skunk#readme
+- 源码仓库：git+https://github.com/luthfiamrullah/squealing-crimson-skunk.git
+- npm 页面：https://www.npmjs.com/package/squealing-crimson-skunk
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install squealing-crimson-skunk`
+- npm registry：https://registry.npmjs.org/squealing-crimson-skunk

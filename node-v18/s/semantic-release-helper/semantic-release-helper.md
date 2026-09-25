@@ -1,0 +1,26 @@
+# semantic-release-helper
+
+> 标签: CI/CD, automation, changelog generator, devops, git, github releases, npm publish, release automation, semantic-release, software development, versioning, workflow
+
+## 简介
+
+A sample package demonstrating semantic-release
+
+## 官网
+
+- 官网：https://github.com/shivam-visions/auto-semantic-release#readme
+- 源码仓库：git+https://github.com/shivam-visions/auto-semantic-release.git
+- npm 页面：https://www.npmjs.com/package/semantic-release-helper
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install semantic-release-helper`
+- npm registry：https://registry.npmjs.org/semantic-release-helper

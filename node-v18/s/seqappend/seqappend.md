@@ -1,0 +1,26 @@
+# seqappend
+
+> 标签: JavaScript
+
+## 简介
+
+Helper to make subsequent calls to fs.appendFile sequential
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/seqappend
+
+## 历史版本号
+
+- 当前版本：2.0.1
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 2.0.0
+- 2.0.1
+
+## 获取地址
+
+- npm 安装：`npm install seqappend`
+- npm registry：https://registry.npmjs.org/seqappend

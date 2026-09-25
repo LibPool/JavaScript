@@ -1,0 +1,24 @@
+# stats-moji
+
+> 标签: JavaScript
+
+## 简介
+
+This is a simple code for getting emojis for the http stats codes
+
+## 官网
+
+- 官网：https://github.com/alestor123/STATS-MOJI#readme
+- 源码仓库：git+https://github.com/alestor123/STATS-MOJI.git
+- npm 页面：https://www.npmjs.com/package/stats-moji
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install stats-moji`
+- npm registry：https://registry.npmjs.org/stats-moji

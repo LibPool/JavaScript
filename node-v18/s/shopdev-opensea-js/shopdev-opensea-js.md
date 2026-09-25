@@ -1,0 +1,35 @@
+# shopdev-opensea-js
+
+> 标签: collectibles, crypto, ethereum, javascript, marketplace, nft, node, non-fungible-tokens, project-opensea, sdk, smart-contracts
+
+## 简介
+
+JavaScript SDK for the OpenSea marketplace. Let users buy or sell crypto collectibles and other cryptogoods, all on your own site!
+
+## 官网
+
+- 官网：https://docs.opensea.io/v1.0/reference
+- 源码仓库：git+https://github.com/ProjectOpenSea/opensea-js.git
+- npm 页面：https://www.npmjs.com/package/shopdev-opensea-js
+
+## 历史版本号
+
+- 当前版本：3.8.0
+
+- 2.8.0
+- 2.9.0
+- 3.0.0
+- 3.1.0
+- 3.2.0
+- 3.3.0
+- 3.3.1
+- 3.4.1
+- 3.5.0
+- 3.6.0
+- 3.7.0
+- 3.8.0
+
+## 获取地址
+
+- npm 安装：`npm install shopdev-opensea-js`
+- npm registry：https://registry.npmjs.org/shopdev-opensea-js

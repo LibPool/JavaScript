@@ -1,0 +1,27 @@
+# sc-stream
+
+> 标签: browser, promise, soundcloud, stream
+
+## 简介
+
+simple promise based interface for streaming from soundcloud
+
+## 官网
+
+- 官网：https://github.com/compedit/sc-stream
+- 源码仓库：git@github.com:compedit/sc-stream.git
+- npm 页面：https://www.npmjs.com/package/sc-stream
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install sc-stream`
+- npm registry：https://registry.npmjs.org/sc-stream

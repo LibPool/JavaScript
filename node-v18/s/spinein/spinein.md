@@ -1,0 +1,24 @@
+# spinein
+
+> 标签: dom, shell, spine, spinner
+
+## 简介
+
+Spine like a shell spinner
+
+## 官网
+
+- 官网：https://github.com/renatorib/spine#readme
+- 源码仓库：git+https://github.com/renatorib/spine.git
+- npm 页面：https://www.npmjs.com/package/spinein
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install spinein`
+- npm registry：https://registry.npmjs.org/spinein

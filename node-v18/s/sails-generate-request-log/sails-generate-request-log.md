@@ -1,0 +1,25 @@
+# sails-generate-request-log
+
+> 标签: generate, generator, plugin, request-log, sails
+
+## 简介
+
+sails generate request-log
+
+## 官网
+
+- 官网：https://github.com/chris-held/sails-generate-request-log#readme
+- 源码仓库：git+https://github.com/chris-held/sails-generate-request-log.git
+- npm 页面：https://www.npmjs.com/package/sails-generate-request-log
+
+## 历史版本号
+
+- 当前版本：0.10.1
+
+- 0.10.0
+- 0.10.1
+
+## 获取地址
+
+- npm 安装：`npm install sails-generate-request-log`
+- npm registry：https://registry.npmjs.org/sails-generate-request-log

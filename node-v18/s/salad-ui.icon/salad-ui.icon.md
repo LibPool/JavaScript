@@ -1,0 +1,36 @@
+# salad-ui.icon
+
+> 标签: react, react-chart, react-component, react-graph
+
+## 简介
+
+Reusable React UI Components Toolkit
+
+## 官网
+
+- 官网：https://github.com/dailymotion/salad-ui#readme
+- 源码仓库：git+https://github.com/dailymotion/salad-ui.git
+- npm 页面：https://www.npmjs.com/package/salad-ui.icon
+
+## 历史版本号
+
+- 当前版本：1.1.46
+
+- 1.1.35
+- 1.1.36
+- 1.1.37
+- 1.1.38
+- 1.1.39
+- 1.1.40
+- 1.1.41
+- 1.1.42
+- 1.1.43
+- 1.1.44
+- 1.1.45
+- 1.1.46
+- 共 264 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install salad-ui.icon`
+- npm registry：https://registry.npmjs.org/salad-ui.icon

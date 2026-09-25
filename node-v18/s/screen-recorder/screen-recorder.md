@@ -1,0 +1,31 @@
+# screen-recorder
+
+> 标签: osx, recording, video
+
+## 简介
+
+OS X screen recording library for Node
+
+## 官网
+
+- 官网：https://github.com/tomashanacek/screen-recorder
+- 源码仓库：git+https://github.com/tomashanacek/screen-recorder.git
+- npm 页面：https://www.npmjs.com/package/screen-recorder
+
+## 历史版本号
+
+- 当前版本：1.4.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.0
+- 1.1.1
+- 1.2.0
+- 1.3.0
+- 1.4.0
+
+## 获取地址
+
+- npm 安装：`npm install screen-recorder`
+- npm registry：https://registry.npmjs.org/screen-recorder

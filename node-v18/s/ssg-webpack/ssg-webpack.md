@@ -1,0 +1,27 @@
+# ssg-webpack
+
+> 标签: JavaScript
+
+## 简介
+
+SSG Webpack Dependencies
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/ssg-webpack
+
+## 历史版本号
+
+- 当前版本：4.4.2
+
+- 0.0.1
+- 0.0.2
+- 2.2.1
+- 2.5.0
+- 4.4.1
+- 4.4.2
+
+## 获取地址
+
+- npm 安装：`npm install ssg-webpack`
+- npm registry：https://registry.npmjs.org/ssg-webpack

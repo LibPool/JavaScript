@@ -1,0 +1,23 @@
+# scully-plugin-index-file
+
+> 标签: JavaScript
+
+## 简介
+
+Index file plugin for Scully Component Generator
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/scully-plugin-index-file
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install scully-plugin-index-file`
+- npm registry：https://registry.npmjs.org/scully-plugin-index-file

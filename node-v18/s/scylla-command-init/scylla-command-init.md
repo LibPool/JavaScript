@@ -1,0 +1,27 @@
+# scylla-command-init
+
+> 标签: scaffold, scylla
+
+## 简介
+
+scylla project scaffold
+
+## 官网
+
+- 官网：https://github.com/Hinc/scrat-command-init
+- 源码仓库：https://github.com/Hinc/scrat-command-init.git
+- npm 页面：https://www.npmjs.com/package/scylla-command-init
+
+## 历史版本号
+
+- 当前版本：0.1.3
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+
+## 获取地址
+
+- npm 安装：`npm install scylla-command-init`
+- npm registry：https://registry.npmjs.org/scylla-command-init

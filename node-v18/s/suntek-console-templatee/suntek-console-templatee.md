@@ -1,0 +1,22 @@
+# suntek-console-templatee
+
+> 标签: JavaScript
+
+## 简介
+
+-   NodeJS - https://nodejs.org/ -   NPM - Comes with NodeJS, for package management
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/suntek-console-templatee
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install suntek-console-templatee`
+- npm registry：https://registry.npmjs.org/suntek-console-templatee

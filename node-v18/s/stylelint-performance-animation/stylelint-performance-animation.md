@@ -1,0 +1,30 @@
+# stylelint-performance-animation
+
+> 标签: animation performance, stylelint-plugin
+
+## 简介
+
+Stylelint rule for preventing the use of low performance animation
+
+## 官网
+
+- 官网：https://github.com/konstantin24121/stylelint-performance-animation#readme
+- 源码仓库：git+https://github.com/konstantin24121/stylelint-performance-animation.git
+- npm 页面：https://www.npmjs.com/package/stylelint-performance-animation
+
+## 历史版本号
+
+- 当前版本：1.2.2
+
+- 1.0.1
+- 1.1.1
+- 1.1.2
+- 1.2.0
+- 1.2.1
+- 1.2.2
+
+## 获取地址
+
+- npm 安装：`npm install stylelint-performance-animation`
+- npm registry：https://registry.npmjs.org/stylelint-performance-animation
+- Node 要求：>=4

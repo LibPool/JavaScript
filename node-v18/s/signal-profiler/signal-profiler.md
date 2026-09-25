@@ -1,0 +1,24 @@
+# signal-profiler
+
+> 标签: heap, profiler, signal
+
+## 简介
+
+Make v8-profiler heap snapshot triggered by a process signal SIGPIPE
+
+## 官网
+
+- 官网：https://github.com/adolfojunior/signal-profiler#readme
+- 源码仓库：git+https://github.com/adolfojunior/signal-profiler.git
+- npm 页面：https://www.npmjs.com/package/signal-profiler
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install signal-profiler`
+- npm registry：https://registry.npmjs.org/signal-profiler

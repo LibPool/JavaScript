@@ -1,0 +1,24 @@
+# strength-exercise
+
+> 标签: component, components, design, framework, frontend, react, react-component, ui, web3
+
+## 简介
+
+strength-exercise
+
+## 官网
+
+- 官网：https://github.com/strength-exercise/strength-exercise#readme
+- 源码仓库：git+https://github.com/strength-exercise/strength-exercise.git
+- npm 页面：https://www.npmjs.com/package/strength-exercise
+
+## 历史版本号
+
+- 当前版本：5.83.49
+
+- 5.83.49
+
+## 获取地址
+
+- npm 安装：`npm install strength-exercise`
+- npm registry：https://registry.npmjs.org/strength-exercise

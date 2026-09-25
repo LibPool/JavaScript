@@ -1,0 +1,25 @@
+# swagger-openwhisk-codegen
+
+> 标签: rest, swagger
+
+## 简介
+
+A Swagger codegen for JavaScript
+
+## 官网
+
+- 官网：https://github.com/lionelvillard/swagger-js-codegen
+- 源码仓库：git://github.com/lionelvillard/swagger-js-codegen.git
+- npm 页面：https://www.npmjs.com/package/swagger-openwhisk-codegen
+
+## 历史版本号
+
+- 当前版本：1.8.1
+
+- 1.8.0
+- 1.8.1
+
+## 获取地址
+
+- npm 安装：`npm install swagger-openwhisk-codegen`
+- npm registry：https://registry.npmjs.org/swagger-openwhisk-codegen

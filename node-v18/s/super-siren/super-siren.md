@@ -1,0 +1,35 @@
+# super-siren
+
+> 标签: API client, Hypermedia, Immutable.js, REST, Siren, superagent
+
+## 简介
+
+Siren client based built on top of superagent
+
+## 官网
+
+- 官网：https://github.com/JChapman202/super-siren#readme
+- 源码仓库：git+https://github.com/JChapman202/super-siren.git
+- npm 页面：https://www.npmjs.com/package/super-siren
+
+## 历史版本号
+
+- 当前版本：2.0.2
+
+- 0.1.14
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.7
+- 0.1.8
+- 0.1.9
+- 1.0.0
+- 2.0.0
+- 2.0.1
+- 2.0.2
+
+## 获取地址
+
+- npm 安装：`npm install super-siren`
+- npm registry：https://registry.npmjs.org/super-siren

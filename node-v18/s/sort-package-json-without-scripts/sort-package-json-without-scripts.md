@@ -1,0 +1,24 @@
+# sort-package-json-without-scripts
+
+> 标签: keys, object, sort
+
+## 简介
+
+Sort an Object or package.json based on the well-known package.json keys
+
+## 官网
+
+- 官网：https://github.com/20chan/sort-package-json-without-scripts#readme
+- 源码仓库：git+ssh://git@github.com/20chan/sort-package-json.git
+- npm 页面：https://www.npmjs.com/package/sort-package-json-without-scripts
+
+## 历史版本号
+
+- 当前版本：0.0.0-development
+
+- 0.0.0-development
+
+## 获取地址
+
+- npm 安装：`npm install sort-package-json-without-scripts`
+- npm registry：https://registry.npmjs.org/sort-package-json-without-scripts

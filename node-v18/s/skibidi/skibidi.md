@@ -1,0 +1,26 @@
+# skibidi
+
+> 标签: JavaScript
+
+## 简介
+
+skibidi dop dop dop yes yes
+
+## 官网
+
+- 官网：https://github.com/beebls/skibidi#readme
+- 源码仓库：git+https://github.com/beebls/skibidi.git
+- npm 页面：https://www.npmjs.com/package/skibidi
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install skibidi`
+- npm registry：https://registry.npmjs.org/skibidi

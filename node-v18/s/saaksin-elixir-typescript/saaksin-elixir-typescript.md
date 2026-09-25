@@ -1,0 +1,26 @@
+# saaksin-elixir-typescript
+
+> 标签: elixir, gulp, laravel, typescript
+
+## 简介
+
+Laravel Elixir Typescript Compiler Extension
+
+## 官网
+
+- 官网：https://github.com/SaAkSin/laravel-elixir-typescript
+- 源码仓库：git+https://github.com/SaAkSin/laravel-elixir-typescript.git
+- npm 页面：https://www.npmjs.com/package/saaksin-elixir-typescript
+
+## 历史版本号
+
+- 当前版本：2.0.3
+
+- 2.0.1
+- 2.0.2
+- 2.0.3
+
+## 获取地址
+
+- npm 安装：`npm install saaksin-elixir-typescript`
+- npm registry：https://registry.npmjs.org/saaksin-elixir-typescript

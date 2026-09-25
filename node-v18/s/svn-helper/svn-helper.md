@@ -1,0 +1,36 @@
+# svn-helper
+
+> 标签: oclif
+
+## 简介
+
+svn-helper is a command line tool that aims to improve working with multiple subversion repositories at specific versions. For this it provides commands to switch multiple working copies at once.
+
+## 官网
+
+- 官网：https://github.com/tfriem/svn-helper
+- 源码仓库：git+https://github.com/tfriem/svn-helper.git
+- npm 页面：https://www.npmjs.com/package/svn-helper
+
+## 历史版本号
+
+- 当前版本：1.2.2
+
+- 0.5.0
+- 0.6.0
+- 0.7.0
+- 0.8.0
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.2.0
+- 1.2.1
+- 1.2.2
+
+## 获取地址
+
+- npm 安装：`npm install svn-helper`
+- npm registry：https://registry.npmjs.org/svn-helper
+- Node 要求：>=8.0.0

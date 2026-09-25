@@ -1,0 +1,35 @@
+# sftp-upload
+
+> 标签: sftp, ssh, upload
+
+## 简介
+
+Upload an entire directory to a remote sftp server.
+
+## 官网
+
+- 官网：https://github.com/pirumpi/sftp-upload#readme
+- 源码仓库：git+https://github.com/pirumpi/sftp-upload.git
+- npm 页面：https://www.npmjs.com/package/sftp-upload
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install sftp-upload`
+- npm registry：https://registry.npmjs.org/sftp-upload

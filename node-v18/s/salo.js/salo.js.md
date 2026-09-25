@@ -1,0 +1,22 @@
+# salo.js
+
+> 标签: dom, element, jquery, selector
+
+## 简介
+
+salo.js allows you to use client-side storage for hits before they are successfully sent to Google Analytics
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/salo.js
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install salo.js`
+- npm registry：https://registry.npmjs.org/salo.js

@@ -1,0 +1,33 @@
+# s360-app-registration
+
+> 标签: JavaScript
+
+## 简介
+
+Automatic Registration of app.json upon startup.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/s360-app-registration
+
+## 历史版本号
+
+- 当前版本：1.0.61
+
+- 1.0.5
+- 1.0.51
+- 1.0.52
+- 1.0.53
+- 1.0.54
+- 1.0.55
+- 1.0.56
+- 1.0.57
+- 1.0.58
+- 1.0.59
+- 1.0.60
+- 1.0.61
+
+## 获取地址
+
+- npm 安装：`npm install s360-app-registration`
+- npm registry：https://registry.npmjs.org/s360-app-registration

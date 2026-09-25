@@ -1,0 +1,27 @@
+# string-expansion
+
+> 标签: JavaScript
+
+## 简介
+
+A package for expanding strings using nested And and Or objects
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/string-expansion
+
+## 历史版本号
+
+- 当前版本：1.3.0
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.2.0
+- 1.2.1
+- 1.3.0
+
+## 获取地址
+
+- npm 安装：`npm install string-expansion`
+- npm registry：https://registry.npmjs.org/string-expansion

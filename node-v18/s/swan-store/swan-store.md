@@ -1,0 +1,28 @@
+# swan-store
+
+> 标签: JavaScript
+
+## 简介
+
+[完整演示DEMO](https://github.com/libin1991/swan-store)
+
+## 官网
+
+- 官网：https://github.com/libin1991/swan-store#readme
+- 源码仓库：git+https://github.com/libin1991/swan-store.git
+- npm 页面：https://www.npmjs.com/package/swan-store
+
+## 历史版本号
+
+- 当前版本：3.0.0
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 2.0.0
+- 3.0.0
+
+## 获取地址
+
+- npm 安装：`npm install swan-store`
+- npm registry：https://registry.npmjs.org/swan-store

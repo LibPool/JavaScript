@@ -1,0 +1,25 @@
+# sample-hello-world-example
+
+> 标签: hello world
+
+## 简介
+
+a sample hello world example
+
+## 官网
+
+- 官网：https://github.com/rajashree31289/simple-hello-world-example
+- 源码仓库：git+https://github.com/rajashree31289/simple-hello-world-example.git
+- npm 页面：https://www.npmjs.com/package/sample-hello-world-example
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install sample-hello-world-example`
+- npm registry：https://registry.npmjs.org/sample-hello-world-example
+- Node 要求：>4.0

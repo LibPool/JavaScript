@@ -1,0 +1,36 @@
+# ssmenv
+
+> 标签: aws, ssm
+
+## 简介
+
+Read and write environment variables stored within AWS SSM.
+
+## 官网
+
+- 官网：https://github.com/oursiberia/ssmenv
+- 源码仓库：https://github.com/oursiberia/ssmenv.git
+- npm 页面：https://www.npmjs.com/package/ssmenv
+
+## 历史版本号
+
+- 当前版本：0.6.3
+
+- 0.1.3
+- 0.2.0
+- 0.3.0
+- 0.4.0
+- 0.4.1
+- 0.5.0
+- 0.5.1
+- 0.5.4
+- 0.5.5
+- 0.6.2
+- 0.6.2-0
+- 0.6.3
+
+## 获取地址
+
+- npm 安装：`npm install ssmenv`
+- npm registry：https://registry.npmjs.org/ssmenv
+- Node 要求：>=8.0.0

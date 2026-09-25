@@ -1,0 +1,25 @@
+# smarty-koa-cli
+
+> 标签: JavaScript
+
+## 简介
+
+命令行运行模块
+
+## 官网
+
+- 官网：https://github.com/Y-wson/wson-koa2-cli#readme
+- 源码仓库：git+https://github.com/Y-wson/wson-koa2-cli.git
+- npm 页面：https://www.npmjs.com/package/smarty-koa-cli
+
+## 历史版本号
+
+- 当前版本：1.1.8
+
+- 1.1.6
+- 1.1.8
+
+## 获取地址
+
+- npm 安装：`npm install smarty-koa-cli`
+- npm registry：https://registry.npmjs.org/smarty-koa-cli

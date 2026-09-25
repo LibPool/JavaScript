@@ -1,0 +1,27 @@
+# saferskills
+
+> 标签: agent-security, agent-skill, ai-agent, claude-code, cline, codex, cursor, gemini-cli, github-copilot, mcp, mcp-server, openclaw, saferskills, security-scanner, supply-chain, trust-score, windsurf
+
+## 简介
+
+Install AI-agent Skills & MCP servers with a verified, independent SaferSkills trust score — across Claude Code, Cursor, Windsurf, Copilot, Codex, Gemini, Cline & OpenClaw.
+
+## 官网
+
+- 官网：https://saferskills.ai
+- 源码仓库：git+https://github.com/OpenLatch/saferskills.git
+- npm 页面：https://www.npmjs.com/package/saferskills
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.0.0
+- 0.1.0
+- 0.1.1
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install saferskills`
+- npm registry：https://registry.npmjs.org/saferskills

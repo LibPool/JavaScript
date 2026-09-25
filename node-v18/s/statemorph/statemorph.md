@@ -1,0 +1,24 @@
+# statemorph
+
+> 标签: JavaScript
+
+## 简介
+
+Zero-dep React wrapper that eliminates loading/error/empty/success ternary hell.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/statemorph
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install statemorph`
+- npm registry：https://registry.npmjs.org/statemorph

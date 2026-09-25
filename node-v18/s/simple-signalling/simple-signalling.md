@@ -1,0 +1,26 @@
+# simple-signalling
+
+> 标签: signalling, webrtc
+
+## 简介
+
+Library for WebRTC signalling through different transports
+
+## 官网
+
+- 官网：https://github.com/WorldBrain/simple-signalling#readme
+- 源码仓库：git+https://github.com/WorldBrain/simple-signalling.git
+- npm 页面：https://www.npmjs.com/package/simple-signalling
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.2.0
+- 0.2.1
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install simple-signalling`
+- npm registry：https://registry.npmjs.org/simple-signalling

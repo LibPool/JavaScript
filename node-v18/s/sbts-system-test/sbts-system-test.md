@@ -1,0 +1,25 @@
+# sbts-system-test
+
+> 标签: JavaScript
+
+## 简介
+
+This project is a final result on Tutorial: Making a React Component Library with Storybook and NPM.
+
+## 官网
+
+- 官网：http://fill in later
+- 源码仓库：fill later
+- npm 页面：https://www.npmjs.com/package/sbts-system-test
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install sbts-system-test`
+- npm registry：https://registry.npmjs.org/sbts-system-test

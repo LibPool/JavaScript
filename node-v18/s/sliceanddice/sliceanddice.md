@@ -1,0 +1,25 @@
+# sliceanddice
+
+> 标签: dice, grid, image, slice
+
+## 简介
+
+An image slicing tool supporting lots of options.
+
+## 官网
+
+- 官网：https://github.com/seiyria/sliceanddice#readme
+- 源码仓库：git+https://github.com/seiyria/sliceanddice.git
+- npm 页面：https://www.npmjs.com/package/sliceanddice
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install sliceanddice`
+- npm registry：https://registry.npmjs.org/sliceanddice

@@ -1,0 +1,24 @@
+# scutum
+
+> 标签: OpenPGP
+
+## 简介
+
+Another OpenPGP command line tool like GPG.
+
+## 官网
+
+- 官网：https://github.com/neoatlantis/scutum#readme
+- 源码仓库：git+https://github.com/neoatlantis/scutum.git
+- npm 页面：https://www.npmjs.com/package/scutum
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install scutum`
+- npm registry：https://registry.npmjs.org/scutum

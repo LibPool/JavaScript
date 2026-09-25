@@ -1,0 +1,31 @@
+# soundtrack.js
+
+> 标签: album, audio, mp3, player, score, soundline, soundtrack, soundtrack.js, wav
+
+## 简介
+
+Make handling the soundtracks to your HTML5/JS games somewhat easier. ES6/JS2015 with CommonJS bindings.
+
+## 官网
+
+- 官网：https://github.com/StoneCypher/soundtrack.js#readme
+- 源码仓库：git+https://github.com/StoneCypher/soundtrack.js.git
+- npm 页面：https://www.npmjs.com/package/soundtrack.js
+
+## 历史版本号
+
+- 当前版本：0.5.5
+
+- 0.1.0
+- 0.3.0
+- 0.4.0
+- 0.5.1
+- 0.5.2
+- 0.5.3
+- 0.5.4
+- 0.5.5
+
+## 获取地址
+
+- npm 安装：`npm install soundtrack.js`
+- npm registry：https://registry.npmjs.org/soundtrack.js

@@ -1,0 +1,33 @@
+# sortable2
+
+> 标签: angular, drag, meteor, mixin, ng-sortable, react, reorder, sortable, vue
+
+## 简介
+
+JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery required. Supports Meteor, AngularJS, React, Polymer, Vue, Knockout and any CSS library, e.g. Bootstrap.
+
+## 官网
+
+- 官网：https://github.com/SortableJS/Sortable#readme
+- 源码仓库：git://github.com/SortableJS/Sortable.git
+- npm 页面：https://www.npmjs.com/package/sortable2
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install sortable2`
+- npm registry：https://registry.npmjs.org/sortable2

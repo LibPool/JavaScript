@@ -1,0 +1,28 @@
+# solid-fluent-store
+
+> 标签: fluent, solid, store
+
+## 简介
+
+Solid Fluent Store is a wrapper library for Solid stores. It provides a fluent and type-safe API to interact with a store while maintaining read/write segregation.
+
+## 官网
+
+- 官网：https://github.com/JorrenH/solid-fluent-store#readme
+- 源码仓库：git+https://github.com/JorrenH/solid-fluent-store.git
+- npm 页面：https://www.npmjs.com/package/solid-fluent-store
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.0
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install solid-fluent-store`
+- npm registry：https://registry.npmjs.org/solid-fluent-store

@@ -1,0 +1,24 @@
+# slayerslayer-calc
+
+> 标签: JavaScript
+
+## 简介
+
+this is my firstpackage
+
+## 官网
+
+- 官网：https://github.com/Rohit22061999/slayerslayer-calc#readme
+- 源码仓库：git+https://github.com/Rohit22061999/slayerslayer-calc.git
+- npm 页面：https://www.npmjs.com/package/slayerslayer-calc
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install slayerslayer-calc`
+- npm registry：https://registry.npmjs.org/slayerslayer-calc

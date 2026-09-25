@@ -1,0 +1,25 @@
+# steroid-hook
+
+> 标签: hook, html, jsx, steroid, template
+
+## 简介
+
+nodejs hook to transpile steroid templated into jsx-like templates
+
+## 官网
+
+- 官网：https://github.com/bredele/steroid-hook#readme
+- 源码仓库：git+https://github.com/bredele/steroid-hook.git
+- npm 页面：https://www.npmjs.com/package/steroid-hook
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install steroid-hook`
+- npm registry：https://registry.npmjs.org/steroid-hook

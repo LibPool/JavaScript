@@ -1,0 +1,25 @@
+# status-code-v1
+
+> 标签: brasil
+
+## 简介
+
+### Install plugin ``` npm i status-code-v1 npm install status-code-v1 ```
+
+## 官网
+
+- 官网：https://github.com/Nelson0Simao/Status-Code#readme
+- 源码仓库：git+https://github.com/Nelson0Simao/Status-Code.git
+- npm 页面：https://www.npmjs.com/package/status-code-v1
+
+## 历史版本号
+
+- 当前版本：2.0.1
+
+- 2.0.0
+- 2.0.1
+
+## 获取地址
+
+- npm 安装：`npm install status-code-v1`
+- npm registry：https://registry.npmjs.org/status-code-v1

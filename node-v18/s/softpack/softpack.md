@@ -1,0 +1,35 @@
+# softpack
+
+> 标签: JavaScript
+
+## 简介
+
+If you have any questions or want to contribute please contact me at meistermilad@gmail.com
+
+## 官网
+
+- 官网：https://github.com/mmilad/softpack#readme
+- 源码仓库：git+https://github.com/mmilad/softpack.git
+- npm 页面：https://www.npmjs.com/package/softpack
+
+## 历史版本号
+
+- 当前版本：0.4.8
+
+- 0.3.5
+- 0.3.6
+- 0.3.7
+- 0.4.0
+- 0.4.1
+- 0.4.2
+- 0.4.3
+- 0.4.4
+- 0.4.5
+- 0.4.6
+- 0.4.7
+- 0.4.8
+
+## 获取地址
+
+- npm 安装：`npm install softpack`
+- npm registry：https://registry.npmjs.org/softpack

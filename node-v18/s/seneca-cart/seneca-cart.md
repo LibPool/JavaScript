@@ -1,0 +1,27 @@
+# seneca-cart
+
+> 标签: cart, seneca, shopping
+
+## 简介
+
+Shopping cart
+
+## 官网
+
+- 官网：https://github.com/rjrodger/seneca-cart
+- 源码仓库：git://github.com/rjrodger/seneca-cart.git
+- npm 页面：https://www.npmjs.com/package/seneca-cart
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install seneca-cart`
+- npm registry：https://registry.npmjs.org/seneca-cart

@@ -1,0 +1,27 @@
+# serviz
+
+> 标签: command, orchestration, pattern, service, workflow
+
+## 简介
+
+Minimalistic Command object Interface for JavaScript
+
+## 官网
+
+- 官网：https://github.com/markets/serviz-js#readme
+- 源码仓库：git+https://github.com/markets/serviz-js.git
+- npm 页面：https://www.npmjs.com/package/serviz
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install serviz`
+- npm registry：https://registry.npmjs.org/serviz
+- Node 要求：>=18.0.0

@@ -1,0 +1,28 @@
+# stale-while-revalidate-lru-cache
+
+> 标签: JavaScript
+
+## 简介
+
+Adds stale-while-revalidate scheme on top of lru-cache that will return dirty/stale values, while new ones are being updated
+
+## 官网
+
+- 官网：https://github.com/onomondo/stale-while-revalidate-lru-cache#readme
+- 源码仓库：git+https://github.com/onomondo/stale-while-revalidate-lru-cache.git
+- npm 页面：https://www.npmjs.com/package/stale-while-revalidate-lru-cache
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install stale-while-revalidate-lru-cache`
+- npm registry：https://registry.npmjs.org/stale-while-revalidate-lru-cache

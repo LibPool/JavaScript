@@ -1,0 +1,22 @@
+# sealui-m
+
+> 标签: components, mobile-app, mobile-ui, seal, sealui, vue, vue-components, vue2
+
+## 简介
+
+sealui-m - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/sealui-m
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install sealui-m`
+- npm registry：https://registry.npmjs.org/sealui-m

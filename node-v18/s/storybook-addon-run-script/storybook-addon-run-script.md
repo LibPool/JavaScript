@@ -1,0 +1,28 @@
+# storybook-addon-run-script
+
+> 标签: addon, storybook
+
+## 简介
+
+This storybook addon can be helpful to run a script inside your preview window by appending a script tag with your script content.
+
+## 官网
+
+- 官网：https://github.com/Intregrisist/storybook-addon-run-script
+- 源码仓库：git+https://github.com/Intregrisist/storybook-addon-run-script.git
+- npm 页面：https://www.npmjs.com/package/storybook-addon-run-script
+
+## 历史版本号
+
+- 当前版本：0.1.4
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+
+## 获取地址
+
+- npm 安装：`npm install storybook-addon-run-script`
+- npm registry：https://registry.npmjs.org/storybook-addon-run-script

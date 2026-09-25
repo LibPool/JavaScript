@@ -1,0 +1,35 @@
+# snub-ws-client
+
+> 标签: JavaScript
+
+## 简介
+
+Websocket client for snub-ws
+
+## 官网
+
+- 官网：https://github.com/cokeeffekt/snub-ws-client#readme
+- 源码仓库：git+https://github.com/cokeeffekt/snub-ws-client.git
+- npm 页面：https://www.npmjs.com/package/snub-ws-client
+
+## 历史版本号
+
+- 当前版本：5.0.0
+
+- 1.0.8
+- 1.0.9
+- 4.0.0-beta.0
+- 4.0.1-beta.0
+- 4.0.2-beta.0
+- 4.0.4-beta.0
+- 4.0.5-beta.0
+- 4.0.6-beta.0
+- 4.0.7-beta.0
+- 4.1.0
+- 4.2.1
+- 5.0.0
+
+## 获取地址
+
+- npm 安装：`npm install snub-ws-client`
+- npm registry：https://registry.npmjs.org/snub-ws-client

@@ -1,0 +1,25 @@
+# static-show
+
+> 标签: static file
+
+## 简介
+
+静态文件展示
+
+## 官网
+
+- 官网：https://github.com/qiqihaobenben/static-show#readme
+- 源码仓库：git+https://github.com/qiqihaobenben/static-show.git
+- npm 页面：https://www.npmjs.com/package/static-show
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install static-show`
+- npm registry：https://registry.npmjs.org/static-show
