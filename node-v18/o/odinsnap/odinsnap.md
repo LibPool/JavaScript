@@ -1,0 +1,30 @@
+# odinsnap
+
+> 标签: JavaScript
+
+## 简介
+
+<p align="center">   <img src="https://github.com/user-attachments/assets/39fad66c-b801-46cd-a00f-b572be83749c" width="500" height="400" alt="OdinSnap" /> </p>
+
+## 官网
+
+- 官网：https://github.com/Anxhul10/OdinSnap#readme
+- 源码仓库：git+https://github.com/Anxhul10/OdinSnap.git
+- npm 页面：https://www.npmjs.com/package/odinsnap
+
+## 历史版本号
+
+- 当前版本：2.1.4
+
+- 2.0.0
+- 2.1.0
+- 2.1.1
+- 2.1.2
+- 2.1.3
+- 2.1.4
+
+## 获取地址
+
+- npm 安装：`npm install odinsnap`
+- npm registry：https://registry.npmjs.org/odinsnap
+- Node 要求：>=22.0.0

@@ -1,0 +1,25 @@
+# openvalidation-languageserver-backend
+
+> 标签: REST, language-server, openVALIDATION
+
+## 简介
+
+automated starting of the openvalidation-rest module
+
+## 官网
+
+- 官网：https://github.com/openvalidation/openvalidation-languageserver#readme
+- 源码仓库：git+https://github.com/openvalidation/openvalidation-languageserver.git
+- npm 页面：https://www.npmjs.com/package/openvalidation-languageserver-backend
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install openvalidation-languageserver-backend`
+- npm registry：https://registry.npmjs.org/openvalidation-languageserver-backend

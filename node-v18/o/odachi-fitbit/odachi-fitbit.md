@@ -1,0 +1,25 @@
+# odachi-fitbit
+
+> 标签: http, https, nodejs, routing
+
+## 简介
+
+Compressed Trie based Server navigator for FITBIT
+
+## 官网
+
+- 官网：https://github.com/judedaryl/odachi-fitbit#readme
+- 源码仓库：git+https://github.com/judedaryl/odachi-fitbit.git
+- npm 页面：https://www.npmjs.com/package/odachi-fitbit
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install odachi-fitbit`
+- npm registry：https://registry.npmjs.org/odachi-fitbit

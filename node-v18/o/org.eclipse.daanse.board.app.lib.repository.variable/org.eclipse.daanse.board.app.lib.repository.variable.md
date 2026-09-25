@@ -1,0 +1,24 @@
+# org.eclipse.daanse.board.app.lib.repository.variable
+
+> 标签: JavaScript
+
+## 简介
+
+Repository for variables from org.eclipse.daanse.board.app.lib.variables
+
+## 官网
+
+- 官网：https://github.com/eclipse-daanse/org.eclipse.daanse.board.app#readme
+- 源码仓库：git+https://github.com/eclipse-daanse/org.eclipse.daanse.board.app.git
+- npm 页面：https://www.npmjs.com/package/org.eclipse.daanse.board.app.lib.repository.variable
+
+## 历史版本号
+
+- 当前版本：0.0.1-next.1
+
+- 0.0.1-next.1
+
+## 获取地址
+
+- npm 安装：`npm install org.eclipse.daanse.board.app.lib.repository.variable`
+- npm registry：https://registry.npmjs.org/org.eclipse.daanse.board.app.lib.repository.variable

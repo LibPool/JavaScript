@@ -1,0 +1,25 @@
+# objectionjs-ralcorta
+
+> 标签: knex, mysql, orm, postgresql, query, query builder, sql, sqlite3
+
+## 简介
+
+An SQL-friendly ORM for Node.js
+
+## 官网
+
+- 官网：https://github.com/ralcorta/objection.js#readme
+- 源码仓库：git://github.com/ralcorta/objection.js.git
+- npm 页面：https://www.npmjs.com/package/objectionjs-ralcorta
+
+## 历史版本号
+
+- 当前版本：3.0.1
+
+- 3.0.1
+
+## 获取地址
+
+- npm 安装：`npm install objectionjs-ralcorta`
+- npm registry：https://registry.npmjs.org/objectionjs-ralcorta
+- Node 要求：>=12.0.0

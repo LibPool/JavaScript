@@ -1,0 +1,24 @@
+# optimal-blackjack
+
+> 标签: basic, blackjack, infinite, strategy
+
+## 简介
+
+Returns the optimal action for a given blackjack hand in an infinite deck game
+
+## 官网
+
+- 官网：https://github.com/sunny-zuo/optimal-blackjack#readme
+- 源码仓库：git+https://github.com/sunny-zuo/optimal-blackjack.git
+- npm 页面：https://www.npmjs.com/package/optimal-blackjack
+
+## 历史版本号
+
+- 当前版本：2.1.1
+
+- 2.1.1
+
+## 获取地址
+
+- npm 安装：`npm install optimal-blackjack`
+- npm registry：https://registry.npmjs.org/optimal-blackjack

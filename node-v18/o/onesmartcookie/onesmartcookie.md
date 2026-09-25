@@ -1,0 +1,24 @@
+# onesmartcookie
+
+> 标签: JavaScript
+
+## 简介
+
+This provides similar functionality to lodash
+
+## 官网
+
+- 官网：https://github.com/SamualM2021/Lotide#readme
+- 源码仓库：git+https://github.com/SamualM2021/Lotide.git
+- npm 页面：https://www.npmjs.com/package/onesmartcookie
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install onesmartcookie`
+- npm registry：https://registry.npmjs.org/onesmartcookie

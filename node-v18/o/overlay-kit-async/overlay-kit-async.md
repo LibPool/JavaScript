@@ -1,0 +1,26 @@
+# overlay-kit-async
+
+> 标签: overlay, react
+
+## 简介
+
+Next-generation tools for managing overlays
+
+## 官网
+
+- 官网：https://github.com/p-iknow/overlay-kit-async
+- 源码仓库：git+https://github.com/p-iknow/overlay-kit-async.git
+- npm 页面：https://www.npmjs.com/package/overlay-kit-async
+
+## 历史版本号
+
+- 当前版本：2.0.1
+
+- 1.9.0
+- 2.0.0
+- 2.0.1
+
+## 获取地址
+
+- npm 安装：`npm install overlay-kit-async`
+- npm registry：https://registry.npmjs.org/overlay-kit-async

@@ -1,0 +1,27 @@
+# oc-migrate
+
+> 标签: migrate, oc, opencomponents
+
+## 简介
+
+A CLI tool for helping OC maintainers to migrate between versions
+
+## 官网
+
+- 官网：https://github.com/matteofigus/oc-migrate#readme
+- 源码仓库：git+https://github.com/matteofigus/oc-migrate.git
+- npm 页面：https://www.npmjs.com/package/oc-migrate
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install oc-migrate`
+- npm registry：https://registry.npmjs.org/oc-migrate

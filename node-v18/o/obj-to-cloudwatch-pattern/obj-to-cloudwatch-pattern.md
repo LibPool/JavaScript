@@ -1,0 +1,24 @@
+# obj-to-cloudwatch-pattern
+
+> 标签: JavaScript
+
+## 简介
+
+Convert object into AWS CloudWatch log pattern
+
+## 官网
+
+- 官网：https://github.com/ChalkPE/obj-to-cloudwatch-pattern#readme
+- 源码仓库：git+https://github.com/ChalkPE/obj-to-cloudwatch-pattern.git
+- npm 页面：https://www.npmjs.com/package/obj-to-cloudwatch-pattern
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install obj-to-cloudwatch-pattern`
+- npm registry：https://registry.npmjs.org/obj-to-cloudwatch-pattern

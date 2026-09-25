@@ -1,0 +1,32 @@
+# offrouter-adapter-zed
+
+> 标签: JavaScript
+
+## 简介
+
+Zed adapter for OffRouter. Installs the OffRouter MCP server into Zed's global settings file (`~/.config/zed/settings.json`) so `offrouter install zed` works, with rollback.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/offrouter-adapter-zed
+
+## 历史版本号
+
+- 当前版本：0.34.0
+
+- 0.26.0
+- 0.27.0
+- 0.28.0
+- 0.29.0
+- 0.30.0
+- 0.31.0
+- 0.32.0
+- 0.33.0
+- 0.33.1
+- 0.33.2
+- 0.34.0
+
+## 获取地址
+
+- npm 安装：`npm install offrouter-adapter-zed`
+- npm registry：https://registry.npmjs.org/offrouter-adapter-zed

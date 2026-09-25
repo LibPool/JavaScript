@@ -1,0 +1,26 @@
+# obj-timeout
+
+> 标签: object, react, timeout
+
+## 简介
+
+Object wrapper for setTimout
+
+## 官网
+
+- 官网：https://github.com/GRIM2D/obj-timeout#readme
+- 源码仓库：git+https://github.com/GRIM2D/obj-timeout.git
+- npm 页面：https://www.npmjs.com/package/obj-timeout
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install obj-timeout`
+- npm registry：https://registry.npmjs.org/obj-timeout

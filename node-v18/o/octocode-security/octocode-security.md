@@ -1,0 +1,25 @@
+# octocode-security
+
+> 标签: JavaScript
+
+## 简介
+
+Rust-backed secret detection for Node.js — replaces octocode-security-utils
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/octocode-security
+
+## 历史版本号
+
+- 当前版本：16.3.0
+
+- 16.0.0
+- 16.2.0
+- 16.3.0
+
+## 获取地址
+
+- npm 安装：`npm install octocode-security`
+- npm registry：https://registry.npmjs.org/octocode-security
+- Node 要求：>=20.0.0

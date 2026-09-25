@@ -1,0 +1,24 @@
+# on-render2
+
+> 标签: express, middleware, render
+
+## 简介
+
+emit events when express start render and finish render.
+
+## 官网
+
+- 官网：https://github.com/htoooth/on-render#readme
+- 源码仓库：git+https://github.com/htoooth/on-render.git
+- npm 页面：https://www.npmjs.com/package/on-render2
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install on-render2`
+- npm registry：https://registry.npmjs.org/on-render2

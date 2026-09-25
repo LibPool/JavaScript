@@ -1,0 +1,25 @@
+# oldprofile-modifier-plugin
+
+> 标签: sfdx-plugin
+
+## 简介
+
+Add, edit, delete apex classes, visualforce pages, objects, and fields from older style of profile metadata files
+
+## 官网
+
+- 官网：https://github.com/Gruszkowy/oldprofile-modifier-plugin
+- 源码仓库：git+https://github.com/Gruszkowy/oldprofile-modifier-plugin.git
+- npm 页面：https://www.npmjs.com/package/oldprofile-modifier-plugin
+
+## 历史版本号
+
+- 当前版本：1.0.8
+
+- 1.0.8
+
+## 获取地址
+
+- npm 安装：`npm install oldprofile-modifier-plugin`
+- npm registry：https://registry.npmjs.org/oldprofile-modifier-plugin
+- Node 要求：>=8.0.0

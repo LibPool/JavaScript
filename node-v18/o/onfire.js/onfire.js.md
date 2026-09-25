@@ -1,0 +1,32 @@
+# onfire.js
+
+> 标签: ee, emitter, event, event-emitter, onfire, subscribe
+
+## 简介
+
+onfire.js is a mini (~500 b) version for event-emitter.
+
+## 官网
+
+- 官网：https://github.com/hustcc/onfire.js#readme
+- 源码仓库：git+https://github.com/hustcc/onfire.js.git
+- npm 页面：https://www.npmjs.com/package/onfire.js
+
+## 历史版本号
+
+- 当前版本：2.0.1
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 2.0.0
+- 2.0.1
+
+## 获取地址
+
+- npm 安装：`npm install onfire.js`
+- npm registry：https://registry.npmjs.org/onfire.js

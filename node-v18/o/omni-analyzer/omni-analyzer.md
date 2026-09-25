@@ -1,0 +1,29 @@
+# omni-analyzer
+
+> 标签: JavaScript
+
+## 简介
+
+[![Build and Test](https://github.com/niranjan94/omni-analyzer/actions/workflows/build-and-test.yml/badge.svg)](https://github.com/niranjan94/omni-analyzer/actions/workflows/build-and-test.yml) [![codecov](https://codecov.io/gh/niranjan94/omni-analyzer/gr
+
+## 官网
+
+- 官网：https://github.com/niranjan94/omni-analyzer#readme
+- 源码仓库：git+https://github.com/niranjan94/omni-analyzer.git
+- npm 页面：https://www.npmjs.com/package/omni-analyzer
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.1.0
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install omni-analyzer`
+- npm registry：https://registry.npmjs.org/omni-analyzer

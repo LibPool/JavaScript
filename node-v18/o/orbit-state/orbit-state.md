@@ -1,0 +1,28 @@
+# orbit-state
+
+> 标签: angular, reactive, rxJS, state-management, store, typescript
+
+## 简介
+
+Simple reactive state management for Angular
+
+## 官网
+
+- 官网：https://github.com/Afranioalves/orbit-state#readme
+- 源码仓库：git+https://github.com/Afranioalves/orbit-state.git
+- npm 页面：https://www.npmjs.com/package/orbit-state
+
+## 历史版本号
+
+- 当前版本：1.3.1
+
+- 0.0.1
+- 1.0.0
+- 1.2.0
+- 1.3.0
+- 1.3.1
+
+## 获取地址
+
+- npm 安装：`npm install orbit-state`
+- npm registry：https://registry.npmjs.org/orbit-state
