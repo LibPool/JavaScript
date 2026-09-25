@@ -1,0 +1,25 @@
+# your-resume-package-name
+
+> 标签: cli, npx, portfolio, resume, terminal
+
+## 简介
+
+Interactive resume displayed in terminal via npx
+
+## 官网
+
+- 官网：https://github.com/yourusername/your-resume-package#readme
+- 源码仓库：git+https://github.com/yourusername/your-resume-package.git
+- npm 页面：https://www.npmjs.com/package/your-resume-package-name
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install your-resume-package-name`
+- npm registry：https://registry.npmjs.org/your-resume-package-name
+- Node 要求：>=12.0.0

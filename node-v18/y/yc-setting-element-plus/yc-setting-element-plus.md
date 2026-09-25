@@ -1,0 +1,34 @@
+# yc-setting-element-plus
+
+> 标签: JavaScript
+
+## 简介
+
+### 介绍
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/yc-setting-element-plus
+
+## 历史版本号
+
+- 当前版本：0.25.9
+
+- 0.25.7
+- 0.25.8
+- 0.25.9
+- 0.3.0-beta.30
+- 0.3.0-beta.31
+- 0.4.0
+- 0.4.0-beta.1
+- 0.5.0
+- 0.6.0
+- 0.7.0
+- 0.8.0
+- 0.9.0
+- 共 84 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install yc-setting-element-plus`
+- npm registry：https://registry.npmjs.org/yc-setting-element-plus

@@ -1,0 +1,23 @@
+# yaoyao-randomjs
+
+> 标签: gen, random, regexp, string
+
+## 简介
+
+根据正则表达式生成随机字符串
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/yaoyao-randomjs
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install yaoyao-randomjs`
+- npm registry：https://registry.npmjs.org/yaoyao-randomjs

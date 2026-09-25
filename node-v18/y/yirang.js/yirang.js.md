@@ -1,0 +1,23 @@
+# yirang.js
+
+> 标签: js
+
+## 简介
+
+js study
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/yirang.js
+
+## 历史版本号
+
+- 当前版本：0.1.0-beta.2
+
+- 0.1.0-beta.1
+- 0.1.0-beta.2
+
+## 获取地址
+
+- npm 安装：`npm install yirang.js`
+- npm registry：https://registry.npmjs.org/yirang.js
