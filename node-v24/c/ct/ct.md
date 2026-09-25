@@ -1,0 +1,27 @@
+# ct
+
+> 标签: Class, Classtype, OOP, Object-oriented programming in JavaScript, Полноценные области видимости (public, protected, private)
+
+## 简介
+
+Это ООП библиотека для node.js, которая позволяет создавать полноценные классы на чистом JavaScript-е
+
+## 官网
+
+- 官网：http://github.com/classtype/ct
+- 源码仓库：git://github.com/classtype/ct.git
+- npm 页面：https://www.npmjs.com/package/ct
+
+## 历史版本号
+
+- 当前版本：1.0.6
+
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+
+## 获取地址
+
+- npm 安装：`npm install ct`
+- npm registry：https://registry.npmjs.org/ct

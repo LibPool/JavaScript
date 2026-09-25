@@ -1,0 +1,26 @@
+# @dotup/dotup-ts-mongoose
+
+> 标签: JavaScript
+
+## 简介
+
+Helper for creating mongoose schema
+
+## 官网
+
+- 官网：https://github.com/dotupNET/dotup-ts-mongoose#readme
+- 源码仓库：git+https://github.com/dotupNET/dotup-ts-mongoose.git
+- npm 页面：https://www.npmjs.com/package/@dotup/dotup-ts-mongoose
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 1.1.0
+- 1.1.1
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @dotup/dotup-ts-mongoose`
+- npm registry：https://registry.npmjs.org/@dotup/dotup-ts-mongoose

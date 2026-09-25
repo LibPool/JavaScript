@@ -1,0 +1,25 @@
+# @kdcio/aws-policy
+
+> 标签: api, authorizer, aws, gateway, kdc, lambda, policy
+
+## 简介
+
+Generate AWS auth policy for API Gateway lambda authorizer
+
+## 官网
+
+- 官网：https://github.com/kdcio/aws-policy#readme
+- npm 页面：https://www.npmjs.com/package/@kdcio/aws-policy
+
+## 历史版本号
+
+- 当前版本：0.3.2
+
+- 0.3.0
+- 0.3.1
+- 0.3.2
+
+## 获取地址
+
+- npm 安装：`npm install @kdcio/aws-policy`
+- npm registry：https://registry.npmjs.org/@kdcio/aws-policy

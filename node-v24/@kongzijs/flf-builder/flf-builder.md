@@ -1,0 +1,24 @@
+# @kongzijs/flf-builder
+
+> 标签: builder, editor, flf, flow, fluence, kongzijs, lesson, react
+
+## 简介
+
+Visual React Flow based lesson builder editor components, fully implemented on the FLF specification.
+
+## 官网
+
+- 官网：https://github.com/kongzijs/kongzijs#readme
+- 源码仓库：git+https://github.com/kongzijs/kongzijs.git
+- npm 页面：https://www.npmjs.com/package/@kongzijs/flf-builder
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @kongzijs/flf-builder`
+- npm registry：https://registry.npmjs.org/@kongzijs/flf-builder

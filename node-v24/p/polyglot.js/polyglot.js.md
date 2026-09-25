@@ -1,0 +1,29 @@
+# polyglot.js
+
+> 标签: i18n, internationalisation, internationalization, interpolation, polyglot, translate, translation
+
+## 简介
+
+Give your JavaScript the ability to speak many languages.
+
+## 官网
+
+- 官网：https://github.com/mreinstein/polyglot.js#readme
+- 源码仓库：git://github.com/mreinstein/polyglot.js.git
+- npm 页面：https://www.npmjs.com/package/polyglot.js
+
+## 历史版本号
+
+- 当前版本：4.0.0
+
+- 3.0.0
+- 3.0.1
+- 3.0.2
+- 3.0.3
+- 3.1.0
+- 4.0.0
+
+## 获取地址
+
+- npm 安装：`npm install polyglot.js`
+- npm registry：https://registry.npmjs.org/polyglot.js

@@ -1,0 +1,26 @@
+# npm-pub-libs
+
+> 标签: npm-pub-libs
+
+## 简介
+
+## 概述
+
+## 官网
+
+- 官网：https://github.com/csj5588/npm-pub-libs#readme
+- 源码仓库：git+https://github.com/csj5588/npm-pub-libs.git
+- npm 页面：https://www.npmjs.com/package/npm-pub-libs
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install npm-pub-libs`
+- npm registry：https://registry.npmjs.org/npm-pub-libs

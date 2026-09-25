@@ -1,0 +1,29 @@
+# react-native-draggable-view
+
+> 标签: android, bottom drawer, drag drop view, drawer, ios, react-component, react-native, vertical draggable view
+
+## 简介
+
+DraggableView component for React Native. Base from DraggableDrawer
+
+## 官网
+
+- 官网：https://github.com/yaraht17/react-native-draggable-view#readme
+- 源码仓库：git+https://github.com/yaraht17/react-native-draggable-view.git
+- npm 页面：https://www.npmjs.com/package/react-native-draggable-view
+
+## 历史版本号
+
+- 当前版本：0.0.6
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+
+## 获取地址
+
+- npm 安装：`npm install react-native-draggable-view`
+- npm registry：https://registry.npmjs.org/react-native-draggable-view

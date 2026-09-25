@@ -1,0 +1,27 @@
+# moleculer-psql-queue
+
+> 标签: microservice, moleculer
+
+## 简介
+
+Task queue service with graphile-worker
+
+## 官网
+
+- 官网：https://github.com/moleculerjs/moleculer-addons/tree/master/packages/moleculer-psql-queue#readme
+- 源码仓库：git+ssh://git@github.com/moleculerjs/moleculer-addons.git
+- npm 页面：https://www.npmjs.com/package/moleculer-psql-queue
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.1.0
+- 0.2.0
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install moleculer-psql-queue`
+- npm registry：https://registry.npmjs.org/moleculer-psql-queue
+- Node 要求：>= 20.x.x

@@ -1,0 +1,24 @@
+# majo-generator-password
+
+> 标签: generator, password, security, utility
+
+## 简介
+
+Practical strong password generator
+
+## 官网
+
+- 官网：https://github.com/MajoCervantes/password-generator#readme
+- 源码仓库：git+https://github.com/MajoCervantes/password-generator.git
+- npm 页面：https://www.npmjs.com/package/majo-generator-password
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install majo-generator-password`
+- npm registry：https://registry.npmjs.org/majo-generator-password

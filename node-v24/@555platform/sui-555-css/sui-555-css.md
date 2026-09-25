@@ -1,0 +1,24 @@
+# @555platform/sui-555-css
+
+> 标签: JavaScript
+
+## 简介
+
+Semantic UI for the 555 Platform
+
+## 官网
+
+- 官网：https://github.com/555platform/SUI-555-CSS#readme
+- 源码仓库：git+https://github.com/555platform/SUI-555-CSS.git
+- npm 页面：https://www.npmjs.com/package/@555platform/sui-555-css
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @555platform/sui-555-css`
+- npm registry：https://registry.npmjs.org/@555platform/sui-555-css

@@ -1,0 +1,29 @@
+# @sakura0v0/any-db-mcp
+
+> 标签: database, mcp, model-context-protocol, mssql, mysql, postgresql, sqlite, sqlserver
+
+## 简介
+
+MCP Server for MySQL, PostgreSQL, SQLite and Microsoft SQL Server database operations
+
+## 官网
+
+- 官网：https://github.com/Yukuiii/any-db-mcp#readme
+- 源码仓库：git+https://github.com/Yukuiii/any-db-mcp.git
+- npm 页面：https://www.npmjs.com/package/@sakura0v0/any-db-mcp
+
+## 历史版本号
+
+- 当前版本：1.2.2
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.2.1
+- 1.2.2
+
+## 获取地址
+
+- npm 安装：`npm install @sakura0v0/any-db-mcp`
+- npm registry：https://registry.npmjs.org/@sakura0v0/any-db-mcp
+- Node 要求：>=18

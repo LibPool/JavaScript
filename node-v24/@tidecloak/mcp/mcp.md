@@ -1,0 +1,26 @@
+# @tidecloak/mcp
+
+> 标签: ai, authentication, claude, cursor, e2ee, encryption, iam, keycloak, mcp, model-context-protocol, security, tidecloak
+
+## 简介
+
+TideCloak Developer Agent — MCP server that gives any AI assistant deep TideCloak expertise
+
+## 官网
+
+- 官网：https://tide.org
+- 源码仓库：git+https://github.com/tide-foundation/tidecloak-agent.git
+- npm 页面：https://www.npmjs.com/package/@tidecloak/mcp
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @tidecloak/mcp`
+- npm registry：https://registry.npmjs.org/@tidecloak/mcp

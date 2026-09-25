@@ -1,0 +1,25 @@
+# @rocket.chat/botpress-channel-rocketchat
+
+> 标签: JavaScript
+
+## 简介
+
+Channel connector for rocketchat
+
+## 官网
+
+- 官网：https://github.com/RocketChat/botpress-channel-rocketchat#readme
+- 源码仓库：git+https://github.com/RocketChat/botpress-channel-rocketchat.git
+- npm 页面：https://www.npmjs.com/package/@rocket.chat/botpress-channel-rocketchat
+
+## 历史版本号
+
+- 当前版本：0.0.14
+
+- 0.0.14
+
+## 获取地址
+
+- npm 安装：`npm install @rocket.chat/botpress-channel-rocketchat`
+- npm registry：https://registry.npmjs.org/@rocket.chat/botpress-channel-rocketchat
+- Node 要求：>=6.10.0

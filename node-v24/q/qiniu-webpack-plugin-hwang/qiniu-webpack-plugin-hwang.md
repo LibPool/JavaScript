@@ -1,0 +1,24 @@
+# qiniu-webpack-plugin-hwang
+
+> 标签: plugin, qiniu, webpack
+
+## 简介
+
+Webpack plugin for Qiniu cloud storage
+
+## 官网
+
+- 官网：https://github.com/wyvernnot/qiniu-webpack-plugin#readme
+- 源码仓库：git+https://github.com/wyvernnot/qiniu-webpack-plugin.git
+- npm 页面：https://www.npmjs.com/package/qiniu-webpack-plugin-hwang
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install qiniu-webpack-plugin-hwang`
+- npm registry：https://registry.npmjs.org/qiniu-webpack-plugin-hwang

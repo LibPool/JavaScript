@@ -1,0 +1,35 @@
+# @valtimo/plugin-management
+
+> 标签: JavaScript
+
+## 简介
+
+This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.14.
+
+## 官网
+
+- 官网：https://www.npmjs.com/package/@valtimo/plugin-management
+- npm 页面：https://www.npmjs.com/package/@valtimo/plugin-management
+
+## 历史版本号
+
+- 当前版本：13.40.1
+
+- 13.38.0
+- 13.39.0
+- 13.4.2
+- 13.40.0
+- 13.40.1
+- 13.41.0
+- 13.42.0
+- 13.43.0
+- 13.44.0
+- 13.45.0
+- 13.45.1
+- 13.46.0
+- 共 183 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @valtimo/plugin-management`
+- npm registry：https://registry.npmjs.org/@valtimo/plugin-management

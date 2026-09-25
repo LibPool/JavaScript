@@ -1,0 +1,24 @@
+# aframe-360-image-boilerplate
+
+> 标签: aframe, aframe-boilerplate, aframe-example, aframe-scene, vr, webvr
+
+## 简介
+
+Boilerplate for displaying a 360-degree image.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/aframe-360-image-boilerplate
+
+## 历史版本号
+
+- 当前版本：0.3.0-beta3
+
+- 0.3.0-beta1
+- 0.3.0-beta2
+- 0.3.0-beta3
+
+## 获取地址
+
+- npm 安装：`npm install aframe-360-image-boilerplate`
+- npm registry：https://registry.npmjs.org/aframe-360-image-boilerplate

@@ -1,0 +1,25 @@
+# samcart-api
+
+> 标签: api, ecommerce, samcart
+
+## 简介
+
+A typescript/javascript api for connecting to SamCart.
+
+## 官网
+
+- 官网：https://github.com/monolithst/samcart-api#readme
+- 源码仓库：git+https://github.com/monolithst/samcart-api.git
+- npm 页面：https://www.npmjs.com/package/samcart-api
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install samcart-api`
+- npm registry：https://registry.npmjs.org/samcart-api

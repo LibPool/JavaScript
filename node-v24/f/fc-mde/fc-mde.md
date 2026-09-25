@@ -1,0 +1,36 @@
+# fc-mde
+
+> 标签: component, editor, markdown, markdown-editor, react, text-editor
+
+## 简介
+
+React Markdown Editor (FC)
+
+## 官网
+
+- 官网：https://github.com/kmvan/fc-mde.git#readme
+- 源码仓库：git+https://github.com/kmvan/fc-mde.git
+- npm 页面：https://www.npmjs.com/package/fc-mde
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0-alpha.49
+- 1.0.0-alpha.50
+- 1.0.0-alpha.51
+- 1.0.0-alpha.52
+- 1.0.0-alpha.53
+- 1.0.0-alpha.6
+- 1.0.0-alpha.7
+- 1.0.0-alpha.8
+- 1.0.0-alpha.9
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 共 56 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install fc-mde`
+- npm registry：https://registry.npmjs.org/fc-mde

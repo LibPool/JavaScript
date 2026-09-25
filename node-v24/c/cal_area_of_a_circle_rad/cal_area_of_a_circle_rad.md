@@ -1,0 +1,22 @@
+# cal_area_of_a_circle_rad
+
+> 标签: JavaScript
+
+## 简介
+
+Calculate Area of Circle
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/cal_area_of_a_circle_rad
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install cal_area_of_a_circle_rad`
+- npm registry：https://registry.npmjs.org/cal_area_of_a_circle_rad

@@ -1,0 +1,27 @@
+# immodel-validation
+
+> 标签: immmodel, model, validation
+
+## 简介
+
+Add basic validation support to immodel
+
+## 官网
+
+- 官网：https://github.com/immodel/validation
+- 源码仓库：https://github.com/immodel/validation
+- npm 页面：https://www.npmjs.com/package/immodel-validation
+
+## 历史版本号
+
+- 当前版本：0.1.4
+
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+
+## 获取地址
+
+- npm 安装：`npm install immodel-validation`
+- npm registry：https://registry.npmjs.org/immodel-validation

@@ -1,0 +1,29 @@
+# @types/sitemap-generator
+
+> 标签: JavaScript
+
+## 简介
+
+TypeScript definitions for sitemap-generator
+
+## 官网
+
+- 官网：https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/sitemap-generator
+- 源码仓库：https://github.com/DefinitelyTyped/DefinitelyTyped.git
+- npm 页面：https://www.npmjs.com/package/@types/sitemap-generator
+
+## 历史版本号
+
+- 当前版本：8.5.5
+
+- 8.5.0
+- 8.5.1
+- 8.5.2
+- 8.5.3
+- 8.5.4
+- 8.5.5
+
+## 获取地址
+
+- npm 安装：`npm install @types/sitemap-generator`
+- npm registry：https://registry.npmjs.org/@types/sitemap-generator

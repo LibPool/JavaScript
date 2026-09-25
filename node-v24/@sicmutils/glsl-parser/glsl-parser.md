@@ -1,0 +1,24 @@
+# @sicmutils/glsl-parser
+
+> 标签: ast, glsl, parser, stream, through
+
+## 简介
+
+transform streamed glsl tokens into an ast
+
+## 官网
+
+- 官网：https://github.com/sicmutils/glsl-parser#readme
+- 源码仓库：git://github.com/sicmutils/glsl-parser.git
+- npm 页面：https://www.npmjs.com/package/@sicmutils/glsl-parser
+
+## 历史版本号
+
+- 当前版本：2.0.1
+
+- 2.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @sicmutils/glsl-parser`
+- npm registry：https://registry.npmjs.org/@sicmutils/glsl-parser

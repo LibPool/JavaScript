@@ -1,0 +1,35 @@
+# evmq
+
+> 标签: ethereum logs, evmq, evmqueue, guaranteed delivery, queue
+
+## 简介
+
+Helpful CLI Create and manage your EVM workloads.
+
+## 官网
+
+- 官网：https://gitlab.com/deanshelton913/evmq#readme
+- 源码仓库：git+https://gitlab.com/deanshelton913/evmq.git
+- npm 页面：https://www.npmjs.com/package/evmq
+
+## 历史版本号
+
+- 当前版本：0.0.25
+
+- 0.0.21
+- 0.0.22
+- 0.0.23
+- 0.0.24
+- 0.0.25
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install evmq`
+- npm registry：https://registry.npmjs.org/evmq

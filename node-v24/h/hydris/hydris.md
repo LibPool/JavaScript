@@ -1,0 +1,31 @@
+# hydris
+
+> 标签: SSR, crawler, puppeteer, scraper, server side rendering
+
+## 简介
+
+Generic node service to handle SSR for SPA made with any kind of frontend framework
+
+## 官网
+
+- 官网：https://github.com/dreipol/hydris#readme
+- 源码仓库：git+https://github.com/dreipol/hydris.git
+- npm 页面：https://www.npmjs.com/package/hydris
+
+## 历史版本号
+
+- 当前版本：1.3.0
+
+- 0.0.0
+- 0.0.1
+- 0.0.2
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.2.1
+- 1.3.0
+
+## 获取地址
+
+- npm 安装：`npm install hydris`
+- npm registry：https://registry.npmjs.org/hydris

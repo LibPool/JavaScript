@@ -1,0 +1,35 @@
+# @hexhive/auth-ui
+
+> 标签: JavaScript
+
+## 简介
+
+> TODO: description
+
+## 官网
+
+- 官网：https://github.com/TheTechCompany/hexhive-common/tree/main/packages/hexhive-auth-ui#readme
+- 源码仓库：git+https://github.com/TheTechCompany/hexhive-common.git
+- npm 页面：https://www.npmjs.com/package/@hexhive/auth-ui
+
+## 历史版本号
+
+- 当前版本：1.0.2-beta.94
+
+- 1.0.2-beta.83
+- 1.0.2-beta.84
+- 1.0.2-beta.85
+- 1.0.2-beta.86
+- 1.0.2-beta.87
+- 1.0.2-beta.88
+- 1.0.2-beta.89
+- 1.0.2-beta.90
+- 1.0.2-beta.91
+- 1.0.2-beta.92
+- 1.0.2-beta.93
+- 1.0.2-beta.94
+
+## 获取地址
+
+- npm 安装：`npm install @hexhive/auth-ui`
+- npm registry：https://registry.npmjs.org/@hexhive/auth-ui

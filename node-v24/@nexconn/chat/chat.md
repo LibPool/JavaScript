@@ -1,0 +1,34 @@
+# @nexconn/chat
+
+> 标签: Chat, IM, Nexconn
+
+## 简介
+
+@nexconn/chat - JavaScript library from npm
+
+## 官网
+
+- 官网：https://www.nexconn.ai
+- npm 页面：https://www.npmjs.com/package/@nexconn/chat
+
+## 历史版本号
+
+- 当前版本：26.2.1
+
+- 26.2.1
+- 26.2.1-alpha.2
+- 26.2.1-alpha.3
+- 26.2.1-alpha.4
+- 26.2.1-alpha.5
+- 26.2.1-alpha.6
+- 26.2.1-alpha.7
+- 26.2.1-alpha.8
+- 26.3.0-alpha.1
+- 26.3.0-alpha.3
+- 26.5.0-alpha.1
+- 26.5.0-alpha.2
+
+## 获取地址
+
+- npm 安装：`npm install @nexconn/chat`
+- npm registry：https://registry.npmjs.org/@nexconn/chat

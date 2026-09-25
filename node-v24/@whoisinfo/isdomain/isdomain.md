@@ -1,0 +1,23 @@
+# @whoisinfo/isdomain
+
+> 标签: isdomain, whois
+
+## 简介
+
+isdomain
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@whoisinfo/isdomain
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @whoisinfo/isdomain`
+- npm registry：https://registry.npmjs.org/@whoisinfo/isdomain

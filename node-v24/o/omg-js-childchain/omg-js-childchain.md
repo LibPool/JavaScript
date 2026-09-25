@@ -1,0 +1,24 @@
+# omg-js-childchain
+
+> 标签: JavaScript
+
+## 简介
+
+Module to interact with OMG ChildChain
+
+## 官网
+
+- 官网：https://github.com/omisego/omg-js#readme
+- 源码仓库：git+https://github.com/omisego/omg-js.git
+- npm 页面：https://www.npmjs.com/package/omg-js-childchain
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install omg-js-childchain`
+- npm registry：https://registry.npmjs.org/omg-js-childchain

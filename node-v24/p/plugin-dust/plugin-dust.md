@@ -1,0 +1,24 @@
+# plugin-dust
+
+> 标签: dustjs, jspm, loader, plugin
+
+## 简介
+
+DustJS template loader plugin for SystemJS
+
+## 官网
+
+- 官网：https://github.com/HallM/plugin-dust
+- 源码仓库：git+https://github.com/HallM/plugin-dust.git
+- npm 页面：https://www.npmjs.com/package/plugin-dust
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install plugin-dust`
+- npm registry：https://registry.npmjs.org/plugin-dust

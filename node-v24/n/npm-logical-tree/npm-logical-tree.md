@@ -1,0 +1,27 @@
+# npm-logical-tree
+
+> 标签: npm, package manager
+
+## 简介
+
+Calculate 'logical' trees from a package.json + package-lock
+
+## 官网
+
+- 官网：https://github.com/npm/logical-tree#readme
+- 源码仓库：git+https://github.com/npm/logical-tree.git
+- npm 页面：https://www.npmjs.com/package/npm-logical-tree
+
+## 历史版本号
+
+- 当前版本：1.2.1
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.2.1
+
+## 获取地址
+
+- npm 安装：`npm install npm-logical-tree`
+- npm registry：https://registry.npmjs.org/npm-logical-tree

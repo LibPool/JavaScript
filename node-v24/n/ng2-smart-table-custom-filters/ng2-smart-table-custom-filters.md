@@ -1,0 +1,25 @@
+# ng2-smart-table-custom-filters
+
+> 标签: akveo, angular, table, typescript
+
+## 简介
+
+Angular Smart Table
+
+## 官网
+
+- 官网：http://akveo.github.io/ng2-smart-table/#readme
+- 源码仓库：git+https://github.com/Ivan0xFF/ng2-smart-table.git
+- npm 页面：https://www.npmjs.com/package/ng2-smart-table-custom-filters
+
+## 历史版本号
+
+- 当前版本：1.4.1
+
+- 1.4.0
+- 1.4.1
+
+## 获取地址
+
+- npm 安装：`npm install ng2-smart-table-custom-filters`
+- npm registry：https://registry.npmjs.org/ng2-smart-table-custom-filters

@@ -1,0 +1,32 @@
+# @quasar/quasar-app-extension-testing-quality
+
+> 标签: JavaScript
+
+## 简介
+
+A Quasar App Extension for Code Quality
+
+## 官网
+
+- 官网：https://github.com/quasarframework/quasar-testing#readme
+- 源码仓库：git+https://github.com/quasarframework/quasar-testing.git
+- npm 页面：https://www.npmjs.com/package/@quasar/quasar-app-extension-testing-quality
+
+## 历史版本号
+
+- 当前版本：1.0.0-beta.8
+
+- 1.0.0-alpha.1
+- 1.0.0-alpha.2
+- 1.0.0-alpha.3
+- 1.0.0-beta.2
+- 1.0.0-beta.4
+- 1.0.0-beta.5
+- 1.0.0-beta.6
+- 1.0.0-beta.8
+
+## 获取地址
+
+- npm 安装：`npm install @quasar/quasar-app-extension-testing-quality`
+- npm registry：https://registry.npmjs.org/@quasar/quasar-app-extension-testing-quality
+- Node 要求：>= 10.13.0

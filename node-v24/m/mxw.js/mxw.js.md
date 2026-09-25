@@ -1,0 +1,24 @@
+# mxw.js
+
+> 标签: JavaScript
+
+## 简介
+
+Maxonrow blockchain SDK
+
+## 官网
+
+- 官网：https://github.com/mxw/mxw.js#readme
+- 源码仓库：git+https://github.com/mxw/mxw.js.git
+- npm 页面：https://www.npmjs.com/package/mxw.js
+
+## 历史版本号
+
+- 当前版本：0.0.22
+
+- 0.0.22
+
+## 获取地址
+
+- npm 安装：`npm install mxw.js`
+- npm registry：https://registry.npmjs.org/mxw.js

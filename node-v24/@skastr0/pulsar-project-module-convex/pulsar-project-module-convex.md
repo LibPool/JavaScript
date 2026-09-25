@@ -1,0 +1,31 @@
+# @skastr0/pulsar-project-module-convex
+
+> 标签: calibration, convex, project-module, pulsar
+
+## 简介
+
+Convex technology project module for Pulsar calibration
+
+## 官网
+
+- 官网：https://github.com/skastr0/pulsar#readme
+- 源码仓库：git+https://github.com/skastr0/pulsar.git
+- npm 页面：https://www.npmjs.com/package/@skastr0/pulsar-project-module-convex
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.2.1
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @skastr0/pulsar-project-module-convex`
+- npm registry：https://registry.npmjs.org/@skastr0/pulsar-project-module-convex

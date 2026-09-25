@@ -1,0 +1,24 @@
+# mkvmerge-static-linux
+
+> 标签: binary, command, linux, mkvmerge, static
+
+## 简介
+
+A static binary for the 'mkvmerge' command for Linux.
+
+## 官网
+
+- 官网：https://github.com/little-core-labs/mkvmerge-static-linux#readme
+- 源码仓库：git+https://github.com/little-core-labs/mkvmerge-static-linux.git
+- npm 页面：https://www.npmjs.com/package/mkvmerge-static-linux
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install mkvmerge-static-linux`
+- npm registry：https://registry.npmjs.org/mkvmerge-static-linux

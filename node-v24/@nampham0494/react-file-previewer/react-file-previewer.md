@@ -1,0 +1,25 @@
+# @nampham0494/react-file-previewer
+
+> 标签: file viewer, image viewer, pdf viewer, react-pdf
+
+## 简介
+
+> [!IMPORTANT] > This repository has been moved to [React league](https://github.com/react-league/react-file-previewer)
+
+## 官网
+
+- 官网：https://github.com/namphamdev/react-file-previewer#readme
+- 源码仓库：git+ssh://git@github.com/namphamdev/react-file-previewer.git
+- npm 页面：https://www.npmjs.com/package/@nampham0494/react-file-previewer
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @nampham0494/react-file-previewer`
+- npm registry：https://registry.npmjs.org/@nampham0494/react-file-previewer

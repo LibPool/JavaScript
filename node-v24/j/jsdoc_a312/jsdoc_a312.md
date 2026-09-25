@@ -1,0 +1,27 @@
+# jsdoc_a312
+
+> 标签: documentation, javascript
+
+## 简介
+
+An API documentation generator for JavaScript.
+
+## 官网
+
+- 官网：https://github.com/A-312/jsdoc#readme
+- 源码仓库：git+https://github.com/A-312/jsdoc.git
+- npm 页面：https://www.npmjs.com/package/jsdoc_a312
+
+## 历史版本号
+
+- 当前版本：3.6.4-a
+
+- 3.6.4
+- 3.6.4-a
+- 4.0.0-dev.12
+
+## 获取地址
+
+- npm 安装：`npm install jsdoc_a312`
+- npm registry：https://registry.npmjs.org/jsdoc_a312
+- Node 要求：>=8.15.0

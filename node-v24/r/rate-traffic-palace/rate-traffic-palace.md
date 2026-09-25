@@ -1,0 +1,24 @@
+# rate-traffic-palace
+
+> 标签: component, components, design, framework, frontend, react, react-component, ui, web3
+
+## 简介
+
+rate-traffic-palace
+
+## 官网
+
+- 官网：https://github.com/rate-traffic-palace/rate-traffic-palace#readme
+- 源码仓库：git+https://github.com/rate-traffic-palace/rate-traffic-palace.git
+- npm 页面：https://www.npmjs.com/package/rate-traffic-palace
+
+## 历史版本号
+
+- 当前版本：89.1.51
+
+- 89.1.51
+
+## 获取地址
+
+- npm 安装：`npm install rate-traffic-palace`
+- npm registry：https://registry.npmjs.org/rate-traffic-palace

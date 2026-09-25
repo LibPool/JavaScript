@@ -1,0 +1,25 @@
+# @passportauth/core
+
+> 标签: auth, authentication, authorization, oauth, oauth2, oidc, passportauth, sdk
+
+## 简介
+
+PassportAuth core SDK — framework-agnostic OAuth 2.1 / OIDC client
+
+## 官网
+
+- 官网：https://passportauth.com
+- 源码仓库：git+https://github.com/cloudtasticdev/passport-auth-sdk.git
+- npm 页面：https://www.npmjs.com/package/@passportauth/core
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @passportauth/core`
+- npm registry：https://registry.npmjs.org/@passportauth/core
+- Node 要求：>=24.0.0

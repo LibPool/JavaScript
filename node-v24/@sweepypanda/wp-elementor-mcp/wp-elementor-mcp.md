@@ -1,0 +1,28 @@
+# @sweepypanda/wp-elementor-mcp
+
+> 标签: ai, claude, elementor, llm, mcp, model-context-protocol, server, wordpress
+
+## 简介
+
+Model Context Protocol server for WordPress and Elementor integration
+
+## 官网
+
+- 官网：https://github.com/Huetarded/wp-elementor-mcp#readme
+- 源码仓库：git+https://github.com/Huetarded/wp-elementor-mcp.git
+- npm 页面：https://www.npmjs.com/package/@sweepypanda/wp-elementor-mcp
+
+## 历史版本号
+
+- 当前版本：1.7.4
+
+- 1.7.1
+- 1.7.2
+- 1.7.3
+- 1.7.4
+
+## 获取地址
+
+- npm 安装：`npm install @sweepypanda/wp-elementor-mcp`
+- npm registry：https://registry.npmjs.org/@sweepypanda/wp-elementor-mcp
+- Node 要求：>=18

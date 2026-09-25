@@ -1,0 +1,36 @@
+# @octoblu/redis-ns
+
+> 标签: namespace, ns, redis
+
+## 简介
+
+This module enables you to create Redis namespaces.
+
+## 官网
+
+- 官网：https://github.com/nosco/redis-ns#readme
+- 源码仓库：git+ssh://git@github.com/nosco/redis-ns.git
+- npm 页面：https://www.npmjs.com/package/@octoblu/redis-ns
+
+## 历史版本号
+
+- 当前版本：1.3.1
+
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 1.0.0
+- 1.0.1
+- 1.1.1
+- 1.1.2
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.3.0
+- 1.3.1
+
+## 获取地址
+
+- npm 安装：`npm install @octoblu/redis-ns`
+- npm registry：https://registry.npmjs.org/@octoblu/redis-ns
+- Node 要求：>=0.8.0

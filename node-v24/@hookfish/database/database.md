@@ -1,0 +1,35 @@
+# @hookfish/database
+
+> 标签: JavaScript
+
+## 简介
+
+@hookfish/database - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/hookfish/hookfish#readme
+- 源码仓库：git+https://github.com/hookfish/hookfish.git
+- npm 页面：https://www.npmjs.com/package/@hookfish/database
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0-canary-d4495a1
+- 1.0.0-canary-ee51ebd
+- 1.1.0
+- 1.1.0-canary-8c7c612
+- 1.1.1-canary-0d12465
+- 1.1.1-canary-530b921
+- 1.1.1-canary-558eb6c
+- 1.1.1-canary-5f1c29e
+- 1.1.1-canary-715ffda
+- 1.1.1-canary-ad10b9a
+- 1.2.0-canary-1cab1c6
+- 1.2.0-canary-cbb2be5
+
+## 获取地址
+
+- npm 安装：`npm install @hookfish/database`
+- npm registry：https://registry.npmjs.org/@hookfish/database

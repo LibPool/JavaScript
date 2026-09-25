@@ -1,0 +1,22 @@
+# @jhoandrojas/random-str-msg
+
+> 标签: JavaScript
+
+## 简介
+
+@jhoandrojas/random-str-msg - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@jhoandrojas/random-str-msg
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @jhoandrojas/random-str-msg`
+- npm registry：https://registry.npmjs.org/@jhoandrojas/random-str-msg

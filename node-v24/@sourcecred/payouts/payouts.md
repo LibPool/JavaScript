@@ -1,0 +1,30 @@
+# @sourcecred/payouts
+
+> 标签: JavaScript
+
+## 简介
+
+[![Discourse topics](https://img.shields.io/discourse/https/discourse.sourcecred.io/topics.svg)](https://discourse.sourcecred.io) [![Discord](https://img.shields.io/discord/453243919774253079.svg)](https://discord.gg/tsBTgc9)
+
+## 官网
+
+- 官网：https://github.com/sourcecred/payouts
+- 源码仓库：git+https://github.com/sourcecred/payouts.git
+- npm 页面：https://www.npmjs.com/package/@sourcecred/payouts
+
+## 历史版本号
+
+- 当前版本：0.1.0-alpha.0
+
+- 0.1.0-alpha.0
+- 0.1.0-alpha.1
+- 0.1.0-alpha.2
+- 0.1.0-alpha.3
+- 0.1.0-alpha.4
+- 0.1.0-alpha.5
+
+## 获取地址
+
+- npm 安装：`npm install @sourcecred/payouts`
+- npm registry：https://registry.npmjs.org/@sourcecred/payouts
+- Node 要求：>=10.0.0

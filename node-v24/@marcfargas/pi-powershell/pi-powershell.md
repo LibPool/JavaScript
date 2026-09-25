@@ -1,0 +1,25 @@
+# @marcfargas/pi-powershell
+
+> 标签: agent, background-processes, pi, pi-package, powershell, system-integration, windows
+
+## 简介
+
+PowerShell tool for pi agents - Windows system integration and background processes
+
+## 官网
+
+- 官网：https://github.com/marcfargas/pi-mf-extensions#readme
+- 源码仓库：git+https://github.com/marcfargas/pi-mf-extensions.git
+- npm 页面：https://www.npmjs.com/package/@marcfargas/pi-powershell
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.1.0
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @marcfargas/pi-powershell`
+- npm registry：https://registry.npmjs.org/@marcfargas/pi-powershell

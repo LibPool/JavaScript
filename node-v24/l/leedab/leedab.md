@@ -1,0 +1,34 @@
+# leedab
+
+> 标签: agent, ai, enterprise, local-first, logistics, private, supply-chain, teams, telegram, whatsapp
+
+## 简介
+
+A local AI operating system that learns your operations and runs them with Artificial Beings. Across portals, ERPs, dashboards, inboxes, spreadsheets, and PDFs. On your hardware. Your data. No APIs.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/leedab
+
+## 历史版本号
+
+- 当前版本：0.9.1
+
+- 0.5.0
+- 0.5.1
+- 0.5.2
+- 0.5.3
+- 0.6.0
+- 0.6.1
+- 0.7.0
+- 0.7.1
+- 0.7.2
+- 0.8.0
+- 0.9.0
+- 0.9.1
+
+## 获取地址
+
+- npm 安装：`npm install leedab`
+- npm registry：https://registry.npmjs.org/leedab
+- Node 要求：>=22.0.0

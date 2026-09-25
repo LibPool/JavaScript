@@ -1,0 +1,24 @@
+# micro-base-apis
+
+> 标签: JavaScript
+
+## 简介
+
+define a set of basic apis for a micro service
+
+## 官网
+
+- 官网：https://github.com/zhaoyao91/micro-base-apis#readme
+- 源码仓库：git+https://github.com/zhaoyao91/micro-base-apis.git
+- npm 页面：https://www.npmjs.com/package/micro-base-apis
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install micro-base-apis`
+- npm registry：https://registry.npmjs.org/micro-base-apis

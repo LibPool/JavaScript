@@ -1,0 +1,22 @@
+# @dringtech/generator-node
+
+> 标签: yeoman-generator
+
+## 简介
+
+Opinionated scaffolding for node projects. YMMV.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@dringtech/generator-node
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @dringtech/generator-node`
+- npm registry：https://registry.npmjs.org/@dringtech/generator-node

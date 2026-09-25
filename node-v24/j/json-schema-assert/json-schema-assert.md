@@ -1,0 +1,25 @@
+# json-schema-assert
+
+> 标签: JavaScript
+
+## 简介
+
+json schema assertion utility
+
+## 官网
+
+- 官网：https://github.com/Magomogo/json-schema-assert
+- 源码仓库：https://github.com/Magomogo/json-schema-assert
+- npm 页面：https://www.npmjs.com/package/json-schema-assert
+
+## 历史版本号
+
+- 当前版本：0.2.1
+
+- 0.2.0
+- 0.2.1
+
+## 获取地址
+
+- npm 安装：`npm install json-schema-assert`
+- npm registry：https://registry.npmjs.org/json-schema-assert

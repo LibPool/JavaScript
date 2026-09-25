@@ -1,0 +1,26 @@
+# eftojs
+
+> 标签: ai, claude, compression, gpt, llm, openai, optimization, prompt, sdk, tokens
+
+## 简介
+
+Token-efficiency SDK for LLMs — compress prompts, manage context, and cut token usage up to 70%.
+
+## 官网
+
+- 官网：https://github.com/MohitSalvi16/eftojs#readme
+- 源码仓库：git+https://github.com/MohitSalvi16/eftojs.git
+- npm 页面：https://www.npmjs.com/package/eftojs
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install eftojs`
+- npm registry：https://registry.npmjs.org/eftojs
+- Node 要求：>=18

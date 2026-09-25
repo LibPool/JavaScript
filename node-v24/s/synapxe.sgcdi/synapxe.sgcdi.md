@@ -1,0 +1,22 @@
+# synapxe.sgcdi
+
+> 标签: JavaScript
+
+## 简介
+
+Synapxe SGCDI Project
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/synapxe.sgcdi
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install synapxe.sgcdi`
+- npm registry：https://registry.npmjs.org/synapxe.sgcdi

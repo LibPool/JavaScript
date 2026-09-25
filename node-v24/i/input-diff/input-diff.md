@@ -1,0 +1,27 @@
+# input-diff
+
+> 标签: JavaScript
+
+## 简介
+
+A diff well suited for text input
+
+## 官网
+
+- 官网：https://github.com/manvalls/input-diff#readme
+- 源码仓库：git://github.com/manvalls/input-diff.git
+- npm 页面：https://www.npmjs.com/package/input-diff
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install input-diff`
+- npm registry：https://registry.npmjs.org/input-diff

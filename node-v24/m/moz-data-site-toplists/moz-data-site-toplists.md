@@ -1,0 +1,25 @@
+# moz-data-site-toplists
+
+> 标签: directory, website
+
+## 简介
+
+Lists of websites considered important, by country
+
+## 官网
+
+- 官网：https://github.com/mozilla/data-site-toplists#readme
+- 源码仓库：git+https://github.com/mozilla/data-site-toplists.git
+- npm 页面：https://www.npmjs.com/package/moz-data-site-toplists
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install moz-data-site-toplists`
+- npm registry：https://registry.npmjs.org/moz-data-site-toplists

@@ -1,0 +1,24 @@
+# young0704
+
+> 标签: make, test
+
+## 简介
+
+for change
+
+## 官网
+
+- 官网：https://github.com/young0704/young#readme
+- 源码仓库：git+https://github.com/young0704/young.git
+- npm 页面：https://www.npmjs.com/package/young0704
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install young0704`
+- npm registry：https://registry.npmjs.org/young0704

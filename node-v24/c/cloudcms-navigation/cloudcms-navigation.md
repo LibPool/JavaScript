@@ -1,0 +1,25 @@
+# cloudcms-navigation
+
+> 标签: Breadcrumb, Cloud CMS, Navigation, Pathway, navigation
+
+## 简介
+
+Package that helps displaying menus managed in Cloud CMS
+
+## 官网
+
+- 官网：https://github.com/idealley/cloudcms-navigation
+- 源码仓库：git+https://github.com/idealley/cloudcms-navigation.git
+- npm 页面：https://www.npmjs.com/package/cloudcms-navigation
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install cloudcms-navigation`
+- npm registry：https://registry.npmjs.org/cloudcms-navigation

@@ -1,0 +1,36 @@
+# prompt-checkbox
+
+> 标签: answer, answers, ask, checkbox, choice, choices, cli, command, enquirer, enquirerprompt, input, inquire, inquirer, interact, list, menu, multiple-choice, password, prompt, prompts, question, readline, stdin, stdout, terminal, tty, ui
+
+## 简介
+
+Multiple-choice/checkbox prompt. Can be used standalone or with a prompt system like [Enquirer].
+
+## 官网
+
+- 官网：https://github.com/enquirer/prompt-checkbox
+- 源码仓库：git+https://github.com/enquirer/prompt-checkbox.git
+- npm 页面：https://www.npmjs.com/package/prompt-checkbox
+
+## 历史版本号
+
+- 当前版本：2.2.0
+
+- 0.4.2
+- 0.5.0
+- 0.5.1
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 2.0.0
+- 2.0.1
+- 2.1.0
+- 2.1.1
+- 2.1.2
+- 2.2.0
+
+## 获取地址
+
+- npm 安装：`npm install prompt-checkbox`
+- npm registry：https://registry.npmjs.org/prompt-checkbox
+- Node 要求：>=5.0

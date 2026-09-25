@@ -1,0 +1,22 @@
+# vikas-345-intro
+
+> 标签: cli, intro, vikas, welcome
+
+## 简介
+
+A sophisticated CLI package to introduce Vikas Gautam with a stylized message.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/vikas-345-intro
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install vikas-345-intro`
+- npm registry：https://registry.npmjs.org/vikas-345-intro

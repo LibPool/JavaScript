@@ -1,0 +1,25 @@
+# @pazurite/stylelint-config
+
+> 标签: properties-order, property order, stylelint, stylelint-config, stylelint-order
+
+## 简介
+
+@pazurite/stylelint-config - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/pazurite/stylelint-config
+- 源码仓库：pazurite/stylelint-config
+- npm 页面：https://www.npmjs.com/package/@pazurite/stylelint-config
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @pazurite/stylelint-config`
+- npm registry：https://registry.npmjs.org/@pazurite/stylelint-config

@@ -1,0 +1,23 @@
+# cordova-android-toasteasoft
+
+> 标签: android, cordova-android, ecosystem:cordova, toast
+
+## 简介
+
+Android Toast Plugin
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/cordova-android-toasteasoft
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install cordova-android-toasteasoft`
+- npm registry：https://registry.npmjs.org/cordova-android-toasteasoft
+- Node 要求：{'name': 'cordova', 'version': '>=3.0.0'}

@@ -1,0 +1,24 @@
+# @gitmyabi/reah-susds-2
+
+> 标签: abi, ethereum, ethers-v6, smart-contracts, typescript, viem, wagmi
+
+## 简介
+
+Auto-generated TypeScript type bindings for reah-susds-2 (build etherscan-reah-susds-2-bc7b0d5b-1789739523013, commit 25adb29, branch etherscan)
+
+## 官网
+
+- 官网：https://github.com/etherscan/reah-susds-2#readme
+- 源码仓库：git+https://github.com/etherscan/reah-susds-2.git
+- npm 页面：https://www.npmjs.com/package/@gitmyabi/reah-susds-2
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @gitmyabi/reah-susds-2`
+- npm registry：https://registry.npmjs.org/@gitmyabi/reah-susds-2

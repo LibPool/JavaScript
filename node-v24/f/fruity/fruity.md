@@ -1,0 +1,23 @@
+# fruity
+
+> 标签: JavaScript
+
+## 简介
+
+fruity - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/fruity
+
+## 历史版本号
+
+- 当前版本：0.0.10
+
+- 0.0.1
+- 0.0.10
+
+## 获取地址
+
+- npm 安装：`npm install fruity`
+- npm registry：https://registry.npmjs.org/fruity

@@ -1,0 +1,27 @@
+# gulp-yaml-merge
+
+> 标签: gulpplugin, merge, yaml
+
+## 简介
+
+Merge Yaml files data
+
+## 官网
+
+- 官网：https://github.com/ivansky/gulp-yaml-merge#readme
+- 源码仓库：git+https://github.com/ivansky/gulp-yaml-merge.git
+- npm 页面：https://www.npmjs.com/package/gulp-yaml-merge
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.0.0
+- 1.0.1
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install gulp-yaml-merge`
+- npm registry：https://registry.npmjs.org/gulp-yaml-merge
+- Node 要求：>= 8

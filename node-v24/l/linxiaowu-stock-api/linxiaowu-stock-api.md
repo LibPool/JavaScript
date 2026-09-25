@@ -1,0 +1,26 @@
+# linxiaowu-stock-api
+
+> 标签: 接口, 数据分析, 股票
+
+## 简介
+
+免费股票数据分析相关接口
+
+## 官网
+
+- 官网：https://github.com/linxiaowu66/stock-api#readme
+- 源码仓库：git+https://github.com/linxiaowu66/stock-api.git
+- npm 页面：https://www.npmjs.com/package/linxiaowu-stock-api
+
+## 历史版本号
+
+- 当前版本：2.1.2
+
+- 2.1.0
+- 2.1.1
+- 2.1.2
+
+## 获取地址
+
+- npm 安装：`npm install linxiaowu-stock-api`
+- npm registry：https://registry.npmjs.org/linxiaowu-stock-api

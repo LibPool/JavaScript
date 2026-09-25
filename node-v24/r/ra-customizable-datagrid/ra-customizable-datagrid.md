@@ -1,0 +1,25 @@
+# ra-customizable-datagrid
+
+> 标签: List, React, React-Admin
+
+## 简介
+
+<div align="center">   <div style="margin-bottom: 20px">
+
+## 官网
+
+- 官网：https://github.com/fizix-io/ra-customizable-datagrid#readme
+- 源码仓库：git+https://github.com/fizix-io/ra-customizable-datagrid.git
+- npm 页面：https://www.npmjs.com/package/ra-customizable-datagrid
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install ra-customizable-datagrid`
+- npm registry：https://registry.npmjs.org/ra-customizable-datagrid

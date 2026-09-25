@@ -1,0 +1,27 @@
+# @jimhoyd/urlcode-store
+
+> 标签: JavaScript
+
+## 简介
+
+Operator-installed declarative data store extension for URLCode: file-backed JSON collections served as a bounded CRUD API
+
+## 官网
+
+- 官网：https://github.com/jimhoyd-com/urlcode/tree/main/packages/store#readme
+- 源码仓库：git+https://github.com/jimhoyd-com/urlcode.git
+- npm 页面：https://www.npmjs.com/package/@jimhoyd/urlcode-store
+
+## 历史版本号
+
+- 当前版本：0.5.0
+
+- 0.4.2
+- 0.4.6
+- 0.5.0
+
+## 获取地址
+
+- npm 安装：`npm install @jimhoyd/urlcode-store`
+- npm registry：https://registry.npmjs.org/@jimhoyd/urlcode-store
+- Node 要求：>=22.18.0

@@ -1,0 +1,35 @@
+# bharatcode
+
+> 标签: JavaScript
+
+## 简介
+
+bharatcode - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/BharatCode-ai/bharatcode-desktop#readme
+- 源码仓库：git+https://github.com/BharatCode-ai/bharatcode-desktop.git
+- npm 页面：https://www.npmjs.com/package/bharatcode
+
+## 历史版本号
+
+- 当前版本：1.15.35
+
+- 0.2.6
+- 0.2.7
+- 0.2.8
+- 0.2.9
+- 1.15.25
+- 1.15.26
+- 1.15.27
+- 1.15.28
+- 1.15.32
+- 1.15.33
+- 1.15.34
+- 1.15.35
+
+## 获取地址
+
+- npm 安装：`npm install bharatcode`
+- npm registry：https://registry.npmjs.org/bharatcode

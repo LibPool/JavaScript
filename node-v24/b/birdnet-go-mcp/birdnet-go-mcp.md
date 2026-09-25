@@ -1,0 +1,24 @@
+# birdnet-go-mcp
+
+> 标签: ai, antigravity, bioacoustics, birdnet, birdnet-go, claude, claude-desktop, mcp, model-context-protocol, openclaw
+
+## 简介
+
+Model Context Protocol (MCP) server & CLI for BirdNET-Go bioacoustic observatories
+
+## 官网
+
+- 官网：https://github.com/zax0rz/birdnet-go-mcp#readme
+- 源码仓库：git+https://github.com/zax0rz/birdnet-go-mcp.git
+- npm 页面：https://www.npmjs.com/package/birdnet-go-mcp
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install birdnet-go-mcp`
+- npm registry：https://registry.npmjs.org/birdnet-go-mcp

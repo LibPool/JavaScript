@@ -1,0 +1,25 @@
+# @xunnamius/next-babel
+
+> 标签: babel, babel-next, babel/next, config, configuration, next, next-babel, next/babel, preset, satisfies, typescript
+
+## 简介
+
+A custom port of Next.js's `next/babel` package with support for the latest features of Babel and TypeScript
+
+## 官网
+
+- 官网：https://github.com/Xunnamius/next-utils/blob/main/packages/next-babel
+- 源码仓库：git+https://github.com/Xunnamius/next-utils.git
+- npm 页面：https://www.npmjs.com/package/@xunnamius/next-babel
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @xunnamius/next-babel`
+- npm registry：https://registry.npmjs.org/@xunnamius/next-babel
+- Node 要求：^16.20.0 || ^18.16.0 || >=20.2.0

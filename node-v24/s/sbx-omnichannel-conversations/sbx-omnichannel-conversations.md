@@ -1,0 +1,36 @@
+# sbx-omnichannel-conversations
+
+> 标签: chat, conversations, sbx, twilio, websocket
+
+## 简介
+
+Drop-in replacement for @twilio/conversations backed by SBX Omnichannel's own WebSocket/REST API — same classes, events, and data shapes, zero Twilio dependency.
+
+## 官网
+
+- 官网：https://github.com/socobox/sbx-omnichannel-conversations#readme
+- 源码仓库：git+https://github.com/socobox/sbx-omnichannel-conversations.git
+- npm 页面：https://www.npmjs.com/package/sbx-omnichannel-conversations
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.2.1
+- 0.3.0
+- 0.3.0-beta.0
+- 0.3.0-beta.1
+- 0.3.0-beta.2
+- 0.3.0-beta.3
+- 0.3.0-beta.4
+- 0.4.0-beta.1
+- 0.4.0-beta.2
+- 0.4.0-beta.3
+- 0.4.0-beta.4
+- 0.4.0-beta.5
+
+## 获取地址
+
+- npm 安装：`npm install sbx-omnichannel-conversations`
+- npm registry：https://registry.npmjs.org/sbx-omnichannel-conversations
+- Node 要求：>=20

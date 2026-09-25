@@ -1,0 +1,26 @@
+# react-touch-scrollbars
+
+> 标签: custom, react, react-component, rtl, scroll, scrollbars, scroller, touch
+
+## 简介
+
+A fork of 'React scrollbars' component with RTL support
+
+## 官网
+
+- 官网：https://github.com/mohamed-adly/react-touch-scrollbars
+- 源码仓库：git+https://github.com/mohamed-adly/react-touch-scrollbars.git
+- npm 页面：https://www.npmjs.com/package/react-touch-scrollbars
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install react-touch-scrollbars`
+- npm registry：https://registry.npmjs.org/react-touch-scrollbars

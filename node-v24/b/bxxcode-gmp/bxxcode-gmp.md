@@ -1,0 +1,25 @@
+# bxxcode-gmp
+
+> 标签: bencoding, torrent
+
+## 简介
+
+bencoding module
+
+## 官网
+
+- 官网：https://github.com/bruslim/bxxcode
+- 源码仓库：https://github.com/bruslim/bxxcode.git
+- npm 页面：https://www.npmjs.com/package/bxxcode-gmp
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install bxxcode-gmp`
+- npm registry：https://registry.npmjs.org/bxxcode-gmp

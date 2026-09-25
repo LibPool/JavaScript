@@ -1,0 +1,23 @@
+# mathdroid-instagram-private-api
+
+> 标签: JavaScript
+
+## 简介
+
+Instagram private API wrapper for full access to instagram
+
+## 官网
+
+- 官网：https://github.com/huttarichard/instagram-private-api
+- npm 页面：https://www.npmjs.com/package/mathdroid-instagram-private-api
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install mathdroid-instagram-private-api`
+- npm registry：https://registry.npmjs.org/mathdroid-instagram-private-api

@@ -1,0 +1,24 @@
+# insomnia-plugin-ocean-dark-theme
+
+> 标签: insomnia, insomnia-theme, plugin, plugins
+
+## 简介
+
+A Dark theme for Insomnia
+
+## 官网
+
+- 官网：https://github.com/AlbertHernandez/insomnia-plugin-ocean-dark-theme#readme
+- 源码仓库：git+https://github.com/AlbertHernandez/insomnia-plugin-ocean-dark-theme.git
+- npm 页面：https://www.npmjs.com/package/insomnia-plugin-ocean-dark-theme
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install insomnia-plugin-ocean-dark-theme`
+- npm registry：https://registry.npmjs.org/insomnia-plugin-ocean-dark-theme

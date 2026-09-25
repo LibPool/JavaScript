@@ -1,0 +1,28 @@
+# @adsk-platform/vaultdata
+
+> 标签: api, autodesk, kiota, sdk, typescript, vault, vault-data
+
+## 简介
+
+Autodesk Vault Data SDK for TypeScript
+
+## 官网
+
+- 官网：https://github.com/adsk-duszykf/Adsk.Platform.Toolkit.Typescript/tree/main/packages/Autodesk.VaultData
+- 源码仓库：https://github.com/adsk-duszykf/Adsk.Platform.Toolkit.Typescript
+- npm 页面：https://www.npmjs.com/package/@adsk-platform/vaultdata
+
+## 历史版本号
+
+- 当前版本：0.2.1
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.2.0
+- 0.2.1
+
+## 获取地址
+
+- npm 安装：`npm install @adsk-platform/vaultdata`
+- npm registry：https://registry.npmjs.org/@adsk-platform/vaultdata

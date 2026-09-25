@@ -1,0 +1,34 @@
+# maxblox.js
+
+> 标签: Roblox-api, max, max.js
+
+## 简介
+
+A NodeJS Roblox library
+
+## 官网
+
+- 官网：https://github.com/moatsimdev/max#readme
+- 源码仓库：git+https://github.com/moatsimdev/max.git
+- npm 页面：https://www.npmjs.com/package/maxblox.js
+
+## 历史版本号
+
+- 当前版本：2.3.1
+
+- 1.0.0
+- 1.5.0
+- 1.8.0
+- 2.0.0
+- 2.1.0
+- 2.2.0
+- 2.3.0
+- 2.3.1
+- 4.10.0
+- 4.11.0
+- 4.9.0
+
+## 获取地址
+
+- npm 安装：`npm install maxblox.js`
+- npm registry：https://registry.npmjs.org/maxblox.js

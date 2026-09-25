@@ -1,0 +1,30 @@
+# docpad-plugin-bem
+
+> 标签: bem, docpad, docpad-plugin
+
+## 简介
+
+DocPad plugin for BEM. Project is in incubating status.
+
+## 官网
+
+- 官网：https://github.com/Se7enSky/docpad-plugin-bem
+- 源码仓库：https://github.com/Se7enSky/docpad-plugin-bem.git
+- npm 页面：https://www.npmjs.com/package/docpad-plugin-bem
+
+## 历史版本号
+
+- 当前版本：2.2.5
+
+- 2.0.0
+- 2.0.1
+- 2.2.0
+- 2.2.1
+- 2.2.2
+- 2.2.5
+
+## 获取地址
+
+- npm 安装：`npm install docpad-plugin-bem`
+- npm registry：https://registry.npmjs.org/docpad-plugin-bem
+- Node 要求：>=0.8

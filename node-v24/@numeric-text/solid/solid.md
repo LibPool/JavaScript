@@ -1,0 +1,24 @@
+# @numeric-text/solid
+
+> 标签: NumericText, animated-number, animated-text, animation, numeric-text, numericText, swiftui, text
+
+## 简介
+
+Solid.js wrapper for @numeric-text/core
+
+## 官网
+
+- 源码仓库：git+https://github.com/shizukushq/numeric-text.git
+- npm 页面：https://www.npmjs.com/package/@numeric-text/solid
+
+## 历史版本号
+
+- 当前版本：0.1.4
+
+- 0.1.3
+- 0.1.4
+
+## 获取地址
+
+- npm 安装：`npm install @numeric-text/solid`
+- npm registry：https://registry.npmjs.org/@numeric-text/solid

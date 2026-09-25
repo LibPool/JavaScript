@@ -1,0 +1,24 @@
+# @npmteamjs/fugit-pariatur-accusantium-impedit
+
+> 标签: JavaScript
+
+## 简介
+
+@npmteamjs/fugit-pariatur-accusantium-impedit - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/npmteamjs/fugit-pariatur-accusantium-impedit#readme
+- 源码仓库：git+https://github.com/npmteamjs/fugit-pariatur-accusantium-impedit.git
+- npm 页面：https://www.npmjs.com/package/@npmteamjs/fugit-pariatur-accusantium-impedit
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @npmteamjs/fugit-pariatur-accusantium-impedit`
+- npm registry：https://registry.npmjs.org/@npmteamjs/fugit-pariatur-accusantium-impedit

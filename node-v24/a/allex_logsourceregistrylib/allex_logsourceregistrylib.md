@@ -1,0 +1,24 @@
+# allex_logsourceregistrylib
+
+> 标签: ecosystem:AllexJS, lib, logsource, registry
+
+## 简介
+
+AllexJS lib that defines the logsources registry and the base LogSource
+
+## 官网
+
+- 官网：https://github.com/allex-libs/logsourceregistry#readme
+- 源码仓库：git+ssh://git@github.com/allex-libs/logsourceregistry.git
+- npm 页面：https://www.npmjs.com/package/allex_logsourceregistrylib
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install allex_logsourceregistrylib`
+- npm registry：https://registry.npmjs.org/allex_logsourceregistrylib

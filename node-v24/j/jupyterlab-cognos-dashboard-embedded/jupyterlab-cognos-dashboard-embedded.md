@@ -1,0 +1,35 @@
+# jupyterlab-cognos-dashboard-embedded
+
+> 标签: jupyter, jupyterlab, jupyterlab-extension
+
+## 简介
+
+Cognos Dashboard Embedded for JupyterLab
+
+## 官网
+
+- 官网：https://github.com/IBM/jupyterlab-cognos-dashboard-embedded
+- 源码仓库：git+https://github.com/IBM/jupyterlab-cognos-dashboard-embedded.git
+- npm 页面：https://www.npmjs.com/package/jupyterlab-cognos-dashboard-embedded
+
+## 历史版本号
+
+- 当前版本：3.0.0
+
+- 1.1.2-alpha.2
+- 1.1.2-alpha.3
+- 1.1.2-alpha4
+- 1.1.2-alpha5
+- 1.1.2-alpha6
+- 1.1.2-alpha7
+- 1.1.2-alpha8
+- 1.1.2-alpha9
+- 2.0.0
+- 2.0.1-alpha2
+- 3.0.0
+- 3.0.0-dev.0
+
+## 获取地址
+
+- npm 安装：`npm install jupyterlab-cognos-dashboard-embedded`
+- npm registry：https://registry.npmjs.org/jupyterlab-cognos-dashboard-embedded

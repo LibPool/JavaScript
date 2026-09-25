@@ -1,0 +1,36 @@
+# @uppy/aws-s3-multipart
+
+> 标签: amazon s3, aws s3, file uploader, multipart, s3, uppy, uppy-plugin
+
+## 简介
+
+Upload to Amazon S3 with Uppy and S3's Multipart upload strategy
+
+## 官网
+
+- 官网：https://uppy.io
+- 源码仓库：git+https://github.com/transloadit/uppy.git
+- npm 页面：https://www.npmjs.com/package/@uppy/aws-s3-multipart
+
+## 历史版本号
+
+- 当前版本：4.1.2
+
+- 3.8.0
+- 3.9.0
+- 4.0.0
+- 4.0.0-beta.1
+- 4.0.0-beta.2
+- 4.0.0-beta.3
+- 4.0.0-beta.4
+- 4.0.0-beta.5
+- 4.0.0-beta.6
+- 4.1.0
+- 4.1.1
+- 4.1.2
+- 共 113 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @uppy/aws-s3-multipart`
+- npm registry：https://registry.npmjs.org/@uppy/aws-s3-multipart

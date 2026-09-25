@@ -1,0 +1,29 @@
+# cairn-memory
+
+> 标签: agent-memory, ai-agents, claude, claude-code, codex, cross-agent, embeddings, hooks, llm, mcp, memory, model-context-protocol, openai-codex, rag, shared-memory, sqlite, vector-search
+
+## 简介
+
+Local-first shared memory for AI coding agents — one ambient memory across Claude Code and Codex: session briefings, pitfall warnings before repeated mistakes, auto-learned lessons with per-agent provenance, and post-compaction recovery. MCP server + life
+
+## 官网
+
+- 官网：https://github.com/vedtechsolutions/cairn-memory#readme
+- 源码仓库：git+https://github.com/vedtechsolutions/cairn-memory.git
+- npm 页面：https://www.npmjs.com/package/cairn-memory
+
+## 历史版本号
+
+- 当前版本：5.4.0
+
+- 5.1.0
+- 5.2.0
+- 5.3.0
+- 5.3.1
+- 5.4.0
+
+## 获取地址
+
+- npm 安装：`npm install cairn-memory`
+- npm registry：https://registry.npmjs.org/cairn-memory
+- Node 要求：>=20.0.0

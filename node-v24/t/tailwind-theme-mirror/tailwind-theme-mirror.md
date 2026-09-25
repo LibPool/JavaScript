@@ -1,0 +1,27 @@
+# tailwind-theme-mirror
+
+> 标签: config, configuration, mirror, tailwind, tailwindcss, theme
+
+## 简介
+
+Mirrors your Tailwind theme configuration for easier access throughout your project.
+
+## 官网
+
+- 官网：https://github.com/creekdrops/tailwind-theme-mirror#readme
+- 源码仓库：git+https://github.com/creekdrops/tailwind-theme-mirror.git
+- npm 页面：https://www.npmjs.com/package/tailwind-theme-mirror
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install tailwind-theme-mirror`
+- npm registry：https://registry.npmjs.org/tailwind-theme-mirror

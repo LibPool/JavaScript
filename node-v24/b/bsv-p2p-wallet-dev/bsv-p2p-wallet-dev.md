@@ -1,0 +1,24 @@
+# bsv-p2p-wallet-dev
+
+> 标签: P2P, bitcoin, blockchain, bsv, easy, javascript, satoshi, simple, transaction, wallet, whitepaper
+
+## 简介
+
+A Bitcoin SV Wallet Library
+
+## 官网
+
+- 官网：https://github.com/Spirinova-Technologies/bsv-p2p-wallet
+- 源码仓库：git+https://github.com/MyBanka/BsvWallet.git
+- npm 页面：https://www.npmjs.com/package/bsv-p2p-wallet-dev
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install bsv-p2p-wallet-dev`
+- npm registry：https://registry.npmjs.org/bsv-p2p-wallet-dev

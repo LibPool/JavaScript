@@ -1,0 +1,25 @@
+# @evoltdev/strapi-regenerator
+
+> 标签: content management, media, plugin, regeneration, strapi
+
+## 简介
+
+A plugin for Strapi CMS that automates the triggering of update events for Strapi items, streamlining content and media management.
+
+## 官网
+
+- 官网：https://github.com/emil-petras/strapi-regenerator#readme
+- 源码仓库：git+https://github.com/emil-petras/strapi-regenerator.git
+- npm 页面：https://www.npmjs.com/package/@evoltdev/strapi-regenerator
+
+## 历史版本号
+
+- 当前版本：0.1.5
+
+- 0.1.4
+- 0.1.5
+
+## 获取地址
+
+- npm 安装：`npm install @evoltdev/strapi-regenerator`
+- npm registry：https://registry.npmjs.org/@evoltdev/strapi-regenerator

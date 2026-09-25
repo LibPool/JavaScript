@@ -1,0 +1,35 @@
+# gatsby-plugin-amplitude-analytics
+
+> 标签: amplitude, analytics, gatsby, gatsby-plugin
+
+## 简介
+
+Plugin to add Amplitude analytics to a Gatsby site
+
+## 官网
+
+- 官网：https://github.com/ryanashcraft/gatsby-plugin-amplitude-analytics#readme
+- 源码仓库：git+https://github.com/ryanashcraft/gatsby-plugin-amplitude-analytics.git
+- npm 页面：https://www.npmjs.com/package/gatsby-plugin-amplitude-analytics
+
+## 历史版本号
+
+- 当前版本：3.2.0
+
+- 1.2.0-alpha.1
+- 1.3.0
+- 1.4.0
+- 1.5.0
+- 2.0.0
+- 2.0.0-alpha.0
+- 2.0.0-alpha.1
+- 3.0.0
+- 3.0.0-alpha.0
+- 3.1.0
+- 3.1.1
+- 3.2.0
+
+## 获取地址
+
+- npm 安装：`npm install gatsby-plugin-amplitude-analytics`
+- npm registry：https://registry.npmjs.org/gatsby-plugin-amplitude-analytics

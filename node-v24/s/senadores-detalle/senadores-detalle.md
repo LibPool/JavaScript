@@ -1,0 +1,25 @@
+# senadores-detalle
+
+> 标签: JavaScript
+
+## 简介
+
+Detalle complementario a la información base de cada senador.
+
+## 官网
+
+- 官网：https://github.com/yerkopalma/senadores-detalle#readme
+- 源码仓库：git+https://github.com/yerkopalma/senadores-detalle.git
+- npm 页面：https://www.npmjs.com/package/senadores-detalle
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install senadores-detalle`
+- npm registry：https://registry.npmjs.org/senadores-detalle

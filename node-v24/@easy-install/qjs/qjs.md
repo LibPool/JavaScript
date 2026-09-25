@@ -1,0 +1,28 @@
+# @easy-install/qjs
+
+> 标签: qjs
+
+## 简介
+
+The js cli of qjs/qjsc
+
+## 官网
+
+- 官网：https://github.com/easy-install/qjs#readme
+- 源码仓库：git+https://github.com/easy-install/qjs.git
+- npm 页面：https://www.npmjs.com/package/@easy-install/qjs
+
+## 历史版本号
+
+- 当前版本：0.1.5
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.5
+
+## 获取地址
+
+- npm 安装：`npm install @easy-install/qjs`
+- npm registry：https://registry.npmjs.org/@easy-install/qjs

@@ -1,0 +1,34 @@
+# @streamoid/ui
+
+> 标签: JavaScript
+
+## 简介
+
+The Streamoid design system — ~125 React components (`Sc*`) shared by CXO, Photogenix, Catalogix and Artifax.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@streamoid/ui
+
+## 历史版本号
+
+- 当前版本：0.6.76
+
+- 0.6.65
+- 0.6.66
+- 0.6.67
+- 0.6.68
+- 0.6.69
+- 0.6.70
+- 0.6.71
+- 0.6.72
+- 0.6.73
+- 0.6.74
+- 0.6.75
+- 0.6.76
+- 共 112 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @streamoid/ui`
+- npm registry：https://registry.npmjs.org/@streamoid/ui

@@ -1,0 +1,24 @@
+# web-version-check
+
+> 标签: check, version
+
+## 简介
+
+web project version checking
+
+## 官网
+
+- 官网：https://github.com/harrydengchao/web-version-check#readme
+- 源码仓库：git+https://github.com/harrydengchao/web-version-check.git
+- npm 页面：https://www.npmjs.com/package/web-version-check
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install web-version-check`
+- npm registry：https://registry.npmjs.org/web-version-check

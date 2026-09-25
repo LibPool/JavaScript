@@ -1,0 +1,24 @@
+# juggle-delayedcall
+
+> 标签: delayedcall, juggle
+
+## 简介
+
+juggle-delayedcall - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/dianbaer/juggle#readme
+- 源码仓库：git+https://github.com/dianbaer/juggle.git
+- npm 页面：https://www.npmjs.com/package/juggle-delayedcall
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install juggle-delayedcall`
+- npm registry：https://registry.npmjs.org/juggle-delayedcall

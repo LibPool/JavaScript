@@ -1,0 +1,25 @@
+# mx-resource
+
+> 标签: JavaScript
+
+## 简介
+
+#### Description 摩西的公共表格资源加载服务
+
+## 官网
+
+- 源码仓库：git@gitee.com:node-npm/mx-resource.git
+- npm 页面：https://www.npmjs.com/package/mx-resource
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install mx-resource`
+- npm registry：https://registry.npmjs.org/mx-resource

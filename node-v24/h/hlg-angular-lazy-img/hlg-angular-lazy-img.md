@@ -1,0 +1,24 @@
+# hlg-angular-lazy-img
+
+> 标签: angular, images, lazy, lazyload
+
+## 简介
+
+Plugin for lazy loading images in Angular
+
+## 官网
+
+- 官网：https://github.com/Pentiado/angular-lazy-img
+- 源码仓库：git://github.com/Pentiado/angular-lazy-img.git
+- npm 页面：https://www.npmjs.com/package/hlg-angular-lazy-img
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install hlg-angular-lazy-img`
+- npm registry：https://registry.npmjs.org/hlg-angular-lazy-img

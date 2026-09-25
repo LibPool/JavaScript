@@ -1,0 +1,31 @@
+# engen
+
+> 标签: async, flow, generators
+
+## 简介
+
+Async control flow using pure ES6 generators.
+
+## 官网
+
+- 官网：https://github.com/storehouse/engen
+- 源码仓库：git@github.com:storehouse/engen.git
+- npm 页面：https://www.npmjs.com/package/engen
+
+## 历史版本号
+
+- 当前版本：0.1.8
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.7
+- 0.1.8
+
+## 获取地址
+
+- npm 安装：`npm install engen`
+- npm registry：https://registry.npmjs.org/engen

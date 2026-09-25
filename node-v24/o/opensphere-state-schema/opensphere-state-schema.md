@@ -1,0 +1,35 @@
+# opensphere-state-schema
+
+> 标签: OpenSphere, bits, state, xsd
+
+## 简介
+
+OpenSphere state file schema
+
+## 官网
+
+- 官网：https://github.com/ngageoint/opensphere-state-schema#readme
+- 源码仓库：git+https://github.com/ngageoint/opensphere-state-schema.git
+- npm 页面：https://www.npmjs.com/package/opensphere-state-schema
+
+## 历史版本号
+
+- 当前版本：2.11.0
+
+- 2.1.0
+- 2.10.0
+- 2.10.1
+- 2.11.0
+- 2.2.0
+- 2.3.0
+- 2.4.0
+- 2.5.0
+- 2.6.0
+- 2.7.0
+- 2.8.0
+- 2.9.0
+
+## 获取地址
+
+- npm 安装：`npm install opensphere-state-schema`
+- npm registry：https://registry.npmjs.org/opensphere-state-schema

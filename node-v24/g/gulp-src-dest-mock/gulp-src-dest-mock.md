@@ -1,0 +1,25 @@
+# gulp-src-dest-mock
+
+> 标签: JavaScript
+
+## 简介
+
+gulp-src-dest-mock - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/gulp-src-dest-mock
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install gulp-src-dest-mock`
+- npm registry：https://registry.npmjs.org/gulp-src-dest-mock

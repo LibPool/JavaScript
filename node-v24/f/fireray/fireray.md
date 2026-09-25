@@ -1,0 +1,35 @@
+# fireray
+
+> 标签: JavaScript
+
+## 简介
+
+Use arrays na firebase do jeito mais simples!
+
+## 官网
+
+- 官网：https://github.com/lucasFelixSilveira/FIreray#readme
+- 源码仓库：git+https://github.com/lucasFelixSilveira/FIreray.git
+- npm 页面：https://www.npmjs.com/package/fireray
+
+## 历史版本号
+
+- 当前版本：2.4.8
+
+- 2.3.4
+- 2.3.5
+- 2.3.6
+- 2.4.0
+- 2.4.1
+- 2.4.2
+- 2.4.3
+- 2.4.4
+- 2.4.5
+- 2.4.6
+- 2.4.7
+- 2.4.8
+
+## 获取地址
+
+- npm 安装：`npm install fireray`
+- npm registry：https://registry.npmjs.org/fireray

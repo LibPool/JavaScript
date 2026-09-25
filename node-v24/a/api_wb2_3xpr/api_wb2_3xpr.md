@@ -1,0 +1,22 @@
+# api_wb2_3xpr
+
+> 标签: mcp_02
+
+## 简介
+
+api_wb2_3xpr - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/api_wb2_3xpr
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install api_wb2_3xpr`
+- npm registry：https://registry.npmjs.org/api_wb2_3xpr

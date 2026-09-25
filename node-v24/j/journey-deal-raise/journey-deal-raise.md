@@ -1,0 +1,24 @@
+# journey-deal-raise
+
+> 标签: component, components, design, framework, frontend, react, react-component, ui, web3
+
+## 简介
+
+journey-deal-raise
+
+## 官网
+
+- 官网：https://github.com/journey-deal-raise/journey-deal-raise#readme
+- 源码仓库：git+https://github.com/journey-deal-raise/journey-deal-raise.git
+- npm 页面：https://www.npmjs.com/package/journey-deal-raise
+
+## 历史版本号
+
+- 当前版本：9.6.643
+
+- 9.6.643
+
+## 获取地址
+
+- npm 安装：`npm install journey-deal-raise`
+- npm registry：https://registry.npmjs.org/journey-deal-raise

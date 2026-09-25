@@ -1,0 +1,34 @@
+# repo-context-center
+
+> 标签: agent, agent-context, ai, ai-agent, claude-code, cli, codex, coding-agent, context, context-engineering, developer-tools, llm, llm-context, repo-context, repository, repository-map, token-optimization
+
+## 简介
+
+A ContextOps toolkit for AI coding agents.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/repo-context-center
+
+## 历史版本号
+
+- 当前版本：0.13.3
+
+- 0.3.6
+- 0.4.0
+- 0.6.0
+- 0.7.0
+- 0.7.1
+- 0.7.2
+- 0.7.3
+- 0.8.0
+- 0.8.1
+- 0.8.2
+- 0.8.3
+- 0.9.0
+
+## 获取地址
+
+- npm 安装：`npm install repo-context-center`
+- npm registry：https://registry.npmjs.org/repo-context-center
+- Node 要求：>=20

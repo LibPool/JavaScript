@@ -1,0 +1,24 @@
+# @openfonts/genos_cherokee
+
+> 标签: cherokee, font, font family, genos, google fonts, typeface
+
+## 简介
+
+Genos cherokee typeface
+
+## 官网
+
+- 官网：https://github.com/bedlaj/openfonts#readme
+- 源码仓库：git+https://github.com/bedlaj/openfonts.git
+- npm 页面：https://www.npmjs.com/package/@openfonts/genos_cherokee
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @openfonts/genos_cherokee`
+- npm registry：https://registry.npmjs.org/@openfonts/genos_cherokee

@@ -1,0 +1,24 @@
+# genv4
+
+> 标签: components, design system, lit, material, material design, web components
+
+## 简介
+
+GenV4 web components, based on Google's Material Web
+
+## 官网
+
+- 官网：https://github.com/bingomaha-creator/GenV4#readme
+- 源码仓库：git+https://github.com/bingomaha-creator/GenV4.git
+- npm 页面：https://www.npmjs.com/package/genv4
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install genv4`
+- npm registry：https://registry.npmjs.org/genv4

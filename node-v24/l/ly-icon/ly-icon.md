@@ -1,0 +1,22 @@
+# ly-icon
+
+> 标签: JavaScript
+
+## 简介
+
+功能：symbol 图标组件 （推荐使用阿里iconfont）
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/ly-icon
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install ly-icon`
+- npm registry：https://registry.npmjs.org/ly-icon

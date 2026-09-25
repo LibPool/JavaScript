@@ -1,0 +1,24 @@
+# typeface-red-rose
+
+> 标签: font, font family, google fonts, red-rose, typeface
+
+## 简介
+
+Red Rose typeface
+
+## 官网
+
+- 源码仓库：https://github.com/KyleAMathews/typefaces/tree/master/packages/red-rose
+- npm 页面：https://www.npmjs.com/package/typeface-red-rose
+
+## 历史版本号
+
+- 当前版本：1.1.13
+
+- 1.1.12
+- 1.1.13
+
+## 获取地址
+
+- npm 安装：`npm install typeface-red-rose`
+- npm registry：https://registry.npmjs.org/typeface-red-rose

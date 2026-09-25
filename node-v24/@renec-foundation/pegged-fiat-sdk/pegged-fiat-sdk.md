@@ -1,0 +1,33 @@
+# @renec-foundation/pegged-fiat-sdk
+
+> 标签: JavaScript
+
+## 简介
+
+Typescript SDK to interact with Pegged Fiat program.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@renec-foundation/pegged-fiat-sdk
+
+## 历史版本号
+
+- 当前版本：0.3.3
+
+- 0.2.12
+- 0.2.13
+- 0.2.2
+- 0.2.3
+- 0.2.3-beta
+- 0.2.31-beta
+- 0.2.5
+- 0.2.7
+- 0.3.0
+- 0.3.1
+- 0.3.2
+- 0.3.3
+
+## 获取地址
+
+- npm 安装：`npm install @renec-foundation/pegged-fiat-sdk`
+- npm registry：https://registry.npmjs.org/@renec-foundation/pegged-fiat-sdk

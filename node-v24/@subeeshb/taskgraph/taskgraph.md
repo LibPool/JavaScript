@@ -1,0 +1,26 @@
+# @subeeshb/taskgraph
+
+> 标签: async tasks, build runner, cli, command line, task runner, workflow
+
+## 简介
+
+A task runner for Node.js.
+
+## 官网
+
+- 官网：https://github.com/subeeshb/taskgraph#readme
+- 源码仓库：git+https://github.com/subeeshb/taskgraph.git
+- npm 页面：https://www.npmjs.com/package/@subeeshb/taskgraph
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @subeeshb/taskgraph`
+- npm registry：https://registry.npmjs.org/@subeeshb/taskgraph

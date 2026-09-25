@@ -1,0 +1,23 @@
+# ce-option
+
+> 标签: computational, effect, just, maybe, none, nothing, option, optional, some
+
+## 简介
+
+Computational effect - optional value
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/ce-option
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install ce-option`
+- npm registry：https://registry.npmjs.org/ce-option

@@ -1,0 +1,35 @@
+# rowmance
+
+> 标签: chakra-ui, components, filter, frontend, library, react, search, table, ui, virtualization
+
+## 简介
+
+A virtual table React and Chakra UI v2 component with search.
+
+## 官网
+
+- 官网：https://github.com/davidystephenson/rowmance#readme
+- 源码仓库：git+https://github.com/davidystephenson/rowmance.git
+- npm 页面：https://www.npmjs.com/package/rowmance
+
+## 历史版本号
+
+- 当前版本：0.1.11
+
+- 0.1.0
+- 0.1.1
+- 0.1.10
+- 0.1.11
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install rowmance`
+- npm registry：https://registry.npmjs.org/rowmance

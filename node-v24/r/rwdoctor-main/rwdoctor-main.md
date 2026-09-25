@@ -1,0 +1,22 @@
+# rwdoctor-main
+
+> 标签: JavaScript
+
+## 简介
+
+Provides loader functions for RWDoctor SDKs
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/rwdoctor-main
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install rwdoctor-main`
+- npm registry：https://registry.npmjs.org/rwdoctor-main

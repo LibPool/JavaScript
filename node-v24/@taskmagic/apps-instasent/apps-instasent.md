@@ -1,0 +1,22 @@
+# @taskmagic/apps-instasent
+
+> 标签: JavaScript
+
+## 简介
+
+Instasent piece for ActivePieces. Enables integration with Instasent's Ingest API for managing contacts and tracking events in your data source. This API allows organizations to consolidate customer data and track interactions, enabling advanced audience
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@taskmagic/apps-instasent
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @taskmagic/apps-instasent`
+- npm registry：https://registry.npmjs.org/@taskmagic/apps-instasent

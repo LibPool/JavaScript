@@ -1,0 +1,35 @@
+# @zzop/native-win32-x64-msvc
+
+> 标签: JavaScript
+
+## 简介
+
+Prebuilt zzop-napi native addon for win32/x64 (MSVC ABI).
+
+## 官网
+
+- 官网：https://eezz4.github.io/zzop/
+- 源码仓库：git+https://github.com/eezz4/zzop.git
+- npm 页面：https://www.npmjs.com/package/@zzop/native-win32-x64-msvc
+
+## 历史版本号
+
+- 当前版本：0.19.0
+
+- 0.16.0
+- 0.17.0
+- 0.18.0
+- 0.19.0
+- 0.2.0
+- 0.3.0
+- 0.4.0
+- 0.5.0
+- 0.6.0
+- 0.7.0
+- 0.8.0
+- 0.9.0
+
+## 获取地址
+
+- npm 安装：`npm install @zzop/native-win32-x64-msvc`
+- npm registry：https://registry.npmjs.org/@zzop/native-win32-x64-msvc

@@ -1,0 +1,24 @@
+# random-chinese-characters
+
+> 标签: JavaScript
+
+## 简介
+
+you can use this module for look Random Chinese characters and traditional Chinese characters
+
+## 官网
+
+- 官网：https://github.com/random-chinese-characters/random-chinese-characters#readme
+- 源码仓库：git+https://github.com/random-chinese-characters/random-chinese-characters.git
+- npm 页面：https://www.npmjs.com/package/random-chinese-characters
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install random-chinese-characters`
+- npm registry：https://registry.npmjs.org/random-chinese-characters

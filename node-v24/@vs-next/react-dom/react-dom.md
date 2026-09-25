@@ -1,0 +1,24 @@
+# @vs-next/react-dom
+
+> 标签: react
+
+## 简介
+
+React package for working with the DOM.
+
+## 官网
+
+- 官网：https://reactjs.org/
+- 源码仓库：git+https://github.com/facebook/react.git
+- npm 页面：https://www.npmjs.com/package/@vs-next/react-dom
+
+## 历史版本号
+
+- 当前版本：18.2.0
+
+- 18.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @vs-next/react-dom`
+- npm registry：https://registry.npmjs.org/@vs-next/react-dom

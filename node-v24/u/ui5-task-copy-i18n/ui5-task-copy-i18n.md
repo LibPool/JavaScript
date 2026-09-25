@@ -1,0 +1,27 @@
+# ui5-task-copy-i18n
+
+> 标签: i18n, tools, translation, ui5
+
+## 简介
+
+Task for the UI5 tooling to copy i18n files.
+
+## 官网
+
+- 官网：https://github.com/dominik-st/ui5-task-copy-i18n#readme
+- 源码仓库：git+https://github.com/dominik-st/ui5-task-copy-i18n.git
+- npm 页面：https://www.npmjs.com/package/ui5-task-copy-i18n
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.1-security
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install ui5-task-copy-i18n`
+- npm registry：https://registry.npmjs.org/ui5-task-copy-i18n

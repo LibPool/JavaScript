@@ -1,0 +1,25 @@
+# @slck/node-red
+
+> 标签: editor, flow, iot, messaging
+
+## 简介
+
+Low-code programming for event-driven applications
+
+## 官网
+
+- 官网：https://bgr-integrations.com
+- 源码仓库：git+https://github.com/node-red/node-red.git
+- npm 页面：https://www.npmjs.com/package/@slck/node-red
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @slck/node-red`
+- npm registry：https://registry.npmjs.org/@slck/node-red
+- Node 要求：>=14

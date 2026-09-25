@@ -1,0 +1,29 @@
+# @vivtel/logger
+
+> 标签: activity-tracking, browser, console, hooks, logger, logging, react, typescript
+
+## 简介
+
+Comprehensive browser logger with console output, and React integration
+
+## 官网
+
+- 官网：https://gitlab.com/fulers/ts-packages/vite/framework/logger#readme
+- 源码仓库：git+https://gitlab.com/fulers/ts-packages/vite/framework/logger.git
+- npm 页面：https://www.npmjs.com/package/@vivtel/logger
+
+## 历史版本号
+
+- 当前版本：1.0.7
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.5
+- 1.0.7
+
+## 获取地址
+
+- npm 安装：`npm install @vivtel/logger`
+- npm registry：https://registry.npmjs.org/@vivtel/logger

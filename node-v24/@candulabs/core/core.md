@@ -1,0 +1,36 @@
+# @candulabs/core
+
+> 标签: JavaScript
+
+## 简介
+
+Core functionalities shared among various JS libraries
+
+## 官网
+
+- 官网：https://github.com/candulabs/candu-sdk/tree/master#readme
+- 源码仓库：git+https://github.com/candulabs/candu-sdk.git#master
+- npm 页面：https://www.npmjs.com/package/@candulabs/core
+
+## 历史版本号
+
+- 当前版本：0.8.27
+
+- 0.8.3-alpha.3
+- 0.8.3-alpha.4
+- 0.8.3-alpha.5
+- 0.8.3-alpha.6
+- 0.8.3-alpha.7
+- 0.8.4
+- 0.8.4-alpha.0
+- 0.8.5-alpha.0
+- 0.8.7
+- 0.8.7-alpha.0
+- 0.8.8
+- 0.8.9
+- 共 156 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @candulabs/core`
+- npm registry：https://registry.npmjs.org/@candulabs/core

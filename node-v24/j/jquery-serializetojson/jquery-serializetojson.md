@@ -1,0 +1,35 @@
+# jquery-serializetojson
+
+> 标签: asp, form, helper, jquery, json, mvc, serialize
+
+## 简介
+
+Adds the method .serializeToJSON() to jQuery that Serialize an HTML form (familiar with ASP MVC) to a JavaScript object, supporting nested attributes and arrays.
+
+## 官网
+
+- 官网：https://github.com/raphaelm22/jquery.serializeToJSON#readme
+- 源码仓库：git+https://github.com/raphaelm22/jquery.serializeToJSON.git
+- npm 页面：https://www.npmjs.com/package/jquery-serializetojson
+
+## 历史版本号
+
+- 当前版本：1.4.1
+
+- 1.0.0
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.2.3
+- 1.3.0
+- 1.4.0
+- 1.4.1
+
+## 获取地址
+
+- npm 安装：`npm install jquery-serializetojson`
+- npm registry：https://registry.npmjs.org/jquery-serializetojson

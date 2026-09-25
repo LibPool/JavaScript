@@ -1,0 +1,33 @@
+# @yoroi/api
+
+> 标签: api, browser, cardano, react, react-native, typescript, yoroi
+
+## 简介
+
+The API package of Yoroi SDK
+
+## 官网
+
+- 官网：https://github.com/Emurgo/yoroi/tree/develop/packages/api/README.md
+- 源码仓库：git+https://github.com/Emurgo/yoroi.git
+- npm 页面：https://www.npmjs.com/package/@yoroi/api
+
+## 历史版本号
+
+- 当前版本：6.0.0
+
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 1.4.0
+- 1.5.0
+- 1.5.1
+- 1.5.3
+- 2.0.0
+- 6.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @yoroi/api`
+- npm registry：https://registry.npmjs.org/@yoroi/api
+- Node 要求：>= 22.12.0

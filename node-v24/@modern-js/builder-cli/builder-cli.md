@@ -1,0 +1,37 @@
+# @modern-js/builder-cli
+
+> 标签: framework, modern, modern.js, react
+
+## 简介
+
+CLI for Modern.js Builder
+
+## 官网
+
+- 官网：https://modernjs.dev/builder
+- 源码仓库：git+https://github.com/web-infra-dev/modern.js.git
+- npm 页面：https://www.npmjs.com/package/@modern-js/builder-cli
+
+## 历史版本号
+
+- 当前版本：2.46.1
+
+- 0.0.0-nightly-20240110170629
+- 0.0.0-nightly-20240111170636
+- 0.0.0-nightly-20240112170637
+- 0.0.0-nightly-20240113170616
+- 0.0.0-nightly-20240114170609
+- 0.0.0-nightly-20240115170642
+- 0.0.0-nightly-20240116170619
+- 0.0.0-nightly-20240117170631
+- 2.44.0
+- 2.45.0
+- 2.46.0
+- 2.46.1
+- 共 916 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @modern-js/builder-cli`
+- npm registry：https://registry.npmjs.org/@modern-js/builder-cli
+- Node 要求：>=14.0.0

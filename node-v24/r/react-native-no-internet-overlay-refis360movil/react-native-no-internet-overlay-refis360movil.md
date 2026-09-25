@@ -1,0 +1,26 @@
+# react-native-no-internet-overlay-refis360movil
+
+> 标签: activity, android, bar, full, indicator, ios, loading, modal, native, pop-up, popup, progress, react, react-native, screen, spinner, view
+
+## 简介
+
+The only pure React Native Native iOS and Android loading spinner (progress bar indicator) overlay
+
+## 官网
+
+- 官网：https://github.com/joinspontaneous/react-native-loading-spinner-overlay
+- 源码仓库：git+ssh://git@github.com/joinspontaneous/react-native-loading-spinner-overlay.git
+- npm 页面：https://www.npmjs.com/package/react-native-no-internet-overlay-refis360movil
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 1.1.0
+- 1.1.1
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install react-native-no-internet-overlay-refis360movil`
+- npm registry：https://registry.npmjs.org/react-native-no-internet-overlay-refis360movil

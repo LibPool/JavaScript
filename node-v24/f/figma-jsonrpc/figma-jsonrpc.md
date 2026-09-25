@@ -1,0 +1,33 @@
+# figma-jsonrpc
+
+> 标签: JavaScript
+
+## 简介
+
+Leverage JSON-RPC to communicate between your Figma plugin and your Figma UI
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/figma-jsonrpc
+
+## 历史版本号
+
+- 当前版本：0.4.1
+
+- 0.3.1
+- 0.3.2
+- 0.3.3
+- 0.3.4
+- 0.4.0
+- 0.4.0-pre0
+- 0.4.0-pre1
+- 0.4.0-pre2
+- 0.4.0-pre3
+- 0.4.0-pre4
+- 0.4.0-pre5
+- 0.4.1
+
+## 获取地址
+
+- npm 安装：`npm install figma-jsonrpc`
+- npm registry：https://registry.npmjs.org/figma-jsonrpc

@@ -1,0 +1,25 @@
+# install-glo
+
+> 标签: ai-sdk, cli, cls, core-web-vitals, devtool, gonzalo-maldonado, lcp, lighthouse, optimization, performance, sanscourier, vercel-ai, web-vitals
+
+## 简介
+
+GLO Loop — AI-powered web vitals optimization engine built with Vercel AI SDK
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/install-glo
+
+## 历史版本号
+
+- 当前版本：2.1.0
+
+- 2.0.0
+- 2.0.1
+- 2.0.2
+- 2.1.0
+
+## 获取地址
+
+- npm 安装：`npm install install-glo`
+- npm registry：https://registry.npmjs.org/install-glo

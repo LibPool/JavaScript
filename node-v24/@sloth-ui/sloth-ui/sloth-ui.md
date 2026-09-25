@@ -1,0 +1,24 @@
+# @sloth-ui/sloth-ui
+
+> 标签: keyword1, keyword2
+
+## 简介
+
+@sloth-ui/sloth-ui - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/yuwancumian/sloth-ui
+- 源码仓库：git+ssh://git@github.com/yuwancumian/sloth-ui.git
+- npm 页面：https://www.npmjs.com/package/@sloth-ui/sloth-ui
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @sloth-ui/sloth-ui`
+- npm registry：https://registry.npmjs.org/@sloth-ui/sloth-ui

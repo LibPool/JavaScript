@@ -1,0 +1,27 @@
+# auto-async-wrap
+
+> 标签: async, auto, automatic, await, error, errorhandler, errorhandling, express, expressjs, handler, handling, middleware, router, wrap, wrapper
+
+## 简介
+
+auto async wrapper for expressjs
+
+## 官网
+
+- 官网：https://github.com/naver/auto-async-wrap#readme
+- 源码仓库：git+https://github.com/naver/auto-async-wrap.git
+- npm 页面：https://www.npmjs.com/package/auto-async-wrap
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install auto-async-wrap`
+- npm registry：https://registry.npmjs.org/auto-async-wrap
+- Node 要求：>=8.0

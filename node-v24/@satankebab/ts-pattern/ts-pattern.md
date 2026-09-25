@@ -1,0 +1,24 @@
+# @satankebab/ts-pattern
+
+> 标签: adt, match, match-with, matching, pattern, pattern-matching, switch, typescript
+
+## 简介
+
+The exhaustive Pattern Matching library for TypeScript.
+
+## 官网
+
+- 官网：https://github.com/gvergnaud/ts-pattern#readme
+- 源码仓库：git+ssh://git@github.com/gvergnaud/ts-pattern.git
+- npm 页面：https://www.npmjs.com/package/@satankebab/ts-pattern
+
+## 历史版本号
+
+- 当前版本：5.0.6-rn-fix
+
+- 5.0.6-rn-fix
+
+## 获取地址
+
+- npm 安装：`npm install @satankebab/ts-pattern`
+- npm registry：https://registry.npmjs.org/@satankebab/ts-pattern

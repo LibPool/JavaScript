@@ -1,0 +1,25 @@
+# onboarding-assistant-cli
+
+> 标签: assistant, cli, context, onboarding, openai, retrieval
+
+## 简介
+
+CLI tools for generating context files for direct upload to OpenAI Assistant
+
+## 官网
+
+- 官网：https://github.com/jsatlien/onboarding-assistant-cli
+- 源码仓库：git+https://github.com/jsatlien/onboarding-assistant-cli.git
+- npm 页面：https://www.npmjs.com/package/onboarding-assistant-cli
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install onboarding-assistant-cli`
+- npm registry：https://registry.npmjs.org/onboarding-assistant-cli
+- Node 要求：>=14.0.0

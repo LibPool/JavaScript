@@ -1,0 +1,25 @@
+# @pdfix/cli-linux-arm64
+
+> 标签: arm64, cli, linux, pdf, pdf-accessibility, pdf-processing, pdf-remediation, pdf-ua, pdfix, pdfix-cli, pdfix-sdk
+
+## 简介
+
+Native Linux arm64 runtime for PDFix SDK command-line PDF automation tools.
+
+## 官网
+
+- 官网：https://pdfix.net
+- 源码仓库：git+https://github.com/pdfix/pdfix_sdk_builds.git
+- npm 页面：https://www.npmjs.com/package/@pdfix/cli-linux-arm64
+
+## 历史版本号
+
+- 当前版本：9.1.0
+
+- 9.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @pdfix/cli-linux-arm64`
+- npm registry：https://registry.npmjs.org/@pdfix/cli-linux-arm64
+- Node 要求：>=18

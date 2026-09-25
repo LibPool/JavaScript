@@ -1,0 +1,25 @@
+# @kevinbaubet/fixer
+
+> 标签: JavaScript
+
+## 简介
+
+Fixer permet de figer un élément en fonction du scroll.
+
+## 官网
+
+- 官网：https://github.com/kevinbaubet/fixer#readme
+- 源码仓库：git+https://github.com/kevinbaubet/fixer.git
+- npm 页面：https://www.npmjs.com/package/@kevinbaubet/fixer
+
+## 历史版本号
+
+- 当前版本：3.2.2
+
+- 3.2.1
+- 3.2.2
+
+## 获取地址
+
+- npm 安装：`npm install @kevinbaubet/fixer`
+- npm registry：https://registry.npmjs.org/@kevinbaubet/fixer

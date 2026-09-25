@@ -1,0 +1,24 @@
+# babel-plugin-inline-react-svg-forked
+
+> 标签: babel, inline, plugin, react, svg
+
+## 简介
+
+A babel plugin that optimizes and inlines SVGs for your react components.
+
+## 官网
+
+- 官网：https://github.com/isi-gach/babel-plugin-inline-react-svg#readme
+- 源码仓库：git+https://github.com/isi-gach/babel-plugin-inline-react-svg.git
+- npm 页面：https://www.npmjs.com/package/babel-plugin-inline-react-svg-forked
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install babel-plugin-inline-react-svg-forked`
+- npm registry：https://registry.npmjs.org/babel-plugin-inline-react-svg-forked

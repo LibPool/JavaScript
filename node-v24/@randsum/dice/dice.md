@@ -1,0 +1,36 @@
+# @randsum/dice
+
+> 标签: board-games, dice, dice-roller, dnd, dungeons-and-dragons, game-development, pathfinder, probability, random, randsum, role-playing-games, roller, rpg, simulation, tabletop, ttrpg, typescript
+
+## 简介
+
+A flexible, type-safe dice roller for tabletop RPGs, game development, and probability simulations
+
+## 官网
+
+- 官网：https://github.com/RANDSUM/randsum
+- 源码仓库：git+https://github.com/RANDSUM/randsum.git
+- npm 页面：https://www.npmjs.com/package/@randsum/dice
+
+## 历史版本号
+
+- 当前版本：0.2.9
+
+- 0.1.35
+- 0.1.36
+- 0.1.37
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.2.0
+- 0.2.2
+- 0.2.7
+- 0.2.8
+- 0.2.9
+
+## 获取地址
+
+- npm 安装：`npm install @randsum/dice`
+- npm registry：https://registry.npmjs.org/@randsum/dice
+- Node 要求：>=18.0.0

@@ -1,0 +1,35 @@
+# ds-interfaces
+
+> 标签: function, location, node, nodejs, promise, wakanda
+
+## 简介
+
+Outputs interfaces from a wakanda catalog
+
+## 官网
+
+- 官网：https://github.com/midrissi/ds-interfaces#readme
+- 源码仓库：git+https://github.com/midrissi/ds-interfaces.git
+- npm 页面：https://www.npmjs.com/package/ds-interfaces
+
+## 历史版本号
+
+- 当前版本：0.2.5
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.3
+- 0.2.4
+- 0.2.5
+
+## 获取地址
+
+- npm 安装：`npm install ds-interfaces`
+- npm registry：https://registry.npmjs.org/ds-interfaces
+- Node 要求：>= 8.0.0

@@ -1,0 +1,35 @@
+# @machinen/native-arm64-darwin
+
+> 标签: JavaScript
+
+## 简介
+
+Machinen host-side native binaries for arm64 darwin — VMM (HVF) + gvproxy + guest ELFs, mke2fs, and mksquashfs. Consolidates what used to be several per-tool packages.
+
+## 官网
+
+- 官网：https://github.com/redwoodjs/machinen#readme
+- 源码仓库：git+https://github.com/redwoodjs/machinen.git
+- npm 页面：https://www.npmjs.com/package/@machinen/native-arm64-darwin
+
+## 历史版本号
+
+- 当前版本：0.8.8
+
+- 0.6.1
+- 0.7.0
+- 0.7.1
+- 0.7.2
+- 0.8.0
+- 0.8.1
+- 0.8.2
+- 0.8.3
+- 0.8.5
+- 0.8.6
+- 0.8.7
+- 0.8.8
+
+## 获取地址
+
+- npm 安装：`npm install @machinen/native-arm64-darwin`
+- npm registry：https://registry.npmjs.org/@machinen/native-arm64-darwin

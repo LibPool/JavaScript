@@ -1,0 +1,22 @@
+# @rafaeljohn9/gh-templates-linux-x64-glibc
+
+> 标签: JavaScript
+
+## 简介
+
+@rafaeljohn9/gh-templates-linux-x64-glibc - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@rafaeljohn9/gh-templates-linux-x64-glibc
+
+## 历史版本号
+
+- 当前版本：0.1.17
+
+- 0.1.17
+
+## 获取地址
+
+- npm 安装：`npm install @rafaeljohn9/gh-templates-linux-x64-glibc`
+- npm registry：https://registry.npmjs.org/@rafaeljohn9/gh-templates-linux-x64-glibc

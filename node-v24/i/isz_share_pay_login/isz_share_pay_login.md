@@ -1,0 +1,28 @@
+# isz_share_pay_login
+
+> 标签: JavaScript
+
+## 简介
+
+测试
+
+## 官网
+
+- 源码仓库：https://gitee.com/Code4Android/isz_share_pay_login.git
+- npm 页面：https://www.npmjs.com/package/isz_share_pay_login
+
+## 历史版本号
+
+- 当前版本：1.0.6
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.6
+
+## 获取地址
+
+- npm 安装：`npm install isz_share_pay_login`
+- npm registry：https://registry.npmjs.org/isz_share_pay_login

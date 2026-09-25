@@ -1,0 +1,35 @@
+# direwolf-modeler
+
+> 标签: JavaScript
+
+## 简介
+
+The Direwolf Modeler is an online collaborative modeling environment.
+
+## 官网
+
+- 官网：https://github.com/direwolf/direwolf-modeler#readme
+- 源码仓库：git+https://github.com/direwolf/direwolf-modeler.git
+- npm 页面：https://www.npmjs.com/package/direwolf-modeler
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.19
+- 0.0.2
+- 0.0.20
+- 0.0.21
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install direwolf-modeler`
+- npm registry：https://registry.npmjs.org/direwolf-modeler

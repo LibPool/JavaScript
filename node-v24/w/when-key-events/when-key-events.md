@@ -1,0 +1,35 @@
+# when-key-events
+
+> 标签: bindings, ericsartor, events, focus, key, keyboard, shortcuts, when
+
+## 简介
+
+Powerful keyboard shortcut and focus library
+
+## 官网
+
+- 官网：https://github.com/ericsartor/when
+- 源码仓库：git+https://github.com/ericsartor/when.git
+- npm 页面：https://www.npmjs.com/package/when-key-events
+
+## 历史版本号
+
+- 当前版本：1.8.4
+
+- 1.4.5
+- 1.5.0
+- 1.6.0
+- 1.6.1
+- 1.6.2
+- 1.7.0
+- 1.7.1
+- 1.8.0
+- 1.8.1
+- 1.8.2
+- 1.8.3
+- 1.8.4
+
+## 获取地址
+
+- npm 安装：`npm install when-key-events`
+- npm registry：https://registry.npmjs.org/when-key-events

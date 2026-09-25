@@ -1,0 +1,34 @@
+# hhz-common
+
+> 标签: JavaScript
+
+## 简介
+
+好好住公用组件
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/hhz-common
+
+## 历史版本号
+
+- 当前版本：0.3.71
+
+- 0.3.6
+- 0.3.64
+- 0.3.65
+- 0.3.66
+- 0.3.67
+- 0.3.68
+- 0.3.69
+- 0.3.7
+- 0.3.70
+- 0.3.71
+- 0.3.8
+- 0.3.9
+- 共 150 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install hhz-common`
+- npm registry：https://registry.npmjs.org/hhz-common

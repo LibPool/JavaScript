@@ -1,0 +1,27 @@
+# zelibobla-viv
+
+> 标签: JavaScript
+
+## 简介
+
+High bit depth, high resolution, many channels, low overhead
+
+## 官网
+
+- 官网：https://github.com/hms-dbmi/viv#readme
+- 源码仓库：git+https://github.com/hms-dbmi/viv.git
+- npm 页面：https://www.npmjs.com/package/zelibobla-viv
+
+## 历史版本号
+
+- 当前版本：0.10.63
+
+- 0.10.5
+- 0.10.61
+- 0.10.62
+- 0.10.63
+
+## 获取地址
+
+- npm 安装：`npm install zelibobla-viv`
+- npm registry：https://registry.npmjs.org/zelibobla-viv

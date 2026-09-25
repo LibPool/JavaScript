@@ -1,0 +1,35 @@
+# @economist/component-typography
+
+> 标签: JavaScript
+
+## 简介
+
+Typography component containing postCSS variables for font sizes and line-heights for each font size. Uses a major second modular scale.
+
+## 官网
+
+- 官网：https://github.com/economist-components/component-typography
+- 源码仓库：git+ssh://git@github.com/economist-components/component-typography.git
+- npm 页面：https://www.npmjs.com/package/@economist/component-typography
+
+## 历史版本号
+
+- 当前版本：4.4.0
+
+- 3.4.3
+- 3.5.0
+- 3.6.0
+- 3.7.0
+- 3.7.1
+- 4.0.0
+- 4.1.0
+- 4.2.0
+- 4.2.1
+- 4.2.2
+- 4.3.0
+- 4.4.0
+
+## 获取地址
+
+- npm 安装：`npm install @economist/component-typography`
+- npm registry：https://registry.npmjs.org/@economist/component-typography

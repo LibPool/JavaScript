@@ -1,0 +1,35 @@
+# keywalk
+
+> 标签: key move, key walk, select with key
+
+## 简介
+
+Simple Notify is a pure Javascript library to show nice and customizable alert notifications.
+
+## 官网
+
+- 官网：https://dgknca.github.io/keywalk/
+- 源码仓库：git+https://github.com/dgknca/keywalk.git
+- npm 页面：https://www.npmjs.com/package/keywalk
+
+## 历史版本号
+
+- 当前版本：0.4.1
+
+- 0.2.1
+- 0.2.2
+- 0.2.3
+- 0.2.4
+- 0.2.5
+- 0.2.6
+- 0.2.7
+- 0.2.8
+- 0.3.0
+- 0.3.1
+- 0.4.0
+- 0.4.1
+
+## 获取地址
+
+- npm 安装：`npm install keywalk`
+- npm registry：https://registry.npmjs.org/keywalk

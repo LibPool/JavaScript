@@ -1,0 +1,24 @@
+# zen-form-components
+
+> 标签: svelte
+
+## 简介
+
+Few Svelte form components
+
+## 官网
+
+- 官网：https://github.com/countnazgul/zen-form-components#readme
+- 源码仓库：git+https://github.com/countnazgul/zen-form-components.git
+- npm 页面：https://www.npmjs.com/package/zen-form-components
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install zen-form-components`
+- npm registry：https://registry.npmjs.org/zen-form-components

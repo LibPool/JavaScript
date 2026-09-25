@@ -1,0 +1,25 @@
+# extra-tabler-icons
+
+> 标签: icons, svg
+
+## 简介
+
+Adapted icons to complement Tabler Icons.
+
+## 官网
+
+- 官网：https://gitlab.com/joaommpalmeiro/extra-tabler-icons
+- 源码仓库：git+https://gitlab.com/joaommpalmeiro/extra-tabler-icons.git
+- npm 页面：https://www.npmjs.com/package/extra-tabler-icons
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install extra-tabler-icons`
+- npm registry：https://registry.npmjs.org/extra-tabler-icons
+- Node 要求：>=20.0.0

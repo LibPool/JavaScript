@@ -1,0 +1,27 @@
+# xr-template-portal
+
+> 标签: JavaScript
+
+## 简介
+
+xr-template-portal
+
+## 官网
+
+- 官网：https://github.com/ziaochina/xr-template-portal#readme
+- 源码仓库：git+https://github.com/ziaochina/xr-template-portal.git
+- npm 页面：https://www.npmjs.com/package/xr-template-portal
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install xr-template-portal`
+- npm registry：https://registry.npmjs.org/xr-template-portal

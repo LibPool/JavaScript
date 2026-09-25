@@ -1,0 +1,24 @@
+# quest-en
+
+> 标签: tembako
+
+## 简介
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## 官网
+
+- 官网：https://github.com/lanaibra/Quest-en#readme
+- 源码仓库：git+https://github.com/lanaibra/Quest-en.git
+- npm 页面：https://www.npmjs.com/package/quest-en
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install quest-en`
+- npm registry：https://registry.npmjs.org/quest-en

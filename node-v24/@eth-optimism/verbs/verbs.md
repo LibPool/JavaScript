@@ -1,0 +1,24 @@
+# @eth-optimism/verbs
+
+> 标签: sdk, typescript, verbs
+
+## 简介
+
+TypeScript SDK for Verbs
+
+## 官网
+
+- 官网：https://github.com/ethereum-optimism/ecosystem/tree/main/packages/verbs#readme
+- 源码仓库：git+https://github.com/ethereum-optimism/ecosystem.git
+- npm 页面：https://www.npmjs.com/package/@eth-optimism/verbs
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @eth-optimism/verbs`
+- npm registry：https://registry.npmjs.org/@eth-optimism/verbs

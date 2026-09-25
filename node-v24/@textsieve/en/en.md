@@ -1,0 +1,27 @@
+# @textsieve/en
+
+> 标签: english, moderation, profanity, textsieve
+
+## 简介
+
+English language pack for TextSieve
+
+## 官网
+
+- 官网：https://github.com/dev-ik/textsieve#readme
+- 源码仓库：git+https://github.com/dev-ik/textsieve.git
+- npm 页面：https://www.npmjs.com/package/@textsieve/en
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.0
+- 0.1.1
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @textsieve/en`
+- npm registry：https://registry.npmjs.org/@textsieve/en
+- Node 要求：>=20

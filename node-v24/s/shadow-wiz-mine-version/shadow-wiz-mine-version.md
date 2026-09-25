@@ -1,0 +1,26 @@
+# shadow-wiz-mine-version
+
+> 标签: shadows
+
+## 简介
+
+just for learning
+
+## 官网
+
+- 官网：https://github.com/chetvishal/shadowizard#readme
+- 源码仓库：git+https://github.com/chetvishal/shadowizard.git
+- npm 页面：https://www.npmjs.com/package/shadow-wiz-mine-version
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install shadow-wiz-mine-version`
+- npm registry：https://registry.npmjs.org/shadow-wiz-mine-version

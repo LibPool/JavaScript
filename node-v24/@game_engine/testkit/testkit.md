@@ -1,0 +1,26 @@
+# @game_engine/testkit
+
+> 标签: agent-engine, ai-agent, game-engine, gameplay, testing
+
+## 简介
+
+Composable helpers for AI-agent-friendly Agent Engine gameplay and fixture tests.
+
+## 官网
+
+- 官网：https://github.com/rktkdduq01/game_engine#readme
+- 源码仓库：git+https://github.com/rktkdduq01/game_engine.git
+- npm 页面：https://www.npmjs.com/package/@game_engine/testkit
+
+## 历史版本号
+
+- 当前版本：0.1.0-alpha
+
+- 0.1.0-alpha
+- 0.1.0-alpha.1
+- 0.1.0-alpha.2
+
+## 获取地址
+
+- npm 安装：`npm install @game_engine/testkit`
+- npm registry：https://registry.npmjs.org/@game_engine/testkit

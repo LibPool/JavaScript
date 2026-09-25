@@ -1,0 +1,35 @@
+# @jakta/jakta-core
+
+> 标签: JavaScript
+
+## 简介
+
+Reference implementation and DSL entry points of [JaKtA](https://github.com/jakta-bdi/jakta), a Kotlin Multiplatform framework for BDI (Belief-Desire-Intention) agent-oriented programming.
+
+## 官网
+
+- 官网：https://github.com/jakta-bdi/jakta#readme
+- 源码仓库：git+https://github.com/jakta-bdi/jakta.git
+- npm 页面：https://www.npmjs.com/package/@jakta/jakta-core
+
+## 历史版本号
+
+- 当前版本：1.1.14
+
+- 1.1.11
+- 1.1.12
+- 1.1.13
+- 1.1.14
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.1.6
+- 1.1.7
+- 1.1.8
+- 1.1.9
+
+## 获取地址
+
+- npm 安装：`npm install @jakta/jakta-core`
+- npm registry：https://registry.npmjs.org/@jakta/jakta-core

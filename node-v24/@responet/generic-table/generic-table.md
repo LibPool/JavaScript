@@ -1,0 +1,22 @@
+# @responet/generic-table
+
+> 标签: JavaScript
+
+## 简介
+
+Reusable GenericTable abstraction for Mantine CRUD screens (tables, export, import, RTL).
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@responet/generic-table
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @responet/generic-table`
+- npm registry：https://registry.npmjs.org/@responet/generic-table

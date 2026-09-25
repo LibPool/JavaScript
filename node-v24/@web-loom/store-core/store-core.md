@@ -1,0 +1,27 @@
+# @web-loom/store-core
+
+> 标签: angular, dashboard, frontend, mvvm, react, rxjs, typescript, vue, web-framework, zod
+
+## 简介
+
+A minimal client state management library for building reactive web applications.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@web-loom/store-core
+
+## 历史版本号
+
+- 当前版本：0.8.0
+
+- 0.0.3
+- 0.0.4
+- 0.5.2
+- 0.5.4
+- 0.5.5
+- 0.8.0
+
+## 获取地址
+
+- npm 安装：`npm install @web-loom/store-core`
+- npm registry：https://registry.npmjs.org/@web-loom/store-core

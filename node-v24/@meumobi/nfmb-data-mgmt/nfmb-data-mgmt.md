@@ -1,0 +1,36 @@
+# @meumobi/nfmb-data-mgmt
+
+> 标签: JavaScript
+
+## 简介
+
+nfmb data models. Internal use only.
+
+## 官网
+
+- 官网：https://github.com/meumobi/nfmb-web#readme
+- 源码仓库：git+https://github.com/meumobi/nfmb-web.git
+- npm 页面：https://www.npmjs.com/package/@meumobi/nfmb-data-mgmt
+
+## 历史版本号
+
+- 当前版本：1.26.0
+
+- 1.22.3
+- 1.23.0
+- 1.24.0
+- 1.25.0
+- 1.26.0
+- 1.3.0
+- 1.4.0
+- 1.5.0
+- 1.6.0
+- 1.7.0
+- 1.8.0
+- 1.9.0
+
+## 获取地址
+
+- npm 安装：`npm install @meumobi/nfmb-data-mgmt`
+- npm registry：https://registry.npmjs.org/@meumobi/nfmb-data-mgmt
+- Node 要求：14

@@ -1,0 +1,25 @@
+# wxc_gulp_workflow
+
+> 标签: cli, gulp_workflow, pages-tasks, wxc
+
+## 简介
+
+A static site development workflow
+
+## 官网
+
+- 官网：https://github.com/henji-1122/wxc_gulp_workflow#readme
+- npm 页面：https://www.npmjs.com/package/wxc_gulp_workflow
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install wxc_gulp_workflow`
+- npm registry：https://registry.npmjs.org/wxc_gulp_workflow
+- Node 要求：>=8

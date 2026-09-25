@@ -1,0 +1,28 @@
+# @vr1/flow-r-jest
+
+> 标签: JavaScript
+
+## 简介
+
+УИнструменты для написания jest тестов в конвейерно-ориентированном стиле flow-r.
+
+## 官网
+
+- 源码仓库：ssh://git@gitverse.ru:2222/vr1/flow-r-jest.git
+- npm 页面：https://www.npmjs.com/package/@vr1/flow-r-jest
+
+## 历史版本号
+
+- 当前版本：2.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 2.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @vr1/flow-r-jest`
+- npm registry：https://registry.npmjs.org/@vr1/flow-r-jest

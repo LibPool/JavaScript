@@ -1,0 +1,27 @@
+# easy-puppeteer-html
+
+> 标签: JavaScript
+
+## 简介
+
+puppeteer prerender html
+
+## 官网
+
+- 官网：https://github.com/easyjs/easy-puppeteer-html#readme
+- 源码仓库：git+https://github.com/easyjs/easy-puppeteer-html.git
+- npm 页面：https://www.npmjs.com/package/easy-puppeteer-html
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install easy-puppeteer-html`
+- npm registry：https://registry.npmjs.org/easy-puppeteer-html
+- Node 要求：>=8.0.0

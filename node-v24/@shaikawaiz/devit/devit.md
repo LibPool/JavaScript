@@ -1,0 +1,27 @@
+# @shaikawaiz/devit
+
+> 标签: DEVIT
+
+## 简介
+
+"This is for Devit"
+
+## 官网
+
+- 官网：https://github.com/ashborne-art/DEVIT-ICONS#readme
+- 源码仓库：git+https://github.com/ashborne-art/DEVIT-ICONS.git
+- npm 页面：https://www.npmjs.com/package/@shaikawaiz/devit
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @shaikawaiz/devit`
+- npm registry：https://registry.npmjs.org/@shaikawaiz/devit

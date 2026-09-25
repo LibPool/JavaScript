@@ -1,0 +1,24 @@
+# @nicolaepaul/tiptap-starter-kit
+
+> 标签: tiptap, tiptap-extension
+
+## 简介
+
+The non-official starter kit of the Tiptap editor contains common extensions.
+
+## 官网
+
+- 官网：https://github.com/NicolaePaulGeambazu/package
+- 源码仓库：git+https://github.com/NicolaePaulGeambazu/package.git
+- npm 页面：https://www.npmjs.com/package/@nicolaepaul/tiptap-starter-kit
+
+## 历史版本号
+
+- 当前版本：0.0.0-semantic-release
+
+- 0.0.0-semantic-release
+
+## 获取地址
+
+- npm 安装：`npm install @nicolaepaul/tiptap-starter-kit`
+- npm registry：https://registry.npmjs.org/@nicolaepaul/tiptap-starter-kit

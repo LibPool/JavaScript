@@ -1,0 +1,26 @@
+# jm-sdk-ms
+
+> 标签: javascript, jm-sdk-ms
+
+## 简介
+
+module ms for jm-sdk
+
+## 官网
+
+- 官网：https://github.com/jm-root/sdk
+- 源码仓库：git+https://github.com/jm-root/sdk.git
+- npm 页面：https://www.npmjs.com/package/jm-sdk-ms
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install jm-sdk-ms`
+- npm registry：https://registry.npmjs.org/jm-sdk-ms

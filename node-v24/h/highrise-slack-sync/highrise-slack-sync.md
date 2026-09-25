@@ -1,0 +1,34 @@
+# highrise-slack-sync
+
+> 标签: highrise, slack, webhook
+
+## 简介
+
+Send notifications to a Slack webhook for Highrise notes, emails and comments
+
+## 官网
+
+- 官网：https://github.com/digidem/highrise-slack-sync#readme
+- 源码仓库：git+https://github.com/digidem/highrise-slack-sync.git
+- npm 页面：https://www.npmjs.com/package/highrise-slack-sync
+
+## 历史版本号
+
+- 当前版本：2.2.2
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 2.0.0
+- 2.1.2
+- 2.2.0
+- 2.2.1
+- 2.2.2
+
+## 获取地址
+
+- npm 安装：`npm install highrise-slack-sync`
+- npm registry：https://registry.npmjs.org/highrise-slack-sync

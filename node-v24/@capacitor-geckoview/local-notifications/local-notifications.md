@@ -1,0 +1,26 @@
+# @capacitor-geckoview/local-notifications
+
+> 标签: capacitor, native, plugin
+
+## 简介
+
+The Local Notifications API provides a way to schedule device notifications locally (i.e. without a server sending push notifications).
+
+## 官网
+
+- 官网：https://github.com/wszgrcy/capacitor-geckoview-plugins#readme
+- 源码仓库：git+https://github.com/wszgrcy/capacitor-geckoview-plugins.git
+- npm 页面：https://www.npmjs.com/package/@capacitor-geckoview/local-notifications
+
+## 历史版本号
+
+- 当前版本：8.6.0
+
+- 8.2.1
+- 8.5.7
+- 8.6.0
+
+## 获取地址
+
+- npm 安装：`npm install @capacitor-geckoview/local-notifications`
+- npm registry：https://registry.npmjs.org/@capacitor-geckoview/local-notifications

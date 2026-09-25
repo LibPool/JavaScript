@@ -1,0 +1,25 @@
+# nado.voronoi
+
+> 标签: nado, power diagram, weighted voronoi
+
+## 简介
+
+module for nado's voronoi
+
+## 官网
+
+- 官网：https://github.com/opengl99/nado.voronoi#readme
+- 源码仓库：git+https://github.com/opengl99/nado.voronoi.git
+- npm 页面：https://www.npmjs.com/package/nado.voronoi
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install nado.voronoi`
+- npm registry：https://registry.npmjs.org/nado.voronoi

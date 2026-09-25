@@ -1,0 +1,24 @@
+# p1xel_p0nderer
+
+> 标签: JavaScript
+
+## 简介
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## 官网
+
+- 官网：https://github.com/argonda/polymer-slwmoo#readme
+- 源码仓库：git+https://github.com/argonda/polymer-slwmoo.git
+- npm 页面：https://www.npmjs.com/package/p1xel_p0nderer
+
+## 历史版本号
+
+- 当前版本：2.2.2
+
+- 2.2.2
+
+## 获取地址
+
+- npm 安装：`npm install p1xel_p0nderer`
+- npm registry：https://registry.npmjs.org/p1xel_p0nderer

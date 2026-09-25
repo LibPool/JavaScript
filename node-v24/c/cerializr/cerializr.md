@@ -1,0 +1,31 @@
+# cerializr
+
+> 标签: annotations, decoration, decorators, es7, serialize, typescript
+
+## 简介
+
+(de)serialization made easy with ES7/Typescript annotations (decorators)
+
+## 官网
+
+- 官网：https://github.com/kmathy/cerializr#readme
+- 源码仓库：git+https://github.com/kmathy/cerializr.git
+- npm 页面：https://www.npmjs.com/package/cerializr
+
+## 历史版本号
+
+- 当前版本：3.1.4
+
+- 3.0.1
+- 3.0.2
+- 3.0.3
+- 3.1.0
+- 3.1.1
+- 3.1.2
+- 3.1.3
+- 3.1.4
+
+## 获取地址
+
+- npm 安装：`npm install cerializr`
+- npm registry：https://registry.npmjs.org/cerializr

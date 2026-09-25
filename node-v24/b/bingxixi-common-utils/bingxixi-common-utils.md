@@ -1,0 +1,24 @@
+# bingxixi-common-utils
+
+> 标签: JavaScript
+
+## 简介
+
+> `bingxixi-common-utils` (加密电话号码,拿到数值的整数位数)
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/bingxixi-common-utils
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install bingxixi-common-utils`
+- npm registry：https://registry.npmjs.org/bingxixi-common-utils

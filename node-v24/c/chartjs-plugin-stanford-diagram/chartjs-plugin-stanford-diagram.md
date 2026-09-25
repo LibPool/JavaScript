@@ -1,0 +1,35 @@
+# chartjs-plugin-stanford-diagram
+
+> 标签: chart, chart.js, chartjs, diagram, plugin, stanford
+
+## 简介
+
+Stanford Diagram plugin for Chart.js
+
+## 官网
+
+- 官网：https://github.com/FreezinG117/chartjs-plugin-stanford-diagram#readme
+- 源码仓库：git+https://github.com/FreezinG117/chartjs-plugin-stanford-diagram.git
+- npm 页面：https://www.npmjs.com/package/chartjs-plugin-stanford-diagram
+
+## 历史版本号
+
+- 当前版本：1.7.0
+
+- 1.0.2
+- 1.1.0
+- 1.2.0
+- 1.2.1
+- 1.3.0
+- 1.3.1
+- 1.3.2
+- 1.4.0
+- 1.5.0
+- 1.5.1
+- 1.6.0
+- 1.7.0
+
+## 获取地址
+
+- npm 安装：`npm install chartjs-plugin-stanford-diagram`
+- npm registry：https://registry.npmjs.org/chartjs-plugin-stanford-diagram

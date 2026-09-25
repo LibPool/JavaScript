@@ -1,0 +1,24 @@
+# @react-shimeji/character-riolu-shiny-0676ef
+
+> 标签: Riolu Shiny, character, react-shimeji, riolu-shiny-0676ef, shimeji
+
+## 简介
+
+Shimeji character pack: Riolu Shiny
+
+## 官网
+
+- 官网：https://github.com/CarbonNeuron/react-shimeji#readme
+- 源码仓库：git+https://github.com/CarbonNeuron/react-shimeji.git
+- npm 页面：https://www.npmjs.com/package/@react-shimeji/character-riolu-shiny-0676ef
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @react-shimeji/character-riolu-shiny-0676ef`
+- npm registry：https://registry.npmjs.org/@react-shimeji/character-riolu-shiny-0676ef

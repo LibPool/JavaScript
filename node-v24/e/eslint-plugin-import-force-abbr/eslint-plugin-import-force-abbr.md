@@ -1,0 +1,32 @@
+# eslint-plugin-import-force-abbr
+
+> 标签: eslint, eslint-plugin, eslintplugin
+
+## 简介
+
+Forces to import specific modules into specific variable names (practically abbreviations).
+
+## 官网
+
+- 官网：https://github.com/deser/eslint-plugin-import-force-abbr#readme
+- 源码仓库：git+https://github.com/deser/eslint-plugin-import-force-abbr.git
+- npm 页面：https://www.npmjs.com/package/eslint-plugin-import-force-abbr
+
+## 历史版本号
+
+- 当前版本：1.1.6
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.1.6
+
+## 获取地址
+
+- npm 安装：`npm install eslint-plugin-import-force-abbr`
+- npm registry：https://registry.npmjs.org/eslint-plugin-import-force-abbr
+- Node 要求：>=8.0.0

@@ -1,0 +1,27 @@
+# airtool
+
+> 标签: airtable, sdk, typescript
+
+## 简介
+
+Typed Airtable utilities with schema-aware helpers.
+
+## 官网
+
+- 官网：https://github.com/bytes032/airtool#readme
+- 源码仓库：git+https://github.com/bytes032/airtool.git
+- npm 页面：https://www.npmjs.com/package/airtool
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install airtool`
+- npm registry：https://registry.npmjs.org/airtool
+- Node 要求：>=24

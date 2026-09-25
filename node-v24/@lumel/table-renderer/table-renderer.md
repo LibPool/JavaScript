@@ -1,0 +1,24 @@
+# @lumel/table-renderer
+
+> 标签: grid, render, table, web
+
+## 简介
+
+a based-canvas table renderer
+
+## 官网
+
+- 官网：https://github.com/wolf-table/table-render#readme
+- 源码仓库：git+https://github.com/wolf-table/table-render.git
+- npm 页面：https://www.npmjs.com/package/@lumel/table-renderer
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @lumel/table-renderer`
+- npm registry：https://registry.npmjs.org/@lumel/table-renderer

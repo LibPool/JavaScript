@@ -1,0 +1,25 @@
+# hypercore-nine
+
+> 标签: JavaScript
+
+## 简介
+
+hypercore v9 with promise support
+
+## 官网
+
+- 官网：https://github.com/digidem/hypercore-nine#readme
+- 源码仓库：git+https://github.com/digidem/hypercore-nine.git
+- npm 页面：https://www.npmjs.com/package/hypercore-nine
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install hypercore-nine`
+- npm registry：https://registry.npmjs.org/hypercore-nine

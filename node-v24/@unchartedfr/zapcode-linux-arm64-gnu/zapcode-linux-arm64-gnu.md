@@ -1,0 +1,36 @@
+# @unchartedfr/zapcode-linux-arm64-gnu
+
+> 标签: ai, interpreter, mcp, sandbox, secure, snapshot, typescript, wasm
+
+## 简介
+
+A minimal, secure TypeScript interpreter for AI agents — Node.js bindings
+
+## 官网
+
+- 官网：https://github.com/TheUncharted/zapcode#readme
+- 源码仓库：git+https://github.com/TheUncharted/zapcode.git
+- npm 页面：https://www.npmjs.com/package/@unchartedfr/zapcode-linux-arm64-gnu
+
+## 历史版本号
+
+- 当前版本：1.5.3
+
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.1.6
+- 1.1.7
+- 1.2.0
+- 1.3.0
+- 1.4.0
+- 1.5.0
+- 1.5.1
+- 1.5.2
+- 1.5.3
+
+## 获取地址
+
+- npm 安装：`npm install @unchartedfr/zapcode-linux-arm64-gnu`
+- npm registry：https://registry.npmjs.org/@unchartedfr/zapcode-linux-arm64-gnu
+- Node 要求：>=18

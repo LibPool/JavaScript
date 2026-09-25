@@ -1,0 +1,25 @@
+# 2d-point
+
+> 标签: 2D, bbox, geometry, point, rectangles, svg
+
+## 简介
+
+2D point object
+
+## 官网
+
+- 官网：https://github.com/CrowdHailer/point
+- 源码仓库：git://github.com/CrowdHailer/point.git
+- npm 页面：https://www.npmjs.com/package/2d-point
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.8.0
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install 2d-point`
+- npm registry：https://registry.npmjs.org/2d-point

@@ -1,0 +1,23 @@
+# @rahulseh2026/onerules
+
+> 标签: ai, ai-coding, aider, claude, claude-code, cli, cline, codex, coding-rules, copilot, cursor, cursorrules, developer-tools, gemini, rules, windsurf
+
+## 简介
+
+One command. Every AI tool. Perfect rules.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@rahulseh2026/onerules
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @rahulseh2026/onerules`
+- npm registry：https://registry.npmjs.org/@rahulseh2026/onerules
+- Node 要求：>=18

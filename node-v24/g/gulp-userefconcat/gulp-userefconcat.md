@@ -1,0 +1,28 @@
+# gulp-userefconcat
+
+> 标签: concat, css, gulpplugin, html, optimize, scripts
+
+## 简介
+
+Parse build blocks in HTML files to replace references to non-optimized scripts or stylesheets.
+
+## 官网
+
+- 官网：https://github.com/nickolasmv/gulp-useref#readme
+- 源码仓库：git+https://github.com/nickolasmv/gulp-useref.git
+- npm 页面：https://www.npmjs.com/package/gulp-userefconcat
+
+## 历史版本号
+
+- 当前版本：3.0.11
+
+- 3.0.10
+- 3.0.11
+- 3.0.8
+- 3.0.9
+
+## 获取地址
+
+- npm 安装：`npm install gulp-userefconcat`
+- npm registry：https://registry.npmjs.org/gulp-userefconcat
+- Node 要求：>=0.10.0

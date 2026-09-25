@@ -1,0 +1,24 @@
+# flk-commander
+
+> 标签: commander, flk
+
+## 简介
+
+Falak JS commander.
+
+## 官网
+
+- 官网：https://github.com/falakjs/flk-commander#readme
+- 源码仓库：git+https://github.com/falakjs/flk-commander.git
+- npm 页面：https://www.npmjs.com/package/flk-commander
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install flk-commander`
+- npm registry：https://registry.npmjs.org/flk-commander

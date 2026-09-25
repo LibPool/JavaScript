@@ -1,0 +1,25 @@
+# ccvitals
+
+> 标签: claude, claude-code, cli, cost, observability, statusline, tokens, usage
+
+## 简介
+
+Token metrics for Claude Code sessions
+
+## 官网
+
+- 官网：https://github.com/ado11231/ccvitals#readme
+- 源码仓库：git+https://github.com/ado11231/ccvitals.git
+- npm 页面：https://www.npmjs.com/package/ccvitals
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install ccvitals`
+- npm registry：https://registry.npmjs.org/ccvitals
+- Node 要求：>=20

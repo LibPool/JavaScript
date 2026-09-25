@@ -1,0 +1,35 @@
+# @watheia/docs.ui.anchor
+
+> 标签: bit, layout, mfe, microcomponent, microfrontend, react, spectrum, watheia
+
+## 简介
+
+@watheia/docs.ui.anchor - JavaScript library from npm
+
+## 官网
+
+- 官网：https://watheia.app
+- 源码仓库：https://bit.dev/watheia/{scope}
+- npm 页面：https://www.npmjs.com/package/@watheia/docs.ui.anchor
+
+## 历史版本号
+
+- 当前版本：1.2.2
+
+- 1.1.16
+- 1.1.17
+- 1.1.18
+- 1.1.19
+- 1.1.20
+- 1.1.3
+- 1.1.6
+- 1.1.7
+- 1.1.8
+- 1.2.0
+- 1.2.1
+- 1.2.2
+
+## 获取地址
+
+- npm 安装：`npm install @watheia/docs.ui.anchor`
+- npm registry：https://registry.npmjs.org/@watheia/docs.ui.anchor

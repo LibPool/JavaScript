@@ -1,0 +1,34 @@
+# @sonarly/tracker
+
+> 标签: ai-bug-fixing, ai-debugging, analytics, bug-tracking, click-tracking, crash-reporting, dead-clicks, debugging, error-tracking, frontend-monitoring, javascript-errors, logging, performance-monitoring, rage-clicks, session-replay, sourcemap-upload, sourcemaps, user-behavior, user-monitoring, web-analytics
+
+## 简介
+
+Session replay and user monitoring SDK. Record, replay and analyze user sessions with automatic error detection, performance monitoring, and AI-powered bug fixing. Includes CLI for sourcemap uploads.
+
+## 官网
+
+- 官网：https://github.com/alex78420/sonarly-tracker/tree/main/packages/session-replay
+- 源码仓库：git+https://github.com/alex78420/sonarly-tracker.git
+- npm 页面：https://www.npmjs.com/package/@sonarly/tracker
+
+## 历史版本号
+
+- 当前版本：1.3.15
+
+- 1.2.2
+- 1.3.0
+- 1.3.1
+- 1.3.11
+- 1.3.14
+- 1.3.15
+- 1.3.2
+- 1.3.3
+- 1.3.4
+- 1.3.7
+
+## 获取地址
+
+- npm 安装：`npm install @sonarly/tracker`
+- npm registry：https://registry.npmjs.org/@sonarly/tracker
+- Node 要求：>=14.0

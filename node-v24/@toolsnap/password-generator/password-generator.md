@@ -1,0 +1,25 @@
+# @toolsnap/password-generator
+
+> 标签: password generator, random password, secure password
+
+## 简介
+
+Free online Password Generator. Generate secure random passwords. Try free at risetop.top
+
+## 官网
+
+- 官网：https://risetop.top/password-generator.html
+- 源码仓库：git+https://github.com/toolsnap-io/password-generator.git
+- npm 页面：https://www.npmjs.com/package/@toolsnap/password-generator
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @toolsnap/password-generator`
+- npm registry：https://registry.npmjs.org/@toolsnap/password-generator

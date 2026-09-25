@@ -1,0 +1,22 @@
+# taufeeq862-first.simple-calculater
+
+> 标签: JavaScript
+
+## 简介
+
+A simple calculater wit typescript and node js and inquirer
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/taufeeq862-first.simple-calculater
+
+## 历史版本号
+
+- 当前版本：2.0.3
+
+- 2.0.3
+
+## 获取地址
+
+- npm 安装：`npm install taufeeq862-first.simple-calculater`
+- npm registry：https://registry.npmjs.org/taufeeq862-first.simple-calculater

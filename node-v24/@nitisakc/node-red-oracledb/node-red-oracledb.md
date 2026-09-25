@@ -1,0 +1,32 @@
+# @nitisakc/node-red-oracledb
+
+> 标签: node-red, oracle, oracledb
+
+## 简介
+
+node-red-oracledb
+
+## 官网
+
+- 官网：https://github.com/nitisakc/node-red-oracledb#readme
+- 源码仓库：git+https://github.com/nitisakc/node-red-oracledb.git
+- npm 页面：https://www.npmjs.com/package/@nitisakc/node-red-oracledb
+
+## 历史版本号
+
+- 当前版本：1.3.3
+
+- 1.1.1
+- 1.1.2
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.3.0
+- 1.3.1
+- 1.3.2
+- 1.3.3
+
+## 获取地址
+
+- npm 安装：`npm install @nitisakc/node-red-oracledb`
+- npm registry：https://registry.npmjs.org/@nitisakc/node-red-oracledb

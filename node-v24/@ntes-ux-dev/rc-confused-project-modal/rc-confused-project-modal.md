@@ -1,0 +1,24 @@
+# @ntes-ux-dev/rc-confused-project-modal
+
+> 标签: JavaScript
+
+## 简介
+
+Confused project modal for react.
+
+## 官网
+
+- 源码仓库：ssh://git@gitlab.nie.netease.com:32200/uncle-y/rc-confused-project-modal.git
+- npm 页面：https://www.npmjs.com/package/@ntes-ux-dev/rc-confused-project-modal
+
+## 历史版本号
+
+- 当前版本：0.1.5
+
+- 0.1.4
+- 0.1.5
+
+## 获取地址
+
+- npm 安装：`npm install @ntes-ux-dev/rc-confused-project-modal`
+- npm registry：https://registry.npmjs.org/@ntes-ux-dev/rc-confused-project-modal

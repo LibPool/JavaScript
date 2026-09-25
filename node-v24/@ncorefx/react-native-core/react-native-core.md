@@ -1,0 +1,24 @@
+# @ncorefx/react-native-core
+
+> 标签: JavaScript
+
+## 简介
+
+Contains the base types and utilities for React Native based applications.
+
+## 官网
+
+- 官网：https://github.com/timjroberts/tabhub#readme
+- 源码仓库：git+https://github.com/timjroberts/tabhub.git
+- npm 页面：https://www.npmjs.com/package/@ncorefx/react-native-core
+
+## 历史版本号
+
+- 当前版本：1.0.10
+
+- 1.0.10
+
+## 获取地址
+
+- npm 安装：`npm install @ncorefx/react-native-core`
+- npm registry：https://registry.npmjs.org/@ncorefx/react-native-core

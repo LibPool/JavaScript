@@ -1,0 +1,24 @@
+# @chartshq/webpack-starter-test-do-not-use-it
+
+> 标签: es6, frontend, javascript, startkit, webdev, webpack
+
+## 简介
+
+A light foundation for your next frontend project based on webpack.
+
+## 官网
+
+- 官网：https://github.com/wbkd/webpack-starter#readme
+- 源码仓库：git+https://github.com/wbkd/webpack-starter.git
+- npm 页面：https://www.npmjs.com/package/@chartshq/webpack-starter-test-do-not-use-it
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @chartshq/webpack-starter-test-do-not-use-it`
+- npm registry：https://registry.npmjs.org/@chartshq/webpack-starter-test-do-not-use-it

@@ -1,0 +1,27 @@
+# lens-inspector
+
+> 标签: ar, devtools, inspector, lens-studio, scene-graph, snap, spectacles
+
+## 简介
+
+Browser-based scene graph inspector for Lens Studio. See every object in your scene, live.
+
+## 官网
+
+- 官网：https://github.com/a-sumo/lens-inspector#readme
+- 源码仓库：git+https://github.com/a-sumo/lens-inspector.git
+- npm 页面：https://www.npmjs.com/package/lens-inspector
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install lens-inspector`
+- npm registry：https://registry.npmjs.org/lens-inspector

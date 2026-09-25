@@ -1,0 +1,29 @@
+# n8n-nodes-evolution-nakamura
+
+> 标签: evolution-api, n8n-community-node-package, nakamura
+
+## 简介
+
+Fork customizado do n8n-nodes-evolution-api com operações adicionais (Carousel, Location, etc)
+
+## 官网
+
+- 官网：https://github.com/oyaga/n8n-nodes-evolution-nakamura
+- 源码仓库：git+https://github.com/oyaga/n8n-nodes-evolution-nakamura.git
+- npm 页面：https://www.npmjs.com/package/n8n-nodes-evolution-nakamura
+
+## 历史版本号
+
+- 当前版本：1.0.6
+
+- 1.0.0
+- 1.0.2
+- 1.0.4
+- 1.0.5
+- 1.0.6
+
+## 获取地址
+
+- npm 安装：`npm install n8n-nodes-evolution-nakamura`
+- npm registry：https://registry.npmjs.org/n8n-nodes-evolution-nakamura
+- Node 要求：>=18.10

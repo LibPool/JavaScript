@@ -1,0 +1,29 @@
+# facilisoccaecati
+
+> 标签: compiler, environment, node, runtime, typescript, veritatis
+
+## 简介
+
+TypeScript execution environment and REPL for node
+
+## 官网
+
+- 官网：https://github.com/EstelleKertzmann/facilisoccaecati.git
+- 源码仓库：git+https://github.com/EstelleKertzmann/facilisoccaecati.git
+- npm 页面：https://www.npmjs.com/package/facilisoccaecati
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install facilisoccaecati`
+- npm registry：https://registry.npmjs.org/facilisoccaecati
+- Node 要求：>=4.2.0

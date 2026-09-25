@@ -1,0 +1,32 @@
+# sqsd
+
+> 标签: amazon, post, queue, sqs, sqsd, webhook, worker
+
+## 简介
+
+A simple alternative to the Amazon SQS Daemon (sqsd) used on AWS Beanstalk worker tier instances.
+
+## 官网
+
+- 官网：https://github.com/proofme/sqsd
+- 源码仓库：git+https://github.com/proofme/sqsd.git
+- npm 页面：https://www.npmjs.com/package/sqsd
+
+## 历史版本号
+
+- 当前版本：2.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.5
+- 1.1.0
+- 1.2.0
+- 2.0.0
+- 2.0.2
+
+## 获取地址
+
+- npm 安装：`npm install sqsd`
+- npm registry：https://registry.npmjs.org/sqsd

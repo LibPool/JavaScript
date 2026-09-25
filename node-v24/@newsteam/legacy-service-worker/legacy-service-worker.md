@@ -1,0 +1,36 @@
+# @newsteam/legacy-service-worker
+
+> 标签: @newsteam, newsteam
+
+## 简介
+
+Exports a ServiceWorker class that can be used to automatically configure a server worker for the Assemble framework.
+
+## 官网
+
+- 官网：https://github.com/feight/packages/tree/master/legacy-service-worker#readme
+- 源码仓库：git+https://github.com/feight/packages.git
+- npm 页面：https://www.npmjs.com/package/@newsteam/legacy-service-worker
+
+## 历史版本号
+
+- 当前版本：0.0.13
+
+- 0.0.10
+- 0.0.11
+- 0.0.12
+- 0.0.13
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @newsteam/legacy-service-worker`
+- npm registry：https://registry.npmjs.org/@newsteam/legacy-service-worker
+- Node 要求：>= 12

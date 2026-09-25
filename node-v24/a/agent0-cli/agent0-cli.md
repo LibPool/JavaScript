@@ -1,0 +1,31 @@
+# agent0-cli
+
+> 标签: agent, agent0, ai, cli, llm, mcp, prompt
+
+## 简介
+
+Command-line interface for agent0 — manage agents, prompt versions, runs, tags, providers, and MCP servers from a shell.
+
+## 官网
+
+- 官网：https://github.com/lavisht22/agent0/tree/main/packages/cli#readme
+- 源码仓库：git+https://github.com/lavisht22/agent0.git
+- npm 页面：https://www.npmjs.com/package/agent0-cli
+
+## 历史版本号
+
+- 当前版本：3.0.0
+
+- 2.0.0
+- 2.1.0
+- 2.2.0
+- 2.2.1
+- 2.3.0
+- 2.4.0
+- 3.0.0
+
+## 获取地址
+
+- npm 安装：`npm install agent0-cli`
+- npm registry：https://registry.npmjs.org/agent0-cli
+- Node 要求：>=24

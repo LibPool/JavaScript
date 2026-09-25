@@ -1,0 +1,26 @@
+# git-cmd
+
+> 标签: git
+
+## 简介
+
+A command builder to build functions that will run git commands and extract output from them in a variety of ways.
+
+## 官网
+
+- 官网：https://github.com/redwerks/node-git-cmd
+- 源码仓库：https://github.com/redwerks/node-git-cmd.git
+- npm 页面：https://www.npmjs.com/package/git-cmd
+
+## 历史版本号
+
+- 当前版本：0.2.1
+
+- 0.1.0
+- 0.2.0
+- 0.2.1
+
+## 获取地址
+
+- npm 安装：`npm install git-cmd`
+- npm registry：https://registry.npmjs.org/git-cmd

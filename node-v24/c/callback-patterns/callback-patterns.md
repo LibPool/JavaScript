@@ -1,0 +1,35 @@
+# callback-patterns
+
+> 标签: async, callbacks
+
+## 简介
+
+A collection of design patterns for callback-driven async code
+
+## 官网
+
+- 官网：https://github.com/somesocks/callback-patterns
+- 源码仓库：git://github.com/somesocks/callback-patterns.git
+- npm 页面：https://www.npmjs.com/package/callback-patterns
+
+## 历史版本号
+
+- 当前版本：3.0.0
+
+- 1.7.0
+- 2.0.0
+- 2.0.1
+- 2.1.0
+- 2.2.0
+- 2.3.0
+- 2.4.0
+- 2.4.1
+- 2.4.2
+- 2.5.0
+- 2.5.1
+- 3.0.0
+
+## 获取地址
+
+- npm 安装：`npm install callback-patterns`
+- npm registry：https://registry.npmjs.org/callback-patterns

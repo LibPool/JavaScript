@@ -1,0 +1,26 @@
+# wonder-jest-jasmine2
+
+> 标签: JavaScript
+
+## 简介
+
+wonder-jest-jasmine2 - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/facebook/jest#readme
+- 源码仓库：git+https://github.com/facebook/jest.git
+- npm 页面：https://www.npmjs.com/package/wonder-jest-jasmine2
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install wonder-jest-jasmine2`
+- npm registry：https://registry.npmjs.org/wonder-jest-jasmine2

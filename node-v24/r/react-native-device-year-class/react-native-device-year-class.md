@@ -1,0 +1,24 @@
+# react-native-device-year-class
+
+> 标签: android, class, device, react, react-native, year
+
+## 简介
+
+react-native-device-year-class
+
+## 官网
+
+- 官网：https://github.com/YsnKsy/react-native-device-year-class
+- 源码仓库：git://github.com/YsnKsy/react-native-device-year-class.git
+- npm 页面：https://www.npmjs.com/package/react-native-device-year-class
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install react-native-device-year-class`
+- npm registry：https://registry.npmjs.org/react-native-device-year-class

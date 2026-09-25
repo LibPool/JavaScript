@@ -1,0 +1,24 @@
+# @smthrs/jj-linux-x64
+
+> 标签: JavaScript
+
+## 简介
+
+Vendored jj (Jujutsu) binary for linux-x64, used by @smthrs/vcs. Installed automatically as an optional dependency; not meant to be depended on directly.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@smthrs/jj-linux-x64
+
+## 历史版本号
+
+- 当前版本：0.35.0
+
+- 0.33.0
+- 0.34.0
+- 0.35.0
+
+## 获取地址
+
+- npm 安装：`npm install @smthrs/jj-linux-x64`
+- npm registry：https://registry.npmjs.org/@smthrs/jj-linux-x64

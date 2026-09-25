@@ -1,0 +1,27 @@
+# @lj1013240913/backpack-client
+
+> 标签: JavaScript
+
+## 简介
+
+Backpack exchange typescript client
+
+## 官网
+
+- 官网：https://www.npmjs.com/package/@lj1013240913/backpack-client?activeTab=code
+- 源码仓库：git+https://www.npmjs.com/package/@lj1013240913/backpack-client.git
+- npm 页面：https://www.npmjs.com/package/@lj1013240913/backpack-client
+
+## 历史版本号
+
+- 当前版本：3.0.10
+
+- 3.0.10
+- 3.0.4
+- 3.0.5
+- 3.0.6
+
+## 获取地址
+
+- npm 安装：`npm install @lj1013240913/backpack-client`
+- npm registry：https://registry.npmjs.org/@lj1013240913/backpack-client

@@ -1,0 +1,24 @@
+# node-marketo-soap
+
+> 标签: Marketo, Node, SOAP
+
+## 简介
+
+Node Module that interfaces with Marketo's SOAP API.
+
+## 官网
+
+- 官网：https://github.com/Spantree/node-marketo-soap
+- 源码仓库：git://github.com/Spantree/node-marketo-soap.git
+- npm 页面：https://www.npmjs.com/package/node-marketo-soap
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install node-marketo-soap`
+- npm registry：https://registry.npmjs.org/node-marketo-soap

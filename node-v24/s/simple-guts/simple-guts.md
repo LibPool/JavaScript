@@ -1,0 +1,35 @@
+# simple-guts
+
+> 标签: core, guts, library, util, utility, utils
+
+## 简介
+
+Ultra-minimal utility library to form the basis of a larger one.
+
+## 官网
+
+- 官网：https://bitbucket.org/kwooda333/simple-guts#readme
+- 源码仓库：git+https://kwooda333@bitbucket.org/kwooda333/simple-guts.git
+- npm 页面：https://www.npmjs.com/package/simple-guts
+
+## 历史版本号
+
+- 当前版本：2.3.1
+
+- 2.0.4
+- 2.0.5
+- 2.0.7
+- 2.1.0
+- 2.2.0
+- 2.2.1
+- 2.2.2
+- 2.2.3
+- 2.2.4
+- 2.2.5
+- 2.3.0
+- 2.3.1
+
+## 获取地址
+
+- npm 安装：`npm install simple-guts`
+- npm registry：https://registry.npmjs.org/simple-guts

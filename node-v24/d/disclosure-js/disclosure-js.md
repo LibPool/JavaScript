@@ -1,0 +1,24 @@
+# disclosure-js
+
+> 标签: JavaScript
+
+## 简介
+
+Socket.io based API server for sending and receiving realtime notifications from other webapps
+
+## 官网
+
+- 源码仓库：https://github.com/voidcontext/disclosure-js
+- npm 页面：https://www.npmjs.com/package/disclosure-js
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install disclosure-js`
+- npm registry：https://registry.npmjs.org/disclosure-js

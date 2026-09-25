@@ -1,0 +1,30 @@
+# ytdlharuu
+
+> 标签: download, video, youtube
+
+## 简介
+
+YouTube video downloader in pure javascript.
+
+## 官网
+
+- 官网：https://github.com/haruusenpaii/ytdlharuu
+- 源码仓库：git://github.com/haruusenpaii/ytdlharuu.git
+- npm 页面：https://www.npmjs.com/package/ytdlharuu
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+
+## 获取地址
+
+- npm 安装：`npm install ytdlharuu`
+- npm registry：https://registry.npmjs.org/ytdlharuu
+- Node 要求：>=10

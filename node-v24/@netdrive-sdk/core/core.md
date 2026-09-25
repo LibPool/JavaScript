@@ -1,0 +1,25 @@
+# @netdrive-sdk/core
+
+> 标签: JavaScript
+
+## 简介
+
+@netdrive-sdk/core - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/wes-lin/netdrive-sdk#readme
+- 源码仓库：git+https://github.com/wes-lin/netdrive-sdk.git
+- npm 页面：https://www.npmjs.com/package/@netdrive-sdk/core
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @netdrive-sdk/core`
+- npm registry：https://registry.npmjs.org/@netdrive-sdk/core

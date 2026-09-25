@@ -1,0 +1,36 @@
+# @innerstacklabs/neuralingual-mcp
+
+> 标签: affirmations, ai, claude, mcp, neuralingual
+
+## 简介
+
+Neuralingual CLI — AI-powered affirmation practice sets
+
+## 官网
+
+- 官网：https://github.com/innerstacklabs/neuralingual-mcp#readme
+- 源码仓库：git+https://github.com/innerstacklabs/neuralingual-mcp.git
+- npm 页面：https://www.npmjs.com/package/@innerstacklabs/neuralingual-mcp
+
+## 历史版本号
+
+- 当前版本：0.9.5
+
+- 0.2.0
+- 0.3.0
+- 0.4.0
+- 0.5.0
+- 0.6.0
+- 0.7.0
+- 0.8.0
+- 0.9.1
+- 0.9.2
+- 0.9.3
+- 0.9.4
+- 0.9.5
+
+## 获取地址
+
+- npm 安装：`npm install @innerstacklabs/neuralingual-mcp`
+- npm registry：https://registry.npmjs.org/@innerstacklabs/neuralingual-mcp
+- Node 要求：^20.20.0 || ^22.22.0 || >=24.0.0

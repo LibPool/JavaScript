@@ -1,0 +1,26 @@
+# lwamberhane-getobjectkey
+
+> 标签: Object, key, npm
+
+## 简介
+
+Finding object key using the object and the value
+
+## 官网
+
+- 官网：https://github.com/luwieb/getObjectKey#readme
+- 源码仓库：git+https://github.com/luwieb/getObjectKey.git
+- npm 页面：https://www.npmjs.com/package/lwamberhane-getobjectkey
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install lwamberhane-getobjectkey`
+- npm registry：https://registry.npmjs.org/lwamberhane-getobjectkey

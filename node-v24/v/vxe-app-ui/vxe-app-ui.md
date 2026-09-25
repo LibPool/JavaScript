@@ -1,0 +1,24 @@
+# vxe-app-ui
+
+> 标签: form, table, vxe
+
+## 简介
+
+[MIT](LICENSE) © 2019-present, Xu Liangzhan
+
+## 官网
+
+- 官网：https://github.com/x-extends/vxe-app-ui/
+- 源码仓库：git+https://github.com/x-extends/vxe-app-ui.git
+- npm 页面：https://www.npmjs.com/package/vxe-app-ui
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install vxe-app-ui`
+- npm registry：https://registry.npmjs.org/vxe-app-ui

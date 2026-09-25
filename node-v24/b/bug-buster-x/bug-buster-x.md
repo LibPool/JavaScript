@@ -1,0 +1,26 @@
+# bug-buster-x
+
+> 标签: JavaScript
+
+## 简介
+
+监控BUG报错
+
+## 官网
+
+- 官网：https://github.com/zerokongz/bug-buster-x
+- 源码仓库：git+https://github.com/zerokongz/bug-buster-x.git
+- npm 页面：https://www.npmjs.com/package/bug-buster-x
+
+## 历史版本号
+
+- 当前版本：32.5.6
+
+- 3.5.7
+- 30.5.6
+- 32.5.6
+
+## 获取地址
+
+- npm 安装：`npm install bug-buster-x`
+- npm registry：https://registry.npmjs.org/bug-buster-x

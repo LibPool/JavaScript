@@ -1,0 +1,36 @@
+# sdl-mcp-native
+
+> 标签: JavaScript
+
+## 简介
+
+Native Rust indexer and scoped Windows runtime loader for SDL-MCP
+
+## 官网
+
+- 官网：https://github.com/GlitterKill/sdl-mcp#readme
+- 源码仓库：git+https://github.com/GlitterKill/sdl-mcp.git
+- npm 页面：https://www.npmjs.com/package/sdl-mcp-native
+
+## 历史版本号
+
+- 当前版本：0.13.7
+
+- 0.8.2
+- 0.8.3
+- 0.8.4
+- 0.8.5
+- 0.8.6
+- 0.8.7
+- 0.8.8
+- 0.8.9
+- 0.9.0
+- 0.9.1
+- 0.9.2
+- 0.9.3
+- 共 54 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install sdl-mcp-native`
+- npm registry：https://registry.npmjs.org/sdl-mcp-native

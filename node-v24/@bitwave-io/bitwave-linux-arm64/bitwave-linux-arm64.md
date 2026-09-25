@@ -1,0 +1,34 @@
+# @bitwave-io/bitwave-linux-arm64
+
+> 标签: JavaScript
+
+## 简介
+
+bitwave binary for linux-arm64. Install `bitwave` instead of this package.
+
+## 官网
+
+- 官网：https://github.com/bitwave-io/bitwave-cli#readme
+- 源码仓库：git+https://github.com/bitwave-io/bitwave-cli.git
+- npm 页面：https://www.npmjs.com/package/@bitwave-io/bitwave-linux-arm64
+
+## 历史版本号
+
+- 当前版本：0.6.0
+
+- 0.0.1
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.3
+- 0.2.4
+- 0.3.0
+- 0.3.1
+- 0.4.0
+- 0.5.0
+- 0.6.0
+
+## 获取地址
+
+- npm 安装：`npm install @bitwave-io/bitwave-linux-arm64`
+- npm registry：https://registry.npmjs.org/@bitwave-io/bitwave-linux-arm64

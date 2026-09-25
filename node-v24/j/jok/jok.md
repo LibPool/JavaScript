@@ -1,0 +1,36 @@
+# jok
+
+> 标签: cli, jok
+
+## 简介
+
+Bundle of utility functions for code generation related to nodejs and graphql
+
+## 官网
+
+- 官网：https://github.com/jokio/jok-cli#readme
+- 源码仓库：git+https://github.com/jokio/jok-cli.git
+- npm 页面：https://www.npmjs.com/package/jok
+
+## 历史版本号
+
+- 当前版本：1.12.1
+
+- 1.2.0
+- 1.2.1
+- 1.3.0
+- 1.4.1
+- 1.5.0
+- 1.6.0
+- 1.6.1
+- 1.7.0
+- 1.8.0
+- 1.9.0
+- 1.9.1
+- 1.9.2
+- 共 62 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install jok`
+- npm registry：https://registry.npmjs.org/jok

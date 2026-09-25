@@ -1,0 +1,24 @@
+# @hosoi/react-autolink-text
+
+> 标签: JavaScript
+
+## 简介
+
+A React component for converting URLs in a given string of text into clicking link tags.
+
+## 官网
+
+- 官网：https://github.com/OpenGov/react-autolink-text#readme
+- 源码仓库：git+https://github.com/OpenGov/react-autolink-text.git
+- npm 页面：https://www.npmjs.com/package/@hosoi/react-autolink-text
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @hosoi/react-autolink-text`
+- npm registry：https://registry.npmjs.org/@hosoi/react-autolink-text

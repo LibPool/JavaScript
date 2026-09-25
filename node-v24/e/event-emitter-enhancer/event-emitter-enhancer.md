@@ -1,0 +1,36 @@
+# event-emitter-enhancer
+
+> 标签: EventEmitter, events
+
+## 简介
+
+Enhances the Node.js EventEmitter with extra capabilities.
+
+## 官网
+
+- 官网：http://github.com/sagiegurari/event-emitter-enhancer
+- 源码仓库：git+ssh://git@github.com/sagiegurari/event-emitter-enhancer.git
+- npm 页面：https://www.npmjs.com/package/event-emitter-enhancer
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.0.49
+- 1.0.50
+- 1.0.51
+- 1.0.52
+- 1.0.53
+- 1.0.54
+- 1.0.55
+- 1.0.56
+- 1.0.57
+- 1.0.58
+- 1.1.0
+- 2.0.0
+- 共 160 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install event-emitter-enhancer`
+- npm registry：https://registry.npmjs.org/event-emitter-enhancer

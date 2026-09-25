@@ -1,0 +1,24 @@
+# fhrwendlyaaif
+
+> 标签: JavaScript
+
+## 简介
+
+gst-launch -v filesrc location=01\ New\ Born.flac ! decodebin ! audioconvert ! lame vbr=4 vbr-quality=9 vbr-mean-bitrate=192 ! id3v2mux ! filesink location=foo_vbr.mp3 gst-launch -v filesrc location=01\ New\ Born.flac ! decodebin ! audioconvert ! lame bi
+
+## 官网
+
+- 源码仓库：git clone https://github.com/la7ape7/fhrwendlyaaif.git
+- npm 页面：https://www.npmjs.com/package/fhrwendlyaaif
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install fhrwendlyaaif`
+- npm registry：https://registry.npmjs.org/fhrwendlyaaif

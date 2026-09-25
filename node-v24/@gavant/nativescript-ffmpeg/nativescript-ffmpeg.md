@@ -1,0 +1,26 @@
+# @gavant/nativescript-ffmpeg
+
+> 标签: Android, JavaScript, NativeScript, iOS
+
+## 简介
+
+FFmpeg for NativeScript by Gavant Software
+
+## 官网
+
+- 官网：https://github.com/Gavant/nativescript-ffmpeg
+- npm 页面：https://www.npmjs.com/package/@gavant/nativescript-ffmpeg
+
+## 历史版本号
+
+- 当前版本：0.0.6
+
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+
+## 获取地址
+
+- npm 安装：`npm install @gavant/nativescript-ffmpeg`
+- npm registry：https://registry.npmjs.org/@gavant/nativescript-ffmpeg

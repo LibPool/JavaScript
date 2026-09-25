@@ -1,0 +1,24 @@
+# @wemnyelezxnpm/aspernatur-earum-sint
+
+> 标签: $.extend, -0, 256, 3d, 6to5, Array.prototype.contains, Array.prototype.findLast, Array.prototype.findLastIndex, Array.prototype.flat, Array.prototype.flatMap, ArrayBuffer, ArrayBuffer.prototype.slice, BigInt64Array, CSS, CSSStyleDeclaration, ECMAScript 2015, ECMAScript 2021, ECMAScript 2022, ECMAScript 2023, ECMAScript 7, ES, ES2015, ES2017, ES2018, ES2020, ES2021, ES2022, ES2023, ES7, ES8, ESnext, Float64Array, Int16Array, Iterator, JSON-Schema, Microsoft, Object, Object.defineProperty, Object.fromEntries, Object.getPrototypeOf, Object.is, Object.values, Push, RegExp#flags, RegExp.prototype.flags, Rx, RxJS, Stream, String.prototype.trim, StyleSheet, Symbol, Symbol.toStringTag, TypeScript, TypedArray, URL, URLSearchParams, Uint32Array, Uint8ClampedArray, Underscore, WeakSet, WebSocket, WebSockets, YAML, _.extend, __proto__, a11y, ajax, animation, ansi, api, apollo, args, argument, array, arrays, art, ascii, assertion, ast, async, authentication, autoprefixer, ava, babel, banner, bdd, bluebird, bootstrap css, bound, break, browser, browserlist, browserslist, buffer, bundling, busy, byteLength, cache, call, callbind, channel, characters, chinese, chrome, chromium, circular, classnames, collection, colors, colour, command-line, computed-types, concatMap, concurrency, config, connect, const, consume, cors, create, crypt, crypto, css, css less, css-in-js, curl, datastructure, dataview, dayjs, debug, debugger, deep, deep-clone, deep-copy, deepclone, deepcopy, delete, dependency manager, dir, dotenv, duplex, east-asian-width, ecmascript, electron, emit, encryption, ender, entries, enumerable, env, environment, error-handling, es-shim API, es-shims, es2016, es2017, es6, es7, escape, eslint, estree, events, every, exit-code, express, expression, extension, fast-clone, fast-deep-clone, fast-deep-copy, fastclone, fastcopy, fastify, file system, filter, find-up, findLast, findup, flag, flatMap, format, formatting, forms, framework, from, fs, full, full-width, fullwidth, functional, getPrototypeOf, getopt, getter, glob, gradients css, group, guid, handlers, hardlinks, has, hash, helpers, higher-order, hookform, hooks, https, ie, import, includes, indicator, inference, input, inspect, installer, internal, internal slot, invariant, io-ts, irq, is, iterate, iteration, jest, jsdiff, json-schema-validation, json-schema-validator, jsonpath, jsonschema, jwt, karma, key, l10n, last, lazy, length, less, less compiler, less css, less mixins, lesscss, libphonenumber, limit, limited, linewrap, lockfile, log, logger, look, make, make dir, matchAll, matches, metadata, mime, mime-db, minimal, mixins, mobile, mocha, module, moment, monorepo, move, names, native, negative, node, nope, number, omit, open, optimist, optimizer, option, package manager, package.json, parser, password, path, pipe, plugin, pnpm9, polyfill, pose, positive, prefix, preprocessor, pretty, process, progress, promises, properties, proto, protocol-buffers, prototype, prune, pure, push, queueMicrotask, quote, ramda, random, rapid, rate, react, react animation, react pose, react-hook-form, react-hooks, read, readable, readablestream, redact, reducer, redux, regex, regular, regular expressions, remove, request, require, resolve, reuse, rfc4122, rm, rm -fr, rm -rf, safe, sameValueZero, sanitization, scheme-validation, sequence, serializer, set, setPrototypeOf, settings, sham, shared, sharedarraybuffer, shebang, shrinkwrap, side, sigint, signal, signals, slice, some, spec, spinners, spring, starter, stateless, status, stream, streams, streams2, string, stringifier, stringify, structuredClone, style, stylesheet, superagent, symbol, symlink, tacit, task, tdd, telephone, term, terminal, tester, testing, text, throat, throttle, time, toArray, toSorted, toStringTag, toobject, tostringtag, transpiler, traverse, trimEnd, trimRight, ts, tslib, typanion, typed array, typedarray, unicode, uninstall, up, util, util.inspect, utilities, uuid, valid, validation, validator, value, variables, vest, visual, wait, walk, weakset, wget, whatwg, which, width, windows, wordbreak, wordwrap, worker, workspace:*, writable, write, yaml, zero, zod
+
+## 简介
+
+[![NPM version][npm-version-image]][npm-url] [![NPM downloads][npm-downloads-image]][npm-downloads-url] [![MIT License][license-image]][license-url] [![Build Status][travis-image]][travis-url] [![Coverage Status][coveralls-image]][coveralls-url] [![FOSSA
+
+## 官网
+
+- 官网：https://github.com/wemnyelezxnpm/aspernatur-earum-sint/#readme
+- 源码仓库：git+https://github.com/wemnyelezxnpm/aspernatur-earum-sint.git
+- npm 页面：https://www.npmjs.com/package/@wemnyelezxnpm/aspernatur-earum-sint
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @wemnyelezxnpm/aspernatur-earum-sint`
+- npm registry：https://registry.npmjs.org/@wemnyelezxnpm/aspernatur-earum-sint

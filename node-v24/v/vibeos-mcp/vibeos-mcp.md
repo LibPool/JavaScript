@@ -1,0 +1,36 @@
+# vibeos-mcp
+
+> 标签: claude-code, cursor, mcp, vibeos
+
+## 简介
+
+Drive a vibeOS desktop from your own MCP client (Claude Code, Cursor, Codex).
+
+## 官网
+
+- 官网：https://vibeos.sh
+- 源码仓库：git+https://github.com/caffeinum/vibeos-mcp.git
+- npm 页面：https://www.npmjs.com/package/vibeos-mcp
+
+## 历史版本号
+
+- 当前版本：0.2.3
+
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.3
+
+## 获取地址
+
+- npm 安装：`npm install vibeos-mcp`
+- npm registry：https://registry.npmjs.org/vibeos-mcp
+- Node 要求：>=20

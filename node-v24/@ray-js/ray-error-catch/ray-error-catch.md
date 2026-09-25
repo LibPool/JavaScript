@@ -1,0 +1,33 @@
+# @ray-js/ray-error-catch
+
+> 标签: JavaScript
+
+## 简介
+
+涂鸦异常兜底组件
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@ray-js/ray-error-catch
+
+## 历史版本号
+
+- 当前版本：0.0.26
+
+- 0.0.26
+- 0.0.26-beta-1
+- 0.0.26-beta-2
+- 0.0.4-beta-1
+- 0.0.5-beta-1
+- 0.0.5-beta-2
+- 0.0.6-beta-1
+- 0.0.7-beta-1
+- 0.0.8
+- 0.0.8-beta-1
+- 0.0.9-beta-1
+- 1.0.0-beta.1
+
+## 获取地址
+
+- npm 安装：`npm install @ray-js/ray-error-catch`
+- npm registry：https://registry.npmjs.org/@ray-js/ray-error-catch

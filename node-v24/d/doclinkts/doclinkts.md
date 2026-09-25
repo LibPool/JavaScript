@@ -1,0 +1,24 @@
+# doclinkts
+
+> 标签: JavaScript
+
+## 简介
+
+a super light nodejs cli app to link and auto-copy doc comments within your code
+
+## 官网
+
+- 官网：https://github.com/flimey/doclinkts#readme
+- 源码仓库：git+https://github.com/flimey/doclinkts.git
+- npm 页面：https://www.npmjs.com/package/doclinkts
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install doclinkts`
+- npm registry：https://registry.npmjs.org/doclinkts

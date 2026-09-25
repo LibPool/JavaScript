@@ -1,0 +1,22 @@
+# colorcatlab-ui-mgr
+
+> 标签: JavaScript
+
+## 简介
+
+colorcatlab-ui-mgr - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/colorcatlab-ui-mgr
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install colorcatlab-ui-mgr`
+- npm registry：https://registry.npmjs.org/colorcatlab-ui-mgr

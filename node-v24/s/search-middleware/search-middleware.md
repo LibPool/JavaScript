@@ -1,0 +1,25 @@
+# search-middleware
+
+> 标签: authentication, javascript, middleware, searchunify
+
+## 简介
+
+Enhance search client security by leveraging the platform authentication layer with SearchUnify.
+
+## 官网
+
+- 官网：https://github.com/searchunify/search-middleware#readme
+- 源码仓库：git+ssh://git@github.com/searchunify/search-middleware.git
+- npm 页面：https://www.npmjs.com/package/search-middleware
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install search-middleware`
+- npm registry：https://registry.npmjs.org/search-middleware

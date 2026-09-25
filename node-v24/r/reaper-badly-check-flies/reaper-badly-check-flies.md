@@ -1,0 +1,24 @@
+# reaper-badly-check-flies
+
+> 标签: package-manager, reaper-badly-check-flies, tea
+
+## 简介
+
+Reaper Badly Check Flies - This function is used to convert multiple words into an interesting sentence containing the word Reaper Badly Check Flies.
+
+## 官网
+
+- 官网：https://github.com/npmtea2024/reaper-badly-check-flies#readme
+- 源码仓库：git+https://github.com/npmtea2024/reaper-badly-check-flies.git
+- npm 页面：https://www.npmjs.com/package/reaper-badly-check-flies
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install reaper-badly-check-flies`
+- npm registry：https://registry.npmjs.org/reaper-badly-check-flies

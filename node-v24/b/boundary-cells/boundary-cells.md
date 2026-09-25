@@ -1,0 +1,28 @@
+# boundary-cells
+
+> 标签: boundary, cell, complex, mesh, simplicial, topology
+
+## 简介
+
+Enumerates all boundary cells in a simplicial complex
+
+## 官网
+
+- 官网：https://github.com/mikolalysenko/boundary-cells#readme
+- 源码仓库：git://github.com/mikolalysenko/boundary-cells.git
+- npm 页面：https://www.npmjs.com/package/boundary-cells
+
+## 历史版本号
+
+- 当前版本：2.0.2
+
+- 0.0.0
+- 1.0.0
+- 2.0.0
+- 2.0.1
+- 2.0.2
+
+## 获取地址
+
+- npm 安装：`npm install boundary-cells`
+- npm registry：https://registry.npmjs.org/boundary-cells

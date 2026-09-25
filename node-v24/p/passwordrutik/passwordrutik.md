@@ -1,0 +1,23 @@
+# passwordrutik
+
+> 标签: JavaScript
+
+## 简介
+
+Secure Tech Limited is a New York based IT solutions provider. They excel in providing software solutions in various domains ranging from banking, insurance to e-commerce. Securing the users&#39; data is one of the most essential and standard requirements
+
+## 官网
+
+- 源码仓库：ssh://git@gitlab-wipro.stackroute.in:2225/rutiks53/create-password-validator-component.git
+- npm 页面：https://www.npmjs.com/package/passwordrutik
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install passwordrutik`
+- npm registry：https://registry.npmjs.org/passwordrutik

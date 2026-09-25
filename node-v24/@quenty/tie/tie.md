@@ -1,0 +1,36 @@
+# @quenty/tie
+
+> 标签: API, Interface, Lua, Nevermore, OOP, Roblox, Tie
+
+## 简介
+
+Tie allows interfaces to be defined between Lua OOP and Roblox objects.
+
+## 官网
+
+- 官网：https://github.com/Quenty/NevermoreEngine#readme
+- 源码仓库：git+https://github.com/Quenty/NevermoreEngine.git
+- npm 页面：https://www.npmjs.com/package/@quenty/tie
+
+## 历史版本号
+
+- 当前版本：10.51.1
+
+- 10.43.0
+- 10.44.0
+- 10.45.0
+- 10.46.0
+- 10.46.1
+- 10.47.0
+- 10.47.1
+- 10.48.0
+- 10.49.0
+- 10.50.0
+- 10.51.0
+- 10.51.1
+- 共 350 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @quenty/tie`
+- npm registry：https://registry.npmjs.org/@quenty/tie

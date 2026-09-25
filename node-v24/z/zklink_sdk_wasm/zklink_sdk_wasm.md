@@ -1,0 +1,24 @@
+# zklink_sdk_wasm
+
+> 标签: sdk, testnet, zklink
+
+## 简介
+
+zklink sdk based on Rust code
+
+## 官网
+
+- 官网：https://github.com/zkLinkProtocol/zklink_sdk#readme
+- 源码仓库：git+https://github.com/zkLinkProtocol/zklink_sdk.git
+- npm 页面：https://www.npmjs.com/package/zklink_sdk_wasm
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install zklink_sdk_wasm`
+- npm registry：https://registry.npmjs.org/zklink_sdk_wasm

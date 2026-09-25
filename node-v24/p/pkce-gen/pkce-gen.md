@@ -1,0 +1,25 @@
+# pkce-gen
+
+> 标签: crypto, oauth, pkce
+
+## 简介
+
+Generate code challenge & code verifier for PKCE (zero-dependencies)
+
+## 官网
+
+- 官网：https://github.com/binyamin/pkce-gen#readme
+- 源码仓库：git+https://github.com/binyamin/pkce-gen.git
+- npm 页面：https://www.npmjs.com/package/pkce-gen
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install pkce-gen`
+- npm registry：https://registry.npmjs.org/pkce-gen

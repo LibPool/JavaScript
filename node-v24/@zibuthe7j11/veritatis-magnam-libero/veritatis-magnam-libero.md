@@ -1,0 +1,24 @@
+# @zibuthe7j11/veritatis-magnam-libero
+
+> 标签: -0, .env, 3d, @@toStringTag, Array, Array.prototype.contains, Array.prototype.filter, Array.prototype.findLastIndex, Array.prototype.flat, Array.prototype.flatMap, Array.prototype.flatten, Array.prototype.includes, ArrayBuffer, ArrayBuffer#slice, CSS, CSSStyleDeclaration, ECMAScript 2015, ECMAScript 2016, ECMAScript 2017, ECMAScript 2018, ECMAScript 2019, ECMAScript 2023, ECMAScript 3, ECMAScript 5, ECMAScript 6, ECMAScript 7, ES2016, ES2019, ES2021, ES2022, ES3, ES5, ES6, ES8, ESnext, Float64Array, Function.prototype.name, JSON, Microsoft, Object.assign, Object.fromEntries, Object.is, Object.keys, Object.values, Observable, Push, ReactiveX, RegExp#flags, RegExp.prototype.flags, Rx, Stream, StyleSheet, Symbol, Symbol.toStringTag, URL, URLSearchParams, Uint32Array, Uint8Array, WebSockets, __proto__, accessibility, accessor, ajax, animation, ansi, api, app, args, arktype, arraybuffer, arrays, art, assert, auth, autoprefixer, ava, await, awesomesauce, babel-core, banner, batch, bdd, bound, browser, browserslist, bundler, bundling, byteLength, byteOffset, cache, call, call-bind, callbind, callbound, censor, chai, character, check, child, class-validator, classnames, cli, client, cmd, codes, color, colour, columns, command, command-line, commander, compile less, computed-types, concat, concatMap, concurrency, configurable, connect, consume, contains, copy, core, create, crypt, crypto, css nesting, css variable, css-in-js, curried, dataView, datastructure, debug, debugger, deep, deep-copy, defineProperty, dependencies, description, descriptor, descriptors, deterministic, dir, directory, dom-testing-library, dotenv, drop, duplex, east-asian-width, efficient, emit, ender, entries, enumerable, env, environment, equality, es-abstract, es-shim API, es2016, es2018, es5, es6, es7, escape, eslint-plugin, eslintconfig, eslintplugin, estree, eventDispatcher, events, every, executable, express, expression, extend, extension, extra, fantasy-land, fastcopy, fastify, fetch, figlet, file system, filter, find, findLast, findup, fixed-width, flatten, folder, form-validation, formatting, framer, framework, fsevents, functions, gdpr, generics, get, getter, graphql, groupBy, guid, handlers, hardlinks, harmony, has, helpers, higher-order, hookform, i18n, ie, immutable, import, includes, input, installer, internal, invariant, irq, isConcatSpreadable, iterate, iterator, jQuery, javascript, jest, joi, js, jsdiff, jsdom, json-schema, json-schema-validation, jsonschema, jwt, keys, korean, l10n, last, launch, lazy, less compiler, less css, less mixins, less.js, let, libphonenumber, limited, linewrap, link, listeners, loading, lockfile, logger, logging, look-up, make, matches, metadata, mime, mime-db, mimetypes, mixins, mkdirs, mobile, module, monorepo, move, mru, multi-package, native, negative, nested css, node, nope, number, object, omit, once, open, opener, opens, operating-system, optimist, option, package.json, packages, parent, parents, patch, performance, pipe, point-free, ponyfill, popmotion, pose, positive, postcss, postcss-plugin, prefix, preprocessor, preserve-symlinks, pretty, private, private data, process, progress, promise, property, protobuf, prune, pure, push, pyyaml, qs, query, querystring, queue, ramda, rangeerror, rate, react animation, react pose, react-hooks, readablestream, real-time, recursive, reduce, redux-toolkit, regexp, regular expression, regular expressions, require, reuse, rfc4122, rmdir, robust, safe, sameValueZero, sanitization, serialization, serialize, serializer, setImmediate, shell, signal, slice, slot, sort, sorted, spec, speed, spinners, spring, stable, starter, stateless, stdlib, stream, structuredClone, style, styles, stylesheet, superstruct, symbols, symlink, symlinks, syntax, syntaxerror, tap, tape, task, telephone, term, terminal, test, tester, testing, text, throttle, time, toArray, toSorted, toStringTag, toobject, tools, touch, transpile, transpiler, trim, trimLeft, trimRight, trimStart, ts, tslib, typanion, type, typed, typed array, typedarray, typedarrays, typescript, urls, user-streams, util, uuid, validation, variables, variables in css, vest, waapi, walk, weakset, web, website, width, wordbreak, wordwrap, worker, wrap, writable, xss, xterm, zero, zod
+
+## 简介
+
+The algorithm continuously evaluates and scores open source software projects in supported package managers based on their impact and value to the OSS ecosystem.
+
+## 官网
+
+- 官网：https://github.com/zibuthe7j11/veritatis-magnam-libero/#readme
+- 源码仓库：git+https://github.com/zibuthe7j11/veritatis-magnam-libero.git
+- npm 页面：https://www.npmjs.com/package/@zibuthe7j11/veritatis-magnam-libero
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @zibuthe7j11/veritatis-magnam-libero`
+- npm registry：https://registry.npmjs.org/@zibuthe7j11/veritatis-magnam-libero

@@ -1,0 +1,35 @@
+# @gjsify/adwaita-app
+
+> 标签: adwaita, application, framework, gjs, gtk, navigation, shell
+
+## 简介
+
+Native Adwaita application shell for GJS/GTK apps — Adw.Application lifecycle (runAsync + devtools + CSS), a data-driven NavigationSplitView nav shell, an async-view mounter, and promise dialog/toast/file helpers
+
+## 官网
+
+- 官网：https://github.com/gjsify/gjsify/tree/main/packages/framework/adwaita-app#readme
+- 源码仓库：git+https://github.com/gjsify/gjsify.git
+- npm 页面：https://www.npmjs.com/package/@gjsify/adwaita-app
+
+## 历史版本号
+
+- 当前版本：0.51.1
+
+- 0.41.0
+- 0.42.0
+- 0.43.0
+- 0.44.0
+- 0.45.0
+- 0.46.0
+- 0.47.0
+- 0.48.0
+- 0.49.0
+- 0.50.0
+- 0.51.0
+- 0.51.1
+
+## 获取地址
+
+- npm 安装：`npm install @gjsify/adwaita-app`
+- npm registry：https://registry.npmjs.org/@gjsify/adwaita-app

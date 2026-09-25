@@ -1,0 +1,25 @@
+# @thelevicole/webpack-minify-jigsaw-output
+
+> 标签: jigsaw, laravel, laravel-mix, laravel-mix-plugin, webpack
+
+## 简介
+
+A webpack plugin for minifying the HTML output from Tighten's Jigsaw
+
+## 官网
+
+- 官网：https://github.com/thelevicole/webpack-minify-jigsaw-output#readme
+- 源码仓库：git+https://github.com/thelevicole/webpack-minify-jigsaw-output.git
+- npm 页面：https://www.npmjs.com/package/@thelevicole/webpack-minify-jigsaw-output
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.2
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @thelevicole/webpack-minify-jigsaw-output`
+- npm registry：https://registry.npmjs.org/@thelevicole/webpack-minify-jigsaw-output

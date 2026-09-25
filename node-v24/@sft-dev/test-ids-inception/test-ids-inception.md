@@ -1,0 +1,22 @@
+# @sft-dev/test-ids-inception
+
+> 标签: JavaScript
+
+## 简介
+
+@sft-dev/test-ids-inception - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@sft-dev/test-ids-inception
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @sft-dev/test-ids-inception`
+- npm registry：https://registry.npmjs.org/@sft-dev/test-ids-inception

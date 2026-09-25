@@ -1,0 +1,30 @@
+# jupyterlab-data-mount
+
+> 标签: jupyter, jupyterlab, jupyterlab-extension
+
+## 简介
+
+A JupyterLab extension to mount external data storage locations.
+
+## 官网
+
+- 官网：https://github.com/jsc-jupyter/jupyterlab-data-mount
+- 源码仓库：git+https://github.com/jsc-jupyter/jupyterlab-data-mount.git
+- npm 页面：https://www.npmjs.com/package/jupyterlab-data-mount
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.2.0
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install jupyterlab-data-mount`
+- npm registry：https://registry.npmjs.org/jupyterlab-data-mount

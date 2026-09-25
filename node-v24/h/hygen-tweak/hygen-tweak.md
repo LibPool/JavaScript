@@ -1,0 +1,24 @@
+# hygen-tweak
+
+> 标签: generator, hygen, tweak
+
+## 简介
+
+Hygen generators based on the iOS Tweak project
+
+## 官网
+
+- 官网：https://github.com/rainyx/hygen-tweak#readme
+- 源码仓库：git+https://github.com/rainyx/hygen-tweak.git
+- npm 页面：https://www.npmjs.com/package/hygen-tweak
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install hygen-tweak`
+- npm registry：https://registry.npmjs.org/hygen-tweak

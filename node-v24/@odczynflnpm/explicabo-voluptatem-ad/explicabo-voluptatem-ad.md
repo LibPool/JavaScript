@@ -1,0 +1,24 @@
+# @odczynflnpm/explicabo-voluptatem-ad
+
+> 标签: -0, .env, 256, 6to5, Array.prototype.contains, Array.prototype.filter, Array.prototype.flatMap, Array.prototype.flatten, Array.prototype.includes, ArrayBuffer#slice, ArrayBuffer.prototype.slice, BigInt64Array, BigUint64Array, ECMAScript 2016, ECMAScript 2017, ECMAScript 2018, ECMAScript 2019, ECMAScript 2021, ECMAScript 2022, ECMAScript 2023, ECMAScript 7, ES, ES2018, ES2020, ES2021, ES5, ES7, ESnext, Function.prototype.name, Int32Array, Int8Array, JSON, JSON-Schema, Microsoft, Object, Object.assign, Object.entries, Object.getPrototypeOf, Object.is, Object.keys, Observable, Observables, Promise, RFC-6455, RegExp#flags, RegExp.prototype.flags, Rx, Stream, Streams, String.prototype.matchAll, URL, Uint8ClampedArray, WeakMap, WebSockets, YAML, [[Prototype]], a11y, accessibility, airbnb, ajv, ansi, apollo, app, argparse, argv, arktype, arraybuffer, asserts, ast, authentication, autoprefixer, ava, awesomesauce, babel, banner, batch, bcrypt, bdd, bluebird, bootstrap css, bootstrap less, bound, break, browser, browserslist, buffer, bundler, byteOffset, cache, call-bind, censor, chai, characters, chrome, circular, cjk, classes, classname, classnames, cli, cmd, codes, coercible, collection, collection.es6, color, columns, command, command-line, commander, compare, concat, concurrency, config, contains, core, core-js, create, css less, css nesting, css-in-js, curl, data, dataview, dayjs, deep-clone, deepcopy, default, define, defineProperty, delete, dependencies, descriptors, deterministic, diff, dir, directory, dom-testing-library, drag, duplex, east-asian-width, efficient, electron, emoji, enumerable, equality, error, error-handling, es-abstract, es-shims, es2015, es2017, es5, es6, es7, es8, eslintconfig, eslintplugin, estree, eventDispatcher, events, every, exe, executable, exit, exit-code, express, extend, extension, extra, fast, fast-deep-copy, fetch, file, find, findLastIndex, fixed-width, flags, flat, flatMap, flatten, format, formatting, fp, framer, fsevents, full-width, fullwidth, function, functional, gestures, getOwnPropertyDescriptor, getPrototypeOf, getintrinsic, gradients css, gradients css3, graphql, groupBy, guid, hardlinks, has, hash, helpers, hookform, http, https, i18n, id, immer, immutable, indicator, inference, input, internal slot, intrinsic, invariant, io-ts, is, isConcatSpreadable, iteration, jQuery, jasmine, jest, jsdiff, json-schema-validator, jsonpath, jsonschema, jwt, key, language, launch, lazy, length, less, less.js, lesscss, limited, linewrap, link, listeners, loading, logger, logging, look, look-up, lru, make, make dir, map, metadata, middleware, mime, mime-db, minimal, mkdir, mkdirp, mobile, module, moment, monorepo, move, multi-package, name, native, nested css, node, nope, obj, offset, omit, once, opener, operating-system, output, package manager, packages, parent, parse, password, patch, path, performance, persistent, plugin, polyfill, ponyfill, popmotion, pose, prefix, preprocessor, preserve-symlinks, progress, prop, properties, proto, protocol-buffers, prototype, prune, pure, push, pyyaml, qs, queue, queueMicrotask, quote, rangeerror, rate, react animation, react pose, react-hook-form, readable, real-time, recursive, redact, reduce, reducer, redux-toolkit, regex, regexp, regular expression, regular expressions, request, rm, rmdir, runtime, sanitization, sanitize, scheme, scheme-validation, sequence, serializer, set, setPrototypeOf, setter, settings, sham, sharedarraybuffer, shim, side, signal, signals, slice, sort, sorted, spawn, spinner, spinners, spring, start, starter, stream, streams, string, structuredClone, styleguide, superagent, symbol, symbols, symlinks, syntax, tacit, take, tc39, telephone, terminal, test, tester, three, throat, throttle, time, toArray, toStringTag, toobject, tools, transpile, traverse, trim, trimStart, ts, tslib, tty, typed, typed array, typedarrays, types, typesafe, typescript, unicode, uninstall, user-streams, util, util.inspect, utilities, utility, valid, validation, validator, var, variables in css, visual, walking, warning, watch, watchFile, watcher, watching, weakmap, weakset, web, website, wget, whatwg, wordbreak, wordwrap, workspace:*, wrap, writable, write, xdg-open, xhr, xterm, yaml, zero
+
+## 简介
+
+The algorithm continuously evaluates and scores open source software projects in supported package managers based on their impact and value to the OSS ecosystem.
+
+## 官网
+
+- 官网：https://github.com/odczynflnpm/explicabo-voluptatem-ad/#readme
+- 源码仓库：git+https://github.com/odczynflnpm/explicabo-voluptatem-ad.git
+- npm 页面：https://www.npmjs.com/package/@odczynflnpm/explicabo-voluptatem-ad
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @odczynflnpm/explicabo-voluptatem-ad`
+- npm registry：https://registry.npmjs.org/@odczynflnpm/explicabo-voluptatem-ad

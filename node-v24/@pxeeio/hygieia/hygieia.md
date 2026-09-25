@@ -1,0 +1,25 @@
+# @pxeeio/hygieia
+
+> 标签: cli, hygieia, pxeeio, types
+
+## 简介
+
+A TypeScript project configuration CLI tool that streamlines initial setup with linting, code style, and type checks.
+
+## 官网
+
+- 官网：https://github.com/pxeeio/hygieia#readme
+- 源码仓库：git+ssh://git@github.com/pxeeio/hygieia.git
+- npm 页面：https://www.npmjs.com/package/@pxeeio/hygieia
+
+## 历史版本号
+
+- 当前版本：0.1.0-alpha.1
+
+- 0.1.0-alpha.1
+
+## 获取地址
+
+- npm 安装：`npm install @pxeeio/hygieia`
+- npm registry：https://registry.npmjs.org/@pxeeio/hygieia
+- Node 要求：>=14.21.3

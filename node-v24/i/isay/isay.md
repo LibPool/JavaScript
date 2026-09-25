@@ -1,0 +1,30 @@
+# isay
+
+> 标签: cli, language, scripting
+
+## 简介
+
+A scripting language designed for use in a shell
+
+## 官网
+
+- 官网：https://github.com/celsasser/isay#readme
+- 源码仓库：git+https://github.com/celsasser/isay.git
+- npm 页面：https://www.npmjs.com/package/isay
+
+## 历史版本号
+
+- 当前版本：0.8.3
+
+- 0.6.2
+- 0.7.0
+- 0.8.0
+- 0.8.1
+- 0.8.2
+- 0.8.3
+
+## 获取地址
+
+- npm 安装：`npm install isay`
+- npm registry：https://registry.npmjs.org/isay
+- Node 要求：>=10.14.2

@@ -1,0 +1,24 @@
+# lizhiwa-xueyuan-zhentan-bu-dongchuan-du-zai-erlingerlinglingsanlingqi
+
+> 标签: JavaScript
+
+## 简介
+
+鲤之洼学园侦探部 - 东川笃哉 - 20200307
+
+## 官网
+
+- 官网：https://github.com/apachecn/lizhiwa-xueyuan-zhentan-bu-dongchuan-du-zai-20200307#readme
+- 源码仓库：git+https://github.com/apachecn/lizhiwa-xueyuan-zhentan-bu-dongchuan-du-zai-20200307.git
+- npm 页面：https://www.npmjs.com/package/lizhiwa-xueyuan-zhentan-bu-dongchuan-du-zai-erlingerlinglingsanlingqi
+
+## 历史版本号
+
+- 当前版本：2023.220.0
+
+- 2023.220.0
+
+## 获取地址
+
+- npm 安装：`npm install lizhiwa-xueyuan-zhentan-bu-dongchuan-du-zai-erlingerlinglingsanlingqi`
+- npm registry：https://registry.npmjs.org/lizhiwa-xueyuan-zhentan-bu-dongchuan-du-zai-erlingerlinglingsanlingqi

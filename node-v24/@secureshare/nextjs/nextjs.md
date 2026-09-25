@@ -1,0 +1,23 @@
+# @secureshare/nextjs
+
+> 标签: auth, authentication, login, nextjs, secureshare, signup
+
+## 简介
+
+SecureShare authentication SDK for Next.js applications
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@secureshare/nextjs
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @secureshare/nextjs`
+- npm registry：https://registry.npmjs.org/@secureshare/nextjs

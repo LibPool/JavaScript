@@ -1,0 +1,22 @@
+# zarabotok-investitsiiakh-wpczwx6jm
+
+> 标签: JavaScript
+
+## 简介
+
+zarabotok-investitsiiakh-wpczwx6jm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/zarabotok-investitsiiakh-wpczwx6jm
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install zarabotok-investitsiiakh-wpczwx6jm`
+- npm registry：https://registry.npmjs.org/zarabotok-investitsiiakh-wpczwx6jm

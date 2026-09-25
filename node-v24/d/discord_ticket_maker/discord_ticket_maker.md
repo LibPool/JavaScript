@@ -1,0 +1,30 @@
+# discord_ticket_maker
+
+> 标签: discord support, discord.js, ticket
+
+## 简介
+
+Create support tickets discord.js with barley any effort!
+
+## 官网
+
+- 官网：https://github.com/TheAxiome/discord_tickets#readme
+- 源码仓库：git+https://github.com/TheAxiome/discord_tickets.git
+- npm 页面：https://www.npmjs.com/package/discord_ticket_maker
+
+## 历史版本号
+
+- 当前版本：1.3.2
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.2.0
+- 1.3.0
+- 1.3.2
+
+## 获取地址
+
+- npm 安装：`npm install discord_ticket_maker`
+- npm registry：https://registry.npmjs.org/discord_ticket_maker

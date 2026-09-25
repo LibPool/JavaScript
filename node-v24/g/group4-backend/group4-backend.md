@@ -1,0 +1,34 @@
+# group4-backend
+
+> 标签: JavaScript
+
+## 简介
+
+## API Docs
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/group4-backend
+
+## 历史版本号
+
+- 当前版本：2.1.1
+
+- 2.0.32
+- 2.0.33
+- 2.0.34
+- 2.0.35
+- 2.0.4
+- 2.0.5
+- 2.0.6
+- 2.0.7
+- 2.0.8
+- 2.0.9
+- 2.1.0
+- 2.1.1
+- 共 61 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install group4-backend`
+- npm registry：https://registry.npmjs.org/group4-backend

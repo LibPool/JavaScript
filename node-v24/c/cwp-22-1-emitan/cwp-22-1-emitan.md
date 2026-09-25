@@ -1,0 +1,24 @@
+# cwp-22-1-emitan
+
+> 标签: JavaScript
+
+## 简介
+
+sample text
+
+## 官网
+
+- 官网：https://github.com/EmiTan1/cwp-22-1#readme
+- 源码仓库：git+https://github.com/EmiTan1/cwp-22-1.git
+- npm 页面：https://www.npmjs.com/package/cwp-22-1-emitan
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install cwp-22-1-emitan`
+- npm registry：https://registry.npmjs.org/cwp-22-1-emitan

@@ -1,0 +1,26 @@
+# angular-engine.js
+
+> 标签: $EngineQueue, $log, EngineQueue, Event(, StackQueueEmpty, fs
+
+## 简介
+
+Using AngularJS with the Closure Compiler =========================================
+
+## 官网
+
+- 官网：https://github.com/angular/angular.js#readme
+- 源码仓库：git+https://github.com/a-lucas/angular.js.git
+- npm 页面：https://www.npmjs.com/package/angular-engine.js
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install angular-engine.js`
+- npm registry：https://registry.npmjs.org/angular-engine.js
+- Node 要求：<5

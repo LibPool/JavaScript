@@ -1,0 +1,25 @@
+# demo_calc_npm_package
+
+> 标签: learning, npm
+
+## 简介
+
+this is just demo npm package for learning purpose
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/demo_calc_npm_package
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install demo_calc_npm_package`
+- npm registry：https://registry.npmjs.org/demo_calc_npm_package

@@ -1,0 +1,28 @@
+# env-vars-doctor
+
+> 标签: cli, dotenv, env, environment, monorepo, validation, workspace
+
+## 简介
+
+Environment variable management for monorepos - sync, validate, and diagnose .env files across workspaces
+
+## 官网
+
+- 官网：https://github.com/israelroldan/env-vars-doctor#readme
+- 源码仓库：git+https://github.com/israelroldan/env-vars-doctor.git
+- npm 页面：https://www.npmjs.com/package/env-vars-doctor
+
+## 历史版本号
+
+- 当前版本：1.4.1
+
+- 0.1.0
+- 1.3.0
+- 1.4.0
+- 1.4.1
+
+## 获取地址
+
+- npm 安装：`npm install env-vars-doctor`
+- npm registry：https://registry.npmjs.org/env-vars-doctor
+- Node 要求：>=24

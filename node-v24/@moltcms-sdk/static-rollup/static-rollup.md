@@ -1,0 +1,25 @@
+# @moltcms-sdk/static-rollup
+
+> 标签: moltcms, rollup, virtual-modules
+
+## 简介
+
+Rollup-compatible virtual module plugin for moltcms static sites.
+
+## 官网
+
+- 官网：https://github.com/smartcrabai/moltcms-static#readme
+- 源码仓库：git+https://github.com/smartcrabai/moltcms-static.git
+- npm 页面：https://www.npmjs.com/package/@moltcms-sdk/static-rollup
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @moltcms-sdk/static-rollup`
+- npm registry：https://registry.npmjs.org/@moltcms-sdk/static-rollup
+- Node 要求：>=22

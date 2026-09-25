@@ -1,0 +1,22 @@
+# glint-gallery-slider
+
+> 标签: carousel, gallery slider, image gallery, image slider, nextjs, npm package, react, slider, slideshow
+
+## 简介
+
+This is a package where users add photos as a prop and get an image player.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/glint-gallery-slider
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install glint-gallery-slider`
+- npm registry：https://registry.npmjs.org/glint-gallery-slider

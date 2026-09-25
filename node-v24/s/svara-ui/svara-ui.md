@@ -1,0 +1,22 @@
+# svara-ui
+
+> 标签: audio, component-library, react, spectrogram, ui
+
+## 简介
+
+Composable React workbench components for audio-heavy desktop and web tools.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/svara-ui
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install svara-ui`
+- npm registry：https://registry.npmjs.org/svara-ui

@@ -1,0 +1,23 @@
+# @phoenix-plugin-registry/tommot348.elm
+
+> 标签: JavaScript
+
+## 简介
+
+building, linting, autocomplete, formatting, repl, package manager, etc.
+
+## 官网
+
+- 官网：https://github.com/tommot348/elm-brackets
+- npm 页面：https://www.npmjs.com/package/@phoenix-plugin-registry/tommot348.elm
+
+## 历史版本号
+
+- 当前版本：2.1.1
+
+- 2.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @phoenix-plugin-registry/tommot348.elm`
+- npm registry：https://registry.npmjs.org/@phoenix-plugin-registry/tommot348.elm

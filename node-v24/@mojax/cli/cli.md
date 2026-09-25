@@ -1,0 +1,25 @@
+# @mojax/cli
+
+> 标签: ai-agents, cli, modex, provenance, skills, skills.md
+
+## 简介
+
+modex-cli — author SKILLS.md from a corpus on your own machine
+
+## 官网
+
+- 官网：https://github.com/rickyjs1955/modex-cli#readme
+- 源码仓库：git+https://github.com/rickyjs1955/modex-cli.git
+- npm 页面：https://www.npmjs.com/package/@mojax/cli
+
+## 历史版本号
+
+- 当前版本：0.3.1
+
+- 0.3.1
+
+## 获取地址
+
+- npm 安装：`npm install @mojax/cli`
+- npm registry：https://registry.npmjs.org/@mojax/cli
+- Node 要求：>=20

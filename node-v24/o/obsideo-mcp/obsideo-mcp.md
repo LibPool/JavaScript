@@ -1,0 +1,36 @@
+# obsideo-mcp
+
+> 标签: ai-agents, backup, encrypted-storage, mcp, modelcontextprotocol, obsideo, s3, storage
+
+## 简介
+
+MCP server for Obsideo: S3-compatible storage that is encrypted client-side by default, with continuous cryptographic possession proofs you can verify yourself. Instant no-email trial, self-serve signup (12 GB free, no card), put/get/ls/rm/verify/usage to
+
+## 官网
+
+- 官网：https://obsideo.io
+- 源码仓库：git+https://github.com/Regan-Milne/obsideo-mcp.git
+- npm 页面：https://www.npmjs.com/package/obsideo-mcp
+
+## 历史版本号
+
+- 当前版本：0.7.3
+
+- 0.2.0
+- 0.3.0
+- 0.4.0
+- 0.6.0
+- 0.6.1
+- 0.6.2
+- 0.6.3
+- 0.6.4
+- 0.7.0
+- 0.7.1
+- 0.7.2
+- 0.7.3
+
+## 获取地址
+
+- npm 安装：`npm install obsideo-mcp`
+- npm registry：https://registry.npmjs.org/obsideo-mcp
+- Node 要求：>=18

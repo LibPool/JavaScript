@@ -1,0 +1,24 @@
+# pylst_v0.0.2
+
+> 标签: (LST), Image, Landsat, Remote, Satellite, Sensing, Surface, TagsLand, Temperature, Thermal, images, processing
+
+## 简介
+
+A Python package for processing and visualizing Landsat LST data.
+
+## 官网
+
+- 官网：https://github.com/Azad77/pylst#readme
+- 源码仓库：git+https://github.com/Azad77/pylst.git
+- npm 页面：https://www.npmjs.com/package/pylst_v0.0.2
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install pylst_v0.0.2`
+- npm registry：https://registry.npmjs.org/pylst_v0.0.2

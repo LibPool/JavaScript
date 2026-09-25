@@ -1,0 +1,27 @@
+# @schally/nestjs-messenger-transport-kafka
+
+> 标签: event-streaming, kafka, kafkajs, message-queue, messenger, nestjs, symfony-messenger, transport, typescript
+
+## 简介
+
+Apache Kafka transport for @schally/nestjs-messenger (kafkajs).
+
+## 官网
+
+- 官网：https://github.com/schallym/nestjs-messenger/tree/main/packages/transport-kafka#readme
+- 源码仓库：git+https://github.com/schallym/nestjs-messenger.git
+- npm 页面：https://www.npmjs.com/package/@schally/nestjs-messenger-transport-kafka
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @schally/nestjs-messenger-transport-kafka`
+- npm registry：https://registry.npmjs.org/@schally/nestjs-messenger-transport-kafka

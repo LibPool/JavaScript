@@ -1,0 +1,28 @@
+# funtasy
+
+> 标签: adt, algebraic, data, either, elm, fantasy land, maybe, types, typescript, validation
+
+## 简介
+
+Typescript implementation of Elm ADTs
+
+## 官网
+
+- 官网：https://github.com/mvaldesdeleon/funtasy#readme
+- 源码仓库：git+https://github.com/mvaldesdeleon/funtasy.git
+- npm 页面：https://www.npmjs.com/package/funtasy
+
+## 历史版本号
+
+- 当前版本：2.2.1
+
+- 1.0.0
+- 1.1.0
+- 2.0.0
+- 2.2.0
+- 2.2.1
+
+## 获取地址
+
+- npm 安装：`npm install funtasy`
+- npm registry：https://registry.npmjs.org/funtasy

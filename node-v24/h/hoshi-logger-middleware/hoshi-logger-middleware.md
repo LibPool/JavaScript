@@ -1,0 +1,22 @@
+# hoshi-logger-middleware
+
+> 标签: JavaScript
+
+## 简介
+
+Logging middleware for express. Combines important modules with important techniques:
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/hoshi-logger-middleware
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install hoshi-logger-middleware`
+- npm registry：https://registry.npmjs.org/hoshi-logger-middleware

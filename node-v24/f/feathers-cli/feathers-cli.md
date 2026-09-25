@@ -1,0 +1,36 @@
+# feathers-cli
+
+> 标签: feathers, feathers-plugin
+
+## 简介
+
+Command-line Feathers generator
+
+## 官网
+
+- 官网：https://github.com/feathersjs/feathers-cli
+- 源码仓库：git://github.com/feathersjs/feathers-cli.git
+- npm 页面：https://www.npmjs.com/package/feathers-cli
+
+## 历史版本号
+
+- 当前版本：2.4.0
+
+- 2.2.4
+- 2.3.0
+- 2.3.1
+- 2.3.2
+- 2.3.3
+- 2.3.4
+- 2.3.5
+- 2.3.6
+- 2.3.7
+- 2.3.8
+- 2.3.9
+- 2.4.0
+
+## 获取地址
+
+- npm 安装：`npm install feathers-cli`
+- npm registry：https://registry.npmjs.org/feathers-cli
+- Node 要求：>= 4

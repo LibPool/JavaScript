@@ -1,0 +1,22 @@
+# discord-mainscript
+
+> 标签: discord-mainscript, discord.js, discord.js-mainscript, html-mainscript
+
+## 简介
+
+A good formatted html transcript generator.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/discord-mainscript
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install discord-mainscript`
+- npm registry：https://registry.npmjs.org/discord-mainscript

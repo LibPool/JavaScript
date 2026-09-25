@@ -1,0 +1,25 @@
+# pambda-by-env
+
+> 标签: aws, lambda, pambda
+
+## 简介
+
+Switch by env Pambda
+
+## 官网
+
+- 官网：https://github.com/pambda/pambda-by-env
+- 源码仓库：git+https://github.com/pambda/pambda-by-env.git
+- npm 页面：https://www.npmjs.com/package/pambda-by-env
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.1
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install pambda-by-env`
+- npm registry：https://registry.npmjs.org/pambda-by-env

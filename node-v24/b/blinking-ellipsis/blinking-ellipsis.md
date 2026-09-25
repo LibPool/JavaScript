@@ -1,0 +1,26 @@
+# blinking-ellipsis
+
+> 标签: blinking, ellipsis
+
+## 简介
+
+[![npm](https://img.shields.io/npm/v/blinking-ellipsis.svg)](https://www.npmjs.com/package/blinking-ellipsis) [![Downloads](https://img.shields.io/npm/dt/blinking-ellipsis.svg)](https://www.npmjs.com/package/blinking-ellipsis)
+
+## 官网
+
+- 官网：https://github.com/toystars/blinking-ellipsis#readme
+- 源码仓库：git+https://github.com/toystars/blinking-ellipsis.git
+- npm 页面：https://www.npmjs.com/package/blinking-ellipsis
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install blinking-ellipsis`
+- npm registry：https://registry.npmjs.org/blinking-ellipsis
+- Node 要求：>=10

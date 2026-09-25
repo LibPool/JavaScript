@@ -1,0 +1,24 @@
+# @nodert-win10-20h1/windows.graphics.display.core
+
+> 标签: Core, Display, Graphics, HdmiDisplayColorSpace, HdmiDisplayHdr2086Metadata, HdmiDisplayHdrOption, HdmiDisplayInformation, HdmiDisplayMode, HdmiDisplayPixelEncoding, Microsoft, NodeRT, WinRT, Windows, Windows.Graphics.Display.Core
+
+## 简介
+
+Use the Windows.Graphics.Display.Core UWP API directly from Node.js
+
+## 官网
+
+- 官网：https://github.com/MaySoMusician/NodeRT/tree/feature/136-vs2019
+- 源码仓库：git://github.com/MaySoMusician/NodeRT.git
+- npm 页面：https://www.npmjs.com/package/@nodert-win10-20h1/windows.graphics.display.core
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @nodert-win10-20h1/windows.graphics.display.core`
+- npm registry：https://registry.npmjs.org/@nodert-win10-20h1/windows.graphics.display.core

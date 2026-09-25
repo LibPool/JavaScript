@@ -1,0 +1,24 @@
+# @ohos-ports/advanced-mark.js
+
+> 标签: advanced-mark.js, highlight, highlight-lines, highlight-text, highlight-words, javascript, jquery, jsdom, mark.js, search
+
+## 简介
+
+A fast JavaScript library to highlight any text on a browser page. It has support for CSS Custom Highlight API and virtual DOMs like JSDOM.
+
+## 官网
+
+- 官网：https://github.com/angezid/advanced-mark.js
+- 源码仓库：git+https://github.com/ohos-ports/ohos-ports.git
+- npm 页面：https://www.npmjs.com/package/@ohos-ports/advanced-mark.js
+
+## 历史版本号
+
+- 当前版本：3.0.0-beta.0
+
+- 3.0.0-beta.0
+
+## 获取地址
+
+- npm 安装：`npm install @ohos-ports/advanced-mark.js`
+- npm registry：https://registry.npmjs.org/@ohos-ports/advanced-mark.js

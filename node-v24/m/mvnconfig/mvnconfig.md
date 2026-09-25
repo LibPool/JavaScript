@@ -1,0 +1,25 @@
+# mvnconfig
+
+> 标签: JavaScript
+
+## 简介
+
+A developer-friendly tool for integrating Maven projects into IDEs.
+
+## 官网
+
+- 官网：https://github.com/shannah/mvnconfig
+- npm 页面：https://www.npmjs.com/package/mvnconfig
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install mvnconfig`
+- npm registry：https://registry.npmjs.org/mvnconfig

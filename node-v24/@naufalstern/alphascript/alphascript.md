@@ -1,0 +1,24 @@
+# @naufalstern/alphascript
+
+> 标签: AlphaScript, Brainrot, Gen Alpha, JavaScript, Slang
+
+## 简介
+
+AlphaScript: Gen Alpha slang for sigma rizz!
+
+## 官网
+
+- 官网：https://github.com/sternnaufal/alphascript#readme
+- 源码仓库：git+https://github.com/sternnaufal/alphascript.git
+- npm 页面：https://www.npmjs.com/package/@naufalstern/alphascript
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @naufalstern/alphascript`
+- npm registry：https://registry.npmjs.org/@naufalstern/alphascript

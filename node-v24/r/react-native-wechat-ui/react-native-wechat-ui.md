@@ -1,0 +1,24 @@
+# react-native-wechat-ui
+
+> 标签: Native, React, WeUI, Wechat, bootstrap
+
+## 简介
+
+WeUI components for React Native
+
+## 官网
+
+- 官网：https://github.com/xiaobuu/react-native-wechat-ui#readme
+- 源码仓库：git+https://github.com/xiaobuu/react-native-wechat-ui.git
+- npm 页面：https://www.npmjs.com/package/react-native-wechat-ui
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install react-native-wechat-ui`
+- npm registry：https://registry.npmjs.org/react-native-wechat-ui

@@ -1,0 +1,29 @@
+# evsocket-client
+
+> 标签: WebSocket, ws
+
+## 简介
+
+EvSocket is abstracted WebSocket module with event driven interface and rich functinalities.
+
+## 官网
+
+- 官网：https://github.com/rico345100/evsocket-client#readme
+- 源码仓库：git+https://github.com/rico345100/evsocket-client.git
+- npm 页面：https://www.npmjs.com/package/evsocket-client
+
+## 历史版本号
+
+- 当前版本：1.0.212
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.21
+- 1.0.211
+- 1.0.212
+
+## 获取地址
+
+- npm 安装：`npm install evsocket-client`
+- npm registry：https://registry.npmjs.org/evsocket-client

@@ -1,0 +1,25 @@
+# omnicall-llm
+
+> 标签: cerebras, fallback, gemini, groq, llm, mistral, openai, openrouter, sambanova, unified
+
+## 简介
+
+Unified multi-provider LLM caller with automatic fallback
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/omnicall-llm
+
+## 历史版本号
+
+- 当前版本：1.0.6
+
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+
+## 获取地址
+
+- npm 安装：`npm install omnicall-llm`
+- npm registry：https://registry.npmjs.org/omnicall-llm

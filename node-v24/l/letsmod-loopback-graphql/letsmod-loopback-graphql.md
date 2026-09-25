@@ -1,0 +1,27 @@
+# letsmod-loopback-graphql
+
+> 标签: APIs, Apollo, Express, GraphQL, Javascript, Loopback, REST
+
+## 简介
+
+Add Relay based Apollo Server or GraphQL queries on your Loopback server
+
+## 官网
+
+- 官网：https://github.com/supervisiont/letsmod-loopback-graphql#readme
+- 源码仓库：git+https://github.com/supervisiont/letsmod-loopback-graphql.git
+- npm 页面：https://www.npmjs.com/package/letsmod-loopback-graphql
+
+## 历史版本号
+
+- 当前版本：1.2.1
+
+- 1.1.8
+- 1.1.9
+- 1.2.0
+- 1.2.1
+
+## 获取地址
+
+- npm 安装：`npm install letsmod-loopback-graphql`
+- npm registry：https://registry.npmjs.org/letsmod-loopback-graphql

@@ -1,0 +1,26 @@
+# rani-motion
+
+> 标签: accessibility, animated, animation, components, css-transitions, framer-motion-alternative, intersection-observer, motion, rani, react, scroll-animation, transitions, typescript, ui
+
+## 简介
+
+A simple and powerful React animation library with TypeScript support - animated.div style components with accessibility-first approach
+
+## 官网
+
+- 官网：https://github.com/RyuDongHo/rani-motion#readme
+- 源码仓库：git+https://github.com/RyuDongHo/rani-motion.git
+- npm 页面：https://www.npmjs.com/package/rani-motion
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install rani-motion`
+- npm registry：https://registry.npmjs.org/rani-motion

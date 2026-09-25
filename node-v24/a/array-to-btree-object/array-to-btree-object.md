@@ -1,0 +1,25 @@
+# array-to-btree-object
+
+> 标签: btree
+
+## 简介
+
+Takes an array of data and a comparison function, returns an object
+
+## 官网
+
+- 官网：https://github.com/jkatsnelson/array-to-btree-object#readme
+- 源码仓库：git+https://github.com/jkatsnelson/array-to-btree-object.git
+- npm 页面：https://www.npmjs.com/package/array-to-btree-object
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install array-to-btree-object`
+- npm registry：https://registry.npmjs.org/array-to-btree-object

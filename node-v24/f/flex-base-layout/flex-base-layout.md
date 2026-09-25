@@ -1,0 +1,25 @@
+# flex-base-layout
+
+> 标签: flex, layout
+
+## 简介
+
+flex layout
+
+## 官网
+
+- 官网：https://github.com/dreaminsmile/flex-base-layout#readme
+- 源码仓库：git+ssh://git@github.com/dreaminsmile/flex-base-layout.git
+- npm 页面：https://www.npmjs.com/package/flex-base-layout
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install flex-base-layout`
+- npm registry：https://registry.npmjs.org/flex-base-layout

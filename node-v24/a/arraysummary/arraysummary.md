@@ -1,0 +1,23 @@
+# arraysummary
+
+> 标签: array, object, output, single, summary
+
+## 简介
+
+arraysummary - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/arraysummary
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install arraysummary`
+- npm registry：https://registry.npmjs.org/arraysummary

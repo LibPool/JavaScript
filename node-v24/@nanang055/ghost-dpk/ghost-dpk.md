@@ -1,0 +1,25 @@
+# @nanang055/ghost-dpk
+
+> 标签: balap, kuda
+
+## 简介
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## 官网
+
+- 官网：https://github.com/Yanuar050100/ghost-dpk#readme
+- 源码仓库：git+https://github.com/Yanuar050100/ghost-dpk.git
+- npm 页面：https://www.npmjs.com/package/@nanang055/ghost-dpk
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 0.1.0
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @nanang055/ghost-dpk`
+- npm registry：https://registry.npmjs.org/@nanang055/ghost-dpk

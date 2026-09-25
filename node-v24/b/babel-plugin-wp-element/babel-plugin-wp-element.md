@@ -1,0 +1,26 @@
+# babel-plugin-wp-element
+
+> 标签: JavaScript
+
+## 简介
+
+A babel plugin to convert the react import declaration for WordPress.
+
+## 官网
+
+- 官网：https://github.com/kamataryo/babel-plugin-wp-element#readme
+- 源码仓库：git+ssh://git@github.com/kamataryo/babel-plugin-wp-element.git
+- npm 页面：https://www.npmjs.com/package/babel-plugin-wp-element
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install babel-plugin-wp-element`
+- npm registry：https://registry.npmjs.org/babel-plugin-wp-element

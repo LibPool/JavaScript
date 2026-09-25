@@ -1,0 +1,22 @@
+# solana-alpha-tracker-core
+
+> 标签: JavaScript
+
+## 简介
+
+SQLite watchlist + Helius / RugCheck / DexScreener / Solana Tracker clients for solana-alpha-tracker
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/solana-alpha-tracker-core
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install solana-alpha-tracker-core`
+- npm registry：https://registry.npmjs.org/solana-alpha-tracker-core

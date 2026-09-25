@@ -1,0 +1,30 @@
+# @aventa/baileys
+
+> 标签: js-whatsapp, multi-device, newsletter, whatsapp, whatsapp-api, whatsapp-bot, whatsapp-web
+
+## 简介
+
+WhatsApp API RzDev
+
+## 官网
+
+- 官网：https://github.com/RzDev-HiraOffc
+- 源码仓库：git+ssh://git@github.com/RzDev-HiraOffc/avaleys-baileys.git
+- npm 页面：https://www.npmjs.com/package/@aventa/baileys
+
+## 历史版本号
+
+- 当前版本：1.1.6
+
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.1.6
+
+## 获取地址
+
+- npm 安装：`npm install @aventa/baileys`
+- npm registry：https://registry.npmjs.org/@aventa/baileys

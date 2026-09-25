@@ -1,0 +1,36 @@
+# @mattstack/glance
+
+> 标签: JavaScript
+
+## 简介
+
+GitHub and GitLab API client: REST, GraphQL, and real-time ActionCable subscriptions
+
+## 官网
+
+- 官网：https://github.com/m4ttstack/glance/tree/main/packages/glance
+- 源码仓库：git+https://github.com/m4ttstack/glance.git
+- npm 页面：https://www.npmjs.com/package/@mattstack/glance
+
+## 历史版本号
+
+- 当前版本：0.27.0
+
+- 0.18.1
+- 0.19.0
+- 0.20.0
+- 0.21.0
+- 0.21.1
+- 0.22.0
+- 0.22.1
+- 0.23.0
+- 0.24.0
+- 0.25.0
+- 0.26.0
+- 0.27.0
+
+## 获取地址
+
+- npm 安装：`npm install @mattstack/glance`
+- npm registry：https://registry.npmjs.org/@mattstack/glance
+- Node 要求：>=21

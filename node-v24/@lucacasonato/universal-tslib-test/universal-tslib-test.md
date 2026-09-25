@@ -1,0 +1,22 @@
+# @lucacasonato/universal-tslib-test
+
+> 标签: JavaScript
+
+## 简介
+
+A demo project for my TypeScript Congress talk
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@lucacasonato/universal-tslib-test
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @lucacasonato/universal-tslib-test`
+- npm registry：https://registry.npmjs.org/@lucacasonato/universal-tslib-test

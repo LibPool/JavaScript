@@ -1,0 +1,25 @@
+# jquery.dirtyforms.dialogs.pnotify
+
+> 标签: areyousure, confirmation, dirty, ecosystem:jquery, forms, jquery, jquery-plugin, plugin, pnotify, validate, validation
+
+## 简介
+
+A module to enable automatic PNotify dialog support when using jQuery Dirty Forms.
+
+## 官网
+
+- 官网：https://github.com/snikch/jquery.dirtyforms#readme
+- 源码仓库：git+https://github.com/snikch/jquery.dirtyforms.git
+- npm 页面：https://www.npmjs.com/package/jquery.dirtyforms.dialogs.pnotify
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 2.0.0
+- 2.0.0-beta00008
+
+## 获取地址
+
+- npm 安装：`npm install jquery.dirtyforms.dialogs.pnotify`
+- npm registry：https://registry.npmjs.org/jquery.dirtyforms.dialogs.pnotify

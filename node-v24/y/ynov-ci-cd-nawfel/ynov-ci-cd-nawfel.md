@@ -1,0 +1,29 @@
+# ynov-ci-cd-nawfel
+
+> 标签: JavaScript
+
+## 简介
+
+Ce projet est un formulaire React avec validation côté client et intégration continue/déploiement continu (CI/CD). Il utilise GitHub Actions pour automatiser les tests, la couverture de code et le déploiement sur GitHub Pages.
+
+## 官网
+
+- 官网：https://nawfelhilal.github.io/ci_cd_react_form/
+- npm 页面：https://www.npmjs.com/package/ynov-ci-cd-nawfel
+
+## 历史版本号
+
+- 当前版本：0.1.6
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.5
+- 0.1.6
+- 0.1.6-s
+
+## 获取地址
+
+- npm 安装：`npm install ynov-ci-cd-nawfel`
+- npm registry：https://registry.npmjs.org/ynov-ci-cd-nawfel

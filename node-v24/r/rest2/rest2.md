@@ -1,0 +1,22 @@
+# rest2
+
+> 标签: angular2, http, rest
+
+## 简介
+
+A Rest Client for Angular2
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/rest2
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install rest2`
+- npm registry：https://registry.npmjs.org/rest2

@@ -1,0 +1,26 @@
+# n8n-nodes-ftp-trigger-owen
+
+> 标签: ftp, n8n-community-node-package, polling, sftp
+
+## 简介
+
+n8n node for starting workflows when FTP or SFTP events occur.
+
+## 官网
+
+- 官网：https://github.com/77owen/n8n-nodes-ftp-trigger
+- 源码仓库：git+https://github.com/77owen/n8n-nodes-ftp-trigger.git
+- npm 页面：https://www.npmjs.com/package/n8n-nodes-ftp-trigger-owen
+
+## 历史版本号
+
+- 当前版本：1.2.1
+
+- 1.2.0
+- 1.2.1
+
+## 获取地址
+
+- npm 安装：`npm install n8n-nodes-ftp-trigger-owen`
+- npm registry：https://registry.npmjs.org/n8n-nodes-ftp-trigger-owen
+- Node 要求：>=20.19

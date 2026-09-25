@@ -1,0 +1,31 @@
+# @tashelix/capacitor-msal-auth
+
+> 标签: authentication, azure, capacitor, microsoft, msal, native, plugin
+
+## 简介
+
+This Capacitor plugin provides seamless integration with the Microsoft Authentication Library (MSAL), enabling secure multi-account login support for both web and mobile platforms. Easily manage authentication flows with Microsoft Azure AD and support mul
+
+## 官网
+
+- 官网：https://github.com/hoangqwe159/capacitor-msal-auth#readme
+- 源码仓库：git+https://github.com/hoangqwe159/capacitor-msal-auth.git
+- npm 页面：https://www.npmjs.com/package/@tashelix/capacitor-msal-auth
+
+## 历史版本号
+
+- 当前版本：8.0.0
+
+- 0.0.10
+- 0.0.11
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+- 8.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @tashelix/capacitor-msal-auth`
+- npm registry：https://registry.npmjs.org/@tashelix/capacitor-msal-auth

@@ -1,0 +1,25 @@
+# ag-skills-pro
+
+> 标签: agent, ai, antigravity, google-antigravity, skills, superpowers, tdd, workflow
+
+## 简介
+
+Composable skills, workflows, and always-on rules for Google Antigravity — scaffold .agent/ in one command.
+
+## 官网
+
+- 官网：https://github.com/duongbui234/ag-skills-pro#readme
+- 源码仓库：git+https://github.com/duongbui234/ag-skills-pro.git
+- npm 页面：https://www.npmjs.com/package/ag-skills-pro
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install ag-skills-pro`
+- npm registry：https://registry.npmjs.org/ag-skills-pro
+- Node 要求：>=18.0.0

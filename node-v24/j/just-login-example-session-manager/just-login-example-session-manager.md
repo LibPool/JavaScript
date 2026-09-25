@@ -1,0 +1,26 @@
+# just-login-example-session-manager
+
+> 标签: JavaScript
+
+## 简介
+
+Server code for the Just Login module
+
+## 官网
+
+- 官网：https://github.com/coding-in-the-wild/just-login-server-api
+- 源码仓库：git+ssh://git@github.com/coding-in-the-wild/just-login-server-api.git
+- npm 页面：https://www.npmjs.com/package/just-login-example-session-manager
+
+## 历史版本号
+
+- 当前版本：1.2.1
+
+- 1.1.0
+- 1.2.0
+- 1.2.1
+
+## 获取地址
+
+- npm 安装：`npm install just-login-example-session-manager`
+- npm registry：https://registry.npmjs.org/just-login-example-session-manager

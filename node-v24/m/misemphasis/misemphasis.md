@@ -1,0 +1,35 @@
+# misemphasis
+
+> 标签: ambiguity, editing, emphasis, intonation, llm, prose, skill, writing
+
+## 简介
+
+Find sentences a reader could interpret differently from what you intend. An agent writes a report of plausible readings and candidate rewrites.
+
+## 官网
+
+- 官网：https://misemphasis.com
+- 源码仓库：git+https://github.com/Catalyst-Forge-LLC/misemphasis.git
+- npm 页面：https://www.npmjs.com/package/misemphasis
+
+## 历史版本号
+
+- 当前版本：0.1.9
+
+- 0.0.0
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install misemphasis`
+- npm registry：https://registry.npmjs.org/misemphasis
+- Node 要求：>=20

@@ -1,0 +1,32 @@
+# @mihomo-party/sysproxy-darwin-x64
+
+> 标签: JavaScript
+
+## 简介
+
+Use Node.js to modify system proxy settings, support Windows, MacOS, Linux (Gnome/KDE)
+
+## 官网
+
+- 官网：https://github.com/mihomo-party-org/sysproxy-node#readme
+- 源码仓库：git+https://github.com/mihomo-party-org/sysproxy-node.git
+- npm 页面：https://www.npmjs.com/package/@mihomo-party/sysproxy-darwin-x64
+
+## 历史版本号
+
+- 当前版本：2.0.8
+
+- 1.0.1
+- 2.0.0
+- 2.0.1
+- 2.0.2
+- 2.0.3
+- 2.0.4
+- 2.0.7
+- 2.0.8
+
+## 获取地址
+
+- npm 安装：`npm install @mihomo-party/sysproxy-darwin-x64`
+- npm registry：https://registry.npmjs.org/@mihomo-party/sysproxy-darwin-x64
+- Node 要求：>= 10

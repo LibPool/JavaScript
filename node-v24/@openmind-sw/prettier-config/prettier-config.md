@@ -1,0 +1,25 @@
+# @openmind-sw/prettier-config
+
+> 标签: prettier, prettierrc
+
+## 简介
+
+Openmind-SW prettier config
+
+## 官网
+
+- 源码仓库：github.com:openmind-sw/prettier-config
+- npm 页面：https://www.npmjs.com/package/@openmind-sw/prettier-config
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.0.0
+- 1.0.1
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @openmind-sw/prettier-config`
+- npm registry：https://registry.npmjs.org/@openmind-sw/prettier-config

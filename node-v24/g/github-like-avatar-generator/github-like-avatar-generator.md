@@ -1,0 +1,34 @@
+# github-like-avatar-generator
+
+> 标签: JavaScript
+
+## 简介
+
+# Example : ![alt text](https://github.com/vvanghelue/github-like-avatar-generator/blob/main/example.png?raw=true)
+
+## 官网
+
+- 官网：https://github.com/vvanghelue/github-like-avatar-generator#readme
+- 源码仓库：git+https://github.com/vvanghelue/github-like-avatar-generator.git
+- npm 页面：https://www.npmjs.com/package/github-like-avatar-generator
+
+## 历史版本号
+
+- 当前版本：1.1.10
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.10
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.1.6
+- 1.1.7
+- 1.1.8
+- 1.1.9
+
+## 获取地址
+
+- npm 安装：`npm install github-like-avatar-generator`
+- npm registry：https://registry.npmjs.org/github-like-avatar-generator

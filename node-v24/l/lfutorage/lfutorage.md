@@ -1,0 +1,24 @@
+# lfutorage
+
+> 标签: LFU, localStorage
+
+## 简介
+
+a lfu-storage plugin
+
+## 官网
+
+- 官网：https://github.com/qiudongwei/LFUStorage#readme
+- 源码仓库：git+https://github.com/qiudongwei/LFUStorage.git
+- npm 页面：https://www.npmjs.com/package/lfutorage
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install lfutorage`
+- npm registry：https://registry.npmjs.org/lfutorage

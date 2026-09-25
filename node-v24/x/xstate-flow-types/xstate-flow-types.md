@@ -1,0 +1,24 @@
+# xstate-flow-types
+
+> 标签: JavaScript
+
+## 简介
+
+Flow types for xstate and its packages
+
+## 官网
+
+- 官网：https://github.com/creatorrr/xstate-flow-types#readme
+- 源码仓库：git+ssh://git@github.com/creatorrr/xstate-flow-types.git
+- npm 页面：https://www.npmjs.com/package/xstate-flow-types
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install xstate-flow-types`
+- npm registry：https://registry.npmjs.org/xstate-flow-types

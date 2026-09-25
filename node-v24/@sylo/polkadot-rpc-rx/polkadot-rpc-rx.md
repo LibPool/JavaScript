@@ -1,0 +1,26 @@
+# @sylo/polkadot-rpc-rx
+
+> 标签: Polkadot, RxJs
+
+## 简介
+
+An RxJs wrapper around the Polkadot JS API
+
+## 官网
+
+- 官网：https://github.com/polkadot-js/api/tree/master/packages/rpc-rx#readme
+- 源码仓库：git+https://github.com/polkadot-js/api.git
+- npm 页面：https://www.npmjs.com/package/@sylo/polkadot-rpc-rx
+
+## 历史版本号
+
+- 当前版本：0.48.2
+
+- 0.48.1
+- 0.48.2
+
+## 获取地址
+
+- npm 安装：`npm install @sylo/polkadot-rpc-rx`
+- npm registry：https://registry.npmjs.org/@sylo/polkadot-rpc-rx
+- Node 要求：>=8.0

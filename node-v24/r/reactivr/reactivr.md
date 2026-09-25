@@ -1,0 +1,27 @@
+# reactivr
+
+> 标签: actions, effect, functional, react, reactive, redux, side effect, state, state management
+
+## 简介
+
+A react library for managing state and effects in a reactive way
+
+## 官网
+
+- 官网：https://github.com/Djeg/reactivr#readme
+- 源码仓库：git+https://github.com/Djeg/reactivr.git
+- npm 页面：https://www.npmjs.com/package/reactivr
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.0.1
+- 0.0.2
+- 0.1.0
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install reactivr`
+- npm registry：https://registry.npmjs.org/reactivr

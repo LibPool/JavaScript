@@ -1,0 +1,35 @@
+# @wavemaker/app-ng-runtime
+
+> 标签: JavaScript
+
+## 简介
+
+All modules required for a WaveMaker application.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@wavemaker/app-ng-runtime
+
+## 历史版本号
+
+- 当前版本：11.14.1-32.647748
+
+- 11.15.5-rc.262
+- 11.15.5-rc.263
+- 11.15.5-rc.647638
+- 11.15.6-1.647697
+- 11.15.6-1.647701
+- 11.15.6-rc.647667
+- 11.2.6-rc.647675
+- 11.9.1-4.647503
+- 11.9.1-6.647605
+- 11.9.1-6.647648
+- 11.9.1-6.647649
+- 11.9.1-6.647654
+- 共 4,934 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @wavemaker/app-ng-runtime`
+- npm registry：https://registry.npmjs.org/@wavemaker/app-ng-runtime
+- Node 要求：>=18.16.1

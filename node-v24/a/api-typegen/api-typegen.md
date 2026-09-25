@@ -1,0 +1,25 @@
+# api-typegen
+
+> 标签: JavaScript
+
+## 简介
+
+A TypeScript type generator that creates type definitions from API endpoint responses.
+
+## 官网
+
+- 官网：https://github.com/gladwindos/api-typegen#readme
+- 源码仓库：git+https://github.com/gladwindos/api-typegen.git
+- npm 页面：https://www.npmjs.com/package/api-typegen
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.1
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install api-typegen`
+- npm registry：https://registry.npmjs.org/api-typegen

@@ -1,0 +1,32 @@
+# @ohif/static-wado-webserver
+
+> 标签: DICOM, DICOMweb, StaticWado, StaticWadoServer
+
+## 简介
+
+Webserver to serve a static-wado repo
+
+## 官网
+
+- 官网：https://github.com/OHIF/static-wado#readme
+- 源码仓库：git+https://github.com/OHIF/static-wado.git
+- npm 页面：https://www.npmjs.com/package/@ohif/static-wado-webserver
+
+## 历史版本号
+
+- 当前版本：0.6.6
+
+- 0.5.1
+- 0.6.0
+- 0.6.1
+- 0.6.2
+- 0.6.3
+- 0.6.4
+- 0.6.5
+- 0.6.6
+
+## 获取地址
+
+- npm 安装：`npm install @ohif/static-wado-webserver`
+- npm registry：https://registry.npmjs.org/@ohif/static-wado-webserver
+- Node 要求：>=14.18.1

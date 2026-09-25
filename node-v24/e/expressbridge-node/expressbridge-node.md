@@ -1,0 +1,24 @@
+# expressbridge-node
+
+> 标签: JavaScript
+
+## 简介
+
+expressbridge is a event-driven microservice framework for Node.js
+
+## 官网
+
+- 官网：https://github.com/oslabs-beta/expressbridge#readme
+- 源码仓库：git+https://github.com/oslabs-beta/expressbridge.git
+- npm 页面：https://www.npmjs.com/package/expressbridge-node
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install expressbridge-node`
+- npm registry：https://registry.npmjs.org/expressbridge-node

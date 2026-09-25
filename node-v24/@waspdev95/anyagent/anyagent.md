@@ -1,0 +1,27 @@
+# @waspdev95/anyagent
+
+> 标签: agent, ai, anthropic, anthropic-base-url, byok, claude-code, cli, codex, coding-agent, deepseek, developer-tools, groq, llm, llm-gateway, model-router, ollama, opencode, openrouter
+
+## 简介
+
+Run Claude Code, Codex, OpenCode and other coding agents on any model - OpenRouter, DeepSeek, Groq, Ollama or any OpenAI/Anthropic-compatible endpoint. One command instead of per-agent environment variables and config files.
+
+## 官网
+
+- 官网：https://github.com/waspdev95/anyagent#readme
+- 源码仓库：git+https://github.com/waspdev95/anyagent.git
+- npm 页面：https://www.npmjs.com/package/@waspdev95/anyagent
+
+## 历史版本号
+
+- 当前版本：0.1.4
+
+- 0.1.1
+- 0.1.2
+- 0.1.4
+
+## 获取地址
+
+- npm 安装：`npm install @waspdev95/anyagent`
+- npm registry：https://registry.npmjs.org/@waspdev95/anyagent
+- Node 要求：>=20.10.0

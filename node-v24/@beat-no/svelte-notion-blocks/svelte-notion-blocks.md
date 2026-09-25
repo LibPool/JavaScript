@@ -1,0 +1,35 @@
+# @beat-no/svelte-notion-blocks
+
+> 标签: notion, svelte, sveltekit
+
+## 简介
+
+Notion blocks for Svelte. Easily render Notion pages.
+
+## 官网
+
+- 官网：https://github.com/beat-no/svelte-notion-blocks
+- 源码仓库：git+https://github.com/beat-no/svelte-notion-blocks.git
+- npm 页面：https://www.npmjs.com/package/@beat-no/svelte-notion-blocks
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.11
+- 0.0.12
+- 0.0.13
+- 0.0.15
+- 0.0.16
+- 0.0.17
+- 0.0.18
+- 0.0.19
+- 0.0.2
+- 0.0.20
+- 0.0.4
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @beat-no/svelte-notion-blocks`
+- npm registry：https://registry.npmjs.org/@beat-no/svelte-notion-blocks

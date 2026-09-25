@@ -1,0 +1,27 @@
+# @mboxtael/hulivida-migration-tool
+
+> 标签: oclif
+
+## 简介
+
+Migrate a structure of vue components in multiple files to SFC
+
+## 官网
+
+- 官网：https://github.com/mboxtael/hulivida-migration-tool
+- 源码仓库：git+https://github.com/mboxtael/hulivida-migration-tool.git
+- npm 页面：https://www.npmjs.com/package/@mboxtael/hulivida-migration-tool
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.0
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @mboxtael/hulivida-migration-tool`
+- npm registry：https://registry.npmjs.org/@mboxtael/hulivida-migration-tool
+- Node 要求：>=8.0.0

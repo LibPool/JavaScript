@@ -1,0 +1,25 @@
+# @ryanthetechman/let-smi-darwin-arm64
+
+> 标签: JavaScript
+
+## 简介
+
+Cross-platform GPU discovery and telemetry for Node.js
+
+## 官网
+
+- 官网：https://github.com/RyanTheTechMan/let-smi#readme
+- 源码仓库：git+https://github.com/RyanTheTechMan/let-smi.git
+- npm 页面：https://www.npmjs.com/package/@ryanthetechman/let-smi-darwin-arm64
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @ryanthetechman/let-smi-darwin-arm64`
+- npm registry：https://registry.npmjs.org/@ryanthetechman/let-smi-darwin-arm64
+- Node 要求：>=20

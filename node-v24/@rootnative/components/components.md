@@ -1,0 +1,35 @@
+# @rootnative/components
+
+> 标签: material-design-3, material-you, md3, react-native, ui-components
+
+## 简介
+
+Material Design 3 UI components for React Native, part of RootNative UI.
+
+## 官网
+
+- 官网：https://github.com/rootnative/ui
+- 源码仓库：git+https://github.com/rootnative/ui.git
+- npm 页面：https://www.npmjs.com/package/@rootnative/components
+
+## 历史版本号
+
+- 当前版本：0.0.0-alpha.16
+
+- 0.0.0-alpha.12
+- 0.0.0-alpha.13
+- 0.0.0-alpha.14
+- 0.0.0-alpha.15
+- 0.0.0-alpha.16
+- 0.0.0-alpha.2
+- 0.0.0-alpha.3
+- 0.0.0-alpha.4
+- 0.0.0-alpha.5
+- 0.0.0-alpha.7
+- 0.0.0-alpha.8
+- 0.0.0-alpha.9
+
+## 获取地址
+
+- npm 安装：`npm install @rootnative/components`
+- npm registry：https://registry.npmjs.org/@rootnative/components

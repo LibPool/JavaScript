@@ -1,0 +1,25 @@
+# luffa.js
+
+> 标签: api, bot, chat, luffa, polling, robot, sdk
+
+## 简介
+
+A simplified polling-based SDK for the Luffa Robot API
+
+## 官网
+
+- 官网：https://github.com/Dynamic-Codes/luffa.js#readme
+- 源码仓库：git+https://github.com/Dynamic-Codes/luffa.js.git
+- npm 页面：https://www.npmjs.com/package/luffa.js
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install luffa.js`
+- npm registry：https://registry.npmjs.org/luffa.js
+- Node 要求：>=18

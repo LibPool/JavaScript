@@ -1,0 +1,36 @@
+# ws3-fca
+
+> 标签: api, chat, exocore, facebook, fca, nextgen, ws3, ws3-chat-api, ws3-fca
+
+## 简介
+
+A node.js package for automating Facebook Messenger bot, and is one of the most advanced next-generation Facebook Chat API (FCA) by @NethWs3Dev & @ExocoreCommunity
+
+## 官网
+
+- 官网：https://github.com/NethWs3Dev/ws3-fca#readme
+- 源码仓库：git+https://github.com/NethWs3Dev/ws3-fca.git
+- npm 页面：https://www.npmjs.com/package/ws3-fca
+
+## 历史版本号
+
+- 当前版本：3.5.2
+
+- 1.0.8
+- 1.0.9
+- 2.0.0
+- 2.0.1
+- 3.0.0
+- 3.1.0
+- 3.3.0
+- 3.4.0
+- 3.4.1
+- 3.4.2
+- 3.4.3
+- 3.5.2
+
+## 获取地址
+
+- npm 安装：`npm install ws3-fca`
+- npm registry：https://registry.npmjs.org/ws3-fca
+- Node 要求：>=22.x

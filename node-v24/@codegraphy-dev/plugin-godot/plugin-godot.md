@@ -1,0 +1,36 @@
+# @codegraphy-dev/plugin-godot
+
+> 标签: codegraphy, codegraphy-plugin, dependencies, gdscript, godot, graph
+
+## 简介
+
+CodeGraphy Godot plugin
+
+## 官网
+
+- 官网：https://github.com/joesobo/CodeGraphyV4/tree/main/packages/plugin-godot
+- 源码仓库：git+https://github.com/joesobo/CodeGraphyV4.git
+- npm 页面：https://www.npmjs.com/package/@codegraphy-dev/plugin-godot
+
+## 历史版本号
+
+- 当前版本：3.0.1
+
+- 2.2.2
+- 2.2.3
+- 2.2.4
+- 2.2.5
+- 2.2.6
+- 2.3.0
+- 2.3.1
+- 2.3.2
+- 2.3.3
+- 2.3.4
+- 3.0.0
+- 3.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @codegraphy-dev/plugin-godot`
+- npm registry：https://registry.npmjs.org/@codegraphy-dev/plugin-godot
+- Node 要求：^22.14.0 || >=23.6.0

@@ -1,0 +1,34 @@
+# @framtidtechas/payments
+
+> 标签: JavaScript
+
+## 简介
+
+Stripe Checkout-wrapper for Framtid CMS — sessions, webhook-handler, ordre-types.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@framtidtechas/payments
+
+## 历史版本号
+
+- 当前版本：1.50.1
+
+- 1.47.23
+- 1.47.24
+- 1.47.25
+- 1.47.3
+- 1.47.4
+- 1.47.5
+- 1.47.7
+- 1.47.8
+- 1.48.0
+- 1.49.0
+- 1.50.0
+- 1.50.1
+- 共 104 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @framtidtechas/payments`
+- npm registry：https://registry.npmjs.org/@framtidtechas/payments

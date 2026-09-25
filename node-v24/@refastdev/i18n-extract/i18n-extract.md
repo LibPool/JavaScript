@@ -1,0 +1,31 @@
+# @refastdev/i18n-extract
+
+> 标签: fast, fastjs, i18n, i18n-extract, nextjs, react, refast, router, routes, vite
+
+## 简介
+
+refast
+
+## 官网
+
+- 官网：https://github.com/refastdev/refast#readme
+- 源码仓库：git+https://github.com/refastdev/refast.git
+- npm 页面：https://www.npmjs.com/package/@refastdev/i18n-extract
+
+## 历史版本号
+
+- 当前版本：0.0.8
+
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+
+## 获取地址
+
+- npm 安装：`npm install @refastdev/i18n-extract`
+- npm registry：https://registry.npmjs.org/@refastdev/i18n-extract
+- Node 要求：>=16

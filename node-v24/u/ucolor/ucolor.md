@@ -1,0 +1,24 @@
+# ucolor
+
+> 标签: 1kB, Microscopically small, colors, isomorphic, logging, universal
+
+## 简介
+
+Microsocopically small universal colored logging library
+
+## 官网
+
+- 官网：https://github.com/download/ucolor#readme
+- 源码仓库：git+https://github.com/download/ucolor.git
+- npm 页面：https://www.npmjs.com/package/ucolor
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install ucolor`
+- npm registry：https://registry.npmjs.org/ucolor

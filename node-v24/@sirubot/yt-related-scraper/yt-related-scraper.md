@@ -1,0 +1,36 @@
+# @sirubot/yt-related-scraper
+
+> 标签: crawler, ipRotation, scraper
+
+## 简介
+
+YouTube related video scraper with a ip rotation
+
+## 官网
+
+- 官网：https://github.com/SiruBOT/youtube-related-scraper#readme
+- 源码仓库：git+https://github.com/SiruBOT/youtube-related-scraper.git
+- npm 页面：https://www.npmjs.com/package/@sirubot/yt-related-scraper
+
+## 历史版本号
+
+- 当前版本：0.3.21
+
+- 0.2.31
+- 0.2.32
+- 0.2.33
+- 0.3.0-alpha.1
+- 0.3.0-alpha.2
+- 0.3.0-alpha.3
+- 0.3.1-alpha.1
+- 0.3.1-alpha.2
+- 0.3.1-alpha.3
+- 0.3.1-alpha.31
+- 0.3.2
+- 0.3.21
+
+## 获取地址
+
+- npm 安装：`npm install @sirubot/yt-related-scraper`
+- npm registry：https://registry.npmjs.org/@sirubot/yt-related-scraper
+- Node 要求：>=16.0.0

@@ -1,0 +1,27 @@
+# pi-tick
+
+> 标签: agent, cron, launchd, pi-coding-agent, pi-package, scheduling
+
+## 简介
+
+Persistent scheduled agent tasks for Pi, backed by launchd (macOS) or cron (Linux).
+
+## 官网
+
+- 官网：https://github.com/gscode1/pi-tick#readme
+- 源码仓库：git+https://github.com/gscode1/pi-tick.git
+- npm 页面：https://www.npmjs.com/package/pi-tick
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install pi-tick`
+- npm registry：https://registry.npmjs.org/pi-tick
+- Node 要求：>=20

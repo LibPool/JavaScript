@@ -1,0 +1,26 @@
+# react-redux-merged-connect
+
+> 标签: normalize
+
+## 简介
+
+utility that merges mapStateToProps and mapDispatchToProps to single function
+
+## 官网
+
+- 官网：https://github.com/pavliha/react-redux-merged-connect
+- npm 页面：https://www.npmjs.com/package/react-redux-merged-connect
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.3
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install react-redux-merged-connect`
+- npm registry：https://registry.npmjs.org/react-redux-merged-connect

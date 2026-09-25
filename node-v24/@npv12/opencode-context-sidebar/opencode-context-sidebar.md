@@ -1,0 +1,35 @@
+# @npv12/opencode-context-sidebar
+
+> 标签: context, opencode, opencode-plugin, sidebar
+
+## 简介
+
+OpenCode V2 TUI sidebar plugin for context usage progress
+
+## 官网
+
+- 官网：https://github.com/npv12/opencode-context-sidebar#readme
+- 源码仓库：git+https://github.com/npv12/opencode-context-sidebar.git
+- npm 页面：https://www.npmjs.com/package/@npv12/opencode-context-sidebar
+
+## 历史版本号
+
+- 当前版本：0.4.7
+
+- 0.1.2
+- 0.1.3
+- 0.2.0
+- 0.3.0
+- 0.4.0
+- 0.4.1
+- 0.4.2
+- 0.4.3
+- 0.4.4
+- 0.4.5
+- 0.4.6
+- 0.4.7
+
+## 获取地址
+
+- npm 安装：`npm install @npv12/opencode-context-sidebar`
+- npm registry：https://registry.npmjs.org/@npv12/opencode-context-sidebar

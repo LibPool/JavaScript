@@ -1,0 +1,22 @@
+# test-echo-own-package
+
+> 标签: cici, hello
+
+## 简介
+
+test my own package publish process
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/test-echo-own-package
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install test-echo-own-package`
+- npm registry：https://registry.npmjs.org/test-echo-own-package

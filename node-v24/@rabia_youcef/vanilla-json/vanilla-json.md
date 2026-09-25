@@ -1,0 +1,26 @@
+# @rabia_youcef/vanilla-json
+
+> 标签: json, lexer, parser, recursive-descent, tokenizer, zero-dependency
+
+## 简介
+
+Zero-dependency JSON serializer and parser built from scratch — matches native JSON.stringify/JSON.parse behavior, including the weird parts.
+
+## 官网
+
+- 官网：https://github.com/MantasEdine/vanilla-json#readme
+- 源码仓库：git+https://github.com/MantasEdine/vanilla-json.git
+- npm 页面：https://www.npmjs.com/package/@rabia_youcef/vanilla-json
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @rabia_youcef/vanilla-json`
+- npm registry：https://registry.npmjs.org/@rabia_youcef/vanilla-json

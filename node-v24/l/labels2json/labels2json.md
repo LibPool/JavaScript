@@ -1,0 +1,26 @@
+# labels2json
+
+> 标签: audacity, audio, json
+
+## 简介
+
+Converts Audacity label tracks to JSON objects.
+
+## 官网
+
+- 官网：https://github.com/Adam-Meisen/labels2json#readme
+- 源码仓库：git+https://github.com/Adam-Meisen/labels2json.git
+- npm 页面：https://www.npmjs.com/package/labels2json
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install labels2json`
+- npm registry：https://registry.npmjs.org/labels2json

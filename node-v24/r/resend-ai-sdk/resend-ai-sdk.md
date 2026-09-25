@@ -1,0 +1,26 @@
+# resend-ai-sdk
+
+> 标签: ai, ai-sdk, email, resend, tools
+
+## 简介
+
+Resend email tools for the AI SDK
+
+## 官网
+
+- 官网：https://github.com/Flash-Brew-Digital/resend-ai-sdk
+- 源码仓库：git+https://github.com/Flash-Brew-Digital/resend-ai-sdk.git
+- npm 页面：https://www.npmjs.com/package/resend-ai-sdk
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.0
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install resend-ai-sdk`
+- npm registry：https://registry.npmjs.org/resend-ai-sdk
+- Node 要求：>=20

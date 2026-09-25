@@ -1,0 +1,25 @@
+# generator-rodri
+
+> 标签: yeoman-generator
+
+## 简介
+
+Rodri generator
+
+## 官网
+
+- 官网：https://github.com/toyamarodrigo/generator#readme
+- 源码仓库：git+https://github.com/toyamarodrigo/generator.git
+- npm 页面：https://www.npmjs.com/package/generator-rodri
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install generator-rodri`
+- npm registry：https://registry.npmjs.org/generator-rodri

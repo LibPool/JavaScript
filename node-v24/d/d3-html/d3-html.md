@@ -1,0 +1,35 @@
+# d3-html
+
+> 标签: JavaScript
+
+## 简介
+
+verbose helper functions to make d3-selection bit less verbose for general html creation and manipulation
+
+## 官网
+
+- 官网：https://github.com/nahidakbar/d3-html#readme
+- 源码仓库：git+https://github.com/nahidakbar/d3-html.git
+- npm 页面：https://www.npmjs.com/package/d3-html
+
+## 历史版本号
+
+- 当前版本：0.1.5
+
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+
+## 获取地址
+
+- npm 安装：`npm install d3-html`
+- npm registry：https://registry.npmjs.org/d3-html

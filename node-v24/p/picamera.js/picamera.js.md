@@ -1,0 +1,35 @@
+# picamera.js
+
+> 标签: camera, p2p, pi, raspberry, webrtc
+
+## 简介
+
+WebRTC connection for Raspberry Pi Camera
+
+## 官网
+
+- 官网：https://github.com/TzuHuanTai/PiCamera.js#readme
+- 源码仓库：git+https://github.com/TzuHuanTai/PiCamera.js.git
+- npm 页面：https://www.npmjs.com/package/picamera.js
+
+## 历史版本号
+
+- 当前版本：2.1.2
+
+- 1.0.8
+- 1.0.9
+- 1.1.0
+- 1.1.2
+- 1.2.0
+- 1.2.1
+- 1.3.0
+- 1.3.1
+- 2.0.0
+- 2.1.0
+- 2.1.1
+- 2.1.2
+
+## 获取地址
+
+- npm 安装：`npm install picamera.js`
+- npm registry：https://registry.npmjs.org/picamera.js

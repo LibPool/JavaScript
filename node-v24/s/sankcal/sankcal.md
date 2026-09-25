@@ -1,0 +1,24 @@
+# sankcal
+
+> 标签: JavaScript
+
+## 简介
+
+sankcal - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/santhosh17102002/examsamp#readme
+- 源码仓库：git+https://github.com/santhosh17102002/examsamp.git
+- npm 页面：https://www.npmjs.com/package/sankcal
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install sankcal`
+- npm registry：https://registry.npmjs.org/sankcal

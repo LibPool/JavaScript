@@ -1,0 +1,24 @@
+# tunangn-modal
+
+> 标签: dialog, modal, pop-up, pop-up-side, snack-bar
+
+## 简介
+
+Use to build modal manager for Plain Javascript, React...
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/tunangn-modal
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install tunangn-modal`
+- npm registry：https://registry.npmjs.org/tunangn-modal

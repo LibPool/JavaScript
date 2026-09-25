@@ -1,0 +1,24 @@
+# @aximario/use-once
+
+> 标签: react hook, use-once, useEffect
+
+## 简介
+
+custom react hook, use effect once, support cleanup
+
+## 官网
+
+- 官网：https://github.com/aximario/use-once#readme
+- 源码仓库：git+https://github.com/aximario/use-once.git
+- npm 页面：https://www.npmjs.com/package/@aximario/use-once
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @aximario/use-once`
+- npm registry：https://registry.npmjs.org/@aximario/use-once

@@ -1,0 +1,26 @@
+# @makerjun/mcp-threads-server
+
+> 标签: api, claude, mcp, model-context-protocol, threads
+
+## 简介
+
+MCP server for interacting with Threads API
+
+## 官网
+
+- 官网：https://github.com/imakerjun/mcp-threads-server#readme
+- 源码仓库：git+https://github.com/imakerjun/mcp-threads-server.git
+- npm 页面：https://www.npmjs.com/package/@makerjun/mcp-threads-server
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @makerjun/mcp-threads-server`
+- npm registry：https://registry.npmjs.org/@makerjun/mcp-threads-server
+- Node 要求：>=16.0.0

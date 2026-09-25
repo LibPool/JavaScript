@@ -1,0 +1,26 @@
+# jmf-graphql
+
+> 标签: GraphQL, JMF, jmf, jmf-graphql
+
+## 简介
+
+JavaScript Modelling Framework. Create GraphQL Schema
+
+## 官网
+
+- 官网：https://github.com/Kronos-JMF/jmf-graphql#readme
+- 源码仓库：git+https://github.com/Kronos-JMF/jmf-graphql.git
+- npm 页面：https://www.npmjs.com/package/jmf-graphql
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install jmf-graphql`
+- npm registry：https://registry.npmjs.org/jmf-graphql
+- Node 要求：>=5

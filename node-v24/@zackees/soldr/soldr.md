@@ -1,0 +1,37 @@
+# @zackees/soldr
+
+> 标签: build-cache, cargo, cli, rust, zccache
+
+## 简介
+
+Instant Rust tools and builds from one command.
+
+## 官网
+
+- 官网：https://github.com/zackees/soldr
+- 源码仓库：git+https://github.com/zackees/soldr.git
+- npm 页面：https://www.npmjs.com/package/@zackees/soldr
+
+## 历史版本号
+
+- 当前版本：0.9.21
+
+- 0.9.17
+- 0.9.18
+- 0.9.19
+- 0.9.2
+- 0.9.20
+- 0.9.21
+- 0.9.3
+- 0.9.4
+- 0.9.5
+- 0.9.6
+- 0.9.7
+- 0.9.9
+- 共 130 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @zackees/soldr`
+- npm registry：https://registry.npmjs.org/@zackees/soldr
+- Node 要求：>=16

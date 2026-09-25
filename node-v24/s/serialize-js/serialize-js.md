@@ -1,0 +1,25 @@
+# serialize-js
+
+> 标签: javascript, object, pretty, print, serialize
+
+## 简介
+
+User-readable object serialization for JavaScript.
+
+## 官网
+
+- 官网：https://github.com/RReverser/serialize-js
+- 源码仓库：git://github.com/RReverser/serialize-js.git
+- npm 页面：https://www.npmjs.com/package/serialize-js
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install serialize-js`
+- npm registry：https://registry.npmjs.org/serialize-js

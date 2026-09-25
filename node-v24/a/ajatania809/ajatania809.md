@@ -1,0 +1,24 @@
+# ajatania809
+
+> 标签: ajatania809
+
+## 简介
+
+<div align="center">
+
+## 官网
+
+- 官网：https://github.com/ajatania809/ajatania809#readme
+- 源码仓库：git+https://github.com/ajatania809/ajatania809.git
+- npm 页面：https://www.npmjs.com/package/ajatania809
+
+## 历史版本号
+
+- 当前版本：9.0.2
+
+- 9.0.2
+
+## 获取地址
+
+- npm 安装：`npm install ajatania809`
+- npm registry：https://registry.npmjs.org/ajatania809

@@ -1,0 +1,25 @@
+# example-snap-test-muj3
+
+> 标签: JavaScript
+
+## 简介
+
+The 'Hello, world!' of MetaMask Snaps, now written in TypeScript.
+
+## 官网
+
+- 官网：https://github.com/Nigger/nigger-test#readme
+- 源码仓库：git+https://github.com/Nigger/nigger-test.git
+- npm 页面：https://www.npmjs.com/package/example-snap-test-muj3
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install example-snap-test-muj3`
+- npm registry：https://registry.npmjs.org/example-snap-test-muj3
+- Node 要求：>=16.0.0

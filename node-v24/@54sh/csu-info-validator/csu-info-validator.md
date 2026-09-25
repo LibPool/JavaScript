@@ -1,0 +1,26 @@
+# @54sh/csu-info-validator
+
+> 标签: CSU, validator
+
+## 简介
+
+A personal information validator for Central South University
+
+## 官网
+
+- 官网：https://github.com/wangsz12/csu-info-validator#readme
+- 源码仓库：git+https://github.com/wangsz12/csu-info-validator.git
+- npm 页面：https://www.npmjs.com/package/@54sh/csu-info-validator
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.0.1
+- 0.0.2
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @54sh/csu-info-validator`
+- npm registry：https://registry.npmjs.org/@54sh/csu-info-validator

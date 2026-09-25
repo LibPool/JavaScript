@@ -1,0 +1,34 @@
+# @orz14/orzui
+
+> 标签: cli, components, design-system, react, tailwindcss, typescript, ui
+
+## 简介
+
+A customizable React UI component library - CLI based (BETA)
+
+## 官网
+
+- 官网：https://github.com/orz14/orzui#readme
+- 源码仓库：git+https://github.com/orz14/orzui.git
+- npm 页面：https://www.npmjs.com/package/@orz14/orzui
+
+## 历史版本号
+
+- 当前版本：1.0.10
+
+- 1.0.0
+- 1.0.1
+- 1.0.10
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.8
+- 1.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @orz14/orzui`
+- npm registry：https://registry.npmjs.org/@orz14/orzui
+- Node 要求：>=14.0.0

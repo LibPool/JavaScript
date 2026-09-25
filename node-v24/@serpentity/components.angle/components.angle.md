@@ -1,0 +1,26 @@
+# @serpentity/components.angle
+
+> 标签: JavaScript
+
+## 简介
+
+Angle component for serpentity
+
+## 官网
+
+- 官网：https://git.sr.ht/~rbdr/serpentity-lib#readme
+- 源码仓库：https://git.sr.ht/~rbdr/serpentity-lib.git
+- npm 页面：https://www.npmjs.com/package/@serpentity/components.angle
+
+## 历史版本号
+
+- 当前版本：4.0.1
+
+- 1.0.2
+- 4.0.0
+- 4.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @serpentity/components.angle`
+- npm registry：https://registry.npmjs.org/@serpentity/components.angle

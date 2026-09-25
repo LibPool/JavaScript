@@ -1,0 +1,36 @@
+# @gapi/ipfs-pubsub
+
+> 标签: gapi, graphql, ipfs, node
+
+## 简介
+
+##### More information about IPFS system can be find here [IPFS-WIKI](https://en.wikipedia.org/wiki/InterPlanetary_File_System) ##### For questions/issues you can write ticket [here](http://gitlab.youvolio.com/gapi/gapi-ipfs-pubsub/issues) ##### This modu
+
+## 官网
+
+- 官网：https://github.com/Stradivario/gapi-ipfs#readme
+- 源码仓库：git+https://github.com/Stradivario/gapi-ipfs.git
+- npm 页面：https://www.npmjs.com/package/@gapi/ipfs-pubsub
+
+## 历史版本号
+
+- 当前版本：1.8.117
+
+- 1.8.88
+- 1.8.89
+- 1.8.90
+- 1.8.91
+- 1.8.92
+- 1.8.93
+- 1.8.94
+- 1.8.95
+- 1.8.96
+- 1.8.97
+- 1.8.98
+- 1.8.99
+- 共 400 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @gapi/ipfs-pubsub`
+- npm registry：https://registry.npmjs.org/@gapi/ipfs-pubsub

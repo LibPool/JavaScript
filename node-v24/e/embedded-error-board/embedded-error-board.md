@@ -1,0 +1,28 @@
+# embedded-error-board
+
+> 标签: JavaScript
+
+## 简介
+
+Track and fix JavaScript errors fired by your visitor's browsers
+
+## 官网
+
+- 官网：https://github.com/ewnd9/embedded-error-board#readme
+- 源码仓库：git+https://github.com/ewnd9/embedded-error-board.git
+- npm 页面：https://www.npmjs.com/package/embedded-error-board
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.0.0
+- 0.0.1
+- 0.0.2
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install embedded-error-board`
+- npm registry：https://registry.npmjs.org/embedded-error-board

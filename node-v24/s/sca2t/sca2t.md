@@ -1,0 +1,31 @@
+# sca2t
+
+> 标签: Ethereum, audit, blockchain, smartcontract, solc, solidity
+
+## 简介
+
+sca2t (Smart Contract Audit Assistant Tool): A set of utilities for auditing Solidity contracts.
+
+## 官网
+
+- 官网：https://github.com/tagomaru/sca2t#readme
+- 源码仓库：git+https://github.com/tagomaru/sca2t.git
+- npm 页面：https://www.npmjs.com/package/sca2t
+
+## 历史版本号
+
+- 当前版本：0.8.0
+
+- 0.1.0
+- 0.2.0
+- 0.3.0
+- 0.4.0
+- 0.5.0
+- 0.6.0
+- 0.7.0
+- 0.8.0
+
+## 获取地址
+
+- npm 安装：`npm install sca2t`
+- npm registry：https://registry.npmjs.org/sca2t

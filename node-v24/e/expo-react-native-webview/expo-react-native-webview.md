@@ -1,0 +1,24 @@
+# expo-react-native-webview
+
+> 标签: android, expo, ios, react, react-native, webview
+
+## 简介
+
+本库为 expo 和 react native 项目提供 webview 支持用于网页加载，以及增加了对react-native-web的支持。
+
+## 官网
+
+- 官网：https://github.com/zeng-zhiming/expo-react-native-webview#readme
+- 源码仓库：git+https://github.com/zeng-zhiming/expo-react-native-webview.git
+- npm 页面：https://www.npmjs.com/package/expo-react-native-webview
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install expo-react-native-webview`
+- npm registry：https://registry.npmjs.org/expo-react-native-webview

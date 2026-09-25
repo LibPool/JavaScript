@@ -1,0 +1,25 @@
+# claude-brief
+
+> 标签: agent, ai, claude, claude-code, cli, digest, session, tui
+
+## 简介
+
+Pick up exactly where your agents left off. Session digest and history browser for Claude Code.
+
+## 官网
+
+- 官网：https://github.com/jakeefr/claude-brief
+- 源码仓库：git+https://github.com/jakeefr/claude-brief.git
+- npm 页面：https://www.npmjs.com/package/claude-brief
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install claude-brief`
+- npm registry：https://registry.npmjs.org/claude-brief
+- Node 要求：>=18

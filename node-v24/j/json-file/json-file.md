@@ -1,0 +1,24 @@
+# json-file
+
+> 标签: file, i/o, json
+
+## 简介
+
+A module for modifiying JSON files
+
+## 官网
+
+- 源码仓库：git://github.com/UmbraEngineering/json-file
+- npm 页面：https://www.npmjs.com/package/json-file
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.0
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install json-file`
+- npm registry：https://registry.npmjs.org/json-file

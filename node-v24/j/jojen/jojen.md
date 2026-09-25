@@ -1,0 +1,35 @@
+# jojen
+
+> 标签: browser, hapi, joi, jojen, node, validator
+
+## 简介
+
+Expressive validator for Node and the browser, with a small footprint and awesome performance
+
+## 官网
+
+- 官网：https://github.com/mixer/jojen#readme
+- 源码仓库：git+ssh://git@github.com/mixer/jojen.git
+- npm 页面：https://www.npmjs.com/package/jojen
+
+## 历史版本号
+
+- 当前版本：2.0.1
+
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.2.3
+- 1.2.4
+- 1.3.0
+- 1.3.1
+- 1.3.2
+- 1.3.4
+- 1.3.5
+- 2.0.0
+- 2.0.1
+
+## 获取地址
+
+- npm 安装：`npm install jojen`
+- npm registry：https://registry.npmjs.org/jojen

@@ -1,0 +1,35 @@
+# augmentedjs-next
+
+> 标签: augmentedjs
+
+## 简介
+
+The Augmented.js Next Framework.
+
+## 官网
+
+- 官网：http://www.augmentedjs.com
+- 源码仓库：git+https://github.com/Augmentedjs/augmented-next.git
+- npm 页面：https://www.npmjs.com/package/augmentedjs-next
+
+## 历史版本号
+
+- 当前版本：3.0.0
+
+- 2.0.4
+- 2.0.5
+- 2.0.6
+- 2.1.0
+- 2.2.0
+- 2.2.1
+- 2.3.0
+- 2.6.0
+- 2.7.0
+- 2.7.1
+- 2.7.2
+- 3.0.0
+
+## 获取地址
+
+- npm 安装：`npm install augmentedjs-next`
+- npm registry：https://registry.npmjs.org/augmentedjs-next

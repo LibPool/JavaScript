@@ -1,0 +1,32 @@
+# @royaltics/tracker
+
+> 标签: error-tracking, logging, monitoring, nodejs, tracker, typescript
+
+## 简介
+
+The Royaltics Error Tracker is a JavaScript library designed to track and report errors in your application. It provides a simple and efficient way to monitor and manage errors, allowing you to focus on building a better user experience.
+
+## 官网
+
+- 官网：https://github.com/royaltics-solutions/royaltics-solutions-tracker#readme
+- 源码仓库：git+https://github.com/royaltics-solutions/royaltics-solutions-tracker.git
+- npm 页面：https://www.npmjs.com/package/@royaltics/tracker
+
+## 历史版本号
+
+- 当前版本：0.0.23
+
+- 0.0.1
+- 0.0.2
+- 0.0.20
+- 0.0.21
+- 0.0.22
+- 0.0.23
+- 0.0.3
+- 0.0.4
+- 0.0.5
+
+## 获取地址
+
+- npm 安装：`npm install @royaltics/tracker`
+- npm registry：https://registry.npmjs.org/@royaltics/tracker

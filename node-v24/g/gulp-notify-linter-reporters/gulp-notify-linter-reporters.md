@@ -1,0 +1,27 @@
+# gulp-notify-linter-reporters
+
+> 标签: gulpplugin, jscs, jshint, lint, linter, notification, notify
+
+## 简介
+
+Reporters for linting errors using notifications
+
+## 官网
+
+- 官网：https://github.com/thollingsheadesri/gulp-notify-linter-reporters#readme
+- 源码仓库：git+https://github.com/thollingsheadesri/gulp-notify-linter-reporters.git
+- npm 页面：https://www.npmjs.com/package/gulp-notify-linter-reporters
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install gulp-notify-linter-reporters`
+- npm registry：https://registry.npmjs.org/gulp-notify-linter-reporters

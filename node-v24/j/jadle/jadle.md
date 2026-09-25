@@ -1,0 +1,24 @@
+# jadle
+
+> 标签: JavaScript
+
+## 简介
+
+JSON task handler
+
+## 官网
+
+- 官网：https://github.com/VladimirChudovskiy/jadle#readme
+- 源码仓库：git+https://github.com/VladimirChudovskiy/jadle.git
+- npm 页面：https://www.npmjs.com/package/jadle
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install jadle`
+- npm registry：https://registry.npmjs.org/jadle

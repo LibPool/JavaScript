@@ -1,0 +1,35 @@
+# bytespace
+
+> 标签: bytewise, level, namespace, space, sublevel, tuple
+
+## 简介
+
+Efficient keypath subspaces prefixed with bytewise tuples
+
+## 官网
+
+- 官网：https://github.com/deanlandolt/bytespace
+- 源码仓库：git+https://github.com/deanlandolt/bytespace.git
+- npm 页面：https://www.npmjs.com/package/bytespace
+
+## 历史版本号
+
+- 当前版本：0.11.0
+
+- 0.7.6
+- 0.8.0
+- 0.8.1
+- 0.8.2
+- 0.8.3
+- 0.8.4
+- 0.8.5
+- 0.9.0
+- 0.9.1
+- 0.9.2
+- 0.9.3
+- 0.9.5
+
+## 获取地址
+
+- npm 安装：`npm install bytespace`
+- npm registry：https://registry.npmjs.org/bytespace

@@ -1,0 +1,25 @@
+# image-to-embedding
+
+> 标签: boilerplate, codecov, commitizen, husky, jest, semantic-release, template, typescript, vscode
+
+## 简介
+
+Convert an image to embeddings
+
+## 官网
+
+- 官网：https://github.com/Siyer2/image-to-embedding
+- 源码仓库：git+https://github.com/Siyer2/image-to-embedding.git
+- npm 页面：https://www.npmjs.com/package/image-to-embedding
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install image-to-embedding`
+- npm registry：https://registry.npmjs.org/image-to-embedding
+- Node 要求：>=12.0

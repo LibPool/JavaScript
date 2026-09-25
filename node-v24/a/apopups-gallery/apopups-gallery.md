@@ -1,0 +1,32 @@
+# apopups-gallery
+
+> 标签: album, apopups, gallery, photo, picture, popup
+
+## 简介
+
+Demo: https://joel-ou.github.io/APopupsGalleryDemo/ # *It is still under test. Do not use it in production environment *&&&*** Try not to use it on PC, It's for mobile
+
+## 官网
+
+- 官网：https://github.com/joel-ou/APopups-Gallery
+- npm 页面：https://www.npmjs.com/package/apopups-gallery
+
+## 历史版本号
+
+- 当前版本：1.1.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+
+## 获取地址
+
+- npm 安装：`npm install apopups-gallery`
+- npm registry：https://registry.npmjs.org/apopups-gallery

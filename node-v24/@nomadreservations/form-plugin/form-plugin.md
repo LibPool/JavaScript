@@ -1,0 +1,22 @@
+# @nomadreservations/form-plugin
+
+> 标签: JavaScript
+
+## 简介
+
+form plugin for @nomadreservations/store
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@nomadreservations/form-plugin
+
+## 历史版本号
+
+- 当前版本：3.5.1-dev.master-60cff67
+
+- 3.5.1-dev.master-60cff67
+
+## 获取地址
+
+- npm 安装：`npm install @nomadreservations/form-plugin`
+- npm registry：https://registry.npmjs.org/@nomadreservations/form-plugin

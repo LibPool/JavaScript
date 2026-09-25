@@ -1,0 +1,31 @@
+# @fknop/http2-server
+
+> 标签: JavaScript
+
+## 简介
+
+HTTP2 static directory server written with Hapi
+
+## 官网
+
+- 官网：https://github.com/fknop/http2-server#readme
+- 源码仓库：git+https://github.com/fknop/http2-server.git
+- npm 页面：https://www.npmjs.com/package/@fknop/http2-server
+
+## 历史版本号
+
+- 当前版本：1.1.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.1.4
+
+## 获取地址
+
+- npm 安装：`npm install @fknop/http2-server`
+- npm registry：https://registry.npmjs.org/@fknop/http2-server

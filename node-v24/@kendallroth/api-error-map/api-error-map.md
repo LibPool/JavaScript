@@ -1,0 +1,24 @@
+# @kendallroth/api-error-map
+
+> 标签: errors, javascript
+
+## 简介
+
+Simple API error code mapping
+
+## 官网
+
+- 官网：https://github.com/kendallroth/api-error-map#readme
+- 源码仓库：git+https://github.com/kendallroth/api-error-map.git
+- npm 页面：https://www.npmjs.com/package/@kendallroth/api-error-map
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @kendallroth/api-error-map`
+- npm registry：https://registry.npmjs.org/@kendallroth/api-error-map

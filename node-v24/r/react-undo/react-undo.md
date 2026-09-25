@@ -1,0 +1,27 @@
+# react-undo
+
+> 标签: component, history, library, react, reactjs, redo, undo
+
+## 简介
+
+React Component for easy undo/redo on any component's props
+
+## 官网
+
+- 官网：https://github.com/aurbano/react-undo#readme
+- 源码仓库：git+https://github.com/aurbano/react-undo.git
+- npm 页面：https://www.npmjs.com/package/react-undo
+
+## 历史版本号
+
+- 当前版本：1.2.1
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.2.1
+
+## 获取地址
+
+- npm 安装：`npm install react-undo`
+- npm registry：https://registry.npmjs.org/react-undo

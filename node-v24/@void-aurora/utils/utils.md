@@ -1,0 +1,25 @@
+# @void-aurora/utils
+
+> 标签: Void Aurora, javascript, typescript
+
+## 简介
+
+Shared Utilities Module for Void Aurora.
+
+## 官网
+
+- 官网：https://github.com/void-aurora/utilities#readme
+- 源码仓库：git+https://github.com/void-aurora/utilities.git
+- npm 页面：https://www.npmjs.com/package/@void-aurora/utils
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.1.0
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @void-aurora/utils`
+- npm registry：https://registry.npmjs.org/@void-aurora/utils

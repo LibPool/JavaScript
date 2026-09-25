@@ -1,0 +1,26 @@
+# bbowl
+
+> 标签: JavaScript
+
+## 简介
+
+service for exposing a low energy bluetooth UART device via sockets
+
+## 官网
+
+- 官网：https://github.com/echox/bbowl#readme
+- 源码仓库：git+https://github.com/echox/bbowl.git
+- npm 页面：https://www.npmjs.com/package/bbowl
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install bbowl`
+- npm registry：https://registry.npmjs.org/bbowl

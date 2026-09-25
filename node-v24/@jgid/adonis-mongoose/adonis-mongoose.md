@@ -1,0 +1,24 @@
+# @jgid/adonis-mongoose
+
+> 标签: JavaScript
+
+## 简介
+
+@jgid/adonis-mongoose - JavaScript library from npm
+
+## 官网
+
+- 官网：https://bitbucket.org/lizel/jaguar-adonis-mongoose#readme
+- 源码仓库：git+https://lizel@bitbucket.org/lizel/jaguar-adonis-mongoose.git
+- npm 页面：https://www.npmjs.com/package/@jgid/adonis-mongoose
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @jgid/adonis-mongoose`
+- npm registry：https://registry.npmjs.org/@jgid/adonis-mongoose

@@ -1,0 +1,32 @@
+# gulp-files-inject
+
+> 标签: gulpplugin
+
+## 简介
+
+A plugin for Gulp. Look for special marks in html files, and concatenate script and link tags sources to bundles
+
+## 官网
+
+- 官网：https://github.com/theconscience/gulp-files-inject#readme
+- 源码仓库：git+https://github.com/theconscience/gulp-files-inject.git
+- npm 页面：https://www.npmjs.com/package/gulp-files-inject
+
+## 历史版本号
+
+- 当前版本：0.0.11
+
+- 0.0.10
+- 0.0.11
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install gulp-files-inject`
+- npm registry：https://registry.npmjs.org/gulp-files-inject
+- Node 要求：>=0.8.0

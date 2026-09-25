@@ -1,0 +1,30 @@
+# @bizcharts/stackedcolumn-line
+
+> 标签: bizcharts
+
+## 简介
+
+叠柱+折线
+
+## 官网
+
+- 官网：http://bizcharts.net/products/bizCharts/demo/detail?id=stackedcolumn-line&from=ice
+- 源码仓库：https://registry.npm.org/
+- npm 页面：https://www.npmjs.com/package/@bizcharts/stackedcolumn-line
+
+## 历史版本号
+
+- 当前版本：0.0.9
+
+- 0.0.2
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @bizcharts/stackedcolumn-line`
+- npm registry：https://registry.npmjs.org/@bizcharts/stackedcolumn-line

@@ -1,0 +1,36 @@
+# w3counter
+
+> 标签: browser, os, popular, screen, size, w3counter
+
+## 简介
+
+Get ten most popular screen resolutions, browsers and operating systems
+
+## 官网
+
+- 官网：https://github.com/kevva/w3counter#readme
+- 源码仓库：git+https://github.com/kevva/w3counter.git
+- npm 页面：https://www.npmjs.com/package/w3counter
+
+## 历史版本号
+
+- 当前版本：3.0.1
+
+- 0.2.2
+- 0.2.3
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.1.0
+- 1.2.0
+- 2.0.0
+- 2.0.1
+- 3.0.0
+- 3.0.1
+
+## 获取地址
+
+- npm 安装：`npm install w3counter`
+- npm registry：https://registry.npmjs.org/w3counter
+- Node 要求：>=4

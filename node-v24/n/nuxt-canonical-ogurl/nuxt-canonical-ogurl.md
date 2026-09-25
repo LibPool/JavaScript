@@ -1,0 +1,24 @@
+# nuxt-canonical-ogurl
+
+> 标签: canonical, nuxt, opengraph
+
+## 简介
+
+A Nuxt module to automatically generate canonical and og:url meta tags
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/nuxt-canonical-ogurl
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install nuxt-canonical-ogurl`
+- npm registry：https://registry.npmjs.org/nuxt-canonical-ogurl
+- Node 要求：>=14.x

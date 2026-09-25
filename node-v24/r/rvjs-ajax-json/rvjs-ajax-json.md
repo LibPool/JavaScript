@@ -1,0 +1,26 @@
+# rvjs-ajax-json
+
+> 标签: XMLHttpRequest, ajax, json
+
+## 简介
+
+XMLHttpRequest library
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/rvjs-ajax-json
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install rvjs-ajax-json`
+- npm registry：https://registry.npmjs.org/rvjs-ajax-json

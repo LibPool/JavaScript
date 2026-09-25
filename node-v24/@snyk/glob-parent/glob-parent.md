@@ -1,0 +1,26 @@
+# @snyk/glob-parent
+
+> 标签: base, directory, dirname, glob, parent, path, strip, wildcard
+
+## 简介
+
+Extract the non-magic parent path from a glob string.
+
+## 官网
+
+- 官网：https://github.com/gulpjs/glob-parent#readme
+- 源码仓库：git+https://github.com/gulpjs/glob-parent.git
+- npm 页面：https://www.npmjs.com/package/@snyk/glob-parent
+
+## 历史版本号
+
+- 当前版本：5.1.2-patch.1
+
+- 5.1.2-patch
+- 5.1.2-patch.1
+
+## 获取地址
+
+- npm 安装：`npm install @snyk/glob-parent`
+- npm registry：https://registry.npmjs.org/@snyk/glob-parent
+- Node 要求：>= 6

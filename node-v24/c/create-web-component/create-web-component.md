@@ -1,0 +1,29 @@
+# create-web-component
+
+> 标签: JavaScript
+
+## 简介
+
+create-web-component - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/create-web-component
+
+## 历史版本号
+
+- 当前版本：1.0.2-b
+
+- 1.0.0
+- 1.0.1
+- 1.0.1-a
+- 1.0.1-b
+- 1.0.1-c
+- 1.0.1-d
+- 1.0.2-a
+- 1.0.2-b
+
+## 获取地址
+
+- npm 安装：`npm install create-web-component`
+- npm registry：https://registry.npmjs.org/create-web-component

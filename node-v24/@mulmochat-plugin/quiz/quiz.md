@@ -1,0 +1,33 @@
+# @mulmochat-plugin/quiz
+
+> 标签: mulmochat, plugin, quiz, react, vue
+
+## 简介
+
+Quiz plugin for MulmoChat
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@mulmochat-plugin/quiz
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 0.3.0
+- 0.3.1
+- 0.3.2
+- 0.3.3
+- 0.4.0
+- 0.4.2
+- 0.4.3
+- 0.5.0
+- 0.5.1
+- 1.0.0
+- 1.1.0
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @mulmochat-plugin/quiz`
+- npm registry：https://registry.npmjs.org/@mulmochat-plugin/quiz

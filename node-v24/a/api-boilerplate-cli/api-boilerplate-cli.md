@@ -1,0 +1,25 @@
+# api-boilerplate-cli
+
+> 标签: api, boilerplate, node
+
+## 简介
+
+A simple interactive CLI tool to quickly scaffold **production-ready Node.js backend projects**.
+
+## 官网
+
+- 官网：https://github.com/RiyadAhsan4516/api-boilerplate-cli#readme
+- 源码仓库：git+https://github.com/RiyadAhsan4516/api-boilerplate-cli.git
+- npm 页面：https://www.npmjs.com/package/api-boilerplate-cli
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install api-boilerplate-cli`
+- npm registry：https://registry.npmjs.org/api-boilerplate-cli

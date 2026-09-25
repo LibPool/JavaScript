@@ -1,0 +1,24 @@
+# @mauricedf94/react-native-awesome-card-io
+
+> 标签: android, card.io, credit card, ios, react-component, react-native, scan
+
+## 简介
+
+A complete and cross-platform React Native component for card.io
+
+## 官网
+
+- 官网：https://github.com/mauricedf94/react-native-awesome-card-io
+- 源码仓库：git+https://github.com/mauricedf94/react-native-awesome-card-io.git
+- npm 页面：https://www.npmjs.com/package/@mauricedf94/react-native-awesome-card-io
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @mauricedf94/react-native-awesome-card-io`
+- npm registry：https://registry.npmjs.org/@mauricedf94/react-native-awesome-card-io

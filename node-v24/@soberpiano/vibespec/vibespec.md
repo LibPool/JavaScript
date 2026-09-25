@@ -1,0 +1,24 @@
+# @soberpiano/vibespec
+
+> 标签: agents-md, ai, coding-agent, spec, vibe
+
+## 简介
+
+Spec-first development protocol for AI coding agents
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@soberpiano/vibespec
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @soberpiano/vibespec`
+- npm registry：https://registry.npmjs.org/@soberpiano/vibespec

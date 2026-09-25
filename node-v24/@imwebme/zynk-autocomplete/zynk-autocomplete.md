@@ -1,0 +1,24 @@
+# @imwebme/zynk-autocomplete
+
+> 标签: JavaScript
+
+## 简介
+
+`beta`
+
+## 官网
+
+- 官网：https://github.com/imwebme/zynk/tree/dev/packages/autocomplete
+- 源码仓库：git+https://github.com/imwebme/zynk.git
+- npm 页面：https://www.npmjs.com/package/@imwebme/zynk-autocomplete
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @imwebme/zynk-autocomplete`
+- npm registry：https://registry.npmjs.org/@imwebme/zynk-autocomplete

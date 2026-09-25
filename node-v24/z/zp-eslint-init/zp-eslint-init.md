@@ -1,0 +1,26 @@
+# zp-eslint-init
+
+> 标签: eslint
+
+## 简介
+
+a tool to help init eslint
+
+## 官网
+
+- 源码仓库：git@gitee.com:AnthonyZ/eslint-init.git
+- npm 页面：https://www.npmjs.com/package/zp-eslint-init
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install zp-eslint-init`
+- npm registry：https://registry.npmjs.org/zp-eslint-init

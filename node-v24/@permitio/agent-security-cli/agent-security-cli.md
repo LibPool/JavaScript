@@ -1,0 +1,29 @@
+# @permitio/agent-security-cli
+
+> 标签: JavaScript
+
+## 简介
+
+Command-line tool to manage the Agent Security Gateway
+
+## 官网
+
+- 官网：https://github.com/permitio/agent-security/tree/main/packages/agent-security-cli#readme
+- 源码仓库：git+https://github.com/permitio/agent-security.git
+- npm 页面：https://www.npmjs.com/package/@permitio/agent-security-cli
+
+## 历史版本号
+
+- 当前版本：0.5.0
+
+- 0.1.0
+- 0.2.0
+- 0.3.0
+- 0.4.0
+- 0.5.0
+
+## 获取地址
+
+- npm 安装：`npm install @permitio/agent-security-cli`
+- npm registry：https://registry.npmjs.org/@permitio/agent-security-cli
+- Node 要求：>=20

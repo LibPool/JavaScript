@@ -1,0 +1,24 @@
+# pdfmix
+
+> 标签: command-line, merge, pdf
+
+## 简介
+
+A command line program to mix multiple pdfs together
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/pdfmix
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install pdfmix`
+- npm registry：https://registry.npmjs.org/pdfmix

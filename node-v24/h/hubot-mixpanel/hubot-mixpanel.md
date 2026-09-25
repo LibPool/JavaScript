@@ -1,0 +1,26 @@
+# hubot-mixpanel
+
+> 标签: JavaScript
+
+## 简介
+
+A hubot script to query Mixpanel API
+
+## 官网
+
+- 官网：https://github.com/mako-crm/hubot-mixpanel#readme
+- 源码仓库：git+https://github.com/mako-crm/hubot-mixpanel.git
+- npm 页面：https://www.npmjs.com/package/hubot-mixpanel
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install hubot-mixpanel`
+- npm registry：https://registry.npmjs.org/hubot-mixpanel

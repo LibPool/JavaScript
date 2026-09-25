@@ -1,0 +1,27 @@
+# @80lk/vite-plugin-electron
+
+> 标签: JavaScript
+
+## 简介
+
+A Vite plugin for multibuilding
+
+## 官网
+
+- 官网：https://github.com/80LK/vite-plugin-electron#readme
+- 源码仓库：git+https://github.com/80LK/vite-plugin-electron.git
+- npm 页面：https://www.npmjs.com/package/@80lk/vite-plugin-electron
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @80lk/vite-plugin-electron`
+- npm registry：https://registry.npmjs.org/@80lk/vite-plugin-electron

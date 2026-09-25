@@ -1,0 +1,30 @@
+# vue-go-top-button
+
+> 标签: button, go, top, vue
+
+## 简介
+
+A simple customizable go-top-button component for Vue projects.
+
+## 官网
+
+- 官网：https://github.com/annapogorelova/vue-go-top-button#readme
+- 源码仓库：git+https://github.com/annapogorelova/vue-go-top-button.git
+- npm 页面：https://www.npmjs.com/package/vue-go-top-button
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 0.0.1
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install vue-go-top-button`
+- npm registry：https://registry.npmjs.org/vue-go-top-button
+- Node 要求：>= 4.0.0

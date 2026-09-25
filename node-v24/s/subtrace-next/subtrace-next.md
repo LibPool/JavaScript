@@ -1,0 +1,27 @@
+# subtrace-next
+
+> 标签: JavaScript
+
+## 简介
+
+This package allows Next.js projects deployed on Vercel to use [Subtrace](https://github.com/subtrace/subtrace).
+
+## 官网
+
+- 官网：https://github.com/subtrace/subtrace#readme
+- 源码仓库：git+https://github.com/subtrace/subtrace.git
+- npm 页面：https://www.npmjs.com/package/subtrace-next
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install subtrace-next`
+- npm registry：https://registry.npmjs.org/subtrace-next

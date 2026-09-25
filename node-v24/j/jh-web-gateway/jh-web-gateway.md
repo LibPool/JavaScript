@@ -1,0 +1,29 @@
+# jh-web-gateway
+
+> 标签: JavaScript
+
+## 简介
+
+Standalone local HTTP server exposing an OpenAI-compatible API backed by the JH web platform
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/jh-web-gateway
+
+## 历史版本号
+
+- 当前版本：2.3.0
+
+- 1.0.0
+- 2.0.0
+- 2.0.1
+- 2.1.0
+- 2.1.1
+- 2.2.0
+- 2.3.0
+
+## 获取地址
+
+- npm 安装：`npm install jh-web-gateway`
+- npm registry：https://registry.npmjs.org/jh-web-gateway
+- Node 要求：>=22

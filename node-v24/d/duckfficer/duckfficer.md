@@ -1,0 +1,35 @@
+# duckfficer
+
+> 标签: cast, casting, duck, json, modeling, object, sanitize, schema, type, typing, validating, validation, validator, value
+
+## 简介
+
+Zero-dependencies, light-weight library for modeling, validating & sanitizing data
+
+## 官网
+
+- 官网：https://duckfficer.js.org
+- 源码仓库：git+https://github.com/devtin/duckfficer.git
+- npm 页面：https://www.npmjs.com/package/duckfficer
+
+## 历史版本号
+
+- 当前版本：2.5.0
+
+- 2.0.0
+- 2.1.0
+- 2.1.1
+- 2.2.0
+- 2.2.1
+- 2.2.2
+- 2.2.3
+- 2.2.4
+- 2.3.0
+- 2.4.0
+- 2.4.1
+- 2.5.0
+
+## 获取地址
+
+- npm 安装：`npm install duckfficer`
+- npm registry：https://registry.npmjs.org/duckfficer

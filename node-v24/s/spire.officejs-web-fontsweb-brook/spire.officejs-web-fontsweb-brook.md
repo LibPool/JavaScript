@@ -1,0 +1,22 @@
+# spire.officejs-web-fontsweb-brook
+
+> 标签: Spire.ExcelJS, Spire.OfficeJS, Spire.PresentationJS, Spire.WordJS, fonts, javascript, javascript excel, javascript presentation, javascript word
+
+## 简介
+
+The fontsweb package is one of the plug-ins for Spire.OfficeJS
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/spire.officejs-web-fontsweb-brook
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install spire.officejs-web-fontsweb-brook`
+- npm registry：https://registry.npmjs.org/spire.officejs-web-fontsweb-brook

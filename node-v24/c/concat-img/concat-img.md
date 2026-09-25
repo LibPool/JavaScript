@@ -1,0 +1,25 @@
+# concat-img
+
+> 标签: concat, concatenate, image, images
+
+## 简介
+
+Blazing fast, zero-dependency image merging library using TypedArray and ImageData.
+
+## 官网
+
+- 官网：https://github.com/minumarapid/concat-img#readme
+- 源码仓库：git+https://github.com/minumarapid/concat-img.git
+- npm 页面：https://www.npmjs.com/package/concat-img
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install concat-img`
+- npm registry：https://registry.npmjs.org/concat-img

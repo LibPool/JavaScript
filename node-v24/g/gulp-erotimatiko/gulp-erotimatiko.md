@@ -1,0 +1,24 @@
+# gulp-erotimatiko
+
+> 标签: erotimatiko, gulp
+
+## 简介
+
+Questionable
+
+## 官网
+
+- 官网：https://github.com/alexlrobertson/gulp-erotimatiko#readme
+- 源码仓库：git+https://github.com/alexlrobertson/gulp-erotimatiko.git
+- npm 页面：https://www.npmjs.com/package/gulp-erotimatiko
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install gulp-erotimatiko`
+- npm registry：https://registry.npmjs.org/gulp-erotimatiko

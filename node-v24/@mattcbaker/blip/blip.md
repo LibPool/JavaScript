@@ -1,0 +1,30 @@
+# @mattcbaker/blip
+
+> 标签: blip, http, https
+
+## 简介
+
+Blip is making Node HTTP(S) transactions a little more pleasant.
+
+## 官网
+
+- 官网：https://github.com/mattcbaker/blip#readme
+- 源码仓库：git+https://github.com/mattcbaker/blip.git
+- npm 页面：https://www.npmjs.com/package/@mattcbaker/blip
+
+## 历史版本号
+
+- 当前版本：1.0.6
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+
+## 获取地址
+
+- npm 安装：`npm install @mattcbaker/blip`
+- npm registry：https://registry.npmjs.org/@mattcbaker/blip

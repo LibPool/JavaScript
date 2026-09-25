@@ -1,0 +1,26 @@
+# wtfsdp
+
+> 标签: JavaScript
+
+## 简介
+
+SDP parser, high level helpers, and explainer
+
+## 官网
+
+- 官网：https://github.com/luma/wtfsdp#readme
+- 源码仓库：git://github.com/luma/wtfsdp.git
+- npm 页面：https://www.npmjs.com/package/wtfsdp
+
+## 历史版本号
+
+- 当前版本：1.0.0-pre.1
+
+- 1.0.0-pre.0
+- 1.0.0-pre.1
+
+## 获取地址
+
+- npm 安装：`npm install wtfsdp`
+- npm registry：https://registry.npmjs.org/wtfsdp
+- Node 要求：>=5.0.0

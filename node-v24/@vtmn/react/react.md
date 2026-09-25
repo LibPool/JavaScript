@@ -1,0 +1,36 @@
+# @vtmn/react
+
+> 标签: design-system, libraries, react, ui-kit, vitamin
+
+## 简介
+
+Decathlon Design System - Vitamin React components library
+
+## 官网
+
+- 官网：https://github.com/Decathlon/vitamin-web/tree/main/packages/sources/react
+- 源码仓库：git+https://github.com/Decathlon/vitamin-web.git
+- npm 页面：https://www.npmjs.com/package/@vtmn/react
+
+## 历史版本号
+
+- 当前版本：4.2.0
+
+- 3.1.0
+- 3.1.1
+- 3.1.2
+- 3.1.3
+- 3.1.4
+- 3.1.5
+- 3.1.6
+- 4.0.0
+- 4.0.1
+- 4.1.0
+- 4.1.1
+- 4.2.0
+- 共 321 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @vtmn/react`
+- npm registry：https://registry.npmjs.org/@vtmn/react

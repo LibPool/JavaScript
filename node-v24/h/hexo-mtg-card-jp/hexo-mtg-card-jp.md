@@ -1,0 +1,28 @@
+# hexo-mtg-card-jp
+
+> 标签: blog, hexo, mtg, website
+
+## 简介
+
+Auto-markup M;tG card name.
+
+## 官网
+
+- 官网：https://github.com/naokiy/hexo-mtg-card-jp
+- 源码仓库：https://github.com/naokiy/hexo-mtg-card-jp
+- npm 页面：https://www.npmjs.com/package/hexo-mtg-card-jp
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install hexo-mtg-card-jp`
+- npm registry：https://registry.npmjs.org/hexo-mtg-card-jp

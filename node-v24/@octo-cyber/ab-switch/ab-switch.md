@@ -1,0 +1,25 @@
+# @octo-cyber/ab-switch
+
+> 标签: JavaScript
+
+## 简介
+
+Octo A/B testing framework — experiment definition, traffic allocation, event tracking, and statistical significance
+
+## 官网
+
+- 官网：https://github.com/jefflower/octo-ab-switch#readme
+- 源码仓库：git+https://github.com/jefflower/octo-ab-switch.git
+- npm 页面：https://www.npmjs.com/package/@octo-cyber/ab-switch
+
+## 历史版本号
+
+- 当前版本：0.5.2
+
+- 0.5.0
+- 0.5.2
+
+## 获取地址
+
+- npm 安装：`npm install @octo-cyber/ab-switch`
+- npm registry：https://registry.npmjs.org/@octo-cyber/ab-switch

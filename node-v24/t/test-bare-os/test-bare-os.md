@@ -1,0 +1,26 @@
+# test-bare-os
+
+> 标签: JavaScript
+
+## 简介
+
+Operating system utilities for Javascript
+
+## 官网
+
+- 官网：https://github.com/mafintosh/test-bare-os#readme
+- 源码仓库：git+https://github.com/mafintosh/test-bare-os.git
+- npm 页面：https://www.npmjs.com/package/test-bare-os
+
+## 历史版本号
+
+- 当前版本：3.8.3
+
+- 3.8.0
+- 3.8.2
+- 3.8.3
+
+## 获取地址
+
+- npm 安装：`npm install test-bare-os`
+- npm registry：https://registry.npmjs.org/test-bare-os

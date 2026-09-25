@@ -1,0 +1,23 @@
+# agile-sentinel-mcp
+
+> 标签: agile, analysis, backlog, cli, mcp, notion, scrum, sprint, technical-debt
+
+## 简介
+
+Transform technical analysis into structured agile tasks with CLI and MCP Server support
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/agile-sentinel-mcp
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install agile-sentinel-mcp`
+- npm registry：https://registry.npmjs.org/agile-sentinel-mcp
+- Node 要求：>=18.0.0

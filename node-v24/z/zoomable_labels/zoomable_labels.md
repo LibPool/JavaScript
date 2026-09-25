@@ -1,0 +1,29 @@
+# zoomable_labels
+
+> 标签: yeoman-generator
+
+## 简介
+
+Labels that show and hide themselves when zooming into or out of a plot.
+
+## 官网
+
+- 官网：https://github.com/pkerpedjiev/generator-webpack-es6#readme
+- 源码仓库：git+https://github.com/pkerpedjiev/generator-webpack-es6.git
+- npm 页面：https://www.npmjs.com/package/zoomable_labels
+
+## 历史版本号
+
+- 当前版本：0.1.4
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+
+## 获取地址
+
+- npm 安装：`npm install zoomable_labels`
+- npm registry：https://registry.npmjs.org/zoomable_labels
+- Node 要求：>=0.12.0

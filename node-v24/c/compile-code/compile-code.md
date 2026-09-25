@@ -1,0 +1,28 @@
+# compile-code
+
+> 标签: compile, compiler, online-compiler
+
+## 简介
+
+A module to compile code from different languages using NodeJS. Useful for making online compilers
+
+## 官网
+
+- 官网：https://github.com/Rex1911/compile-code#readme
+- 源码仓库：git+https://github.com/Rex1911/compile-code.git
+- npm 页面：https://www.npmjs.com/package/compile-code
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install compile-code`
+- npm registry：https://registry.npmjs.org/compile-code

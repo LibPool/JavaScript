@@ -1,0 +1,36 @@
+# @swissquote/crafty-runner-rspack
+
+> 标签: JavaScript
+
+## 简介
+
+Rspack is an asset bundler, its purpose is to compile your JavaScript code to be the most efficient possible for production.
+
+## 官网
+
+- 官网：https://github.com/swissquote/crafty#readme
+- 源码仓库：git+https://github.com/swissquote/crafty.git
+- npm 页面：https://www.npmjs.com/package/@swissquote/crafty-runner-rspack
+
+## 历史版本号
+
+- 当前版本：1.30.3
+
+- 1.29.1-beta.2
+- 1.29.1-beta.3
+- 1.29.1-beta.4
+- 1.29.1-beta.5
+- 1.29.1-beta.6
+- 1.29.1-beta.7
+- 1.30.0
+- 1.30.1
+- 1.30.2
+- 1.30.2-beta.1
+- 1.30.3
+- 1.30.3-beta.1
+
+## 获取地址
+
+- npm 安装：`npm install @swissquote/crafty-runner-rspack`
+- npm registry：https://registry.npmjs.org/@swissquote/crafty-runner-rspack
+- Node 要求：>=22.12

@@ -1,0 +1,23 @@
+# ethereum-bloom-filter
+
+> 标签: JavaScript
+
+## 简介
+
+tests simple
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/ethereum-bloom-filter
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install ethereum-bloom-filter`
+- npm registry：https://registry.npmjs.org/ethereum-bloom-filter
+- Node 要求：>= 18

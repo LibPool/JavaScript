@@ -1,0 +1,36 @@
+# grapholscape
+
+> 标签: Graphol, OWL, Ontology
+
+## 简介
+
+ontology visualization
+
+## 官网
+
+- 官网：https://github.com/obdasystems/grapholscape#readme
+- 源码仓库：git+https://github.com/obdasystems/grapholscape.git
+- npm 页面：https://www.npmjs.com/package/grapholscape
+
+## 历史版本号
+
+- 当前版本：4.1.2
+
+- 4.0.13-snap.9
+- 4.0.9
+- 4.1.0
+- 4.1.1
+- 4.1.1-snap.0
+- 4.1.1-snap.1
+- 4.1.1-snap.2
+- 4.1.1-snap.3
+- 4.1.1-snap.4
+- 4.1.1-snap.5
+- 4.1.1-snap.6
+- 4.1.2
+- 共 120 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install grapholscape`
+- npm registry：https://registry.npmjs.org/grapholscape

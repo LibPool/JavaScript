@@ -1,0 +1,25 @@
+# smartswap-universal-router1
+
+> 标签: router, swap router, universal router
+
+## 简介
+
+Smart contracts for Universal Router
+
+## 官网
+
+- 官网：https://github.com/JRaghu842/smartswap-universal-router#readme
+- 源码仓库：git+https://github.com/JRaghu842/smartswap-universal-router.git
+- npm 页面：https://www.npmjs.com/package/smartswap-universal-router1
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install smartswap-universal-router1`
+- npm registry：https://registry.npmjs.org/smartswap-universal-router1
+- Node 要求：>=14

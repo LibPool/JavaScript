@@ -1,0 +1,35 @@
+# @locdo.tech/botiq-chat-sdk
+
+> 标签: ai, botiq, chatbot, customer-support, react, vue, widget
+
+## 简介
+
+BotIQ chat widget SDK — embed AI chatbot into any website with vanilla JS, React, or Vue.
+
+## 官网
+
+- 官网：https://botiq.vn
+- 源码仓库：git+https://github.com/locdo-tech/botiq.git
+- npm 页面：https://www.npmjs.com/package/@locdo.tech/botiq-chat-sdk
+
+## 历史版本号
+
+- 当前版本：0.9.0
+
+- 0.6.0
+- 0.7.0
+- 0.8.0
+- 0.8.1
+- 0.8.2
+- 0.8.3
+- 0.8.4
+- 0.8.5
+- 0.8.6
+- 0.8.7
+- 0.8.8
+- 0.9.0
+
+## 获取地址
+
+- npm 安装：`npm install @locdo.tech/botiq-chat-sdk`
+- npm registry：https://registry.npmjs.org/@locdo.tech/botiq-chat-sdk

@@ -1,0 +1,28 @@
+# csm-commlib-model
+
+> 标签: CTI Provider, Communication Library, Data Model
+
+## 简介
+
+Client library for communication with Communication Providers like Twilio, SendBird, AWS Connect etc.
+
+## 官网
+
+- 官网：https://github.com/chengkunkang/csm-commlib-model#readme
+- 源码仓库：git+https://github.com/chengkunkang/csm-commlib-model.git
+- npm 页面：https://www.npmjs.com/package/csm-commlib-model
+
+## 历史版本号
+
+- 当前版本：0.0.5
+
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+
+## 获取地址
+
+- npm 安装：`npm install csm-commlib-model`
+- npm registry：https://registry.npmjs.org/csm-commlib-model
+- Node 要求：>=8.9

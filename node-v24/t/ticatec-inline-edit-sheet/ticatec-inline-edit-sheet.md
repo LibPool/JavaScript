@@ -1,0 +1,26 @@
+# ticatec-inline-edit-sheet
+
+> 标签: JavaScript
+
+## 简介
+
+表格编辑器
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/ticatec-inline-edit-sheet
+
+## 历史版本号
+
+- 当前版本：0.0.5
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+
+## 获取地址
+
+- npm 安装：`npm install ticatec-inline-edit-sheet`
+- npm registry：https://registry.npmjs.org/ticatec-inline-edit-sheet

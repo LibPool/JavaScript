@@ -1,0 +1,26 @@
+# z-web-audio-stream-cli
+
+> 标签: audio-worklet, cli, deploy, instant-playback, ios-safari, web-audio
+
+## 简介
+
+CLI tool for deploying Web Audio Stream worklet files with instant playback support
+
+## 官网
+
+- 官网：https://github.com/ZachHandley/WebAudioStream#readme
+- 源码仓库：git+https://github.com/ZachHandley/WebAudioStream.git
+- npm 页面：https://www.npmjs.com/package/z-web-audio-stream-cli
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install z-web-audio-stream-cli`
+- npm registry：https://registry.npmjs.org/z-web-audio-stream-cli

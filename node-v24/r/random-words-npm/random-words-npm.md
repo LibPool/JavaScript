@@ -1,0 +1,24 @@
+# random-words-npm
+
+> 标签: discord.js, random, randomWord, words
+
+## 简介
+
+get  random  characters words
+
+## 官网
+
+- 官网：https://github.com/DreamBoy65/random-words-npm#readme
+- 源码仓库：git+https://github.com/DreamBoy65/random-words-npm.git
+- npm 页面：https://www.npmjs.com/package/random-words-npm
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install random-words-npm`
+- npm registry：https://registry.npmjs.org/random-words-npm

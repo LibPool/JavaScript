@@ -1,0 +1,30 @@
+# @resolute/coerce
+
+> 标签: coerce, input, sanitization, types, validation
+
+## 简介
+
+Coerce input to types and formats with sanitizers and validators.
+
+## 官网
+
+- 官网：https://github.com/resolute/coerce
+- 源码仓库：git+https://github.com/resolute/coerce.git
+- npm 页面：https://www.npmjs.com/package/@resolute/coerce
+
+## 历史版本号
+
+- 当前版本：0.0.6
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+
+## 获取地址
+
+- npm 安装：`npm install @resolute/coerce`
+- npm registry：https://registry.npmjs.org/@resolute/coerce
+- Node 要求：>=14.0.0

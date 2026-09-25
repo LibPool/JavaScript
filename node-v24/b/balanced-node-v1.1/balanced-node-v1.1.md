@@ -1,0 +1,25 @@
+# balanced-node-v1.1
+
+> 标签: balanced, payments
+
+## 简介
+
+Offical Balanced Payments API Client for node.js, https://www.balancedpayments.com/docs/api
+
+## 官网
+
+- 官网：https://github.com/josebalius/balanced-node-new
+- 源码仓库：https://github.com/josebalius/balanced-node-new.git
+- npm 页面：https://www.npmjs.com/package/balanced-node-v1.1
+
+## 历史版本号
+
+- 当前版本：0.5.0
+
+- 0.5.0
+
+## 获取地址
+
+- npm 安装：`npm install balanced-node-v1.1`
+- npm registry：https://registry.npmjs.org/balanced-node-v1.1
+- Node 要求：>= 0.8.0

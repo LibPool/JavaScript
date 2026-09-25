@@ -1,0 +1,29 @@
+# kz-sop
+
+> 标签: agents, ai-coding, claude-code, codex, controlled-ai-coding, scaffold, skills, sop, superpowers
+
+## 简介
+
+Kizai's project-level AI Coding SOP toolkit for controlled agent workflow governance.
+
+## 官网
+
+- 官网：https://github.com/Kizai/kz-ai-coding-sop#readme
+- 源码仓库：git+https://github.com/Kizai/kz-ai-coding-sop.git
+- npm 页面：https://www.npmjs.com/package/kz-sop
+
+## 历史版本号
+
+- 当前版本：0.1.5
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+
+## 获取地址
+
+- npm 安装：`npm install kz-sop`
+- npm registry：https://registry.npmjs.org/kz-sop

@@ -1,0 +1,32 @@
+# tennu-dblogger
+
+> 标签: JavaScript
+
+## 简介
+
+A database logging plugin for the tennu IRC framework.
+
+## 官网
+
+- 官网：https://github.com/Tennu/tennu-dblogger#readme
+- 源码仓库：git+https://github.com/Tennu/tennu-dblogger.git
+- npm 页面：https://www.npmjs.com/package/tennu-dblogger
+
+## 历史版本号
+
+- 当前版本：3.0.1
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.8
+- 3.0.0
+- 3.0.1
+
+## 获取地址
+
+- npm 安装：`npm install tennu-dblogger`
+- npm registry：https://registry.npmjs.org/tennu-dblogger

@@ -1,0 +1,25 @@
+# hide-ip
+
+> 标签: addresses, anonymize, hide-ip, ip, ipv4, ipv6, mask, privacy, security
+
+## 简介
+
+Mask IPv4 and IPv6 addresses with custom masking levels and characters.
+
+## 官网
+
+- 官网：https://github.com/IMJNMHTODRLA/hide-ip
+- 源码仓库：git+ssh://git@github.com/IMJNMHTODRLA/hide-ip.git
+- npm 页面：https://www.npmjs.com/package/hide-ip
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install hide-ip`
+- npm registry：https://registry.npmjs.org/hide-ip

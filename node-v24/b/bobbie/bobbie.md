@@ -1,0 +1,29 @@
+# bobbie
+
+> 标签: JavaScript
+
+## 简介
+
+A set of common functions used in various Snappy Gifts projects. Edit
+
+## 官网
+
+- 官网：https://github.com/SnappyGifts/bobbie#readme
+- 源码仓库：git+https://github.com/SnappyGifts/bobbie.git
+- npm 页面：https://www.npmjs.com/package/bobbie
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install bobbie`
+- npm registry：https://registry.npmjs.org/bobbie

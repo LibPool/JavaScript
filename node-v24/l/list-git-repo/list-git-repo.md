@@ -1,0 +1,28 @@
+# list-git-repo
+
+> 标签: JavaScript
+
+## 简介
+
+Module for listing git repository
+
+## 官网
+
+- 官网：https://github.com/johnlenonmaghanoy/list-git-repo#readme
+- 源码仓库：git+https://github.com/johnlenonmaghanoy/list-git-repo.git
+- npm 页面：https://www.npmjs.com/package/list-git-repo
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install list-git-repo`
+- npm registry：https://registry.npmjs.org/list-git-repo

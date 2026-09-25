@@ -1,0 +1,25 @@
+# openisd-mcp
+
+> 标签: audio-engineering, loudspeaker, mcp, model-context-protocol, openisd, speaker-design, thiele-small
+
+## 简介
+
+MCP server for the OpenISD Thiele-Small loudspeaker physics engine
+
+## 官网
+
+- 官网：https://github.com/OddieDank/openisd-mcp#readme
+- 源码仓库：git+https://github.com/OddieDank/openisd-mcp.git
+- npm 页面：https://www.npmjs.com/package/openisd-mcp
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install openisd-mcp`
+- npm registry：https://registry.npmjs.org/openisd-mcp
+- Node 要求：>=20

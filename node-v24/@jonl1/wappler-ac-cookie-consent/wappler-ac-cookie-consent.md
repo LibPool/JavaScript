@@ -1,0 +1,22 @@
+# @jonl1/wappler-ac-cookie-consent
+
+> 标签: app connect, cookie consent, wappler-extension
+
+## 简介
+
+App Connect extension that wraps Cookie Consent library
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@jonl1/wappler-ac-cookie-consent
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @jonl1/wappler-ac-cookie-consent`
+- npm registry：https://registry.npmjs.org/@jonl1/wappler-ac-cookie-consent

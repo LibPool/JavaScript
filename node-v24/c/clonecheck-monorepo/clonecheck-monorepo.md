@@ -1,0 +1,23 @@
+# clonecheck-monorepo
+
+> 标签: cli, developer-experience, github-action, readme, repository
+
+## 简介
+
+Know if your repo is actually cloneable.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/clonecheck-monorepo
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install clonecheck-monorepo`
+- npm registry：https://registry.npmjs.org/clonecheck-monorepo
+- Node 要求：>=20

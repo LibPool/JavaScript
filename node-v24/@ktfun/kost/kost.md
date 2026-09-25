@@ -1,0 +1,25 @@
+# @ktfun/kost
+
+> 标签: cli, cloudflare, http, localhost, tunnel, websocket
+
+## 简介
+
+fork of hostc, add subdomain option without account system
+
+## 官网
+
+- 官网：https://hostc.dev
+- 源码仓库：git+https://github.com/akazwz/hostc.git
+- npm 页面：https://www.npmjs.com/package/@ktfun/kost
+
+## 历史版本号
+
+- 当前版本：1.2.1
+
+- 1.2.1
+
+## 获取地址
+
+- npm 安装：`npm install @ktfun/kost`
+- npm registry：https://registry.npmjs.org/@ktfun/kost
+- Node 要求：>=18

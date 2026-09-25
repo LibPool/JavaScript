@@ -1,0 +1,22 @@
+# hl7.fhir.uv.smart-health-cards-and-links
+
+> 标签: JavaScript
+
+## 简介
+
+FHIR Implementation Guide for SMART Health Cards and Links (built Tue, Jul 22, 2025 13:19+0000+00:00)
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/hl7.fhir.uv.smart-health-cards-and-links
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install hl7.fhir.uv.smart-health-cards-and-links`
+- npm registry：https://registry.npmjs.org/hl7.fhir.uv.smart-health-cards-and-links

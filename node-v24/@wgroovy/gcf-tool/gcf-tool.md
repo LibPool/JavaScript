@@ -1,0 +1,34 @@
+# @wgroovy/gcf-tool
+
+> 标签: function-data-action, genesys, genesys-cloud
+
+## 简介
+
+Deploy Genesys Functions to a specified Genesys org, with support for bulk operations.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@wgroovy/gcf-tool
+
+## 历史版本号
+
+- 当前版本：1.3.8
+
+- 1.1.6
+- 1.1.7
+- 1.2.0
+- 1.2.1
+- 1.3.1
+- 1.3.2
+- 1.3.3
+- 1.3.4
+- 1.3.5
+- 1.3.6
+- 1.3.7
+- 1.3.8
+
+## 获取地址
+
+- npm 安装：`npm install @wgroovy/gcf-tool`
+- npm registry：https://registry.npmjs.org/@wgroovy/gcf-tool
+- Node 要求：>=22

@@ -1,0 +1,35 @@
+# alphapolls
+
+> 标签: api, polling
+
+## 简介
+
+polling api
+
+## 官网
+
+- 官网：https://github.com/umran/alphapolls#readme
+- 源码仓库：git+https://github.com/umran/alphapolls.git
+- npm 页面：https://www.npmjs.com/package/alphapolls
+
+## 历史版本号
+
+- 当前版本：1.3.0
+
+- 1.1.4
+- 1.1.5
+- 1.1.6
+- 1.1.7
+- 1.1.8
+- 1.1.9
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.2.3
+- 1.2.4
+- 1.3.0
+
+## 获取地址
+
+- npm 安装：`npm install alphapolls`
+- npm registry：https://registry.npmjs.org/alphapolls

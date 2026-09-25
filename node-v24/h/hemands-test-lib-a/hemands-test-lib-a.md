@@ -1,0 +1,22 @@
+# hemands-test-lib-a
+
+> 标签: JavaScript
+
+## 简介
+
+Test package that depends on hemands-test-foo
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/hemands-test-lib-a
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install hemands-test-lib-a`
+- npm registry：https://registry.npmjs.org/hemands-test-lib-a

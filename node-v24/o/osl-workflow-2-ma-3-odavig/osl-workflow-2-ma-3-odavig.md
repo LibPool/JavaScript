@@ -1,0 +1,26 @@
+# osl-workflow-2-ma-3-odavig
+
+> 标签: JavaScript
+
+## 简介
+
+<img src="./.readme/noroff-light.png" width="160" align="right">
+
+## 官网
+
+- 官网：https://github.com/Noroff-Fagskole/osl-workflow-2-ma-3-odavig#readme
+- 源码仓库：git+https://github.com/Noroff-Fagskole/osl-workflow-2-ma-3-odavig.git
+- npm 页面：https://www.npmjs.com/package/osl-workflow-2-ma-3-odavig
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install osl-workflow-2-ma-3-odavig`
+- npm registry：https://registry.npmjs.org/osl-workflow-2-ma-3-odavig

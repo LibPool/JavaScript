@@ -1,0 +1,34 @@
+# discoda
+
+> 标签: bot, commands, discord, discordjs, djs, framework, handler, slash commands, typescript
+
+## 简介
+
+Discord.js framework to build your bot more efficiently with more focus on what really matters, rather than boilerplate code
+
+## 官网
+
+- 官网：https://github.com/PannH/discoda#readme
+- 源码仓库：git+https://github.com/PannH/discoda.git
+- npm 页面：https://www.npmjs.com/package/discoda
+
+## 历史版本号
+
+- 当前版本：1.1.9
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.1.4
+- 1.1.5
+- 1.1.6
+- 1.1.7
+- 1.1.8
+- 1.1.9
+
+## 获取地址
+
+- npm 安装：`npm install discoda`
+- npm registry：https://registry.npmjs.org/discoda

@@ -1,0 +1,25 @@
+# @nuitral/icons
+
+> 标签: Icons, nuitral
+
+## 简介
+
+nuitral - Icons
+
+## 官网
+
+- 官网：https://github.com/nuitral/icons#readme
+- 源码仓库：git+https://github.com/nuitral/icons.git
+- npm 页面：https://www.npmjs.com/package/@nuitral/icons
+
+## 历史版本号
+
+- 当前版本：0.0.1-alpha.2
+
+- 0.0.1-alpha.1
+- 0.0.1-alpha.2
+
+## 获取地址
+
+- npm 安装：`npm install @nuitral/icons`
+- npm registry：https://registry.npmjs.org/@nuitral/icons

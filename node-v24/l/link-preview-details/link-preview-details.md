@@ -1,0 +1,31 @@
+# link-preview-details
+
+> 标签: fix fail to launch browser, for linux, link, link-details, link-preview, no sandbox, nodejs, preview, puppeteer, scraper
+
+## 简介
+
+A Node.js module for generating link previews using Puppeteer.
+
+## 官网
+
+- 官网：https://github.com/charonyuu/link-preview-details#readme
+- 源码仓库：git+https://github.com/charonyuu/link-preview-details.git
+- npm 页面：https://www.npmjs.com/package/link-preview-details
+
+## 历史版本号
+
+- 当前版本：1.0.7
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+
+## 获取地址
+
+- npm 安装：`npm install link-preview-details`
+- npm registry：https://registry.npmjs.org/link-preview-details

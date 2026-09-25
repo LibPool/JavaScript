@@ -1,0 +1,25 @@
+# @siteai/commerce-astro
+
+> 标签: JavaScript
+
+## 简介
+
+@siteai/commerce-astro - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/BUILD3R-Dev/vibecontrol#readme
+- 源码仓库：git+https://github.com/BUILD3R-Dev/vibecontrol.git
+- npm 页面：https://www.npmjs.com/package/@siteai/commerce-astro
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.0
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @siteai/commerce-astro`
+- npm registry：https://registry.npmjs.org/@siteai/commerce-astro

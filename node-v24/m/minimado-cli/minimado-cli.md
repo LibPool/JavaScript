@@ -1,0 +1,24 @@
+# minimado-cli
+
+> 标签: cli, minimado, productivity, tasks, todo
+
+## 简介
+
+A CLI tool for managing Minimado tasks from the command line
+
+## 官网
+
+- 官网：https://github.com/ziadh/minimado-cli#readme
+- 源码仓库：git+https://github.com/ziadh/minimado-cli.git
+- npm 页面：https://www.npmjs.com/package/minimado-cli
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install minimado-cli`
+- npm registry：https://registry.npmjs.org/minimado-cli

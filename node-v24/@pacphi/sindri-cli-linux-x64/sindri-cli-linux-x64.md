@@ -1,0 +1,26 @@
+# @pacphi/sindri-cli-linux-x64
+
+> 标签: JavaScript
+
+## 简介
+
+Sindri CLI binary — Linux x64
+
+## 官网
+
+- 官网：https://github.com/pacphi/sindri#readme
+- 源码仓库：git+https://github.com/pacphi/sindri.git
+- npm 页面：https://www.npmjs.com/package/@pacphi/sindri-cli-linux-x64
+
+## 历史版本号
+
+- 当前版本：3.1.3
+
+- 3.1.2
+- 3.1.3
+
+## 获取地址
+
+- npm 安装：`npm install @pacphi/sindri-cli-linux-x64`
+- npm registry：https://registry.npmjs.org/@pacphi/sindri-cli-linux-x64
+- Node 要求：>=24

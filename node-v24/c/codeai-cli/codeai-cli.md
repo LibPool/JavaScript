@@ -1,0 +1,25 @@
+# codeai-cli
+
+> 标签: ai, assistant, chat, cli, code, coding, deepseek, gemini, ollama, openai, productivity, terminal
+
+## 简介
+
+AI coding assistant for your terminal — powered by Ollama, Gemini, DeepSeek & OpenAI. Write, refactor, debug, and run commands via natural language.
+
+## 官网
+
+- 官网：https://github.com/chanpiseth/codeai#readme
+- 源码仓库：git+https://github.com/chanpiseth/codeai.git
+- npm 页面：https://www.npmjs.com/package/codeai-cli
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install codeai-cli`
+- npm registry：https://registry.npmjs.org/codeai-cli
+- Node 要求：>=18.0.0

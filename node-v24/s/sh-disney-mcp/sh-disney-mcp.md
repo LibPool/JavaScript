@@ -1,0 +1,27 @@
+# sh-disney-mcp
+
+> 标签: mcp, sh-disney-mcp, sh-disney-ticket, sh-disney-ticket-mcp, shanghai-disney-mcp-server
+
+## 简介
+
+sh-disney-mcp
+
+## 官网
+
+- 官网：https://github.com/syyuan14/sh-disney-mcp#readme
+- 源码仓库：git+https://github.com/syyuan14/sh-disney-mcp.git
+- npm 页面：https://www.npmjs.com/package/sh-disney-mcp
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0-beta
+- 0.1.1
+- 0.1.1-beta
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install sh-disney-mcp`
+- npm registry：https://registry.npmjs.org/sh-disney-mcp

@@ -1,0 +1,26 @@
+# @melsicon-de/nanook-runner
+
+> 标签: JavaScript
+
+## 简介
+
+Runner for Nanook test data
+
+## 官网
+
+- 官网：https://github.com/marvinbernd/nanook-runner#readme
+- 源码仓库：git+https://github.com/marvinbernd/nanook-runner.git
+- npm 页面：https://www.npmjs.com/package/@melsicon-de/nanook-runner
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @melsicon-de/nanook-runner`
+- npm registry：https://registry.npmjs.org/@melsicon-de/nanook-runner

@@ -1,0 +1,23 @@
+# @knnect/mock-oas
+
+> 标签: JavaScript
+
+## 简介
+
+Mock multiple OAS
+
+## 官网
+
+- 官网：https://github.com/tmkasun/prism-multi-oas-server#readme
+- npm 页面：https://www.npmjs.com/package/@knnect/mock-oas
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @knnect/mock-oas`
+- npm registry：https://registry.npmjs.org/@knnect/mock-oas

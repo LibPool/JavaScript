@@ -1,0 +1,22 @@
+# 5oqfmp
+
+> 标签: JavaScript
+
+## 简介
+
+5oqfmp
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/5oqfmp
+
+## 历史版本号
+
+- 当前版本：2.3.1
+
+- 2.3.1
+
+## 获取地址
+
+- npm 安装：`npm install 5oqfmp`
+- npm registry：https://registry.npmjs.org/5oqfmp

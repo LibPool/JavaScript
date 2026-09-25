@@ -1,0 +1,25 @@
+# porter-keywords
+
+> 标签: keywords, porter, stemmer
+
+## 简介
+
+Extracts (n) most frequent stemmed keywords of a given text.
+
+## 官网
+
+- 官网：https://github.com/avivklas/porter-keywords
+- 源码仓库：git://github.com/avivklas/porter-keywords.git
+- npm 页面：https://www.npmjs.com/package/porter-keywords
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install porter-keywords`
+- npm registry：https://registry.npmjs.org/porter-keywords

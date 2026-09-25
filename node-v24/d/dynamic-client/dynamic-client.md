@@ -1,0 +1,24 @@
+# dynamic-client
+
+> 标签: api, client, open
+
+## 简介
+
+Dynamic JavaScript Client for APIs that have an OpenAPI Definition. Emphasis on Easy Navigation of API Paths.
+
+## 官网
+
+- 官网：https://github.com/DanielJDufour/dynamic-client#readme
+- 源码仓库：git+https://github.com/DanielJDufour/dynamic-client.git
+- npm 页面：https://www.npmjs.com/package/dynamic-client
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install dynamic-client`
+- npm registry：https://registry.npmjs.org/dynamic-client

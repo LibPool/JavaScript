@@ -1,0 +1,22 @@
+# ipym7yupnj60fp
+
+> 标签: JavaScript
+
+## 简介
+
+ipym7yupnj60fp - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/ipym7yupnj60fp
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install ipym7yupnj60fp`
+- npm registry：https://registry.npmjs.org/ipym7yupnj60fp

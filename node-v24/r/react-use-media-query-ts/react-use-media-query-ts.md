@@ -1,0 +1,26 @@
+# react-use-media-query-ts
+
+> 标签: hook, hooks, match, match media, matchmedia, media, media query, mediaquery, query, react, ts, typescript
+
+## 简介
+
+React custom hook for match Media queries with Typescript support
+
+## 官网
+
+- 官网：https://github.com/thatsprettyfaroutman/react-use-media-query-ts#readme
+- 源码仓库：git+https://github.com/thatsprettyfaroutman/react-use-media-query-ts.git
+- npm 页面：https://www.npmjs.com/package/react-use-media-query-ts
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 0.0.1
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install react-use-media-query-ts`
+- npm registry：https://registry.npmjs.org/react-use-media-query-ts

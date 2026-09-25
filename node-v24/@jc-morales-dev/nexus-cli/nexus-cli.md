@@ -1,0 +1,25 @@
+# @jc-morales-dev/nexus-cli
+
+> 标签: ai, cli, coding-agent, llm, openrouter, terminal
+
+## 简介
+
+NEXUS — un CLI de coding con IA sin suscripción. Traé tu propia API key de OpenRouter y usá modelos gratuitos o de pago.
+
+## 官网
+
+- 官网：https://github.com/jc-morales-dev/nexus-cli#readme
+- 源码仓库：git+https://github.com/jc-morales-dev/nexus-cli.git
+- npm 页面：https://www.npmjs.com/package/@jc-morales-dev/nexus-cli
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @jc-morales-dev/nexus-cli`
+- npm registry：https://registry.npmjs.org/@jc-morales-dev/nexus-cli
+- Node 要求：>=16

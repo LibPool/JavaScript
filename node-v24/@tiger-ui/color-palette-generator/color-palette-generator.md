@@ -1,0 +1,30 @@
+# @tiger-ui/color-palette-generator
+
+> 标签: color-generator, color-palette, colors, css-colors, theming
+
+## 简介
+
+Install the package in your project directory with: ### npm: ``` npm install @tiger-ui/color-palette-generator ``` ### yarn: ``` yarn add @tiger-ui/color-palette-generator ```
+
+## 官网
+
+- 官网：https://github.com/xenobreach/tiger-ui#readme
+- 源码仓库：git+https://github.com/xenobreach/tiger-ui.git
+- npm 页面：https://www.npmjs.com/package/@tiger-ui/color-palette-generator
+
+## 历史版本号
+
+- 当前版本：2.0.2
+
+- 0.0.1
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 2.0.0
+- 2.0.1
+- 2.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @tiger-ui/color-palette-generator`
+- npm registry：https://registry.npmjs.org/@tiger-ui/color-palette-generator

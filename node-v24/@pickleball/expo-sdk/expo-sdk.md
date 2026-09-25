@@ -1,0 +1,29 @@
+# @pickleball/expo-sdk
+
+> 标签: expo, livestream, pickleball, react-native, rtmp, video
+
+## 简介
+
+RTMP livestream engine, camera-grant session provider, React hooks, ready-made camera UI, and Expo config plugin for Pickleball Live
+
+## 官网
+
+- 官网：https://github.com/Cabinfood/livestream-pickleball#readme
+- 源码仓库：git+https://github.com/Cabinfood/livestream-pickleball.git
+- npm 页面：https://www.npmjs.com/package/@pickleball/expo-sdk
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 0.1.1
+- 0.2.0
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @pickleball/expo-sdk`
+- npm registry：https://registry.npmjs.org/@pickleball/expo-sdk

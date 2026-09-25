@@ -1,0 +1,26 @@
+# less-plugin-semantic-ui
+
+> 标签: ecosystem:less, less mixins, less plugins, less prefixes, less-plugin, semantic-ui
+
+## 简介
+
+Lesshat mixins for less.js
+
+## 官网
+
+- 官网：https://github.com/bassjobsen/less-plugin-semantic-ui/
+- 源码仓库：https://github.com/bassjobsen/less-plugin-semantic-ui.git
+- npm 页面：https://www.npmjs.com/package/less-plugin-semantic-ui
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install less-plugin-semantic-ui`
+- npm registry：https://registry.npmjs.org/less-plugin-semantic-ui
+- Node 要求：>=0.4.2

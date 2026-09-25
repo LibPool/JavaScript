@@ -1,0 +1,24 @@
+# divulge.js
+
+> 标签: divulge
+
+## 简介
+
+trans reveal.js for study
+
+## 官网
+
+- 官网：https://github.com/toxic-johann/divulge.js#readme
+- 源码仓库：git+https://github.com/toxic-johann/divulge.js.git
+- npm 页面：https://www.npmjs.com/package/divulge.js
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install divulge.js`
+- npm registry：https://registry.npmjs.org/divulge.js

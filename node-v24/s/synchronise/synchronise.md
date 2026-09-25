@@ -1,0 +1,33 @@
+# synchronise
+
+> 标签: api, backend, cloud, component, cron, database, facebook, mailgun, task, workflow
+
+## 简介
+
+A wrapper to communicate with www.synchronise.io web service
+
+## 官网
+
+- 官网：https://github.com/synchroniseiorepo/node.js#readme
+- 源码仓库：git+ssh://git@github.com/synchroniseiorepo/node.js.git
+- npm 页面：https://www.npmjs.com/package/synchronise
+
+## 历史版本号
+
+- 当前版本：1.0.8
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+
+## 获取地址
+
+- npm 安装：`npm install synchronise`
+- npm registry：https://registry.npmjs.org/synchronise
+- Node 要求：*

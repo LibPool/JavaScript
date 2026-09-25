@@ -1,0 +1,31 @@
+# @threefold/pulumi
+
+> 标签: category/infrastructure, grid, kind/native, pulumi, threefold
+
+## 简介
+
+[![Integration tests](https://github.com/threefoldtech/pulumi-threefold/actions/workflows/integration.yaml/badge.svg?branch=development)](https://github.com/threefoldtech/pulumi-threefold/actions/workflows/integration.yaml) [![Lint](https://github.com/thr
+
+## 官网
+
+- 官网：https://www.pulumi.com
+- 源码仓库：git+https://github.com/threefoldtech/pulumi-threefold.git
+- npm 页面：https://www.npmjs.com/package/@threefold/pulumi
+
+## 历史版本号
+
+- 当前版本：0.8.2
+
+- 0.7.2
+- 0.7.4
+- 0.7.5
+- 0.7.6
+- 0.7.7
+- 0.8.0
+- 0.8.1
+- 0.8.2
+
+## 获取地址
+
+- npm 安装：`npm install @threefold/pulumi`
+- npm registry：https://registry.npmjs.org/@threefold/pulumi

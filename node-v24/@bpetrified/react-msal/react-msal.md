@@ -1,0 +1,26 @@
+# @bpetrified/react-msal
+
+> 标签: JavaScript
+
+## 简介
+
+@bpetrified/react-msal - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/bpetrified/react-shared-library#readme
+- 源码仓库：git+https://github.com/bpetrified/react-shared-library.git
+- npm 页面：https://www.npmjs.com/package/@bpetrified/react-msal
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @bpetrified/react-msal`
+- npm registry：https://registry.npmjs.org/@bpetrified/react-msal

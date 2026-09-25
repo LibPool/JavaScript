@@ -1,0 +1,31 @@
+# win-messenger
+
+> 标签: iframe, post, postmessage, typed, win-messenger, window, window-messenger, window.postMessage
+
+## 简介
+
+A typed wrapper to window postmessage
+
+## 官网
+
+- 官网：https://github.com/marcosvnmelo/win-messenger#readme
+- 源码仓库：git+https://github.com/marcosvnmelo/win-messenger.git
+- npm 页面：https://www.npmjs.com/package/win-messenger
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install win-messenger`
+- npm registry：https://registry.npmjs.org/win-messenger

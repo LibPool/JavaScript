@@ -1,0 +1,35 @@
+# jwa
+
+> 标签: ecdsa, hmac, jwa, jws, jwt, rsa
+
+## 简介
+
+JWA implementation (supports all JWS algorithms)
+
+## 官网
+
+- 官网：https://github.com/brianloveswords/node-jwa#readme
+- 源码仓库：git://github.com/brianloveswords/node-jwa.git
+- npm 页面：https://www.npmjs.com/package/jwa
+
+## 历史版本号
+
+- 当前版本：2.0.1
+
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.1.6
+- 1.2.0
+- 1.3.0
+- 1.4.0
+- 1.4.1
+- 1.4.2
+- 2.0.0
+- 2.0.1
+
+## 获取地址
+
+- npm 安装：`npm install jwa`
+- npm registry：https://registry.npmjs.org/jwa

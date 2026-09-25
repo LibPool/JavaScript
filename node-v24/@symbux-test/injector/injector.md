@@ -1,0 +1,25 @@
+# @symbux-test/injector
+
+> 标签: decorator, dependecy, injection, injector, typescript
+
+## 简介
+
+A dependency injector module for typescript using decorators.
+
+## 官网
+
+- 官网：https://github.com/Symbux/Core-Test/tree/main/packages/injector#readme
+- 源码仓库：git+https://github.com/Symbux/Core-Test.git
+- npm 页面：https://www.npmjs.com/package/@symbux-test/injector
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @symbux-test/injector`
+- npm registry：https://registry.npmjs.org/@symbux-test/injector

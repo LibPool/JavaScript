@@ -1,0 +1,33 @@
+# react-grid-preset
+
+> 标签: JavaScript
+
+## 简介
+
+Create React App을 typescript로 설치해서, 해당 npm 모듈을 사용하도록 한다.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/react-grid-preset
+
+## 历史版本号
+
+- 当前版本：0.1.18
+
+- 0.1.15
+- 0.1.16
+- 0.1.17
+- 0.1.18
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install react-grid-preset`
+- npm registry：https://registry.npmjs.org/react-grid-preset

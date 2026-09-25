@@ -1,0 +1,24 @@
+# return-machine-hello-high
+
+> 标签: package-manager, return-machine-hello-high, tea
+
+## 简介
+
+Return Machine Hello High - This function is used to convert multiple words into an interesting sentence containing the word Return Machine Hello High.
+
+## 官网
+
+- 官网：https://github.com/npmtea2024/return-machine-hello-high#readme
+- 源码仓库：git+https://github.com/npmtea2024/return-machine-hello-high.git
+- npm 页面：https://www.npmjs.com/package/return-machine-hello-high
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install return-machine-hello-high`
+- npm registry：https://registry.npmjs.org/return-machine-hello-high

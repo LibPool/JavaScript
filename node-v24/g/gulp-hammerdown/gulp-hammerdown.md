@@ -1,0 +1,26 @@
+# gulp-hammerdown
+
+> 标签: converter, fluent, gulpplugin, hammer, hammerdown, html, html-md, markdown, md, stream, tomarkdown, writer
+
+## 简介
+
+Gulp plugin for using hammerdown(streaming html to markdown generator)
+
+## 官网
+
+- 官网：https://github.com/tjchaplin/gulp-hammerdown
+- 源码仓库：git://github.com/tjchaplin/gulp-hammerdown.git
+- npm 页面：https://www.npmjs.com/package/gulp-hammerdown
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 0.0.1
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install gulp-hammerdown`
+- npm registry：https://registry.npmjs.org/gulp-hammerdown

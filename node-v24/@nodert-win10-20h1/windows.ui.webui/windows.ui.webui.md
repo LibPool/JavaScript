@@ -1,0 +1,24 @@
+# @nodert-win10-20h1/windows.ui.webui
+
+> 标签: ActivatedDeferral, ActivatedOperation, BackgroundActivatedEventArgs, EnteredBackgroundEventArgs, HtmlPrintDocumentSource, IActivatedEventArgsDeferral, IWebUIBackgroundTaskInstance, IWebUINavigatedEventArgs, LeavingBackgroundEventArgs, Microsoft, NewWebUIViewCreatedEventArgs, NodeRT, PrintContent, SuspendingDeferral, SuspendingEventArgs, SuspendingOperation, UI, WebUI, WebUIApplication, WebUIAppointmentsProviderAddAppointmentActivatedEventArgs, WebUIAppointmentsProviderRemoveAppointmentActivatedEventArgs, WebUIAppointmentsProviderReplaceAppointmentActivatedEventArgs, WebUIAppointmentsProviderShowAppointmentDetailsActivatedEventArgs, WebUIAppointmentsProviderShowTimeFrameActivatedEventArgs, WebUIBackgroundTaskInstance, WebUIBackgroundTaskInstanceRuntimeClass, WebUIBarcodeScannerPreviewActivatedEventArgs, WebUICachedFileUpdaterActivatedEventArgs, WebUICameraSettingsActivatedEventArgs, WebUICommandLineActivatedEventArgs, WebUIContactCallActivatedEventArgs, WebUIContactMapActivatedEventArgs, WebUIContactMessageActivatedEventArgs, WebUIContactPanelActivatedEventArgs, WebUIContactPickerActivatedEventArgs, WebUIContactPostActivatedEventArgs, WebUIContactVideoCallActivatedEventArgs, WebUIDeviceActivatedEventArgs, WebUIDevicePairingActivatedEventArgs, WebUIDialReceiverActivatedEventArgs, WebUIFileActivatedEventArgs, WebUIFileOpenPickerActivatedEventArgs, WebUIFileOpenPickerContinuationEventArgs, WebUIFileSavePickerActivatedEventArgs, WebUIFileSavePickerContinuationEventArgs, WebUIFolderPickerContinuationEventArgs, WebUILaunchActivatedEventArgs, WebUILockScreenActivatedEventArgs, WebUILockScreenCallActivatedEventArgs, WebUILockScreenComponentActivatedEventArgs, WebUINavigatedDeferral, WebUINavigatedEventArgs, WebUINavigatedOperation, WebUIPrint3DWorkflowActivatedEventArgs, WebUIPrintTaskSettingsActivatedEventArgs, WebUIPrintWorkflowForegroundTaskActivatedEventArgs, WebUIProtocolActivatedEventArgs, WebUIProtocolForResultsActivatedEventArgs, WebUIRestrictedLaunchActivatedEventArgs, WebUISearchActivatedEventArgs, WebUIShareTargetActivatedEventArgs, WebUIStartupTaskActivatedEventArgs, WebUIToastNotificationActivatedEventArgs, WebUIUserDataAccountProviderActivatedEventArgs, WebUIView, WebUIVoiceCommandActivatedEventArgs, WebUIWalletActionActivatedEventArgs, WebUIWebAccountProviderActivatedEventArgs, WebUIWebAuthenticationBrokerContinuationEventArgs, WinRT, Windows, Windows.UI.WebUI
+
+## 简介
+
+Use the Windows.UI.WebUI UWP API directly from Node.js
+
+## 官网
+
+- 官网：https://github.com/MaySoMusician/NodeRT/tree/feature/136-vs2019
+- 源码仓库：git://github.com/MaySoMusician/NodeRT.git
+- npm 页面：https://www.npmjs.com/package/@nodert-win10-20h1/windows.ui.webui
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @nodert-win10-20h1/windows.ui.webui`
+- npm registry：https://registry.npmjs.org/@nodert-win10-20h1/windows.ui.webui

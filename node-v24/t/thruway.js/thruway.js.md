@@ -1,0 +1,36 @@
+# thruway.js
+
+> 标签: autobahn, javascript, reactivex, rxjs, typescript, wamp, websocket
+
+## 简介
+
+WAMP RxJS Client
+
+## 官网
+
+- 官网：https://github.com/voryx/Thruway.js#readme
+- 源码仓库：git+https://github.com/voryx/Thruway.js.git
+- npm 页面：https://www.npmjs.com/package/thruway.js
+
+## 历史版本号
+
+- 当前版本：2.0.7
+
+- 2.0.0-beta3
+- 2.0.0-beta4
+- 2.0.0-beta5
+- 2.0.0-beta6
+- 2.0.0-beta7
+- 2.0.0-beta8
+- 2.0.1
+- 2.0.2
+- 2.0.3
+- 2.0.4
+- 2.0.6
+- 2.0.7
+- 共 72 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install thruway.js`
+- npm registry：https://registry.npmjs.org/thruway.js

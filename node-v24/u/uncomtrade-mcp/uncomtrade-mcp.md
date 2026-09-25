@@ -1,0 +1,25 @@
+# uncomtrade-mcp
+
+> 标签: exports, imports, mcp, trade, uncomtrade
+
+## 简介
+
+UN Comtrade trade data preview. No key required.
+
+## 官网
+
+- 官网：https://github.com/mrfentmen/uncomtrade-mcp#readme
+- 源码仓库：git+https://github.com/mrfentmen/uncomtrade-mcp.git
+- npm 页面：https://www.npmjs.com/package/uncomtrade-mcp
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install uncomtrade-mcp`
+- npm registry：https://registry.npmjs.org/uncomtrade-mcp
+- Node 要求：>=20

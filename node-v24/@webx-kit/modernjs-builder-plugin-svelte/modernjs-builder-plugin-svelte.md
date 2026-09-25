@@ -1,0 +1,24 @@
+# @webx-kit/modernjs-builder-plugin-svelte
+
+> 标签: JavaScript
+
+## 简介
+
+Svelte plugin for [Modern.js](https://modernjs.dev/)
+
+## 官网
+
+- 官网：https://github.com/tmkx/webx-kit#readme
+- 源码仓库：git+https://github.com/tmkx/webx-kit.git
+- npm 页面：https://www.npmjs.com/package/@webx-kit/modernjs-builder-plugin-svelte
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @webx-kit/modernjs-builder-plugin-svelte`
+- npm registry：https://registry.npmjs.org/@webx-kit/modernjs-builder-plugin-svelte

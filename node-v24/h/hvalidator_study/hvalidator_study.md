@@ -1,0 +1,25 @@
+# hvalidator_study
+
+> 标签: c++, high performance, node, validate, validator
+
+## 简介
+
+HIgh performance nodejs validator moudle with C++.
+
+## 官网
+
+- 官网：https://github.com/DoubleSpout/node-hvalidator
+- 源码仓库：https://github.com/DoubleSpout/node-hvalidator.git
+- npm 页面：https://www.npmjs.com/package/hvalidator_study
+
+## 历史版本号
+
+- 当前版本：0.3.5
+
+- 0.3.5
+
+## 获取地址
+
+- npm 安装：`npm install hvalidator_study`
+- npm registry：https://registry.npmjs.org/hvalidator_study
+- Node 要求：>=0.8.5

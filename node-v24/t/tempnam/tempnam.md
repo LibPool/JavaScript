@@ -1,0 +1,31 @@
+# tempnam
+
+> 标签: Andras, file, temp, tempnam, temporary
+
+## 简介
+
+create unique files like php tempnam()
+
+## 官网
+
+- 官网：https://github.com/andrasq/node-tempnam#readme
+- 源码仓库：git://github.com/andrasq/node-tempnam.git
+- npm 页面：https://www.npmjs.com/package/tempnam
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 0.0.0
+- 0.0.1
+- 0.9.0
+- 0.9.1
+- 1.0.0
+- 1.1.0
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install tempnam`
+- npm registry：https://registry.npmjs.org/tempnam
+- Node 要求：>=0.0.0

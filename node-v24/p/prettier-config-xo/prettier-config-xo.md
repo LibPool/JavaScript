@@ -1,0 +1,32 @@
+# prettier-config-xo
+
+> 标签: prettier, prettier-config, xo, xo-config
+
+## 简介
+
+[![npm](https://img.shields.io/npm/v/prettier-config-xo)](https://www.npmjs.com/package/prettier-config-xo) [![Build Status](https://github.com/jonahsnider/prettier-config-xo/workflows/CI/badge.svg)](https://github.com/jonahsnider/prettier-config-xo/actio
+
+## 官网
+
+- 官网：https://github.com/jonahsnider/prettier-config-xo#readme
+- 源码仓库：git+https://github.com/jonahsnider/prettier-config-xo.git
+- npm 页面：https://www.npmjs.com/package/prettier-config-xo
+
+## 历史版本号
+
+- 当前版本：3.0.0
+
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 2.0.0
+- 2.0.1
+- 2.0.2
+- 3.0.0
+
+## 获取地址
+
+- npm 安装：`npm install prettier-config-xo`
+- npm registry：https://registry.npmjs.org/prettier-config-xo
+- Node 要求：>=10.13.0

@@ -1,0 +1,26 @@
+# dom-whitespace
+
+> 标签: dom, html, whitespace
+
+## 简介
+
+Safe removal of whitespace from a DOM
+
+## 官网
+
+- 官网：https://github.com/trygve-lie/dom-whitespace
+- 源码仓库：git@github.com:trygve-lie/dom-whitespace.git
+- npm 页面：https://www.npmjs.com/package/dom-whitespace
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install dom-whitespace`
+- npm registry：https://registry.npmjs.org/dom-whitespace

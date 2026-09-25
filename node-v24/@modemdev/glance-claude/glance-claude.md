@@ -1,0 +1,25 @@
+# @modemdev/glance-claude
+
+> 标签: agent, claude-code, claude-plugin, glance, mcp, screenshot
+
+## 简介
+
+glance.sh plugin package for Claude Code
+
+## 官网
+
+- 官网：https://github.com/modem-dev/glance-agent-plugins/tree/main/claude
+- 源码仓库：git+https://github.com/modem-dev/glance-agent-plugins.git
+- npm 页面：https://www.npmjs.com/package/@modemdev/glance-claude
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @modemdev/glance-claude`
+- npm registry：https://registry.npmjs.org/@modemdev/glance-claude

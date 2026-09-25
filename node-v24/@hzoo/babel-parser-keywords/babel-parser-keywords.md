@@ -1,0 +1,27 @@
+# @hzoo/babel-parser-keywords
+
+> 标签: @babel/parser, babel, ecmascript, javascript, parser, tc39
+
+## 简介
+
+A JavaScript parser
+
+## 官网
+
+- 官网：https://babeljs.io/
+- 源码仓库：git+https://github.com/babel/babel.git
+- npm 页面：https://www.npmjs.com/package/@hzoo/babel-parser-keywords
+
+## 历史版本号
+
+- 当前版本：7.10.4
+
+- 7.10.2
+- 7.10.3
+- 7.10.4
+
+## 获取地址
+
+- npm 安装：`npm install @hzoo/babel-parser-keywords`
+- npm registry：https://registry.npmjs.org/@hzoo/babel-parser-keywords
+- Node 要求：>=6.0.0

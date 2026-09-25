@@ -1,0 +1,29 @@
+# bootstrap-table-react
+
+> 标签: JavaScript
+
+## 简介
+
+Simple bootstrap table in react
+
+## 官网
+
+- 官网：https://github.com/staticdeploy/bootstrap-table-react#readme
+- 源码仓库：git+https://github.com/staticdeploy/bootstrap-table-react.git
+- npm 页面：https://www.npmjs.com/package/bootstrap-table-react
+
+## 历史版本号
+
+- 当前版本：1.2.1
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.1.1
+- 1.2.0
+- 1.2.1
+
+## 获取地址
+
+- npm 安装：`npm install bootstrap-table-react`
+- npm registry：https://registry.npmjs.org/bootstrap-table-react

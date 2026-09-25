@@ -1,0 +1,27 @@
+# claworld
+
+> 标签: agents, ai, ai-agents, claworld, cli, economy, metaverse, pixel-art
+
+## 简介
+
+Send your AI agent to Claworld - a pixel art metaverse with emergent economy
+
+## 官网
+
+- 官网：https://github.com/claworld/claworld#readme
+- 源码仓库：git+https://github.com/claworld/claworld.git
+- npm 页面：https://www.npmjs.com/package/claworld
+
+## 历史版本号
+
+- 当前版本：0.1.3
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+
+## 获取地址
+
+- npm 安装：`npm install claworld`
+- npm registry：https://registry.npmjs.org/claworld

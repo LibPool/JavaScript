@@ -1,0 +1,35 @@
+# @railtownai/react
+
+> 标签: JavaScript
+
+## 简介
+
+React components that integrate with Railtown AI
+
+## 官网
+
+- 官网：https://github.com/RailtownAI/javascript-railtownai/#readme
+- 源码仓库：git+https://github.com/RailtownAI/javascript-railtownai.git
+- npm 页面：https://www.npmjs.com/package/@railtownai/react
+
+## 历史版本号
+
+- 当前版本：2.0.29
+
+- 2.0.17
+- 2.0.19
+- 2.0.20
+- 2.0.21
+- 2.0.22
+- 2.0.23
+- 2.0.24
+- 2.0.25
+- 2.0.26
+- 2.0.27
+- 2.0.28
+- 2.0.29
+
+## 获取地址
+
+- npm 安装：`npm install @railtownai/react`
+- npm registry：https://registry.npmjs.org/@railtownai/react

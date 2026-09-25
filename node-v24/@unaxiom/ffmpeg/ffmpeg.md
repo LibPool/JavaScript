@@ -1,0 +1,27 @@
+# @unaxiom/ffmpeg
+
+> 标签: FFmpeg, JavaScript, Node, TypeScript, recording, stream
+
+## 简介
+
+FFmpeg CLI wrapper, including ability to quit the process
+
+## 官网
+
+- 官网：https://github.com/Unaxiom/ffmpeg-node#readme
+- 源码仓库：git+https://github.com/Unaxiom/ffmpeg-node.git
+- npm 页面：https://www.npmjs.com/package/@unaxiom/ffmpeg
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.0.1
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @unaxiom/ffmpeg`
+- npm registry：https://registry.npmjs.org/@unaxiom/ffmpeg

@@ -1,0 +1,24 @@
+# violence-all-nearly-vapor
+
+> 标签: package-manager, tea, violence-all-nearly-vapor
+
+## 简介
+
+Violence All Nearly Vapor - This function is used to convert multiple words into an interesting sentence containing the word Violence All Nearly Vapor.
+
+## 官网
+
+- 官网：https://github.com/npmtea2024/violence-all-nearly-vapor#readme
+- 源码仓库：git+https://github.com/npmtea2024/violence-all-nearly-vapor.git
+- npm 页面：https://www.npmjs.com/package/violence-all-nearly-vapor
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install violence-all-nearly-vapor`
+- npm registry：https://registry.npmjs.org/violence-all-nearly-vapor

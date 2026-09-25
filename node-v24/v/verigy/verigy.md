@@ -1,0 +1,26 @@
+# verigy
+
+> 标签: gmail, strip, validate
+
+## 简介
+
+Strip invalid characters from email addresses
+
+## 官网
+
+- 官网：https://github.com/evanlucas/verigy
+- 源码仓库：https://github.com/evanlucas/verigy
+- npm 页面：https://www.npmjs.com/package/verigy
+
+## 历史版本号
+
+- 当前版本：2.0.1
+
+- 1.0.0
+- 2.0.0
+- 2.0.1
+
+## 获取地址
+
+- npm 安装：`npm install verigy`
+- npm registry：https://registry.npmjs.org/verigy

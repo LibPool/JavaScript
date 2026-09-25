@@ -1,0 +1,27 @@
+# composable-config
+
+> 标签: JavaScript
+
+## 简介
+
+Composable app configuration with reading, conversion, validation and type support built-in.
+
+## 官网
+
+- 官网：https://github.com/jakzo/composable-config#composable-config
+- 源码仓库：git+https://github.com/jakzo/composable-config.git
+- npm 页面：https://www.npmjs.com/package/composable-config
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install composable-config`
+- npm registry：https://registry.npmjs.org/composable-config

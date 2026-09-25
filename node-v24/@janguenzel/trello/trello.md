@@ -1,0 +1,25 @@
+# @janguenzel/trello
+
+> 标签: api, atlassian, queue, rate-limiting, rest-api, trello, trello-rest-api-wrapper, type-safe, typescript
+
+## 简介
+
+TypeScript wrapper for the Trello REST API — all endpoints typed, rate-limit aware
+
+## 官网
+
+- 官网：https://github.com/janguenzel/trello#readme
+- 源码仓库：git+https://github.com/janguenzel/trello.git
+- npm 页面：https://www.npmjs.com/package/@janguenzel/trello
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @janguenzel/trello`
+- npm registry：https://registry.npmjs.org/@janguenzel/trello
+- Node 要求：>=22.0.0

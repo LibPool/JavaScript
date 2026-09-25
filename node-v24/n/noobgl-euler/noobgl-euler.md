@@ -1,0 +1,26 @@
+# noobgl-euler
+
+> 标签: euler
+
+## 简介
+
+Euler class designed for noobgl
+
+## 官网
+
+- 官网：https://github.com/noobgl/noobgl-euler#readme
+- 源码仓库：git+https://github.com/noobgl/noobgl-euler.git
+- npm 页面：https://www.npmjs.com/package/noobgl-euler
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install noobgl-euler`
+- npm registry：https://registry.npmjs.org/noobgl-euler

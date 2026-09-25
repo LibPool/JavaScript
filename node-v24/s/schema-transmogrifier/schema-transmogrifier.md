@@ -1,0 +1,27 @@
+# schema-transmogrifier
+
+> 标签: JSON, Schema, Transmogrifier
+
+## 简介
+
+Schema transmogrifier
+
+## 官网
+
+- 官网：https://github.com/octoblu/schema-transmogrifier#readme
+- 源码仓库：git+https://github.com/octoblu/schema-transmogrifier.git
+- npm 页面：https://www.npmjs.com/package/schema-transmogrifier
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install schema-transmogrifier`
+- npm registry：https://registry.npmjs.org/schema-transmogrifier

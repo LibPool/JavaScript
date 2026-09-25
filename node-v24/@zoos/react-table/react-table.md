@@ -1,0 +1,35 @@
+# @zoos/react-table
+
+> 标签: JavaScript
+
+## 简介
+
+Library of components, hooks and functions for building tables with `@tanstack/react-table`.
+
+## 官网
+
+- 官网：https://github.com/zoohilldata/zoos#readme
+- 源码仓库：git+https://github.com/zoohilldata/zoos.git
+- npm 页面：https://www.npmjs.com/package/@zoos/react-table
+
+## 历史版本号
+
+- 当前版本：1.43.1
+
+- 1.42.2
+- 1.42.3
+- 1.42.4
+- 1.43.0
+- 1.43.1
+- 1.8.0
+- 1.8.1
+- 1.8.2
+- 1.9.0
+- 1.9.1
+- 1.9.2
+- 1.9.3
+
+## 获取地址
+
+- npm 安装：`npm install @zoos/react-table`
+- npm registry：https://registry.npmjs.org/@zoos/react-table

@@ -1,0 +1,33 @@
+# config-extend
+
+> 标签: JavaScript
+
+## 简介
+
+Modified version of extend for config files
+
+## 官网
+
+- 官网：https://github.com/JamesHight/node-config-extend#readme
+- 源码仓库：git+https://github.com/JamesHight/node-config-extend.git
+- npm 页面：https://www.npmjs.com/package/config-extend
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install config-extend`
+- npm registry：https://registry.npmjs.org/config-extend
+- Node 要求：*

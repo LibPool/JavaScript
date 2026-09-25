@@ -1,0 +1,25 @@
+# bitcore-mnemonic-anon
+
+> 标签: bitcoin, bitcore, crypto, cryptography, encryption, mnemonic
+
+## 简介
+
+BIP39 Mnemonics implemented for Bitcore.
+
+## 官网
+
+- 官网：https://github.com/anonymousbitcoin/bitcore-mnemonic-anon#readme
+- 源码仓库：git+https://github.com/anonymousbitcoin/bitcore-mnemonic-anon.git
+- npm 页面：https://www.npmjs.com/package/bitcore-mnemonic-anon
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install bitcore-mnemonic-anon`
+- npm registry：https://registry.npmjs.org/bitcore-mnemonic-anon

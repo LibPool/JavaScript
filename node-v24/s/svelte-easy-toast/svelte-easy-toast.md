@@ -1,0 +1,34 @@
+# svelte-easy-toast
+
+> 标签: svelte-easy-toast
+
+## 简介
+
+![My Image](https://raw.github.com/johndavedecano/svelte-easy-toast/main/preview.png)
+
+## 官网
+
+- 官网：https://github.com/johndavedecano/svelte-easy-toast#readme
+- 源码仓库：git+https://github.com/johndavedecano/svelte-easy-toast.git
+- npm 页面：https://www.npmjs.com/package/svelte-easy-toast
+
+## 历史版本号
+
+- 当前版本：2.0.8
+
+- 0.0.1
+- 1.0.0
+- 1.1.0
+- 2.0.0
+- 2.0.1
+- 2.0.3
+- 2.0.4
+- 2.0.5
+- 2.0.6
+- 2.0.7
+- 2.0.8
+
+## 获取地址
+
+- npm 安装：`npm install svelte-easy-toast`
+- npm registry：https://registry.npmjs.org/svelte-easy-toast

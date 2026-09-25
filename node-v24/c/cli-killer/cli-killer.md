@@ -1,0 +1,26 @@
+# cli-killer
+
+> 标签: cli, cli-app, die, exit, fkill, force, kill, killall, killing, proc, ps, sigkill, sigterm, taskkill, zap
+
+## 简介
+
+Fabulously kill processes. Cross-platform.
+
+## 官网
+
+- 官网：https://github.com/yoginth/cli-killer#readme
+- 源码仓库：git+https://github.com/yoginth/cli-killer.git
+- npm 页面：https://www.npmjs.com/package/cli-killer
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install cli-killer`
+- npm registry：https://registry.npmjs.org/cli-killer
+- Node 要求：>=4

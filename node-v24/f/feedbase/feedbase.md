@@ -1,0 +1,32 @@
+# feedbase
+
+> 标签: JavaScript
+
+## 简介
+
+**Note:**  Feedbase is still under development.  There is no live network deployment, and the Morden address may be updated at any time. (If you prefer, you can easily deploy your own instances of Feedbase.)
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/feedbase
+
+## 历史版本号
+
+- 当前版本：0.9.0
+
+- 0.2.0
+- 0.3.0
+- 0.3.1
+- 0.4.0
+- 0.4.1
+- 0.5.0
+- 0.6.0
+- 0.6.1
+- 0.7.0
+- 0.8.0
+- 0.9.0
+
+## 获取地址
+
+- npm 安装：`npm install feedbase`
+- npm registry：https://registry.npmjs.org/feedbase

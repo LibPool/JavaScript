@@ -1,0 +1,24 @@
+# trainer-building-comfortable-plant
+
+> 标签: package-manager, trainer-building-comfortable-plant
+
+## 简介
+
+Trainer Building Comfortable Plant - This function is used to convert multiple words into an interesting sentence containing the word Trainer Building Comfortable Plant.
+
+## 官网
+
+- 官网：https://github.com/npmtea2024/trainer-building-comfortable-plant#readme
+- 源码仓库：git+https://github.com/npmtea2024/trainer-building-comfortable-plant.git
+- npm 页面：https://www.npmjs.com/package/trainer-building-comfortable-plant
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install trainer-building-comfortable-plant`
+- npm registry：https://registry.npmjs.org/trainer-building-comfortable-plant

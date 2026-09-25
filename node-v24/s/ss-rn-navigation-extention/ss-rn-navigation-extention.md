@@ -1,0 +1,24 @@
+# ss-rn-navigation-extention
+
+> 标签: JavaScript
+
+## 简介
+
+ss-rn-navigation-extention - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/bestofsong/ss-rn-navigation-extension#readme
+- 源码仓库：git+https://github.com/bestofsong/ss-rn-navigation-extension.git
+- npm 页面：https://www.npmjs.com/package/ss-rn-navigation-extention
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install ss-rn-navigation-extention`
+- npm registry：https://registry.npmjs.org/ss-rn-navigation-extention

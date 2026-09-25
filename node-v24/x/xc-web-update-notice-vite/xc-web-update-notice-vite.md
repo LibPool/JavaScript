@@ -1,0 +1,31 @@
+# xc-web-update-notice-vite
+
+> 标签: version-update, vite, web版本更新通知
+
+## 简介
+
+前端版本更新通知 - Vite 插件
+
+## 官网
+
+- 官网：https://github.com/futureyn/xc-web-update-notice
+- 源码仓库：git+https://github.com/futureyn/xc-web-update-notice.git
+- npm 页面：https://www.npmjs.com/package/xc-web-update-notice-vite
+
+## 历史版本号
+
+- 当前版本：1.0.6
+
+- 0.0.1
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+
+## 获取地址
+
+- npm 安装：`npm install xc-web-update-notice-vite`
+- npm registry：https://registry.npmjs.org/xc-web-update-notice-vite

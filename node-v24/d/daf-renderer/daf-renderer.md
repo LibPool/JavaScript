@@ -1,0 +1,29 @@
+# daf-renderer
+
+> 标签: JavaScript
+
+## 简介
+
+A DOM render library for creating Talmud pages on the web.
+
+## 官网
+
+- 官网：https://github.com/GT-Jewish-DH/daf-renderer#readme
+- 源码仓库：git+https://github.com/GT-Jewish-DH/daf-renderer.git
+- npm 页面：https://www.npmjs.com/package/daf-renderer
+
+## 历史版本号
+
+- 当前版本：1.1.4
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.1.4
+
+## 获取地址
+
+- npm 安装：`npm install daf-renderer`
+- npm registry：https://registry.npmjs.org/daf-renderer

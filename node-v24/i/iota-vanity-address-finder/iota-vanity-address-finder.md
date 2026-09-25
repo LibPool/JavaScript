@@ -1,0 +1,26 @@
+# iota-vanity-address-finder
+
+> 标签: IOTA
+
+## 简介
+
+Finds IOTA seeds that generate the desired addresses
+
+## 官网
+
+- 官网：https://github.com/pRizz/iota-vanity-address-finder#readme
+- 源码仓库：git+https://github.com/pRizz/iota-vanity-address-finder.git
+- npm 页面：https://www.npmjs.com/package/iota-vanity-address-finder
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install iota-vanity-address-finder`
+- npm registry：https://registry.npmjs.org/iota-vanity-address-finder

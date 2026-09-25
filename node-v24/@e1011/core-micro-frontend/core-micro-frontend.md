@@ -1,0 +1,26 @@
+# @e1011/core-micro-frontend
+
+> 标签: JavaScript
+
+## 简介
+
+Micro frontend framework, based on web component
+
+## 官网
+
+- 官网：https://github.com/edgar0011/core-micro-frontend#readme
+- 源码仓库：git+ssh://git@github.com/edgar0011/core-micro-frontend.git
+- npm 页面：https://www.npmjs.com/package/@e1011/core-micro-frontend
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @e1011/core-micro-frontend`
+- npm registry：https://registry.npmjs.org/@e1011/core-micro-frontend

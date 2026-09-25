@@ -1,0 +1,35 @@
+# @smartive/kubernetes-helpers
+
+> 标签: cli, helper, k8s, kubectl, kubernetes
+
+## 简介
+
+commandline tool that helps with kubernetes deployments
+
+## 官网
+
+- 官网：https://gitlab.com/smartive/open-source/kubernetes-helpers
+- 源码仓库：git@gitlab.com:smartive/open-source/kubernetes-helpers.git
+- npm 页面：https://www.npmjs.com/package/@smartive/kubernetes-helpers
+
+## 历史版本号
+
+- 当前版本：3.4.0
+
+- 2.1.1
+- 2.2.0
+- 2.2.1
+- 2.3.0
+- 2.3.1
+- 2.4.0
+- 3.0.0
+- 3.1.0
+- 3.1.1
+- 3.2.0
+- 3.3.0
+- 3.4.0
+
+## 获取地址
+
+- npm 安装：`npm install @smartive/kubernetes-helpers`
+- npm registry：https://registry.npmjs.org/@smartive/kubernetes-helpers

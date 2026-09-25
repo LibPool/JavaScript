@@ -1,0 +1,35 @@
+# kwikid-forms-react
+
+> 标签: Form Renderer and Builder, KwikID, React, UI Component Library
+
+## 简介
+
+KwikID's UI Component Library in React
+
+## 官网
+
+- 官网：https://bitbucket.org/team360noscope/kwikid-forms-react
+- 源码仓库：git+https://baijudodhia@bitbucket.org/team360noscope/kwikid-forms-react.git
+- npm 页面：https://www.npmjs.com/package/kwikid-forms-react
+
+## 历史版本号
+
+- 当前版本：0.2.13
+
+- 0.2.10
+- 0.2.11
+- 0.2.12
+- 0.2.13
+- 0.2.2
+- 0.2.3
+- 0.2.4
+- 0.2.5
+- 0.2.6
+- 0.2.7
+- 0.2.8
+- 0.2.9
+
+## 获取地址
+
+- npm 安装：`npm install kwikid-forms-react`
+- npm registry：https://registry.npmjs.org/kwikid-forms-react

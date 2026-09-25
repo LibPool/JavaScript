@@ -1,0 +1,29 @@
+# opencode-catpaw-auth
+
+> 标签: ai, catpaw, opencode, opencode-plugin, provider
+
+## 简介
+
+CatPaw AI provider plugin for OpenCode - Auto-auth from mcopilot-cli config
+
+## 官网
+
+- 官网：https://github.com/zu1k/opencode-catpaw-auth#readme
+- 源码仓库：git+https://github.com/zu1k/opencode-catpaw-auth.git
+- npm 页面：https://www.npmjs.com/package/opencode-catpaw-auth
+
+## 历史版本号
+
+- 当前版本：1.3.2
+
+- 1.1.0
+- 1.2.0
+- 1.2.2
+- 1.3.0
+- 1.3.1
+- 1.3.2
+
+## 获取地址
+
+- npm 安装：`npm install opencode-catpaw-auth`
+- npm registry：https://registry.npmjs.org/opencode-catpaw-auth

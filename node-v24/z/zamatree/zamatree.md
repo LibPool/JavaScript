@@ -1,0 +1,27 @@
+# zamatree
+
+> 标签: File Storage, Merkle Tree, S3, scp
+
+## 简介
+
+Zamatree is a command line utility for uploading and downloading files with integrity checking using a Merkle tree.
+
+## 官网
+
+- 官网：https://github.com/ouziel-slama/zamatree
+- 源码仓库：git+https://github.com/ouziel-slama/zamatree.git
+- npm 页面：https://www.npmjs.com/package/zamatree
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install zamatree`
+- npm registry：https://registry.npmjs.org/zamatree

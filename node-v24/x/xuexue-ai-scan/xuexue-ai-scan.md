@@ -1,0 +1,35 @@
+# xuexue-ai-scan
+
+> 标签: auto-trading, automated-trading, forex, fundamental-analysis, gold, mt5, scanner, technical-analysis, trading, xuexue-ai
+
+## 简介
+
+雪雪AI · 统一综合交易系统（单面板单端口）：13源新闻基本面+财经日历、机会扫描、技术面+基本面研判、15套精选自动交易策略（黄金/外汇/比特币，4窗回测验证）、波动/点差风控闸、小雪AI交易员、内置MCP Server。MT5 行情源，免 API Key。
+
+## 官网
+
+- 官网：https://one.exnessonelink.com/a/zh/743861
+- npm 页面：https://www.npmjs.com/package/xuexue-ai-scan
+
+## 历史版本号
+
+- 当前版本：1.3.6
+
+- 1.2.2
+- 1.2.3
+- 1.2.4
+- 1.2.5
+- 1.2.6
+- 1.3.0
+- 1.3.1
+- 1.3.2
+- 1.3.3
+- 1.3.4
+- 1.3.5
+- 1.3.6
+
+## 获取地址
+
+- npm 安装：`npm install xuexue-ai-scan`
+- npm registry：https://registry.npmjs.org/xuexue-ai-scan
+- Node 要求：>=18

@@ -1,0 +1,25 @@
+# hexo-deployer-ansible
+
+> 标签: ansible, deploy, deployer, hexo
+
+## 简介
+
+Ansible deployer plugin of Hexo.
+
+## 官网
+
+- 官网：https://github.com/zyuyou/hexo-deployer-rsync#readme
+- 源码仓库：git+https://github.com/zyuyou/hexo-deployer-rsync.git
+- npm 页面：https://www.npmjs.com/package/hexo-deployer-ansible
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install hexo-deployer-ansible`
+- npm registry：https://registry.npmjs.org/hexo-deployer-ansible
+- Node 要求：>= 0.10.0

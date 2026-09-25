@@ -1,0 +1,28 @@
+# @weeheee/tizeniptv
+
+> 标签: JavaScript
+
+## 简介
+
+A Netflix-style IPTV OTT (Over-the-top) application for Samsung Tizen smart TVs. This application provides a modern, animated interface for accessing live TV, movies, and series content in a single platform.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@weeheee/tizeniptv
+
+## 历史版本号
+
+- 当前版本：1.0.6
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+
+## 获取地址
+
+- npm 安装：`npm install @weeheee/tizeniptv`
+- npm registry：https://registry.npmjs.org/@weeheee/tizeniptv

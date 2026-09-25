@@ -1,0 +1,33 @@
+# @astra-sdk/connector
+
+> 标签: JavaScript
+
+## 简介
+
+> TODO: description
+
+## 官网
+
+- 官网：https://github.com/AstraProtocol/astra-js#readme
+- 源码仓库：git+https://github.com/AstraProtocol/astra-js.git
+- npm 页面：https://www.npmjs.com/package/@astra-sdk/connector
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.1.6
+- 1.1.7
+- 1.1.8
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @astra-sdk/connector`
+- npm registry：https://registry.npmjs.org/@astra-sdk/connector

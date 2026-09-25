@@ -1,0 +1,35 @@
+# koishi-plugin-sanae
+
+> 标签: ai, ai绘图, chatbot, chatgpt, gpt, koishi, plugin, sanae, stable, 一键, 东风谷, 云插件, 免费, 早苗, 早苗狐, 机器人, 浅羽, 澪, 聊天, 逆流茶会
+
+## 简介
+
+kochiyasanae plugin
+
+## 官网
+
+- 官网：https://www.yuque.com/km57bt/hlhnxg
+- 源码仓库：git+https://github.com/Hoshinonyaruko/koishi-plugin-sanae.git
+- npm 页面：https://www.npmjs.com/package/koishi-plugin-sanae
+
+## 历史版本号
+
+- 当前版本：1.0.13
+
+- 1.0.10
+- 1.0.11
+- 1.0.12
+- 1.0.13
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+
+## 获取地址
+
+- npm 安装：`npm install koishi-plugin-sanae`
+- npm registry：https://registry.npmjs.org/koishi-plugin-sanae

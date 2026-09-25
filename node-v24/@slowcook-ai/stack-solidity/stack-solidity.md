@@ -1,0 +1,25 @@
+# @slowcook-ai/stack-solidity
+
+> 标签: agents, ai, forge, foundry, slowcook, solidity, tdd, testing
+
+## 简介
+
+Solidity/Foundry stack adapter for slowcook — forge test discovery, runners, gas-snapshot ratchet
+
+## 官网
+
+- 官网：https://github.com/aminazar/slowcook/tree/main/packages/stack-solidity#readme
+- 源码仓库：git+https://github.com/aminazar/slowcook.git
+- npm 页面：https://www.npmjs.com/package/@slowcook-ai/stack-solidity
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.1.0
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @slowcook-ai/stack-solidity`
+- npm registry：https://registry.npmjs.org/@slowcook-ai/stack-solidity

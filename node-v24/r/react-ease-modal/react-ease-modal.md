@@ -1,0 +1,31 @@
+# react-ease-modal
+
+> 标签: A11y, HRnet, UI, WealthHealth, accessibility, anglais, component, customizable, dialog, ease, easy, en, english, fr, français, french, modal, modular, openclassroom, popup, react, simple, tailwind, user interface
+
+## 简介
+
+A simple, modular and customizable modal window component for React applications, compatible with Tailwind CSS, allowing easy management of modal windows with styling and accessibility options
+
+## 官网
+
+- 官网：http:/aeonshad.github.io/react-ease-modal
+- 源码仓库：git+https://github.com/aeonshad/react-ease-modal.git
+- npm 页面：https://www.npmjs.com/package/react-ease-modal
+
+## 历史版本号
+
+- 当前版本：1.1.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+
+## 获取地址
+
+- npm 安装：`npm install react-ease-modal`
+- npm registry：https://registry.npmjs.org/react-ease-modal

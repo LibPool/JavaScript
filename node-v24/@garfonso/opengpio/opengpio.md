@@ -1,0 +1,24 @@
+# @garfonso/opengpio
+
+> 标签: 2, 2.1, 2b, 2w, 3, 3b, 3b+, 4, 400, 4b, 5, 5b, cm5, events, gpio, gpiod, libgpio, libgpiod, nanopi, neo3, orange, pi, pwm, radxa, raspberry, rock, rpi, s0, w, watch, zero
+
+## 简介
+
+Fork of opengpio: a performant C++ based general purpose GPIO controller for linux devices, using libgpiod 2.x.
+
+## 官网
+
+- 官网：https://github.com/Garfonso/opengpio#readme
+- 源码仓库：git+https://github.com/Garfonso/opengpio.git
+- npm 页面：https://www.npmjs.com/package/@garfonso/opengpio
+
+## 历史版本号
+
+- 当前版本：2.1.0
+
+- 2.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @garfonso/opengpio`
+- npm registry：https://registry.npmjs.org/@garfonso/opengpio

@@ -1,0 +1,24 @@
+# eslint-plugin-bardjs
+
+> 标签: bardjs, eslint, eslint-plugin, eslintplugin
+
+## 简介
+
+ESLint rules for bardjs
+
+## 官网
+
+- 官网：https://github.com/kpytang/eslint-plugin-bardjs#readme
+- 源码仓库：git://github.com/kpytang/eslint-plugin-bardjs.git
+- npm 页面：https://www.npmjs.com/package/eslint-plugin-bardjs
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install eslint-plugin-bardjs`
+- npm registry：https://registry.npmjs.org/eslint-plugin-bardjs

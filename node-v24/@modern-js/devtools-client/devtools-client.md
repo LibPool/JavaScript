@@ -1,0 +1,35 @@
+# @modern-js/devtools-client
+
+> 标签: JavaScript
+
+## 简介
+
+## Setup
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@modern-js/devtools-client
+
+## 历史版本号
+
+- 当前版本：2.70.4
+
+- 0.0.0-nightly-20260203160345
+- 2.70.0
+- 2.70.1
+- 2.70.2
+- 2.70.3
+- 2.70.4
+- 2.70.5
+- 2.70.6
+- 2.70.7
+- 2.70.8
+- 2.71.0
+- 2.71.1
+- 共 1,920 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @modern-js/devtools-client`
+- npm registry：https://registry.npmjs.org/@modern-js/devtools-client
+- Node 要求：>=14.0.0

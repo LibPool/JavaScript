@@ -1,0 +1,34 @@
+# anti-db
+
+> 标签: nodejs, util
+
+## 简介
+
+Plain old JS object that saves itself to disk
+
+## 官网
+
+- 源码仓库：git://github.com/dpweb/anti-db.git
+- npm 页面：https://www.npmjs.com/package/anti-db
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.7
+- 0.0.8
+- 0.0.9
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install anti-db`
+- npm registry：https://registry.npmjs.org/anti-db

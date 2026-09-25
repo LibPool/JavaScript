@@ -1,0 +1,29 @@
+# sequelize-test-setup
+
+> 标签: fixtures, migrations, sequelize, test
+
+## 简介
+
+set up test database and load fixtures with sequelize
+
+## 官网
+
+- 官网：https://github.com/boundstate/sequelize-test-setup#readme
+- 源码仓库：git+ssh://git@github.com/boundstate/sequelize-test-setup.git
+- npm 页面：https://www.npmjs.com/package/sequelize-test-setup
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install sequelize-test-setup`
+- npm registry：https://registry.npmjs.org/sequelize-test-setup

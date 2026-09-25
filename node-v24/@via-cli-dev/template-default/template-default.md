@@ -1,0 +1,27 @@
+# @via-cli-dev/template-default
+
+> 标签: JavaScript
+
+## 简介
+
+学习和测试imooc课程
+
+## 官网
+
+- 源码仓库：git@gitee.com:wangjinmeng/via-cli-dev.git
+- npm 页面：https://www.npmjs.com/package/@via-cli-dev/template-default
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @via-cli-dev/template-default`
+- npm registry：https://registry.npmjs.org/@via-cli-dev/template-default

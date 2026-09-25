@@ -1,0 +1,28 @@
+# @myrialabs/zipkit
+
+> 标签: 7z, brotli, browser, bun, bzip2, compression, deflate, dictionary, encryption, fflate-alternative, gzip, lz4, lzma, snappy, tar, typescript, wasm, xz, zip, zlib, zstd
+
+## 简介
+
+Overkill compression for Node, Bun & the browser — ten codecs (gzip/deflate/zlib/zstd/lz4/snappy/brotli/lzma/bzip2/xz) plus ZIP (streaming + AES), tar, and 7z, in one tiny typed API over a single WebAssembly engine.
+
+## 官网
+
+- 官网：https://github.com/myrialabs/zipkit#readme
+- 源码仓库：git+https://github.com/myrialabs/zipkit.git
+- npm 页面：https://www.npmjs.com/package/@myrialabs/zipkit
+
+## 历史版本号
+
+- 当前版本：0.0.11
+
+- 0.0.10
+- 0.0.11
+- 0.0.6
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @myrialabs/zipkit`
+- npm registry：https://registry.npmjs.org/@myrialabs/zipkit
+- Node 要求：>=18

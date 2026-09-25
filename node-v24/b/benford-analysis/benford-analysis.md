@@ -1,0 +1,28 @@
+# benford-analysis
+
+> 标签: analysis, benford, fraud, library, math, node
+
+## 简介
+
+A lib to analisys datasets by newcomb-benford's law
+
+## 官网
+
+- 官网：https://github.com/JonathanThomaz/benford-analysis#readme
+- 源码仓库：git+https://github.com/JonathanThomaz/benford-analysis.git
+- npm 页面：https://www.npmjs.com/package/benford-analysis
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install benford-analysis`
+- npm registry：https://registry.npmjs.org/benford-analysis
+- Node 要求：>=10

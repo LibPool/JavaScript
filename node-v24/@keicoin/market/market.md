@@ -1,0 +1,31 @@
+# @keicoin/market
+
+> 标签: atomic-swap, auction-house, kei, market, price-history, trading
+
+## 简介
+
+The market for Kei: offers that are blocks, atomic settlement, bounded multi-account books, and price history read from the chain.
+
+## 官网
+
+- 官网：https://keicoin.org#market
+- 源码仓库：git+https://github.com/keicoin-org/kei-transaction.git
+- npm 页面：https://www.npmjs.com/package/@keicoin/market
+
+## 历史版本号
+
+- 当前版本：0.6.0
+
+- 0.1.0
+- 0.1.1
+- 0.2.0
+- 0.3.0
+- 0.4.0
+- 0.5.0
+- 0.6.0
+
+## 获取地址
+
+- npm 安装：`npm install @keicoin/market`
+- npm registry：https://registry.npmjs.org/@keicoin/market
+- Node 要求：>=20

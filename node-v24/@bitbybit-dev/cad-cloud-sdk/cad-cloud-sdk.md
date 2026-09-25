@@ -1,0 +1,36 @@
+# @bitbybit-dev/cad-cloud-sdk
+
+> 标签: 3D, 3D algorithms, 3D modeling, 3D printing, 3D printing algorithms, 3D software, AEC, API, Automotive, BabylonJS, Bit By Bit Developers, Browser CAD, CAD, CAE, CAM, Creative coding, Engineering, Geometry, JSCAD, Modeling, OCCT, OpenCascade, OpenCascade Technology, Parametric, SDK, WebGL, WebGPU, bitbybit, bitbybit.dev, cloud, server-side
+
+## 简介
+
+Type-safe SDK for the Bitbybit CAD Cloud API — parametric models, CAD operations, file conversion, and task management
+
+## 官网
+
+- 官网：https://bitbybit.dev
+- 源码仓库：git+https://github.com/bitbybit-dev/bitbybit.git
+- npm 页面：https://www.npmjs.com/package/@bitbybit-dev/cad-cloud-sdk
+
+## 历史版本号
+
+- 当前版本：1.3.2
+
+- 1.1.0
+- 1.1.1
+- 1.2.0
+- 1.2.0-rc.0
+- 1.2.0-rc.1
+- 1.2.0-rc.2
+- 1.3.0
+- 1.3.0-rc.0
+- 1.3.1
+- 1.3.2
+- 1.3.2-rc.0
+- 1.3.2-rc.1
+
+## 获取地址
+
+- npm 安装：`npm install @bitbybit-dev/cad-cloud-sdk`
+- npm registry：https://registry.npmjs.org/@bitbybit-dev/cad-cloud-sdk
+- Node 要求：>=18.0.0

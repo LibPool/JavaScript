@@ -1,0 +1,26 @@
+# @holdpoint/live-protocol
+
+> 标签: agents, events, holdpoint, live, observability, protocol
+
+## 简介
+
+Versioned event, HTTP, and WebSocket protocol for Holdpoint Live
+
+## 官网
+
+- 官网：https://holdpoint.dev
+- 源码仓库：git+https://github.com/holdpoint-dev/holdpoint.git
+- npm 页面：https://www.npmjs.com/package/@holdpoint/live-protocol
+
+## 历史版本号
+
+- 当前版本：0.1.0-alpha.4
+
+- 0.1.0-alpha.2
+- 0.1.0-alpha.3
+- 0.1.0-alpha.4
+
+## 获取地址
+
+- npm 安装：`npm install @holdpoint/live-protocol`
+- npm registry：https://registry.npmjs.org/@holdpoint/live-protocol

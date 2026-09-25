@@ -1,0 +1,24 @@
+# one-cache
+
+> 标签: browser, cache, isomorphic, node, storage
+
+## 简介
+
+Isomorphic caching for network calls
+
+## 官网
+
+- 官网：https://github.com/chrisisler/one-cache#readme
+- 源码仓库：git+ssh://git@github.com/chrisisler/one-cache.git
+- npm 页面：https://www.npmjs.com/package/one-cache
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install one-cache`
+- npm registry：https://registry.npmjs.org/one-cache

@@ -1,0 +1,36 @@
+# poi-plugin-translator
+
+> 标签: JavaScript
+
+## 简介
+
+Translate package into English.
+
+## 官网
+
+- 官网：https://github.com/poooi/plugin-translator#readme
+- 源码仓库：git+https://github.com/poooi/plugin-translator.git
+- npm 页面：https://www.npmjs.com/package/poi-plugin-translator
+
+## 历史版本号
+
+- 当前版本：3.6.0
+
+- 2.3.7
+- 2.3.8
+- 2.3.9
+- 3.0.0
+- 3.0.1
+- 3.1.0
+- 3.1.1
+- 3.2.0
+- 3.3.0
+- 3.4.0
+- 3.5.0
+- 3.6.0
+- 共 94 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install poi-plugin-translator`
+- npm registry：https://registry.npmjs.org/poi-plugin-translator

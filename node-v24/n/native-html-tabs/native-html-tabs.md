@@ -1,0 +1,33 @@
+# native-html-tabs
+
+> 标签: components, custom elements, elements, html, tabs, vanilla
+
+## 简介
+
+HTML elements to build tab components. Made with vanilla HTML and JS, so no frameworks or libraries required.
+
+## 官网
+
+- 官网：https://github.com/LaNsHoR/native-html-tabs#readme
+- 源码仓库：git+https://github.com/LaNsHoR/native-html-tabs.git
+- npm 页面：https://www.npmjs.com/package/native-html-tabs
+
+## 历史版本号
+
+- 当前版本：0.1.6
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+
+## 获取地址
+
+- npm 安装：`npm install native-html-tabs`
+- npm registry：https://registry.npmjs.org/native-html-tabs

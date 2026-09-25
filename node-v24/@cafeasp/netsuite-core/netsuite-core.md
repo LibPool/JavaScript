@@ -1,0 +1,25 @@
+# @cafeasp/netsuite-core
+
+> 标签: erp, netsuite, oauth, rest-api, suiteql, tba
+
+## 简介
+
+NetSuite REST API and SuiteQL client library
+
+## 官网
+
+- 官网：https://github.com/cafeasp/netsuite-cli-mcp-server#readme
+- 源码仓库：git+https://github.com/cafeasp/netsuite-cli-mcp-server.git
+- npm 页面：https://www.npmjs.com/package/@cafeasp/netsuite-core
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @cafeasp/netsuite-core`
+- npm registry：https://registry.npmjs.org/@cafeasp/netsuite-core
+- Node 要求：>=18

@@ -1,0 +1,23 @@
+# doki-doki-hci
+
+> 标签: JavaScript
+
+## 简介
+
+A web automation tool for HCI
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/doki-doki-hci
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install doki-doki-hci`
+- npm registry：https://registry.npmjs.org/doki-doki-hci

@@ -1,0 +1,35 @@
+# jest-install-matcher-extends
+
+> 标签: assertions, create-by-tsdx, create-by-yarn-tool, extend, extended, jest, matchers, test, testing
+
+## 简介
+
+Auto-install Jest extended matchers utility / 自動安裝 Jest 擴展匹配器工具函式庫
+
+## 官网
+
+- 官网：https://github.com/bluelovers/ws-jest/tree/master/packages/jest-install-matcher-extends#readme
+- 源码仓库：git+https://github.com/bluelovers/ws-jest.git
+- npm 页面：https://www.npmjs.com/package/jest-install-matcher-extends
+
+## 历史版本号
+
+- 当前版本：1.0.17
+
+- 1.0.12
+- 1.0.13
+- 1.0.14
+- 1.0.15
+- 1.0.16
+- 1.0.17
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.7
+- 1.0.8
+- 1.0.9
+
+## 获取地址
+
+- npm 安装：`npm install jest-install-matcher-extends`
+- npm registry：https://registry.npmjs.org/jest-install-matcher-extends

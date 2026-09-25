@@ -1,0 +1,25 @@
+# @sigmastocks/sigmastocks-react-components
+
+> 标签: JavaScript
+
+## 简介
+
+Sigmastocks React Components
+
+## 官网
+
+- 官网：https://github.com/SigmastocksAB/sigmastocks-react-charts#readme
+- 源码仓库：git+https://github.com/SigmastocksAB/sigmastocks-react-charts.git
+- npm 页面：https://www.npmjs.com/package/@sigmastocks/sigmastocks-react-components
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @sigmastocks/sigmastocks-react-components`
+- npm registry：https://registry.npmjs.org/@sigmastocks/sigmastocks-react-components

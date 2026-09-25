@@ -1,0 +1,26 @@
+# @nxqbao/eth-signer-trezor
+
+> 标签: JavaScript
+
+## 简介
+
+Sign ethereum transaction/messages using Trezor
+
+## 官网
+
+- 官网：https://github.com/nxqbao/eth-signer-trezor#readme
+- 源码仓库：git+https://github.com/nxqbao/eth-signer-trezor.git
+- npm 页面：https://www.npmjs.com/package/@nxqbao/eth-signer-trezor
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 0.1.1
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @nxqbao/eth-signer-trezor`
+- npm registry：https://registry.npmjs.org/@nxqbao/eth-signer-trezor

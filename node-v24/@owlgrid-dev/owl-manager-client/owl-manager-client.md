@@ -1,0 +1,24 @@
+# @owlgrid-dev/owl-manager-client
+
+> 标签: owlgrid
+
+## 简介
+
+This is the Typescript SDK for the `owl-manager` service of OwlGrid.
+
+## 官网
+
+- 官网：https://github.com/owlgrid/owlgrid-ts-sdk#readme
+- 源码仓库：git+ssh://git@github.com/owlgrid/owlgrid-ts-sdk.git
+- npm 页面：https://www.npmjs.com/package/@owlgrid-dev/owl-manager-client
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @owlgrid-dev/owl-manager-client`
+- npm registry：https://registry.npmjs.org/@owlgrid-dev/owl-manager-client

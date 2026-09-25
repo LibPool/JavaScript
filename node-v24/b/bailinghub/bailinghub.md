@@ -1,0 +1,36 @@
+# bailinghub
+
+> 标签: agent, agent-gateway, agent-tools, ai, ai-agent, ai-middleware, approval-workflow, audit-trail, chatbot, human-in-the-loop, llm, mcp, middleware, openapi, self-hosted, tool-governance, workflow
+
+## 简介
+
+Open-source ACC runtime and agent control plane for existing business systems.
+
+## 官网
+
+- 官网：https://www.bailinghub.com
+- 源码仓库：git+https://github.com/bailinghub/bailinghub.git
+- npm 页面：https://www.npmjs.com/package/bailinghub
+
+## 历史版本号
+
+- 当前版本：0.9.0
+
+- 0.3.2
+- 0.3.2-rc.1
+- 0.3.3
+- 0.3.4
+- 0.4.0
+- 0.5.0
+- 0.5.1
+- 0.6.0
+- 0.6.1
+- 0.7.0
+- 0.8.0
+- 0.9.0
+
+## 获取地址
+
+- npm 安装：`npm install bailinghub`
+- npm registry：https://registry.npmjs.org/bailinghub
+- Node 要求：>=22

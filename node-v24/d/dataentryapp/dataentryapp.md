@@ -1,0 +1,22 @@
+# dataentryapp
+
+> 标签: JavaScript
+
+## 简介
+
+dataentryapp - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/dataentryapp
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install dataentryapp`
+- npm registry：https://registry.npmjs.org/dataentryapp

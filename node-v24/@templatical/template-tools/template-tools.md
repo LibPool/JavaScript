@@ -1,0 +1,30 @@
+# @templatical/template-tools
+
+> 标签: cli, email, email-template, json-schema, templatical, validation
+
+## 简介
+
+CLI and library for Templatical email templates — validate, render, edit, import, and live-preview
+
+## 官网
+
+- 官网：https://templatical.com
+- 源码仓库：git+https://github.com/templatical/sdk.git
+- npm 页面：https://www.npmjs.com/package/@templatical/template-tools
+
+## 历史版本号
+
+- 当前版本：0.40.0
+
+- 0.38.0
+- 0.39.0
+- 0.39.1
+- 0.39.2
+- 0.39.3
+- 0.39.4
+- 0.40.0
+
+## 获取地址
+
+- npm 安装：`npm install @templatical/template-tools`
+- npm registry：https://registry.npmjs.org/@templatical/template-tools

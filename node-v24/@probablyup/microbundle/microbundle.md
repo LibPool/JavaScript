@@ -1,0 +1,24 @@
+# @probablyup/microbundle
+
+> 标签: bundle, micro library, rollup
+
+## 简介
+
+Zero-configuration bundler for tiny JS libs, powered by Rollup. Forked from microbundle to add https://github.com/developit/microbundle/pull/1012 and will be deprecated if/when that change is eventually included.
+
+## 官网
+
+- 官网：https://github.com/developit/microbundle#readme
+- 源码仓库：git+https://github.com/developit/microbundle.git
+- npm 页面：https://www.npmjs.com/package/@probablyup/microbundle
+
+## 历史版本号
+
+- 当前版本：0.14.3
+
+- 0.14.3
+
+## 获取地址
+
+- npm 安装：`npm install @probablyup/microbundle`
+- npm registry：https://registry.npmjs.org/@probablyup/microbundle

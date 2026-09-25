@@ -1,0 +1,36 @@
+# @graphql-codegen/typed-document-node
+
+> 标签: JavaScript
+
+## 简介
+
+GraphQL Code Generator plugin for generating ready-to-use TypedDocumentNode based on GraphQL operations
+
+## 官网
+
+- 源码仓库：https://github.com/dotansimha/graphql-code-generator.git
+- npm 页面：https://www.npmjs.com/package/@graphql-codegen/typed-document-node
+
+## 历史版本号
+
+- 当前版本：7.1.0
+
+- 7.0.3-alpha-20260601135711-c7de66d21cb5b847190ede1d086709fee469cc0e
+- 7.0.3-alpha-20260601150944-44e7436d06cd549e9e499f9f644f17de11d74663
+- 7.0.4-alpha-20260603142609-c200bb102ff19a966cbef664cd4b5bef49c7aff0
+- 7.0.4-alpha-20260625140734-1ad8f133387ecf5e348a737d91b1a2e22bcfab4f
+- 7.0.4-alpha-20260706100445-26fa6516d5193ab4e1a3ccb82b4eab51712eb2ac
+- 7.0.4-alpha-20260706100712-200b55e0bc09de8d3e03b945f5ab57f119dfbf0e
+- 7.0.4-alpha-20260706105013-4378811d5d80ace8f4f2252d715a9ea56e16c4ad
+- 7.0.4-alpha-20260706105241-3de10ec4f3375e2a04ae89c71f5149909fe1dbbe
+- 7.0.4-alpha-20260706114607-dfb67acc06483c9aabcc5ede404d7f5327086d60
+- 7.1.0
+- 7.1.0-alpha-20260706115540-218d46ac54100ede5f16a599a4fdc4724c476597
+- 7.1.0-alpha-20260706131902-30ccf8e97c7aaa696488caa1b30d4ea70d9e6213
+- 共 2,653 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @graphql-codegen/typed-document-node`
+- npm registry：https://registry.npmjs.org/@graphql-codegen/typed-document-node
+- Node 要求：>=16

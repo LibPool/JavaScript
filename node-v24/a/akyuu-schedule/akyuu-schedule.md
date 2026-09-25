@@ -1,0 +1,26 @@
+# akyuu-schedule
+
+> 标签: akyuu, schedule
+
+## 简介
+
+schedule plug in for akyuu
+
+## 官网
+
+- 官网：https://github.com/akyuujs/akyuu-schedule#readme
+- 源码仓库：git+https://github.com/akyuujs/akyuu-schedule.git
+- npm 页面：https://www.npmjs.com/package/akyuu-schedule
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install akyuu-schedule`
+- npm registry：https://registry.npmjs.org/akyuu-schedule

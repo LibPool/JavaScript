@@ -1,0 +1,27 @@
+# pending-request-tracker
+
+> 标签: axios, pending requests, vuex
+
+## 简介
+
+This package generates a vuex module to track async requests 'pending' status.
+
+## 官网
+
+- 官网：https://github.com/pharkasbence/pending-request-tracker#readme
+- 源码仓库：git+https://github.com/pharkasbence/pending-request-tracker.git
+- npm 页面：https://www.npmjs.com/package/pending-request-tracker
+
+## 历史版本号
+
+- 当前版本：1.0.6
+
+- 1.0.1
+- 1.0.2
+- 1.0.4
+- 1.0.6
+
+## 获取地址
+
+- npm 安装：`npm install pending-request-tracker`
+- npm registry：https://registry.npmjs.org/pending-request-tracker

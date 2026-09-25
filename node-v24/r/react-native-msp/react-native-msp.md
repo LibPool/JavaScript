@@ -1,0 +1,24 @@
+# react-native-msp
+
+> 标签: Android, Native, Preference, React, Shared, react-component, react-native
+
+## 简介
+
+Android's Native key value storage system in React Native
+
+## 官网
+
+- 官网：https://github.com/li8/react-native-sp#readme
+- 源码仓库：git+ssh://git@github.com/li8/react-native-sp.git
+- npm 页面：https://www.npmjs.com/package/react-native-msp
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install react-native-msp`
+- npm registry：https://registry.npmjs.org/react-native-msp

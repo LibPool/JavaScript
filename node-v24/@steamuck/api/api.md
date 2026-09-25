@@ -1,0 +1,24 @@
+# @steamuck/api
+
+> 标签: loader, steam, steam-client, steamuck
+
+## 简介
+
+Steamuck API loader and bundle for Steam Client injection.
+
+## 官网
+
+- 官网：https://github.com/Steamuck/SDK#readme
+- 源码仓库：git+https://github.com/Steamuck/SDK.git
+- npm 页面：https://www.npmjs.com/package/@steamuck/api
+
+## 历史版本号
+
+- 当前版本：5.10.1
+
+- 5.10.1
+
+## 获取地址
+
+- npm 安装：`npm install @steamuck/api`
+- npm registry：https://registry.npmjs.org/@steamuck/api

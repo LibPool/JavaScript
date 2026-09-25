@@ -1,0 +1,34 @@
+# @formosaic/core
+
+> 标签: UI-agnostic, accessibility, async-validation, auto-save, business-rules, computed-values, conditional-fields, conditional-logic, config-driven, declarative, dynamic-forms, field-array, field-dependencies, form-builder, form-orchestration, form-state-management, form-validation, formosaic, forms, i18n, json-schema, react, react-hook-form, rjsf, rules-engine, typescript, validation, wizard, zod
+
+## 简介
+
+Core business rules engine and form orchestration for dynamic React forms
+
+## 官网
+
+- 官网：https://github.com/bghcore/formosaic#readme
+- 源码仓库：git+https://github.com/bghcore/formosaic.git
+- npm 页面：https://www.npmjs.com/package/@formosaic/core
+
+## 历史版本号
+
+- 当前版本：1.5.0
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.1.1
+- 1.2.0
+- 1.3.0
+- 1.3.1
+- 1.4.0
+- 1.4.1
+- 1.5.0
+
+## 获取地址
+
+- npm 安装：`npm install @formosaic/core`
+- npm registry：https://registry.npmjs.org/@formosaic/core
+- Node 要求：>=22

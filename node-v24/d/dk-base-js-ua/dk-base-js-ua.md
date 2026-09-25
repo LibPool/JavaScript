@@ -1,0 +1,24 @@
+# dk-base-js-ua
+
+> 标签: DKUA
+
+## 简介
+
+蛋壳UA组件
+
+## 官网
+
+- 源码仓库：git@gitlab.danke.life:dk-fe-npm/dk-base-js-ua.git
+- npm 页面：https://www.npmjs.com/package/dk-base-js-ua
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install dk-base-js-ua`
+- npm registry：https://registry.npmjs.org/dk-base-js-ua

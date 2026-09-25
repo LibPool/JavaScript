@@ -1,0 +1,25 @@
+# abyiss
+
+> 标签: crypto
+
+## 简介
+
+Abyiss js client library
+
+## 官网
+
+- 官网：https://github.com/Abyiss/Client-js#readme
+- 源码仓库：git+https://github.com/Abyiss/Client-js.git
+- npm 页面：https://www.npmjs.com/package/abyiss
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install abyiss`
+- npm registry：https://registry.npmjs.org/abyiss

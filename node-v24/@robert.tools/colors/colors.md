@@ -1,0 +1,25 @@
+# @robert.tools/colors
+
+> 标签: colors, node, robert.tools, typescript
+
+## 简介
+
+A collection of colors
+
+## 官网
+
+- 官网：https://github.com/robert-tools/colors#readme
+- 源码仓库：git+https://github.com/robert-tools/colors.git
+- npm 页面：https://www.npmjs.com/package/@robert.tools/colors
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @robert.tools/colors`
+- npm registry：https://registry.npmjs.org/@robert.tools/colors
+- Node 要求：>=22

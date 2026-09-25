@@ -1,0 +1,26 @@
+# capacitor-fingerprint-pro
+
+> 标签: capacitor, native, plugin
+
+## 简介
+
+Implement FingerprintJS
+
+## 官网
+
+- 官网：https://github.com/I2E-Consulting/cap-fingerprint.git#readme
+- 源码仓库：git+https://github.com/I2E-Consulting/cap-fingerprint.git.git
+- npm 页面：https://www.npmjs.com/package/capacitor-fingerprint-pro
+
+## 历史版本号
+
+- 当前版本：7.0.0
+
+- 1.0.0
+- 1.0.1
+- 7.0.0
+
+## 获取地址
+
+- npm 安装：`npm install capacitor-fingerprint-pro`
+- npm registry：https://registry.npmjs.org/capacitor-fingerprint-pro

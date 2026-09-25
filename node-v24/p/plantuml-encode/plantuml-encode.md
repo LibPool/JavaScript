@@ -1,0 +1,25 @@
+# plantuml-encode
+
+> 标签: encode, plantuml
+
+## 简介
+
+PlantUML Encode
+
+## 官网
+
+- 官网：https://github.com/eks5115/plantuml-encode#readme
+- 源码仓库：git+https://github.com/eks5115/plantuml-encode.git
+- npm 页面：https://www.npmjs.com/package/plantuml-encode
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install plantuml-encode`
+- npm registry：https://registry.npmjs.org/plantuml-encode

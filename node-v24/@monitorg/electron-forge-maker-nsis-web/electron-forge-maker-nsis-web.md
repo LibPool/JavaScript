@@ -1,0 +1,25 @@
+# @monitorg/electron-forge-maker-nsis-web
+
+> 标签: JavaScript
+
+## 简介
+
+[electron-builder](https://github.com/electron-userland/electron-builder) [nsis-web](https://electron.build/configuration/nsis) target for electron-forge.
+
+## 官网
+
+- 官网：https://github.com/electron-userland/electron-builder
+- 源码仓库：git+https://github.com/electron-userland/electron-builder.git
+- npm 页面：https://www.npmjs.com/package/@monitorg/electron-forge-maker-nsis-web
+
+## 历史版本号
+
+- 当前版本：20.37.0-patch.1
+
+- 20.37.0
+- 20.37.0-patch.1
+
+## 获取地址
+
+- npm 安装：`npm install @monitorg/electron-forge-maker-nsis-web`
+- npm registry：https://registry.npmjs.org/@monitorg/electron-forge-maker-nsis-web

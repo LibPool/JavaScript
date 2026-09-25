@@ -1,0 +1,30 @@
+# beef-npm
+
+> 标签: beef, been, exploitation, nodejs
+
+## 简介
+
+Node.js package to install and interact with BeEF (Browser Exploitation Framework)
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/beef-npm
+
+## 历史版本号
+
+- 当前版本：1.8.0
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 1.4.0
+- 1.5.0
+- 1.6.0
+- 1.7.0
+- 1.8.0
+
+## 获取地址
+
+- npm 安装：`npm install beef-npm`
+- npm registry：https://registry.npmjs.org/beef-npm

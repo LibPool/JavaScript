@@ -1,0 +1,28 @@
+# @nodert-win10-rs3/windows.ui.xaml.automation.provider
+
+> 标签: Automation, IAnnotationProvider, ICustomNavigationProvider, IDockProvider, IDragProvider, IDropTargetProvider, IExpandCollapseProvider, IGridItemProvider, IGridProvider, IInvokeProvider, IItemContainerProvider, IMultipleViewProvider, IObjectModelProvider, IRangeValueProvider, IRawElementProviderSimple, IScrollItemProvider, IScrollProvider, ISelectionItemProvider, ISelectionProvider, ISpreadsheetItemProvider, ISpreadsheetProvider, IStylesProvider, ISynchronizedInputProvider, ITableItemProvider, ITableProvider, ITextChildProvider, ITextEditProvider, ITextProvider, ITextProvider2, ITextRangeProvider, ITextRangeProvider2, IToggleProvider, ITransformProvider, ITransformProvider2, IValueProvider, IVirtualizedItemProvider, IWindowProvider, Microsoft, NodeRT, Provider, UI, WinRT, Windows, Windows.UI.Xaml.Automation.Provider, Xaml
+
+## 简介
+
+Use the Windows.UI.Xaml.Automation.Provider UWP API directly from Node.js
+
+## 官网
+
+- 官网：https://github.com/NodeRT/NodeRT
+- 源码仓库：git://github.com/NodeRT/NodeRT.git
+- npm 页面：https://www.npmjs.com/package/@nodert-win10-rs3/windows.ui.xaml.automation.provider
+
+## 历史版本号
+
+- 当前版本：0.4.4
+
+- 0.3.1
+- 0.3.2
+- 0.4.0
+- 0.4.3
+- 0.4.4
+
+## 获取地址
+
+- npm 安装：`npm install @nodert-win10-rs3/windows.ui.xaml.automation.provider`
+- npm registry：https://registry.npmjs.org/@nodert-win10-rs3/windows.ui.xaml.automation.provider

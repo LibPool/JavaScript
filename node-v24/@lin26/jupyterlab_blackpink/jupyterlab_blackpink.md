@@ -1,0 +1,24 @@
+# @lin26/jupyterlab_blackpink
+
+> 标签: jupyter, jupyterlab, jupyterlab-extension, jupyterlab-theme
+
+## 简介
+
+A JupyterLab theme inspired by Korean girl band, BLΛƆKPIИK
+
+## 官网
+
+- 官网：https://github.com/LintangWisesa/JupyterLab_Theme_Blackpink
+- 源码仓库：git+https://github.com/LintangWisesa/JupyterLab_Theme_Blackpink.git
+- npm 页面：https://www.npmjs.com/package/@lin26/jupyterlab_blackpink
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @lin26/jupyterlab_blackpink`
+- npm registry：https://registry.npmjs.org/@lin26/jupyterlab_blackpink

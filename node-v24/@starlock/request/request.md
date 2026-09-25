@@ -1,0 +1,25 @@
+# @starlock/request
+
+> 标签: http, request
+
+## 简介
+
+http request
+
+## 官网
+
+- 源码仓库：git@gitee.com:allen0112/allen.git
+- npm 页面：https://www.npmjs.com/package/@starlock/request
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @starlock/request`
+- npm registry：https://registry.npmjs.org/@starlock/request

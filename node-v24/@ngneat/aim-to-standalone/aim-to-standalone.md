@@ -1,0 +1,27 @@
+# @ngneat/aim-to-standalone
+
+> 标签: oclif
+
+## 简介
+
+Convert AIM to standalone
+
+## 官网
+
+- 官网：https://github.com/https://github.com/ngneat/aim/https://github.com/ngneat/aim
+- 源码仓库：https://github.com/ngneat/aim/https://github.com/ngneat/aim
+- npm 页面：https://www.npmjs.com/package/@ngneat/aim-to-standalone
+
+## 历史版本号
+
+- 当前版本：1.0.0-beta.2
+
+- 1.0.0-beta.0
+- 1.0.0-beta.1
+- 1.0.0-beta.2
+
+## 获取地址
+
+- npm 安装：`npm install @ngneat/aim-to-standalone`
+- npm registry：https://registry.npmjs.org/@ngneat/aim-to-standalone
+- Node 要求：>=12.0.0

@@ -1,0 +1,30 @@
+# oktoflow-transex
+
+> 标签: angular, ast, binary-tree, expression-editor, formula-builder, parser, type-inference, validation
+
+## 简介
+
+Angular Expression Editor - Context-aware expression builder with validation, type inference, and AST generation
+
+## 官网
+
+- 官网：https://github.com/AhmedSalem93/oktoflow-transex/blob/main/README.md
+- 源码仓库：git+https://github.com/AhmedSalem93/oktoflow-transex.git
+- npm 页面：https://www.npmjs.com/package/oktoflow-transex
+
+## 历史版本号
+
+- 当前版本：1.0.6
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+
+## 获取地址
+
+- npm 安装：`npm install oktoflow-transex`
+- npm registry：https://registry.npmjs.org/oktoflow-transex

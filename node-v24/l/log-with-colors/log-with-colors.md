@@ -1,0 +1,31 @@
+# log-with-colors
+
+> 标签: chalk, colors, console, console.log, log
+
+## 简介
+
+simple syntax for logging to console using colors, based on chalk
+
+## 官网
+
+- 官网：https://github.com/al-lopes/log-with-colors#readme
+- 源码仓库：git+ssh://git@github.com/al-lopes/log-with-colors.git
+- npm 页面：https://www.npmjs.com/package/log-with-colors
+
+## 历史版本号
+
+- 当前版本：1.0.7
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+
+## 获取地址
+
+- npm 安装：`npm install log-with-colors`
+- npm registry：https://registry.npmjs.org/log-with-colors

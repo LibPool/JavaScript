@@ -1,0 +1,26 @@
+# generator-gitignore-cj
+
+> 标签: javascript, yeoman-generator
+
+## 简介
+
+generator-gitignore-cj - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/generator-gitignore-cj
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.0
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install generator-gitignore-cj`
+- npm registry：https://registry.npmjs.org/generator-gitignore-cj

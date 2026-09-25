@@ -1,0 +1,27 @@
+# @chatspark/sdk
+
+> 标签: ai, api, chatbot, chatspark, sdk
+
+## 简介
+
+Official Node.js/TypeScript SDK for the ChatSpark REST API
+
+## 官网
+
+- 官网：https://github.com/contempoinc/chatspark-sdk#readme
+- 源码仓库：git+https://github.com/contempoinc/chatspark-sdk.git
+- npm 页面：https://www.npmjs.com/package/@chatspark/sdk
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @chatspark/sdk`
+- npm registry：https://registry.npmjs.org/@chatspark/sdk
+- Node 要求：>=18

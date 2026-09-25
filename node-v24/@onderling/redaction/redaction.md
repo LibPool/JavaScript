@@ -1,0 +1,24 @@
+# @onderling/redaction
+
+> 标签: JavaScript
+
+## 简介
+
+Generic, config-driven redaction atom. redact(text, config) → {text, hits}: ordered regex rules + named-validator registry (bsn-11proef, nl-phone, iban, luhn) + an optional gazetteer name-pass. Locale-agnostic — all locale content is data the caller suppl
+
+## 官网
+
+- 官网：https://github.com/Onderling/basis/tree/master/packages/redaction#readme
+- 源码仓库：git+https://github.com/Onderling/basis.git
+- npm 页面：https://www.npmjs.com/package/@onderling/redaction
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @onderling/redaction`
+- npm registry：https://registry.npmjs.org/@onderling/redaction

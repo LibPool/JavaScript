@@ -1,0 +1,25 @@
+# swarmkvd
+
+> 标签: hyperlog, kv, swarmkv, swarmlog
+
+## 简介
+
+run your own distributed key-value store!
+
+## 官网
+
+- 官网：https://github.com/elsehow/swarmkvd#readme
+- 源码仓库：git+https://github.com/elsehow/swarmkvd.git
+- npm 页面：https://www.npmjs.com/package/swarmkvd
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install swarmkvd`
+- npm registry：https://registry.npmjs.org/swarmkvd

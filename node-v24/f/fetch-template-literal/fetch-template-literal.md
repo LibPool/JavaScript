@@ -1,0 +1,24 @@
+# fetch-template-literal
+
+> 标签: JavaScript
+
+## 简介
+
+A tool for making http requests using template literals and fetch
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/fetch-template-literal
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.0.1
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install fetch-template-literal`
+- npm registry：https://registry.npmjs.org/fetch-template-literal

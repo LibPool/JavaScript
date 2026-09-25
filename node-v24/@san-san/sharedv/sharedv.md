@@ -1,0 +1,23 @@
+# @san-san/sharedv
+
+> 标签: JavaScript
+
+## 简介
+
+Shared utilities for sansan
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@san-san/sharedv
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @san-san/sharedv`
+- npm registry：https://registry.npmjs.org/@san-san/sharedv

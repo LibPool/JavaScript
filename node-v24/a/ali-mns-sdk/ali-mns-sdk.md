@@ -1,0 +1,32 @@
+# ali-mns-sdk
+
+> 标签: aliyun, mns, mqs
+
+## 简介
+
+The nodejs SDK for aliyun mns service
+
+## 官网
+
+- 官网：https://github.com/qinyang1980/ali-mns
+- 源码仓库：git+https://github.com/InCar/ali-mns.git
+- npm 页面：https://www.npmjs.com/package/ali-mns-sdk
+
+## 历史版本号
+
+- 当前版本：1.0.8
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+
+## 获取地址
+
+- npm 安装：`npm install ali-mns-sdk`
+- npm registry：https://registry.npmjs.org/ali-mns-sdk

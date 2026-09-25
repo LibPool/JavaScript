@@ -1,0 +1,24 @@
+# sinea-pixi
+
+> 标签: JavaScript
+
+## 简介
+
+Home header animation PXI
+
+## 官网
+
+- 官网：https://github.com/TerenceVanara/Sinea
+- 源码仓库：git+https://github.com/TerenceVanara/Sinea.git
+- npm 页面：https://www.npmjs.com/package/sinea-pixi
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install sinea-pixi`
+- npm registry：https://registry.npmjs.org/sinea-pixi

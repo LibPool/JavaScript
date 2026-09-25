@@ -1,0 +1,27 @@
+# react-native-tone
+
+> 标签: react-native, sound, tone
+
+## 简介
+
+Simple library for playing tones in React Native (iOS only).
+
+## 官网
+
+- 官网：https://github.com/oliviachang29/react-native-tone
+- npm 页面：https://www.npmjs.com/package/react-native-tone
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install react-native-tone`
+- npm registry：https://registry.npmjs.org/react-native-tone

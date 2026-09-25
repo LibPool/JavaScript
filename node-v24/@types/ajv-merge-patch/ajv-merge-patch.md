@@ -1,0 +1,28 @@
+# @types/ajv-merge-patch
+
+> 标签: JavaScript
+
+## 简介
+
+TypeScript definitions for ajv-merge-patch
+
+## 官网
+
+- 官网：https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/ajv-merge-patch
+- 源码仓库：https://github.com/DefinitelyTyped/DefinitelyTyped.git
+- npm 页面：https://www.npmjs.com/package/@types/ajv-merge-patch
+
+## 历史版本号
+
+- 当前版本：4.1.4
+
+- 4.1.0
+- 4.1.1
+- 4.1.2
+- 4.1.3
+- 4.1.4
+
+## 获取地址
+
+- npm 安装：`npm install @types/ajv-merge-patch`
+- npm registry：https://registry.npmjs.org/@types/ajv-merge-patch

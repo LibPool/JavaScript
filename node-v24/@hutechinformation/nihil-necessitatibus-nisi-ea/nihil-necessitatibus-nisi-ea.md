@@ -1,0 +1,24 @@
+# @hutechinformation/nihil-necessitatibus-nisi-ea
+
+> 标签: JavaScript
+
+## 简介
+
+@hutechinformation/nihil-necessitatibus-nisi-ea - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/hutechinformation/nihil-necessitatibus-nisi-ea#readme
+- 源码仓库：git+https://github.com/hutechinformation/nihil-necessitatibus-nisi-ea.git
+- npm 页面：https://www.npmjs.com/package/@hutechinformation/nihil-necessitatibus-nisi-ea
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @hutechinformation/nihil-necessitatibus-nisi-ea`
+- npm registry：https://registry.npmjs.org/@hutechinformation/nihil-necessitatibus-nisi-ea

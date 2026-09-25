@@ -1,0 +1,27 @@
+# @stereobot/ms
+
+> 标签: ms, parser, parser-ms
+
+## 简介
+
+A ms parser for a bot, Stereo
+
+## 官网
+
+- 官网：https://github.com/Stereo-Developers/ms#readme
+- 源码仓库：git+https://github.com/Stereo-Developers/ms.git
+- npm 页面：https://www.npmjs.com/package/@stereobot/ms
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @stereobot/ms`
+- npm registry：https://registry.npmjs.org/@stereobot/ms

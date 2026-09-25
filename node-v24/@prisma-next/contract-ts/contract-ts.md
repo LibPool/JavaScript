@@ -1,0 +1,34 @@
+# @prisma-next/contract-ts
+
+> 标签: JavaScript
+
+## 简介
+
+TypeScript authoring surface for Prisma Next (future)
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@prisma-next/contract-ts
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.3.0-dev.138
+- 0.3.0-dev.139
+- 0.3.0-dev.140
+- 0.3.0-dev.141
+- 0.3.0-dev.142
+- 0.3.0-dev.143
+- 0.3.0-dev.144
+- 0.3.0-dev.95
+- 0.3.0-dev.96
+- 0.3.0-dev.97
+- 0.3.0-dev.98
+- 0.3.0-dev.99
+- 共 567 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @prisma-next/contract-ts`
+- npm registry：https://registry.npmjs.org/@prisma-next/contract-ts

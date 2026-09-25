@@ -1,0 +1,36 @@
+# pmx
+
+> 标签: cli, cluster, cluster cli, clustering, cron, custom actions, daemon, deploy, deployment, dev ops, devops, express, fault tolerant, forever, forever-monitor, ghost, ghost production, hapi, harmony, json, keep process alive, keymetrics, kraken, log, logs, metrics, microservice, monitoring, node-pm2, node.js monitoring, nodemon, pm2, pm2.io, probes, process configuration, process manager, process metrics, process-metrics, production, profiling, programmatic, reload, strong-pm, supervisor, sysadmin, tools
+
+## 简介
+
+PM2/Keymetrics advanced API
+
+## 官网
+
+- 官网：https://github.com/keymetrics/pmx#readme
+- 源码仓库：git+https://github.com/keymetrics/pmx.git
+- npm 页面：https://www.npmjs.com/package/pmx
+
+## 历史版本号
+
+- 当前版本：1.6.8
+
+- 1.5.4
+- 1.5.5
+- 1.5.6
+- 1.6.0-next
+- 1.6.1-next
+- 1.6.2-next
+- 1.6.3
+- 1.6.3-next
+- 1.6.3-rc2
+- 1.6.4
+- 1.6.7
+- 1.6.8
+- 共 90 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install pmx`
+- npm registry：https://registry.npmjs.org/pmx

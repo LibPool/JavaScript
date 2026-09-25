@@ -1,0 +1,35 @@
+# hand-moveable-slider
+
+> 标签: component, hand-moveable-slider, interactive, mouse, mouse-slider, react, scroll, slider
+
+## 简介
+
+Hand-Moveable-Slider to create a scrollable slider using mouse interactions.
+
+## 官网
+
+- 官网：https://github.com/SaqibAltaf/my-npm/tree/master#readme
+- 源码仓库：git+https://github.com/SaqibAltaf/my-npm.git#master
+- npm 页面：https://www.npmjs.com/package/hand-moveable-slider
+
+## 历史版本号
+
+- 当前版本：0.0.12
+
+- 0.0.0
+- 0.0.1
+- 0.0.10
+- 0.0.11
+- 0.0.12
+- 0.0.2
+- 0.0.3
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install hand-moveable-slider`
+- npm registry：https://registry.npmjs.org/hand-moveable-slider

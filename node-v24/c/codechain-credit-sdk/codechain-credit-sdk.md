@@ -1,0 +1,24 @@
+# codechain-credit-sdk
+
+> 标签: CodeChain
+
+## 简介
+
+A JavaScript SDK for CodeChain Credit
+
+## 官网
+
+- 官网：https://github.com/CodeChain-io/codechain-credit-sdk-js#readme
+- 源码仓库：git+https://github.com/CodeChain-io/codechain-credit-sdk-js.git
+- npm 页面：https://www.npmjs.com/package/codechain-credit-sdk
+
+## 历史版本号
+
+- 当前版本：1.0.0-rc0
+
+- 1.0.0-rc0
+
+## 获取地址
+
+- npm 安装：`npm install codechain-credit-sdk`
+- npm registry：https://registry.npmjs.org/codechain-credit-sdk

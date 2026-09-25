@@ -1,0 +1,36 @@
+# autarchitecto
+
+> 标签: client, cupiditate, nesciunt, repudiandae
+
+## 简介
+
+The official JS toolkit & bindings for the Axiom API
+
+## 官网
+
+- 官网：https://github.com/BrandyBalistreri/autarchitecto.git
+- 源码仓库：git+https://github.com/BrandyBalistreri/autarchitecto.git
+- npm 页面：https://www.npmjs.com/package/autarchitecto
+
+## 历史版本号
+
+- 当前版本：1.11.0
+
+- 1.6.0
+- 1.6.1
+- 1.7.0
+- 1.7.1
+- 1.7.2
+- 1.7.3
+- 1.7.4
+- 1.7.5
+- 1.7.6
+- 1.8.0
+- 1.8.1
+- 1.9.0
+
+## 获取地址
+
+- npm 安装：`npm install autarchitecto`
+- npm registry：https://registry.npmjs.org/autarchitecto
+- Node 要求：>=16

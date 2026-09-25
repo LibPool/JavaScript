@@ -1,0 +1,25 @@
+# @darcytech/axios
+
+> 标签: ajax, http, node, promise, xhr
+
+## 简介
+
+Promise based HTTP client for the browser and node.js
+
+## 官网
+
+- 官网：https://axios-http.com
+- 源码仓库：git+https://github.com/noshower/axios.git
+- npm 页面：https://www.npmjs.com/package/@darcytech/axios
+
+## 历史版本号
+
+- 当前版本：1.3.6
+
+- 1.3.5
+- 1.3.6
+
+## 获取地址
+
+- npm 安装：`npm install @darcytech/axios`
+- npm registry：https://registry.npmjs.org/@darcytech/axios

@@ -1,0 +1,28 @@
+# @pucp-gidis-hiisc/esm-coststructure-app
+
+> 标签: openmrs, sihsalus
+
+## 简介
+
+OpenMRS ESM Cost Structure Microfrontend Module for SIHSALUS
+
+## 官网
+
+- 官网：https://github.com/PROYECTO-SANTACLOTILDE/sihsalus-esm-modules#readme
+- 源码仓库：git+https://github.com/PROYECTO-SANTACLOTILDE/sihsalus-esm-modules.git
+- npm 页面：https://www.npmjs.com/package/@pucp-gidis-hiisc/esm-coststructure-app
+
+## 历史版本号
+
+- 当前版本：1.7.1
+
+- 1.4.0
+- 1.5.0
+- 1.6.0
+- 1.7.0
+- 1.7.1
+
+## 获取地址
+
+- npm 安装：`npm install @pucp-gidis-hiisc/esm-coststructure-app`
+- npm registry：https://registry.npmjs.org/@pucp-gidis-hiisc/esm-coststructure-app

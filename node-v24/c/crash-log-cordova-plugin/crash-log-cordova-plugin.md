@@ -1,0 +1,24 @@
+# crash-log-cordova-plugin
+
+> 标签: cordova, crash, log
+
+## 简介
+
+save crash info to log file.
+
+## 官网
+
+- 官网：https://github.com/shuto-cn/crash-log-cordova-plugin#readme
+- 源码仓库：git+https://github.com/shuto-cn/crash-log-cordova-plugin.git
+- npm 页面：https://www.npmjs.com/package/crash-log-cordova-plugin
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install crash-log-cordova-plugin`
+- npm registry：https://registry.npmjs.org/crash-log-cordova-plugin

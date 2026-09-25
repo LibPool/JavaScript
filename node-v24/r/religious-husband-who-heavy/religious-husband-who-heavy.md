@@ -1,0 +1,24 @@
+# religious-husband-who-heavy
+
+> 标签: component, components, design, framework, frontend, react, react-component, ui, web3
+
+## 简介
+
+religious-husband-who-heavy
+
+## 官网
+
+- 官网：https://github.com/religious-husband-who-heavy/religious-husband-who-heavy#readme
+- 源码仓库：git+https://github.com/religious-husband-who-heavy/religious-husband-who-heavy.git
+- npm 页面：https://www.npmjs.com/package/religious-husband-who-heavy
+
+## 历史版本号
+
+- 当前版本：3.7.60
+
+- 3.7.60
+
+## 获取地址
+
+- npm 安装：`npm install religious-husband-who-heavy`
+- npm registry：https://registry.npmjs.org/religious-husband-who-heavy

@@ -1,0 +1,33 @@
+# zeroc-components
+
+> 标签: JavaScript
+
+## 简介
+
+Una librería de componentes basada en Next.js, Tailwind CSS y Dexie
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/zeroc-components
+
+## 历史版本号
+
+- 当前版本：1.0.40
+
+- 1.0.34
+- 1.0.36
+- 1.0.37
+- 1.0.38
+- 1.0.39
+- 1.0.4
+- 1.0.40
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+
+## 获取地址
+
+- npm 安装：`npm install zeroc-components`
+- npm registry：https://registry.npmjs.org/zeroc-components

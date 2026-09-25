@@ -1,0 +1,36 @@
+# @intlayer/vue-i18n
+
+> 标签: JavaScript
+
+## 简介
+
+vue-i18n API adapter for intlayer — useI18n, createI18n, and installIntlayer backed by vue-intlayer
+
+## 官网
+
+- 官网：https://intlayer.org
+- 源码仓库：git+https://github.com/aymericzip/intlayer.git
+- npm 页面：https://www.npmjs.com/package/@intlayer/vue-i18n
+
+## 历史版本号
+
+- 当前版本：9.5.6
+
+- 9.4.1
+- 9.4.2
+- 9.4.3
+- 9.4.4
+- 9.5.0
+- 9.5.1
+- 9.5.2
+- 9.5.3
+- 9.5.4
+- 9.5.4-canary.0
+- 9.5.5
+- 9.5.6
+
+## 获取地址
+
+- npm 安装：`npm install @intlayer/vue-i18n`
+- npm registry：https://registry.npmjs.org/@intlayer/vue-i18n
+- Node 要求：>=14.18

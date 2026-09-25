@@ -1,0 +1,28 @@
+# @etohq/commerce-store
+
+> 标签: JavaScript
+
+## 简介
+
+Eto Store module
+
+## 官网
+
+- 官网：https://github.com/etohq/eto#readme
+- 源码仓库：git+https://github.com/etohq/eto.git
+- npm 页面：https://www.npmjs.com/package/@etohq/commerce-store
+
+## 历史版本号
+
+- 当前版本：1.3.0
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @etohq/commerce-store`
+- npm registry：https://registry.npmjs.org/@etohq/commerce-store
+- Node 要求：>=20

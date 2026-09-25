@@ -1,0 +1,25 @@
+# @ebeloded/figma-cli
+
+> 标签: api, cli, design, design-tokens, export, figma
+
+## 简介
+
+Scriptable CLI for the Figma REST API. Like gh for GitHub, but for Figma.
+
+## 官网
+
+- 官网：https://github.com/ebeloded/figma-cli#readme
+- 源码仓库：git+https://github.com/ebeloded/figma-cli.git
+- npm 页面：https://www.npmjs.com/package/@ebeloded/figma-cli
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @ebeloded/figma-cli`
+- npm registry：https://registry.npmjs.org/@ebeloded/figma-cli

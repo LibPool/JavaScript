@@ -1,0 +1,35 @@
+# jmapcloud-ng
+
+> 标签: JavaScript
+
+## 简介
+
+K2 Geospatial Web Client
+
+## 官网
+
+- 官网：https://www.npmjs.com/package/jmapcloud-ng
+- npm 页面：https://www.npmjs.com/package/jmapcloud-ng
+
+## 历史版本号
+
+- 当前版本：2.0.16
+
+- 2.0.15-qa.9
+- 2.0.15-staging.1
+- 2.0.16
+- 2.0.16-qa.1
+- 2.0.16-qa.2
+- 2.0.16-staging.1
+- 2.0.17-qa.1
+- 2.0.17-qa.2
+- 2.0.17-qa.3
+- 2.0.17-qa.4
+- 2.0.17-qa.5
+- 2.0.17-qa.6
+- 共 333 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install jmapcloud-ng`
+- npm registry：https://registry.npmjs.org/jmapcloud-ng

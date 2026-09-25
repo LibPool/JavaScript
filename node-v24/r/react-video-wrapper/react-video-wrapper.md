@@ -1,0 +1,26 @@
+# react-video-wrapper
+
+> 标签: react
+
+## 简介
+
+React Video Wrapper works for react 16
+
+## 官网
+
+- 官网：https://github.com/mcshiz/react-video-wrapper#readme
+- 源码仓库：git+https://github.com/mcshiz/react-video-wrapper.git
+- npm 页面：https://www.npmjs.com/package/react-video-wrapper
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install react-video-wrapper`
+- npm registry：https://registry.npmjs.org/react-video-wrapper

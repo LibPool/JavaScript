@@ -1,0 +1,34 @@
+# soroswap-router-sdk
+
+> 标签: JavaScript
+
+## 简介
+
+[![npm version](https://badge.fury.io/js/soroswap-router-sdk.svg)](https://badge.fury.io/js/soroswap-router-sdk)
+
+## 官网
+
+- 源码仓库：https://github.com/soroswap/soroswap-router-sdk.git
+- npm 页面：https://www.npmjs.com/package/soroswap-router-sdk
+
+## 历史版本号
+
+- 当前版本：1.4.6
+
+- 1.2.13
+- 1.2.2
+- 1.2.3
+- 1.2.4
+- 1.2.5
+- 1.2.6
+- 1.2.7
+- 1.2.8
+- 1.2.9
+- 1.3.0
+- 1.4.0
+- 1.4.6
+
+## 获取地址
+
+- npm 安装：`npm install soroswap-router-sdk`
+- npm registry：https://registry.npmjs.org/soroswap-router-sdk

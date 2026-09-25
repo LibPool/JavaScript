@@ -1,0 +1,23 @@
+# vncitizens-bridge
+
+> 标签: bridge, flutter, jwt, miniapp, vncitizens, webview
+
+## 简介
+
+JWT bridge giữa Flutter InAppWebView và VNCitizens mini apps
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/vncitizens-bridge
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install vncitizens-bridge`
+- npm registry：https://registry.npmjs.org/vncitizens-bridge

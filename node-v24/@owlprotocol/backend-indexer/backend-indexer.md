@@ -1,0 +1,25 @@
+# @owlprotocol/backend-indexer
+
+> 标签: JavaScript
+
+## 简介
+
+[Public Client](https://viem.sh/docs/clients/public.html) designed to work with [viem](https://viem.sh/) or as a simple [EIP1193](https://eips.ethereum.org/EIPS/eip-1193) provider and index data on Firebase.
+
+## 官网
+
+- 官网：https://github.com/owlprotocol/workspace-public
+- 源码仓库：git+https://github.com/owlprotocol/workspace-public.git
+- npm 页面：https://www.npmjs.com/package/@owlprotocol/backend-indexer
+
+## 历史版本号
+
+- 当前版本：3.1.3
+
+- 3.1.3
+
+## 获取地址
+
+- npm 安装：`npm install @owlprotocol/backend-indexer`
+- npm registry：https://registry.npmjs.org/@owlprotocol/backend-indexer
+- Node 要求：^18.0.0

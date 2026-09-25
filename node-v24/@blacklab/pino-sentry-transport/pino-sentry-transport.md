@@ -1,0 +1,36 @@
+# @blacklab/pino-sentry-transport
+
+> 标签: Sentry, pino, typescript
+
+## 简介
+
+Sentry Transport for Pino
+
+## 官网
+
+- 官网：https://github.com/gooftroop/pino-sentry-transport#readme
+- 源码仓库：git+https://github.com/gooftroop/pino-sentry-transport.git
+- npm 页面：https://www.npmjs.com/package/@blacklab/pino-sentry-transport
+
+## 历史版本号
+
+- 当前版本：1.2.4
+
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.1.6
+- 1.1.7
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.2.3
+- 1.2.4
+
+## 获取地址
+
+- npm 安装：`npm install @blacklab/pino-sentry-transport`
+- npm registry：https://registry.npmjs.org/@blacklab/pino-sentry-transport
+- Node 要求：>=18.0.0

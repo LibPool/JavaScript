@@ -1,0 +1,26 @@
+# @nexora.ts/config
+
+> 标签: bot, discord, nexora, typescript
+
+## 简介
+
+Configuration loader with type-safe defineConfig()
+
+## 官网
+
+- 官网：https://github.com/ogcjay/nexorajs#readme
+- 源码仓库：git+https://github.com/ogcjay/nexorajs.git
+- npm 页面：https://www.npmjs.com/package/@nexora.ts/config
+
+## 历史版本号
+
+- 当前版本：0.1.4
+
+- 0.1.3
+- 0.1.4
+
+## 获取地址
+
+- npm 安装：`npm install @nexora.ts/config`
+- npm registry：https://registry.npmjs.org/@nexora.ts/config
+- Node 要求：>=20.0.0

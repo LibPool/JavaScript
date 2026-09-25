@@ -1,0 +1,30 @@
+# hube
+
+> 标签: bus, event, hub, pub, redis, sub
+
+## 简介
+
+hube provide a layer on top off redis like on can do pub sup with just one class
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/hube
+
+## 历史版本号
+
+- 当前版本：0.0.9
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install hube`
+- npm registry：https://registry.npmjs.org/hube

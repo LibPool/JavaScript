@@ -1,0 +1,27 @@
+# appium-self-healing-mobile
+
+> 标签: appium, automation, e2e, mobile-testing, qa, self-healing, webdriverio
+
+## 简介
+
+An intelligent, heuristic-based self-healing mechanism for Appium and WebdriverIO mobile automation.
+
+## 官网
+
+- 官网：https://github.com/Jasr4075/appium-self-healing-mobile#readme
+- 源码仓库：git+https://github.com/Jasr4075/appium-self-healing-mobile.git
+- npm 页面：https://www.npmjs.com/package/appium-self-healing-mobile
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install appium-self-healing-mobile`
+- npm registry：https://registry.npmjs.org/appium-self-healing-mobile
+- Node 要求：>=22.12.0

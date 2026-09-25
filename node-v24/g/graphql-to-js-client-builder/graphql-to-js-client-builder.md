@@ -1,0 +1,25 @@
+# graphql-to-js-client-builder
+
+> 标签: JavaScript
+
+## 简介
+
+convert raw graphql syntax to graphql-js-client query builder javascript code
+
+## 官网
+
+- 官网：https://github.com/Shopify/graphql-to-js-client-query-builder#readme
+- 源码仓库：git+ssh://git@github.com/Shopify/graphql-to-js-client-query-builder.git
+- npm 页面：https://www.npmjs.com/package/graphql-to-js-client-builder
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.1
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install graphql-to-js-client-builder`
+- npm registry：https://registry.npmjs.org/graphql-to-js-client-builder
