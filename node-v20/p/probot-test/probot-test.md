@@ -1,0 +1,36 @@
+# probot-test
+
+> 标签: automation
+
+## 简介
+
+foo bar baz qux, zazzy barry buddah, testing repo for semantic-release-app
+
+## 官网
+
+- 官网：https://github.com/olstenlarck/probot-test#readme
+- 源码仓库：git+https://github.com/olstenlarck/probot-test.git
+- npm 页面：https://www.npmjs.com/package/probot-test
+
+## 历史版本号
+
+- 当前版本：2.0.1
+
+- 0.3.0
+- 0.4.0
+- 0.4.1
+- 0.5.0
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.1.0
+- 1.2.0
+- 2.0.0
+- 2.0.1
+
+## 获取地址
+
+- npm 安装：`npm install probot-test`
+- npm registry：https://registry.npmjs.org/probot-test
+- Node 要求：>=8

@@ -1,0 +1,36 @@
+# cypress-scenario-runner
+
+> 标签: bdd, cucumber, cypress, cypress.io, gherkin, scenario, test
+
+## 简介
+
+Run Gherkin scenarios with Cypress without a single line of code.
+
+## 官网
+
+- 官网：https://github.com/mpetrovich/cypress-scenario-runner#readme
+- 源码仓库：git+https://github.com/mpetrovich/cypress-scenario-runner.git
+- npm 页面：https://www.npmjs.com/package/cypress-scenario-runner
+
+## 历史版本号
+
+- 当前版本：2.1.2
+
+- 2.0.0
+- 2.0.0-beta.0
+- 2.0.0-beta.1
+- 2.1.0
+- 2.1.0-beta.0
+- 2.1.0-beta.1
+- 2.1.0-beta.2
+- 2.1.0-beta.3
+- 2.1.0-beta.4
+- 2.1.0-beta.5
+- 2.1.1
+- 2.1.2
+
+## 获取地址
+
+- npm 安装：`npm install cypress-scenario-runner`
+- npm registry：https://registry.npmjs.org/cypress-scenario-runner
+- Node 要求：>=8.0

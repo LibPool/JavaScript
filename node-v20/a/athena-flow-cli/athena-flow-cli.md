@@ -1,0 +1,34 @@
+# athena-flow-cli
+
+> 标签: claude, cli, dashboard, hooks, ink, terminal
+
+## 简介
+
+Workflow runtime for Claude Code with hooks, plugins, and interactive terminal observability
+
+## 官网
+
+- 官网：https://github.com/lespaceman/athena-flow#readme
+- 源码仓库：git+https://github.com/lespaceman/athena-flow.git
+- npm 页面：https://www.npmjs.com/package/athena-flow-cli
+
+## 历史版本号
+
+- 当前版本：0.3.5
+
+- 0.1.2
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.3
+- 0.3.0
+- 0.3.1
+- 0.3.3
+- 0.3.4
+- 0.3.5
+
+## 获取地址
+
+- npm 安装：`npm install athena-flow-cli`
+- npm registry：https://registry.npmjs.org/athena-flow-cli
+- Node 要求：>=20

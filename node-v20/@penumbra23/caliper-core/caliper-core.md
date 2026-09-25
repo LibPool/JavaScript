@@ -1,0 +1,30 @@
+# @penumbra23/caliper-core
+
+> 标签: JavaScript
+
+## 简介
+
+Core Hyperledger Caliper module, used for running performance benchmarks that interact with blockchain technologies
+
+## 官网
+
+- 官网：https://github.com/hyperledger-caliper/caliper#readme
+- 源码仓库：git+https://github.com/hyperledger-caliper/caliper.git
+- npm 页面：https://www.npmjs.com/package/@penumbra23/caliper-core
+
+## 历史版本号
+
+- 当前版本：0.6.8-unstable
+
+- 0.6.2-unstable
+- 0.6.4-unstable
+- 0.6.5-unstable
+- 0.6.6-unstable
+- 0.6.7-unstable
+- 0.6.8-unstable
+
+## 获取地址
+
+- npm 安装：`npm install @penumbra23/caliper-core`
+- npm registry：https://registry.npmjs.org/@penumbra23/caliper-core
+- Node 要求：>=18.19.0

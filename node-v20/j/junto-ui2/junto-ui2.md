@@ -1,0 +1,22 @@
+# junto-ui2
+
+> 标签: component, components, react
+
+## 简介
+
+Implementação em React do design-system da Junto Seguros
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/junto-ui2
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install junto-ui2`
+- npm registry：https://registry.npmjs.org/junto-ui2

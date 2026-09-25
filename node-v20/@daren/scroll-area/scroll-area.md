@@ -1,0 +1,26 @@
+# @daren/scroll-area
+
+> 标签: JavaScript
+
+## 简介
+
+Visually or semantically separates content.
+
+## 官网
+
+- 官网：https://github.com/darenmalfait/darenui#readme
+- 源码仓库：git+ssh://git@github.com/darenmalfait/darenui.git
+- npm 页面：https://www.npmjs.com/package/@daren/scroll-area
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @daren/scroll-area`
+- npm registry：https://registry.npmjs.org/@daren/scroll-area

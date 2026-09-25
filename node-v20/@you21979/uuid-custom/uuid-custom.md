@@ -1,0 +1,24 @@
+# @you21979/uuid-custom
+
+> 标签: uuid
+
+## 简介
+
+uuid custom
+
+## 官网
+
+- 官网：https://github.com/you21979/node-uuid-custom#readme
+- 源码仓库：git+https://github.com/you21979/node-uuid-custom.git
+- npm 页面：https://www.npmjs.com/package/@you21979/uuid-custom
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @you21979/uuid-custom`
+- npm registry：https://registry.npmjs.org/@you21979/uuid-custom

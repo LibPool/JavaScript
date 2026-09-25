@@ -1,0 +1,22 @@
+# @weich-ui/eslint-config
+
+> 标签: JavaScript
+
+## 简介
+
+W-UI eslint configuration
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@weich-ui/eslint-config
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @weich-ui/eslint-config`
+- npm registry：https://registry.npmjs.org/@weich-ui/eslint-config

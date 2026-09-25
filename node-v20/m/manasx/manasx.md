@@ -1,0 +1,34 @@
+# manasx
+
+> 标签: ai-audit, ai-generated-code, cli, code-standards, compliance, continuous-monitoring, drift-detection, enterprise, governance, javascript, mcp-server, organizational-rules, pattern-detection, real-time, security-audit, typescript
+
+## 简介
+
+Enterprise code governance and AI audit platform. Detects AI drift, enforces organizational standards, and audits AI-generated code with continuous monitoring.
+
+## 官网
+
+- 官网：https://github.com/sastatesla/ManasX-AgenticAI#readme
+- 源码仓库：git+https://github.com/sastatesla/ManasX-AgenticAI.git
+- npm 页面：https://www.npmjs.com/package/manasx
+
+## 历史版本号
+
+- 当前版本：2.0.1
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 2.0.0
+- 2.0.1
+
+## 获取地址
+
+- npm 安装：`npm install manasx`
+- npm registry：https://registry.npmjs.org/manasx
+- Node 要求：>=18.0.0

@@ -1,0 +1,25 @@
+# @statewavedev/connectors-zapier
+
+> 标签: agents, ai, connectors, memory, statewave, webhooks, zapier
+
+## 简介
+
+Zapier integration helper for Statewave — formats Webhooks-by-Zapier payloads into normalized episodes
+
+## 官网
+
+- 官网：https://statewave.ai
+- 源码仓库：git+https://github.com/smaramwbc/statewave-connectors.git
+- npm 页面：https://www.npmjs.com/package/@statewavedev/connectors-zapier
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @statewavedev/connectors-zapier`
+- npm registry：https://registry.npmjs.org/@statewavedev/connectors-zapier
+- Node 要求：>=20

@@ -1,0 +1,25 @@
+# mta-time
+
+> 标签: lirr, metro north, mta, new york, subway
+
+## 简介
+
+To be determined
+
+## 官网
+
+- 官网：https://github.com/fk798/mta-time#readme
+- 源码仓库：git+https://github.com/fk798/mta-time.git
+- npm 页面：https://www.npmjs.com/package/mta-time
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.0.0
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install mta-time`
+- npm registry：https://registry.npmjs.org/mta-time

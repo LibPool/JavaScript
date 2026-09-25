@@ -1,0 +1,25 @@
+# glim-classify
+
+> 标签: ai, ai-workflows-automation, classification, glim, glimlang, glimlang-org, intent-recognition, labeller, ml, zero-shot
+
+## 简介
+
+[Future Scope - Do not use until v1.0.0] Text, document, and intent classification helpers for GlimLang
+
+## 官网
+
+- 官网：https://glimlang.org
+- 源码仓库：git+https://github.com/glimlang/glimlang.git
+- npm 页面：https://www.npmjs.com/package/glim-classify
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install glim-classify`
+- npm registry：https://registry.npmjs.org/glim-classify

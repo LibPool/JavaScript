@@ -1,0 +1,23 @@
+# @nodefactory/winston-loki
+
+> 标签: SRE, grafana, grafana loki, logging, loki, plugin, site reliability engineering, transport, winston, winston-transport
+
+## 简介
+
+A Winston transport for Grafana Loki
+
+## 官网
+
+- 源码仓库：https://github.com/JaniAnttonen/winston-loki.git
+- npm 页面：https://www.npmjs.com/package/@nodefactory/winston-loki
+
+## 历史版本号
+
+- 当前版本：6.0.0-rc.2
+
+- 6.0.0-rc.2
+
+## 获取地址
+
+- npm 安装：`npm install @nodefactory/winston-loki`
+- npm registry：https://registry.npmjs.org/@nodefactory/winston-loki

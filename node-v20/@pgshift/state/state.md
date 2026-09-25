@@ -1,0 +1,24 @@
+# @pgshift/state
+
+> 标签: JavaScript
+
+## 简介
+
+PgShift state — state machines, data normalization, audit logs, and consensus gates via PostgreSQL triggers.
+
+## 官网
+
+- 官网：https://pgshift.dev/
+- 源码仓库：git+https://github.com/pgshift/pgshift.git
+- npm 页面：https://www.npmjs.com/package/@pgshift/state
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @pgshift/state`
+- npm registry：https://registry.npmjs.org/@pgshift/state

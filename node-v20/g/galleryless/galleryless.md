@@ -1,0 +1,24 @@
+# galleryless
+
+> 标签: JavaScript
+
+## 简介
+
+Scriptless gallery that is super responsive with swipe, crumbs, animation, infinite scroll and other goodness.
+
+## 官网
+
+- 官网：https://github.com/Wildhoney/Galleryless#readme
+- 源码仓库：git+ssh://git@github.com/Wildhoney/Galleryless.git
+- npm 页面：https://www.npmjs.com/package/galleryless
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install galleryless`
+- npm registry：https://registry.npmjs.org/galleryless

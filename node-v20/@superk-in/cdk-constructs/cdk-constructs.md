@@ -1,0 +1,26 @@
+# @superk-in/cdk-constructs
+
+> 标签: aws-cdk, aws-lambda, cdk, constructs, dynamodb, eventbridge, sqs, typescript
+
+## 简介
+
+Opinionated AWS CDK constructs for Lambda, DynamoDB, SQS, EventBridge and EventBridge Scheduler.
+
+## 官网
+
+- 官网：https://github.com/SuperK-LocalBuyTechnology/cdk-constructs#readme
+- 源码仓库：git+https://github.com/SuperK-LocalBuyTechnology/cdk-constructs.git
+- npm 页面：https://www.npmjs.com/package/@superk-in/cdk-constructs
+
+## 历史版本号
+
+- 当前版本：0.2.1
+
+- 0.2.0
+- 0.2.1
+
+## 获取地址
+
+- npm 安装：`npm install @superk-in/cdk-constructs`
+- npm registry：https://registry.npmjs.org/@superk-in/cdk-constructs
+- Node 要求：>=18

@@ -1,0 +1,29 @@
+# ajanuw-waterfall.js
+
+> 标签: ajanuw-waterfall, waterfall, 瀑布流
+
+## 简介
+
+瀑布流布局
+
+## 官网
+
+- 官网：https://github.com/januwA/waterfall.js
+- 源码仓库：git+https://github.com/januwA/waterfall.js.git
+- npm 页面：https://www.npmjs.com/package/ajanuw-waterfall.js
+
+## 历史版本号
+
+- 当前版本：0.1.5
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+
+## 获取地址
+
+- npm 安装：`npm install ajanuw-waterfall.js`
+- npm registry：https://registry.npmjs.org/ajanuw-waterfall.js

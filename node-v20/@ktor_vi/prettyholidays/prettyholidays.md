@@ -1,0 +1,26 @@
+# @ktor_vi/prettyholidays
+
+> 标签: JavaScript
+
+## 简介
+
+First and simple project in node.js
+
+## 官网
+
+- 官网：https://github.com/ktor-vi/node-cli-pwned#readme
+- 源码仓库：git+https://github.com/ktor-vi/node-cli-pwned.git
+- npm 页面：https://www.npmjs.com/package/@ktor_vi/prettyholidays
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @ktor_vi/prettyholidays`
+- npm registry：https://registry.npmjs.org/@ktor_vi/prettyholidays

@@ -1,0 +1,33 @@
+# custom-react-native-otp-input
+
+> 标签: entry, input, one time password, otp, password, secure
+
+## 简介
+
+A simple and light reusable react native component to accept otp input. Fully customizable and written purely in typescript.
+
+## 官网
+
+- 官网：https://github.com/sir-miracle/custom-react-native-otp-input
+- 源码仓库：git+https://github.com/sir-miracle/custom-react-native-otp-input.git
+- npm 页面：https://www.npmjs.com/package/custom-react-native-otp-input
+
+## 历史版本号
+
+- 当前版本：1.0.9
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+
+## 获取地址
+
+- npm 安装：`npm install custom-react-native-otp-input`
+- npm registry：https://registry.npmjs.org/custom-react-native-otp-input

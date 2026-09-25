@@ -1,0 +1,33 @@
+# @sequelize/cli
+
+> 标签: JavaScript
+
+## 简介
+
+The Sequelize CLI
+Documentation: https://sequelize.org/docs/v7/cli/
+
+## 官网
+
+- 官网：https://sequelize.org/docs/v7/cli/
+- 源码仓库：https://github.com/sequelize/sequelize
+- npm 页面：https://www.npmjs.com/package/@sequelize/cli
+
+## 历史版本号
+
+- 当前版本：7.0.0-alpha.48
+
+- 7.0.0-alpha.40
+- 7.0.0-alpha.41
+- 7.0.0-alpha.42
+- 7.0.0-alpha.43
+- 7.0.0-alpha.44
+- 7.0.0-alpha.46
+- 7.0.0-alpha.47
+- 7.0.0-alpha.48
+
+## 获取地址
+
+- npm 安装：`npm install @sequelize/cli`
+- npm registry：https://registry.npmjs.org/@sequelize/cli
+- Node 要求：>=18.20.8

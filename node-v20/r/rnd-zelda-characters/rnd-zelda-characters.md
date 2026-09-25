@@ -1,0 +1,25 @@
+# rnd-zelda-characters
+
+> 标签: JavaScript
+
+## 简介
+
+A Random Message About Characters from The Legend of Zelda
+
+## 官网
+
+- 官网：https://github.com/EldrichRaygoza/rnd-zelda-characters#readme
+- 源码仓库：git+https://github.com/EldrichRaygoza/rnd-zelda-characters.git
+- npm 页面：https://www.npmjs.com/package/rnd-zelda-characters
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install rnd-zelda-characters`
+- npm registry：https://registry.npmjs.org/rnd-zelda-characters

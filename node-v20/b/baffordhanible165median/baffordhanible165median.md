@@ -1,0 +1,24 @@
+# baffordhanible165median
+
+> 标签: generator, number, random
+
+## 简介
+
+With efficiency and reliability, it derives totals and averages from randomly chosen numerical data sets.
+
+## 官网
+
+- 官网：https://github.com/baffordhanible165/baffordhanible165median/blob/main/README.md
+- 源码仓库：git+https://github.com/baffordhanible165/baffordhanible165median.git
+- npm 页面：https://www.npmjs.com/package/baffordhanible165median
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install baffordhanible165median`
+- npm registry：https://registry.npmjs.org/baffordhanible165median

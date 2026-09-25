@@ -1,0 +1,28 @@
+# exploding-text
+
+> 标签: JavaScript
+
+## 简介
+
+A React component that renders text with Physics!
+
+## 官网
+
+- 官网：https://github.com/valentijnnieman/exploding-text#readme
+- 源码仓库：git+https://github.com/valentijnnieman/exploding-text.git
+- npm 页面：https://www.npmjs.com/package/exploding-text
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install exploding-text`
+- npm registry：https://registry.npmjs.org/exploding-text
+- Node 要求：>=8

@@ -1,0 +1,31 @@
+# @pavel-safronov/eslint-plugin-mongodb-upgrade
+
+> 标签: JavaScript
+
+## 简介
+
+ESLint rules for upgrading the MongoDB Node.js driver (v4→v5→v6→v7)
+
+## 官网
+
+- 官网：https://github.com/PavelSafronov/upgrade#readme
+- 源码仓库：git+https://github.com/PavelSafronov/upgrade.git
+- npm 页面：https://www.npmjs.com/package/@pavel-safronov/eslint-plugin-mongodb-upgrade
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.0
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.8
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @pavel-safronov/eslint-plugin-mongodb-upgrade`
+- npm registry：https://registry.npmjs.org/@pavel-safronov/eslint-plugin-mongodb-upgrade

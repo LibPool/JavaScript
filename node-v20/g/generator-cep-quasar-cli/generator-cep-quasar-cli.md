@@ -1,0 +1,25 @@
+# generator-cep-quasar-cli
+
+> 标签: Adobe, After Effects, Audition, CEP, Illustrator, InDesign, Photoshop, Premiere Pro, Quasar, Vue, yeoman-generator
+
+## 简介
+
+Scaffolding to create Adobe CEP panels with Vue and Quasar CLI
+
+## 官网
+
+- 官网：https://github.com/Inventsable/generator-cep-quasar-cli
+- 源码仓库：git+https://github.com/Inventsable/generator-cep-quasar-cli.git
+- npm 页面：https://www.npmjs.com/package/generator-cep-quasar-cli
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install generator-cep-quasar-cli`
+- npm registry：https://registry.npmjs.org/generator-cep-quasar-cli

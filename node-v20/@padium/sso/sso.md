@@ -1,0 +1,35 @@
+# @padium/sso
+
+> 标签: padium, sdk, sso
+
+## 简介
+
+Client library for Padium SSO apis
+
+## 官网
+
+- 官网：https://github.com/padium/padium-sso#readme
+- 源码仓库：git+https://github.com/padium/padium-sso.git#main
+- npm 页面：https://www.npmjs.com/package/@padium/sso
+
+## 历史版本号
+
+- 当前版本：0.7.5
+
+- 0.5.1
+- 0.5.2
+- 0.6.0
+- 0.6.1
+- 0.6.2
+- 0.6.3
+- 0.7.0
+- 0.7.1
+- 0.7.2
+- 0.7.3
+- 0.7.4
+- 0.7.5
+
+## 获取地址
+
+- npm 安装：`npm install @padium/sso`
+- npm registry：https://registry.npmjs.org/@padium/sso

@@ -1,0 +1,36 @@
+# @xapp/stentor-api-client
+
+> 标签: JavaScript
+
+## 简介
+
+This is a client interface for the Stentor REST API.
+
+## 官网
+
+- 官网：https://github.com/XappMedia/stentor-api-client-api#readme
+- 源码仓库：git+https://github.com/XappMedia/stentor-api-client-api.git
+- npm 页面：https://www.npmjs.com/package/@xapp/stentor-api-client
+
+## 历史版本号
+
+- 当前版本：1.10.8
+
+- 1.5.1
+- 1.5.2
+- 1.6.0
+- 1.6.1
+- 1.6.2
+- 1.6.3
+- 1.7.0
+- 1.8.0
+- 1.9.0
+- 1.9.1
+- 1.9.2
+- 1.9.3
+- 共 222 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @xapp/stentor-api-client`
+- npm registry：https://registry.npmjs.org/@xapp/stentor-api-client

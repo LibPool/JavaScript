@@ -1,0 +1,35 @@
+# @mazp/create-tpl
+
+> 标签: cli, create, template
+
+## 简介
+
+CLI to create project template
+
+## 官网
+
+- 官网：https://github.com/sishen654/mazp-create-tpl
+- 源码仓库：git+https://github.com/sishen654/mazp-create-tpl.git
+- npm 页面：https://www.npmjs.com/package/@mazp/create-tpl
+
+## 历史版本号
+
+- 当前版本：1.6.1
+
+- 1.3.0
+- 1.3.1
+- 1.3.2
+- 1.3.3
+- 1.3.4
+- 1.4.4
+- 1.5.0
+- 1.5.3
+- 1.5.4
+- 1.5.5
+- 1.6.0
+- 1.6.1
+
+## 获取地址
+
+- npm 安装：`npm install @mazp/create-tpl`
+- npm registry：https://registry.npmjs.org/@mazp/create-tpl

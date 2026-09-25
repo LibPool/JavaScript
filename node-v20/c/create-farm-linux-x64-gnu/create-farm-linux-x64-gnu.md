@@ -1,0 +1,35 @@
+# create-farm-linux-x64-gnu
+
+> 标签: create-farm, farm
+
+## 简介
+
+Rapidly create a new farm project.
+
+## 官网
+
+- 官网：https://www.farmfe.org/docs/quick-start#create-a-farm-project
+- 源码仓库：git+https://github.com/farm-fe/farm.git#main
+- npm 页面：https://www.npmjs.com/package/create-farm-linux-x64-gnu
+
+## 历史版本号
+
+- 当前版本：0.0.21
+
+- 0.0.17
+- 0.0.18
+- 0.0.19
+- 0.0.20
+- 0.0.21
+- 0.0.5
+- 0.0.8
+- 0.0.9
+- 2.0.0-beta.1
+- 2.0.0-beta.2
+- 2.0.0-beta.3
+- 2.0.0-beta.4
+
+## 获取地址
+
+- npm 安装：`npm install create-farm-linux-x64-gnu`
+- npm registry：https://registry.npmjs.org/create-farm-linux-x64-gnu

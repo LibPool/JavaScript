@@ -1,0 +1,31 @@
+# microql
+
+> 标签: async, composition, coordination, distributed, dsl, json, micro, microservice, orchestration, orchestrator, query, service
+
+## 简介
+
+A query language for composing microservices.
+
+## 官网
+
+- 官网：https://github.com/TorchlightSoftware/microql#readme
+- 源码仓库：git+https://github.com/TorchlightSoftware/microql.git
+- npm 页面：https://www.npmjs.com/package/microql
+
+## 历史版本号
+
+- 当前版本：0.6.6
+
+- 0.5.0
+- 0.6.0
+- 0.6.1
+- 0.6.2
+- 0.6.3
+- 0.6.4
+- 0.6.5
+- 0.6.6
+
+## 获取地址
+
+- npm 安装：`npm install microql`
+- npm registry：https://registry.npmjs.org/microql

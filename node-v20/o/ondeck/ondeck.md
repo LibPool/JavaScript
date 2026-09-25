@@ -1,0 +1,26 @@
+# ondeck
+
+> 标签: agent, ai, backlog, cli, fts5, sqlite, tasks, todo
+
+## 简介
+
+Per-project task management for AI agents. A persistent, concurrent-safe task backlog backed by SQLite.
+
+## 官网
+
+- 官网：https://github.com/fvdsn/ondeck
+- 源码仓库：git+https://github.com/fvdsn/ondeck.git
+- npm 页面：https://www.npmjs.com/package/ondeck
+
+## 历史版本号
+
+- 当前版本：3.0.0
+
+- 2.0.0
+- 2.0.1
+- 3.0.0
+
+## 获取地址
+
+- npm 安装：`npm install ondeck`
+- npm registry：https://registry.npmjs.org/ondeck

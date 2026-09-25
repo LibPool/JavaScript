@@ -1,0 +1,24 @@
+# gitbook-plugin-pagefooter-freedom
+
+> 标签: copyright, footer, gitbook, gitbook-plugin, modification
+
+## 简介
+
+定制每篇文章的页脚, 可以添加版权和显示文件修改时间. 协同创作时, 版权也可以用于标记作者.
+
+## 官网
+
+- 官网：https://github.com/zhj3618/gitbook-plugin-pagefooter-freedom
+- 源码仓库：git+https://github.com/zhj3618/gitbook-plugin-pagefooter-freedom.git
+- npm 页面：https://www.npmjs.com/package/gitbook-plugin-pagefooter-freedom
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install gitbook-plugin-pagefooter-freedom`
+- npm registry：https://registry.npmjs.org/gitbook-plugin-pagefooter-freedom

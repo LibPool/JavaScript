@@ -1,0 +1,26 @@
+# ifd
+
+> 标签: abstraction, artisin, default, if, te, ternary
+
+## 简介
+
+Life Extending Ternary Operator Abstractions
+
+## 官网
+
+- 官网：https://github.com/artisin/ifd
+- 源码仓库：git+https://github.com/artisin/ifd.git
+- npm 页面：https://www.npmjs.com/package/ifd
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.1
+- 0.0.3
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install ifd`
+- npm registry：https://registry.npmjs.org/ifd

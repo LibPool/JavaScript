@@ -1,0 +1,25 @@
+# uuid-version
+
+> 标签: uuid
+
+## 简介
+
+This package helps you to recognize the version of a given uuid
+
+## 官网
+
+- 官网：https://github.com/0xflotus/uuid-version#readme
+- 源码仓库：git+https://github.com/0xflotus/uuid-version.git
+- npm 页面：https://www.npmjs.com/package/uuid-version
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.1.0
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install uuid-version`
+- npm registry：https://registry.npmjs.org/uuid-version

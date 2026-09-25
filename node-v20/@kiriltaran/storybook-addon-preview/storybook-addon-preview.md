@@ -1,0 +1,24 @@
+# @kiriltaran/storybook-addon-preview
+
+> 标签: addon, code, preview, storybook, storybook-addon
+
+## 简介
+
+Storybook Addon Preview can show user selected knobs in various framework code in Storybook
+
+## 官网
+
+- 官网：https://github.com/naver/storybook-addon-preview#readme
+- 源码仓库：git+https://github.com/naver/storybook-addon-preview.git
+- npm 页面：https://www.npmjs.com/package/@kiriltaran/storybook-addon-preview
+
+## 历史版本号
+
+- 当前版本：2.4.0
+
+- 2.4.0
+
+## 获取地址
+
+- npm 安装：`npm install @kiriltaran/storybook-addon-preview`
+- npm registry：https://registry.npmjs.org/@kiriltaran/storybook-addon-preview

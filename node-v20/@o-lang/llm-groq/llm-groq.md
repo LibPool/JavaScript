@@ -1,0 +1,35 @@
+# @o-lang/llm-groq
+
+> 标签: agent, ai, chatbot, governance, groq, llm, o-lang, rag, resolver
+
+## 简介
+
+O-Lang resolver for Groq (Llama 3.1 / 3.3 / Mixtral) LLM
+
+## 官网
+
+- 官网：https://github.com/o-lang/resolver-llm-groq#readme
+- 源码仓库：git+https://github.com/o-lang/resolver-llm-groq.git
+- npm 页面：https://www.npmjs.com/package/@o-lang/llm-groq
+
+## 历史版本号
+
+- 当前版本：1.1.8
+
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.1.6
+- 1.1.7
+- 1.1.8
+
+## 获取地址
+
+- npm 安装：`npm install @o-lang/llm-groq`
+- npm registry：https://registry.npmjs.org/@o-lang/llm-groq

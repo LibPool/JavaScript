@@ -1,0 +1,25 @@
+# @jorvel/ssr
+
+> 标签: edge, jorvel, module-federation, react, ssr, streaming
+
+## 简介
+
+Server-side rendering primitives for JORVEL: edge adapter, streaming, static export, state hydration.
+
+## 官网
+
+- 官网：https://github.com/Ravikisha/JorvelJS#readme
+- 源码仓库：git+https://github.com/Ravikisha/JorvelJS.git
+- npm 页面：https://www.npmjs.com/package/@jorvel/ssr
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.2.0
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @jorvel/ssr`
+- npm registry：https://registry.npmjs.org/@jorvel/ssr

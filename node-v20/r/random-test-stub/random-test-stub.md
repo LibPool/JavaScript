@@ -1,0 +1,24 @@
+# random-test-stub
+
+> 标签: JavaScript
+
+## 简介
+
+Placeholder reserving the name; real releases publish from CI at >=0.1.0. random-test-stub
+
+## 官网
+
+- 官网：https://github.com/teamchong/random-test-stub#readme
+- 源码仓库：git+https://github.com/teamchong/random-test-stub.git
+- npm 页面：https://www.npmjs.com/package/random-test-stub
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install random-test-stub`
+- npm registry：https://registry.npmjs.org/random-test-stub

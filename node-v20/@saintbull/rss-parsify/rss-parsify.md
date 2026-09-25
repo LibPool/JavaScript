@@ -1,0 +1,32 @@
+# @saintbull/rss-parsify
+
+> 标签: feed, parser, parsify, rss, rss-parsify
+
+## 简介
+
+Parser for rss feeds using allorigins.win api
+
+## 官网
+
+- 官网：https://github.com/MatthewSaintBull/rss-parsify#readme
+- 源码仓库：git+https://github.com/MatthewSaintBull/rss-parsify.git
+- npm 页面：https://www.npmjs.com/package/@saintbull/rss-parsify
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @saintbull/rss-parsify`
+- npm registry：https://registry.npmjs.org/@saintbull/rss-parsify

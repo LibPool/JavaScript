@@ -1,0 +1,22 @@
+# eslint-config-lint-now
+
+> 标签: JavaScript
+
+## 简介
+
+"Basic eslint configuration for servicenow internal projects"
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/eslint-config-lint-now
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install eslint-config-lint-now`
+- npm registry：https://registry.npmjs.org/eslint-config-lint-now

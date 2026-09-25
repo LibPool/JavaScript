@@ -1,0 +1,28 @@
+# camunda-dmn-moddle
+
+> 标签: camunda, dmn, dmn13, meta-model, moddle
+
+## 简介
+
+Camunda moddle extensions for DMN
+
+## 官网
+
+- 官网：https://github.com/camunda/camunda-dmn-moddle#readme
+- 源码仓库：git+https://github.com/camunda/camunda-dmn-moddle.git
+- npm 页面：https://www.npmjs.com/package/camunda-dmn-moddle
+
+## 历史版本号
+
+- 当前版本：1.3.1
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 1.3.1
+
+## 获取地址
+
+- npm 安装：`npm install camunda-dmn-moddle`
+- npm registry：https://registry.npmjs.org/camunda-dmn-moddle

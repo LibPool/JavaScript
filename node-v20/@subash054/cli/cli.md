@@ -1,0 +1,24 @@
+# @subash054/cli
+
+> 标签: backstage
+
+## 简介
+
+CLI for developing Backstage plugins and apps
+
+## 官网
+
+- 官网：https://backstage.io
+- 源码仓库：git+https://github.com/backstage/backstage.git
+- npm 页面：https://www.npmjs.com/package/@subash054/cli
+
+## 历史版本号
+
+- 当前版本：0.26.5-next.1
+
+- 0.26.5-next.1
+
+## 获取地址
+
+- npm 安装：`npm install @subash054/cli`
+- npm registry：https://registry.npmjs.org/@subash054/cli

@@ -1,0 +1,24 @@
+# @toby-design/tokens
+
+> 标签: JavaScript
+
+## 简介
+
+Figma Tokens Studio에서 추출한 Design Token 패키지입니다. CSS Variables와 TypeScript 상수로 제공됩니다.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@toby-design/tokens
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 0.0.1
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @toby-design/tokens`
+- npm registry：https://registry.npmjs.org/@toby-design/tokens

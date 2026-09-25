@@ -1,0 +1,31 @@
+# @reflective-forms/frontend
+
+> 标签: JavaScript
+
+## 简介
+
+React frontend library for ReflectiveForms — provides the admin panel UI, entity forms, and data management components.
+
+## 官网
+
+- 官网：https://github.com/bkio/ReflectiveForms/tree/main/ReflectiveForms.Frontend#readme
+- 源码仓库：git+https://github.com/bkio/ReflectiveForms.git
+- npm 页面：https://www.npmjs.com/package/@reflective-forms/frontend
+
+## 历史版本号
+
+- 当前版本：2026.622.40
+
+- 2026.514.24
+- 2026.614.25
+- 2026.615.26
+- 2026.615.28
+- 2026.617.33
+- 2026.617.35
+- 2026.620.39
+- 2026.622.40
+
+## 获取地址
+
+- npm 安装：`npm install @reflective-forms/frontend`
+- npm registry：https://registry.npmjs.org/@reflective-forms/frontend

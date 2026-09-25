@@ -1,0 +1,32 @@
+# transjson
+
+> 标签: JavaScript
+
+## 简介
+
+JSON translation tool, CLI tool for i18n configure translation.
+
+## 官网
+
+- 官网：https://github.com/killalau/transjson#readme
+- 源码仓库：git+https://github.com/killalau/transjson.git
+- npm 页面：https://www.npmjs.com/package/transjson
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install transjson`
+- npm registry：https://registry.npmjs.org/transjson

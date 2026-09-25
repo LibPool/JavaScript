@@ -1,0 +1,27 @@
+# buffer-image-size
+
+> 标签: bmp, cur, dimensions, gif, height, ico, image, jpeg, png, psd, resolution, size, svg, webp, width
+
+## 简介
+
+get dimensions of any image buffer
+
+## 官网
+
+- 官网：https://github.com/evidentpoint/buffer-image-size#readme
+- 源码仓库：git+https://github.com/evidentpoint/buffer-image-size.git
+- npm 页面：https://www.npmjs.com/package/buffer-image-size
+
+## 历史版本号
+
+- 当前版本：0.6.4
+
+- 0.6.2
+- 0.6.3
+- 0.6.4
+
+## 获取地址
+
+- npm 安装：`npm install buffer-image-size`
+- npm registry：https://registry.npmjs.org/buffer-image-size
+- Node 要求：>=4.0

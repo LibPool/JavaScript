@@ -1,0 +1,36 @@
+# @danmoisan/drm-copilot-mcp
+
+> 标签: automation, claude, codex, copilot, mcp, stdio, workflow
+
+## 简介
+
+Stdio MCP server exposing drm-copilot repo-automation tools.
+
+## 官网
+
+- 官网：https://github.com/drmoisan/drm-copilot#readme
+- 源码仓库：git+https://github.com/drmoisan/drm-copilot.git
+- npm 页面：https://www.npmjs.com/package/@danmoisan/drm-copilot-mcp
+
+## 历史版本号
+
+- 当前版本：1.1.11
+
+- 1.1.0
+- 1.1.1
+- 1.1.10
+- 1.1.11
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.1.6
+- 1.1.7
+- 1.1.8
+- 1.1.9
+
+## 获取地址
+
+- npm 安装：`npm install @danmoisan/drm-copilot-mcp`
+- npm registry：https://registry.npmjs.org/@danmoisan/drm-copilot-mcp
+- Node 要求：>=18.0.0

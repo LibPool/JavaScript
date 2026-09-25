@@ -1,0 +1,24 @@
+# @confuzzle/ecoji-buffers
+
+> 标签: base1024, emoji, encoding
+
+## 简介
+
+Encode and decode arbitrary data as emoji
+
+## 官网
+
+- 官网：https://github.com/rjkat/confuzzle#readme
+- 源码仓库：git+https://github.com/rjkat/confuzzle.git
+- npm 页面：https://www.npmjs.com/package/@confuzzle/ecoji-buffers
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @confuzzle/ecoji-buffers`
+- npm registry：https://registry.npmjs.org/@confuzzle/ecoji-buffers

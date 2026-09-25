@@ -1,0 +1,25 @@
+# @kstonekuan/trpc-chrome
+
+> 标签: chrome, extension, trpc, webext, webextension
+
+## 简介
+
+tRPC adapter for Web Extensions
+
+## 官网
+
+- 官网：https://github.com/kstonekuan/trpc-chrome
+- 源码仓库：git+https://github.com/kstonekuan/trpc-chrome.git
+- npm 页面：https://www.npmjs.com/package/@kstonekuan/trpc-chrome
+
+## 历史版本号
+
+- 当前版本：1.1.3
+
+- 1.1.2
+- 1.1.3
+
+## 获取地址
+
+- npm 安装：`npm install @kstonekuan/trpc-chrome`
+- npm registry：https://registry.npmjs.org/@kstonekuan/trpc-chrome

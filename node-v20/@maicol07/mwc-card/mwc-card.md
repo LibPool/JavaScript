@@ -1,0 +1,35 @@
+# @maicol07/mwc-card
+
+> 标签: JavaScript
+
+## 简介
+
+Material compoments web components implementation of MDC Card
+
+## 官网
+
+- 官网：https://github.com/maicol07/mwc-layout-grid#readme
+- 源码仓库：git+https://github.com/maicol07/mwc-layout-grid.git
+- npm 页面：https://www.npmjs.com/package/@maicol07/mwc-card
+
+## 历史版本号
+
+- 当前版本：0.25.3
+
+- 0.25.0
+- 0.25.0-a1
+- 0.25.0-a2
+- 0.25.0-a3
+- 0.25.0-a4
+- 0.25.0-a5
+- 0.25.0-a6
+- 0.25.0-a7
+- 0.25.1
+- 0.25.2
+- 0.25.2-1
+- 0.25.3
+
+## 获取地址
+
+- npm 安装：`npm install @maicol07/mwc-card`
+- npm registry：https://registry.npmjs.org/@maicol07/mwc-card

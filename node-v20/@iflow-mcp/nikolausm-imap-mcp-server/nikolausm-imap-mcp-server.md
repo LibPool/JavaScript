@@ -1,0 +1,24 @@
+# @iflow-mcp/nikolausm-imap-mcp-server
+
+> 标签: ai, claude, email, imap, mcp, model-context-protocol
+
+## 简介
+
+A powerful Model Context Protocol (MCP) server for IMAP email integration with Claude
+
+## 官网
+
+- 官网：https://github.com/michaelnikolaus/imap-mcp-server#readme
+- 源码仓库：git+https://github.com/michaelnikolaus/imap-mcp-server.git
+- npm 页面：https://www.npmjs.com/package/@iflow-mcp/nikolausm-imap-mcp-server
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @iflow-mcp/nikolausm-imap-mcp-server`
+- npm registry：https://registry.npmjs.org/@iflow-mcp/nikolausm-imap-mcp-server

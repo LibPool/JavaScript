@@ -1,0 +1,26 @@
+# puppeteer-undetectable
+
+> 标签: cf-bypass, cloudflare-bypass, puppeteer-cloudflare, puppeteer-fingerprint, puppeteer-real-browser, puppeteer-undetect, puppeteer-undetect-bypass, puppeteer-undetect-cf, puppeteer-undetect-cloudflare, puppeteer-undetectable, puppeteer-undetectable-bypass, puppeteer-undetectable-cf, puppeteer-undetectable-cf-bypass, puppeteer-undetectable-cloudflare, undetect, undetectable, undetectable-puppeteer
+
+## 简介
+
+This package is designed to bypass puppeteer's bot-detecting captchas such as Cloudflare. It acts like a real browser and can be managed with puppeteer.
+
+## 官网
+
+- 官网：https://github.com/h4ckthepl4net/puppeteer-undetectable
+- 源码仓库：git+https://github.com/h4ckthepl4net/puppeteer-undetectable.git
+- npm 页面：https://www.npmjs.com/package/puppeteer-undetectable
+
+## 历史版本号
+
+- 当前版本：1.4.4
+
+- 1.4.2
+- 1.4.3
+- 1.4.4
+
+## 获取地址
+
+- npm 安装：`npm install puppeteer-undetectable`
+- npm registry：https://registry.npmjs.org/puppeteer-undetectable

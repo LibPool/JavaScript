@@ -1,0 +1,27 @@
+# fb-opt-quotes
+
+> 标签: fritbot, fritbot-module
+
+## 简介
+
+Fritbot Quotation module
+
+## 官网
+
+- 官网：https://github.com/fritbot/fb-opt-quotes
+- 源码仓库：git://github.com/fritbot/fb-opt-quotes.git
+- npm 页面：https://www.npmjs.com/package/fb-opt-quotes
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.0.1
+- 0.0.2
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install fb-opt-quotes`
+- npm registry：https://registry.npmjs.org/fb-opt-quotes

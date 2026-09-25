@@ -1,0 +1,31 @@
+# @mattwiebe/ai-connector-for-local-ai
+
+> 标签: JavaScript
+
+## 简介
+
+CLI and WordPress plugin for routing AI inference to models running on your own machine.
+
+## 官网
+
+- 官网：https://github.com/mattwiebe/ai-connector-for-local-ai#readme
+- 源码仓库：git+https://github.com/mattwiebe/ai-connector-for-local-ai.git
+- npm 页面：https://www.npmjs.com/package/@mattwiebe/ai-connector-for-local-ai
+
+## 历史版本号
+
+- 当前版本：0.5.1
+
+- 0.2.1
+- 0.2.2
+- 0.3.2
+- 0.4.0
+- 0.4.1
+- 0.5.0
+- 0.5.1
+
+## 获取地址
+
+- npm 安装：`npm install @mattwiebe/ai-connector-for-local-ai`
+- npm registry：https://registry.npmjs.org/@mattwiebe/ai-connector-for-local-ai
+- Node 要求：>=20

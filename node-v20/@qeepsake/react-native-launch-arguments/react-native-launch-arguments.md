@@ -1,0 +1,24 @@
+# @qeepsake/react-native-launch-arguments
+
+> 标签: arguments, launch, native, react, react-native
+
+## 简介
+
+Get launch arguments for testing with Detox and Appium 🚀
+
+## 官网
+
+- 官网：https://github.com/iamolegga/react-native-launch-arguments#readme
+- 源码仓库：git+https://github.com/iamolegga/react-native-launch-arguments.git
+- npm 页面：https://www.npmjs.com/package/@qeepsake/react-native-launch-arguments
+
+## 历史版本号
+
+- 当前版本：3.0.0
+
+- 3.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @qeepsake/react-native-launch-arguments`
+- npm registry：https://registry.npmjs.org/@qeepsake/react-native-launch-arguments

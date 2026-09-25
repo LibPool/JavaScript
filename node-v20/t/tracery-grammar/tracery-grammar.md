@@ -1,0 +1,31 @@
+# tracery-grammar
+
+> 标签: JavaScript
+
+## 简介
+
+npm package for Kate Compton's tracery
+
+## 官网
+
+- 官网：https://github.com/v21/tracery#readme
+- 源码仓库：git://github.com/v21/tracery.git
+- npm 页面：https://www.npmjs.com/package/tracery-grammar
+
+## 历史版本号
+
+- 当前版本：2.8.4
+
+- 2.1.0
+- 2.6.0
+- 2.7.0
+- 2.7.1
+- 2.7.2
+- 2.7.3
+- 2.7.4
+- 2.8.4
+
+## 获取地址
+
+- npm 安装：`npm install tracery-grammar`
+- npm registry：https://registry.npmjs.org/tracery-grammar

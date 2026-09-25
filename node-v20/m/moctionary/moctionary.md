@@ -1,0 +1,25 @@
+# moctionary
+
+> 标签: dictionary, fake, hashmap, javascript, typescript
+
+## 简介
+
+Simple dictionary implemented as a flat object
+
+## 官网
+
+- 官网：https://github.com/not-mike-smith/moctionary#readme
+- 源码仓库：git+https://github.com/not-mike-smith/moctionary.git
+- npm 页面：https://www.npmjs.com/package/moctionary
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.0
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install moctionary`
+- npm registry：https://registry.npmjs.org/moctionary

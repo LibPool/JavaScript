@@ -1,0 +1,36 @@
+# @animech-public/playcanvas
+
+> 标签: 2D, 3D, HTML5, VR, WebGL, WebGL2, browser, engine, game, typings
+
+## 简介
+
+PlayCanvas WebGL game engine
+
+## 官网
+
+- 官网：https://playcanvas.com
+- 源码仓库：git+https://github.com/AnimechTechnologies/playcanvas-engine.git
+- npm 页面：https://www.npmjs.com/package/@animech-public/playcanvas
+
+## 历史版本号
+
+- 当前版本：1.78.0-animech
+
+- 1.35.0-rc.1
+- 1.35.0-rc.2
+- 1.35.0-rc.3
+- 1.35.0-rc.4
+- 1.36.0-rc.0
+- 1.36.0-rc.1
+- 1.36.0-rc.2
+- 1.36.0-rc.3
+- 1.36.0-rc.4
+- 1.36.1-rc.1
+- 1.77.0-animech
+- 1.78.0-animech
+
+## 获取地址
+
+- npm 安装：`npm install @animech-public/playcanvas`
+- npm registry：https://registry.npmjs.org/@animech-public/playcanvas
+- Node 要求：>=18.0.0

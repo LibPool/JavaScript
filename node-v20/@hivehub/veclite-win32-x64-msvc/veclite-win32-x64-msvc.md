@@ -1,0 +1,25 @@
+# @hivehub/veclite-win32-x64-msvc
+
+> 标签: embedded, embeddings, hnsw, search, vector-database
+
+## 简介
+
+Embedded, single-file, in-process vector database (Node.js binding).
+
+## 官网
+
+- 官网：https://github.com/hivellm/veclite#readme
+- 源码仓库：git+https://github.com/hivellm/veclite.git
+- npm 页面：https://www.npmjs.com/package/@hivehub/veclite-win32-x64-msvc
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @hivehub/veclite-win32-x64-msvc`
+- npm registry：https://registry.npmjs.org/@hivehub/veclite-win32-x64-msvc
+- Node 要求：>= 18

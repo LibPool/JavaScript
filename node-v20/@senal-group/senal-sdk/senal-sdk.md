@@ -1,0 +1,28 @@
+# @senal-group/senal-sdk
+
+> 标签: JavaScript
+
+## 简介
+
+本文档覆盖 SDK 的所有功能模块，包含完整的代码示例与说明。
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@senal-group/senal-sdk
+
+## 历史版本号
+
+- 当前版本：0.0.1-beta.8
+
+- 0.0.1-beta.2
+- 0.0.1-beta.3
+- 0.0.1-beta.4
+- 0.0.1-beta.5
+- 0.0.1-beta.6
+- 0.0.1-beta.7
+- 0.0.1-beta.8
+
+## 获取地址
+
+- npm 安装：`npm install @senal-group/senal-sdk`
+- npm registry：https://registry.npmjs.org/@senal-group/senal-sdk

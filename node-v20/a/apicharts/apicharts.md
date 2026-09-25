@@ -1,0 +1,30 @@
+# apicharts
+
+> 标签: api, charts, component, json, polling, react, updates
+
+## 简介
+
+Simple charting components for external & dynamic data sources... give it a url and go!
+
+## 官网
+
+- 源码仓库：https://github.com/kwhitley/apicharts.git
+- npm 页面：https://www.npmjs.com/package/apicharts
+
+## 历史版本号
+
+- 当前版本：0.3.4
+
+- 0.1.0
+- 0.2.0
+- 0.3.0
+- 0.3.1
+- 0.3.2
+- 0.3.3
+- 0.3.4
+
+## 获取地址
+
+- npm 安装：`npm install apicharts`
+- npm registry：https://registry.npmjs.org/apicharts
+- Node 要求：>=6.0.0

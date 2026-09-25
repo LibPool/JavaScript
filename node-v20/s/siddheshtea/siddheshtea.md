@@ -1,0 +1,29 @@
+# siddheshtea
+
+> 标签: tea, tea.xyz, teasolo
+
+## 简介
+
+siddheshtea - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/siddhesh1786/siddheshtea#readme
+- 源码仓库：git+https://github.com/siddhesh1786/siddheshtea.git
+- npm 页面：https://www.npmjs.com/package/siddheshtea
+
+## 历史版本号
+
+- 当前版本：1.1.8
+
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.1.6
+- 1.1.7
+- 1.1.8
+
+## 获取地址
+
+- npm 安装：`npm install siddheshtea`
+- npm registry：https://registry.npmjs.org/siddheshtea

@@ -1,0 +1,27 @@
+# @spaceflow/period-summary
+
+> 标签: JavaScript
+
+## 简介
+
+Spaceflow 周期统计命令，根据时间范围统计 PR 贡献情况，按人员汇总并排序
+
+## 官网
+
+- 官网：https://github.com/Lydanne/spaceflow#readme
+- 源码仓库：git+https://github.com/Lydanne/spaceflow.git
+- npm 页面：https://www.npmjs.com/package/@spaceflow/period-summary
+
+## 历史版本号
+
+- 当前版本：0.20.0
+
+- 0.19.1
+- 0.19.2
+- 0.19.3
+- 0.20.0
+
+## 获取地址
+
+- npm 安装：`npm install @spaceflow/period-summary`
+- npm registry：https://registry.npmjs.org/@spaceflow/period-summary

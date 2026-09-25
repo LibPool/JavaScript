@@ -1,0 +1,26 @@
+# @resettle/exchange-rate-api-sdk
+
+> 标签: JavaScript
+
+## 简介
+
+A TypeScript SDK client for the Resettle Intelligence exchange-rate API.
+
+## 官网
+
+- 官网：https://github.com/resettle/intelligence-sdk-js/tree/main/packages/exchange-rate-api-sdk
+- 源码仓库：git+https://github.com/resettle/intelligence-sdk-js.git
+- npm 页面：https://www.npmjs.com/package/@resettle/exchange-rate-api-sdk
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.0.0
+- 1.1.0
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @resettle/exchange-rate-api-sdk`
+- npm registry：https://registry.npmjs.org/@resettle/exchange-rate-api-sdk

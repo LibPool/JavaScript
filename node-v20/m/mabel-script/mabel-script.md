@@ -1,0 +1,22 @@
+# mabel-script
+
+> 标签: MabelScript
+
+## 简介
+
+Mabel Script is a programing languague compiled to HTML and JS
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/mabel-script
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install mabel-script`
+- npm registry：https://registry.npmjs.org/mabel-script

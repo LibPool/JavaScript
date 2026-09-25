@@ -1,0 +1,24 @@
+# ffmeta
+
+> 标签: ffmetadata, ffmpeg, libavformat, media, metadata
+
+## 简介
+
+A pure JavaScript implementation of ffmetadata parsing and serialization
+
+## 官网
+
+- 官网：https://github.com/FedericoCarboni/ffmeta#readme
+- 源码仓库：git+https://github.com/FedericoCarboni/ffmeta.git
+- npm 页面：https://www.npmjs.com/package/ffmeta
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install ffmeta`
+- npm registry：https://registry.npmjs.org/ffmeta

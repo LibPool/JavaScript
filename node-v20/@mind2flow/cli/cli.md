@@ -1,0 +1,33 @@
+# @mind2flow/cli
+
+> 标签: agents, ai, cli, mind2flow
+
+## 简介
+
+Command-line interface for the Mind2Flow AI agents platform
+
+## 官网
+
+- 官网：https://github.com/pablocruzpineda/m2f-agents-sdk#readme
+- 源码仓库：git+https://github.com/pablocruzpineda/m2f-agents-sdk.git
+- npm 页面：https://www.npmjs.com/package/@mind2flow/cli
+
+## 历史版本号
+
+- 当前版本：0.5.0
+
+- 0.1.0
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.3
+- 0.2.4
+- 0.3.0
+- 0.4.0
+- 0.5.0
+
+## 获取地址
+
+- npm 安装：`npm install @mind2flow/cli`
+- npm registry：https://registry.npmjs.org/@mind2flow/cli
+- Node 要求：>=18

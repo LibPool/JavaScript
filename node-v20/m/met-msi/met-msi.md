@@ -1,0 +1,29 @@
+# met-msi
+
+> 标签: JavaScript
+
+## 简介
+
+MSI is a package designed to simplify access to sections from the Metabolomics Standards Initiative (MSI) paper. This package provides functions to retrieve specific sections of the article.
+
+## 官网
+
+- 官网：https://github.com/Maartje-Cox/MSI#readme
+- 源码仓库：git+https://github.com/Maartje-Cox/MSI.git
+- npm 页面：https://www.npmjs.com/package/met-msi
+
+## 历史版本号
+
+- 当前版本：0.0.6
+
+- 0.0.0
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+
+## 获取地址
+
+- npm 安装：`npm install met-msi`
+- npm registry：https://registry.npmjs.org/met-msi

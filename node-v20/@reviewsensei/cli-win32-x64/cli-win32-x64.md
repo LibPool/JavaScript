@@ -1,0 +1,28 @@
+# @reviewsensei/cli-win32-x64
+
+> 标签: JavaScript
+
+## 简介
+
+ReviewSensei native CLI for Windows x64
+
+## 官网
+
+- 官网：https://github.com/malsabbagh/review-sensei#readme
+- 源码仓库：git+https://github.com/malsabbagh/review-sensei.git
+- npm 页面：https://www.npmjs.com/package/@reviewsensei/cli-win32-x64
+
+## 历史版本号
+
+- 当前版本：0.6.7
+
+- 0.1.0
+- 0.1.1
+- 0.6.0
+- 0.6.6
+- 0.6.7
+
+## 获取地址
+
+- npm 安装：`npm install @reviewsensei/cli-win32-x64`
+- npm registry：https://registry.npmjs.org/@reviewsensei/cli-win32-x64

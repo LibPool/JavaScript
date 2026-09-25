@@ -1,0 +1,26 @@
+# easy-repl
+
+> 标签: REPL, interactive, node
+
+## 简介
+
+execute .js script and land in REPL - similar to python -i script.py
+
+## 官网
+
+- 官网：https://github.com/yegodz/easy-repl#readme
+- 源码仓库：git+https://github.com/yegodz/easy-repl.git
+- npm 页面：https://www.npmjs.com/package/easy-repl
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install easy-repl`
+- npm registry：https://registry.npmjs.org/easy-repl

@@ -1,0 +1,33 @@
+# intakejs
+
+> 标签: dependency injection, di, ioc, library, typescript
+
+## 简介
+
+Simple DI container based on ES7 decorators
+
+## 官网
+
+- 官网：https://github.com/iviru/intakejs
+- 源码仓库：git+https://github.com/iviru/intakejs.git
+- npm 页面：https://www.npmjs.com/package/intakejs
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.2.0
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install intakejs`
+- npm registry：https://registry.npmjs.org/intakejs

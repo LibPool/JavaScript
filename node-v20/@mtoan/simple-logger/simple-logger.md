@@ -1,0 +1,24 @@
+# @mtoan/simple-logger
+
+> 标签: android, ios, react-native
+
+## 简介
+
+Create simple log tree system, can extend and modify output, can intergrate with storage
+
+## 官网
+
+- 官网：https://github.com/NgoMinhToan/simple-logger#readme
+- 源码仓库：git+https://github.com/NgoMinhToan/simple-logger.git
+- npm 页面：https://www.npmjs.com/package/@mtoan/simple-logger
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @mtoan/simple-logger`
+- npm registry：https://registry.npmjs.org/@mtoan/simple-logger

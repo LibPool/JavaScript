@@ -1,0 +1,36 @@
+# @lukoweb/apitogo-mcp
+
+> 标签: JavaScript
+
+## 简介
+
+Local MCP server for APItoGo platform automation
+
+## 官网
+
+- 官网：https://www.npmjs.com/package/@lukoweb/apitogo-mcp
+- 源码仓库：git+https://github.com/lukoweb/apitogo-local-mcp.git
+- npm 页面：https://www.npmjs.com/package/@lukoweb/apitogo-mcp
+
+## 历史版本号
+
+- 当前版本：0.2.28
+
+- 0.2.21
+- 0.2.22
+- 0.2.23
+- 0.2.25
+- 0.2.27
+- 0.2.28
+- 0.2.3
+- 0.2.4
+- 0.2.5
+- 0.2.6
+- 0.2.7
+- 0.2.9
+
+## 获取地址
+
+- npm 安装：`npm install @lukoweb/apitogo-mcp`
+- npm registry：https://registry.npmjs.org/@lukoweb/apitogo-mcp
+- Node 要求：>=20

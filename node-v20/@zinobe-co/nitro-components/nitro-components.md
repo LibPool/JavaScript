@@ -1,0 +1,33 @@
+# @zinobe-co/nitro-components
+
+> 标签: JavaScript
+
+## 简介
+
+This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@zinobe-co/nitro-components
+
+## 历史版本号
+
+- 当前版本：3.6.5
+
+- 3.5.4
+- 3.5.5
+- 3.5.6
+- 3.5.7
+- 3.5.8
+- 3.5.9
+- 3.6.0
+- 3.6.1
+- 3.6.2
+- 3.6.3
+- 3.6.4
+- 3.6.5
+
+## 获取地址
+
+- npm 安装：`npm install @zinobe-co/nitro-components`
+- npm registry：https://registry.npmjs.org/@zinobe-co/nitro-components

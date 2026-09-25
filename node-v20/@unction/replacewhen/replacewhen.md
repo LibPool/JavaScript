@@ -1,0 +1,36 @@
+# @unction/replacewhen
+
+> 标签: functional, unction
+
+## 简介
+
+Replaces values in an iterable with another value based on a predicate
+
+## 官网
+
+- 官网：https://github.com/unctionjs/replaceWhen#readme
+- 源码仓库：git+https://github.com/unctionjs/replaceWhen.git
+- npm 页面：https://www.npmjs.com/package/@unction/replacewhen
+
+## 历史版本号
+
+- 当前版本：11.14.0
+
+- 2.48.0
+- 2.49.0
+- 2.50.0
+- 2.51.0
+- 2.52.0
+- 3.0.0
+- 4.0.0
+- 5.0.0
+- 6.0.0
+- 7.0.0
+- 8.0.0
+- 9.0.0
+- 共 82 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @unction/replacewhen`
+- npm registry：https://registry.npmjs.org/@unction/replacewhen

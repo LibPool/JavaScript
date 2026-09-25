@@ -1,0 +1,26 @@
+# shard-uo-cnc
+
+> 标签: JavaScript
+
+## 简介
+
+Common CNC objects used in shard-uo programs
+
+## 官网
+
+- 官网：https://github.com/ShardUO/shard-uo-cnc-streams#readme
+- 源码仓库：git+https://github.com/ShardUO/shard-uo-cnc-streams.git
+- npm 页面：https://www.npmjs.com/package/shard-uo-cnc
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install shard-uo-cnc`
+- npm registry：https://registry.npmjs.org/shard-uo-cnc

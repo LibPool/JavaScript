@@ -1,0 +1,25 @@
+# @justinbutt3r/focal-image
+
+> 标签: JavaScript
+
+## 简介
+
+Focal Image
+
+## 官网
+
+- 官网：https://github.com/justinbutt3r/focal-image#readme
+- 源码仓库：git+https://github.com/justinbutt3r/focal-image.git
+- npm 页面：https://www.npmjs.com/package/@justinbutt3r/focal-image
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @justinbutt3r/focal-image`
+- npm registry：https://registry.npmjs.org/@justinbutt3r/focal-image
+- Node 要求：>=8

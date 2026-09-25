@@ -1,0 +1,26 @@
+# squad-editor
+
+> 标签: Vue, Vue3, component, edtior, markdown, typescript
+
+## 简介
+
+A Vue3 markdown editor component
+
+## 官网
+
+- 官网：https://github.com/humandetail/squad-editor
+- 源码仓库：git+https://github.com/humandetail/squad-editor.git
+- npm 页面：https://www.npmjs.com/package/squad-editor
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install squad-editor`
+- npm registry：https://registry.npmjs.org/squad-editor

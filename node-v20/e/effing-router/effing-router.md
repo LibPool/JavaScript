@@ -1,0 +1,35 @@
+# effing-router
+
+> 标签: effector, effector-react, modules, react, react-router, router, util
+
+## 简介
+
+Config-based router with support of effector as first-class citizen
+
+## 官网
+
+- 官网：https://github.com/Tauka/effing-router#readme
+- 源码仓库：git+https://github.com/Tauka/effing-router.git
+- npm 页面：https://www.npmjs.com/package/effing-router
+
+## 历史版本号
+
+- 当前版本：0.4.13-0
+
+- 0.4.1
+- 0.4.10
+- 0.4.11
+- 0.4.12
+- 0.4.13-0
+- 0.4.2
+- 0.4.3
+- 0.4.4
+- 0.4.5
+- 0.4.7
+- 0.4.8
+- 0.4.9
+
+## 获取地址
+
+- npm 安装：`npm install effing-router`
+- npm registry：https://registry.npmjs.org/effing-router

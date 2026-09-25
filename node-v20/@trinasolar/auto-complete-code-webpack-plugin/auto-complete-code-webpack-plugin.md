@@ -1,0 +1,36 @@
+# @trinasolar/auto-complete-code-webpack-plugin
+
+> 标签: auto-complete, webpack, webpack-plugin
+
+## 简介
+
+自动补全套路代码
+
+## 官网
+
+- 官网：https://github.com/didengren/auto-complete-code-webpack-plugin#readme
+- 源码仓库：git+https://github.com/didengren/auto-complete-code-webpack-plugin.git
+- npm 页面：https://www.npmjs.com/package/@trinasolar/auto-complete-code-webpack-plugin
+
+## 历史版本号
+
+- 当前版本：0.0.17
+
+- 0.0.14
+- 0.0.15
+- 0.0.16
+- 0.0.17
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @trinasolar/auto-complete-code-webpack-plugin`
+- npm registry：https://registry.npmjs.org/@trinasolar/auto-complete-code-webpack-plugin
+- Node 要求：>= 10.15.3

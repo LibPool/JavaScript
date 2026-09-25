@@ -1,0 +1,28 @@
+# atlas-munchlax
+
+> 标签: atlassubbed, autorun, meteor, mobx, observer, pub-sub, reactive, reactive-computation, reactive-variable, relax, tracker
+
+## 简介
+
+Reactive variable and autorun library inspired by Meteor.
+
+## 官网
+
+- 官网：https://github.com/atlassubbed/atlas-munchlax#readme
+- 源码仓库：git+https://github.com/atlassubbed/atlas-munchlax.git
+- npm 页面：https://www.npmjs.com/package/atlas-munchlax
+
+## 历史版本号
+
+- 当前版本：1.3.0
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.2.0
+- 1.3.0
+
+## 获取地址
+
+- npm 安装：`npm install atlas-munchlax`
+- npm registry：https://registry.npmjs.org/atlas-munchlax

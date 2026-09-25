@@ -1,0 +1,27 @@
+# @juleczek.1/aicommit
+
+> 标签: ai, anthropic, cli, commit, conventional-commits, gemini, git, ollama, openai
+
+## 简介
+
+AI-powered Git commit assistant for the terminal.
+
+## 官网
+
+- 官网：https://github.com/your-org/aicommit#readme
+- 源码仓库：git+https://github.com/your-org/aicommit.git
+- npm 页面：https://www.npmjs.com/package/@juleczek.1/aicommit
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @juleczek.1/aicommit`
+- npm registry：https://registry.npmjs.org/@juleczek.1/aicommit
+- Node 要求：>=20.0.0

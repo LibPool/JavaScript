@@ -1,0 +1,36 @@
+# multer-minio-storage
+
+> 标签: minio, multer, storage
+
+## 简介
+
+Multer MinIO Storage
+
+## 官网
+
+- 官网：https://github.com/hoangnguyen1247/multer-minio-storage#readme
+- 源码仓库：git+https://github.com/hoangnguyen1247/multer-minio-storage.git
+- npm 页面：https://www.npmjs.com/package/multer-minio-storage
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 1.0.0
+- 1.0.0-develop.1
+- 1.0.0-develop.2
+- 1.0.0-develop.3
+
+## 获取地址
+
+- npm 安装：`npm install multer-minio-storage`
+- npm registry：https://registry.npmjs.org/multer-minio-storage
+- Node 要求：>=10

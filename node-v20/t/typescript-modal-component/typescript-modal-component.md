@@ -1,0 +1,27 @@
+# typescript-modal-component
+
+> 标签: react, typescript
+
+## 简介
+
+A simple component library
+
+## 官网
+
+- 官网：https://github.com/seth-nl/simple-modal-react-typescript-component#readme
+- 源码仓库：git+https://github.com/seth-nl/simple-modal-react-typescript-component.git
+- npm 页面：https://www.npmjs.com/package/typescript-modal-component
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install typescript-modal-component`
+- npm registry：https://registry.npmjs.org/typescript-modal-component

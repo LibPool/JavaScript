@@ -1,0 +1,28 @@
+# dlook-cli
+
+> 标签: cli, docker, dockerhub, images, official, search
+
+## 简介
+
+A cli tool to search official docker containers
+
+## 官网
+
+- 官网：https://github.com/freethejazz/dlook-cli
+- 源码仓库：git+https://github.com/freethejazz/dlook-cli.git
+- npm 页面：https://www.npmjs.com/package/dlook-cli
+
+## 历史版本号
+
+- 当前版本：0.2.2
+
+- 0.1.0
+- 0.1.1
+- 0.2.0
+- 0.2.1
+- 0.2.2
+
+## 获取地址
+
+- npm 安装：`npm install dlook-cli`
+- npm registry：https://registry.npmjs.org/dlook-cli

@@ -1,0 +1,22 @@
+# @pattle-ecom/beans
+
+> 标签: JavaScript
+
+## 简介
+
+Does nothing
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@pattle-ecom/beans
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @pattle-ecom/beans`
+- npm registry：https://registry.npmjs.org/@pattle-ecom/beans

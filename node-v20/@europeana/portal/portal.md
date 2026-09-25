@@ -1,0 +1,36 @@
+# @europeana/portal
+
+> 标签: code4lib
+
+## 简介
+
+Europeana Portal
+
+## 官网
+
+- 官网：https://github.com/europeana/portal.js#readme
+- 源码仓库：git+https://github.com/europeana/portal.js.git
+- npm 页面：https://www.npmjs.com/package/@europeana/portal
+
+## 历史版本号
+
+- 当前版本：1.82.0
+
+- 1.74.1
+- 1.74.2
+- 1.75.0
+- 1.76.0
+- 1.76.1
+- 1.77.0
+- 1.78.0
+- 1.79.0
+- 1.79.1
+- 1.80.0
+- 1.81.0
+- 1.82.0
+
+## 获取地址
+
+- npm 安装：`npm install @europeana/portal`
+- npm registry：https://registry.npmjs.org/@europeana/portal
+- Node 要求：^16

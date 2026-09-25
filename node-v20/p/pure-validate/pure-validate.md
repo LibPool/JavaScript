@@ -1,0 +1,34 @@
+# pure-validate
+
+> 标签: frp, pure, ramda, validate, validation
+
+## 简介
+
+Simple validation with pure functions
+
+## 官网
+
+- 官网：https://github.com/busfor/pure-validate#readme
+- 源码仓库：git+https://github.com/busfor/pure-validate.git
+- npm 页面：https://www.npmjs.com/package/pure-validate
+
+## 历史版本号
+
+- 当前版本：0.1.9
+
+- 0.0.1
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install pure-validate`
+- npm registry：https://registry.npmjs.org/pure-validate

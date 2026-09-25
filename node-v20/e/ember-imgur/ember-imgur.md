@@ -1,0 +1,25 @@
+# ember-imgur
+
+> 标签: ember, ember-addon, ember-cli, imgur
+
+## 简介
+
+Service allowing your to upload and get images from Imgur using EmberJS
+
+## 官网
+
+- 官网：https://github.com/alexmngn/ember-imgur
+- 源码仓库：git+https://github.com/alexmngn/ember-imgur.git
+- npm 页面：https://www.npmjs.com/package/ember-imgur
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install ember-imgur`
+- npm registry：https://registry.npmjs.org/ember-imgur
+- Node 要求：>= 0.10.0

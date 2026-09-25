@@ -1,0 +1,23 @@
+# @tesmino/tes-agent
+
+> 标签: agent, agent-instructions, agents, ai, cli, scaffold
+
+## 简介
+
+Initialize .agents configuration files in a project.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@tesmino/tes-agent
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @tesmino/tes-agent`
+- npm registry：https://registry.npmjs.org/@tesmino/tes-agent

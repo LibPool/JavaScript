@@ -1,0 +1,35 @@
+# mineflayer-crafting-util
+
+> 标签: bot, crafting, minecraft, mineflayer
+
+## 简介
+
+A plugin to simplify crafting recipes.
+
+## 官网
+
+- 官网：https://github.com/GenerelSchwerz/mineflayer-crafting-util#readme
+- 源码仓库：git+https://github.com/GenerelSchwerz/mineflayer-crafting-util.git
+- npm 页面：https://www.npmjs.com/package/mineflayer-crafting-util
+
+## 历史版本号
+
+- 当前版本：0.5.0
+
+- 0.3.0
+- 0.3.1
+- 0.3.2
+- 0.3.3
+- 0.4.0
+- 0.4.1
+- 0.4.2
+- 0.4.3
+- 0.4.4
+- 0.4.5
+- 0.4.6
+- 0.5.0
+
+## 获取地址
+
+- npm 安装：`npm install mineflayer-crafting-util`
+- npm registry：https://registry.npmjs.org/mineflayer-crafting-util

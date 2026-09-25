@@ -1,0 +1,35 @@
+# take-until-destroy
+
+> 标签: angular, rxjs, takeUntilDestroy, unsubscribe
+
+## 简介
+
+A simple way to unsubscribe from an RxJs stream in Angular (2+) when the component is destroyed
+
+## 官网
+
+- 官网：https://github.com/jsdevtom/take-until-destroy#readme
+- 源码仓库：git+https://github.com/jsdevtom/take-until-destroy.git
+- npm 页面：https://www.npmjs.com/package/take-until-destroy
+
+## 历史版本号
+
+- 当前版本：2.1.0
+
+- 1.0.8
+- 1.0.9
+- 1.1.3
+- 1.2.1
+- 1.2.2
+- 1.2.3
+- 1.2.5
+- 1.2.6
+- 1.3.0
+- 1.3.1
+- 2.0.0
+- 2.1.0
+
+## 获取地址
+
+- npm 安装：`npm install take-until-destroy`
+- npm registry：https://registry.npmjs.org/take-until-destroy

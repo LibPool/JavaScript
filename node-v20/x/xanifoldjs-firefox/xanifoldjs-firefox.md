@@ -1,0 +1,28 @@
+# xanifoldjs-firefox
+
+> 标签: Firefox, Firefox OS, Manifold, ManifoldJS, W3C, convert manifest, manifest
+
+## 简介
+
+Manifoldjs Firefox OS Platform
+
+## 官网
+
+- 官网：https://github.com/manifoldjs/manifoldjs-firefox
+- 源码仓库：git+https://github.com/manifoldjs/manifoldjs-firefox.git
+- npm 页面：https://www.npmjs.com/package/xanifoldjs-firefox
+
+## 历史版本号
+
+- 当前版本：0.1.4
+
+- 0.1.0
+- 0.1.1
+- 0.1.3
+- 0.1.4
+
+## 获取地址
+
+- npm 安装：`npm install xanifoldjs-firefox`
+- npm registry：https://registry.npmjs.org/xanifoldjs-firefox
+- Node 要求：>=0.12.0

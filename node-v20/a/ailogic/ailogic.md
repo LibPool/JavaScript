@@ -1,0 +1,26 @@
+# ailogic
+
+> 标签: ai, anthropic, assertion, boolean, claude, falsy, gemini, llm, openai, predicate, truthy
+
+## 简介
+
+Dynamically test whether any value evaluates to truthy or falsy by asking a configured AI model.
+
+## 官网
+
+- 官网：https://github.com/mtek-mool/ailogic#readme
+- 源码仓库：git+https://github.com/mtek-mool/ailogic.git
+- npm 页面：https://www.npmjs.com/package/ailogic
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install ailogic`
+- npm registry：https://registry.npmjs.org/ailogic
+- Node 要求：>=18.0.0

@@ -1,0 +1,26 @@
+# @kevinwang0316/react-native-snackbar-component
+
+> 标签: android, design, ios, material, notifications, react-native, snackbar
+
+## 简介
+
+A snackbar component for Android and iOS
+
+## 官网
+
+- 官网：https://github.com/SiDevesh/React-Native-SnackBar#readme
+- 源码仓库：git+https://github.com/SiDevesh/React-Native-SnackBar.git
+- npm 页面：https://www.npmjs.com/package/@kevinwang0316/react-native-snackbar-component
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 1.1.0
+- 1.1.1
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @kevinwang0316/react-native-snackbar-component`
+- npm registry：https://registry.npmjs.org/@kevinwang0316/react-native-snackbar-component

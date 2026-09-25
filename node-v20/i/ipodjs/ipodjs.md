@@ -1,0 +1,25 @@
+# ipodjs
+
+> 标签: audio, ipod, media, player, web
+
+## 简介
+
+A javascript iPod player
+
+## 官网
+
+- 官网：https://github.com/duhnnie/iPodJS#readme
+- 源码仓库：git://github.com/duhnnie/iPodJS.git
+- npm 页面：https://www.npmjs.com/package/ipodjs
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.1
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install ipodjs`
+- npm registry：https://registry.npmjs.org/ipodjs

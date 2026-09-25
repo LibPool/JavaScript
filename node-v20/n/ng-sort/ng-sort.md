@@ -1,0 +1,36 @@
+# ng-sort
+
+> 标签: JavaScript
+
+## 简介
+
+[![Build Status](https://travis-ci.org/acme-company/ng-sort.svg?branch=master)](https://travis-ci.org/acme-company/ng-sort) [![Build Status](https://ci.appveyor.com/api/projects/status/2h0bkhhh1s3bi40q/branch/master?svg=true)](https://ci.appveyor.com/proj
+
+## 官网
+
+- 官网：https://github.com/acme-company/ng-sort#readme
+- 源码仓库：git+https://github.com/acme-company/ng-sort.git
+- npm 页面：https://www.npmjs.com/package/ng-sort
+
+## 历史版本号
+
+- 当前版本：0.1.18
+
+- 0.1.15
+- 0.1.16
+- 0.1.17
+- 0.1.18
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install ng-sort`
+- npm registry：https://registry.npmjs.org/ng-sort
+- Node 要求：>=6.1

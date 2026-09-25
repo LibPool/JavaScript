@@ -1,0 +1,35 @@
+# @sap/mdk-tools
+
+> 标签: btp, cli, cloud-foundry, html5-repo, mdk, mobile-development-kit, mobile-services, sap
+
+## 简介
+
+CLI tools for the mobile development kit (MDK) — build, deploy, migrate, and validate MDK metadata projects.
+
+## 官网
+
+- 官网：https://help.sap.com/doc/f53c64b93e5140918d676b927a3cd65b/Cloud/en-US/docs-en/guides/getting-started/mdk/overview.html
+- npm 页面：https://www.npmjs.com/package/@sap/mdk-tools
+
+## 历史版本号
+
+- 当前版本：1.17.1
+
+- 1.5.0
+- 1.5.1
+- 1.5.2
+- 1.5.3
+- 1.5.4
+- 1.6.0
+- 1.7.0
+- 1.7.1
+- 1.7.2
+- 1.7.3
+- 1.8.0
+- 1.9.0
+
+## 获取地址
+
+- npm 安装：`npm install @sap/mdk-tools`
+- npm registry：https://registry.npmjs.org/@sap/mdk-tools
+- Node 要求：>=24.16.0

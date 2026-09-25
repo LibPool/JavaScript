@@ -1,0 +1,31 @@
+# @truconsent/consent-notice-react-native
+
+> 标签: banner, consent, gdpr, privacy, react-native
+
+## 简介
+
+React Native SDK for TruConsent consent banner
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@truconsent/consent-notice-react-native
+
+## 历史版本号
+
+- 当前版本：0.1.9
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install @truconsent/consent-notice-react-native`
+- npm registry：https://registry.npmjs.org/@truconsent/consent-notice-react-native

@@ -1,0 +1,31 @@
+# locale-parser
+
+> 标签: handler, i18n, language, locale, locales, localization, parser
+
+## 简介
+
+YAML based localization system
+
+## 官网
+
+- 官网：https://github.com/barbarbar338/locale-parser#readme
+- 源码仓库：git+https://github.com/barbarbar338/locale-parser.git
+- npm 页面：https://www.npmjs.com/package/locale-parser
+
+## 历史版本号
+
+- 当前版本：1.1.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+
+## 获取地址
+
+- npm 安装：`npm install locale-parser`
+- npm registry：https://registry.npmjs.org/locale-parser

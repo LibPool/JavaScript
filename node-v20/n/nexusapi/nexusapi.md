@@ -1,0 +1,28 @@
+# nexusapi
+
+> 标签: JavaScript
+
+## 简介
+
+Access data from Nexus repositories
+
+## 官网
+
+- 官网：https://github.com/donpayne/nexusapi#readme
+- 源码仓库：git+https://github.com/donpayne/nexusapi.git
+- npm 页面：https://www.npmjs.com/package/nexusapi
+
+## 历史版本号
+
+- 当前版本：1.4.2
+
+- 1.3.0
+- 1.4.0
+- 1.4.1
+- 1.4.2
+
+## 获取地址
+
+- npm 安装：`npm install nexusapi`
+- npm registry：https://registry.npmjs.org/nexusapi
+- Node 要求：~4.4.4

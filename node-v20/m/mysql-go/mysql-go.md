@@ -1,0 +1,32 @@
+# mysql-go
+
+> 标签: Database, banco, base, dada, dados, de, mysql2
+
+## 简介
+
+Framework Feito para facilitar a vida no mysql2
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/mysql-go
+
+## 历史版本号
+
+- 当前版本：2.2.5
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 2.0.0
+- 2.1.0
+- 2.2.0
+- 2.2.1
+- 2.2.2
+- 2.2.3
+- 2.2.4
+- 2.2.5
+
+## 获取地址
+
+- npm 安装：`npm install mysql-go`
+- npm registry：https://registry.npmjs.org/mysql-go

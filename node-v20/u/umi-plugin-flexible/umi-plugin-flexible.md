@@ -1,0 +1,24 @@
+# umi-plugin-flexible
+
+> 标签: vite
+
+## 简介
+
+Umi plugin that automatically injects flexible scripts and converts pixel units to rem units
+
+## 官网
+
+- 官网：https://github.com/dominicleo/umi-plugin-flexible#readme
+- 源码仓库：git+https://github.com/dominicleo/umi-plugin-flexible.git
+- npm 页面：https://www.npmjs.com/package/umi-plugin-flexible
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install umi-plugin-flexible`
+- npm registry：https://registry.npmjs.org/umi-plugin-flexible

@@ -1,0 +1,26 @@
+# @socwarden/sdk
+
+> 标签: event-tracking, security, soc, socwarden, threat-detection
+
+## 简介
+
+SOCWarden Node.js/TypeScript SDK for security event tracking
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@socwarden/sdk
+
+## 历史版本号
+
+- 当前版本：1.0.0-alpha.1
+
+- 0.0.1
+- 0.0.1-alpha.1
+- 1.0.0-alpha.1
+- 1.0.0-alpha.2
+
+## 获取地址
+
+- npm 安装：`npm install @socwarden/sdk`
+- npm registry：https://registry.npmjs.org/@socwarden/sdk
+- Node 要求：>=18.0.0

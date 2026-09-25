@@ -1,0 +1,27 @@
+# generate-ts-types
+
+> 标签: JSON, TypeScript, synthesis, types
+
+## 简介
+
+Make TypeScript types and proxy objects from example JSON objects. Can use proxy objects to dynamically type check JSON at runtime.
+
+## 官网
+
+- 官网：https://github.com/ifeoluwak/MakeTypes.git#readme
+- npm 页面：https://www.npmjs.com/package/generate-ts-types
+
+## 历史版本号
+
+- 当前版本：1.1.7
+
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.1.6
+- 1.1.7
+
+## 获取地址
+
+- npm 安装：`npm install generate-ts-types`
+- npm registry：https://registry.npmjs.org/generate-ts-types

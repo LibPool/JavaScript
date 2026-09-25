@@ -1,0 +1,27 @@
+# aex-grid-component
+
+> 标签: alex, component, grid, react
+
+## 简介
+
+React component for creating a website with responsive grid items that can expand into multiple columns and rows when clicked.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/aex-grid-component
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+
+## 获取地址
+
+- npm 安装：`npm install aex-grid-component`
+- npm registry：https://registry.npmjs.org/aex-grid-component

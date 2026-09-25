@@ -1,0 +1,25 @@
+# pbsb
+
+> 标签: pubsub
+
+## 简介
+
+Yet another PubSub Library.
+
+## 官网
+
+- 官网：https://github.com/curist/PubSub
+- 源码仓库：git://github.com/curist/PubSub.git
+- npm 页面：https://www.npmjs.com/package/pbsb
+
+## 历史版本号
+
+- 当前版本：0.5.1
+
+- 0.5.0
+- 0.5.1
+
+## 获取地址
+
+- npm 安装：`npm install pbsb`
+- npm registry：https://registry.npmjs.org/pbsb

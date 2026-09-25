@@ -1,0 +1,36 @@
+# shared-atom
+
+> 标签: JavaScript
+
+## 简介
+
+To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+
+## 官网
+
+- 官网：https://github.com/AtomTeam0/shared-atom#readme
+- 源码仓库：git+https://github.com/AtomTeam0/shared-atom.git
+- npm 页面：https://www.npmjs.com/package/shared-atom
+
+## 历史版本号
+
+- 当前版本：1.2.9
+
+- 1.2.2-dev1
+- 1.2.2-dev2
+- 1.2.3
+- 1.2.3-dev1
+- 1.2.3-dev2
+- 1.2.4
+- 1.2.5
+- 1.2.6-dev
+- 1.2.6-dev1
+- 1.2.7
+- 1.2.8
+- 1.2.9
+- 共 234 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install shared-atom`
+- npm registry：https://registry.npmjs.org/shared-atom

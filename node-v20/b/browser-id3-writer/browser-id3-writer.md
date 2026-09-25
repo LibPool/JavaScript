@@ -1,0 +1,35 @@
+# browser-id3-writer
+
+> 标签: JavaScript
+
+## 简介
+
+JavaScript library for writing ID3 tag to MP3 files in browsers and Node.js
+
+## 官网
+
+- 官网：https://github.com/egoroof/browser-id3-writer#readme
+- 源码仓库：git+https://github.com/egoroof/browser-id3-writer.git
+- npm 页面：https://www.npmjs.com/package/browser-id3-writer
+
+## 历史版本号
+
+- 当前版本：6.4.0
+
+- 4.1.0
+- 4.2.0
+- 4.3.0
+- 4.4.0
+- 5.0.0
+- 6.0.0
+- 6.1.0
+- 6.2.0
+- 6.3.0
+- 6.3.1
+- 6.3.2
+- 6.4.0
+
+## 获取地址
+
+- npm 安装：`npm install browser-id3-writer`
+- npm registry：https://registry.npmjs.org/browser-id3-writer

@@ -1,0 +1,22 @@
+# @cronicorn/agent
+
+> 标签: JavaScript
+
+## 简介
+
+A modular web scraping framework written in TypeScript, designed around three pluggable responsibilities—**fetching**, **parsing**, and **writing**—with clear contracts to enable easy extension and testing.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@cronicorn/agent
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @cronicorn/agent`
+- npm registry：https://registry.npmjs.org/@cronicorn/agent

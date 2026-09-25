@@ -1,0 +1,26 @@
+# dathost-parse-multipart-data
+
+> 标签: fileuploader, form, multipart/form-data
+
+## 简介
+
+A javascript/nodejs multipart/form-data parser which operates on raw data.
+
+## 官网
+
+- 官网：https://github.com/nachomazzara/parse-multipart-data#readme
+- 源码仓库：git+https://github.com/nachomazzara/parse-multipart-data.git
+- npm 页面：https://www.npmjs.com/package/dathost-parse-multipart-data
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install dathost-parse-multipart-data`
+- npm registry：https://registry.npmjs.org/dathost-parse-multipart-data

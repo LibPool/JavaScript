@@ -1,0 +1,23 @@
+# @waoooo/claude-skills-manager
+
+> 标签: claude, claude-code, cli, manager, npm, skills
+
+## 简介
+
+CLI tool to manage Claude Code Skills from npm packages
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@waoooo/claude-skills-manager
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @waoooo/claude-skills-manager`
+- npm registry：https://registry.npmjs.org/@waoooo/claude-skills-manager
+- Node 要求：>=18.0.0

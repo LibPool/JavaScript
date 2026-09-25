@@ -1,0 +1,29 @@
+# iptrie
+
+> 标签: IP, acl, blocklist, iptrie
+
+## 简介
+
+IP tries (prefix tree)
+
+## 官网
+
+- 官网：https://github.com/postwait/node-iptrie#readme
+- 源码仓库：git://github.com/postwait/node-iptrie.git
+- npm 页面：https://www.npmjs.com/package/iptrie
+
+## 历史版本号
+
+- 当前版本：0.0.7
+
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.6
+- 0.0.7
+
+## 获取地址
+
+- npm 安装：`npm install iptrie`
+- npm registry：https://registry.npmjs.org/iptrie
+- Node 要求：>= 4.2.0

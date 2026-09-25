@@ -1,0 +1,24 @@
+# monorepo-example-shared
+
+> 标签: JavaScript
+
+## 简介
+
+Shared package being part of a monorepo example
+
+## 官网
+
+- 官网：https://github.com/HooftmanD/monorepo-example#readme
+- 源码仓库：git+https://github.com/HooftmanD/monorepo-example.git
+- npm 页面：https://www.npmjs.com/package/monorepo-example-shared
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install monorepo-example-shared`
+- npm registry：https://registry.npmjs.org/monorepo-example-shared

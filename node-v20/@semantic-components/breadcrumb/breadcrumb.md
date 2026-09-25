@@ -1,0 +1,24 @@
+# @semantic-components/breadcrumb
+
+> 标签: JavaScript
+
+## 简介
+
+I've created a comprehensive breadcrumb component for Angular that leverages signals for reactive state management. Here are the key features: Key Components:
+
+## 官网
+
+- 官网：https://github.com/khalilou88/semantic-components#readme
+- 源码仓库：git+https://github.com/khalilou88/semantic-components.git
+- npm 页面：https://www.npmjs.com/package/@semantic-components/breadcrumb
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @semantic-components/breadcrumb`
+- npm registry：https://registry.npmjs.org/@semantic-components/breadcrumb

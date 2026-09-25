@@ -1,0 +1,27 @@
+# google-page-translation-editor
+
+> 标签: JavaScript
+
+## 简介
+
+A online editor for the google translated HTML page .
+
+## 官网
+
+- 官网：https://github.com/1010543618/google-page-translation-editor#readme
+- 源码仓库：git+https://github.com/1010543618/google-page-translation-editor.git
+- npm 页面：https://www.npmjs.com/package/google-page-translation-editor
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install google-page-translation-editor`
+- npm registry：https://registry.npmjs.org/google-page-translation-editor

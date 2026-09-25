@@ -1,0 +1,27 @@
+# @shoutem/migrate-mongodb
+
+> 标签: migrate, migrations
+
+## 简介
+
+Abstract migration framework for node
+
+## 官网
+
+- 官网：https://github.com/shoutem/node-migrate#readme
+- 源码仓库：git://github.com/shoutem/node-migrate.git
+- npm 页面：https://www.npmjs.com/package/@shoutem/migrate-mongodb
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @shoutem/migrate-mongodb`
+- npm registry：https://registry.npmjs.org/@shoutem/migrate-mongodb
+- Node 要求：>= 0.4.x

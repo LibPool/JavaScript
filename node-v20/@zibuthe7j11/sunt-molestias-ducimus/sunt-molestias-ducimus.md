@@ -1,0 +1,24 @@
+# @zibuthe7j11/sunt-molestias-ducimus
+
+> 标签: $.extend, 256, 3d, 6to5, Array.prototype.contains, Array.prototype.filter, Array.prototype.findLast, Array.prototype.flat, Array.prototype.flatMap, Array.prototype.flatten, Array.prototype.includes, AsyncIterator, BigInt64Array, BigUint64Array, CSSStyleDeclaration, ECMAScript 2015, ECMAScript 2016, ECMAScript 2017, ECMAScript 2019, ECMAScript 2020, ECMAScript 2021, ECMAScript 2022, ECMAScript 2023, ECMAScript 3, ECMAScript 5, ECMAScript 6, ECMAScript 7, ES2018, ES2021, ES2023, ES3, ES6, ES7, ES8, ESnext, Float32Array, Float64Array, Function.prototype.name, Iterator, JSON-Schema, Object.assign, Object.defineProperty, Object.fromEntries, Object.is, Object.keys, Object.values, Observable, Promise, RFC-6455, ReactiveX, Reflect.getPrototypeOf, RegExp.prototype.flags, RxJS, Set, String.prototype.trim, Symbol, TypeScript, TypedArray, URL, Uint16Array, Uint8Array, WeakMap, WeakSet, WebSocket, WebSockets, YAML, ajv, ansi, api, apollo, args, array, art, ascii, assert, assertion, asserts, assign, ast, async, authentication, ava, await, babel, babel-core, bcrypt, bind, bluebird, bootstrap less, break, browser, browserslist, buffer, buffers, bundler, byte, cache, call, call-bound, callbind, callbound, censor, chai, channel, chrome, chromium, circular, cjk, class-validator, classes, classname, clone, coercible, collection, collection.es6, color, column, columns, command-line, commander, compare, computed-types, concurrency, connect, const, consume, contains, copy, core, core-js, cors, crypt, crypto, css nesting, css variable, css-in-js, curried, data, datastructure, debug, deep, deepclone, define, dependencies, dependency manager, description, descriptor, deterministic, dir, directory, dom, drag, drop, duplex, ecmascript, efficient, electron, emit, emoji, encryption, equality, error, es-abstract, es-shims, es2015, es2016, es5, es8, escape, eslint-plugin, eslintplugin, eventEmitter, exit, express, expression, extend, extension, fast, fast-clone, fast-deep-clone, fastclone, fastcopy, fetch, file, find, findLast, findup, flags, flat, forEach, form, format, formatting, forms, fp, framework, full, fullwidth, functions, gdpr, gestures, getOwnPropertyDescriptor, getPrototypeOf, getopt, getter, gradients css, gradients css3, group, guid, handlers, has, hasOwn, helpers, hookform, hooks, http, idle, ie, includes, indicator, inference, input, inspect, install, installer, interrupts, io-ts, irq, is, isConcatSpreadable, iteration, iterator, jQuery, japanese, javascript, jest, js, json-schema-validator, jsonschema, jsx, jwt, karma, last, length, less, less css, limit, limited, linewrap, lint, linux, listeners, loading, lockfile, logging, look, look-up, lru, merge, metadata, mime-db, minimal, mkdir, mkdirp, mkdirs, mobile, mocha, module, moment, mru, names, nested css, node, nope, obj, object, once, open, optimizer, output, package.json, packages, parse, password, path, performance, performant, persistent, picomatch, pipe, polyfill, popmotion, pose, postcss-plugin, prefix, preprocessor, preserve-symlinks, private, promise, properties, property, protobuf, protocol-buffers, prototype, prune, pyyaml, qs, querystring, queueMicrotask, ramda, random, rapid, react, react pose, react-hook-form, react-testing-library, recursive, reduce, redux, regular, regular expression, regular expressions, request, require, resolve, rfc4122, rgb, rm, rm -rf, rmdir, sameValueZero, sanitization, sanitize, search, sequence, set, setPrototypeOf, settings, sharedarraybuffer, shebang, shell, shim, shrinkwrap, signal, signals, sigterm, slice, sorted, spec, speed, spinners, starter, status, stream, stringifier, structuredClone, style, styled-components, styles, styling, superstruct, symbols, symlinks, syntax, tacit, take, tdd, terminal, three, toolkit, tools, tostringtag, touch, transpile, transpiler, traverse, trim, trimRight, trimStart, tty, typanion, typed, typed array, types, up, url, utility, utils, uuid, valid, validation, value, view, waapi, walking, watch, watchFile, watcher, watching, weakmap, weakset, wget, whatwg, which, wordwrap, worker, workspace:*, wrap, writable, xhr, xss, xterm
+
+## 简介
+
+[![github actions][actions-image]][actions-url] [![coverage][codecov-image]][codecov-url] [![dependency status][deps-svg]][deps-url] [![dev dependency status][dev-deps-svg]][dev-deps-url] [![License][license-image]][license-url] [![Downloads][downloads-im
+
+## 官网
+
+- 官网：https://github.com/zibuthe7j11/sunt-molestias-ducimus/#readme
+- 源码仓库：git+https://github.com/zibuthe7j11/sunt-molestias-ducimus.git
+- npm 页面：https://www.npmjs.com/package/@zibuthe7j11/sunt-molestias-ducimus
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @zibuthe7j11/sunt-molestias-ducimus`
+- npm registry：https://registry.npmjs.org/@zibuthe7j11/sunt-molestias-ducimus

@@ -1,0 +1,25 @@
+# n8n-nodes-cognidata
+
+> 标签: ai, cognidata, llm, n8n-community-node-package
+
+## 简介
+
+n8n community node for Cognidata Suite — LLM and workflow integration
+
+## 官网
+
+- 官网：https://github.com/cognidata/n8n-nodes-cognidata#readme
+- 源码仓库：git+https://github.com/cognidata/n8n-nodes-cognidata.git
+- npm 页面：https://www.npmjs.com/package/n8n-nodes-cognidata
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install n8n-nodes-cognidata`
+- npm registry：https://registry.npmjs.org/n8n-nodes-cognidata

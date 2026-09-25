@@ -1,0 +1,36 @@
+# @marbec/web-auto-extractor
+
+> 标签: crawler, html parser, jsonld, microdata, parser, rdfa, schema.org, seo
+
+## 简介
+
+Automatically extracts structured information from webpages
+
+## 官网
+
+- 官网：https://github.com/herzog31/web-auto-extractor#readme
+- 源码仓库：git+https://github.com/herzog31/web-auto-extractor.git
+- npm 页面：https://www.npmjs.com/package/@marbec/web-auto-extractor
+
+## 历史版本号
+
+- 当前版本：2.2.1
+
+- 2.0.0-beta.2
+- 2.0.0-beta.3
+- 2.0.0-beta.4
+- 2.0.0-beta.5
+- 2.0.0-beta.6
+- 2.0.0-beta.7
+- 2.0.0-beta.8
+- 2.0.0-beta.9
+- 2.1.0
+- 2.1.1
+- 2.2.0
+- 2.2.1
+
+## 获取地址
+
+- npm 安装：`npm install @marbec/web-auto-extractor`
+- npm registry：https://registry.npmjs.org/@marbec/web-auto-extractor
+- Node 要求：>=18.0.0

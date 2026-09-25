@@ -1,0 +1,22 @@
+# @saiteja13/express-template
+
+> 标签: cli, create-express-ts-starter, express, starter, taraksh01, typescript
+
+## 简介
+
+@saiteja13/express-template - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@saiteja13/express-template
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @saiteja13/express-template`
+- npm registry：https://registry.npmjs.org/@saiteja13/express-template

@@ -1,0 +1,36 @@
+# miojslibs-core
+
+> 标签: JavaScript
+
+## 简介
+
+These libraries are the building blocks of MIOJSLibs.
+
+## 官网
+
+- 官网：https://github.com/miolabs/MIOJSLibs/blob/master/packages/miojslibs-core/README.md
+- 源码仓库：git+https://github.com/MIOLabs/MIOJSLibs.git
+- npm 页面：https://www.npmjs.com/package/miojslibs-core
+
+## 历史版本号
+
+- 当前版本：0.9.171
+
+- 0.9.158
+- 0.9.159
+- 0.9.160
+- 0.9.161
+- 0.9.162
+- 0.9.163
+- 0.9.164
+- 0.9.165
+- 0.9.166
+- 0.9.169
+- 0.9.170
+- 0.9.171
+- 共 107 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install miojslibs-core`
+- npm registry：https://registry.npmjs.org/miojslibs-core

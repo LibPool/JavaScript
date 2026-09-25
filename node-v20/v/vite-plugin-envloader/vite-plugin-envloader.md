@@ -1,0 +1,28 @@
+# vite-plugin-envloader
+
+> 标签: env, environment, variables, vite, vite-plugin, vitejs
+
+## 简介
+
+Inject Vite.js import.meta.env variables into process.env
+
+## 官网
+
+- 官网：https://github.com/NicolaSpadari/vite-plugin-envloader
+- 源码仓库：git+https://github.com/NicolaSpadari/vite-plugin-envloader.git
+- npm 页面：https://www.npmjs.com/package/vite-plugin-envloader
+
+## 历史版本号
+
+- 当前版本：0.4.1
+
+- 0.1.0
+- 0.1.1
+- 0.2.0
+- 0.4.0
+- 0.4.1
+
+## 获取地址
+
+- npm 安装：`npm install vite-plugin-envloader`
+- npm registry：https://registry.npmjs.org/vite-plugin-envloader

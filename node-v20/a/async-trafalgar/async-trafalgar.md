@@ -1,0 +1,24 @@
+# async-trafalgar
+
+> 标签: myasync, test, trafalgar
+
+## 简介
+
+Fonctions et modèles communs pour le code asynchrone
+
+## 官网
+
+- 官网：https://github.com/GuiftDevis/async-trafalgar#readme
+- 源码仓库：git+https://github.com/GuiftDevis/async-trafalgar.git
+- npm 页面：https://www.npmjs.com/package/async-trafalgar
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install async-trafalgar`
+- npm registry：https://registry.npmjs.org/async-trafalgar

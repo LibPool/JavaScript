@@ -1,0 +1,27 @@
+# femas-linux-real
+
+> 标签: JavaScript
+
+## 简介
+
+飞马API nodejs扩展 目前仅支持windows 10  nodejs为32位
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/femas-linux-real
+
+## 历史版本号
+
+- 当前版本：1.0.6
+
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+
+## 获取地址
+
+- npm 安装：`npm install femas-linux-real`
+- npm registry：https://registry.npmjs.org/femas-linux-real

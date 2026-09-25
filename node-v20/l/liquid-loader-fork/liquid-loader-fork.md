@@ -1,0 +1,26 @@
+# liquid-loader-fork
+
+> 标签: liquid, loader, template, webpack
+
+## 简介
+
+Liquid template engine for Webpack loader.
+
+## 官网
+
+- 官网：https://github.com/azeeson/liquid-loader
+- 源码仓库：git://github.com/azeeson/liquid-loader.git
+- npm 页面：https://www.npmjs.com/package/liquid-loader-fork
+
+## 历史版本号
+
+- 当前版本：0.2.2
+
+- 0.2.1
+- 0.2.2
+
+## 获取地址
+
+- npm 安装：`npm install liquid-loader-fork`
+- npm registry：https://registry.npmjs.org/liquid-loader-fork
+- Node 要求：>=4

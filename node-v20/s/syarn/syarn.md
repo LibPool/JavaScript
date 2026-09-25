@@ -1,0 +1,28 @@
+# syarn
+
+> 标签: JavaScript
+
+## 简介
+
+strict version control of yarn
+
+## 官网
+
+- 官网：https://github.com/klouskingsley/syarn#readme
+- 源码仓库：git+https://github.com/klouskingsley/syarn.git
+- npm 页面：https://www.npmjs.com/package/syarn
+
+## 历史版本号
+
+- 当前版本：0.24.2
+
+- 0.23.0-0
+- 0.24.0
+- 0.24.1
+- 0.24.2
+
+## 获取地址
+
+- npm 安装：`npm install syarn`
+- npm registry：https://registry.npmjs.org/syarn
+- Node 要求：>=4.0.0

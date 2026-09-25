@@ -1,0 +1,27 @@
+# gulp-sentry-release
+
+> 标签: gulp, release, sentry
+
+## 简介
+
+Upload file using Hosted Sentry API to create a release base on package.json version number
+
+## 官网
+
+- 官网：https://github.com/ducdigital/gulp-sentry-release
+- 源码仓库：git+https://github.com/ducdigital/gulp-sentry-release.git
+- npm 页面：https://www.npmjs.com/package/gulp-sentry-release
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install gulp-sentry-release`
+- npm registry：https://registry.npmjs.org/gulp-sentry-release

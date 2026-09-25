@@ -1,0 +1,32 @@
+# generator-vale-dynamic
+
+> 标签: dynamic, vale, yeoman-generator
+
+## 简介
+
+A generator for Yeoman - Vale.com
+
+## 官网
+
+- 官网：https://github.com/lagden/generator-vale-dynamic
+- 源码仓库：git://github.com/lagden/generator-vale-dynamic.git
+- npm 页面：https://www.npmjs.com/package/generator-vale-dynamic
+
+## 历史版本号
+
+- 当前版本：0.1.5
+
+- 0.0.1
+- 0.0.3
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+
+## 获取地址
+
+- npm 安装：`npm install generator-vale-dynamic`
+- npm registry：https://registry.npmjs.org/generator-vale-dynamic
+- Node 要求：>=0.8.0

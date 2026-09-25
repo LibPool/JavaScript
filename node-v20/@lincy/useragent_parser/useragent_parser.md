@@ -1,0 +1,24 @@
+# @lincy/useragent_parser
+
+> 标签: JavaScript
+
+## 简介
+
+This is the VCL & JS implementation of the [ua-parser](https://github.com/tobie/ua-parser)
+
+## 官网
+
+- 官网：https://github.com/Financial-Times/useragent_parser#readme
+- 源码仓库：git+https://github.com/Financial-Times/useragent_parser.git
+- npm 页面：https://www.npmjs.com/package/@lincy/useragent_parser
+
+## 历史版本号
+
+- 当前版本：1.6.4
+
+- 1.6.4
+
+## 获取地址
+
+- npm 安装：`npm install @lincy/useragent_parser`
+- npm registry：https://registry.npmjs.org/@lincy/useragent_parser

@@ -1,0 +1,35 @@
+# social-mcp
+
+> 标签: ai, automation, discord, email, facebook, instagram, linkedin, llm, mailgun, mcp, medium, model-context-protocol, pinterest, reddit, sendgrid, slack, smtp, social-media, telegram, threads, tiktok, twitter, whatsapp
+
+## 简介
+
+MCP server for posting and interacting across social media platforms: Twitter, Instagram, Facebook, WhatsApp, Discord, Telegram, Slack, LinkedIn, Reddit, Threads, TikTok, Pinterest, Medium, and Email (SMTP/SendGrid/Mailgun/SES)
+
+## 官网
+
+- 官网：https://github.com/oluwaeinstein007/social-mcp#readme
+- 源码仓库：git+https://github.com/oluwaeinstein007/social-mcp.git
+- npm 页面：https://www.npmjs.com/package/social-mcp
+
+## 历史版本号
+
+- 当前版本：2.13.0
+
+- 2.11.0
+- 2.12.0
+- 2.13.0
+- 2.2.0
+- 2.3.0
+- 2.4.1
+- 2.5.0
+- 2.6.0
+- 2.7.0
+- 2.7.1
+- 2.8.0
+- 2.9.0
+
+## 获取地址
+
+- npm 安装：`npm install social-mcp`
+- npm registry：https://registry.npmjs.org/social-mcp

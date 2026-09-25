@@ -1,0 +1,24 @@
+# @julikhris/astro-fastify-auth-msal
+
+> 标签: JavaScript
+
+## 简介
+
+@julikhris/astro-fastify-auth-msal
+
+## 官网
+
+- 官网：https://github.com/JuliKhris/astro-auth-msal#readme
+- 源码仓库：git+https://github.com/JuliKhris/astro-auth-msal.git
+- npm 页面：https://www.npmjs.com/package/@julikhris/astro-fastify-auth-msal
+
+## 历史版本号
+
+- 当前版本：0.0.2-0
+
+- 0.0.2-0
+
+## 获取地址
+
+- npm 安装：`npm install @julikhris/astro-fastify-auth-msal`
+- npm registry：https://registry.npmjs.org/@julikhris/astro-fastify-auth-msal

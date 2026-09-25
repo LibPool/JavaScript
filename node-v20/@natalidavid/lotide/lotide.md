@@ -1,0 +1,24 @@
+# @natalidavid/lotide
+
+> 标签: lighthouselabs, lotide
+
+## 简介
+
+Lighthouse Lab's mini clone of Lodash library
+
+## 官网
+
+- 官网：https://github.com/natalidavid/lotide#readme
+- 源码仓库：git+https://github.com/natalidavid/lotide.git
+- npm 页面：https://www.npmjs.com/package/@natalidavid/lotide
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @natalidavid/lotide`
+- npm registry：https://registry.npmjs.org/@natalidavid/lotide

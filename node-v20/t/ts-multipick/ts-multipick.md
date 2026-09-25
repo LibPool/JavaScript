@@ -1,0 +1,24 @@
+# ts-multipick
+
+> 标签: pick, typescript
+
+## 简介
+
+TypeScript Pick utility, but deeper: Pick2, Pick3, Pick4, ...
+
+## 官网
+
+- 官网：https://github.com/staltz/ts-multipick#readme
+- 源码仓库：git+https://github.com/staltz/ts-multipick.git
+- npm 页面：https://www.npmjs.com/package/ts-multipick
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install ts-multipick`
+- npm registry：https://registry.npmjs.org/ts-multipick

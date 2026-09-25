@@ -1,0 +1,25 @@
+# @mfontecchio/shared
+
+> 标签: angular, color, design-system, typography, utilities
+
+## 简介
+
+Shared utilities and types for ui-component-suite — color utils, typography helpers, and common types
+
+## 官网
+
+- 官网：https://mfontecchio.github.io/fon-tech-io
+- 源码仓库：git+https://github.com/mFontecchio/fon-tech-io.git
+- npm 页面：https://www.npmjs.com/package/@mfontecchio/shared
+
+## 历史版本号
+
+- 当前版本：20.2.0
+
+- 1.0.0
+- 20.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @mfontecchio/shared`
+- npm registry：https://registry.npmjs.org/@mfontecchio/shared

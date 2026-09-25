@@ -1,0 +1,26 @@
+# ink-scrollbar
+
+> 标签: component, ink, list, scroll, scrollbar
+
+## 简介
+
+Scrollbar Component for Ink
+
+## 官网
+
+- 官网：https://github.com/karaggeorge/ink-scrollbar#readme
+- 源码仓库：git+https://github.com/karaggeorge/ink-scrollbar.git
+- npm 页面：https://www.npmjs.com/package/ink-scrollbar
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.1.0
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install ink-scrollbar`
+- npm registry：https://registry.npmjs.org/ink-scrollbar
+- Node 要求：>=6

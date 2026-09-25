@@ -1,0 +1,26 @@
+# react-native-shiny-nov-umeng
+
+> 标签: react-native-shiny-nov-umeng
+
+## 简介
+
+this is designed for umeng
+
+## 官网
+
+- 官网：https://github.com/glenwallace/react-native-shiny-nov-umeng
+- 源码仓库：git+https://github.com/glenwallace/react-native-shiny-nov-umeng.git
+- npm 页面：https://www.npmjs.com/package/react-native-shiny-nov-umeng
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install react-native-shiny-nov-umeng`
+- npm registry：https://registry.npmjs.org/react-native-shiny-nov-umeng

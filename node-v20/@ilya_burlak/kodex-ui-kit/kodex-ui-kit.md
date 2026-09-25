@@ -1,0 +1,25 @@
+# @ilya_burlak/kodex-ui-kit
+
+> 标签: components, react, scss, typescript, ui
+
+## 简介
+
+A small React + TypeScript UI Kit with SCSS components
+
+## 官网
+
+- 官网：https://github.com/IlyaBurlak/Kodex-UI-KIT#readme
+- 源码仓库：git+https://github.com/IlyaBurlak/Kodex-UI-KIT.git
+- npm 页面：https://www.npmjs.com/package/@ilya_burlak/kodex-ui-kit
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.1
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @ilya_burlak/kodex-ui-kit`
+- npm registry：https://registry.npmjs.org/@ilya_burlak/kodex-ui-kit

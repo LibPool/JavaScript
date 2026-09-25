@@ -1,0 +1,27 @@
+# @kazion/react-native-apple-auth
+
+> 标签: apple-auth, apple-authentication, apple-login, apple-sign-in, apple-sign-in-with-apple, apple-sign-in-with-apple-auth, apple-signin, react-native, react-native-apple-auth
+
+## 简介
+
+A React Native module for Apple Sign In Built with Nitro Modules.
+
+## 官网
+
+- 官网：https://github.com/patrickkabwe/react-native-apple-auth#readme
+- 源码仓库：git+https://github.com/patrickkabwe/react-native-apple-auth.git
+- npm 页面：https://www.npmjs.com/package/@kazion/react-native-apple-auth
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.1.0
+- 0.2.0
+- 0.2.1
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @kazion/react-native-apple-auth`
+- npm registry：https://registry.npmjs.org/@kazion/react-native-apple-auth

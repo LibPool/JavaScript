@@ -1,0 +1,35 @@
+# webradio-metadata
+
+> 标签: metadata, scraping, webradio
+
+## 简介
+
+API scraping recipes to get metadata of radio streams
+
+## 官网
+
+- 官网：https://github.com/adblockradio/webradio-metadata
+- 源码仓库：git://github.com/adblockradio/webradio-metadata.git
+- npm 页面：https://www.npmjs.com/package/webradio-metadata
+
+## 历史版本号
+
+- 当前版本：0.1.39
+
+- 0.1.32
+- 0.1.33
+- 0.1.34
+- 0.1.35
+- 0.1.38
+- 0.1.39
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install webradio-metadata`
+- npm registry：https://registry.npmjs.org/webradio-metadata

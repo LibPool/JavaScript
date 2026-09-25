@@ -1,0 +1,30 @@
+# git-aic
+
+> 标签: ai-commits, automated-commits, commit message tool, gemini, git, git-aic, git-plugin, openai
+
+## 简介
+
+AI-powered Git commit generator
+
+## 官网
+
+- 官网：https://github.com/Spectra010s/git-aic
+- 源码仓库：git+https://github.com/Spectra010s/git-aic.git
+- npm 页面：https://www.npmjs.com/package/git-aic
+
+## 历史版本号
+
+- 当前版本：1.4.1
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.2.1
+- 1.3.0
+- 1.4.0
+- 1.4.1
+
+## 获取地址
+
+- npm 安装：`npm install git-aic`
+- npm registry：https://registry.npmjs.org/git-aic

@@ -1,0 +1,26 @@
+# fluxum-sdk-ts
+
+> 标签: analytics, api, api-client, api-integration, async-processing, background-jobs, circuit-breaker, code-quality, compliance-checking, data-processing, distributed-processing, encryption, enterprise, error-handling, event-driven, fluxum, http-client, http-requests, job-processing, job-queue, load-balancing, logging, metrics, microservices, monitoring, optimization, performance-benchmark, performance-monitoring, production-ready, queue, queue-management, rate-limiting, real-time, resilience, rest-client, retry-mechanism, scalability, sdk, secure, security-audit, streaming, task-queue, typescript, vulnerability-scanning, webhook, websocket, workflow-automation
+
+## 简介
+
+Official TypeScript SDK for the Fluxum API service - A powerful WebSocket-based client for job processing with optional end-to-end encryption
+
+## 官网
+
+- 官网：https://fluxum.uk/developers
+- npm 页面：https://www.npmjs.com/package/fluxum-sdk-ts
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install fluxum-sdk-ts`
+- npm registry：https://registry.npmjs.org/fluxum-sdk-ts
+- Node 要求：>=16.0.0

@@ -1,0 +1,22 @@
+# ls-what-to-look-for-in-a-good-news-website-the-basics-mtpod4ur
+
+> 标签: JavaScript
+
+## 简介
+
+What to Look for in a Good News Website: the basics
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/ls-what-to-look-for-in-a-good-news-website-the-basics-mtpod4ur
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install ls-what-to-look-for-in-a-good-news-website-the-basics-mtpod4ur`
+- npm registry：https://registry.npmjs.org/ls-what-to-look-for-in-a-good-news-website-the-basics-mtpod4ur

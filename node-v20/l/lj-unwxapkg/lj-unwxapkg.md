@@ -1,0 +1,24 @@
+# lj-unwxapkg
+
+> 标签: weapp, wxapkg
+
+## 简介
+
+unpack wxapkg
+
+## 官网
+
+- 官网：https://github.com/thedreamwork/unwxapkg#readme
+- 源码仓库：git+https://github.com/thedreamwork/unwxapkg.git
+- npm 页面：https://www.npmjs.com/package/lj-unwxapkg
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install lj-unwxapkg`
+- npm registry：https://registry.npmjs.org/lj-unwxapkg

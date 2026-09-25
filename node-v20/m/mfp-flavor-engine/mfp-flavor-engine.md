@@ -1,0 +1,25 @@
+# mfp-flavor-engine
+
+> 标签: cooking, culinary, flavor, flavor-pairing, food-science, mathematical-flavor-profile, mfp, recipe, vector-math
+
+## 简介
+
+Mathematical Flavor Profile (MFP) Architecture Engine — 20-dimensional culinary intelligence
+
+## 官网
+
+- 官网：https://github.com/Studio46-Go/mfp-flavor-engine#readme
+- 源码仓库：git+https://github.com/Studio46-Go/mfp-flavor-engine.git
+- npm 页面：https://www.npmjs.com/package/mfp-flavor-engine
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install mfp-flavor-engine`
+- npm registry：https://registry.npmjs.org/mfp-flavor-engine
+- Node 要求：>=18.0.0

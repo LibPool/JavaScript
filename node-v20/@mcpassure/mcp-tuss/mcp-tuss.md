@@ -1,0 +1,31 @@
+# @mcpassure/mcp-tuss
+
+> 标签: ans, brasil, healthtech, mcp, mcpassure, model-context-protocol, rol, rol-ans, saude, saude-suplementar, tuss
+
+## 简介
+
+MCP server para consulta integrada de TUSS e Rol de Procedimentos ANS
+
+## 官网
+
+- 官网：https://github.com/mcpassure/mcp-tuss
+- 源码仓库：git+https://github.com/mcpassure/mcp-tuss.git
+- npm 页面：https://www.npmjs.com/package/@mcpassure/mcp-tuss
+
+## 历史版本号
+
+- 当前版本：0.2.2
+
+- 0.0.1
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.2.0
+- 0.2.1
+- 0.2.2
+
+## 获取地址
+
+- npm 安装：`npm install @mcpassure/mcp-tuss`
+- npm registry：https://registry.npmjs.org/@mcpassure/mcp-tuss
+- Node 要求：>=22.0.0

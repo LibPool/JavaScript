@@ -1,0 +1,29 @@
+# @moped/rule-file
+
+> 标签: JavaScript
+
+## 简介
+
+This module provides a sensible rule for handling arbitrary files in webpack apps. It is part of the moped suite of utilities for creating composable configs for building node.js and react apps.
+
+## 官网
+
+- 源码仓库：https://github.com/mopedjs/moped/tree/master/packages/rule-file
+- npm 页面：https://www.npmjs.com/package/@moped/rule-file
+
+## 历史版本号
+
+- 当前版本：0.0.9
+
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @moped/rule-file`
+- npm registry：https://registry.npmjs.org/@moped/rule-file

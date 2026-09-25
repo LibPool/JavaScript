@@ -1,0 +1,35 @@
+# vite-plugin-i18n-checker
+
+> 标签: extra-keys, i18n, i18n-lint, internationalization, localization, missing-keys, plugin, translation, translation-checker, validation, vite, vite-i18n, vite-plugin
+
+## 简介
+
+This is a Vite plugin for checking multi-language files in projects, ensuring key completeness and consistency across different language versions. It supports multiple file formats and flexible directory structures, helping developers maintain i18n transl
+
+## 官网
+
+- 官网：https://github.com/allenstu6311/vite-plugin-i18n-checker#readme
+- 源码仓库：git+https://github.com/allenstu6311/vite-plugin-i18n-checker.git
+- npm 页面：https://www.npmjs.com/package/vite-plugin-i18n-checker
+
+## 历史版本号
+
+- 当前版本：2.0.1
+
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.2.0
+- 2.0.0
+- 2.0.1
+
+## 获取地址
+
+- npm 安装：`npm install vite-plugin-i18n-checker`
+- npm registry：https://registry.npmjs.org/vite-plugin-i18n-checker

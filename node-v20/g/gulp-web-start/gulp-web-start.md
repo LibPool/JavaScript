@@ -1,0 +1,29 @@
+# gulp-web-start
+
+> 标签: Application, Gulp, Server, Start, Web
+
+## 简介
+
+Util for starting static web applications
+
+## 官网
+
+- 官网：https://github.com/Christoph89/gulp-web-start#readme
+- 源码仓库：git+https://github.com/Christoph89/gulp-web-start.git
+- npm 页面：https://www.npmjs.com/package/gulp-web-start
+
+## 历史版本号
+
+- 当前版本：2.1.0
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 2.0.0
+- 2.1.0
+
+## 获取地址
+
+- npm 安装：`npm install gulp-web-start`
+- npm registry：https://registry.npmjs.org/gulp-web-start

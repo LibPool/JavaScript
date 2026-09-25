@@ -1,0 +1,26 @@
+# angular-arithmetic
+
+> 标签: angular, angularjs, arithmetic, operation
+
+## 简介
+
+Four methods for basic arithmetic operations exposed as AngularJS service
+
+## 官网
+
+- 官网：https://github.com/y4nnL/angular-arithmetic#readme
+- 源码仓库：git+https://github.com/y4nnL/angular-arithmetic.git
+- npm 页面：https://www.npmjs.com/package/angular-arithmetic
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 0.0.0
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install angular-arithmetic`
+- npm registry：https://registry.npmjs.org/angular-arithmetic

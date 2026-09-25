@@ -1,0 +1,31 @@
+# @jspsych/plugin-serial-reaction-time
+
+> 标签: JavaScript
+
+## 简介
+
+jsPsych plugin for running a serial reaction time task
+
+## 官网
+
+- 官网：https://www.jspsych.org/latest/plugins/serial-reaction-time
+- 源码仓库：git+https://github.com/jspsych/jsPsych.git
+- npm 页面：https://www.npmjs.com/package/@jspsych/plugin-serial-reaction-time
+
+## 历史版本号
+
+- 当前版本：2.1.0
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 2.0.0
+- 2.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @jspsych/plugin-serial-reaction-time`
+- npm registry：https://registry.npmjs.org/@jspsych/plugin-serial-reaction-time

@@ -1,0 +1,32 @@
+# klyg-file2head
+
+> 标签: gruntplugin
+
+## 简介
+
+A Grunt-plugin,find .js or .css file add to html tag
+
+## 官网
+
+- 官网：https://github.com/huyinghuan/grunt-file2head
+- 源码仓库：git://github.com/huyinghuan/grunt-file2head
+- npm 页面：https://www.npmjs.com/package/klyg-file2head
+
+## 历史版本号
+
+- 当前版本：0.0.8
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+
+## 获取地址
+
+- npm 安装：`npm install klyg-file2head`
+- npm registry：https://registry.npmjs.org/klyg-file2head
+- Node 要求：>=0.10

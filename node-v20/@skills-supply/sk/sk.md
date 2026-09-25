@@ -1,0 +1,35 @@
+# @skills-supply/sk
+
+> 标签: agents, ai, claude, cli, mcp, skills
+
+## 简介
+
+Skills Supply CLI - Install and manage AI agent skills
+
+## 官网
+
+- 官网：https://github.com/803/skills-supply
+- 源码仓库：git+https://github.com/803/skills-supply.git
+- npm 页面：https://www.npmjs.com/package/@skills-supply/sk
+
+## 历史版本号
+
+- 当前版本：0.2.4
+
+- 0.1.0
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.2.2
+- 0.2.3
+- 0.2.4
+
+## 获取地址
+
+- npm 安装：`npm install @skills-supply/sk`
+- npm registry：https://registry.npmjs.org/@skills-supply/sk
+- Node 要求：>=18

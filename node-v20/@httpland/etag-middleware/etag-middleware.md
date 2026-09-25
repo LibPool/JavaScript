@@ -1,0 +1,30 @@
+# @httpland/etag-middleware
+
+> 标签: entity-tag, etag, fetch-api, header, http, middleware, weak
+
+## 简介
+
+HTTP ETag middleware
+
+## 官网
+
+- 官网：https://github.com/httpland/etag-middleware
+- 源码仓库：git+https://github.com/httpland/etag-middleware.git
+- npm 页面：https://www.npmjs.com/package/@httpland/etag-middleware
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.0.0-beta.1
+- 1.0.0-beta.2
+- 1.0.0-beta.3
+- 1.0.0-beta.4
+- 1.1.0
+- 1.1.0-beta.1
+
+## 获取地址
+
+- npm 安装：`npm install @httpland/etag-middleware`
+- npm registry：https://registry.npmjs.org/@httpland/etag-middleware

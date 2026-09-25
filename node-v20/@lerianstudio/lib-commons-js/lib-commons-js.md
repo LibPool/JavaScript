@@ -1,0 +1,33 @@
+# @lerianstudio/lib-commons-js
+
+> 标签: JavaScript
+
+## 简介
+
+A comprehensive NodeJS library supporting TypeScript, providing common utilities and components for building robust microservices and applications in the Lerian Studio ecosystem. This is a port of [lib-commons](https://github.com/LerianStudio/lib-commons)
+
+## 官网
+
+- 官网：https://github.com/LerianStudio/lib-commons-js#readme
+- 源码仓库：git+https://github.com/LerianStudio/lib-commons-js.git
+- npm 页面：https://www.npmjs.com/package/@lerianstudio/lib-commons-js
+
+## 历史版本号
+
+- 当前版本：1.8.2
+
+- 1.3.0-beta.2
+- 1.5.0-beta.2
+- 1.6.0
+- 1.6.0-beta.2
+- 1.7.0
+- 1.7.0-beta.1
+- 1.7.0-beta.5
+- 1.8.1
+- 1.8.1-beta.1
+- 1.8.2
+
+## 获取地址
+
+- npm 安装：`npm install @lerianstudio/lib-commons-js`
+- npm registry：https://registry.npmjs.org/@lerianstudio/lib-commons-js

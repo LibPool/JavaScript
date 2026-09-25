@@ -1,0 +1,29 @@
+# @surstromming/sidebar-group
+
+> 标签: component-library, css-modules, design-system, scss, shadcn, sidebar-group, ui, vue, vue3
+
+## 简介
+
+A labelled group of sidebar navigation, rendered from data.
+
+## 官网
+
+- 官网：https://github.com/hackteck/surstromming/tree/main/packages/sidebar-group#readme
+- 源码仓库：git+https://github.com/hackteck/surstromming.git
+- npm 页面：https://www.npmjs.com/package/@surstromming/sidebar-group
+
+## 历史版本号
+
+- 当前版本：0.1.6
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.5
+- 0.1.6
+
+## 获取地址
+
+- npm 安装：`npm install @surstromming/sidebar-group`
+- npm registry：https://registry.npmjs.org/@surstromming/sidebar-group

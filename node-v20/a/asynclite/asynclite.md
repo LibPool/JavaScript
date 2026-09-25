@@ -1,0 +1,28 @@
+# asynclite
+
+> 标签: async, async-lite
+
+## 简介
+
+lite async library
+
+## 官网
+
+- 官网：https://github.com/a-sydorenko/async-lite#readme
+- 源码仓库：git+https://github.com/a-sydorenko/async-lite.git
+- npm 页面：https://www.npmjs.com/package/asynclite
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 0.1.0
+- 0.2.0
+- 0.3.1
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install asynclite`
+- npm registry：https://registry.npmjs.org/asynclite

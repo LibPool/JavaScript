@@ -1,0 +1,31 @@
+# uuid-to-hex
+
+> 标签: hex, uuid
+
+## 简介
+
+Convert uuid string representation into hex string
+
+## 官网
+
+- 官网：https://github.com/DeRain/uuid-to-hex#readme
+- 源码仓库：git+https://github.com/DeRain/uuid-to-hex.git
+- npm 页面：https://www.npmjs.com/package/uuid-to-hex
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install uuid-to-hex`
+- npm registry：https://registry.npmjs.org/uuid-to-hex
+- Node 要求：>=12

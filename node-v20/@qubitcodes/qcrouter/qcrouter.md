@@ -1,0 +1,27 @@
+# @qubitcodes/qcrouter
+
+> 标签: astro, chainer, edge, hono, middleware, nextjs, router, routing, typescript
+
+## 简介
+
+Type-safe routing compiler and middleware chainer for Next.js and modern JavaScript runtimes.
+
+## 官网
+
+- 官网：https://github.com/QubitCodes/QcRouter#readme
+- 源码仓库：git+https://github.com/QubitCodes/QcRouter.git
+- npm 页面：https://www.npmjs.com/package/@qubitcodes/qcrouter
+
+## 历史版本号
+
+- 当前版本：1.3.1
+
+- 1.0.0
+- 1.1.0
+- 1.3.0
+- 1.3.1
+
+## 获取地址
+
+- npm 安装：`npm install @qubitcodes/qcrouter`
+- npm registry：https://registry.npmjs.org/@qubitcodes/qcrouter

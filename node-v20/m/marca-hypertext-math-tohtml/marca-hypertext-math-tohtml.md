@@ -1,0 +1,27 @@
+# marca-hypertext-math-tohtml
+
+> 标签: html, hypertext, kroton, language, layout, marca, markup, math, svg, typesetting
+
+## 简介
+
+Hypertext+math-to-HTML for Marca
+
+## 官网
+
+- 官网：https://github.com/sdangelo/marca-hypertext-math-tohtml#readme
+- 源码仓库：git+https://github.com/sdangelo/marca-hypertext-math-tohtml.git
+- npm 页面：https://www.npmjs.com/package/marca-hypertext-math-tohtml
+
+## 历史版本号
+
+- 当前版本：0.1.3
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+
+## 获取地址
+
+- npm 安装：`npm install marca-hypertext-math-tohtml`
+- npm registry：https://registry.npmjs.org/marca-hypertext-math-tohtml

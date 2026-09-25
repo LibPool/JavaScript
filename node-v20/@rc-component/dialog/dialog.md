@@ -1,0 +1,35 @@
+# @rc-component/dialog
+
+> 标签: JavaScript
+
+## 简介
+
+dialog ui component for react
+
+## 官网
+
+- 官网：http://github.com/react-component/dialog
+- 源码仓库：git+ssh://git@github.com/react-component/dialog.git
+- npm 页面：https://www.npmjs.com/package/@rc-component/dialog
+
+## 历史版本号
+
+- 当前版本：1.10.0
+
+- 1.5.0
+- 1.5.1
+- 1.6.0
+- 1.6.1
+- 1.6.2
+- 1.7.0
+- 1.8.0
+- 1.8.1
+- 1.8.2
+- 1.8.3
+- 1.8.4
+- 1.9.0
+
+## 获取地址
+
+- npm 安装：`npm install @rc-component/dialog`
+- npm registry：https://registry.npmjs.org/@rc-component/dialog

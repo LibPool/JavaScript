@@ -1,0 +1,24 @@
+# hodf
+
+> 标签: JavaScript
+
+## 简介
+
+Hands-on-dataframe: Handsontable wrapper to make data.frame widget
+
+## 官网
+
+- 官网：https://github.com/shuttlethread/hodf
+- 源码仓库：git+https://github.com/shuttlethread/hodf.git
+- npm 页面：https://www.npmjs.com/package/hodf
+
+## 历史版本号
+
+- 当前版本：0.9.1
+
+- 0.9.1
+
+## 获取地址
+
+- npm 安装：`npm install hodf`
+- npm registry：https://registry.npmjs.org/hodf

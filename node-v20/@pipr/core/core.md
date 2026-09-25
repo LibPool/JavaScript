@@ -1,0 +1,25 @@
+# @pipr/core
+
+> 标签: JavaScript
+
+## 简介
+
+PIPR is a library that helps you generate conversational AI prompts with ease. Pipr can be used to generate natural language responses to specific prompts by calling the OpenAI GPT-3 API. Pipr is designed to give better DX on writing prompt functions
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@pipr/core
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @pipr/core`
+- npm registry：https://registry.npmjs.org/@pipr/core
+- Node 要求：>=10

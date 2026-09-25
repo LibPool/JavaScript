@@ -1,0 +1,26 @@
+# chanhi-handler
+
+> 标签: blockchain, handler, smart contract
+
+## 简介
+
+A versatile handler for blockchain communication and smart contract interactions.
+
+## 官网
+
+- 官网：https://github.com/evegeneku/chanhi-handler
+- 源码仓库：git+https://github.com/evegeneku/chanhi-handler.git
+- npm 页面：https://www.npmjs.com/package/chanhi-handler
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install chanhi-handler`
+- npm registry：https://registry.npmjs.org/chanhi-handler

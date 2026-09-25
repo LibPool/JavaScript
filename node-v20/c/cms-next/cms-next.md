@@ -1,0 +1,23 @@
+# cms-next
+
+> 标签: cms, content-management, nextjs, typescript
+
+## 简介
+
+cms-next - JavaScript library from npm
+
+## 官网
+
+- 源码仓库：your-repo-url
+- npm 页面：https://www.npmjs.com/package/cms-next
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install cms-next`
+- npm registry：https://registry.npmjs.org/cms-next

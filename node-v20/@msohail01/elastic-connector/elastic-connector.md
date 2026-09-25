@@ -1,0 +1,29 @@
+# @msohail01/elastic-connector
+
+> 标签: JavaScript
+
+## 简介
+
+write database transaction to elastic within change stream event
+
+## 官网
+
+- 官网：https://github.com/sohail0992/elasticConnector#readme
+- 源码仓库：git+https://github.com/sohail0992/elasticConnector.git
+- npm 页面：https://www.npmjs.com/package/@msohail01/elastic-connector
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+
+## 获取地址
+
+- npm 安装：`npm install @msohail01/elastic-connector`
+- npm registry：https://registry.npmjs.org/@msohail01/elastic-connector

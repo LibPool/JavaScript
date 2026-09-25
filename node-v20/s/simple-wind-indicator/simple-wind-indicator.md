@@ -1,0 +1,30 @@
+# simple-wind-indicator
+
+> 标签: component, indicator, mui, react, weather, wind
+
+## 简介
+
+Universal wind direction and speed indicator component for React
+
+## 官网
+
+- 官网：https://github.com/UlknAries/SimpleWindIndicator#readme
+- 源码仓库：git+https://github.com/UlknAries/SimpleWindIndicator.git
+- npm 页面：https://www.npmjs.com/package/simple-wind-indicator
+
+## 历史版本号
+
+- 当前版本：1.0.4-a
+
+- 1.0.0
+- 1.0.1
+- 1.0.1-a
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.4-a
+
+## 获取地址
+
+- npm 安装：`npm install simple-wind-indicator`
+- npm registry：https://registry.npmjs.org/simple-wind-indicator

@@ -1,0 +1,22 @@
+# ukey-request-for-kexin
+
+> 标签: JavaScript
+
+## 简介
+
+kexin客户端请求
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/ukey-request-for-kexin
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install ukey-request-for-kexin`
+- npm registry：https://registry.npmjs.org/ukey-request-for-kexin

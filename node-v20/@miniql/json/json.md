@@ -1,0 +1,26 @@
+# @miniql/json
+
+> 标签: data, json, query, query language
+
+## 简介
+
+A MiniQL query resolver that loads data from JSON files.
+
+## 官网
+
+- 官网：https://github.com/miniql/miniql-json#readme
+- 源码仓库：git+https://miniql@github.com/miniql/miniql-json.git
+- npm 页面：https://www.npmjs.com/package/@miniql/json
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @miniql/json`
+- npm registry：https://registry.npmjs.org/@miniql/json

@@ -1,0 +1,36 @@
+# @isograph/reference-counted-pointer
+
+> 标签: JavaScript
+
+## 简介
+
+Reference counted pointers enable sharing of disposable items.
+
+## 官网
+
+- 官网：https://isograph.dev
+- 源码仓库：git+https://github.com/isographlabs/isograph.git
+- npm 页面：https://www.npmjs.com/package/@isograph/reference-counted-pointer
+
+## 历史版本号
+
+- 当前版本：0.5.2
+
+- 0.0.0-main-b31e3ffc
+- 0.0.0-main-b74780dc
+- 0.0.0-main-ba629f7f
+- 0.0.0-main-c09c9dbf
+- 0.0.0-main-c1c86281
+- 0.0.0-main-c265ee60
+- 0.0.0-main-c8b63235
+- 0.0.0-main-d4700c2e
+- 0.0.0-main-e05b2422
+- 0.0.0-main-ee88d599
+- 0.0.0-main-f611e157
+- 0.0.0-main-fc90a0bb
+- 共 1,447 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @isograph/reference-counted-pointer`
+- npm registry：https://registry.npmjs.org/@isograph/reference-counted-pointer

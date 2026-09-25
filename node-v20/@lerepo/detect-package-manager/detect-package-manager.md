@@ -1,0 +1,26 @@
+# @lerepo/detect-package-manager
+
+> 标签: JavaScript
+
+## 简介
+
+Library to detect which package manager is being used.
+
+## 官网
+
+- 官网：https://github.com/lerepo/workspace-tools#readme
+- 源码仓库：git+https://github.com/lerepo/workspace-tools.git
+- npm 页面：https://www.npmjs.com/package/@lerepo/detect-package-manager
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @lerepo/detect-package-manager`
+- npm registry：https://registry.npmjs.org/@lerepo/detect-package-manager
+- Node 要求：>=12.18.3

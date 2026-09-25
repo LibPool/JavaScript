@@ -1,0 +1,33 @@
+# expo-quanta
+
+> 标签: analytics, expo, quanta, react-native, telemetry
+
+## 简介
+
+Quanta.js/Expo: Expo SDK for Quanta Tools
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/expo-quanta
+
+## 历史版本号
+
+- 当前版本：0.1.6
+
+- 0.0.4-j
+- 0.0.4-k
+- 0.0.4-l
+- 0.0.4-m
+- 0.0.4-n
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+
+## 获取地址
+
+- npm 安装：`npm install expo-quanta`
+- npm registry：https://registry.npmjs.org/expo-quanta

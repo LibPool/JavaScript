@@ -1,0 +1,25 @@
+# demo_frontend
+
+> 标签: Canister, Internet Computer, JavaScript, Motoko
+
+## 简介
+
+Internet Computer starter application
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/demo_frontend
+
+## 历史版本号
+
+- 当前版本：1.2.1
+
+- 1.0.1
+- 1.1.0
+- 1.2.1
+
+## 获取地址
+
+- npm 安装：`npm install demo_frontend`
+- npm registry：https://registry.npmjs.org/demo_frontend
+- Node 要求：^12 || ^14 || ^16 || ^18

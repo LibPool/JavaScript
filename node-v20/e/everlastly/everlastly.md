@@ -1,0 +1,29 @@
+# everlastly
+
+> 标签: blockchain, everlastly, notarization
+
+## 简介
+
+Everlastly API Wrapper.
+
+## 官网
+
+- 官网：https://github.com/Everlastly-team/nodejs#readme
+- 源码仓库：git+https://github.com/Everlastly-team/nodejs.git
+- npm 页面：https://www.npmjs.com/package/everlastly
+
+## 历史版本号
+
+- 当前版本：1.0.6
+
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+
+## 获取地址
+
+- npm 安装：`npm install everlastly`
+- npm registry：https://registry.npmjs.org/everlastly

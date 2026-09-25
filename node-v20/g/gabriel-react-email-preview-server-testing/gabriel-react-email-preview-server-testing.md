@@ -1,0 +1,27 @@
+# gabriel-react-email-preview-server-testing
+
+> 标签: JavaScript
+
+## 简介
+
+A live preview of your emails right in your browser.
+
+## 官网
+
+- 官网：https://github.com/resend/react-email#readme
+- 源码仓库：git+https://github.com/resend/react-email.git
+- npm 页面：https://www.npmjs.com/package/gabriel-react-email-preview-server-testing
+
+## 历史版本号
+
+- 当前版本：5.2.7
+
+- 5.2.2
+- 5.2.7
+- 5.2.7-testing-version.0
+- 5.2.7-testing-version.1
+
+## 获取地址
+
+- npm 安装：`npm install gabriel-react-email-preview-server-testing`
+- npm registry：https://registry.npmjs.org/gabriel-react-email-preview-server-testing

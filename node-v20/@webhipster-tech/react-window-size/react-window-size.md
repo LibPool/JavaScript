@@ -1,0 +1,29 @@
+# @webhipster-tech/react-window-size
+
+> 标签: JavaScript
+
+## 简介
+
+Library to work with browser window size.
+
+## 官网
+
+- 官网：https://github.com/ykukharskyi/react-window-size#readme
+- 源码仓库：git+https://github.com/ykukharskyi/react-window-size.git
+- npm 页面：https://www.npmjs.com/package/@webhipster-tech/react-window-size
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @webhipster-tech/react-window-size`
+- npm registry：https://registry.npmjs.org/@webhipster-tech/react-window-size
+- Node 要求：>=12

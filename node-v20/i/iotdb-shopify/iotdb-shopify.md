@@ -1,0 +1,28 @@
+# iotdb-shopify
+
+> 标签: JavaScript
+
+## 简介
+
+POP Interface to Shopify API
+
+## 官网
+
+- 官网：https://github.com/dpjanes/node-iotdb
+- 源码仓库：git+https://github.com/dpjanes/iotdb-shopify.git
+- npm 页面：https://www.npmjs.com/package/iotdb-shopify
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+
+## 获取地址
+
+- npm 安装：`npm install iotdb-shopify`
+- npm registry：https://registry.npmjs.org/iotdb-shopify

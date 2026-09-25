@@ -1,0 +1,25 @@
+# typed-mite-api
+
+> 标签: api, mite, time, tracking, typescript
+
+## 简介
+
+A typesafe API for the mite time tracking service written in TypeScript.
+
+## 官网
+
+- 官网：https://github.com/iotacb/typed-mite-api
+- 源码仓库：git+https://github.com/iotacb/typed-mite-api.git
+- npm 页面：https://www.npmjs.com/package/typed-mite-api
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install typed-mite-api`
+- npm registry：https://registry.npmjs.org/typed-mite-api

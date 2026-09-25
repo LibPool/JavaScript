@@ -1,0 +1,29 @@
+# @just4/dom
+
+> 标签: dom, jquery, manipulation
+
+## 简介
+
+Just for making dom manipulation much more easier in browser.
+
+## 官网
+
+- 官网：https://github.com/heeroluo/just4#readme
+- 源码仓库：git+https://github.com/heeroluo/just4.git
+- npm 页面：https://www.npmjs.com/package/@just4/dom
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.1.0
+- 0.2.0-beta.1
+- 0.3.0-beta.1
+- 0.3.0-beta.2
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @just4/dom`
+- npm registry：https://registry.npmjs.org/@just4/dom
+- Node 要求：>=10.0.0

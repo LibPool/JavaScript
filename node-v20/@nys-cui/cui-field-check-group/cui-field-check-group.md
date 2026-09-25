@@ -1,0 +1,29 @@
+# @nys-cui/cui-field-check-group
+
+> 标签: JavaScript
+
+## 简介
+
+An extension of the base field-check-group component to support standard checkbox fields.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@nys-cui/cui-field-check-group
+
+## 历史版本号
+
+- 当前版本：0.1.8
+
+- 0.1.0
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+
+## 获取地址
+
+- npm 安装：`npm install @nys-cui/cui-field-check-group`
+- npm registry：https://registry.npmjs.org/@nys-cui/cui-field-check-group

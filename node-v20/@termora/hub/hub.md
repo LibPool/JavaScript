@@ -1,0 +1,24 @@
+# @termora/hub
+
+> 标签: JavaScript
+
+## 简介
+
+Placeholder — termora (local-first session terminal platform) is under active development. Real releases will appear here.
+
+## 官网
+
+- 官网：https://github.com/khiops/termora#readme
+- 源码仓库：git+https://github.com/khiops/termora.git
+- npm 页面：https://www.npmjs.com/package/@termora/hub
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @termora/hub`
+- npm registry：https://registry.npmjs.org/@termora/hub

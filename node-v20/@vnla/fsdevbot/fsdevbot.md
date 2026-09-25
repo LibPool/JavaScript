@@ -1,0 +1,26 @@
+# @vnla/fsdevbot
+
+> 标签: ai, assistant, automation, cli, code-generation, developer, fullstack
+
+## 简介
+
+A Node.js CLI AI full-stack developer agent and programming assistant
+
+## 官网
+
+- 官网：https://github.com/your-username/fsdevbot#readme
+- 源码仓库：git+https://github.com/your-username/fsdevbot.git
+- npm 页面：https://www.npmjs.com/package/@vnla/fsdevbot
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @vnla/fsdevbot`
+- npm registry：https://registry.npmjs.org/@vnla/fsdevbot
+- Node 要求：>=18.0.0

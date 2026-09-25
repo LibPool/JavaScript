@@ -1,0 +1,24 @@
+# @yran-demo/init
+
+> 标签: JavaScript
+
+## 简介
+
+yran-demo command init
+
+## 官网
+
+- 源码仓库：git@gitee.com:z_yran/cli-demo.git
+- npm 页面：https://www.npmjs.com/package/@yran-demo/init
+
+## 历史版本号
+
+- 当前版本：1.0.5-alpha.0
+
+- 1.0.4
+- 1.0.5-alpha.0
+
+## 获取地址
+
+- npm 安装：`npm install @yran-demo/init`
+- npm registry：https://registry.npmjs.org/@yran-demo/init

@@ -1,0 +1,29 @@
+# @demetriusfeijoo/lib2
+
+> 标签: JavaScript
+
+## 简介
+
+[![npm version][npm-version-src]][npm-version-href] [![npm downloads][npm-downloads-src]][npm-downloads-href] [![bundle][bundle-src]][bundle-href] [![Codecov][codecov-src]][codecov-href]
+
+## 官网
+
+- 官网：https://github.com/demetriusfeijoo/lib2#readme
+- 源码仓库：git+https://github.com/demetriusfeijoo/lib2.git
+- npm 页面：https://www.npmjs.com/package/@demetriusfeijoo/lib2
+
+## 历史版本号
+
+- 当前版本：2.4.1
+
+- 2.0.0
+- 2.1.0
+- 2.2.0
+- 2.3.0
+- 2.4.0
+- 2.4.1
+
+## 获取地址
+
+- npm 安装：`npm install @demetriusfeijoo/lib2`
+- npm registry：https://registry.npmjs.org/@demetriusfeijoo/lib2

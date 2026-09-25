@@ -1,0 +1,28 @@
+# ui-grid-auto-fit-columns-v1
+
+> 标签: angular, auto fit, autoresize, columns, fit to width, plugin, ui-grid
+
+## 简介
+
+The plugin ensures that the column width will be wide enough for showing the longest data of that column (or column name).
+
+## 官网
+
+- 官网：https://github.com/Den-dp/ui-grid-auto-fit-columns#readme
+- 源码仓库：git+https://github.com/Den-dp/ui-grid-auto-fit-columns.git
+- npm 页面：https://www.npmjs.com/package/ui-grid-auto-fit-columns-v1
+
+## 历史版本号
+
+- 当前版本：0.0.5
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+
+## 获取地址
+
+- npm 安装：`npm install ui-grid-auto-fit-columns-v1`
+- npm registry：https://registry.npmjs.org/ui-grid-auto-fit-columns-v1

@@ -1,0 +1,25 @@
+# karma-rosie
+
+> 标签: factory, karma, karma-plugin, rosie
+
+## 简介
+
+Karma adapter for rosie
+
+## 官网
+
+- 官网：https://github.com/nd0ut/karma-rosie#readme
+- 源码仓库：git://github.com/nd0ut/karma-rosie.git
+- npm 页面：https://www.npmjs.com/package/karma-rosie
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install karma-rosie`
+- npm registry：https://registry.npmjs.org/karma-rosie

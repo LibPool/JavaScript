@@ -1,0 +1,27 @@
+# integration-harness
+
+> 标签: JavaScript
+
+## 简介
+
+A LeadConduit integration run/test utility
+
+## 官网
+
+- 官网：https://github.com/activeprospect/integration-harness#readme
+- 源码仓库：git+https://github.com/activeprospect/integration-harness.git
+- npm 页面：https://www.npmjs.com/package/integration-harness
+
+## 历史版本号
+
+- 当前版本：0.1.3
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+
+## 获取地址
+
+- npm 安装：`npm install integration-harness`
+- npm registry：https://registry.npmjs.org/integration-harness

@@ -1,0 +1,24 @@
+# ytb-search-remake
+
+> 标签: JavaScript
+
+## 简介
+
+search youtube
+
+## 官网
+
+- 官网：https://github.com/talmobi/yt-search#readme
+- 源码仓库：git+https://github.com/talmobi/yt-search.git
+- npm 页面：https://www.npmjs.com/package/ytb-search-remake
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install ytb-search-remake`
+- npm registry：https://registry.npmjs.org/ytb-search-remake

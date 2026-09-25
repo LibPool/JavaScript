@@ -1,0 +1,27 @@
+# a2anet
+
+> 标签: a2a, a2anet, agent, network, protocol
+
+## 简介
+
+A JavaScript package that makes implementing the A2A protocol easy
+
+## 官网
+
+- 官网：https://github.com/a2anet/a2anet-js#readme
+- 源码仓库：git+https://github.com/a2anet/a2anet-js.git
+- npm 页面：https://www.npmjs.com/package/a2anet
+
+## 历史版本号
+
+- 当前版本：2.1.0
+
+- 1.0.0
+- 2.0.0
+- 2.1.0
+
+## 获取地址
+
+- npm 安装：`npm install a2anet`
+- npm registry：https://registry.npmjs.org/a2anet
+- Node 要求：>=18.0.0

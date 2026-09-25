@@ -1,0 +1,24 @@
+# fb-pic
+
+> 标签: Node, facebook, pic, picture, profile
+
+## 简介
+
+returns facebook profile url from user name
+
+## 官网
+
+- 官网：https://github.com/bhanuc/fb-pic
+- 源码仓库：https://github.com/bhanuc/fb-pic.git
+- npm 页面：https://www.npmjs.com/package/fb-pic
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install fb-pic`
+- npm registry：https://registry.npmjs.org/fb-pic

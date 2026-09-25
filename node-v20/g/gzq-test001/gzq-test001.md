@@ -1,0 +1,22 @@
+# gzq-test001
+
+> 标签: JavaScript
+
+## 简介
+
+你会发现一个垃圾模块
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/gzq-test001
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install gzq-test001`
+- npm registry：https://registry.npmjs.org/gzq-test001

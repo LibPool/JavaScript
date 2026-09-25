@@ -1,0 +1,30 @@
+# react-native-catalklinknw
+
+> 标签: JavaScript
+
+## 简介
+
+catalk link to nftwallet for android
+
+## 官网
+
+- 官网：https://github.com/ltpzbyeah/react-native-catalk-nftwallet#readme
+- 源码仓库：git+ssh://git@github.com/ltpzbyeah/react-native-catalk-nftwallet.git
+- npm 页面：https://www.npmjs.com/package/react-native-catalklinknw
+
+## 历史版本号
+
+- 当前版本：0.0.7
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+
+## 获取地址
+
+- npm 安装：`npm install react-native-catalklinknw`
+- npm registry：https://registry.npmjs.org/react-native-catalklinknw

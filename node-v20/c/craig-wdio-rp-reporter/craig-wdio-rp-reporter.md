@@ -1,0 +1,30 @@
+# craig-wdio-rp-reporter
+
+> 标签: reporter, reportportal, wdio, wdio-plugin, wdio-reporter, webdriverio
+
+## 简介
+
+A WebdriverIO v6 plugin. Report results to Report Portal.
+
+## 官网
+
+- 官网：https://github.com/CraigAndrew/wdio-reportportal-reporter#readme
+- 源码仓库：git+https://github.com/CraigAndrew/wdio-reportportal-reporter.git
+- npm 页面：https://www.npmjs.com/package/craig-wdio-rp-reporter
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+- 1.0.0
+- 7.6.0
+- 7.6.1
+- 7.6.2
+- 7.6.3
+- 7.6.4
+
+## 获取地址
+
+- npm 安装：`npm install craig-wdio-rp-reporter`
+- npm registry：https://registry.npmjs.org/craig-wdio-rp-reporter

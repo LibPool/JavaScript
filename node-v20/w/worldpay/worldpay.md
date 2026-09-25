@@ -1,0 +1,27 @@
+# worldpay
+
+> 标签: api, payments, rest, worldpay
+
+## 简介
+
+Simple node.js lib to work with http://www.worldpay.com/ api
+
+## 官网
+
+- 官网：https://github.com/valorkin/worldpay-lib-node
+- 源码仓库：https://github.com/valorkin/worldpay-lib-node
+- npm 页面：https://www.npmjs.com/package/worldpay
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install worldpay`
+- npm registry：https://registry.npmjs.org/worldpay

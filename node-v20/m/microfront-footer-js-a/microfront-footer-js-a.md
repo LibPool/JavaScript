@@ -1,0 +1,23 @@
+# microfront-footer-js-a
+
+> 标签: JavaScript
+
+## 简介
+
+microfront-footer-js-a - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/microfront-footer-js-a
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install microfront-footer-js-a`
+- npm registry：https://registry.npmjs.org/microfront-footer-js-a

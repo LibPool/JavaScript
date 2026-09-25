@@ -1,0 +1,25 @@
+# @itentialopensource/aviatrix-create-mcna-transit
+
+> 标签: IAP, Itential, artifacts
+
+## 简介
+
+Default artifact description
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@itentialopensource/aviatrix-create-mcna-transit
+
+## 历史版本号
+
+- 当前版本：0.0.11-2023.1.0
+
+- 0.0.10
+- 0.0.10-2022.1.0
+- 0.0.11-2023.1.0
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @itentialopensource/aviatrix-create-mcna-transit`
+- npm registry：https://registry.npmjs.org/@itentialopensource/aviatrix-create-mcna-transit

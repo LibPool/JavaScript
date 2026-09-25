@@ -1,0 +1,35 @@
+# @jahia/vite-plugin
+
+> 标签: JavaScript
+
+## 简介
+
+@jahia/vite-plugin - JavaScript library from npm
+
+## 官网
+
+- 源码仓库：git+https://github.com/Jahia/javascript-modules.git
+- npm 页面：https://www.npmjs.com/package/@jahia/vite-plugin
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.3.0-alpha-20260203100857968
+- 1.3.0-alpha-20260203103731738
+- 1.3.0-alpha-20260203152125390
+- 1.3.0-alpha-20260206095206171
+- 1.3.0-alpha-20260209131314296
+- 1.3.0-alpha-20260211173915757
+- 1.3.0-alpha-20260212173237958
+- 1.3.0-alpha-20260223085437299
+- 1.3.0-alpha-20260223094005404
+- 1.3.0-alpha-20260225103127151
+- 1.3.0-alpha-20260305093117250
+- 1.3.0-alpha-20260312161602890
+- 共 257 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @jahia/vite-plugin`
+- npm registry：https://registry.npmjs.org/@jahia/vite-plugin

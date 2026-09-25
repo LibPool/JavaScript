@@ -1,0 +1,28 @@
+# pimatic-dhtxx
+
+> 标签: AM2302, dht11, dht22, pimatic
+
+## 简介
+
+Support for the DHTxx temperature/humidity sensor.
+
+## 官网
+
+- 官网：http://github.com/wutu/pimatic-dhtxx
+- 源码仓库：git://github.com/wutu/pimatic-dhtxx.git
+- npm 页面：https://www.npmjs.com/package/pimatic-dhtxx
+
+## 历史版本号
+
+- 当前版本：0.8.4
+
+- 0.8.1
+- 0.8.2
+- 0.8.3
+- 0.8.4
+
+## 获取地址
+
+- npm 安装：`npm install pimatic-dhtxx`
+- npm registry：https://registry.npmjs.org/pimatic-dhtxx
+- Node 要求：>0.8.x

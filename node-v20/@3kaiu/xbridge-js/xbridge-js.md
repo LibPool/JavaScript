@@ -1,0 +1,33 @@
+# @3kaiu/xbridge-js
+
+> 标签: bridge, cross-platform, h5, json-rpc, webview
+
+## 简介
+
+Open-source, zero-business-coupling cross-platform bridge SDK for H5.
+
+## 官网
+
+- 官网：https://github.com/3kaiu/xbridge/tree/main/packages/xbridge-js
+- 源码仓库：git+https://github.com/3kaiu/xbridge.git
+- npm 页面：https://www.npmjs.com/package/@3kaiu/xbridge-js
+
+## 历史版本号
+
+- 当前版本：0.1.9
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install @3kaiu/xbridge-js`
+- npm registry：https://registry.npmjs.org/@3kaiu/xbridge-js

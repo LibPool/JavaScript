@@ -1,0 +1,29 @@
+# obsvr
+
+> 标签: angular, mutate, observe, observer
+
+## 简介
+
+Swiss-army knife for observation of objects (Angular compatible)
+
+## 官网
+
+- 官网：https://github.com/hash-bang/angular-observer#readme
+- 源码仓库：git+https://github.com/hash-bang/angular-observer.git
+- npm 页面：https://www.npmjs.com/package/obsvr
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+
+## 获取地址
+
+- npm 安装：`npm install obsvr`
+- npm registry：https://registry.npmjs.org/obsvr

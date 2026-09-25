@@ -1,0 +1,32 @@
+# scrollzzz
+
+> 标签: IntersectionObserver, direction, down, enter, event, exit, intersect, intersecting, leave, observe, observer, onScroll, scroll, scroll-direction, scroll-driven, scrollytelling, trigger, up, view, viewport
+
+## 简介
+
+Easy scroll-driven interactions using IntersectionObserver
+
+## 官网
+
+- 官网：https://github.com/pldg/scrollzzz#readme
+- 源码仓库：git+https://github.com/pldg/scrollzzz.git
+- npm 页面：https://www.npmjs.com/package/scrollzzz
+
+## 历史版本号
+
+- 当前版本：0.7.0
+
+- 0.1.0
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.3.0
+- 0.4.0
+- 0.5.0
+- 0.6.0
+- 0.7.0
+
+## 获取地址
+
+- npm 安装：`npm install scrollzzz`
+- npm registry：https://registry.npmjs.org/scrollzzz

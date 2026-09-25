@@ -1,0 +1,25 @@
+# fantasygold-core
+
+> 标签: FGC, currency, fantasygold, money, satoshi, virtual
+
+## 简介
+
+Fantasygold Library
+
+## 官网
+
+- 官网：https://github.com/scottie/fantasygold-core
+- 源码仓库：https://github.com/scottie/fantasygold-core.git
+- npm 页面：https://www.npmjs.com/package/fantasygold-core
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install fantasygold-core`
+- npm registry：https://registry.npmjs.org/fantasygold-core
+- Node 要求：>=0.10

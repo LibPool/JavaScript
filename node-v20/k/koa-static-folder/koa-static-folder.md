@@ -1,0 +1,30 @@
+# koa-static-folder
+
+> 标签: JavaScript
+
+## 简介
+
+Static file server based on a folder instead of a single file. Node needs to be restarted in order to work through file caching.
+
+## 官网
+
+- 官网：https://github.com/janpieterz/koajs-static-folder#readme
+- 源码仓库：git+https://github.com/janpieterz/koajs-static-folder.git
+- npm 页面：https://www.npmjs.com/package/koa-static-folder
+
+## 历史版本号
+
+- 当前版本：0.1.6
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+
+## 获取地址
+
+- npm 安装：`npm install koa-static-folder`
+- npm registry：https://registry.npmjs.org/koa-static-folder

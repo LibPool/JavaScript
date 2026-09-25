@@ -1,0 +1,24 @@
+# @grimmopher/formidable
+
+> 标签: data, file, form, json, multipart, querystring, ulpoad, www
+
+## 简介
+
+A clone of the Formidable project to use the latest build. A node.js module for parsing form data, especially file uploads.
+
+## 官网
+
+- 官网：https://github.com/node-formidable/formidable
+- 源码仓库：git+https://github.com/node-formidable/formidable.git
+- npm 页面：https://www.npmjs.com/package/@grimmopher/formidable
+
+## 历史版本号
+
+- 当前版本：2.0.0-canary.20201211.0
+
+- 2.0.0-canary.20201211.0
+
+## 获取地址
+
+- npm 安装：`npm install @grimmopher/formidable`
+- npm registry：https://registry.npmjs.org/@grimmopher/formidable

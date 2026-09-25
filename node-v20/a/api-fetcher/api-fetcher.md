@@ -1,0 +1,24 @@
+# api-fetcher
+
+> 标签: dataset, express, fetch, middleware, resources
+
+## 简介
+
+Express middleware to fetch multiple resources dataset from given API
+
+## 官网
+
+- 官网：https://github.com/antonjuls/api-fetcher#readme
+- 源码仓库：git+https://github.com/antonjuls/api-fetcher.git
+- npm 页面：https://www.npmjs.com/package/api-fetcher
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install api-fetcher`
+- npm registry：https://registry.npmjs.org/api-fetcher

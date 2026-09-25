@@ -1,0 +1,25 @@
+# @llmlayer/engine
+
+> 标签: ai-agent, ai-workflow, backend-ai, express, langchain, langchain-alternative, llm-engine, nodejs, react-loop, tool-calling, typescript
+
+## 简介
+
+A lightweight, type-safe AI workflow engine for Node.js and TypeScript. Build controllable LLM agents with tool calling, ReAct loops, memory, permissions, retry logic, and execution stats — built to work alongside LangChain.
+
+## 官网
+
+- 官网：https://github.com/BurhanChughtai20/llmlayer-engine
+- 源码仓库：git+https://github.com/BurhanChughtai20/llmlayer-engine.git
+- npm 页面：https://www.npmjs.com/package/@llmlayer/engine
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @llmlayer/engine`
+- npm registry：https://registry.npmjs.org/@llmlayer/engine
+- Node 要求：>=18

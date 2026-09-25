@@ -1,0 +1,36 @@
+# @onedotmint/smart-search
+
+> 标签: JavaScript
+
+## 简介
+
+Evidence-first multi-source web research CLI for AI agents and terminal users.
+
+## 官网
+
+- 官网：https://github.com/onedotmint/smartsearch#readme
+- 源码仓库：git+https://github.com/onedotmint/smartsearch.git
+- npm 页面：https://www.npmjs.com/package/@onedotmint/smart-search
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 0.2.0
+- 0.2.0-beta.1
+- 0.2.0-beta.2
+- 0.2.0-beta.3
+- 0.2.0-beta.4
+- 0.2.0-beta.5
+- 0.2.0-beta.6
+- 0.2.0-beta.7
+- 0.3.0-beta.1
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @onedotmint/smart-search`
+- npm registry：https://registry.npmjs.org/@onedotmint/smart-search
+- Node 要求：>=18

@@ -1,0 +1,36 @@
+# pipeline.js
+
+> 标签: async, pipeline, workflow
+
+## 简介
+
+Pipeline.js - async workflow framework for node.js and browser
+
+## 官网
+
+- 官网：https://github.com/vedmalex/pipeline.js
+- 源码仓库：git+https://github.com/vedmalex/pipeline.js.git
+- npm 页面：https://www.npmjs.com/package/pipeline.js
+
+## 历史版本号
+
+- 当前版本：2.0.33
+
+- 2.0.33-alpha.7
+- 2.0.33-alpha.8
+- 2.0.33-alpha.9
+- 2.0.4
+- 2.0.5
+- 2.0.6
+- 2.0.7
+- 2.0.8
+- 2.0.9
+- 2.1.0-beta.0
+- 2.1.0-beta.1
+- 2.1.0-beta.2
+- 共 60 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install pipeline.js`
+- npm registry：https://registry.npmjs.org/pipeline.js

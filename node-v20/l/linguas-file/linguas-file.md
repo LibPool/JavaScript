@@ -1,0 +1,26 @@
+# linguas-file
+
+> 标签: LINGUAS, gettext
+
+## 简介
+
+A library for handling LINGUAS files
+
+## 官网
+
+- 官网：https://github.com/m90/linguas-file#readme
+- 源码仓库：git+https://github.com/m90/linguas-file.git
+- npm 页面：https://www.npmjs.com/package/linguas-file
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.0.0
+- 1.1.0
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install linguas-file`
+- npm registry：https://registry.npmjs.org/linguas-file

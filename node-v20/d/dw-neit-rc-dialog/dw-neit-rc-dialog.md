@@ -1,0 +1,25 @@
+# dw-neit-rc-dialog
+
+> 标签: dialog, react, react-component, react-dialog, ui
+
+## 简介
+
+dialog ui component for react
+
+## 官网
+
+- 官网：http://github.com/react-component/dialog
+- 源码仓库：git+ssh://git@github.com/react-component/dialog.git
+- npm 页面：https://www.npmjs.com/package/dw-neit-rc-dialog
+
+## 历史版本号
+
+- 当前版本：9.5.2
+
+- 8.9.0
+- 9.5.2
+
+## 获取地址
+
+- npm 安装：`npm install dw-neit-rc-dialog`
+- npm registry：https://registry.npmjs.org/dw-neit-rc-dialog

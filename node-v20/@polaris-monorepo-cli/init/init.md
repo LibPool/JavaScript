@@ -1,0 +1,24 @@
+# @polaris-monorepo-cli/init
+
+> 标签: cli-init
+
+## 简介
+
+cli-init
+
+## 官网
+
+- 官网：https://github.com/dylanass/polaris-monorepo-cli#readme
+- 源码仓库：git+https://github.com/dylanass/polaris-monorepo-cli.git
+- npm 页面：https://www.npmjs.com/package/@polaris-monorepo-cli/init
+
+## 历史版本号
+
+- 当前版本：1.1.6
+
+- 1.1.6
+
+## 获取地址
+
+- npm 安装：`npm install @polaris-monorepo-cli/init`
+- npm registry：https://registry.npmjs.org/@polaris-monorepo-cli/init

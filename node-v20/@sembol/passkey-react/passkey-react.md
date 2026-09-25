@@ -1,0 +1,28 @@
+# @sembol/passkey-react
+
+> 标签: hooks, launchtube, passkey, passkey-kit, react, smart-wallet, soroban, stellar, webauthn
+
+## 简介
+
+React components and headless hooks for Stellar passkey smart wallets. Wraps smart-account-kit (OpenZeppelin Smart Accounts) so you can ship a passkey wallet flow in an afternoon.
+
+## 官网
+
+- 官网：https://github.com/keyboord01/sembol#readme
+- 源码仓库：git+https://github.com/keyboord01/sembol.git
+- npm 页面：https://www.npmjs.com/package/@sembol/passkey-react
+
+## 历史版本号
+
+- 当前版本：0.4.0
+
+- 0.1.0
+- 0.2.1
+- 0.3.0
+- 0.3.1
+- 0.4.0
+
+## 获取地址
+
+- npm 安装：`npm install @sembol/passkey-react`
+- npm registry：https://registry.npmjs.org/@sembol/passkey-react

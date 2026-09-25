@@ -1,0 +1,28 @@
+# @seated/leaflet.pm
+
+> 标签: data-field-geojson, geojson, geometry editing, leaflet, leaflet-draw, map data, map overlay, polygon, polygon management, ui-leaflet-draw
+
+## 简介
+
+A Leaflet Plugin For Editing Geometry Layers in Leaflet 1.0
+
+## 官网
+
+- 官网：https://leafletpm.now.sh
+- 源码仓库：git+https://github.com/codeofsumit/leaflet.pm.git
+- npm 页面：https://www.npmjs.com/package/@seated/leaflet.pm
+
+## 历史版本号
+
+- 当前版本：2.1.4
+
+- 2.1.0
+- 2.1.1
+- 2.1.2
+- 2.1.3
+- 2.1.4
+
+## 获取地址
+
+- npm 安装：`npm install @seated/leaflet.pm`
+- npm registry：https://registry.npmjs.org/@seated/leaflet.pm

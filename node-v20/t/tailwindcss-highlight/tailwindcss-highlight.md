@@ -1,0 +1,25 @@
+# tailwindcss-highlight
+
+> 标签: JavaScript
+
+## 简介
+
+A Tailwind CSS plugin for adding highlights and inset box shadows
+
+## 官网
+
+- 官网：https://github.com/Froskk/tailwindcss-highlight#readme
+- 源码仓库：git+https://github.com/Froskk/tailwindcss-highlight.git
+- npm 页面：https://www.npmjs.com/package/tailwindcss-highlight
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install tailwindcss-highlight`
+- npm registry：https://registry.npmjs.org/tailwindcss-highlight

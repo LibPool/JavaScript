@@ -1,0 +1,36 @@
+# @aws-amplify/react-native
+
+> 标签: JavaScript
+
+## 简介
+
+React Native core module for aws-amplify
+
+## 官网
+
+- 官网：https://docs.amplify.aws/
+- 源码仓库：https://github.com/aws-amplify/amplify-js.git
+- npm 页面：https://www.npmjs.com/package/@aws-amplify/react-native
+
+## 历史版本号
+
+- 当前版本：1.3.3
+
+- 1.3.4-unstable-cf452e9-20260921100459
+- 1.3.4-unstable-d648403-20260721092416
+- 1.3.4-unstable-d8f5356-20260918081218
+- 1.3.4-unstable-dd5a429-20260727095427
+- 1.3.4-unstable-e1067a9-20260730084304
+- 1.3.4-unstable-eda0afa-20260908135014
+- 1.3.4-unstable-ee55509-20260721090843
+- 1.3.4-unstable-eed1462-20260714133807
+- 1.3.4-unstable-f87199a-20260917111111
+- 1.3.4-unstable-fb070dd-20260917114301
+- 1.3.4-unstable-fce32a9-20260730123227
+- 1.3.4-unstable-fea92b8-20260721113436
+- 共 665 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @aws-amplify/react-native`
+- npm registry：https://registry.npmjs.org/@aws-amplify/react-native

@@ -1,0 +1,24 @@
+# number_word_palindrome
+
+> 标签: palandrome
+
+## 简介
+
+Determine if a number or a word is the same forwards and backwards. Example 909
+
+## 官网
+
+- 官网：https://github.com/presher/palandrome#readme
+- 源码仓库：git+https://github.com/presher/palandrome.git
+- npm 页面：https://www.npmjs.com/package/number_word_palindrome
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install number_word_palindrome`
+- npm registry：https://registry.npmjs.org/number_word_palindrome

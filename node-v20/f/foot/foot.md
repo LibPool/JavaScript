@@ -1,0 +1,24 @@
+# foot
+
+> 标签: io, shoe, sockjs, stream, ws
+
+## 简介
+
+socks and shoes
+
+## 官网
+
+- 官网：https://github.com/matchdav/foot
+- 源码仓库：git://github.com/matchdav/foot
+- npm 页面：https://www.npmjs.com/package/foot
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install foot`
+- npm registry：https://registry.npmjs.org/foot

@@ -1,0 +1,24 @@
+# @ver5/markdown-it-align
+
+> 标签: markdown-it, markdown-it-align, vitepress, vitepress-plugin
+
+## 简介
+
+align plugin for markdown-it
+
+## 官网
+
+- 官网：https://github.com/uxiew/vitepress-crates#readme
+- 源码仓库：git+https://github.com/nolebase/integrations.git
+- npm 页面：https://www.npmjs.com/package/@ver5/markdown-it-align
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @ver5/markdown-it-align`
+- npm registry：https://registry.npmjs.org/@ver5/markdown-it-align

@@ -1,0 +1,24 @@
+# super-hands-ammo-js
+
+> 标签: aframe, aframe-component, aframe-vr, controls, drag-drop, grab, hand-controls, mozvr, stretch, super-hands, tracked-controls, vr, webvr
+
+## 简介
+
+All-in-one natural hand controller interaction component for A-Frame.
+
+## 官网
+
+- 官网：https://github.com/wmurphyrd/aframe-super-hands-component#readme
+- 源码仓库：git+https://github.com/wmurphyrd/aframe-super-hands-component.git
+- npm 页面：https://www.npmjs.com/package/super-hands-ammo-js
+
+## 历史版本号
+
+- 当前版本：3.0.3
+
+- 3.0.3
+
+## 获取地址
+
+- npm 安装：`npm install super-hands-ammo-js`
+- npm registry：https://registry.npmjs.org/super-hands-ammo-js

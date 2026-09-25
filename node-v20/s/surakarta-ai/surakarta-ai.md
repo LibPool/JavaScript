@@ -1,0 +1,32 @@
+# surakarta-ai
+
+> 标签: AI, Minimax, Surakarta
+
+## 简介
+
+[![Build Status](https://dev.azure.com/SurakartaArcade/Surakarta/_apis/build/status/SurakartaArcade.surakarta-ai?branchName=master)](https://dev.azure.com/SurakartaArcade/Surakarta/_build/latest?definitionId=2&branchName=master)
+
+## 官网
+
+- 官网：https://github.com/SurakartaArcade/surakarta-ai#readme
+- 源码仓库：git+https://github.com/SurakartaArcade/surakarta-ai.git
+- npm 页面：https://www.npmjs.com/package/surakarta-ai
+
+## 历史版本号
+
+- 当前版本：1.2.3
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.2.3
+
+## 获取地址
+
+- npm 安装：`npm install surakarta-ai`
+- npm registry：https://registry.npmjs.org/surakarta-ai

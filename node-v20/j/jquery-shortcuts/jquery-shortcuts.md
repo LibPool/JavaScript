@@ -1,0 +1,26 @@
+# jquery-shortcuts
+
+> 标签: groups, hotkeys, jeresig, jquery-plugin, namespace, shortcuts
+
+## 简介
+
+jQuery.Shortcuts lets you easily switch between groups of arbitrary and easy-to-define shortcuts.
+
+## 官网
+
+- 官网：https://github.com/riga/jquery.shortcuts
+- 源码仓库：https://github.com/riga/jquery.shortcuts.git
+- npm 页面：https://www.npmjs.com/package/jquery-shortcuts
+
+## 历史版本号
+
+- 当前版本：1.3.1
+
+- 0.1.0
+- 1.3.0
+- 1.3.1
+
+## 获取地址
+
+- npm 安装：`npm install jquery-shortcuts`
+- npm registry：https://registry.npmjs.org/jquery-shortcuts

@@ -1,0 +1,24 @@
+# @linkedmd/markdown-it-directive
+
+> 标签: commonmark, directive, framework, markdown-it, markdown-it-plugin, plugin
+
+## 简介
+
+Directive extension for markdown-it markdown parser.
+
+## 官网
+
+- 官网：https://github.com/hilookas/markdown-it-directive#readme
+- 源码仓库：git+https://github.com/hilookas/markdown-it-directive.git
+- npm 页面：https://www.npmjs.com/package/@linkedmd/markdown-it-directive
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @linkedmd/markdown-it-directive`
+- npm registry：https://registry.npmjs.org/@linkedmd/markdown-it-directive

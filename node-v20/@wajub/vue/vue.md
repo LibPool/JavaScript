@@ -1,0 +1,25 @@
+# @wajub/vue
+
+> 标签: JavaScript
+
+## 简介
+
+Wajub Components for Vue 3 — Provider, composables, and embed components
+
+## 官网
+
+- 官网：https://wajub.com
+- npm 页面：https://www.npmjs.com/package/@wajub/vue
+
+## 历史版本号
+
+- 当前版本：1.4.0
+
+- 1.3.0
+- 1.3.1
+- 1.4.0
+
+## 获取地址
+
+- npm 安装：`npm install @wajub/vue`
+- npm registry：https://registry.npmjs.org/@wajub/vue

@@ -1,0 +1,24 @@
+# @drftgyhuji7npm/cum-inventore-ducimus
+
+> 标签: $.extend, .env, 256, Array, Array.prototype.flatten, Array.prototype.includes, ArrayBuffer, ArrayBuffer#slice, AsyncIterator, BigInt64Array, BigUint64Array, CSS, ECMAScript 2017, ECMAScript 2018, ECMAScript 2021, ECMAScript 3, ECMAScript 5, ECMAScript 6, ES, ES2015, ES2019, ES2020, ES2021, ES5, ES6, ES7, ES8, ESnext, Float32Array, Float64Array, Int32Array, Iterator, JSON, JSON-Schema, Map, Microsoft, Object, Object.assign, Object.defineProperty, Object.entries, Object.fromEntries, Object.getPrototypeOf, Object.is, Object.keys, Object.values, Observables, Promise, RFC-6455, ReactiveExtensions, RegExp#flags, Set, Stream, Streams, String.prototype.trim, StyleSheet, Symbol.toStringTag, TypeBox, TypeScript, TypedArray, URL, Uint16Array, Uint32Array, Uint8Array, Uint8ClampedArray, WeakMap, WeakSet, WebSockets, [[Prototype]], a11y, accessibility, accessor, airbnb, animation, ansi, apollo, app, argparse, args, arguments, argv, arktype, array, arraybuffer, art, ascii, assert, assertion, asserts, assign, ast, async, autoprefixer, await, awesomesauce, batch, bcrypt, bdd, bind, bootstrap css, bound, break, bundling, busy, byte, byteOffset, cache, call-bind, call-bound, callback, callbound, censor, character, check, child, circular, class-validator, classname, classnames, client, cmd, code points, codes, coercible, color, colour, column, compare, compile less, compiler, concat, concatMap, concurrency, configurable, const, consume, contains, core, cors, css less, css nesting, css variable, data, dataView, datastructure, date, dayjs, debug, debugger, defineProperty, dependencies, dependency manager, diff, dir, drop, duplex, editor, efficient, electron, emit, encryption, ender, entries, enumerable, env, error, error-handling, es-abstract, es-shim API, es2015, es2016, es2017, es5, es7, escape, eslint, eslint-plugin, eslintconfig, eventEmitter, every, exe, exec, exit, express, extend, extension, extra, fast, fast-clone, fast-deep-copy, fastcopy, fastify, fetch, file, file system, find-up, findLastIndex, findup, fixed-width, flag, flags, flat, flatMap, folder, forEach, form, form-validation, format, fp, fs, fsevents, full-width, fullwidth, function, functional, functions, getintrinsic, getopt, gradients css3, groupBy, handlers, hardlinks, harmony, has, hash, helpers, hookform, http, i18n, id, idle, immer, import, includes, inference, input, install, irq, is, isConcatSpreadable, iteration, iterator, jQuery, japanese, jasmine, joi, jsdom, json-schema, json-schema-validation, jsonpath, jwt, keys, korean, l10n, lazy, less compiler, less mixins, less.js, lesscss, let, limited, linewrap, linux, listeners, loading, lockfile, log, logger, look, macos, map, match, matchAll, matches, metadata, mime, mime-db, mimetypes, minimal, mixins, mkdirs, mobile, mocha, module, monorepo, move, mru, multi-package, name, node, nope, npm, obj, object, offset, omit, once, opener, opens, operating-system, optimist, optimizer, package, package.json, packages, parents, parse, parser, patch, path, persistent, phone, picomatch, pipe, point-free, polyfill, ponyfill, pose, positive, postcss, preprocessor, private, private data, process, progress, promises, proto, protobuf, protocol-buffers, prototype, prune, pure, pyyaml, queueMicrotask, quote, random, rate, react, react pose, read, readable, readablestream, real-time, recursive, redact, reduce, reducer, redux-toolkit, regex, regular expression, regular expressions, request, resolve, rgb, rm -fr, rmdir, safe, sanitize, schema, search, serialization, set, setImmediate, setPrototypeOf, setter, settings, sham, sharedarraybuffer, shebang, shrinkwrap, signals, slot, sort, sorted, spawn, spec, speed, spinner, spinners, stable, start, stateless, stream, streams2, string, stringify, style, styles, styling, symbol, symbols, symlink, symlinks, syntax, syntaxerror, tacit, take, tap, task, tc39, telephone, term, terminal, test, testing, text, three, throat, toSorted, toStringTag, toolkit, tools, tostringtag, touch, trimLeft, ts, type, typed, typedarray, typedarrays, typeof, typesafe, unicode, url, user-streams, utilities, utility, utils, uuid, validate, validator, variables, vest, view, wait, watch, watchFile, web, website, wget, whatwg, width, wordwrap, worker, writable, xhr, xterm, zero
+
+## 简介
+
+[![Build Status](https://api.travis-ci.com/rvagg/@drftgyhuji7npm/cum-inventore-ducimus.svg?branch=master)](https://travis-ci.com/rvagg/@drftgyhuji7npm/cum-inventore-ducimus/)
+
+## 官网
+
+- 官网：https://github.com/drftgyhuji7npm/cum-inventore-ducimus/#readme
+- 源码仓库：git+https://github.com/drftgyhuji7npm/cum-inventore-ducimus.git
+- npm 页面：https://www.npmjs.com/package/@drftgyhuji7npm/cum-inventore-ducimus
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @drftgyhuji7npm/cum-inventore-ducimus`
+- npm registry：https://registry.npmjs.org/@drftgyhuji7npm/cum-inventore-ducimus

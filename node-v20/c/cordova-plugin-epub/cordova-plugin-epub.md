@@ -1,0 +1,25 @@
+# cordova-plugin-epub
+
+> 标签: Epub, cordova, cordova-ios, ecosystem:cordova
+
+## 简介
+
+Cordova epub Plugin
+
+## 官网
+
+- 官网：https://github.com/Ns-oliver/cordova-plugin-epub#readme
+- 源码仓库：git+https://github.com/Ns-oliver/cordova-plugin-epub.git
+- npm 页面：https://www.npmjs.com/package/cordova-plugin-epub
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install cordova-plugin-epub`
+- npm registry：https://registry.npmjs.org/cordova-plugin-epub
+- Node 要求：{'name': 'cordova', 'version': '>=3.0.0'}

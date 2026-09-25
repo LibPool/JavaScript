@@ -1,0 +1,32 @@
+# @rapideditor/country-coder
+
+> 标签: ISO 3166-1, United Nations M49, calling codes, country codes, geolocation, reverse geocoder
+
+## 简介
+
+Convert longitude-latitude pairs to ISO 3166-1 codes quickly and locally
+
+## 官网
+
+- 源码仓库：git+https://github.com/rapideditor/country-coder.git
+- npm 页面：https://www.npmjs.com/package/@rapideditor/country-coder
+
+## 历史版本号
+
+- 当前版本：5.6.1
+
+- 5.2.0
+- 5.2.1
+- 5.2.2
+- 5.3.0
+- 5.3.1
+- 5.4.0
+- 5.5.0
+- 5.5.1
+- 5.6.0
+- 5.6.1
+
+## 获取地址
+
+- npm 安装：`npm install @rapideditor/country-coder`
+- npm registry：https://registry.npmjs.org/@rapideditor/country-coder

@@ -1,0 +1,32 @@
+# json-pick-keys
+
+> 标签: exclusion, inclusion, json, keys, object, pick, pipe, rename, renaming, select
+
+## 简介
+
+Select keys from JSON Object for inclusion or exclusion
+
+## 官网
+
+- 官网：https://github.com/oreofeolurin/json-pick-keys#readme
+- 源码仓库：git+https://github.com/oreofeolurin/json-pick-keys.git
+- npm 页面：https://www.npmjs.com/package/json-pick-keys
+
+## 历史版本号
+
+- 当前版本：0.1.4
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+
+## 获取地址
+
+- npm 安装：`npm install json-pick-keys`
+- npm registry：https://registry.npmjs.org/json-pick-keys

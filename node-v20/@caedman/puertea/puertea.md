@@ -1,0 +1,24 @@
+# @caedman/puertea
+
+> 标签: JavaScript
+
+## 简介
+
+use this [spectator](https://netbasal.gitbook.io/spectator/api/matchers) for test
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@caedman/puertea
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @caedman/puertea`
+- npm registry：https://registry.npmjs.org/@caedman/puertea

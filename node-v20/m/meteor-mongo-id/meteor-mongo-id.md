@@ -1,0 +1,24 @@
+# meteor-mongo-id
+
+> 标签: JavaScript
+
+## 简介
+
+Meteor Mongo ID package
+
+## 官网
+
+- 官网：https://github.com/eface2face/meteor-mongo-id
+- 源码仓库：https://github.com/eface2face/meteor-mongo-id
+- npm 页面：https://www.npmjs.com/package/meteor-mongo-id
+
+## 历史版本号
+
+- 当前版本：1.3.0
+
+- 1.3.0
+
+## 获取地址
+
+- npm 安装：`npm install meteor-mongo-id`
+- npm registry：https://registry.npmjs.org/meteor-mongo-id

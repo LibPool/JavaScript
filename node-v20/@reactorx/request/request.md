@@ -1,0 +1,36 @@
+# @reactorx/request
+
+> 标签: JavaScript
+
+## 简介
+
+@reactorx/request - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/querycap/webappkit#readme
+- 源码仓库：git+ssh://git@github.com/querycap/webappkit.git
+- npm 页面：https://www.npmjs.com/package/@reactorx/request
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.21.0
+- 0.21.1
+- 0.21.2
+- 0.22.0
+- 0.22.1
+- 0.22.2
+- 0.22.3
+- 0.22.4
+- 0.22.5
+- 0.9.0
+- 0.9.2
+- 1.0.0
+- 共 80 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @reactorx/request`
+- npm registry：https://registry.npmjs.org/@reactorx/request

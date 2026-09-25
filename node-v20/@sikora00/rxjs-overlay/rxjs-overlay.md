@@ -1,0 +1,35 @@
+# @sikora00/rxjs-overlay
+
+> 标签: Angular, Observable, Observables, React, ReactiveExtensions, ReactiveX, Rx, RxJS, Streams
+
+## 简介
+
+Additional operators for rxjs
+
+## 官网
+
+- 官网：https://github.com/Sikora00/packages#readme
+- 源码仓库：git+https://github.com/Sikora00/packages.git
+- npm 页面：https://www.npmjs.com/package/@sikora00/rxjs-overlay
+
+## 历史版本号
+
+- 当前版本：2.1.4
+
+- 1.4.2-0
+- 2.0.0
+- 2.0.1
+- 2.1.0
+- 2.1.0-alhpa.4
+- 2.1.0-alpha.0
+- 2.1.0-alpha.1
+- 2.1.0-alpha.3
+- 2.1.1
+- 2.1.2
+- 2.1.3
+- 2.1.4
+
+## 获取地址
+
+- npm 安装：`npm install @sikora00/rxjs-overlay`
+- npm registry：https://registry.npmjs.org/@sikora00/rxjs-overlay

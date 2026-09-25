@@ -1,0 +1,25 @@
+# siphon-knowledge
+
+> 标签: ai, analysis, anti-hallucination, claude, cli, crawler, documentation, interactive, package-validation, scraper, skills
+
+## 简介
+
+Universal documentation scraper with AI analysis, anti-hallucination protection, and Claude Skills generation
+
+## 官网
+
+- 官网：https://github.com/dexploarer/siphon-knowledge#readme
+- 源码仓库：git+https://github.com/dexploarer/siphon-knowledge.git
+- npm 页面：https://www.npmjs.com/package/siphon-knowledge
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install siphon-knowledge`
+- npm registry：https://registry.npmjs.org/siphon-knowledge

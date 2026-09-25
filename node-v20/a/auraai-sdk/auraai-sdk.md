@@ -1,0 +1,31 @@
+# auraai-sdk
+
+> 标签: ai, chat, react, sdk, vue, widget
+
+## 简介
+
+The official Aura AI SDK
+
+## 官网
+
+- 官网：https://auraai.ir
+- 源码仓库：git+https://github.com/your-org/aura-sdk.git
+- npm 页面：https://www.npmjs.com/package/auraai-sdk
+
+## 历史版本号
+
+- 当前版本：0.0.8
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+
+## 获取地址
+
+- npm 安装：`npm install auraai-sdk`
+- npm registry：https://registry.npmjs.org/auraai-sdk

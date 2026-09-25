@@ -1,0 +1,22 @@
+# cc-styles-7-1
+
+> 标签: JavaScript
+
+## 简介
+
+SCSS boilerplate with the 7-1 folder structure
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/cc-styles-7-1
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install cc-styles-7-1`
+- npm registry：https://registry.npmjs.org/cc-styles-7-1

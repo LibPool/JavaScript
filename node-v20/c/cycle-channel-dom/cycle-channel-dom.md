@@ -1,0 +1,26 @@
+# cycle-channel-dom
+
+> 标签: channel, cycle, intents, state
+
+## 简介
+
+A stream mapper that turns dom emits into signals
+
+## 官网
+
+- 官网：https://github.com/krainboltgreene/cycle-channel-dom#readme
+- 源码仓库：git+https://github.com/krainboltgreene/cycle-channel-dom.git
+- npm 页面：https://www.npmjs.com/package/cycle-channel-dom
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.0.0
+- 1.0.1
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install cycle-channel-dom`
+- npm registry：https://registry.npmjs.org/cycle-channel-dom

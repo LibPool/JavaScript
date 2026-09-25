@@ -1,0 +1,37 @@
+# @foxpage/foxpage-cli
+
+> 标签: cli, component, foxpage, server
+
+## 简介
+
+foxpage cli
+
+## 官网
+
+- 官网：https://github.com/foxpage/foxpage-cli
+- 源码仓库：https://github.com/foxpage/foxpage-cli
+- npm 页面：https://www.npmjs.com/package/@foxpage/foxpage-cli
+
+## 历史版本号
+
+- 当前版本：3.0.2
+
+- 1.0.1
+- 1.0.1-alpha.0
+- 1.0.2
+- 1.0.3
+- 2.0.0
+- 2.0.1
+- 2.0.2
+- 2.0.3
+- 2.0.4
+- 3.0.0
+- 3.0.1
+- 3.0.2
+- 共 83 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @foxpage/foxpage-cli`
+- npm registry：https://registry.npmjs.org/@foxpage/foxpage-cli
+- Node 要求：>=20

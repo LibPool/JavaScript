@@ -1,0 +1,29 @@
+# hermione-selenium-stanalone-runner-by-aleksander-true
+
+> 标签: JavaScript
+
+## 简介
+
+Selenium standalone runner plugin for hermione
+
+## 官网
+
+- 官网：https://github.com/Aleksander-true/hermione-selenium-stanalone-runner#readme
+- 源码仓库：git+https://github.com/Aleksander-true/hermione-selenium-stanalone-runner.git
+- npm 页面：https://www.npmjs.com/package/hermione-selenium-stanalone-runner-by-aleksander-true
+
+## 历史版本号
+
+- 当前版本：0.1.4
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install hermione-selenium-stanalone-runner-by-aleksander-true`
+- npm registry：https://registry.npmjs.org/hermione-selenium-stanalone-runner-by-aleksander-true

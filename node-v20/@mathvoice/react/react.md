@@ -1,0 +1,26 @@
+# @mathvoice/react
+
+> 标签: accessibility, katex, latex, math, react, voice
+
+## 简介
+
+MathVoice Studio as a controlled React component — voice-driven LaTeX editing with a three-tier intent pipeline
+
+## 官网
+
+- 官网：https://github.com/freewheelerz/mathvoice#readme
+- 源码仓库：git+https://github.com/freewheelerz/mathvoice.git
+- npm 页面：https://www.npmjs.com/package/@mathvoice/react
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.0
+- 0.1.1
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @mathvoice/react`
+- npm registry：https://registry.npmjs.org/@mathvoice/react

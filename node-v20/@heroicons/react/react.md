@@ -1,0 +1,36 @@
+# @heroicons/react
+
+> 标签: JavaScript
+
+## 简介
+
+<p align="center">   <a href="https://heroicons.com" target="_blank">     <picture>       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tailwindlabs/heroicons/HEAD/.github/logo-dark.svg">       <source media="(pref
+
+## 官网
+
+- 官网：https://github.com/tailwindlabs/heroicons#readme
+- 源码仓库：git+https://github.com/tailwindlabs/heroicons.git
+- npm 页面：https://www.npmjs.com/package/@heroicons/react
+
+## 历史版本号
+
+- 当前版本：2.2.0
+
+- 0.0.0-insiders.f736825
+- 0.0.0-insiders.f937b6f
+- 0.0.0-insiders.fa902f4
+- 0.0.0-insiders.fb6bdfa
+- 2.0.18
+- 2.1.0
+- 2.1.1
+- 2.1.2
+- 2.1.3
+- 2.1.4
+- 2.1.5
+- 2.2.0
+- 共 127 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @heroicons/react`
+- npm registry：https://registry.npmjs.org/@heroicons/react

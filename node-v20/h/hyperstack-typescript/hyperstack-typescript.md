@@ -1,0 +1,36 @@
+# hyperstack-typescript
+
+> 标签: hyperstack, solana, streaming, typescript, websockets
+
+## 简介
+
+Pure TypeScript SDK for the Hyperstack Solana streaming platform
+
+## 官网
+
+- 官网：https://github.com/HyperTekOrg/hyperstack.git#readme
+- 源码仓库：git+https://github.com/HyperTekOrg/hyperstack.git
+- npm 页面：https://www.npmjs.com/package/hyperstack-typescript
+
+## 历史版本号
+
+- 当前版本：0.6.9
+
+- 0.5.6
+- 0.5.9
+- 0.6.0
+- 0.6.1
+- 0.6.2
+- 0.6.3
+- 0.6.4
+- 0.6.5
+- 0.6.6
+- 0.6.7
+- 0.6.8
+- 0.6.9
+
+## 获取地址
+
+- npm 安装：`npm install hyperstack-typescript`
+- npm registry：https://registry.npmjs.org/hyperstack-typescript
+- Node 要求：>=16.0.0

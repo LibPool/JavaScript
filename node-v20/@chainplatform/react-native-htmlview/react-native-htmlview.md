@@ -1,0 +1,28 @@
+# @chainplatform/react-native-htmlview
+
+> 标签: @chainplatform/react-native-htmlview, html, mobile, react, react-component, react-native, react-native-component, react-native-htmlview, react-native-web, ui
+
+## 简介
+
+React Native render HTML view, support React Native Web. This project fork from https://github.com/jsdf/react-native-htmlview
+
+## 官网
+
+- 官网：https://github.com/ChainPlatform/react-native-htmlview
+- 源码仓库：git://github.com/ChainPlatform/react-native-htmlview.git
+- npm 页面：https://www.npmjs.com/package/@chainplatform/react-native-htmlview
+
+## 历史版本号
+
+- 当前版本：0.17.5
+
+- 0.17.1
+- 0.17.2
+- 0.17.3
+- 0.17.4
+- 0.17.5
+
+## 获取地址
+
+- npm 安装：`npm install @chainplatform/react-native-htmlview`
+- npm registry：https://registry.npmjs.org/@chainplatform/react-native-htmlview

@@ -1,0 +1,25 @@
+# console-holder
+
+> 标签: holder, string
+
+## 简介
+
+nodejs module that helps to hold a string in console alwais in the end of output
+
+## 官网
+
+- 官网：https://github.com/theyuri117/console-holder#readme
+- 源码仓库：git+https://github.com/theyuri117/console-holder.git
+- npm 页面：https://www.npmjs.com/package/console-holder
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install console-holder`
+- npm registry：https://registry.npmjs.org/console-holder

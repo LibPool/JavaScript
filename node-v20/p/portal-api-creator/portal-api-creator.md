@@ -1,0 +1,35 @@
+# portal-api-creator
+
+> 标签: portal-api portal js api creator javascript es6
+
+## 简介
+
+This is used to call server side api call as js api call in client side - portal-api javascript es6
+
+## 官网
+
+- 官网：https://github.com/machi-projects/portal-api-list#readme
+- 源码仓库：git+https://github.com/machi-projects/portal-api-list.git
+- npm 页面：https://www.npmjs.com/package/portal-api-creator
+
+## 历史版本号
+
+- 当前版本：1.0.12
+
+- 1.0.1
+- 1.0.10
+- 1.0.11
+- 1.0.12
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+
+## 获取地址
+
+- npm 安装：`npm install portal-api-creator`
+- npm registry：https://registry.npmjs.org/portal-api-creator

@@ -1,0 +1,35 @@
+# @serverless-contracts/plugin
+
+> 标签: Contracts, Serverless, Typescript
+
+## 简介
+
+A plugin to safely deploy Serverless microservices.
+
+## 官网
+
+- 官网：https://github.com/fargito/serverless-contracts#readme
+- 源码仓库：git+https://github.com/fargito/serverless-contracts.git
+- npm 页面：https://www.npmjs.com/package/@serverless-contracts/plugin
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.1.0
+- 0.1.1
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @serverless-contracts/plugin`
+- npm registry：https://registry.npmjs.org/@serverless-contracts/plugin

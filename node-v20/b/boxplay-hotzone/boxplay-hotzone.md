@@ -1,0 +1,23 @@
+# boxplay-hotzone
+
+> 标签: cropping, img-crop, react, react-crop, react-img-crop, react-multi-crops
+
+## 简介
+
+react 热区resize组件
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/boxplay-hotzone
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install boxplay-hotzone`
+- npm registry：https://registry.npmjs.org/boxplay-hotzone

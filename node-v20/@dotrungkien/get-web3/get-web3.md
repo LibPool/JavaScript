@@ -1,0 +1,24 @@
+# @dotrungkien/get-web3
+
+> 标签: ethereum, web3-connect, web3js
+
+## 简介
+
+init web3 with different providers.
+
+## 官网
+
+- 官网：https://github.com/dotrungkien/get-web3#readme
+- 源码仓库：git+ssh://git@github.com/dotrungkien/get-web3.git
+- npm 页面：https://www.npmjs.com/package/@dotrungkien/get-web3
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @dotrungkien/get-web3`
+- npm registry：https://registry.npmjs.org/@dotrungkien/get-web3

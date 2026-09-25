@@ -1,0 +1,24 @@
+# grunt-obfuscator-es6
+
+> 标签: grunt, gruntplugin, obfuscate, obfuscator
+
+## 简介
+
+Obfuscate Node.js projects via Grunt.
+
+## 官网
+
+- 官网：https://github.com/sternam/grunt-obfuscator-redux#readme
+- 源码仓库：git://github.com/sternam/grunt-obfuscator-redux.git
+- npm 页面：https://www.npmjs.com/package/grunt-obfuscator-es6
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install grunt-obfuscator-es6`
+- npm registry：https://registry.npmjs.org/grunt-obfuscator-es6

@@ -1,0 +1,24 @@
+# tea-stand-burst-part
+
+> 标签: indoxcapital, package-manager, tea, tea-stand-burst-part
+
+## 简介
+
+(tea-stand-burst-part) - This function is used to convert multiple words into an interesting sentence containing the word tea-stand-burst-part.
+
+## 官网
+
+- 官网：https://github.com/ehxyla/tea-oss-liquidroject#readme
+- 源码仓库：git+https://github.com/ehxyla/tea-oss-liquidroject.git
+- npm 页面：https://www.npmjs.com/package/tea-stand-burst-part
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install tea-stand-burst-part`
+- npm registry：https://registry.npmjs.org/tea-stand-burst-part

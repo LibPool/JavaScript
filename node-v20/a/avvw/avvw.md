@@ -1,0 +1,35 @@
+# avvw
+
+> 标签: android, apicloud, app, avvw, hybird, ios, javascript, nodejs, vant, vue, vue2, vue3-cli, webpack
+
+## 简介
+
+Apicloud + Vue2 + Vant（有赞前端）+ Webpack(Vue-cli3)打包，是一个采用Vue数据绑定特性和Apicloud手机操控能力相结合的APP开发框架
+
+## 官网
+
+- 官网：https://github.com/grapewheel/avvw#readme
+- 源码仓库：git+https://github.com/grapewheel/avvw.git
+- npm 页面：https://www.npmjs.com/package/avvw
+
+## 历史版本号
+
+- 当前版本：1.3.7
+
+- 1.2.2
+- 1.2.3
+- 1.2.4
+- 1.2.5
+- 1.3.0
+- 1.3.1
+- 1.3.2
+- 1.3.3
+- 1.3.4
+- 1.3.5
+- 1.3.6
+- 1.3.7
+
+## 获取地址
+
+- npm 安装：`npm install avvw`
+- npm registry：https://registry.npmjs.org/avvw

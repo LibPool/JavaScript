@@ -1,0 +1,25 @@
+# eslint-config-explicit-typescript
+
+> 标签: JavaScript
+
+## 简介
+
+A ruleset for an explicit typescript code style.
+
+## 官网
+
+- 官网：https://github.com/SamuelSchepp/eslint-config-explicit-typescript#readme
+- 源码仓库：git+https://github.com/SamuelSchepp/eslint-config-explicit-typescript.git
+- npm 页面：https://www.npmjs.com/package/eslint-config-explicit-typescript
+
+## 历史版本号
+
+- 当前版本：1.3.2
+
+- 1.3.1
+- 1.3.2
+
+## 获取地址
+
+- npm 安装：`npm install eslint-config-explicit-typescript`
+- npm registry：https://registry.npmjs.org/eslint-config-explicit-typescript

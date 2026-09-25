@@ -1,0 +1,34 @@
+# @easyai/cli
+
+> 标签: ai, anthropic, cli, development, openai
+
+## 简介
+
+AI development tool with CLI and dashboard
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@easyai/cli
+
+## 历史版本号
+
+- 当前版本：3.2.0
+
+- 3.0.97
+- 3.0.98
+- 3.0.99
+- 3.1.0
+- 3.1.1
+- 3.1.2
+- 3.1.3
+- 3.1.4
+- 3.1.5
+- 3.1.6
+- 3.1.7
+- 3.2.0
+- 共 303 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @easyai/cli`
+- npm registry：https://registry.npmjs.org/@easyai/cli

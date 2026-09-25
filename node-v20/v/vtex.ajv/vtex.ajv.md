@@ -1,0 +1,30 @@
+# vtex.ajv
+
+> 标签: JSON, json-schema, json-schema-validation, json-schema-validator, jsonschema, schema, validation, validator
+
+## 简介
+
+Another JSON Schema Validator: forked at jeymisson/ajv
+
+## 官网
+
+- 官网：https://github.com/epoberezkin/ajv
+- 源码仓库：git+https://github.com/jeymisson/ajv.git
+- npm 页面：https://www.npmjs.com/package/vtex.ajv
+
+## 历史版本号
+
+- 当前版本：6.10.6
+
+- 6.10.0
+- 6.10.1
+- 6.10.2
+- 6.10.3
+- 6.10.4
+- 6.10.5
+- 6.10.6
+
+## 获取地址
+
+- npm 安装：`npm install vtex.ajv`
+- npm registry：https://registry.npmjs.org/vtex.ajv

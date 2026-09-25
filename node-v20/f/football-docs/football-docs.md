@@ -1,0 +1,36 @@
+# football-docs
+
+> 标签: analytics, data, football, mcp, model-context-protocol, opta, soccer, sportmonks, statsbomb, wyscout
+
+## 简介
+
+Searchable football data provider documentation for AI coding agents. Like Context7 for football data.
+
+## 官网
+
+- 官网：https://github.com/withqwerty/football-docs#readme
+- 源码仓库：git+https://github.com/withqwerty/football-docs.git
+- npm 页面：https://www.npmjs.com/package/football-docs
+
+## 历史版本号
+
+- 当前版本：0.12.2
+
+- 0.12.0
+- 0.12.1
+- 0.12.2
+- 0.2.0
+- 0.2.1
+- 0.3.0
+- 0.3.1
+- 0.4.0
+- 0.7.0
+- 0.8.0
+- 0.9.0
+- 0.9.1
+
+## 获取地址
+
+- npm 安装：`npm install football-docs`
+- npm registry：https://registry.npmjs.org/football-docs
+- Node 要求：>=20

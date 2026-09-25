@@ -1,0 +1,24 @@
+# yi-shijie-xianzhe-de-zhuansheng-wushuang-yong-youxi-zhishi-chengwei-yi-shijie-zuiqiang-jinxing-zhudao-erlingererlingjiuyier
+
+> 标签: JavaScript
+
+## 简介
+
+异世界贤者的转生无双 用游戏知识成为异世界最强 - 进行诸岛 - 20220912
+
+## 官网
+
+- 官网：https://github.com/apachecn/yi-shijie-xianzhe-de-zhuansheng-wushuang-yong-youxi-zhishi-chengwei-yi-shijie-zuiqiang-jinxing-zhudao-20220912#readme
+- 源码仓库：git+https://github.com/apachecn/yi-shijie-xianzhe-de-zhuansheng-wushuang-yong-youxi-zhishi-chengwei-yi-shijie-zuiqiang-jinxing-zhudao-20220912.git
+- npm 页面：https://www.npmjs.com/package/yi-shijie-xianzhe-de-zhuansheng-wushuang-yong-youxi-zhishi-chengwei-yi-shijie-zuiqiang-jinxing-zhudao-erlingererlingjiuyier
+
+## 历史版本号
+
+- 当前版本：2023.210.0
+
+- 2023.210.0
+
+## 获取地址
+
+- npm 安装：`npm install yi-shijie-xianzhe-de-zhuansheng-wushuang-yong-youxi-zhishi-chengwei-yi-shijie-zuiqiang-jinxing-zhudao-erlingererlingjiuyier`
+- npm registry：https://registry.npmjs.org/yi-shijie-xianzhe-de-zhuansheng-wushuang-yong-youxi-zhishi-chengwei-yi-shijie-zuiqiang-jinxing-zhudao-erlingererlingjiuyier

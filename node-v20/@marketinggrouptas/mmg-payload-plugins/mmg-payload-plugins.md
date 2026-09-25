@@ -1,0 +1,25 @@
+# @marketinggrouptas/mmg-payload-plugins
+
+> 标签: cms, mrworld, payload, plugins
+
+## 简介
+
+payloadcms plugins
+
+## 官网
+
+- 官网：https://github.com/payloadcms/payload#readme
+- 源码仓库：git+ssh://git@github.com/payloadcms/payload.git
+- npm 页面：https://www.npmjs.com/package/@marketinggrouptas/mmg-payload-plugins
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 1.0.4
+- 1.0.5
+
+## 获取地址
+
+- npm 安装：`npm install @marketinggrouptas/mmg-payload-plugins`
+- npm registry：https://registry.npmjs.org/@marketinggrouptas/mmg-payload-plugins

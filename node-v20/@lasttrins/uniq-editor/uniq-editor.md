@@ -1,0 +1,36 @@
+# @lasttrins/uniq-editor
+
+> 标签: ckeditor-alternative, contenteditable, editor, file-upload, formatting, image-upload, markdown, quill-alternative, rich-text-editor, text-editor, tinymce-alternative, toolbar, typescript, vue, vue3, wysiwyg
+
+## 简介
+
+A modern WYSIWYG text editor library for Vue 3 with TypeScript support and file upload capabilities
+
+## 官网
+
+- 官网：https://gitflic.ru/project/lasttrins/uniq-editor#readme
+- 源码仓库：git+https://gitflic.ru/project/lasttrins/uniq-editor.git
+- npm 页面：https://www.npmjs.com/package/@lasttrins/uniq-editor
+
+## 历史版本号
+
+- 当前版本：1.2.27
+
+- 1.0.9
+- 1.1.0
+- 1.1.1
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.2.21
+- 1.2.22
+- 1.2.23
+- 1.2.24
+- 1.2.25
+- 1.2.27
+
+## 获取地址
+
+- npm 安装：`npm install @lasttrins/uniq-editor`
+- npm registry：https://registry.npmjs.org/@lasttrins/uniq-editor
+- Node 要求：>=16.0.0

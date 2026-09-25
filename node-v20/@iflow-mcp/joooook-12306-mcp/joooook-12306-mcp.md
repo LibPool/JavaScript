@@ -1,0 +1,23 @@
+# @iflow-mcp/joooook-12306-mcp
+
+> 标签: 12306, mcp, mcp-server
+
+## 简介
+
+This is a 12306 ticket search server based on the Model Context Protocol (MCP).
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@iflow-mcp/joooook-12306-mcp
+
+## 历史版本号
+
+- 当前版本：0.3.8
+
+- 0.3.7
+- 0.3.8
+
+## 获取地址
+
+- npm 安装：`npm install @iflow-mcp/joooook-12306-mcp`
+- npm registry：https://registry.npmjs.org/@iflow-mcp/joooook-12306-mcp

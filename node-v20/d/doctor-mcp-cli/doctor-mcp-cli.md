@@ -1,0 +1,26 @@
+# doctor-mcp-cli
+
+> 标签: claude, cli, cline, cursor, diagnostics, mcp, model-context-protocol, vscode, windsurf
+
+## 简介
+
+Diagnose MCP client configuration and stdio server startup problems.
+
+## 官网
+
+- 官网：https://github.com/LSUFN/doctor-mcp-cli#readme
+- 源码仓库：git+https://github.com/LSUFN/doctor-mcp-cli.git
+- npm 页面：https://www.npmjs.com/package/doctor-mcp-cli
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install doctor-mcp-cli`
+- npm registry：https://registry.npmjs.org/doctor-mcp-cli
+- Node 要求：>=20

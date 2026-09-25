@@ -1,0 +1,24 @@
+# @nocturne-xyz/snarkjs
+
+> 标签: circuit, cryptography, ethereum, knowlage, zcash, zero, zksnark
+
+## 简介
+
+zkSNARKs implementation in JavaScript
+
+## 官网
+
+- 官网：https://github.com/iden3/snarkjs#readme
+- 源码仓库：git+https://github.com/iden3/snarkjs.git
+- npm 页面：https://www.npmjs.com/package/@nocturne-xyz/snarkjs
+
+## 历史版本号
+
+- 当前版本：0.7.2-alpha
+
+- 0.7.2-alpha
+
+## 获取地址
+
+- npm 安装：`npm install @nocturne-xyz/snarkjs`
+- npm registry：https://registry.npmjs.org/@nocturne-xyz/snarkjs

@@ -1,0 +1,36 @@
+# generate-graphql-app
+
+> 标签: apollo, cli, graphql, nodejs, typescript
+
+## 简介
+
+Cli tool for bootstrapping production grade GraphQL server
+
+## 官网
+
+- 官网：https://github.com/tomyitav/generate-graphql-app#readme
+- 源码仓库：git+https://github.com/tomyitav/generate-graphql-app.git
+- npm 页面：https://www.npmjs.com/package/generate-graphql-app
+
+## 历史版本号
+
+- 当前版本：1.5.14
+
+- 1.5.11
+- 1.5.12
+- 1.5.13
+- 1.5.14
+- 1.5.2
+- 1.5.3
+- 1.5.4
+- 1.5.5
+- 1.5.6
+- 1.5.7
+- 1.5.8
+- 1.5.9
+
+## 获取地址
+
+- npm 安装：`npm install generate-graphql-app`
+- npm registry：https://registry.npmjs.org/generate-graphql-app
+- Node 要求：>=8.0.0

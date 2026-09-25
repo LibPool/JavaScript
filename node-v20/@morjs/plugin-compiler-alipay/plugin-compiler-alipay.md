@@ -1,0 +1,37 @@
+# @morjs/plugin-compiler-alipay
+
+> 标签: alipay, compiler, mini, mor, plugin, program
+
+## 简介
+
+mor complier plugin for alipay mini program
+
+## 官网
+
+- 官网：https://github.com/eleme/morjs#readme
+- 源码仓库：git+https://github.com/eleme/morjs.git
+- npm 页面：https://www.npmjs.com/package/@morjs/plugin-compiler-alipay
+
+## 历史版本号
+
+- 当前版本：1.0.114-beta.17
+
+- 1.0.70
+- 1.0.71
+- 1.0.79
+- 1.0.82
+- 1.0.85
+- 1.0.87
+- 1.0.9
+- 1.0.90
+- 1.0.90-alpha.1
+- 1.0.95
+- 1.0.95-beta.0
+- 1.0.95-beta.1
+- 共 55 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @morjs/plugin-compiler-alipay`
+- npm registry：https://registry.npmjs.org/@morjs/plugin-compiler-alipay
+- Node 要求：>= 12.13.0

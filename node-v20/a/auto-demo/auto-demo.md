@@ -1,0 +1,35 @@
+# auto-demo
+
+> 标签: JavaScript
+
+## 简介
+
+Demonstrates package releases with auto https://github.com/intuit/auto
+
+## 官网
+
+- 官网：https://github.com/goldenshun/auto-demo#readme
+- 源码仓库：git+https://github.com/goldenshun/auto-demo.git
+- npm 页面：https://www.npmjs.com/package/auto-demo
+
+## 历史版本号
+
+- 当前版本：1.5.3
+
+- 1.3.1-canary.7.49.0
+- 1.4.0
+- 1.4.1-canary.8.54.0
+- 1.4.1-canary.8.57.0
+- 1.5.0
+- 1.5.1
+- 1.5.1-canary.10.67.0
+- 1.5.1-canary.9.62.0
+- 1.5.2
+- 1.5.2-canary.11.73.0
+- 1.5.3
+- 1.5.3-canary.12.80.0
+
+## 获取地址
+
+- npm 安装：`npm install auto-demo`
+- npm registry：https://registry.npmjs.org/auto-demo

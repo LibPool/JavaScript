@@ -1,0 +1,36 @@
+# gulp-rev
+
+> 标签: asset, assets, cache, expire, gulpplugin, hash, optimize, rev, revision, revving, static, version, versioning
+
+## 简介
+
+Static asset revisioning by appending content hash to filenames: unicorn.css => unicorn-d41d8cd98f.css
+
+## 官网
+
+- 官网：https://github.com/sindresorhus/gulp-rev#readme
+- 源码仓库：git+https://github.com/sindresorhus/gulp-rev.git
+- npm 页面：https://www.npmjs.com/package/gulp-rev
+
+## 历史版本号
+
+- 当前版本：12.0.0
+
+- 5.0.1
+- 5.1.0
+- 6.0.0
+- 6.0.1
+- 7.0.0
+- 7.1.0
+- 7.1.1
+- 7.1.2
+- 8.0.0
+- 8.1.0
+- 8.1.1
+- 9.0.0
+
+## 获取地址
+
+- npm 安装：`npm install gulp-rev`
+- npm registry：https://registry.npmjs.org/gulp-rev
+- Node 要求：>=20

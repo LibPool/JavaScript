@@ -1,0 +1,24 @@
+# @htmlc/core
+
+> 标签: JavaScript
+
+## 简介
+
+the next generation of html-chunk-loader
+
+## 官网
+
+- 官网：https://htmlc.webpuppy.io
+- 源码仓库：git+https://github.com/webpuppy/htmlc.git
+- npm 页面：https://www.npmjs.com/package/@htmlc/core
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @htmlc/core`
+- npm registry：https://registry.npmjs.org/@htmlc/core

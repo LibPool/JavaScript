@@ -1,0 +1,26 @@
+# brazos-transit-api
+
+> 标签: JavaScript
+
+## 简介
+
+JS implementation of the Texas A&M Bus API
+
+## 官网
+
+- 官网：https://github.com/Maroon-Rides/brazos-transit-api#readme
+- 源码仓库：git+https://github.com/Maroon-Rides/brazos-transit-api.git
+- npm 页面：https://www.npmjs.com/package/brazos-transit-api
+
+## 历史版本号
+
+- 当前版本：1.4.0
+
+- 1.3.0
+- 1.3.1
+- 1.4.0
+
+## 获取地址
+
+- npm 安装：`npm install brazos-transit-api`
+- npm registry：https://registry.npmjs.org/brazos-transit-api

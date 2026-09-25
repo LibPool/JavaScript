@@ -1,0 +1,24 @@
+# triotech-mobile-app
+
+> 标签: JavaScript
+
+## 简介
+
+TRIOTECH Mobile App ===================
+
+## 官网
+
+- 源码仓库：git@git.triotech.fr:composer/triotech-mobile-app.git
+- npm 页面：https://www.npmjs.com/package/triotech-mobile-app
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install triotech-mobile-app`
+- npm registry：https://registry.npmjs.org/triotech-mobile-app

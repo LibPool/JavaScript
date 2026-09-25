@@ -1,0 +1,27 @@
+# sw-ui-library
+
+> 标签: JavaScript
+
+## 简介
+
+`sw-ui-library` is a React UI component library built with TypeScript and Vite. It provides reusable, customizable UI components to enhance your React applications.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/sw-ui-library
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 1.0.0
+- 1.0.2
+- 1.0.3
+- 1.1.0
+- 1.1.1
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install sw-ui-library`
+- npm registry：https://registry.npmjs.org/sw-ui-library

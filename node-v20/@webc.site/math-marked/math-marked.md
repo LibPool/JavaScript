@@ -1,0 +1,24 @@
+# @webc.site/math-marked
+
+> 标签: markdown, marked, math, mathml, render, tex
+
+## 简介
+
+Marked extension for @webc.site/math / @webc.site/math 的 Marked 插件
+
+## 官网
+
+- 官网：https://math.webc.site
+- 源码仓库：git+https://github.com/webc-site/math.git
+- npm 页面：https://www.npmjs.com/package/@webc.site/math-marked
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @webc.site/math-marked`
+- npm registry：https://registry.npmjs.org/@webc.site/math-marked

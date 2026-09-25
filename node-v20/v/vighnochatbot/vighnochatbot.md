@@ -1,0 +1,26 @@
+# vighnochatbot
+
+> 标签: chatbot, library, npm-package, react
+
+## 简介
+
+A chatbot library for React applications
+
+## 官网
+
+- 官网：https://github.com/yourusername/your-repo#readme
+- 源码仓库：git+https://github.com/yourusername/your-repo.git
+- npm 页面：https://www.npmjs.com/package/vighnochatbot
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install vighnochatbot`
+- npm registry：https://registry.npmjs.org/vighnochatbot

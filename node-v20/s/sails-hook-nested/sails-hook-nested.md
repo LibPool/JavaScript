@@ -1,0 +1,31 @@
+# sails-hook-nested
+
+> 标签: attributes, hook, nested, sails, sails-hook
+
+## 简介
+
+Nested attributes for sails models.
+
+## 官网
+
+- 官网：https://github.com/cope/sails-hook-nested#readme
+- 源码仓库：git://github.com/cope/sails-hook-nested.git
+- npm 页面：https://www.npmjs.com/package/sails-hook-nested
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.0.1
+- 0.0.2
+- 0.1.0
+- 0.1.1
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install sails-hook-nested`
+- npm registry：https://registry.npmjs.org/sails-hook-nested

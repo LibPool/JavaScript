@@ -1,0 +1,24 @@
+# @rtyughnnpm/non-praesentium-totam
+
+> 标签: $.extend, -0, .env, 0, Array.prototype.contains, Array.prototype.filter, Array.prototype.findLast, Array.prototype.flat, Array.prototype.flatten, Array.prototype.includes, ArrayBuffer, ArrayBuffer.prototype.slice, BigInt64Array, BigUint64Array, CSS, CSSStyleDeclaration, ECMAScript 2015, ECMAScript 2018, ECMAScript 2023, ECMAScript 6, ES, ES2015, ES2017, ES2019, ES2020, ES2023, ES3, ES6, ES8, Float32Array, Float64Array, Int32Array, Iterator, JSON, JSON-Schema, Object, Object.fromEntries, Object.getPrototypeOf, Object.is, Object.values, Observable, Observables, RFC-6455, ReactiveExtensions, Reflect.getPrototypeOf, RegExp#flags, Rx, RxJS, Set, String.prototype.matchAll, StyleSheet, Symbol, Symbol.toStringTag, TypeBox, URLSearchParams, Uint8ClampedArray, Underscore, WeakMap, WebSockets, YAML, [[Prototype]], __proto__, a11y, accessor, ajax, animation, ansi, app, argparse, argument, arguments, argv, arktype, array, arrays, ascii, assert, asserts, async, authentication, ava, awesomesauce, banner, bdd, bind, bootstrap css, break, browser, browserlist, browserslist, bundling, busy, byteLength, byteOffset, cache, call, call-bound, callback, callbind, callbound, censor, character, characters, check, child, chinese, chromium, circular, cjk, classname, classnames, cmd, codes, collection, collection.es6, colors, column, columns, command-line, commander, compare, compiler, computed-types, concatMap, config, configurable, console, consume, contains, core, cors, crypt, crypto, css, css variable, css-in-js, curl, curried, dataView, date, debugger, deep, deepclone, deepcopy, default, define, delete, dependency manager, description, deterministic, dom, dom-testing-library, drop, duplex, east-asian-width, ecmascript, efficient, emit, emoji, ender, entries, enumerable, env, environment, equal, equality, es, es-shim API, es2015, es2016, es5, es7, escape, eslint-plugin, eslintconfig, estree, events, exe, exec, exit, express, extend, extension, fantasy-land, fast, fast-clone, fast-copy, fast-deep-copy, fastcopy, fetch, find, findLast, findup, flags, flatten, forEach, form-validation, format, framework, from, functional, gdpr, generics, get, getPrototypeOf, getintrinsic, getter, group, harmony, has, hasOwn, helpers, higher-order, hookform, hooks, http, https, id, ie, import, inference, input, install, internal, intrinsic, invariant, isConcatSpreadable, iterate, jQuery, jasmine, jsdom, json, json-schema, json-schema-validation, json-schema-validator, jsonpath, jsonschema, jsx, keys, korean, l10n, language, last, launch, length, less compiler, less css, less.js, linewrap, lint, linux, listeners, loading, lockfile, log, logging, lru, macos, make, map, match, middleware, mime, minimal, mixins, mkdir, mkdirp, mobile, mocha, module, move, mru, names, native, negative, node, nodejs, obj, object, once, open, opener, opens, optimizer, package manager, package.json, packages, parent, parents, password, patch, path, performant, persistent, picomatch, pipe, pnpm9, point-free, ponyfill, popmotion, pose, postcss, preprocessor, preserve-symlinks, private, progress, promises, prop, proto, protobuf, prototype, prune, pyyaml, qs, query, querystring, ramda, random, rangeerror, rapid, rate, ratelimit, react, react animation, react pose, react-hooks, react-testing-library, read, reduce, reducer, redux, regex, regular, regular expression, regular expressions, remove, require, resolve, reuse, rfc4122, rgb, rmdir, sameValueZero, sanitize, schema, scheme, scheme-validation, search, serialize, setImmediate, setPrototypeOf, setter, settings, sham, shared, sharedarraybuffer, shebang, shell, shim, sigint, sigterm, sorted, spec, speed, spinners, start, string, stringify, structuredClone, styleguide, styles, stylesheet, symlinks, syntaxerror, tacit, tap, task, tc39, tdd, telephone, term, test, testing, text, throttle, toSorted, toobject, toolkit, transpile, traverse, trimEnd, trimLeft, trimStart, ts, tslib, tty, typanion, type, typed, typed array, typedarray, types, typesafe, typescript, uninstall, up, user-streams, util, utils, validate, validator, value, values, var, variables in css, vest, view, wait, warning, watchFile, watcher, watching, web, whatwg, width, windows, wordbreak, wordwrap, wrap, write, xdg-open, xhr, xterm, yup, zero
+
+## 简介
+
+[![github actions][actions-image]][actions-url] [![coverage][codecov-image]][codecov-url] [![License][license-image]][license-url] [![Downloads][downloads-image]][downloads-url]
+
+## 官网
+
+- 官网：https://github.com/rtyughnnpm/non-praesentium-totam/#readme
+- 源码仓库：git+https://github.com/rtyughnnpm/non-praesentium-totam.git
+- npm 页面：https://www.npmjs.com/package/@rtyughnnpm/non-praesentium-totam
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @rtyughnnpm/non-praesentium-totam`
+- npm registry：https://registry.npmjs.org/@rtyughnnpm/non-praesentium-totam

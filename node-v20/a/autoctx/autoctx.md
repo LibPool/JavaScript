@@ -1,0 +1,36 @@
+# autoctx
+
+> 标签: agents, autocontext, evaluation, harness, llm, mcp
+
+## 简介
+
+autocontext — always-on agent evaluation harness
+
+## 官网
+
+- 官网：https://github.com/greyhaven-ai/autocontext/tree/main/ts
+- 源码仓库：git+https://github.com/greyhaven-ai/autocontext.git
+- npm 页面：https://www.npmjs.com/package/autoctx
+
+## 历史版本号
+
+- 当前版本：0.18.0
+
+- 0.4.4
+- 0.4.5
+- 0.4.6
+- 0.4.7
+- 0.4.8
+- 0.4.9
+- 0.5.0
+- 0.5.1
+- 0.6.0
+- 0.7.0
+- 0.8.0
+- 0.9.0
+
+## 获取地址
+
+- npm 安装：`npm install autoctx`
+- npm registry：https://registry.npmjs.org/autoctx
+- Node 要求：>=22.19.0

@@ -1,0 +1,29 @@
+# color-type
+
+> 标签: check, color, detect, hex, hsl, is, rgb, type
+
+## 简介
+
+Helper function to detect the color type/model (HEX, RGB, HSL).
+
+## 官网
+
+- 官网：https://github.com/hemanth/color-type#readme
+- 源码仓库：git+https://github.com/hemanth/color-type.git
+- npm 页面：https://www.npmjs.com/package/color-type
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 0.1.0
+- 0.2.0
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install color-type`
+- npm registry：https://registry.npmjs.org/color-type
+- Node 要求：>= 4

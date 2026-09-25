@@ -1,0 +1,25 @@
+# rxjs-ng-extras
+
+> 标签: Angular, Angular2, ng2, rxjs, zone.js
+
+## 简介
+
+Extends RxJS 5 with additional methods useful for Angular (2+)
+
+## 官网
+
+- 官网：https://github.com/wmaurer/rxjs-ng-extras#readme
+- 源码仓库：git+https://github.com/wmaurer/rxjs-ng-extras.git
+- npm 页面：https://www.npmjs.com/package/rxjs-ng-extras
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install rxjs-ng-extras`
+- npm registry：https://registry.npmjs.org/rxjs-ng-extras

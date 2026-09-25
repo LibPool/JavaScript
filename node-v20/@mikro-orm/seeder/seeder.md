@@ -1,0 +1,37 @@
+# @mikro-orm/seeder
+
+> 标签: data-mapper, ddd, entity, identity-map, javascript, js, mariadb, mikro-orm, mongo, mongodb, mysql, orm, postgresql, seeder, sqlite, sqlite3, ts, typescript, unit-of-work
+
+## 简介
+
+Seeder package for MikroORM.
+
+## 官网
+
+- 官网：https://mikro-orm.io
+- 源码仓库：git+ssh://git@github.com/mikro-orm/mikro-orm.git
+- npm 页面：https://www.npmjs.com/package/@mikro-orm/seeder
+
+## 历史版本号
+
+- 当前版本：7.2.1
+
+- 7.2.2-dev.11
+- 7.2.2-dev.12
+- 7.2.2-dev.13
+- 7.2.2-dev.14
+- 7.2.2-dev.2
+- 7.2.2-dev.3
+- 7.2.2-dev.4
+- 7.2.2-dev.5
+- 7.2.2-dev.6
+- 7.2.2-dev.7
+- 7.2.2-dev.8
+- 7.2.2-dev.9
+- 共 4,291 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @mikro-orm/seeder`
+- npm registry：https://registry.npmjs.org/@mikro-orm/seeder
+- Node 要求：>= 22.17.0

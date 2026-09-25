@@ -1,0 +1,28 @@
+# @nodert-win11/windows.graphics.imaging
+
+> 标签: BitmapAlphaMode, BitmapBounds, BitmapBuffer, BitmapBufferAccessMode, BitmapCodecInformation, BitmapDecoder, BitmapEncoder, BitmapFlip, BitmapFrame, BitmapInterpolationMode, BitmapPixelFormat, BitmapPlaneDescription, BitmapProperties, BitmapPropertiesView, BitmapPropertySet, BitmapRotation, BitmapSize, BitmapTransform, BitmapTypedValue, ColorManagementMode, ExifOrientationMode, Graphics, IBitmapFrame, IBitmapFrameWithSoftwareBitmap, IBitmapPropertiesView, ImageStream, Imaging, JpegSubsamplingMode, Microsoft, NodeRT, PixelDataProvider, PngFilterMode, SoftwareBitmap, TiffCompressionMode, WinRT, Windows, Windows.Graphics.Imaging
+
+## 简介
+
+Use the Windows.Graphics.Imaging UWP API directly from Node.js
+
+## 官网
+
+- 官网：https://github.com/demosjarco/NodeRT/tree/vs2022
+- 源码仓库：git://github.com/demosjarco/NodeRT.git
+- npm 页面：https://www.npmjs.com/package/@nodert-win11/windows.graphics.imaging
+
+## 历史版本号
+
+- 当前版本：0.1.6
+
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+
+## 获取地址
+
+- npm 安装：`npm install @nodert-win11/windows.graphics.imaging`
+- npm registry：https://registry.npmjs.org/@nodert-win11/windows.graphics.imaging

@@ -1,0 +1,26 @@
+# cap-file-opener
+
+> 标签: capacitor, native, plugin
+
+## 简介
+
+This opens PDF files with associated application on android devices
+
+## 官网
+
+- 官网：https://github.com/reddysuresh78/fileopener#readme
+- 源码仓库：git+https://github.com/reddysuresh78/fileopener.git
+- npm 页面：https://www.npmjs.com/package/cap-file-opener
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install cap-file-opener`
+- npm registry：https://registry.npmjs.org/cap-file-opener

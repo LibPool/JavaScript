@@ -1,0 +1,25 @@
+# @phoco/exif
+
+> 标签: exif
+
+## 简介
+
+Forked from exif-js
+
+## 官网
+
+- 官网：https://github.com/exif-js/exif-js
+- 源码仓库：git+https://github.com/exif-js/exif-js.git
+- npm 页面：https://www.npmjs.com/package/@phoco/exif
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @phoco/exif`
+- npm registry：https://registry.npmjs.org/@phoco/exif

@@ -1,0 +1,26 @@
+# generator-react-storybook-kit
+
+> 标签: create-react-app, react, storybook, yeoman-generator
+
+## 简介
+
+> build a basic startup
+
+## 官网
+
+- 官网：https://github.com/Louis-Chen/generator-react-storybook#readme
+- 源码仓库：git+https://github.com/Louis-Chen/generator-react-storybook.git
+- npm 页面：https://www.npmjs.com/package/generator-react-storybook-kit
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install generator-react-storybook-kit`
+- npm registry：https://registry.npmjs.org/generator-react-storybook-kit

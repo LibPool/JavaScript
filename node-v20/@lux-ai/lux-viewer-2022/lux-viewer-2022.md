@@ -1,0 +1,33 @@
+# @lux-ai/lux-viewer-2022
+
+> 标签: JavaScript
+
+## 简介
+
+This is the codebase for the Season 2 competition visualizer. The latest version is hosted on TODO.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@lux-ai/lux-viewer-2022
+
+## 历史版本号
+
+- 当前版本：0.0.19
+
+- 0.0.16
+- 0.0.17
+- 0.0.18
+- 0.0.19
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @lux-ai/lux-viewer-2022`
+- npm registry：https://registry.npmjs.org/@lux-ai/lux-viewer-2022

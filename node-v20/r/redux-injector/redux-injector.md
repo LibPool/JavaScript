@@ -1,0 +1,26 @@
+# redux-injector
+
+> 标签: react, redux
+
+## 简介
+
+Allows dynamically injecting reducers into a redux store at runtime.
+
+## 官网
+
+- 官网：https://github.com/randallknutson/redux-injector#readme
+- 源码仓库：git+https://github.com/randallknutson/redux-injector.git
+- npm 页面：https://www.npmjs.com/package/redux-injector
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.1
+- 0.0.2
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install redux-injector`
+- npm registry：https://registry.npmjs.org/redux-injector

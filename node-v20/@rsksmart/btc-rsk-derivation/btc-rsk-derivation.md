@@ -1,0 +1,24 @@
+# @rsksmart/btc-rsk-derivation
+
+> 标签: address, bitcoin, btc, crypto, rsk
+
+## 简介
+
+Tool can be used to derive a BTC private key from an RSK private key and address, and vice versa.
+
+## 官网
+
+- 官网：https://github.com/rsksmart/btc-rsk-derivation/#readme
+- npm 页面：https://www.npmjs.com/package/@rsksmart/btc-rsk-derivation
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @rsksmart/btc-rsk-derivation`
+- npm registry：https://registry.npmjs.org/@rsksmart/btc-rsk-derivation

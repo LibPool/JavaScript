@@ -1,0 +1,23 @@
+# angular-promise-debounce
+
+> 标签: JavaScript
+
+## 简介
+
+Inspired by other promise-debounce plugins. Unlike other plugins, this one works with angular promises.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/angular-promise-debounce
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install angular-promise-debounce`
+- npm registry：https://registry.npmjs.org/angular-promise-debounce

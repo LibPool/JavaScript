@@ -1,0 +1,34 @@
+# @standard-release/cli
+
+> 标签: JavaScript
+
+## 简介
+
+Publish new project to NPM following Conventional Commits specification and SemVer. Uses [git-commits-since][] for detecting git commits since last SemVer tag and [detect-next-version][] for what next version bump should be.
+
+## 官网
+
+- 官网：https://github.com/standard-release/cli
+- 源码仓库：git+https://github.com/standard-release/cli.git
+- npm 页面：https://www.npmjs.com/package/@standard-release/cli
+
+## 历史版本号
+
+- 当前版本：2.4.4
+
+- 1.3.4
+- 2.0.0
+- 2.1.0
+- 2.2.0
+- 2.3.0
+- 2.4.0
+- 2.4.1
+- 2.4.2
+- 2.4.3
+- 2.4.4
+
+## 获取地址
+
+- npm 安装：`npm install @standard-release/cli`
+- npm registry：https://registry.npmjs.org/@standard-release/cli
+- Node 要求：^8.10.0 || >=10.13.0

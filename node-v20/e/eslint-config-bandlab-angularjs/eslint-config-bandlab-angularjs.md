@@ -1,0 +1,35 @@
+# eslint-config-bandlab-angularjs
+
+> 标签: angular, bandlab, config, eslint, eslintconfig, javascript, styleguide
+
+## 简介
+
+BandLab's ESLint config for AngularJS, following our styleguide
+
+## 官网
+
+- 官网：https://github.com/bandlab/eslint-config-bandlab
+- 源码仓库：git+https://github.com/bandlab/eslint-config-bandlab.git
+- npm 页面：https://www.npmjs.com/package/eslint-config-bandlab-angularjs
+
+## 历史版本号
+
+- 当前版本：2.5.0
+
+- 0.2.0
+- 0.3.0
+- 0.4.0
+- 0.4.1
+- 0.4.2
+- 1.0.1
+- 2.0.0
+- 2.1.0
+- 2.2.0
+- 2.3.0
+- 2.4.0
+- 2.5.0
+
+## 获取地址
+
+- npm 安装：`npm install eslint-config-bandlab-angularjs`
+- npm registry：https://registry.npmjs.org/eslint-config-bandlab-angularjs

@@ -1,0 +1,30 @@
+# node-prelude
+
+> 标签: functional, functional-programming, haskell, library, prelude, utility
+
+## 简介
+
+A port of the Haskell Prelude to JavaScript/NodeJS
+
+## 官网
+
+- 官网：https://github.com/scravy/node-prelude
+- 源码仓库：https://github.com/scravy/node-prelude.git
+- npm 页面：https://www.npmjs.com/package/node-prelude
+
+## 历史版本号
+
+- 当前版本：0.6.1
+
+- 0.1.0
+- 0.2.0
+- 0.3.0
+- 0.4.0
+- 0.5.0
+- 0.6.0
+- 0.6.1
+
+## 获取地址
+
+- npm 安装：`npm install node-prelude`
+- npm registry：https://registry.npmjs.org/node-prelude

@@ -1,0 +1,35 @@
+# eslint-config-epiloque
+
+> 标签: config, epiloque, eslint, eslintconfig, javascript, styleguide
+
+## 简介
+
+Personal eslint configuration
+
+## 官网
+
+- 官网：https://github.com/epiloque/eslint-config-epiloque
+- 源码仓库：git+ssh://git@github.com/epiloque/eslint-config-epiloque.git
+- npm 页面：https://www.npmjs.com/package/eslint-config-epiloque
+
+## 历史版本号
+
+- 当前版本：3.0.1
+
+- 2.3.3
+- 2.3.4
+- 2.3.6
+- 2.3.7
+- 2.4.0
+- 2.4.2
+- 2.4.3
+- 2.4.4
+- 2.4.5
+- 2.5.0
+- 3.0.0
+- 3.0.1
+
+## 获取地址
+
+- npm 安装：`npm install eslint-config-epiloque`
+- npm registry：https://registry.npmjs.org/eslint-config-epiloque

@@ -1,0 +1,24 @@
+# recursive-copy-progress
+
+> 标签: JavaScript
+
+## 简介
+
+Recursive copy with progress emitter
+
+## 官网
+
+- 官网：https://github.com/ksinas/recursive-copy-progress
+- 源码仓库：https://github.com/ksinas/recursive-copy-progress.git
+- npm 页面：https://www.npmjs.com/package/recursive-copy-progress
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install recursive-copy-progress`
+- npm registry：https://registry.npmjs.org/recursive-copy-progress

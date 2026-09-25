@@ -1,0 +1,24 @@
+# algorithm
+
+> 标签: JavaScript
+
+## 简介
+
+A collection of Data Structures & Algorithms in javascript
+
+## 官网
+
+- 官网：https://github.com/directidhruv/algorithm-js
+- npm 页面：https://www.npmjs.com/package/algorithm
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install algorithm`
+- npm registry：https://registry.npmjs.org/algorithm
+- Node 要求：*

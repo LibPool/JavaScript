@@ -1,0 +1,23 @@
+# firebase-easy-tools
+
+> 标签: JavaScript
+
+## 简介
+
+[![GitHub Pages](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://hichemsmairia.github.io/firebase-easy-tools/)
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/firebase-easy-tools
+
+## 历史版本号
+
+- 当前版本：1.5.0
+
+- 1.3.0
+- 1.5.0
+
+## 获取地址
+
+- npm 安装：`npm install firebase-easy-tools`
+- npm registry：https://registry.npmjs.org/firebase-easy-tools

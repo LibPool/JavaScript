@@ -1,0 +1,24 @@
+# jest-test-custom-events
+
+> 标签: CustomEvent, jest, test
+
+## 简介
+
+Jest test matchers for comparing custom events
+
+## 官网
+
+- 官网：https://github.com/evanoc3/jest-test-custom-events#readme
+- 源码仓库：git+https://github.com/evanoc3/jest-test-custom-events.git
+- npm 页面：https://www.npmjs.com/package/jest-test-custom-events
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install jest-test-custom-events`
+- npm registry：https://registry.npmjs.org/jest-test-custom-events

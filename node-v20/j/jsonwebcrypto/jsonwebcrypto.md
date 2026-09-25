@@ -1,0 +1,32 @@
+# jsonwebcrypto
+
+> 标签: crypto, encryption, nodejs, typescript
+
+## 简介
+
+A utility library for working with crypto in Node.js
+
+## 官网
+
+- 官网：https://github.com/lafvg12/jsonwebcrypto#readme
+- 源码仓库：git+https://github.com/lafvg12/jsonwebcrypto.git
+- npm 页面：https://www.npmjs.com/package/jsonwebcrypto
+
+## 历史版本号
+
+- 当前版本：1.4.1
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.0
+- 1.1.1
+- 1.2.0
+- 1.3.0
+- 1.4.0
+- 1.4.1
+
+## 获取地址
+
+- npm 安装：`npm install jsonwebcrypto`
+- npm registry：https://registry.npmjs.org/jsonwebcrypto

@@ -1,0 +1,36 @@
+# anna-remax-ui
+
+> 标签: component, components, mini-program, miniapp, react, react-component, remax, remax-ui, ui, wechat
+
+## 简介
+
+优雅、简洁的 Remax 组件库
+
+## 官网
+
+- 官网：https://annasearl.github.io/anna-remax-ui
+- 源码仓库：git+https://github.com/AnnaSearl/annar.git
+- npm 页面：https://www.npmjs.com/package/anna-remax-ui
+
+## 历史版本号
+
+- 当前版本：1.9.3
+
+- 1.8.2
+- 1.8.3
+- 1.8.4
+- 1.8.5
+- 1.8.6
+- 1.8.7
+- 1.8.8
+- 1.8.9
+- 1.9.0
+- 1.9.1
+- 1.9.2
+- 1.9.3
+- 共 89 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install anna-remax-ui`
+- npm registry：https://registry.npmjs.org/anna-remax-ui

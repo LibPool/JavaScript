@@ -1,0 +1,26 @@
+# @panneau/schemas
+
+> 标签: JavaScript
+
+## 简介
+
+JSON Schemas for Panneau
+
+## 官网
+
+- 官网：https://github.com/folkloreinc/panneau-js
+- 源码仓库：git+https://github.com/folkloreinc/panneau-js.git
+- npm 页面：https://www.npmjs.com/package/@panneau/schemas
+
+## 历史版本号
+
+- 当前版本：1.0.1-alpha.0
+
+- 0.0.9
+- 0.9.0
+- 1.0.1-alpha.0
+
+## 获取地址
+
+- npm 安装：`npm install @panneau/schemas`
+- npm registry：https://registry.npmjs.org/@panneau/schemas

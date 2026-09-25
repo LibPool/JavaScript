@@ -1,0 +1,24 @@
+# find-recursively
+
+> 标签: JavaScript
+
+## 简介
+
+Depth-first recursively find a property, this function handles arrays and objects.
+
+## 官网
+
+- 官网：https://github.com/wells-sde/find-recursively#readme
+- 源码仓库：git+https://github.com/wells-sde/find-recursively.git
+- npm 页面：https://www.npmjs.com/package/find-recursively
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install find-recursively`
+- npm registry：https://registry.npmjs.org/find-recursively

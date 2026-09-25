@@ -1,0 +1,29 @@
+# springmvcform-to-json
+
+> 标签: json, springmvc
+
+## 简介
+
+Convert Spring-MVC form fields to JSON representation
+
+## 官网
+
+- 官网：https://github.com/donnchadh/springmvcform-to-json#readme
+- 源码仓库：git+https://github.com/donnchadh/springmvcform-to-json.git
+- npm 页面：https://www.npmjs.com/package/springmvcform-to-json
+
+## 历史版本号
+
+- 当前版本：2.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 2.0.0
+- 2.0.1
+- 2.0.2
+
+## 获取地址
+
+- npm 安装：`npm install springmvcform-to-json`
+- npm registry：https://registry.npmjs.org/springmvcform-to-json

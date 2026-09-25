@@ -1,0 +1,30 @@
+# eslint-cli-bundle
+
+> 标签: JavaScript
+
+## 简介
+
+Bundled version of eslint
+
+## 官网
+
+- 官网：https://github.com/silverwind/eslint-cli-bundle#readme
+- 源码仓库：git+https://github.com/silverwind/eslint-cli-bundle.git
+- npm 页面：https://www.npmjs.com/package/eslint-cli-bundle
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install eslint-cli-bundle`
+- npm registry：https://registry.npmjs.org/eslint-cli-bundle
+- Node 要求：^20.19.0 || ^22.13.0 || >=24

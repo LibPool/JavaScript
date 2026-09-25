@@ -1,0 +1,28 @@
+# weighted-round-robin
+
+> 标签: JavaScript
+
+## 简介
+
+a weighted round robin module
+
+## 官网
+
+- 官网：https://github.com/henry42/weighted-round-robin
+- 源码仓库：https://github.com/henry42/weighted-round-robin
+- npm 页面：https://www.npmjs.com/package/weighted-round-robin
+
+## 历史版本号
+
+- 当前版本：2.0.2
+
+- 1.0.4
+- 1.0.5
+- 2.0.0
+- 2.0.1
+- 2.0.2
+
+## 获取地址
+
+- npm 安装：`npm install weighted-round-robin`
+- npm registry：https://registry.npmjs.org/weighted-round-robin

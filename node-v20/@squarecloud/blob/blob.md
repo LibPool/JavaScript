@@ -1,0 +1,36 @@
+# @squarecloud/blob
+
+> 标签: api, blob, cloud, s3, sdk, square, squarecloud, storage
+
+## 简介
+
+Official Square Cloud Blob SDK for NodeJS
+
+## 官网
+
+- 官网：https://github.com/squarecloudofc/sdk-blob-js#readme
+- 源码仓库：git+https://github.com/squarecloudofc/sdk-blob-js.git
+- npm 页面：https://www.npmjs.com/package/@squarecloud/blob
+
+## 历史版本号
+
+- 当前版本：2.0.2
+
+- 1.0.1
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 1.3.1
+- 1.4.0
+- 1.4.1
+- 1.4.2
+- 1.4.3
+- 2.0.0
+- 2.0.1
+- 2.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @squarecloud/blob`
+- npm registry：https://registry.npmjs.org/@squarecloud/blob
+- Node 要求：>=20.0.0

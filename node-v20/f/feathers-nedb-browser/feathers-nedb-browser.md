@@ -1,0 +1,26 @@
+# feathers-nedb-browser
+
+> 标签: REST, Socket.io, feathers, feathers-plugin, nedb, realtime, service
+
+## 简介
+
+Feathers NeDB Service
+
+## 官网
+
+- 官网：https://github.com/feathersjs-ecosystem/feathers-nedb
+- 源码仓库：git+https://github.com/feathersjs-ecosystem/feathers-nedb.git
+- npm 页面：https://www.npmjs.com/package/feathers-nedb-browser
+
+## 历史版本号
+
+- 当前版本：7.0.1
+
+- 7.0.0
+- 7.0.1
+
+## 获取地址
+
+- npm 安装：`npm install feathers-nedb-browser`
+- npm registry：https://registry.npmjs.org/feathers-nedb-browser
+- Node 要求：>= 16

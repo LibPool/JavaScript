@@ -1,0 +1,24 @@
+# @ravijp/slate_ravi
+
+> 标签: canvas, contenteditable, custom, document, edit, editor, html, immutable, markdown, medium, paper, react, rich, richtext, slate, text, wysiwyg, wysiwym
+
+## 简介
+
+A completely customizable framework for building rich text editors.
+
+## 官网
+
+- 官网：https://github.com/ianstormtaylor/slate#readme
+- 源码仓库：git://github.com/ianstormtaylor/slate.git
+- npm 页面：https://www.npmjs.com/package/@ravijp/slate_ravi
+
+## 历史版本号
+
+- 当前版本：0.57.2
+
+- 0.57.2
+
+## 获取地址
+
+- npm 安装：`npm install @ravijp/slate_ravi`
+- npm registry：https://registry.npmjs.org/@ravijp/slate_ravi

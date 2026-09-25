@@ -1,0 +1,24 @@
+# karma-effroi
+
+> 标签: effroi, karma-adapter, karma-plugin
+
+## 简介
+
+A Karma plugin - adapter for Effroi device simulation framework.
+
+## 官网
+
+- 官网：https://github.com/francejs/karma-effroi
+- 源码仓库：git://github.com/francejs/karma-effroi.git
+- npm 页面：https://www.npmjs.com/package/karma-effroi
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install karma-effroi`
+- npm registry：https://registry.npmjs.org/karma-effroi

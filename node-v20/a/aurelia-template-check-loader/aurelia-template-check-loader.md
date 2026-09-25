@@ -1,0 +1,25 @@
+# aurelia-template-check-loader
+
+> 标签: aurelia, check, loader, sanity, template, webpack
+
+## 简介
+
+Sanity check of Aurelia templates for Webpack
+
+## 官网
+
+- 官网：https://github.com/726b/aurelia-template-check-loader
+- 源码仓库：git+https://github.com/726b/aurelia-template-check-loader.git
+- npm 页面：https://www.npmjs.com/package/aurelia-template-check-loader
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install aurelia-template-check-loader`
+- npm registry：https://registry.npmjs.org/aurelia-template-check-loader

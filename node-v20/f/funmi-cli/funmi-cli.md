@@ -1,0 +1,26 @@
+# funmi-cli
+
+> 标签: cli, funmi, spa
+
+## 简介
+
+A simple CLI for scaffolding Funmi's vue.js admin projects.
+
+## 官网
+
+- 官网：https://github.com/Funmi/funmi-cli#readme
+- 源码仓库：git+https://github.com/Funmi/funmi-cli.git
+- npm 页面：https://www.npmjs.com/package/funmi-cli
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install funmi-cli`
+- npm registry：https://registry.npmjs.org/funmi-cli
+- Node 要求：>=6.0.0

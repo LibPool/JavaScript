@@ -1,0 +1,35 @@
+# @sliit-foss/http-logger
+
+> 标签: JavaScript
+
+## 简介
+
+Http logging middleware for Express.js
+
+## 官网
+
+- 官网：https://github.com/sliit-foss/npm-catalogue/blob/main/packages/http-logger/readme.md
+- 源码仓库：git+https://github.com/sliit-foss/npm-catalogue.git
+- npm 页面：https://www.npmjs.com/package/@sliit-foss/http-logger
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.0.1
+- 1.1.0
+- 1.1.0-blizzard.0
+- 1.1.1
+- 1.1.2
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.3.0
+- 1.3.1
+- 1.4.0
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @sliit-foss/http-logger`
+- npm registry：https://registry.npmjs.org/@sliit-foss/http-logger

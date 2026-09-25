@@ -1,0 +1,35 @@
+# @janus-idp/backstage-plugin-dynamic-plugins-info
+
+> 标签: backstage, lifecycle:active, plugin, support:production
+
+## 简介
+
+The dynamic-plugins-info plugin is a frontend component for the [dynamic-plugins-info-backend](https://github.com/janus-idp/backstage-showcase/tree/main/plugins/dynamic-plugins-info-backend) plugin. It offers a simple table of plugins that are currently i
+
+## 官网
+
+- 官网：https://red.ht/rhdh
+- 源码仓库：git+https://github.com/janus-idp/backstage-plugins.git
+- npm 页面：https://www.npmjs.com/package/@janus-idp/backstage-plugin-dynamic-plugins-info
+
+## 历史版本号
+
+- 当前版本：1.6.0
+
+- 1.1.1
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.2.3
+- 1.2.4
+- 1.2.5
+- 1.3.0
+- 1.4.0
+- 1.5.0
+- 1.5.1
+- 1.6.0
+
+## 获取地址
+
+- npm 安装：`npm install @janus-idp/backstage-plugin-dynamic-plugins-info`
+- npm registry：https://registry.npmjs.org/@janus-idp/backstage-plugin-dynamic-plugins-info

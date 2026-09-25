@@ -1,0 +1,29 @@
+# yymini-pop-center
+
+> 标签: confirm, douyin, miniProgram, modal, weixin, 居中弹出框, 弹出框, 微信小程序, 抖音小程序
+
+## 简介
+
+小程序（抖音、微信）-居中确认弹出框自定义组件
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/yymini-pop-center
+
+## 历史版本号
+
+- 当前版本：1.0.7
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+
+## 获取地址
+
+- npm 安装：`npm install yymini-pop-center`
+- npm registry：https://registry.npmjs.org/yymini-pop-center

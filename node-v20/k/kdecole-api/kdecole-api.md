@@ -1,0 +1,35 @@
+# kdecole-api
+
+> 标签: API, Kdecole, Kosmos, Mon Bureau Numérique, Skolengo
+
+## 简介
+
+Unofficial API client of Kdecole
+
+## 官网
+
+- 官网：https://github.com/maelgangloff/kdecole-api#readme
+- 源码仓库：git+https://github.com/maelgangloff/kdecole-api.git
+- npm 页面：https://www.npmjs.com/package/kdecole-api
+
+## 历史版本号
+
+- 当前版本：1.4.7
+
+- 1.2.8
+- 1.2.9
+- 1.3.0
+- 1.3.6
+- 1.3.7
+- 1.4.0
+- 1.4.1
+- 1.4.3
+- 1.4.4
+- 1.4.5
+- 1.4.6
+- 1.4.7
+
+## 获取地址
+
+- npm 安装：`npm install kdecole-api`
+- npm registry：https://registry.npmjs.org/kdecole-api

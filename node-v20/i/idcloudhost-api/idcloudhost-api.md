@@ -1,0 +1,24 @@
+# idcloudhost-api
+
+> 标签: api, client, idcloudhost, idcloudhost-api, idcloudhost-api-Module, node
+
+## 简介
+
+Unofficial IDCloudhost Javascript API Module
+
+## 官网
+
+- 官网：https://github.com/sonofescobar1337/idcloudhost-api#readme
+- 源码仓库：git+https://github.com/sonofescobar1337/idcloudhost-api.git
+- npm 页面：https://www.npmjs.com/package/idcloudhost-api
+
+## 历史版本号
+
+- 当前版本：2024.2.6
+
+- 2024.2.6
+
+## 获取地址
+
+- npm 安装：`npm install idcloudhost-api`
+- npm registry：https://registry.npmjs.org/idcloudhost-api

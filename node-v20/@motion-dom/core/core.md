@@ -1,0 +1,22 @@
+# @motion-dom/core
+
+> 标签: animation, motion-canvas, react
+
+## 简介
+
+@motion-dom/core - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@motion-dom/core
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @motion-dom/core`
+- npm registry：https://registry.npmjs.org/@motion-dom/core

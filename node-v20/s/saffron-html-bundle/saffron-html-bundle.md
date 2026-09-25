@@ -1,0 +1,23 @@
+# saffron-html-bundle
+
+> 标签: JavaScript
+
+## 简介
+
+saffron-html-bundle - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/saffron-html-bundle
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install saffron-html-bundle`
+- npm registry：https://registry.npmjs.org/saffron-html-bundle

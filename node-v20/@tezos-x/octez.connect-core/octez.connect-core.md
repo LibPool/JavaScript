@@ -1,0 +1,35 @@
+# @tezos-x/octez.connect-core
+
+> 标签: JavaScript
+
+## 简介
+
+This package contains internal methods that are used by both the dApp and wallet client.
+
+## 官网
+
+- 官网：https://octez-connect.tezos.com
+- 源码仓库：git+https://github.com/trilitech/octez.connect.git
+- npm 页面：https://www.npmjs.com/package/@tezos-x/octez.connect-core
+
+## 历史版本号
+
+- 当前版本：5.0.4
+
+- 4.8.4
+- 4.8.5
+- 4.8.6
+- 5.0.0-beta.3
+- 5.0.0-beta.4
+- 5.0.0-beta.5
+- 5.0.0-beta.6
+- 5.0.0-beta.7
+- 5.0.1
+- 5.0.2
+- 5.0.3
+- 5.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @tezos-x/octez.connect-core`
+- npm registry：https://registry.npmjs.org/@tezos-x/octez.connect-core

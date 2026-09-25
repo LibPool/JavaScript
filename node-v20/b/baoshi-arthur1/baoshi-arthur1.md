@@ -1,0 +1,24 @@
+# baoshi-arthur1
+
+> 标签: JavaScript
+
+## 简介
+
+基于业务形成的一个业务框架
+
+## 官网
+
+- 官网：https://github.com/xubaoshi/arthur#readme
+- 源码仓库：git+https://github.com/xubaoshi/arthur.git
+- npm 页面：https://www.npmjs.com/package/baoshi-arthur1
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install baoshi-arthur1`
+- npm registry：https://registry.npmjs.org/baoshi-arthur1

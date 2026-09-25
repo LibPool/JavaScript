@@ -1,0 +1,25 @@
+# @wild-framework/resources
+
+> 标签: api, framework, resources, transform, wild
+
+## 简介
+
+API resource transformation for Wild Framework.
+
+## 官网
+
+- 官网：https://github.com/KhandaSoftware/wild-framework#readme
+- 源码仓库：git+https://github.com/KhandaSoftware/wild-framework.git
+- npm 页面：https://www.npmjs.com/package/@wild-framework/resources
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @wild-framework/resources`
+- npm registry：https://registry.npmjs.org/@wild-framework/resources

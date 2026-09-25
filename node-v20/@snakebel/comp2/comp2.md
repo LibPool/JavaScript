@@ -1,0 +1,25 @@
+# @snakebel/comp2
+
+> 标签: JavaScript
+
+## 简介
+
+@snakebel/comp2 - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/snakebel/snakebel#readme
+- 源码仓库：git+https://github.com/snakebel/snakebel.git
+- npm 页面：https://www.npmjs.com/package/@snakebel/comp2
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @snakebel/comp2`
+- npm registry：https://registry.npmjs.org/@snakebel/comp2

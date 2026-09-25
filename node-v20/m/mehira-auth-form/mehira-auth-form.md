@@ -1,0 +1,24 @@
+# mehira-auth-form
+
+> 标签: auth-form\, mehira
+
+## 简介
+
+Reusable auth form made by mehira
+
+## 官网
+
+- 官网：https://github.com/Boniqx/test-mehira-embed#readme
+- 源码仓库：git+https://github.com/Boniqx/test-mehira-embed.git
+- npm 页面：https://www.npmjs.com/package/mehira-auth-form
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install mehira-auth-form`
+- npm registry：https://registry.npmjs.org/mehira-auth-form

@@ -1,0 +1,36 @@
+# kronos-interceptor-decode-json
+
+> 标签: kronos-interceptor
+
+## 简介
+
+decodes json streams into objects
+
+## 官网
+
+- 官网：https://github.com/Kronos-Integration/kronos-interceptor-decode-json#readme
+- 源码仓库：git+https://github.com/Kronos-Integration/kronos-interceptor-decode-json.git
+- npm 页面：https://www.npmjs.com/package/kronos-interceptor-decode-json
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.10
+- 1.0.11
+- 1.0.12
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install kronos-interceptor-decode-json`
+- npm registry：https://registry.npmjs.org/kronos-interceptor-decode-json
+- Node 要求：>=10.6

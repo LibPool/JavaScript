@@ -1,0 +1,36 @@
+# @lomray/microservice-nodejs-lib
+
+> 标签: gateway, inverted, js, json, microservice, node, typescript, worker
+
+## 简介
+
+Package for create microservice architecture based on NodeJS & inverted json.
+
+## 官网
+
+- 官网：https://github.com/Lomray-Software/microservice-nodejs-lib
+- 源码仓库：git+https://github.com/Lomray-Software/microservice-nodejs-lib.git
+- npm 页面：https://www.npmjs.com/package/@lomray/microservice-nodejs-lib
+
+## 历史版本号
+
+- 当前版本：3.0.0
+
+- 2.4.3
+- 2.4.4
+- 2.4.5
+- 2.5.0
+- 2.5.1
+- 2.5.2
+- 2.6.0
+- 2.7.0
+- 2.8.0
+- 2.8.1
+- 2.9.0
+- 3.0.0
+- 共 55 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @lomray/microservice-nodejs-lib`
+- npm registry：https://registry.npmjs.org/@lomray/microservice-nodejs-lib

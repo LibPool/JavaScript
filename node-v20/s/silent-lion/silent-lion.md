@@ -1,0 +1,26 @@
+# silent-lion
+
+> 标签: JavaScript
+
+## 简介
+
+An attempt to automate some of my express.js workflow
+
+## 官网
+
+- 官网：https://github.com/DavidTamakloe/silent-lion#readme
+- 源码仓库：git+https://github.com/DavidTamakloe/silent-lion.git
+- npm 页面：https://www.npmjs.com/package/silent-lion
+
+## 历史版本号
+
+- 当前版本：0.2.1
+
+- 0.1.0
+- 0.2.0
+- 0.2.1
+
+## 获取地址
+
+- npm 安装：`npm install silent-lion`
+- npm registry：https://registry.npmjs.org/silent-lion

@@ -1,0 +1,24 @@
+# phyllo-connect
+
+> 标签: Phyllo, getphyllo, phyllo-sdk, react-native
+
+## 简介
+
+Phyllo Connect
+
+## 官网
+
+- 官网：https://github.com/getphyllo/phyllo-connect-reactnative/issues
+- 源码仓库：git+https://github.com/getphyllo/phyllo-connect-reactnative.git
+- npm 页面：https://www.npmjs.com/package/phyllo-connect
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install phyllo-connect`
+- npm registry：https://registry.npmjs.org/phyllo-connect

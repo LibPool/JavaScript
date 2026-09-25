@@ -1,0 +1,31 @@
+# geometrix-widget
+
+> 标签: JavaScript
+
+## 简介
+
+This package builds the browser widget used by the Python frontend. The build output lives in `js/dist` and is copied into the Python package under `src/geometrix/static`.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/geometrix-widget
+
+## 历史版本号
+
+- 当前版本：0.1.9
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install geometrix-widget`
+- npm registry：https://registry.npmjs.org/geometrix-widget

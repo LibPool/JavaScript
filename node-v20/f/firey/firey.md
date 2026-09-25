@@ -1,0 +1,26 @@
+# firey
+
+> 标签: firey, koa
+
+## 简介
+
+A cross-era framework for Node Js Web services
+
+## 官网
+
+- 官网：https://github.com/ziyiLike/Firey#readme
+- 源码仓库：git+https://github.com/ziyiLike/Firey.git
+- npm 页面：https://www.npmjs.com/package/firey
+
+## 历史版本号
+
+- 当前版本：0.0.3-12
+
+- 0.0.3-10
+- 0.0.3-11
+- 0.0.3-12
+
+## 获取地址
+
+- npm 安装：`npm install firey`
+- npm registry：https://registry.npmjs.org/firey

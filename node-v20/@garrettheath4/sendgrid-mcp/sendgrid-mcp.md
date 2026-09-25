@@ -1,0 +1,23 @@
+# @garrettheath4/sendgrid-mcp
+
+> 标签: JavaScript
+
+## 简介
+
+Send emails and interact with SendGrid
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@garrettheath4/sendgrid-mcp
+
+## 历史版本号
+
+- 当前版本：2.0.1
+
+- 2.0.0
+- 2.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @garrettheath4/sendgrid-mcp`
+- npm registry：https://registry.npmjs.org/@garrettheath4/sendgrid-mcp

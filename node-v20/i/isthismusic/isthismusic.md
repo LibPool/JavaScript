@@ -1,0 +1,24 @@
+# isthismusic
+
+> 标签: isthis, music, node
+
+## 简介
+
+make judgement whether the keyword provided relates to a piece of music.
+
+## 官网
+
+- 官网：https://github.com/lifeinoppo/isthismusic#readme
+- 源码仓库：git+https://github.com/lifeinoppo/isthismusic.git
+- npm 页面：https://www.npmjs.com/package/isthismusic
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install isthismusic`
+- npm registry：https://registry.npmjs.org/isthismusic

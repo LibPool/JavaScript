@@ -1,0 +1,25 @@
+# version-upgrad
+
+> 标签: action, github, nodejs, version
+
+## 简介
+
+A github action that makes sure that git tag and version in package.json match
+
+## 官网
+
+- 官网：https://github.com/skbhati199/version-upgrad#readme
+- 源码仓库：git+ssh://git@github.com/skbhati199/version-upgrad.git
+- npm 页面：https://www.npmjs.com/package/version-upgrad
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install version-upgrad`
+- npm registry：https://registry.npmjs.org/version-upgrad

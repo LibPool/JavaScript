@@ -1,0 +1,23 @@
+# day3npmpackage10fng
+
+> 标签: Array_packageGd3
+
+## 简介
+
+A collection of utility functions for array operations, including sum, multiplication, average, finding odd/even numbers, maximum/minimum values, reversing, and sorting.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/day3npmpackage10fng
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install day3npmpackage10fng`
+- npm registry：https://registry.npmjs.org/day3npmpackage10fng

@@ -1,0 +1,36 @@
+# @sequencemedia/css-purge
+
+> 标签: JavaScript
+
+## 简介
+
+A CSS tool written in Node JS as a command line app or library for the purging, burning, reducing, shortening, compressing, cleaning, trimming and formatting of duplicate, extra, excess or bloated CSS.
+
+## 官网
+
+- 官网：https://github.com/sequencemedia
+- 源码仓库：git+https://github.com/sequencemedia/css-purge.git
+- npm 页面：https://www.npmjs.com/package/@sequencemedia/css-purge
+
+## 历史版本号
+
+- 当前版本：1.0.272
+
+- 1.0.261
+- 1.0.262
+- 1.0.263
+- 1.0.264
+- 1.0.265
+- 1.0.266
+- 1.0.267
+- 1.0.268
+- 1.0.269
+- 1.0.270
+- 1.0.271
+- 1.0.272
+- 共 273 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @sequencemedia/css-purge`
+- npm registry：https://registry.npmjs.org/@sequencemedia/css-purge

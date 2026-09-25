@@ -1,0 +1,28 @@
+# rn-phone-number-mask
+
+> 标签: Mask, Phone, Phone-Mask, Phone-Number, React-Native
+
+## 简介
+
+US telephone mask for text input
+
+## 官网
+
+- 官网：https://github.com/julianbonomini/rn-phone-number-mask#readme
+- 源码仓库：git+https://github.com/julianbonomini/rn-phone-number-mask.git
+- npm 页面：https://www.npmjs.com/package/rn-phone-number-mask
+
+## 历史版本号
+
+- 当前版本：1.1.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.1.3
+
+## 获取地址
+
+- npm 安装：`npm install rn-phone-number-mask`
+- npm registry：https://registry.npmjs.org/rn-phone-number-mask

@@ -1,0 +1,30 @@
+# @playpilot/opw
+
+> 标签: JavaScript
+
+## 简介
+
+Widgets (currently there is only 1) are build into a single file. This file is build using `npm run build:webcomponents`, this builds a `.es` and `.umd` file. You'll really only need the `.umd` file.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@playpilot/opw
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.1.0
+- 1.1.1
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @playpilot/opw`
+- npm registry：https://registry.npmjs.org/@playpilot/opw
+- Node 要求：20 || >=22

@@ -1,0 +1,25 @@
+# @is-(unknown)/is-string
+
+> 标签: is
+
+## 简介
+
+Check if a value is a string primitive.
+
+## 官网
+
+- 官网：https://github.com/is-unknown/is-string#readme
+- 源码仓库：git+https://github.com/is-unknown/is-string.git
+- npm 页面：https://www.npmjs.com/package/@is-%28unknown%29/is-string
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @is-(unknown)/is-string`
+- npm registry：https://registry.npmjs.org/@is-%28unknown%29/is-string

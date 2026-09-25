@@ -1,0 +1,26 @@
+# easy-yml
+
+> 标签: config, data, easy-yml, javascript, node.js, npm, yml
+
+## 简介
+
+The easy way to make, edit and read yml files.
+
+## 官网
+
+- 官网：https://github.com/michalcz17/easy-yml#readme
+- 源码仓库：git+https://github.com/michalcz17/easy-yml.git
+- npm 页面：https://www.npmjs.com/package/easy-yml
+
+## 历史版本号
+
+- 当前版本：2.1.0
+
+- 1.0.0
+- 2.0.0
+- 2.1.0
+
+## 获取地址
+
+- npm 安装：`npm install easy-yml`
+- npm registry：https://registry.npmjs.org/easy-yml

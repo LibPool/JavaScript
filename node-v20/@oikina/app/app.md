@@ -1,0 +1,25 @@
+# @oikina/app
+
+> 标签: app, internal-tools, oikina
+
+## 简介
+
+Experimental convenience entry point for building Oikina Apps.
+
+## 官网
+
+- 官网：https://www.oikina.com
+- 源码仓库：git+https://github.com/MohtashamMurshid/oikina.git
+- npm 页面：https://www.npmjs.com/package/@oikina/app
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @oikina/app`
+- npm registry：https://registry.npmjs.org/@oikina/app
+- Node 要求：>=20

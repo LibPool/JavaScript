@@ -1,0 +1,24 @@
+# ember-test-helpers-addon
+
+> 标签: ember, ember-addon, testing
+
+## 简介
+
+Testing helpers for use with ember-cli apps
+
+## 官网
+
+- 官网：https://github.com/201-created/ember-test-helpers-addon
+- 源码仓库：http://github.com/201-created/ember-test-helpers-addon
+- npm 页面：https://www.npmjs.com/package/ember-test-helpers-addon
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install ember-test-helpers-addon`
+- npm registry：https://registry.npmjs.org/ember-test-helpers-addon

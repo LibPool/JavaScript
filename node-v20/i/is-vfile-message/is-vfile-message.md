@@ -1,0 +1,24 @@
+# is-vfile-message
+
+> 标签: bool, boolean, browser, check, checker, client-side, error, file, if, message, type, type-check, typecheck, vfile, virtual
+
+## 简介
+
+Check if a value is a VFileMessage object
+
+## 官网
+
+- 官网：https://github.com/shinnn/is-vfile-message#readme
+- 源码仓库：git+https://github.com/shinnn/is-vfile-message.git
+- npm 页面：https://www.npmjs.com/package/is-vfile-message
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install is-vfile-message`
+- npm registry：https://registry.npmjs.org/is-vfile-message

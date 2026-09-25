@@ -1,0 +1,24 @@
+# heading-interior-direct-native
+
+> 标签: component, components, design, framework, frontend, react, react-component, ui, web3
+
+## 简介
+
+heading-interior-direct-native
+
+## 官网
+
+- 官网：https://github.com/heading-interior-direct-native/heading-interior-direct-native#readme
+- 源码仓库：git+https://github.com/heading-interior-direct-native/heading-interior-direct-native.git
+- npm 页面：https://www.npmjs.com/package/heading-interior-direct-native
+
+## 历史版本号
+
+- 当前版本：50.4.744
+
+- 50.4.744
+
+## 获取地址
+
+- npm 安装：`npm install heading-interior-direct-native`
+- npm registry：https://registry.npmjs.org/heading-interior-direct-native

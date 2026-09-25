@@ -1,0 +1,28 @@
+# @fredabila/oahl
+
+> 标签: JavaScript
+
+## 简介
+
+Open Agent Hardware Layer (OAHL) - All-in-one Toolkit
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@fredabila/oahl
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.1.2
+- 0.1.4
+- 0.1.5
+- 0.1.6-rc.0
+- 0.1.6-rc.1
+- 0.1.6-rc.2
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @fredabila/oahl`
+- npm registry：https://registry.npmjs.org/@fredabila/oahl

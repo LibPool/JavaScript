@@ -1,0 +1,24 @@
+# simple-mq
+
+> 标签: message, mq, queue
+
+## 简介
+
+node-simple-mq 是一个简单易用的消息队列(MQ,message queue)库，使用 Node 写成，以 Reids 作为后端
+
+## 官网
+
+- 官网：https://github.com/glivia/node-simple-mq#readme
+- 源码仓库：git+https://github.com/glivia/node-simple-mq.git
+- npm 页面：https://www.npmjs.com/package/simple-mq
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install simple-mq`
+- npm registry：https://registry.npmjs.org/simple-mq

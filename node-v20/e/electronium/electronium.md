@@ -1,0 +1,26 @@
+# electronium
+
+> 标签: api, bi-directional, bridge, cjs, communication, electron, electronium, electronjs, esm, ipc, main process, promise, renderer, typescript
+
+## 简介
+
+Universal library to extend Electron functionality
+
+## 官网
+
+- 官网：https://github.com/kingomost/electronium#readme
+- 源码仓库：git+https://github.com/kingomost/electronium.git
+- npm 页面：https://www.npmjs.com/package/electronium
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install electronium`
+- npm registry：https://registry.npmjs.org/electronium
+- Node 要求：>=18

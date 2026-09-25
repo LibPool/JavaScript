@@ -1,0 +1,26 @@
+# @renfei/adblock-detect-react
+
+> 标签: ad, adblock, block, detect, hooks, react
+
+## 简介
+
+Provides utilities to check if ad block is enabled on a page via both a React hook and a wrapper component.
+
+## 官网
+
+- 官网：https://github.com/renfei/adblock-detect-react#readme
+- 源码仓库：git+https://github.com/renfei/adblock-detect-react.git
+- npm 页面：https://www.npmjs.com/package/@renfei/adblock-detect-react
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 1.1.0
+- 1.1.1
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @renfei/adblock-detect-react`
+- npm registry：https://registry.npmjs.org/@renfei/adblock-detect-react

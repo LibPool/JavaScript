@@ -1,0 +1,23 @@
+# @kishu279/create-node-starter
+
+> 标签: cli, generator, node, scaffold, starter, template, typescript
+
+## 简介
+
+Node.js starter template generator with TypeScript - run with npx @kishu279/create-node-starter
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@kishu279/create-node-starter
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @kishu279/create-node-starter`
+- npm registry：https://registry.npmjs.org/@kishu279/create-node-starter

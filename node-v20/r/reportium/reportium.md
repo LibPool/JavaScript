@@ -1,0 +1,27 @@
+# reportium
+
+> 标签: ai-analytics, bi, business-intelligence, charts, dashboard, duckdb, echarts, markdown, mdx, natural-language-query, nlq, react, reporting, semantic-layer, sql
+
+## 简介
+
+React BI reporting module inspired by Evidence - embeddable without standalone server
+
+## 官网
+
+- 官网：https://github.com/dzlabsch/reportium#readme
+- 源码仓库：git+https://github.com/dzlabsch/reportium.git
+- npm 页面：https://www.npmjs.com/package/reportium
+
+## 历史版本号
+
+- 当前版本：0.8.0
+
+- 0.1.0
+- 0.5.0
+- 0.7.0
+- 0.8.0
+
+## 获取地址
+
+- npm 安装：`npm install reportium`
+- npm registry：https://registry.npmjs.org/reportium

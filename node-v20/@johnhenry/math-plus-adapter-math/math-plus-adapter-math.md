@@ -1,0 +1,30 @@
+# @johnhenry/math-plus-adapter-math
+
+> 标签: JavaScript
+
+## 简介
+
+Bridge between @johnhenry/math (Vector/Matrix, science/CAS side) and @johnhenry/math-plus-tensor-core (Tensor, engineering side) — Matrix/Vector <-> Tensor conversion (issue #14); Symbolic->tensor-compile IR (issue #15) and Symbolic->frame-arrow Expr (iss
+
+## 官网
+
+- 官网：https://github.com/johnhenry/math-plus/tree/main/adapters/adapter-math
+- 源码仓库：git+https://github.com/johnhenry/math-plus.git
+- npm 页面：https://www.npmjs.com/package/@johnhenry/math-plus-adapter-math
+
+## 历史版本号
+
+- 当前版本：0.0.5
+
+- 0.0.0
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+
+## 获取地址
+
+- npm 安装：`npm install @johnhenry/math-plus-adapter-math`
+- npm registry：https://registry.npmjs.org/@johnhenry/math-plus-adapter-math
+- Node 要求：>=24.0.0

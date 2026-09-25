@@ -1,0 +1,24 @@
+# @emiplegiaqmnpm/dicta-aliquid-aut
+
+> 标签: .env, 0, 256, 6to5, @@toStringTag, Array, Array.prototype.contains, Array.prototype.findLast, Array.prototype.flat, ArrayBuffer, ArrayBuffer#slice, BigInt64Array, BigUint64Array, CSS, CSSStyleDeclaration, ECMAScript 2015, ECMAScript 2016, ECMAScript 2020, ECMAScript 2021, ECMAScript 2023, ECMAScript 3, ECMAScript 6, ECMAScript 7, ES2015, ES2016, ES2017, ES2018, ES2020, ES2021, ES2022, ES6, ES7, ES8, Function.prototype.name, HyBi, Int32Array, JSON, Map, Microsoft, Object.assign, Object.defineProperty, Object.entries, Object.fromEntries, Object.is, Object.keys, Promise, Push, RFC-6455, ReactiveExtensions, RegExp#flags, Rx, Set, String.prototype.matchAll, String.prototype.trim, Symbol, TypeBox, TypedArray, Uint16Array, Underscore, WeakMap, WeakSet, WebSockets, [[Prototype]], _.extend, accessibility, accessor, ajax, ajv, animation, ansi, app, args, argument, arguments, argv, array, arraybuffer, arrays, art, assertion, assign, async, await, awesomesauce, babel, babel-core, banner, batch, bcrypt, bdd, bootstrap less, bound, browser, browserlist, browserslist, buffer, bundler, byte, byteLength, byteOffset, cache, call, call-bind, call-bound, callback, callbound, censor, channel, check, child, chrome, chromium, classnames, cli, codes, colors, column, commander, compare, compile less, concatMap, concurrency, configurable, console, const, consume, copy, core, core-js, cors, css, css less, css nesting, curl, dataview, dayjs, debug, debugger, deep, deep-clone, defineProperty, delete, dependency manager, description, descriptor, dom-testing-library, dotenv, duplex, ecmascript, editor, efficient, electron, emit, emoji, encryption, ender, entries, env, environment, equal, error, error-handling, es, es-abstract, es-shim API, es-shims, es2016, es5, es7, eslint, eslint-plugin, eslintplugin, estree, eventEmitter, every, exec, express, expression, extend, fast, fast-clone, fast-copy, fast-deep-clone, fast-deep-copy, fastclone, fastify, figlet, file, file system, filter, find, fixed-width, flag, flags, folder, forEach, form, form-validation, fp, framer, fsevents, full, fullwidth, function, functional, functions, gdpr, generics, gestures, get, getOwnPropertyDescriptor, getopt, gradients css3, graphql, group, groupBy, guid, hardlinks, harmony, has, hasOwn, helpers, higher-order, hookform, hooks, http, https, idle, import, includes, indicator, inference, installer, internal slot, interrupts, intrinsic, io-ts, iteration, japanese, jasmine, joi, jsdiff, json-schema, json-schema-validator, jsonpath, jsonschema, jsx, karma, key, keys, l10n, language, last, launch, less, less compiler, less css, less mixins, let, limit, limited, loading, lockfile, logger, look, macos, map, match, matchAll, merge, middleware, mimetypes, minimal, mixins, mkdirp, mobile, module, modules, moment, name, negative, negative zero, nested css, node, npm, object, offset, once, opener, opens, operating-system, optimist, output, packages, parent, parents, parser, password, patch, path, persistent, pipe, plugin, pnpm9, pose, positive, postcss, postcss-plugin, prefix, preprocessor, pretty, private, process, promise, promises, prop, property, proto, protobuf, protocol-buffers, prune, pure, query, querystring, queue, queueMicrotask, quote, ramda, random, rapid, rate, react, react-hook-form, read, readable, readablestream, real-time, reduce, reducer, redux, redux-toolkit, regex, regexp, regular, regular expressions, remove, request, resolve, reuse, rfc4122, rm, robust, runtime, safe, sanitization, sanitize, schema, scheme-validation, serialization, serialize, serializer, set, sham, shared, shell, shim, shrinkwrap, side, signal, signals, sigterm, slice, slot, sorted, spawn, spinner, spinners, starter, stateless, status, stream, streams2, stringifier, stringify, structuredClone, styles, stylesheet, superagent, symbol, symlink, symlinks, syntax, tacit, tap, tc39, tdd, telephone, term, testing, text, three, throat, toStringTag, toobject, toolkit, tools, transpile, traverse, trim, trimEnd, trimLeft, trimRight, ts, tslib, tty, typanion, type, typedarray, typeerror, types, uninstall, up, url, util, util.inspect, utilities, valid, validator, values, variables, variables in css, view, waapi, wait, walking, warning, watchFile, watcher, watching, weakset, web, wget, width, wordwrap, workspace:*, writable, write, xterm, yup, zod
+
+## 简介
+
+> Explicit states for predictable user experiences
+
+## 官网
+
+- 官网：https://github.com/emiplegiaqmnpm/dicta-aliquid-aut/#readme
+- 源码仓库：git+https://github.com/emiplegiaqmnpm/dicta-aliquid-aut.git
+- npm 页面：https://www.npmjs.com/package/@emiplegiaqmnpm/dicta-aliquid-aut
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @emiplegiaqmnpm/dicta-aliquid-aut`
+- npm registry：https://registry.npmjs.org/@emiplegiaqmnpm/dicta-aliquid-aut

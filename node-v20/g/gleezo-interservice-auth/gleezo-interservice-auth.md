@@ -1,0 +1,24 @@
+# gleezo-interservice-auth
+
+> 标签: JavaScript
+
+## 简介
+
+gleezo-interservice-auth
+
+## 官网
+
+- 官网：https://github.com/NoaServices/gleezo-interservice-auth#readme
+- 源码仓库：git+https://github.com/NoaServices/gleezo-interservice-auth.git
+- npm 页面：https://www.npmjs.com/package/gleezo-interservice-auth
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install gleezo-interservice-auth`
+- npm registry：https://registry.npmjs.org/gleezo-interservice-auth

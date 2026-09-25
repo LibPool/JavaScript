@@ -1,0 +1,25 @@
+# @k1eu/typed-formdata
+
+> 标签: FormData, form, forms, request, typed
+
+## 简介
+
+A typed version of FormData
+
+## 官网
+
+- 官网：https://github.com/k1eu/typed-formdata#readme
+- 源码仓库：git+https://github.com/k1eu/typed-formdata.git
+- npm 页面：https://www.npmjs.com/package/@k1eu/typed-formdata
+
+## 历史版本号
+
+- 当前版本：0.9.1
+
+- 0.9.0
+- 0.9.1
+
+## 获取地址
+
+- npm 安装：`npm install @k1eu/typed-formdata`
+- npm registry：https://registry.npmjs.org/@k1eu/typed-formdata

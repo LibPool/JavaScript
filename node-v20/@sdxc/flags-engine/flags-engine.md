@@ -1,0 +1,26 @@
+# @sdxc/flags-engine
+
+> 标签: JavaScript
+
+## 简介
+
+Flag evaluation engine: typed targeting rules, percentage splits and pluggable stores
+
+## 官网
+
+- 官网：https://github.com/sergiodxa/monorepo#readme
+- 源码仓库：git+https://github.com/sergiodxa/monorepo.git
+- npm 页面：https://www.npmjs.com/package/@sdxc/flags-engine
+
+## 历史版本号
+
+- 当前版本：2026.9.16
+
+- 0.0.0-pre.1
+- 2026.9.15
+- 2026.9.16
+
+## 获取地址
+
+- npm 安装：`npm install @sdxc/flags-engine`
+- npm registry：https://registry.npmjs.org/@sdxc/flags-engine

@@ -1,0 +1,30 @@
+# react-fsm-router
+
+> 标签: fsm, react, react-router, router, statechart
+
+## 简介
+
+using statecharts concepts to build a simple declarative react router
+
+## 官网
+
+- 官网：https://github.com/paprikati/react-fsm-router#readme
+- 源码仓库：git+https://github.com/paprikati/react-fsm-router.git
+- npm 页面：https://www.npmjs.com/package/react-fsm-router
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install react-fsm-router`
+- npm registry：https://registry.npmjs.org/react-fsm-router

@@ -1,0 +1,36 @@
+# @mean-expert/loopback-sdk-builder
+
+> 标签: angular, angular2, cli, loopback, nativescript, {N}
+
+## 简介
+
+Tool for auto-generating Software Development Kits (SDKs) for LoopBack
+
+## 官网
+
+- 官网：https://github.com/mean-expert-official/loopback-sdk-builder#readme
+- 源码仓库：git://github.com/mean-expert-official/loopback-sdk-builder.git
+- npm 页面：https://www.npmjs.com/package/@mean-expert/loopback-sdk-builder
+
+## 历史版本号
+
+- 当前版本：2.3.1
+
+- 2.1.1
+- 2.1.2
+- 2.2.0
+- 2.2.1
+- 2.2.3
+- 2.2.4
+- 2.2.5
+- 2.2.6
+- 2.2.7
+- 2.2.8
+- 2.3.0
+- 2.3.1
+- 共 69 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @mean-expert/loopback-sdk-builder`
+- npm registry：https://registry.npmjs.org/@mean-expert/loopback-sdk-builder

@@ -1,0 +1,26 @@
+# jokebox
+
+> 标签: joke
+
+## 简介
+
+Useless, but probably funny functions to spice up your code
+
+## 官网
+
+- 官网：https://github.com/maniacscientist/jokebox#readme
+- 源码仓库：git://github.com/maniacscientist/jokebox.git
+- npm 页面：https://www.npmjs.com/package/jokebox
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install jokebox`
+- npm registry：https://registry.npmjs.org/jokebox

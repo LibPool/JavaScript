@@ -1,0 +1,22 @@
+# eco-mind-mcp
+
+> 标签: JavaScript
+
+## 简介
+
+Carbon-aware AI development tools for Claude Code. Track energy usage, optimize context windows, and route to efficient models.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/eco-mind-mcp
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install eco-mind-mcp`
+- npm registry：https://registry.npmjs.org/eco-mind-mcp

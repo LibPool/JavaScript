@@ -1,0 +1,25 @@
+# @joinezco/memfs
+
+> 标签: casfs, content addressable storage, crudfs, file, file system, file system access, filesystem, fs, fs.js, fsa, in-memory, memfs, memory, memory-fs, mock, mount, native file system, opfs, test, testing, virtual, webfs
+
+## 简介
+
+In-memory file-system with Node's fs API.
+
+## 官网
+
+- 官网：https://github.com/streamich/memfs
+- 源码仓库：git+https://github.com/streamich/memfs.git
+- npm 页面：https://www.npmjs.com/package/@joinezco/memfs
+
+## 历史版本号
+
+- 当前版本：4.23.0
+
+- 4.23.0
+
+## 获取地址
+
+- npm 安装：`npm install @joinezco/memfs`
+- npm registry：https://registry.npmjs.org/@joinezco/memfs
+- Node 要求：>= 4.0.0

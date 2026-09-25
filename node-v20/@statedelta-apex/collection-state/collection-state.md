@@ -1,0 +1,32 @@
+# @statedelta-apex/collection-state
+
+> 标签: apex, collection, list, state, statedelta, typed, typescript
+
+## 简介
+
+ApexStore Collection primitive - typed ordered list state with item management
+
+## 官网
+
+- 官网：https://github.com/andersondrosa/statedelta-apex#readme
+- 源码仓库：git+https://github.com/andersondrosa/statedelta-apex.git
+- npm 页面：https://www.npmjs.com/package/@statedelta-apex/collection-state
+
+## 历史版本号
+
+- 当前版本：3.2.0
+
+- 1.0.0
+- 2.0.0
+- 3.0.0
+- 3.0.1
+- 3.0.2
+- 3.1.0
+- 3.1.1
+- 3.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @statedelta-apex/collection-state`
+- npm registry：https://registry.npmjs.org/@statedelta-apex/collection-state
+- Node 要求：>=18

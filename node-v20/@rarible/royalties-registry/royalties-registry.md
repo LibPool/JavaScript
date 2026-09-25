@@ -1,0 +1,33 @@
+# @rarible/royalties-registry
+
+> 标签: JavaScript
+
+## 简介
+
+- struct Part[]  {address account; uint value} - simple one-level structure to save address author and their part. ### Methods RoyaltiesRegistry is a separate contract, which provides interface: **getRoyalties**()  and methods: **setProviderByToken**(), *
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@rarible/royalties-registry
+
+## 历史版本号
+
+- 当前版本：0.8.18
+
+- 0.4.0
+- 0.7.12
+- 0.7.13
+- 0.7.14-beta.2
+- 0.7.15
+- 0.8.14
+- 0.8.15
+- 0.8.17
+- 0.8.18
+- 0.8.4
+- 0.8.4-beta.3
+- 0.8.6
+
+## 获取地址
+
+- npm 安装：`npm install @rarible/royalties-registry`
+- npm registry：https://registry.npmjs.org/@rarible/royalties-registry

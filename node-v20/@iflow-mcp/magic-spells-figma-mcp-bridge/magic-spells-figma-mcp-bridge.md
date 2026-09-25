@@ -1,0 +1,26 @@
+# @iflow-mcp/magic-spells-figma-mcp-bridge
+
+> 标签: ai, claude, design, figma, mcp, model-context-protocol
+
+## 简介
+
+MCP server enabling Claude to read and manipulate Figma documents via WebSocket bridge
+
+## 官网
+
+- 官网：https://github.com/magic-spells/figma-mcp-bridge#readme
+- 源码仓库：git+https://github.com/magic-spells/figma-mcp-bridge.git
+- npm 页面：https://www.npmjs.com/package/@iflow-mcp/magic-spells-figma-mcp-bridge
+
+## 历史版本号
+
+- 当前版本：0.1.3
+
+- 0.1.2
+- 0.1.3
+
+## 获取地址
+
+- npm 安装：`npm install @iflow-mcp/magic-spells-figma-mcp-bridge`
+- npm registry：https://registry.npmjs.org/@iflow-mcp/magic-spells-figma-mcp-bridge
+- Node 要求：>=18.0.0

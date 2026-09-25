@@ -1,0 +1,35 @@
+# @flatmax/jrpc-oo
+
+> 标签: jrpc, lit, nodejs
+
+## 简介
+
+Expose objects using the JRPC2 protocol.
+
+## 官网
+
+- 官网：https://github.com/flatmax/jrpc-oo#readme
+- 源码仓库：git+https://github.com/flatmax/jrpc-oo.git
+- npm 页面：https://www.npmjs.com/package/@flatmax/jrpc-oo
+
+## 历史版本号
+
+- 当前版本：1.2.2
+
+- 1.1.10
+- 1.1.11
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.1.6
+- 1.1.7
+- 1.1.8
+- 1.1.9
+- 1.2.0
+- 1.2.1
+- 1.2.2
+
+## 获取地址
+
+- npm 安装：`npm install @flatmax/jrpc-oo`
+- npm registry：https://registry.npmjs.org/@flatmax/jrpc-oo

@@ -1,0 +1,22 @@
+# pdt
+
+> 标签: cocktails, drinks, pdt, twilio
+
+## 简介
+
+reservation maker
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/pdt
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install pdt`
+- npm registry：https://registry.npmjs.org/pdt

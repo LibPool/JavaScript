@@ -1,0 +1,26 @@
+# crab-event
+
+> 标签: event, promise
+
+## 简介
+
+Event handler for sync, async and Promise events
+
+## 官网
+
+- 官网：https://github.com/bergos/crab-event
+- 源码仓库：git://github.com/bergos/crab-event.git
+- npm 页面：https://www.npmjs.com/package/crab-event
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.2
+- 0.0.3
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install crab-event`
+- npm registry：https://registry.npmjs.org/crab-event

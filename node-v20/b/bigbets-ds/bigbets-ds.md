@@ -1,0 +1,36 @@
+# bigbets-ds
+
+> 标签: JavaScript
+
+## 简介
+
+<h1 align="center">   <img alt="Alfabit Design System" title="#alfabit-ds" src="public/bigbets.png" height="150" /> </h1>
+
+## 官网
+
+- 官网：https://github.com/lucianoguida1/bigbets-design-system#readme
+- 源码仓库：git+https://github.com/lucianoguida1/bigbets-design-system.git
+- npm 页面：https://www.npmjs.com/package/bigbets-ds
+
+## 历史版本号
+
+- 当前版本：1.1.16
+
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.1.40
+- 1.1.41
+- 1.1.42
+- 1.1.44
+- 1.1.5
+- 1.1.6
+- 1.1.7
+- 1.1.8
+- 1.1.9
+- 共 60 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install bigbets-ds`
+- npm registry：https://registry.npmjs.org/bigbets-ds

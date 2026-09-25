@@ -1,0 +1,35 @@
+# @igdrasil/cli-darwin-x64
+
+> 标签: JavaScript
+
+## 简介
+
+Igdrasil CLI binary for darwin-x64.
+
+## 官网
+
+- 官网：https://github.com/Igdrasil-AB/igdrasil-accounting#readme
+- 源码仓库：git+https://github.com/Igdrasil-AB/igdrasil-accounting.git
+- npm 页面：https://www.npmjs.com/package/@igdrasil/cli-darwin-x64
+
+## 历史版本号
+
+- 当前版本：0.1.64
+
+- 0.1.53
+- 0.1.54
+- 0.1.55
+- 0.1.56
+- 0.1.57
+- 0.1.58
+- 0.1.59
+- 0.1.60
+- 0.1.61
+- 0.1.62
+- 0.1.63
+- 0.1.64
+
+## 获取地址
+
+- npm 安装：`npm install @igdrasil/cli-darwin-x64`
+- npm registry：https://registry.npmjs.org/@igdrasil/cli-darwin-x64

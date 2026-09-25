@@ -1,0 +1,24 @@
+# lateralus-notebook-grammar
+
+> 标签: grammar, lateralus, notebook, syntax, tmlanguage
+
+## 简介
+
+TextMate grammar for Lateralus Notebook (.ltlnb). Companion to lateralus-grammar (the main .ltl grammar).
+
+## 官网
+
+- 官网：https://lateralus.dev
+- 源码仓库：git+https://github.com/bad-antics/lateralus-lang.git
+- npm 页面：https://www.npmjs.com/package/lateralus-notebook-grammar
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install lateralus-notebook-grammar`
+- npm registry：https://registry.npmjs.org/lateralus-notebook-grammar

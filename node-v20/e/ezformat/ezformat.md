@@ -1,0 +1,32 @@
+# ezformat
+
+> 标签: easy, format, string
+
+## 简介
+
+Easy string formatting script
+
+## 官网
+
+- 官网：https://github.com/co3moz/ezFormat
+- 源码仓库：git+https://github.com/co3moz/ezFormat.git
+- npm 页面：https://www.npmjs.com/package/ezformat
+
+## 历史版本号
+
+- 当前版本：1.4.1
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.3.0
+- 1.4.0
+- 1.4.1
+
+## 获取地址
+
+- npm 安装：`npm install ezformat`
+- npm registry：https://registry.npmjs.org/ezformat

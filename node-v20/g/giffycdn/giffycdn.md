@@ -1,0 +1,25 @@
+# giffycdn
+
+> 标签: anime, cdn, gif, images, reaction
+
+## 简介
+
+A programmatic interface to get GIFs from giffycdn
+
+## 官网
+
+- 官网：https://github.com/iceefruit/giffycdn#readme
+- 源码仓库：git+https://github.com/iceefruit/giffycdn.git
+- npm 页面：https://www.npmjs.com/package/giffycdn
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install giffycdn`
+- npm registry：https://registry.npmjs.org/giffycdn

@@ -1,0 +1,32 @@
+# @rozie-ui/tiptap-solid
+
+> 标签: component, editor, prosemirror, rich-text-editor, rozie, rozie-ui, solid, tiptap, wysiwyg
+
+## 简介
+
+Idiomatic Solid rich-text editor — one Rozie source compiled to Solid wrapping TipTap.
+
+## 官网
+
+- 官网：https://github.com/One-Learning-Community/rozie.js#readme
+- 源码仓库：git+https://github.com/One-Learning-Community/rozie.js.git
+- npm 页面：https://www.npmjs.com/package/@rozie-ui/tiptap-solid
+
+## 历史版本号
+
+- 当前版本：0.3.6
+
+- 0.2.0
+- 0.2.1
+- 0.3.0
+- 0.3.1
+- 0.3.2
+- 0.3.3
+- 0.3.4
+- 0.3.5
+- 0.3.6
+
+## 获取地址
+
+- npm 安装：`npm install @rozie-ui/tiptap-solid`
+- npm registry：https://registry.npmjs.org/@rozie-ui/tiptap-solid

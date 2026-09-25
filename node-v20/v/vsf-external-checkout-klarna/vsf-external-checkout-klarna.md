@@ -1,0 +1,24 @@
+# vsf-external-checkout-klarna
+
+> 标签: JavaScript
+
+## 简介
+
+External checkout extension for Vue Storefront
+
+## 官网
+
+- 官网：https://github.com/filrak/vsf-external-checkout#readme
+- 源码仓库：git+https://github.com/jorkvist/vsf-external-checkout.git
+- npm 页面：https://www.npmjs.com/package/vsf-external-checkout-klarna
+
+## 历史版本号
+
+- 当前版本：1.0.6
+
+- 1.0.6
+
+## 获取地址
+
+- npm 安装：`npm install vsf-external-checkout-klarna`
+- npm registry：https://registry.npmjs.org/vsf-external-checkout-klarna

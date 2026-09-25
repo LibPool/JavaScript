@@ -1,0 +1,24 @@
+# @mseep/productboard-mcp
+
+> 标签: agent, ai, autonomous, mcp, mcp-server, mseep
+
+## 简介
+
+Integrate the Productboard API into agentic workflows via MCP
+
+## 官网
+
+- 官网：https://github.com/kenjihikmatullah/productboard-mcp#readme
+- 源码仓库：git+https://github.com/kenjihikmatullah/productboard-mcp.git
+- npm 页面：https://www.npmjs.com/package/@mseep/productboard-mcp
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @mseep/productboard-mcp`
+- npm registry：https://registry.npmjs.org/@mseep/productboard-mcp

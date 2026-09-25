@@ -1,0 +1,36 @@
+# @stdlib/math-base-special-fast-uint32-sqrt
+
+> 标签: 32-bit, approx, approximate, approximation, fast, fastmath, int, integer, math, math.sqrt, mathematics, power, principal, root, sqrt, square, stdfastmath, stdlib, uint32, unsigned
+
+## 简介
+
+Compute an integer square root.
+
+## 官网
+
+- 官网：https://stdlib.io
+- 源码仓库：git://github.com/stdlib-js/math-base-special-fast-uint32-sqrt.git
+- npm 页面：https://www.npmjs.com/package/@stdlib/math-base-special-fast-uint32-sqrt
+
+## 历史版本号
+
+- 当前版本：0.3.1
+
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.1.0
+- 0.1.1
+- 0.2.0
+- 0.2.1
+- 0.3.0
+- 0.3.1
+
+## 获取地址
+
+- npm 安装：`npm install @stdlib/math-base-special-fast-uint32-sqrt`
+- npm registry：https://registry.npmjs.org/@stdlib/math-base-special-fast-uint32-sqrt
+- Node 要求：>=0.10.0

@@ -1,0 +1,26 @@
+# wysia
+
+> 标签: JavaScript
+
+## 简介
+
+What you see is awesome: HTML template + mock data viewer.
+
+## 官网
+
+- 官网：https://github.com/n2liquid/wysia
+- 源码仓库：https://github.com/n2liquid/wysia.git
+- npm 页面：https://www.npmjs.com/package/wysia
+
+## 历史版本号
+
+- 当前版本：0.0.1-beta2
+
+- 0.0.1-beta
+- 0.0.1-beta2
+
+## 获取地址
+
+- npm 安装：`npm install wysia`
+- npm registry：https://registry.npmjs.org/wysia
+- Node 要求：>=0.10

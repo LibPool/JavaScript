@@ -1,0 +1,24 @@
+# jstransformer-jade-jekyll
+
+> 标签: jade, jekyll, jstransformer, pug, yaml
+
+## 简介
+
+A simple transformer to escape Jekyll Front Matter from Jade/Pug templates.
+
+## 官网
+
+- 官网：https://github.com/mriverodorta/jstransformer-jade-jekyll#readme
+- 源码仓库：git+https://github.com/mriverodorta/jstransformer-jade-jekyll.git
+- npm 页面：https://www.npmjs.com/package/jstransformer-jade-jekyll
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install jstransformer-jade-jekyll`
+- npm registry：https://registry.npmjs.org/jstransformer-jade-jekyll

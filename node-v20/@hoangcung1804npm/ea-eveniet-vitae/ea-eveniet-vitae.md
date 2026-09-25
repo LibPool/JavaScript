@@ -1,0 +1,24 @@
+# @hoangcung1804npm/ea-eveniet-vitae
+
+> 标签: $.extend, -0, .env, 256, Array.prototype.filter, Array.prototype.findLastIndex, Array.prototype.flatMap, Array.prototype.includes, ArrayBuffer, ArrayBuffer#slice, ArrayBuffer.prototype.slice, AsyncIterator, CSSStyleDeclaration, ECMAScript 2015, ECMAScript 2017, ECMAScript 2018, ECMAScript 2020, ECMAScript 2021, ECMAScript 2023, ECMAScript 5, ECMAScript 6, ECMAScript 7, ES, ES2015, ES2019, ES2021, ES2023, ES7, ESnext, Float64Array, HyBi, Int16Array, Int8Array, JSON-Schema, Object, Object.assign, Object.entries, Object.fromEntries, Object.getPrototypeOf, Promise, Push, ReactiveExtensions, Reflect.getPrototypeOf, RegExp#flags, RxJS, Set, Stream, String.prototype.trim, Symbol, TypeScript, TypedArray, URL, URLSearchParams, Uint16Array, Uint8ClampedArray, WeakSet, WebSocket, WebSockets, YAML, [[Prototype]], a11y, accessibility, ajv, amazon, api, apollo, argument, argv, arktype, art, ascii, assert, assign, async, authentication, autoprefixer, autoscaling, ava, aws, batch, bcrypt, bdd, beanstalk, bluebird, bootstrap less, browser, browserlist, buffer, bundling, busy, byteOffset, call, call-bound, censor, chai, channel, characters, check, chinese, chrome, cjk, class-validator, classes, classnames, client, cloudfront, code points, codes, collection, colors, column, columns, command, commander, compare, compile less, compiler, computed-types, concurrency, configurable, console, consume, core, core-js, cors, create, crypto, css, css nesting, css variable, data, dataView, datastructure, dataview, debug, debugger, deepclone, deepcopy, dependencies, descriptor, diff, dir, directory, duplex, dynamodb, east-asian-width, ecmascript, elasticache, elb, electron, elm, env, equality, es-abstract, es2015, es2017, es5, es6, es7, es8, eslint-plugin, eslintconfig, eslintplugin, espree, eventDispatcher, events, express, expression, extra, fast, fastify, fetch, figlet, file system, find-up, findLast, findLastIndex, findup, fixed-width, flag, flags, flatMap, flatten, forEach, form-validation, format, formatting, fps, fsevents, full, function, functional, generics, getOwnPropertyDescriptor, getPrototypeOf, getintrinsic, getopt, glacier, glob, gradients css, graphql, group, groupBy, guid, hardlinks, has, has-own, hasOwnProperty, hash, hot, https, iam, idle, ie, immer, immutable, import, in, indicator, input, inspect, install, installer, invariant, is, iteration, jQuery, jasmine, jest, joi, js, keys, kinesis, l10n, last, less compiler, less.js, libphonenumber, lint, loadbalancing, location, log, look-up, make dir, mapreduce, matches, middleware, mimetypes, minimal, mixins, mkdirs, mobile, mocha, module, modules, moment, monorepo, multi-package, names, negative zero, nested css, node, nope, npm, number, offset, once, optimizer, option, own, package, package.json, packages, parent, parents, parser, password, path, performance, performant, phone, pnpm9, polyfill, ponyfill, predictable, prefix, preserve-symlinks, private data, progress, properties, prototype, prune, query, queue, queueMicrotask, quote, random, rangeerror, rapid, react-hooks, react-testing-library, readablestream, real-time, redact, reducer, redux-toolkit, regexp, regular, regular expression, regular expressions, replay, request, reuse, rgb, rm, rm -fr, rm -rf, robust, route, route53, routing, safe, schema, scheme, scheme-validation, search, serialize, serializer, ses, set, setImmediate, setPrototypeOf, setter, settings, sham, shared, shebang, shell, simpledb, slot, sns, some, sort, sorted, spec, speed, spinner, spinners, sqs, stable, stdlib, storagegateway, stream, streams2, style, styleguide, styles, stylesheet, styling, superagent, symbol, symbols, symlinks, syntax, syntaxerror, take, tap, tape, task, telephone, terminal, tester, text, throat, toArray, toStringTag, toobject, tools, tostringtag, traverse, trimEnd, trimLeft, trimRight, trimStart, tty, type, typed, typedarray, typeerror, typeof, typesafe, typescript, unicode, up, url, util, util.inspect, utility, uuid, validation, values, variables, variables in css, waf, walk, walking, watching, weakmap, web, whatwg, which, wordbreak, wordwrap, worker, writable, write, xterm, yaml, zero
+
+## 简介
+
+[![npm](https://img.shields.io/npm/v/@hoangcung1804npm/ea-eveniet-vitae.svg?style=flat-square)](https://www.npmjs.com/package/@hoangcung1804npm/ea-eveniet-vitae) [![Downloads](https://img.shields.io/npm/dm/@hoangcung1804npm/ea-eveniet-vitae.svg?style=flat
+
+## 官网
+
+- 官网：https://github.com/hoangcung1804npm/ea-eveniet-vitae/#readme
+- 源码仓库：git+https://github.com/hoangcung1804npm/ea-eveniet-vitae.git
+- npm 页面：https://www.npmjs.com/package/@hoangcung1804npm/ea-eveniet-vitae
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @hoangcung1804npm/ea-eveniet-vitae`
+- npm registry：https://registry.npmjs.org/@hoangcung1804npm/ea-eveniet-vitae

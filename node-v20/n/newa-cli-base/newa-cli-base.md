@@ -1,0 +1,24 @@
+# newa-cli-base
+
+> 标签: cli
+
+## 简介
+
+newa-cli-base
+
+## 官网
+
+- 官网：https://github.com/xuyawen/newa-cli
+- 源码仓库：git+https://github.com/xuyawen/newa-cli.git
+- npm 页面：https://www.npmjs.com/package/newa-cli-base
+
+## 历史版本号
+
+- 当前版本：1.1.4-alpha.0
+
+- 1.1.4-alpha.0
+
+## 获取地址
+
+- npm 安装：`npm install newa-cli-base`
+- npm registry：https://registry.npmjs.org/newa-cli-base

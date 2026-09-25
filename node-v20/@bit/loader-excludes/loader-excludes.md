@@ -1,0 +1,24 @@
+# @bit/loader-excludes
+
+> 标签: bit-bundler, bit-loader, bit-loader-plugin
+
+## 简介
+
+bit-loader plugin for exluding modules from being processed
+
+## 官网
+
+- 官网：https://github.com/MiguelCastillo/bit-loader-excludes#readme
+- 源码仓库：git+https://github.com/MiguelCastillo/bit-loader-excludes.git
+- npm 页面：https://www.npmjs.com/package/@bit/loader-excludes
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @bit/loader-excludes`
+- npm registry：https://registry.npmjs.org/@bit/loader-excludes

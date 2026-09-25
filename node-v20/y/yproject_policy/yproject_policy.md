@@ -1,0 +1,35 @@
+# yproject_policy
+
+> 标签: multi-repo, pnpm
+
+## 简介
+
+Local package manager. A tool to manage your multi-repo.
+
+## 官网
+
+- 官网：https://github.com/yuyaryshev/yproject_policy
+- 源码仓库：git+https://github.com/yuyaryshev/yproject_policy.git
+- npm 页面：https://www.npmjs.com/package/yproject_policy
+
+## 历史版本号
+
+- 当前版本：1.4.1
+
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.2.3
+- 1.2.4
+- 1.3.0
+- 1.3.1
+- 1.3.2
+- 1.3.3
+- 1.3.4
+- 1.4.0
+- 1.4.1
+
+## 获取地址
+
+- npm 安装：`npm install yproject_policy`
+- npm registry：https://registry.npmjs.org/yproject_policy

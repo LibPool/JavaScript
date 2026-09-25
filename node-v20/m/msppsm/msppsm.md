@@ -1,0 +1,25 @@
+# msppsm
+
+> 标签: opensource, simple-counter-js, spft-tea
+
+## 简介
+
+An open-source project integrating simple-counter-js and spft-tea.
+
+## 官网
+
+- 官网：https://github.com/liztheford/msppsm#readme
+- 源码仓库：git+https://github.com/liztheford/msppsm.git
+- npm 页面：https://www.npmjs.com/package/msppsm
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install msppsm`
+- npm registry：https://registry.npmjs.org/msppsm

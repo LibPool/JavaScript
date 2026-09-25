@@ -1,0 +1,23 @@
+# finalcalculatorapp
+
+> 标签: cal
+
+## 简介
+
+this is for my verification
+
+## 官网
+
+- 源码仓库：https://www.npmjs.com/package/finalcalc
+- npm 页面：https://www.npmjs.com/package/finalcalculatorapp
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install finalcalculatorapp`
+- npm registry：https://registry.npmjs.org/finalcalculatorapp

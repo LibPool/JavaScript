@@ -1,0 +1,26 @@
+# gatsby-plugin-mdx-v1
+
+> 标签: gatsby, gatsby-plugin, gatsby-transformer-plugin, markdown, mdx, rehype, remark
+
+## 简介
+
+MDX integration for Gatsby (MDX v1)
+
+## 官网
+
+- 官网：https://github.com/tc-imba/gatsby-plugin-mdx-v1
+- 源码仓库：https://github.com/tc-imba/gatsby-plugin-mdx-v1
+- npm 页面：https://www.npmjs.com/package/gatsby-plugin-mdx-v1
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install gatsby-plugin-mdx-v1`
+- npm registry：https://registry.npmjs.org/gatsby-plugin-mdx-v1

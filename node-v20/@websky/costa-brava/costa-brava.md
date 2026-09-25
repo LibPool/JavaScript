@@ -1,0 +1,34 @@
+# @websky/costa-brava
+
+> 标签: JavaScript
+
+## 简介
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## 官网
+
+- 源码仓库：ssh://git@gitlab.nemo.travel:22888/frontend/websky/cb-frontend.git
+- npm 页面：https://www.npmjs.com/package/@websky/costa-brava
+
+## 历史版本号
+
+- 当前版本：0.1.20
+
+- 0.1.11
+- 0.1.12
+- 0.1.13
+- 0.1.14
+- 0.1.15
+- 0.1.16
+- 0.1.17
+- 0.1.18
+- 0.1.19
+- 0.1.20
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install @websky/costa-brava`
+- npm registry：https://registry.npmjs.org/@websky/costa-brava

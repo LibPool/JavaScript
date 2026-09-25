@@ -1,0 +1,35 @@
+# swagger-ts-gen
+
+> 标签: TypeScript, swagger
+
+## 简介
+
+The generator for swagger schema
+
+## 官网
+
+- 官网：https://github.com/sue71/swagger-ts-gen
+- 源码仓库：git://github.com/sue71/swagger-ts-gen.git
+- npm 页面：https://www.npmjs.com/package/swagger-ts-gen
+
+## 历史版本号
+
+- 当前版本：0.4.5
+
+- 0.2.5
+- 0.2.6
+- 0.2.7
+- 0.3.0
+- 0.3.1
+- 0.3.2
+- 0.4.0
+- 0.4.1
+- 0.4.2
+- 0.4.3
+- 0.4.4
+- 0.4.5
+
+## 获取地址
+
+- npm 安装：`npm install swagger-ts-gen`
+- npm registry：https://registry.npmjs.org/swagger-ts-gen

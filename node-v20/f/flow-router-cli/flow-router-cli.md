@@ -1,0 +1,27 @@
+# flow-router-cli
+
+> 标签: cli, flow-router, meteor
+
+## 简介
+
+Simple CLI for Meteor Flow-Router
+
+## 官网
+
+- 官网：https://github.com/richsilv/flow-cli
+- 源码仓库：https://github.com/richsilv/flow-cli.git
+- npm 页面：https://www.npmjs.com/package/flow-router-cli
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install flow-router-cli`
+- npm registry：https://registry.npmjs.org/flow-router-cli

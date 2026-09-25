@@ -1,0 +1,34 @@
+# @m-fe/excel-schema
+
+> 标签: react, webpack
+
+## 简介
+
+@m-fe/excel-schema
+
+## 官网
+
+- 官网：https://github.com/wx-chevalier/excel.ts#readme
+- 源码仓库：git+https://github.com/wx-chevalier/excel.ts.git
+- npm 页面：https://www.npmjs.com/package/@m-fe/excel-schema
+
+## 历史版本号
+
+- 当前版本：0.0.11
+
+- 0.0.1
+- 0.0.10
+- 0.0.11
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @m-fe/excel-schema`
+- npm registry：https://registry.npmjs.org/@m-fe/excel-schema

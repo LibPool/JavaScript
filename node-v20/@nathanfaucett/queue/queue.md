@@ -1,0 +1,25 @@
+# @nathanfaucett/queue
+
+> 标签: queue, queue.js
+
+## 简介
+
+create a Queue for callbacks and call them all in order
+
+## 官网
+
+- 官网：https://github.com/nathanfaucett/queue#readme
+- 源码仓库：git+https://github.com/nathanfaucett/queue.git
+- npm 页面：https://www.npmjs.com/package/@nathanfaucett/queue
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @nathanfaucett/queue`
+- npm registry：https://registry.npmjs.org/@nathanfaucett/queue

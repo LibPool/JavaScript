@@ -1,0 +1,35 @@
+# blvd
+
+> 标签: JavaScript
+
+## 简介
+
+A framework for building full-stack JS applications.
+
+## 官网
+
+- 官网：https://github.com/blvdgroup/boulevard#readme
+- 源码仓库：git+https://github.com/blvdgroup/boulevard.git
+- npm 页面：https://www.npmjs.com/package/blvd
+
+## 历史版本号
+
+- 当前版本：0.0.1-alpha.c18fdf8d
+
+- 0.0.1-alpha.3483d188
+- 0.0.1-alpha.4059cb0a
+- 0.0.1-alpha.542a8cb2
+- 0.0.1-alpha.549e16ce
+- 0.0.1-alpha.8d54d1a3
+- 0.0.1-alpha.8e381154
+- 0.0.1-alpha.a9b371f0
+- 0.0.1-alpha.a9b371f0-alpha.0848b3b3
+- 0.0.1-alpha.c18fdf8d
+- 0.0.1-alpha.c2cabeb3
+- 0.0.1-alpha.de50b363
+- 0.0.1-alpha.ffa77e37
+
+## 获取地址
+
+- npm 安装：`npm install blvd`
+- npm registry：https://registry.npmjs.org/blvd

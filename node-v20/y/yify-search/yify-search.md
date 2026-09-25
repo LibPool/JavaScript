@@ -1,0 +1,24 @@
+# yify-search
+
+> 标签: magnet, torrent, yify, yts
+
+## 简介
+
+Find movies on yts.ag
+
+## 官网
+
+- 官网：https://github.com/davidyen1124/yify-query
+- 源码仓库：git://github.com/davidyen1124/yify-query.git
+- npm 页面：https://www.npmjs.com/package/yify-search
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install yify-search`
+- npm registry：https://registry.npmjs.org/yify-search

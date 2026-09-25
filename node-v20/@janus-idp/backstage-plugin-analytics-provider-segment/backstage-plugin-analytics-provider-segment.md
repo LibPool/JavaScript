@@ -1,0 +1,36 @@
+# @janus-idp/backstage-plugin-analytics-provider-segment
+
+> 标签: lifecycle:active, support:production
+
+## 简介
+
+This plugin provides an implementation of the Backstage Analytics API for Segment. Once installed and configured, analytics events will be sent to Segment as your users navigate and use your Backstage instance.
+
+## 官网
+
+- 官网：https://red.ht/rhdh
+- 源码仓库：git+https://github.com/janus-idp/backstage-plugins.git
+- npm 页面：https://www.npmjs.com/package/@janus-idp/backstage-plugin-analytics-provider-segment
+
+## 历史版本号
+
+- 当前版本：1.10.1
+
+- 1.7.0
+- 1.7.1
+- 1.7.2
+- 1.7.3
+- 1.8.0
+- 1.8.1
+- 1.8.2
+- 1.8.3
+- 1.8.4
+- 1.8.5
+- 1.9.0
+- 1.9.1
+- 共 65 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @janus-idp/backstage-plugin-analytics-provider-segment`
+- npm registry：https://registry.npmjs.org/@janus-idp/backstage-plugin-analytics-provider-segment

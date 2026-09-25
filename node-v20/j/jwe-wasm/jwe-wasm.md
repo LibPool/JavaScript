@@ -1,0 +1,25 @@
+# jwe-wasm
+
+> 标签: JavaScript
+
+## 简介
+
+Library for encryption / decryption JWE using Biscuit
+
+## 官网
+
+- 官网：https://github.com/kitabisa/jwe-wasm#readme
+- 源码仓库：git+https://github.com/kitabisa/jwe-wasm.git
+- npm 页面：https://www.npmjs.com/package/jwe-wasm
+
+## 历史版本号
+
+- 当前版本：0.2.3
+
+- 0.2.0
+- 0.2.3
+
+## 获取地址
+
+- npm 安装：`npm install jwe-wasm`
+- npm registry：https://registry.npmjs.org/jwe-wasm

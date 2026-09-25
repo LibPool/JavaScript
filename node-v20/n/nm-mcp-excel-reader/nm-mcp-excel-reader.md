@@ -1,0 +1,25 @@
+# nm-mcp-excel-reader
+
+> 标签: chunking, excel, mcp, model-context-protocol, pagination, sheetjs, xlsx
+
+## 简介
+
+MCP server for reading Excel files with automatic chunking and pagination support
+
+## 官网
+
+- 官网：https://github.com/ArchimdesCrypto/excel-reader-mcp#readme
+- 源码仓库：git+https://github.com/ArchimdesCrypto/excel-reader-mcp.git
+- npm 页面：https://www.npmjs.com/package/nm-mcp-excel-reader
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install nm-mcp-excel-reader`
+- npm registry：https://registry.npmjs.org/nm-mcp-excel-reader

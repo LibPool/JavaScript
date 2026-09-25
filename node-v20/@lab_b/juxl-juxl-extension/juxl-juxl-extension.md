@@ -1,0 +1,25 @@
+# @lab_b/juxl-juxl-extension
+
+> 标签: jupyter, jupyterlab, jupyterlab-extension, juxl
+
+## 简介
+
+[Ju]pyterLab [x]Api [l]ogging Extension. Provides a logging interface for JupyterLab Extensions.
+
+## 官网
+
+- 官网：https://juxl.readthedocs.io/
+- 源码仓库：https://git.rwth-aachen.de/learntech-lufgi9/bama/juxl/juxl
+- npm 页面：https://www.npmjs.com/package/@lab_b/juxl-juxl-extension
+
+## 历史版本号
+
+- 当前版本：4.0.2
+
+- 4.0.1
+- 4.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @lab_b/juxl-juxl-extension`
+- npm registry：https://registry.npmjs.org/@lab_b/juxl-juxl-extension

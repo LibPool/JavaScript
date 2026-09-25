@@ -1,0 +1,26 @@
+# demo-npm-meta-package-core
+
+> 标签: core, demo, npm, release
+
+## 简介
+
+Demonstration project - core library
+
+## 官网
+
+- 官网：https://github.com/Mogztter/demo-npm-meta-package
+- 源码仓库：https://github.com/Mogztter/demo-npm-meta-package.git
+- npm 页面：https://www.npmjs.com/package/demo-npm-meta-package-core
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install demo-npm-meta-package-core`
+- npm registry：https://registry.npmjs.org/demo-npm-meta-package-core
+- Node 要求：>=8.11

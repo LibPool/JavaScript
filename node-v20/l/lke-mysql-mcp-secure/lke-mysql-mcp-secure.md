@@ -1,0 +1,24 @@
+# lke-mysql-mcp-secure
+
+> 标签: ai, database, dive, llm, mcp, mysql
+
+## 简介
+
+MCP server implementation for MySQL database access
+
+## 官网
+
+- 官网：https://github.com/kevinwatt/mysql-mcp#readme
+- 源码仓库：git+https://github.com/kevinwatt/mysql-mcp.git
+- npm 页面：https://www.npmjs.com/package/lke-mysql-mcp-secure
+
+## 历史版本号
+
+- 当前版本：0.1.3
+
+- 0.1.3
+
+## 获取地址
+
+- npm 安装：`npm install lke-mysql-mcp-secure`
+- npm registry：https://registry.npmjs.org/lke-mysql-mcp-secure

@@ -1,0 +1,25 @@
+# create-ocean-app
+
+> 标签: ethereum, ocean, react, workspaces, yarn
+
+## 简介
+
+Create Ocean-powered React apps with one command
+
+## 官网
+
+- 官网：https://github.com/TomAFrench/create-ocean-app
+- 源码仓库：https://github.com/TomAFrench/create-ocean-app
+- npm 页面：https://www.npmjs.com/package/create-ocean-app
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install create-ocean-app`
+- npm registry：https://registry.npmjs.org/create-ocean-app

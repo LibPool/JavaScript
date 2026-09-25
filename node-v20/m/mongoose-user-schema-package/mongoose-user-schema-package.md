@@ -1,0 +1,23 @@
+# mongoose-user-schema-package
+
+> 标签: JavaScript
+
+## 简介
+
+This is a simple Node.js package that defines a Mongoose schema for managing user data, including name, email, and password fields.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/mongoose-user-schema-package
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install mongoose-user-schema-package`
+- npm registry：https://registry.npmjs.org/mongoose-user-schema-package

@@ -1,0 +1,24 @@
+# sophon-notebook-observables
+
+> 标签: JavaScript
+
+## 简介
+
+Data structures which may be observed for changes.
+
+## 官网
+
+- 官网：https://github.com/jupyterlab/jupyterlab
+- 源码仓库：git+https://github.com/jupyterlab/jupyterlab.git
+- npm 页面：https://www.npmjs.com/package/sophon-notebook-observables
+
+## 历史版本号
+
+- 当前版本：2.2.0
+
+- 2.2.0
+
+## 获取地址
+
+- npm 安装：`npm install sophon-notebook-observables`
+- npm registry：https://registry.npmjs.org/sophon-notebook-observables

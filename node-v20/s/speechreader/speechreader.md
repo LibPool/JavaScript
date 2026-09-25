@@ -1,0 +1,27 @@
+# speechreader
+
+> 标签: accessibility, read, text
+
+## 简介
+
+speechreader use the SpeechSynthesisUtterance interface of the Web Speech API  and provider a ready to use wrapper class to start adding TTS functionality to your project. This library is meant to be added on  PROJECT RUNNING ON A WEB BROWSER.
+
+## 官网
+
+- 官网：https://github.com/bigteddo/speechreader#readme
+- 源码仓库：git+https://github.com/bigteddo/speechreader.git
+- npm 页面：https://www.npmjs.com/package/speechreader
+
+## 历史版本号
+
+- 当前版本：1.1.5
+
+- 1.0.0
+- 1.1.2
+- 1.1.3
+- 1.1.5
+
+## 获取地址
+
+- npm 安装：`npm install speechreader`
+- npm registry：https://registry.npmjs.org/speechreader

@@ -1,0 +1,28 @@
+# @bazhe/with-pagination
+
+> 标签: hoc, javascript, pagination, react, typescript, wrapper
+
+## 简介
+
+React Higher-Order Component for handling your pagination
+
+## 官网
+
+- 官网：https://github.com/Blagoj5/pagination/tree/main/packages/with-pagination
+- 源码仓库：git+https://github.com/Blagoj5/pagination.git
+- npm 页面：https://www.npmjs.com/package/@bazhe/with-pagination
+
+## 历史版本号
+
+- 当前版本：1.2.1
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.2.0
+- 1.2.1
+
+## 获取地址
+
+- npm 安装：`npm install @bazhe/with-pagination`
+- npm registry：https://registry.npmjs.org/@bazhe/with-pagination

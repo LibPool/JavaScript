@@ -1,0 +1,25 @@
+# @ivoglent/nodejs-evnhcmc
+
+> 标签: evn, evnhcmc, nodejs
+
+## 简介
+
+A simple script for nodejs to get information from EVN HoChiMinh City
+
+## 官网
+
+- 官网：https://github.com/ivoglent/nodejs-evnhcmc#readme
+- 源码仓库：git+https://github.com/ivoglent/nodejs-evnhcmc.git
+- npm 页面：https://www.npmjs.com/package/@ivoglent/nodejs-evnhcmc
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @ivoglent/nodejs-evnhcmc`
+- npm registry：https://registry.npmjs.org/@ivoglent/nodejs-evnhcmc

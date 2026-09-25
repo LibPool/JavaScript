@@ -1,0 +1,32 @@
+# @indev42/connections
+
+> 标签: JavaScript
+
+## 简介
+
+OAuth and static token management for app integrations.
+
+## 官网
+
+- 官网：https://github.com/inDev42Labs/connections#readme
+- 源码仓库：git+https://github.com/inDev42Labs/connections.git
+- npm 页面：https://www.npmjs.com/package/@indev42/connections
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 0.1.0
+- 0.3.0
+- 0.3.1
+- 0.4.0
+- 0.4.1
+- 0.5.0
+- 0.6.0
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @indev42/connections`
+- npm registry：https://registry.npmjs.org/@indev42/connections

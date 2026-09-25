@@ -1,0 +1,28 @@
+# nevereverthrow
+
+> 标签: error, fp, functional, typescript
+
+## 简介
+
+Never ever throw with nevereverthrow!
+
+## 官网
+
+- 官网：https://github.com/ieedan/nevereverthrow#readme
+- 源码仓库：git+https://github.com/ieedan/nevereverthrow.git
+- npm 页面：https://www.npmjs.com/package/nevereverthrow
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.1.0
+- 0.2.0
+- 0.2.1
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install nevereverthrow`
+- npm registry：https://registry.npmjs.org/nevereverthrow
+- Node 要求：>=18

@@ -1,0 +1,28 @@
+# react-feature-toggle-library
+
+> 标签: JavaScript
+
+## 简介
+
+A simple and flexible React feature toggle library written in TypeScript. This library allows you to easily manage feature flags in your React application.
+
+## 官网
+
+- 官网：https://github.com/n3rdK1ng/react-feature-toggle-library#readme
+- 源码仓库：git+https://github.com/n3rdK1ng/react-feature-toggle-library.git
+- npm 页面：https://www.npmjs.com/package/react-feature-toggle-library
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install react-feature-toggle-library`
+- npm registry：https://registry.npmjs.org/react-feature-toggle-library

@@ -1,0 +1,25 @@
+# lisa.cache.js
+
+> 标签: cache, ram, simple, storage
+
+## 简介
+
+forked from node-cache
+
+## 官网
+
+- 官网：https://github.com/apporoad/node-cache#readme
+- 源码仓库：git://github.com/apporoad/node-cache.git
+- npm 页面：https://www.npmjs.com/package/lisa.cache.js
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install lisa.cache.js`
+- npm registry：https://registry.npmjs.org/lisa.cache.js

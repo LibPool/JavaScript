@@ -1,0 +1,27 @@
+# dexynth-toolkit
+
+> 标签: JavaScript
+
+## 简介
+
+Set of UI components for global projects
+
+## 官网
+
+- 官网：https://github.com/Global-Repo/global-uikit/tree/master#readme
+- 源码仓库：git+https://github.com/Global-Repo/global-uikit.git#master
+- npm 页面：https://www.npmjs.com/package/dexynth-toolkit
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.43
+
+## 获取地址
+
+- npm 安装：`npm install dexynth-toolkit`
+- npm registry：https://registry.npmjs.org/dexynth-toolkit

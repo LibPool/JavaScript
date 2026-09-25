@@ -1,0 +1,24 @@
+# koishi-service-broker
+
+> 标签: broker, chatbot, koishi, service
+
+## 简介
+
+基于 broker 的订阅发布服务
+
+## 官网
+
+- 官网：https://github.com/eric2788/koishi-service-broker
+- 源码仓库：git+https://github.com/eric2788/koishi-service-broker.git
+- npm 页面：https://www.npmjs.com/package/koishi-service-broker
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install koishi-service-broker`
+- npm registry：https://registry.npmjs.org/koishi-service-broker

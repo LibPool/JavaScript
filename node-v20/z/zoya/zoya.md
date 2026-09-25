@@ -1,0 +1,29 @@
+# zoya
+
+> 标签: cli, colorful, console, hackable, log, logger, logging, logstash, signale, winston
+
+## 简介
+
+Highly configurable logging utility
+
+## 官网
+
+- 官网：https://github.com/wolfulus/zoya#readme
+- 源码仓库：git+https://github.com/wolfulus/zoya.git
+- npm 页面：https://www.npmjs.com/package/zoya
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 0.0.1
+- 1.0.0
+- 1.0.0-rc.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install zoya`
+- npm registry：https://registry.npmjs.org/zoya
+- Node 要求：>=8

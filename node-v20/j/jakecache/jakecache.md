@@ -1,0 +1,26 @@
+# jakecache
+
+> 标签: appcache, serviceworker
+
+## 简介
+
+Declarative manifest-driven app cache top of ServiceWorker
+
+## 官网
+
+- 官网：https://github.com/kenchris/jakecache#readme
+- 源码仓库：git+https://github.com/kenchris/jakecache.git
+- npm 页面：https://www.npmjs.com/package/jakecache
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install jakecache`
+- npm registry：https://registry.npmjs.org/jakecache

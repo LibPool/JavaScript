@@ -1,0 +1,22 @@
+# bills-table
+
+> 标签: bills, react, table, transactions
+
+## 简介
+
+Reusable bills / vendor transactions table (React)
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/bills-table
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install bills-table`
+- npm registry：https://registry.npmjs.org/bills-table

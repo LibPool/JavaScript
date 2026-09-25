@@ -1,0 +1,25 @@
+# @archie-dapp/sdk
+
+> 标签: archie-dapp, eth
+
+## 简介
+
+🛠 An SDK for building applications on top of Pancakeswap.
+
+## 官网
+
+- 官网：https://github.com/skygod0323/archie-dapp-sdk#readme
+- 源码仓库：git+https://github.com/skygod0323/archie-dapp-sdk.git
+- npm 页面：https://www.npmjs.com/package/@archie-dapp/sdk
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @archie-dapp/sdk`
+- npm registry：https://registry.npmjs.org/@archie-dapp/sdk
+- Node 要求：>=10

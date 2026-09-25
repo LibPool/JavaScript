@@ -1,0 +1,36 @@
+# scrapedin-browserless
+
+> 标签: linkedin, scraper
+
+## 简介
+
+linkedin scraper for 2019 website
+
+## 官网
+
+- 官网：https://github.com/linkedtales/scrapedin#readme
+- 源码仓库：git+https://github.com/linkedtales/scrapedin.git
+- npm 页面：https://www.npmjs.com/package/scrapedin-browserless
+
+## 历史版本号
+
+- 当前版本：3.0.1-beta3
+
+- 3.0.0-beta12
+- 3.0.0-beta2
+- 3.0.0-beta3
+- 3.0.0-beta4
+- 3.0.0-beta5
+- 3.0.0-beta6
+- 3.0.0-beta7
+- 3.0.0-beta8
+- 3.0.0-beta9
+- 3.0.1-beta1
+- 3.0.1-beta2
+- 3.0.1-beta3
+
+## 获取地址
+
+- npm 安装：`npm install scrapedin-browserless`
+- npm registry：https://registry.npmjs.org/scrapedin-browserless
+- Node 要求：>= 7.6.0

@@ -1,0 +1,25 @@
+# nxt-cli
+
+> 标签: cli, mongodb, mongoose, users
+
+## 简介
+
+Command line interface made to control mongodb users.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/nxt-cli
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.0-read
+- 0.1.1
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install nxt-cli`
+- npm registry：https://registry.npmjs.org/nxt-cli

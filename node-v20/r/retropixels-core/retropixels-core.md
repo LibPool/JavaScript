@@ -1,0 +1,30 @@
+# retropixels-core
+
+> 标签: JavaScript
+
+## 简介
+
+A javascript library to convert images to Commodore 64 format.
+
+## 官网
+
+- 官网：https://github.com/micheldebree/retropixels#readme
+- 源码仓库：git+https://github.com/micheldebree/retropixels.git
+- npm 页面：https://www.npmjs.com/package/retropixels-core
+
+## 历史版本号
+
+- 当前版本：0.1.6
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.5
+- 0.1.6
+
+## 获取地址
+
+- npm 安装：`npm install retropixels-core`
+- npm registry：https://registry.npmjs.org/retropixels-core
+- Node 要求：>=18.0.0

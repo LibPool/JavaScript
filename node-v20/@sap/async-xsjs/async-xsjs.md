@@ -1,0 +1,35 @@
+# @sap/async-xsjs
+
+> 标签: JavaScript
+
+## 简介
+
+Compatibility layer to run XS Classic applications on XS Advanced
+
+## 官网
+
+- 源码仓库：git@github.wdf.sap.corp:xs2/async-xsjs.git
+- npm 页面：https://www.npmjs.com/package/@sap/async-xsjs
+
+## 历史版本号
+
+- 当前版本：3.0.5
+
+- 2.1.7
+- 2.1.8
+- 2.1.9
+- 2.2.0
+- 2.3.0
+- 2.3.1
+- 3.0.0
+- 3.0.1
+- 3.0.2
+- 3.0.3
+- 3.0.4
+- 3.0.5
+
+## 获取地址
+
+- npm 安装：`npm install @sap/async-xsjs`
+- npm registry：https://registry.npmjs.org/@sap/async-xsjs
+- Node 要求：^20.x || ^22.x || ^24.x

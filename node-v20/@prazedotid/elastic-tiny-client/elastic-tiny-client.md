@@ -1,0 +1,24 @@
+# @prazedotid/elastic-tiny-client
+
+> 标签: JavaScript
+
+## 简介
+
+[![Build](https://github.com/samuelgja/elastic-tiny-client/actions/workflows/build.yml/badge.svg)](https://github.com/samuelgja/elastic-tiny-client/actions/workflows/build.yml) [![Code quality check](https://github.com/samuelgja/elastic-tiny-client/action
+
+## 官网
+
+- 官网：https://github.com/prazedotid/elastic-tiny-client#readme
+- 源码仓库：git+https://github.com/prazedotid/elastic-tiny-client.git
+- npm 页面：https://www.npmjs.com/package/@prazedotid/elastic-tiny-client
+
+## 历史版本号
+
+- 当前版本：0.1.5
+
+- 0.1.5
+
+## 获取地址
+
+- npm 安装：`npm install @prazedotid/elastic-tiny-client`
+- npm registry：https://registry.npmjs.org/@prazedotid/elastic-tiny-client

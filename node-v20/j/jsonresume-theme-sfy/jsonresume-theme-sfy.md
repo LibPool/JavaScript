@@ -1,0 +1,28 @@
+# jsonresume-theme-sfy
+
+> 标签: JavaScript
+
+## 简介
+
+A fork of autumn theme for the JSON Resume Project
+
+## 官网
+
+- 官网：https://github.com/SfyMantissa/jsonresume-theme-sfy#readme
+- 源码仓库：git+https://github.com/SfyMantissa/jsonresume-theme-sfy.git
+- npm 页面：https://www.npmjs.com/package/jsonresume-theme-sfy
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install jsonresume-theme-sfy`
+- npm registry：https://registry.npmjs.org/jsonresume-theme-sfy

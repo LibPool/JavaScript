@@ -1,0 +1,24 @@
+# ovid-cli
+
+> 标签: cli, cloudflare, deploy, edge, serverless, workers
+
+## 简介
+
+CLI for Ovid edge deployment platform.
+
+## 官网
+
+- 官网：https://ovid.run
+- 源码仓库：git+https://github.com/ovidrun/ovid-cli.git
+- npm 页面：https://www.npmjs.com/package/ovid-cli
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install ovid-cli`
+- npm registry：https://registry.npmjs.org/ovid-cli

@@ -1,0 +1,26 @@
+# uxicon
+
+> 标签: JavaScript
+
+## 简介
+
+> TODO: description
+
+## 官网
+
+- 官网：https://github.com/idea34/uxify#readme
+- 源码仓库：git+https://github.com/idea34/uxify.git
+- npm 页面：https://www.npmjs.com/package/uxicon
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install uxicon`
+- npm registry：https://registry.npmjs.org/uxicon

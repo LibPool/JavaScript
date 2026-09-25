@@ -1,0 +1,29 @@
+# @syntheticminds/wiretap-llm
+
+> 标签: ai, llm, monitoring, observability, openai, openrouter, telemetry, wiretap
+
+## 简介
+
+Telemetry client for sending LLM logs to Wiretap
+
+## 官网
+
+- 官网：https://github.com/kingbootoshi/wiretap/tree/main/packages/sdk#readme
+- 源码仓库：git+https://github.com/kingbootoshi/wiretap.git
+- npm 页面：https://www.npmjs.com/package/@syntheticminds/wiretap-llm
+
+## 历史版本号
+
+- 当前版本：0.5.0
+
+- 0.2.3
+- 0.3.0
+- 0.3.1
+- 0.4.0
+- 0.5.0
+
+## 获取地址
+
+- npm 安装：`npm install @syntheticminds/wiretap-llm`
+- npm registry：https://registry.npmjs.org/@syntheticminds/wiretap-llm
+- Node 要求：>=18

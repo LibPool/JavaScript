@@ -1,0 +1,22 @@
+# @mseep/mcp-server-stability-ai
+
+> 标签: image generation, image manipulation, mcp, mcp server, mcp-server, model context protocol, mseep, stability, stability ai, upscale
+
+## 简介
+
+MCP [Model Context Protocol](https://modelcontextprotocol.io/) Server integrating MCP Clients with [Stability AI](https://stability.ai/) image manipulation functionalities: generate, edit, upscale, and more.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@mseep/mcp-server-stability-ai
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @mseep/mcp-server-stability-ai`
+- npm registry：https://registry.npmjs.org/@mseep/mcp-server-stability-ai

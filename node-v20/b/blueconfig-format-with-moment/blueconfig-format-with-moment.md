@@ -1,0 +1,31 @@
+# blueconfig-format-with-moment
+
+> 标签: blueconfig, blueconfig-format, duration, moment, timestamp
+
+## 简介
+
+Format 'duration' and 'timestamp' for blueconfig
+
+## 官网
+
+- 官网：https://github.com/A-312/node-blueconfig
+- 源码仓库：https://github.com/A-312/node-blueconfig/tree/master/packages/blueconfig-format-with-moment
+- npm 页面：https://www.npmjs.com/package/blueconfig-format-with-moment
+
+## 历史版本号
+
+- 当前版本：6.2.2
+
+- 6.0.0
+- 6.0.1
+- 6.0.2
+- 6.1.0
+- 6.2.0
+- 6.2.1
+- 6.2.2
+
+## 获取地址
+
+- npm 安装：`npm install blueconfig-format-with-moment`
+- npm registry：https://registry.npmjs.org/blueconfig-format-with-moment
+- Node 要求：>=8

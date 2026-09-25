@@ -1,0 +1,25 @@
+# @sqwiroux/reach-router
+
+> 标签: gatsby, reach router, react
+
+## 简介
+
+Gatsby's fork to modernize reach-router
+
+## 官网
+
+- 官网：https://github.com/sqwiroux/reach-router#readme
+- 源码仓库：git+https://github.com/sqwiroux/reach-router.git
+- npm 页面：https://www.npmjs.com/package/@sqwiroux/reach-router
+
+## 历史版本号
+
+- 当前版本：2.0.10
+
+- 2.0.10
+- 2.0.8
+
+## 获取地址
+
+- npm 安装：`npm install @sqwiroux/reach-router`
+- npm registry：https://registry.npmjs.org/@sqwiroux/reach-router

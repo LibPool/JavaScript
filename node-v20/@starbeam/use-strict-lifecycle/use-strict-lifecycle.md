@@ -1,0 +1,36 @@
+# @starbeam/use-strict-lifecycle
+
+> 标签: JavaScript
+
+## 简介
+
+React lifecycle infrastructure for setup, update, layout, idle, and cleanup across Strict Mode, Fast Refresh, and hidden/revealed trees.
+
+## 官网
+
+- 官网：https://github.com/starbeamjs/starbeam#readme
+- 源码仓库：git+https://github.com/starbeamjs/starbeam.git
+- npm 页面：https://www.npmjs.com/package/@starbeam/use-strict-lifecycle
+
+## 历史版本号
+
+- 当前版本：0.9.2
+
+- 0.9.3-unstable.0679cfc
+- 0.9.3-unstable.18f9d35
+- 0.9.3-unstable.5dac0cd
+- 0.9.3-unstable.860eeff
+- 0.9.3-unstable.8f9af60
+- 0.9.3-unstable.9a60f09
+- 0.9.3-unstable.b2bd1db
+- 0.9.3-unstable.cfc6447
+- 0.9.3-unstable.d243a9e
+- 0.9.3-unstable.e58f1af
+- 0.9.3-unstable.f476f28
+- 0.9.3-unstable.fc69fb6
+- 共 59 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @starbeam/use-strict-lifecycle`
+- npm registry：https://registry.npmjs.org/@starbeam/use-strict-lifecycle

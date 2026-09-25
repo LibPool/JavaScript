@@ -1,0 +1,29 @@
+# com.chartboost.mediation.unity.adapter.mintegral
+
+> 标签: Adapter, Chartboost, Mediation, Mintegral, Unity
+
+## 简介
+
+The Chartboost Mediation Unity SDK Adapter for Mintegral.
+
+## 官网
+
+- 官网：https://chartboost.com
+- 源码仓库：git+https://github.com/ChartBoost/chartboost-mediation-unity-adapter-mintegral.git
+- npm 页面：https://www.npmjs.com/package/com.chartboost.mediation.unity.adapter.mintegral
+
+## 历史版本号
+
+- 当前版本：5.1.1
+
+- 5.0.0
+- 5.0.1
+- 5.0.2
+- 5.0.3
+- 5.1.0
+- 5.1.1
+
+## 获取地址
+
+- npm 安装：`npm install com.chartboost.mediation.unity.adapter.mintegral`
+- npm registry：https://registry.npmjs.org/com.chartboost.mediation.unity.adapter.mintegral

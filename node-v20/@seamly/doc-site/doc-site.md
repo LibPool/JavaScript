@@ -1,0 +1,36 @@
+# @seamly/doc-site
+
+> 标签: JavaScript
+
+## 简介
+
+This package allows you to easily build a documentation site with Webpack/Markdown/EJS. It provides:
+
+## 官网
+
+- 官网：https://gitlab.com/seamly-app/client/doc-site#readme
+- 源码仓库：git+ssh://git@gitlab.com/seamly-app/client/doc-site.git
+- npm 页面：https://www.npmjs.com/package/@seamly/doc-site
+
+## 历史版本号
+
+- 当前版本：4.1.1
+
+- 1.0.0-beta.1
+- 1.0.0-beta.2
+- 2.0.0
+- 3.0.0
+- 3.0.1
+- 3.0.2
+- 3.0.3
+- 3.0.4
+- 4.0.0
+- 4.1.0
+- 4.1.1
+- 4.1.1-beta
+
+## 获取地址
+
+- npm 安装：`npm install @seamly/doc-site`
+- npm registry：https://registry.npmjs.org/@seamly/doc-site
+- Node 要求：>=20

@@ -1,0 +1,22 @@
+# atomic-sdk
+
+> 标签: atomic-cash, bch, bitcoin-cash, cashtokens, dex, sdk
+
+## 简介
+
+TypeScript SDK for the Atomic Cash DEX protocol on Bitcoin Cash
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/atomic-sdk
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install atomic-sdk`
+- npm registry：https://registry.npmjs.org/atomic-sdk

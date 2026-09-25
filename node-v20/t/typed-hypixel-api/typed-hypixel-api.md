@@ -1,0 +1,35 @@
+# typed-hypixel-api
+
+> 标签: JavaScript
+
+## 简介
+
+A library to make requests to the Hypixel API, but with TypeScript to help you avoid mistakes. This library does not modify or process any data returned, that's up to you.
+
+## 官网
+
+- 官网：https://github.com/skyblockstats/typed-hypixel-api#readme
+- 源码仓库：git+https://github.com/skyblockstats/typed-hypixel-api.git
+- npm 页面：https://www.npmjs.com/package/typed-hypixel-api
+
+## 历史版本号
+
+- 当前版本：1.8.0
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 1.3.1
+- 1.4.0
+- 1.4.1
+- 1.4.2
+- 1.5.0
+- 1.6.0
+- 1.7.0
+- 1.8.0
+
+## 获取地址
+
+- npm 安装：`npm install typed-hypixel-api`
+- npm registry：https://registry.npmjs.org/typed-hypixel-api

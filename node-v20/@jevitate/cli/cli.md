@@ -1,0 +1,25 @@
+# @jevitate/cli
+
+> 标签: browser-automation, cli, e2e, exploration, jevitate, journeys, mcp, playwright, screenplay, testing, usability
+
+## 简介
+
+Jevitate CLI — author, run, and orchestrate browser-automation Journeys from the command line.
+
+## 官网
+
+- 官网：https://jevitate.com
+- 源码仓库：git+https://github.com/matt-cochran/jevitate.git
+- npm 页面：https://www.npmjs.com/package/@jevitate/cli
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @jevitate/cli`
+- npm registry：https://registry.npmjs.org/@jevitate/cli
+- Node 要求：>=20

@@ -1,0 +1,26 @@
+# zapr-cli
+
+> 标签: build-cleaner, cleaner, cleanr, cli, disk-space, node_modules, purge
+
+## 简介
+
+Blazing fast node_modules and build output cleaner CLI tool
+
+## 官网
+
+- 官网：https://github.com/bineetNaidu/zapr-cli#readme
+- 源码仓库：git+https://github.com/bineetNaidu/zapr-cli.git
+- npm 页面：https://www.npmjs.com/package/zapr-cli
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install zapr-cli`
+- npm registry：https://registry.npmjs.org/zapr-cli

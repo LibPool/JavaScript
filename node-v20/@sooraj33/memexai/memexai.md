@@ -1,0 +1,24 @@
+# @sooraj33/memexai
+
+> 标签: JavaScript
+
+## 简介
+
+TypeScript SDK and agent tool adapters for MemexAI persistent memory.
+
+## 官网
+
+- 官网：https://github.com/soorajshankar/memexai#readme
+- 源码仓库：git+https://github.com/soorajshankar/memexai.git
+- npm 页面：https://www.npmjs.com/package/@sooraj33/memexai
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @sooraj33/memexai`
+- npm registry：https://registry.npmjs.org/@sooraj33/memexai

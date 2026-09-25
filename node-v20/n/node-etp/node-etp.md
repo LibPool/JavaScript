@@ -1,0 +1,35 @@
+# node-etp
+
+> 标签: JavaScript
+
+## 简介
+
+This is a javascript serialization implementation for the Energistics Transfer protocol (ETP).
+
+## 官网
+
+- 源码仓库：https://bitbucket.org/energistics/node-etp.git
+- npm 页面：https://www.npmjs.com/package/node-etp
+
+## 历史版本号
+
+- 当前版本：1.0.4-40
+
+- 1.0.4-3
+- 1.0.4-30
+- 1.0.4-31
+- 1.0.4-32
+- 1.0.4-33
+- 1.0.4-34
+- 1.0.4-35
+- 1.0.4-36
+- 1.0.4-37
+- 1.0.4-38
+- 1.0.4-39
+- 1.0.4-40
+
+## 获取地址
+
+- npm 安装：`npm install node-etp`
+- npm registry：https://registry.npmjs.org/node-etp
+- Node 要求：>= 0.10.0

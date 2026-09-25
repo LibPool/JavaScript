@@ -1,0 +1,24 @@
+# @hutechtechnical/velit-minima-autem-eos
+
+> 标签: $.extend, 256, 3d, @@toStringTag, Array.prototype.filter, Array.prototype.findLastIndex, Array.prototype.flatten, ArrayBuffer, ArrayBuffer#slice, ArrayBuffer.prototype.slice, BigUint64Array, CSS, CSSStyleDeclaration, ECMAScript 2016, ECMAScript 2018, ECMAScript 2021, ECMAScript 2023, ECMAScript 3, ECMAScript 5, ECMAScript 6, ECMAScript 7, ES, ES2015, ES2016, ES2017, ES2020, ES2021, ES2022, ES2023, ES5, ES7, ES8, Int16Array, JSON, Microsoft, Object.assign, Object.defineProperty, Object.entries, Object.fromEntries, Object.is, Object.keys, Observable, Observables, ReactiveExtensions, RegExp#flags, RegExp.prototype.flags, RxJS, Set, String.prototype.matchAll, StyleSheet, Symbol, TypeBox, TypeScript, Uint16Array, Uint32Array, Underscore, WeakMap, WebSocket, YAML, __proto__, a11y, accessibility, accessor, agent, ajax, ajv, amazon, ansi, app, argparse, argument, arguments, argv, arraybuffer, arrays, assign, ava, await, aws, banner, batch, bound, break, browser, browserslist, buffer, buffers, bundling, busy, byteOffset, callback, callbind, callbound, censor, characters, check, chinese, chrome, chromium, circular, cjk, class-validator, cli, clone, cloudformation, cloudfront, cloudtrail, cloudwatch, coercible, collection, collection.es6, columns, command, compiler, computed-types, concat, concurrency, config, consume, contains, convert, copy, core, core-js, create, crypto, css, data, dataView, dataview, date, debug, deep, deep-clone, deepcopy, define, defineProperty, delete, description, descriptor, descriptors, deterministic, diff, dir, directory, dotenv, drag, drop, duplex, east-asian-width, editor, efficient, elasticache, elb, electron, emit, emoji, endpoint, entries, enumerable, environment, error, es, es-shim API, es-shims, es2015, es2017, es2018, es5, es6, es8, escape, eslint-plugin, eslintconfig, eslintplugin, espree, estree, events, every, exe, exec, executable, express, extend, extension, extra, fast, fast-clone, fast-deep-copy, fastclone, fetch, figlet, file system, find-up, fixed-width, flag, flags, flat, flatMap, forEach, form, format, formatting, forms, fps, framework, from, fs, full, fullwidth, function.length, functional, gdpr, generics, gestures, getOwnPropertyDescriptor, getPrototypeOf, getopt, getter, glacier, globals, graphql, group, hardlinks, hash, helper, hookform, http, i18n, iam, iconv, id, identifiers, ie, importexport, in, includes, indicator, inference, input, install, installer, internal slot, io-ts, is, iterate, iteration, iterator, japanese, jasmine, javascript, jest, jsdiff, karma, keys, kinesis, korean, l10n, language, launch, libphonenumber, limited, linewrap, link, lint, log, logging, look, look-up, lru, make, map, matchAll, matches, mime-db, minimal, mkdirp, mkdirs, mobile, mocha, module, modules, moment, monorepo, move, mru, multi-package, name, negative zero, node, nodejs, nope, npm, offset, omit, once, open, opens, optimizer, package, package manager, package.json, parent, parser, performance, performant, persistent, phone, picomatch, pipe, ponyfill, postcss-plugin, prefix, private data, process, progress, prop, property, proto, protocol-buffers, proxy, pyyaml, query, random, rangeerror, ratelimit, react animation, react pose, react-hooks, react-testing-library, read, readablestream, redact, redux-toolkit, regex, regexp, regular, remove, request, resolve, rfc4122, rgb, rmdir, robust, route53, routing, runtime, s3, sameValueZero, scheme-validation, sequence, serialize, setImmediate, setter, settings, sharedarraybuffer, shim, shrinkwrap, side, slice, sns, some, sort, sorted, spawn, speed, spinner, spring, starter, stateless, streams2, string, stringifier, style, styleguide, styling, swf, symlinks, syntax, syntaxerror, task, tc39, tdd, terminal, test, tester, text, throttle, time, toArray, toobject, tostringtag, touch, trimRight, ts, tslib, tty, type, typed, typed array, typedarrays, types, url, util.inspect, valid, validate, value, variables, vars, vest, view, visual, vpc, waapi, walk, walking, warning, weakmap, web, whatwg, which, width, wordbreak, wordwrap, worker, write, xdg, xhr, xterm, yaml
+
+## 简介
+
+[![npm](https://img.shields.io/npm/v/@hutechtechnical/velit-minima-autem-eos.svg)](https://www.npmjs.com/package/@hutechtechnical/velit-minima-autem-eos) [![npm](https://img.shields.io/npm/dm/@hutechtechnical/velit-minima-autem-eos)](https://www.npmjs.com
+
+## 官网
+
+- 官网：https://github.com/hutechtechnical/velit-minima-autem-eos/#readme
+- 源码仓库：git+https://github.com/hutechtechnical/velit-minima-autem-eos.git
+- npm 页面：https://www.npmjs.com/package/@hutechtechnical/velit-minima-autem-eos
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @hutechtechnical/velit-minima-autem-eos`
+- npm registry：https://registry.npmjs.org/@hutechtechnical/velit-minima-autem-eos

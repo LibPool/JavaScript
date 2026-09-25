@@ -1,0 +1,22 @@
+# @vision-dev/library-vue-boilerplate
+
+> 标签: JavaScript
+
+## 简介
+
+boilerplate for vision vue library
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@vision-dev/library-vue-boilerplate
+
+## 历史版本号
+
+- 当前版本：0.0.8-alpha.0
+
+- 0.0.8-alpha.0
+
+## 获取地址
+
+- npm 安装：`npm install @vision-dev/library-vue-boilerplate`
+- npm registry：https://registry.npmjs.org/@vision-dev/library-vue-boilerplate

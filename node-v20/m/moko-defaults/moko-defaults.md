@@ -1,0 +1,24 @@
+# moko-defaults
+
+> 标签: default, moko-plugin, values
+
+## 简介
+
+default values for moko
+
+## 官网
+
+- 官网：https://github.com/mokojs/defaults
+- 源码仓库：git://github.com/mokojs/defaults
+- npm 页面：https://www.npmjs.com/package/moko-defaults
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install moko-defaults`
+- npm registry：https://registry.npmjs.org/moko-defaults

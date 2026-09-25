@@ -1,0 +1,24 @@
+# forms-utility-react
+
+> 标签: forms
+
+## 简介
+
+Forms is a utility that handle multiple forms in a single react state.
+
+## 官网
+
+- 官网：https://github.com/IvanMrtz/Forms#readme
+- 源码仓库：git+https://github.com/IvanMrtz/Forms.git
+- npm 页面：https://www.npmjs.com/package/forms-utility-react
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install forms-utility-react`
+- npm registry：https://registry.npmjs.org/forms-utility-react

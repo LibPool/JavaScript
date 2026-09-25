@@ -1,0 +1,35 @@
+# @aqaurius6666/react-folder-tree
+
+> 标签: folder, folder-picker, folder-structure, folder-tooling, folder-tree, folder-viewer, folders, npm, npm-module, npm-package, react, reactjs, recursion, recursion-problem, recursion-tree, recursion-tree-visualiser, recursion-tree-visualizer, recursions, tree-structure, treeview
+
+## 简介
+
+customizable react folder tree library
+
+## 官网
+
+- 官网：https://shunjizhan.github.io/react-folder-tree-demos/
+- 源码仓库：git+https://github.com/shunjizhan/react-folder-tree.git
+- npm 页面：https://www.npmjs.com/package/@aqaurius6666/react-folder-tree
+
+## 历史版本号
+
+- 当前版本：5.2.8
+
+- 5.0.3
+- 5.1.0
+- 5.1.1
+- 5.2.0
+- 5.2.1
+- 5.2.2
+- 5.2.3
+- 5.2.4
+- 5.2.5
+- 5.2.6
+- 5.2.7
+- 5.2.8
+
+## 获取地址
+
+- npm 安装：`npm install @aqaurius6666/react-folder-tree`
+- npm registry：https://registry.npmjs.org/@aqaurius6666/react-folder-tree

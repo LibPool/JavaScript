@@ -1,0 +1,23 @@
+# @hruh/npmcomponent
+
+> 标签: JavaScript
+
+## 简介
+
+@hruh/npmcomponent - JavaScript library from npm
+
+## 官网
+
+- 源码仓库：git@git.d-velop.de:hruh/npmcomponent.git
+- npm 页面：https://www.npmjs.com/package/@hruh/npmcomponent
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @hruh/npmcomponent`
+- npm registry：https://registry.npmjs.org/@hruh/npmcomponent

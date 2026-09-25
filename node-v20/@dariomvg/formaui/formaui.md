@@ -1,0 +1,30 @@
+# @dariomvg/formaui
+
+> 标签: ai, auth, cli, email, nextjs, payments, scaffolding
+
+## 简介
+
+CLI para agregar auth, ia, payments y email a proyectos Next.js
+
+## 官网
+
+- 官网：https://www.formaui.site
+- npm 页面：https://www.npmjs.com/package/@dariomvg/formaui
+
+## 历史版本号
+
+- 当前版本：0.1.6
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+
+## 获取地址
+
+- npm 安装：`npm install @dariomvg/formaui`
+- npm registry：https://registry.npmjs.org/@dariomvg/formaui
+- Node 要求：>=18

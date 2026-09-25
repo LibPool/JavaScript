@@ -1,0 +1,24 @@
+# proxy-finder
+
+> 标签: find, google, http, proxy
+
+## 简介
+
+Module to find HTTP proxies lists using Google.
+
+## 官网
+
+- 官网：https://github.com/scastiel/node-proxy-finder
+- 源码仓库：https://github.com/scastiel/node-proxy-finder.git
+- npm 页面：https://www.npmjs.com/package/proxy-finder
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install proxy-finder`
+- npm registry：https://registry.npmjs.org/proxy-finder

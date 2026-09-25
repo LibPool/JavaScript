@@ -1,0 +1,28 @@
+# @theunderscorer/rpc-in-memory-link
+
+> 标签: JavaScript
+
+## 简介
+
+This library was generated with [Nx](https://nx.dev) and is part of the Zen, a library collection made by [TheUnderScorer](https://github.com/TheUnderScorer).
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@theunderscorer/rpc-in-memory-link
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @theunderscorer/rpc-in-memory-link`
+- npm registry：https://registry.npmjs.org/@theunderscorer/rpc-in-memory-link

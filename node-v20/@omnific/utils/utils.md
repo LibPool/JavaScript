@@ -1,0 +1,33 @@
+# @omnific/utils
+
+> 标签: predicates, type-guards, utils
+
+## 简介
+
+Shared utility predicates for Omnific packages
+
+## 官网
+
+- 官网：https://github.com/monhan-97/omnific#readme
+- 源码仓库：git+https://github.com/monhan-97/omnific.git
+- npm 页面：https://www.npmjs.com/package/@omnific/utils
+
+## 历史版本号
+
+- 当前版本：0.3.1
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.1.0
+- 0.1.1
+- 0.2.0
+- 0.3.0
+- 0.3.1
+
+## 获取地址
+
+- npm 安装：`npm install @omnific/utils`
+- npm registry：https://registry.npmjs.org/@omnific/utils

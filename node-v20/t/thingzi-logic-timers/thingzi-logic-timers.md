@@ -1,0 +1,36 @@
+# thingzi-logic-timers
+
+> 标签: activity, calendar, chrono, motion, node-red, presence, schedule, sensor, time, timeout, timer, trigger
+
+## 简介
+
+Easy to use time based nodes with clean design
+
+## 官网
+
+- 官网：https://github.com/thingzi/thingzi-logic-timers#readme
+- 源码仓库：git+https://github.com/thingzi/thingzi-logic-timers.git
+- npm 页面：https://www.npmjs.com/package/thingzi-logic-timers
+
+## 历史版本号
+
+- 当前版本：1.4.7
+
+- 1.2.2
+- 1.2.3
+- 1.2.4
+- 1.2.5
+- 1.4.0
+- 1.4.1
+- 1.4.2
+- 1.4.3
+- 1.4.4
+- 1.4.5
+- 1.4.6
+- 1.4.7
+
+## 获取地址
+
+- npm 安装：`npm install thingzi-logic-timers`
+- npm registry：https://registry.npmjs.org/thingzi-logic-timers
+- Node 要求：>=12.0.0

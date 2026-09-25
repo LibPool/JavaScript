@@ -1,0 +1,36 @@
+# yocto-core-stack
+
+> 标签: core, express, stack, tools
+
+## 简介
+
+Core package for Yoctopus tools.
+
+## 官网
+
+- 官网：https://github.com/yoctore/yocto-core-stack#readme
+- 源码仓库：git+https://github.com/yoctore/yocto-core-stack.git
+- npm 页面：https://www.npmjs.com/package/yocto-core-stack
+
+## 历史版本号
+
+- 当前版本：3.0.2
+
+- 1.3.1
+- 1.3.2
+- 1.3.3
+- 1.3.4
+- 1.3.5
+- 1.3.6
+- 2.0.0
+- 2.0.1
+- 2.1.0
+- 3.0.0
+- 3.0.1
+- 3.0.2
+
+## 获取地址
+
+- npm 安装：`npm install yocto-core-stack`
+- npm registry：https://registry.npmjs.org/yocto-core-stack
+- Node 要求：>=8.9.4

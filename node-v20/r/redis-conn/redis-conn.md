@@ -1,0 +1,24 @@
+# redis-conn
+
+> 标签: cache, redis
+
+## 简介
+
+cache redis
+
+## 官网
+
+- 官网：https://github.com/ninlyu/redis-conn#readme
+- 源码仓库：git+https://github.com/ninlyu/redis-conn.git
+- npm 页面：https://www.npmjs.com/package/redis-conn
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install redis-conn`
+- npm registry：https://registry.npmjs.org/redis-conn

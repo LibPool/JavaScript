@@ -1,0 +1,27 @@
+# @conversokit/integrations
+
+> 标签: chatgpt-apps, conversokit, hubspot, resend, stripe, supabase
+
+## 简介
+
+Real and mock integrations for ConversoKit: Stripe, HubSpot, Resend, Cloudflare Email, and Supabase persistent stores.
+
+## 官网
+
+- 官网：https://github.com/Xyborg/ConversoKit#readme
+- 源码仓库：git+https://github.com/Xyborg/ConversoKit.git
+- npm 页面：https://www.npmjs.com/package/@conversokit/integrations
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @conversokit/integrations`
+- npm registry：https://registry.npmjs.org/@conversokit/integrations
+- Node 要求：>=18.0.0

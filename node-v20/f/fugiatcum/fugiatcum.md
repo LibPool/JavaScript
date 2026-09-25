@@ -1,0 +1,31 @@
+# fugiatcum
+
+> 标签: ad, angular, bdd, cucumber, ea, eaque, expedita, labore, maxime, mocha, selenium
+
+## 简介
+
+Serenity/JS: Next generation acceptance testing library for modern web applications.
+
+## 官网
+
+- 官网：https://github.com/IrwinDenesik/fugiatcum#readme
+- 源码仓库：git+https://github.com/IrwinDenesik/fugiatcum.git
+- npm 页面：https://www.npmjs.com/package/fugiatcum
+
+## 历史版本号
+
+- 当前版本：1.5.0
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 1.3.1
+- 1.4.0
+- 1.5.0
+
+## 获取地址
+
+- npm 安装：`npm install fugiatcum`
+- npm registry：https://registry.npmjs.org/fugiatcum
+- Node 要求：>= 6.9

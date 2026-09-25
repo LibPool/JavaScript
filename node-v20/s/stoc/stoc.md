@@ -1,0 +1,27 @@
+# stoc
+
+> 标签: stoc
+
+## 简介
+
+String to object compiler for javascript
+
+## 官网
+
+- 官网：https://github.com/lyfeyaj/stoc#readme
+- 源码仓库：git+https://github.com/lyfeyaj/stoc.git
+- npm 页面：https://www.npmjs.com/package/stoc
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install stoc`
+- npm registry：https://registry.npmjs.org/stoc

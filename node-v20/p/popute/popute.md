@@ -1,0 +1,27 @@
+# popute
+
+> 标签: comix, popute, まんが, まんがライフWIN, ポプテピピック
+
+## 简介
+
+ポプテピピックのurl一覧を取得
+
+## 官网
+
+- 官网：https://github.com/akameco/popute#readme
+- 源码仓库：git+https://github.com/akameco/popute.git
+- npm 页面：https://www.npmjs.com/package/popute
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install popute`
+- npm registry：https://registry.npmjs.org/popute
+- Node 要求：>=4

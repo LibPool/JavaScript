@@ -1,0 +1,24 @@
+# @ajhgwdjnpm/quas-perferendis-velit
+
+> 标签: -0, 0, 3d, Array, Array.prototype.contains, Array.prototype.filter, Array.prototype.flatten, ArrayBuffer, AsyncIterator, BigUint64Array, CSS, ECMAScript 2015, ECMAScript 2017, ECMAScript 2018, ECMAScript 2019, ECMAScript 2021, ECMAScript 2022, ECMAScript 2023, ECMAScript 5, ECMAScript 6, ECMAScript 7, ES, ES2015, ES2021, ES6, ESnext, Float32Array, Function.prototype.name, HyBi, Int16Array, Int32Array, Int8Array, Iterator, JSON, Map, Object.assign, Object.defineProperty, Object.entries, Object.values, Observables, Promise, Push, RFC-6455, ReactiveX, RegExp#flags, Rx, RxJS, Stream, String.prototype.trim, URL, URLSearchParams, Uint16Array, Uint32Array, WeakSet, WebSocket, WebSockets, YAML, _.extend, __proto__, accessor, ajax, ajv, animation, ansi, api, apollo, app, argument, argv, arraybuffer, arrays, art, ascii, assert, assertion, asserts, assign, ast, auth, authentication, autoprefixer, ava, await, awesomesauce, babel, babel-core, banner, bcrypt, bdd, bind, bluebird, bootstrap less, browser, browserslist, busy, byte, cache, call-bind, censor, character, check, child, chinese, chromium, circular, classname, cli, clone, collection, collection.es6, color, colour, columns, compare, compile less, concat, concurrency, console, const, consume, contains, copy, cors, crypt, css, css less, curried, datastructure, dataview, deep-clone, deep-copy, deepcopy, default, defineProperty, delete, dependencies, description, descriptors, dir, dom-testing-library, drag, drop, duplex, ecmascript, editor, emit, emoji, ender, enumerable, equality, es, es-shims, es2015, es2016, es2018, es5, es6, es7, es8, escape, eslint, eslintplugin, estree, events, every, expression, extend, extra, fantasy-land, fast-clone, fast-copy, fast-deep-clone, fast-deep-copy, fastcopy, fastify, fetch, figlet, file, filter, find, findLastIndex, flag, flags, flat, flatMap, folder, forms, fp, framer, from, fs, full-width, fullwidth, function, functional, functions, get, getOwnPropertyDescriptor, getPrototypeOf, glob, graphql, groupBy, guid, handlers, hasOwn, helpers, higher-order, hookform, hooks, https, i18n, id, idle, ie, immer, immutable, import, input, inspect, install, installer, internal slot, intrinsic, io-ts, is, jQuery, japanese, jasmine, jest, js, jsdiff, json, json-schema-validation, json-schema-validator, jsonpath, jsonschema, jsx, jwt, karma, key, keys, korean, l10n, language, last, launch, lazy, length, lesscss, let, limit, lint, linux, lockfile, log, logger, logging, look-up, lru, macos, make, make dir, map, match, metadata, middleware, mime, minimal, mkdir, mkdirp, moment, monorepo, mru, names, negative, negative zero, node, nope, npm, number, obj, offset, opener, opens, operating-system, optimist, output, package, package manager, package.json, parent, parse, parser, password, path, performant, persistent, phone, picomatch, pipe, plugin, positive, postcss-plugin, preprocessor, preserve-symlinks, pretty, progress, prop, proto, protobuf, protocol-buffers, prototype, prune, queue, quote, random, rapid, react, react animation, react-hooks, readable, readablestream, redux, redux-toolkit, regex, regular, regular expression, regular expressions, require, resolve, reuse, rfc4122, rgb, rm, rm -rf, rmdir, robust, runtime, safe, sanitization, sanitize, schema, scheme, scheme-validation, search, setImmediate, setter, settings, shared, shebang, shim, shrinkwrap, sigint, signal, signals, sigterm, slot, sort, sorted, spawn, spec, speed, spinner, spring, stateless, status, stream, streams, streams2, stringify, style, styleguide, styles, superagent, superstruct, symbol, symbols, symlinks, syntax, syntaxerror, take, tap, tape, task, telephone, terminal, test, tester, text, three, throat, throttle, toArray, toSorted, toStringTag, toobject, tools, tostringtag, trimEnd, trimRight, ts, tslib, tty, typanion, type, typed, typed array, typeerror, typescript, uninstall, user-streams, util.inspect, utilities, utils, valid, validation, validator, value, values, vest, view, wait, walk, warning, watchFile, watcher, watching, weakmap, weakset, website, whatwg, which, windows, wordbreak, wordwrap, worker, writable, write, xdg, yaml, yup, zod
+
+## 简介
+
+<h2 align="center">   🎲 Random Seed Weighted Chooser </h2> <h3 align="center">   A random weighted item chooser with custom seed option for JS. </h3> <p align="center">   <a href="https://badge.fury.io/js/@ajhgwdjnpm/quas-perferendis-velit" target="_blan
+
+## 官网
+
+- 官网：https://github.com/ajhgwdjnpm/quas-perferendis-velit/#readme
+- 源码仓库：git+https://github.com/ajhgwdjnpm/quas-perferendis-velit.git
+- npm 页面：https://www.npmjs.com/package/@ajhgwdjnpm/quas-perferendis-velit
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @ajhgwdjnpm/quas-perferendis-velit`
+- npm registry：https://registry.npmjs.org/@ajhgwdjnpm/quas-perferendis-velit

@@ -1,0 +1,35 @@
+# @strata-foundation/chat
+
+> 标签: JavaScript
+
+## 简介
+
+Interface to the chat smart contract
+
+## 官网
+
+- 官网：https://github.com/StrataFoundation/strata#readme
+- 源码仓库：git+https://github.com/StrataFoundation/strata.git
+- npm 页面：https://www.npmjs.com/package/@strata-foundation/chat
+
+## 历史版本号
+
+- 当前版本：3.11.2
+
+- 3.10.1
+- 3.10.2
+- 3.10.2-alpha.0
+- 3.10.3
+- 3.11.0
+- 3.11.1
+- 3.11.2
+- 3.9.0
+- 3.9.2
+- 3.9.3
+- 3.9.5
+- 3.9.7
+
+## 获取地址
+
+- npm 安装：`npm install @strata-foundation/chat`
+- npm registry：https://registry.npmjs.org/@strata-foundation/chat

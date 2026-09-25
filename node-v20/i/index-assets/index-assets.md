@@ -1,0 +1,27 @@
+# index-assets
+
+> 标签: JavaScript
+
+## 简介
+
+asdfsadfsf
+
+## 官网
+
+- 官网：https://github.com/yaremiyroman/index-assets#readme
+- 源码仓库：git+https://github.com/yaremiyroman/index-assets.git
+- npm 页面：https://www.npmjs.com/package/index-assets
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install index-assets`
+- npm registry：https://registry.npmjs.org/index-assets

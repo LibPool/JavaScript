@@ -1,0 +1,24 @@
+# react-text-annotator-skx-gh-revisereact
+
+> 标签: labeler, svg, text-annotator, visualization
+
+## 简介
+
+react-text-annotator is a labeler component that:
+
+## 官网
+
+- 官网：https://github.com/microsoft/react-text-annotator#readme
+- 源码仓库：git+https://github.com/microsoft/react-text-annotator.git
+- npm 页面：https://www.npmjs.com/package/react-text-annotator-skx-gh-revisereact
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install react-text-annotator-skx-gh-revisereact`
+- npm registry：https://registry.npmjs.org/react-text-annotator-skx-gh-revisereact

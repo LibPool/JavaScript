@@ -1,0 +1,22 @@
+# animate-lite-emzy
+
+> 标签: animation, css, lite
+
+## 简介
+
+Lightweight CSS animation library
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/animate-lite-emzy
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install animate-lite-emzy`
+- npm registry：https://registry.npmjs.org/animate-lite-emzy

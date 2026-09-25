@@ -1,0 +1,24 @@
+# animationtuts
+
+> 标签: Animation, games
+
+## 简介
+
+just animation tutorial for testing npm
+
+## 官网
+
+- 官网：https://github.com/ganesh784580/MyiOSPoc#readme
+- 源码仓库：git+https://github.com/ganesh784580/MyiOSPoc.git
+- npm 页面：https://www.npmjs.com/package/animationtuts
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install animationtuts`
+- npm registry：https://registry.npmjs.org/animationtuts

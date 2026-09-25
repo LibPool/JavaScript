@@ -1,0 +1,35 @@
+# @nomadfypg/nomadfy-sdk
+
+> 标签: aws, gateway, library, nomadfy, payment, sdk, typescript
+
+## 简介
+
+Software Development Kit (SDK), written in TypeScript, in order to perform integrations with various existing payment gateways.
+
+## 官网
+
+- 官网：https://github.com/lwglg/nomadfy-sdk#readme
+- 源码仓库：git+ssh://git@github.com/lwglg/nomadfy-sdk.git
+- npm 页面：https://www.npmjs.com/package/@nomadfypg/nomadfy-sdk
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.43
+- 0.0.44
+- 0.0.45
+- 0.0.46
+- 0.0.47
+- 0.0.48
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @nomadfypg/nomadfy-sdk`
+- npm registry：https://registry.npmjs.org/@nomadfypg/nomadfy-sdk

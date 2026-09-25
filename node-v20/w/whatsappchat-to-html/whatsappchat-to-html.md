@@ -1,0 +1,24 @@
+# whatsappchat-to-html
+
+> 标签: chat html, conversation, whatsapp, whatsapp export, whatsapp to html
+
+## 简介
+
+A CLI tool to convert WhatsApp chat exports to HTML
+
+## 官网
+
+- 官网：https://github.com/ahgsql/whatshapp-to-html#readme
+- 源码仓库：git+https://github.com/ahgsql/whatshapp-to-html.git
+- npm 页面：https://www.npmjs.com/package/whatsappchat-to-html
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install whatsappchat-to-html`
+- npm registry：https://registry.npmjs.org/whatsappchat-to-html

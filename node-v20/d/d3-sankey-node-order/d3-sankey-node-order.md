@@ -1,0 +1,24 @@
+# d3-sankey-node-order
+
+> 标签: d3, sankey
+
+## 简介
+
+Visualize flow between nodes in a directed acyclic network with a customizable node order.
+
+## 官网
+
+- 官网：https://github.com/gianluca-venturini/d3-sankey
+- 源码仓库：git+https://github.com/gianluca-venturini/d3-sankey.git
+- npm 页面：https://www.npmjs.com/package/d3-sankey-node-order
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install d3-sankey-node-order`
+- npm registry：https://registry.npmjs.org/d3-sankey-node-order

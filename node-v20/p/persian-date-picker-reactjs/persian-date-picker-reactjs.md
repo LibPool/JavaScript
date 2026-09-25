@@ -1,0 +1,36 @@
+# persian-date-picker-reactjs
+
+> 标签: date, date-picker, jalaali, jalali, persian, persian-date-picker, react, shamsi, tailwindcss, time-picker, typescript
+
+## 简介
+
+Persian React Date Picker
+
+## 官网
+
+- 官网：https://github.com/MHPourhasani/react-persian-date-picker#readme
+- 源码仓库：git+https://github.com/MHPourhasani/react-persian-date-picker.git
+- npm 页面：https://www.npmjs.com/package/persian-date-picker-reactjs
+
+## 历史版本号
+
+- 当前版本：1.3.10
+
+- 1.2.9
+- 1.3.0
+- 1.3.1
+- 1.3.10
+- 1.3.2
+- 1.3.3
+- 1.3.4
+- 1.3.5
+- 1.3.6
+- 1.3.7
+- 1.3.8
+- 1.3.9
+- 共 101 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install persian-date-picker-reactjs`
+- npm registry：https://registry.npmjs.org/persian-date-picker-reactjs

@@ -1,0 +1,26 @@
+# @cameronwp/client-endpoint
+
+> 标签: JavaScript
+
+## 简介
+
+Simplified client for socket.io messaging. See @cameronwp/server-endpoint.
+
+## 官网
+
+- 官网：https://github.com/cameronwp/client-endpoint#readme
+- 源码仓库：git+https://github.com/cameronwp/client-endpoint.git
+- npm 页面：https://www.npmjs.com/package/@cameronwp/client-endpoint
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @cameronwp/client-endpoint`
+- npm registry：https://registry.npmjs.org/@cameronwp/client-endpoint

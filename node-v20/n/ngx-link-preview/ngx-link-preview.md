@@ -1,0 +1,35 @@
+# ngx-link-preview
+
+> 标签: angular, angular-component, library, link-preview, opengraph, preview web links, render web links, ui
+
+## 简介
+
+The Open Graph link preview component for Angular 6+
+
+## 官网
+
+- 官网：https://github.com/btxtiger/ngx-link-preview#readme
+- 源码仓库：git+https://github.com/btxtiger/ngx-link-preview.git
+- npm 页面：https://www.npmjs.com/package/ngx-link-preview
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.1.6
+- 1.1.7
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install ngx-link-preview`
+- npm registry：https://registry.npmjs.org/ngx-link-preview

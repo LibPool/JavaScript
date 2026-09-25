@@ -1,0 +1,35 @@
+# @milon27/react-media-library
+
+> 标签: media library, react media library, typescript, wordpress media library
+
+## 简介
+
+Compitable with react js and next js.
+
+## 官网
+
+- 官网：https://github.com/milon27/react-media-library#readme
+- 源码仓库：git+https://github.com/milon27/react-media-library.git
+- npm 页面：https://www.npmjs.com/package/@milon27/react-media-library
+
+## 历史版本号
+
+- 当前版本：2.1.6
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 2.0.0
+- 2.1.0
+- 2.1.1
+- 2.1.2
+- 2.1.3
+- 2.1.4
+- 2.1.5
+- 2.1.6
+
+## 获取地址
+
+- npm 安装：`npm install @milon27/react-media-library`
+- npm registry：https://registry.npmjs.org/@milon27/react-media-library
+- Node 要求：>=10

@@ -1,0 +1,25 @@
+# boostnote
+
+> 标签: api, boost, boosthub, boostnote, cloud, collaboration, docs, documents, note, notes
+
+## 简介
+
+Nodejs library for the Boostnote API
+
+## 官网
+
+- 官网：https://github.com/pfftdammitchris/boostnote-api#readme
+- 源码仓库：git+ssh://git@github.com/pfftdammitchris/boostnote-api.git
+- npm 页面：https://www.npmjs.com/package/boostnote
+
+## 历史版本号
+
+- 当前版本：0.0.8
+
+- 0.0.7
+- 0.0.8
+
+## 获取地址
+
+- npm 安装：`npm install boostnote`
+- npm registry：https://registry.npmjs.org/boostnote

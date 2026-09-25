@@ -1,0 +1,36 @@
+# @mirendil/models-dev
+
+> 标签: ai, anthropic, context-window, effect, llm, models, openai, pricing
+
+## 简介
+
+Mirendil-maintained models.dev catalog with explicit canonical base_model mappings
+
+## 官网
+
+- 官网：https://github.com/tetranoir/models.dev-mirendil
+- 源码仓库：git+https://github.com/tetranoir/models.dev-mirendil.git
+- npm 页面：https://www.npmjs.com/package/@mirendil/models-dev
+
+## 历史版本号
+
+- 当前版本：0.1.20
+
+- 0.1.17
+- 0.1.18
+- 0.1.19
+- 0.1.2
+- 0.1.20
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install @mirendil/models-dev`
+- npm registry：https://registry.npmjs.org/@mirendil/models-dev
+- Node 要求：>=18

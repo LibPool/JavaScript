@@ -1,0 +1,26 @@
+# messaging-fetch
+
+> 标签: chrome, extension, fetch, proxy
+
+## 简介
+
+A proxy library that enables fetch API calls across different JavaScript contexts through message passing
+
+## 官网
+
+- 官网：https://github.com/SpringNyan/messaging-fetch#readme
+- 源码仓库：git+https://github.com/SpringNyan/messaging-fetch.git
+- npm 页面：https://www.npmjs.com/package/messaging-fetch
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install messaging-fetch`
+- npm registry：https://registry.npmjs.org/messaging-fetch

@@ -1,0 +1,35 @@
+# fragment-player
+
+> 标签: JavaScript
+
+## 简介
+
+Play and seek through fragments of videos within a single player
+
+## 官网
+
+- 源码仓库：https://github.com/ryley-matos/fragment-player.git
+- npm 页面：https://www.npmjs.com/package/fragment-player
+
+## 历史版本号
+
+- 当前版本：2.0.6
+
+- 1.2.2
+- 1.2.3
+- 1.2.4
+- 1.2.5
+- 1.2.6
+- 2.0.0
+- 2.0.1
+- 2.0.2
+- 2.0.3
+- 2.0.4
+- 2.0.5
+- 2.0.6
+
+## 获取地址
+
+- npm 安装：`npm install fragment-player`
+- npm registry：https://registry.npmjs.org/fragment-player
+- Node 要求：>=10

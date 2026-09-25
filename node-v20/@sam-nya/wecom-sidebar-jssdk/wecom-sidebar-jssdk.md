@@ -1,0 +1,25 @@
+# @sam-nya/wecom-sidebar-jssdk
+
+> 标签: JavaScript
+
+## 简介
+
+更高抽象的企业微信 JS-SDK 封装
+
+## 官网
+
+- 官网：https://github.com/wecom-sidebar/wecom-sidebar-jssdk#readme
+- 源码仓库：git+https://github.com/wecom-sidebar/wecom-sidebar-jssdk.git
+- npm 页面：https://www.npmjs.com/package/@sam-nya/wecom-sidebar-jssdk
+
+## 历史版本号
+
+- 当前版本：0.0.22-SNAPSHOT
+
+- 0.0.22
+- 0.0.22-SNAPSHOT
+
+## 获取地址
+
+- npm 安装：`npm install @sam-nya/wecom-sidebar-jssdk`
+- npm registry：https://registry.npmjs.org/@sam-nya/wecom-sidebar-jssdk

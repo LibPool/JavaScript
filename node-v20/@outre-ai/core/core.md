@@ -1,0 +1,24 @@
+# @outre-ai/core
+
+> 标签: JavaScript
+
+## 简介
+
+OuTre is a fully modular AI Trading Agent Framework designed for **Solana-based trading automation**. It enables traders to **create AI agents**, **execute strategies**, and **manage portfolios** via JSON configurations.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@outre-ai/core
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @outre-ai/core`
+- npm registry：https://registry.npmjs.org/@outre-ai/core
+- Node 要求：>= 18

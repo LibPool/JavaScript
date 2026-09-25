@@ -1,0 +1,24 @@
+# @pipeworx/mcp-arcgis-orovalley
+
+> 标签: arcgis-orovalley, mcp, mcp-server, model-context-protocol, pipeworx
+
+## 简介
+
+Town of Oro Valley GIS — Oro Valley, Arizona open geospatial data (ArcGIS).
+
+## 官网
+
+- 官网：https://github.com/pipeworx-io/mcp-arcgis-orovalley#readme
+- 源码仓库：git+https://github.com/pipeworx-io/mcp-arcgis-orovalley.git
+- npm 页面：https://www.npmjs.com/package/@pipeworx/mcp-arcgis-orovalley
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @pipeworx/mcp-arcgis-orovalley`
+- npm registry：https://registry.npmjs.org/@pipeworx/mcp-arcgis-orovalley

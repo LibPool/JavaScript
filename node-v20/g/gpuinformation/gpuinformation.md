@@ -1,0 +1,26 @@
+# gpuinformation
+
+> 标签: gpu temp, gpu-info, nvidia-gpu
+
+## 简介
+
+Shows NVIDIA GPU Load, Temp, Name, Clocks
+
+## 官网
+
+- 官网：https://gitlab.com/abhishekmv/gpu#readme
+- 源码仓库：git+https://gitlab.com/abhishekmv/gpu.git
+- npm 页面：https://www.npmjs.com/package/gpuinformation
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+- 5.0.1
+
+## 获取地址
+
+- npm 安装：`npm install gpuinformation`
+- npm registry：https://registry.npmjs.org/gpuinformation

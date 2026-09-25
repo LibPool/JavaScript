@@ -1,0 +1,24 @@
+# @investor/baoviet-crawler
+
+> 标签: JavaScript
+
+## 简介
+
+@investor/baoviet-crawler - JavaScript library from npm
+
+## 官网
+
+- 源码仓库：git@gitlab.com-barrydevp:super-merch/investor/crawlers/baoviet-crawler.git
+- npm 页面：https://www.npmjs.com/package/@investor/baoviet-crawler
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @investor/baoviet-crawler`
+- npm registry：https://registry.npmjs.org/@investor/baoviet-crawler

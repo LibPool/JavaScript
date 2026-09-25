@@ -1,0 +1,31 @@
+# @tapni/vcards-js
+
+> 标签: contacts, vCard, vCards
+
+## 简介
+
+Fork from 'vcards-js' package. Create vCards to import contacts into Outlook, iOS, Mac OS, Android devices, and more.
+
+## 官网
+
+- 官网：https://github.com/enesser/vCards-JS
+- 源码仓库：git+https://github.com/zeka035/vCards-js.git
+- npm 页面：https://www.npmjs.com/package/@tapni/vcards-js
+
+## 历史版本号
+
+- 当前版本：1.0.10
+
+- 1.0.10
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @tapni/vcards-js`
+- npm registry：https://registry.npmjs.org/@tapni/vcards-js

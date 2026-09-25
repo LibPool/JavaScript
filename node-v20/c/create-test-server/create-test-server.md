@@ -1,0 +1,35 @@
+# create-test-server
+
+> 标签: ci, create, express, http, https, mock, nock, server, ssl, test, testing, tests, unit
+
+## 简介
+
+Creates a minimal Express server for testing
+
+## 官网
+
+- 官网：https://github.com/lukechilds/create-test-server
+- 源码仓库：git+https://github.com/lukechilds/create-test-server.git
+- npm 页面：https://www.npmjs.com/package/create-test-server
+
+## 历史版本号
+
+- 当前版本：3.0.1
+
+- 1.1.1
+- 2.0.0
+- 2.0.1
+- 2.0.2
+- 2.1.0
+- 2.1.1
+- 2.2.0
+- 2.3.0
+- 2.3.1
+- 2.4.0
+- 3.0.0
+- 3.0.1
+
+## 获取地址
+
+- npm 安装：`npm install create-test-server`
+- npm registry：https://registry.npmjs.org/create-test-server

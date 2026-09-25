@@ -1,0 +1,31 @@
+# z-js-framework
+
+> 标签: Framework, Js, framework, html, htmx, js, vanilla
+
+## 简介
+
+The literally low mental overhead js framework!
+
+## 官网
+
+- 官网：https://github.com/Z-Js-Framework/z-js#readme
+- 源码仓库：git+https://github.com/Z-Js-Framework/z-js.git
+- npm 页面：https://www.npmjs.com/package/z-js-framework
+
+## 历史版本号
+
+- 当前版本：0.0.8
+
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 1.0.0
+- 1.0.5
+
+## 获取地址
+
+- npm 安装：`npm install z-js-framework`
+- npm registry：https://registry.npmjs.org/z-js-framework

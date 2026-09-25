@@ -1,0 +1,35 @@
+# nuxt-upload-kit
+
+> 标签: JavaScript
+
+## 简介
+
+A powerful, plugin-based file upload manager for Nuxt applications
+
+## 官网
+
+- 官网：https://github.com/genu/nuxt-upload-kit#readme
+- 源码仓库：git+https://github.com/genu/nuxt-upload-kit.git
+- npm 页面：https://www.npmjs.com/package/nuxt-upload-kit
+
+## 历史版本号
+
+- 当前版本：0.1.27
+
+- 0.1.21
+- 0.1.22
+- 0.1.23
+- 0.1.24
+- 0.1.25
+- 0.1.26
+- 0.1.27
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install nuxt-upload-kit`
+- npm registry：https://registry.npmjs.org/nuxt-upload-kit

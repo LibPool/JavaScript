@@ -1,0 +1,25 @@
+# @ijuani/swagger-ui-dist
+
+> 标签: JavaScript
+
+## 简介
+
+[![NPM version](https://badge.fury.io/js/swagger-ui-dist.svg)](http://badge.fury.io/js/swagger-ui-dist)
+
+## 官网
+
+- 官网：https://github.com/swagger-api/swagger-ui#readme
+- 源码仓库：git+ssh://git@github.com/swagger-api/swagger-ui.git
+- npm 页面：https://www.npmjs.com/package/@ijuani/swagger-ui-dist
+
+## 历史版本号
+
+- 当前版本：4.1.3
+
+- 4.1.2
+- 4.1.3
+
+## 获取地址
+
+- npm 安装：`npm install @ijuani/swagger-ui-dist`
+- npm registry：https://registry.npmjs.org/@ijuani/swagger-ui-dist

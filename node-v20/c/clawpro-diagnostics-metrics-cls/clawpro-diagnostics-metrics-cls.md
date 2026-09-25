@@ -1,0 +1,36 @@
+# clawpro-diagnostics-metrics-cls
+
+> 标签: cls, diagnostics, metrics, observability, openclaw, openclaw-plugin, prometheus, tencent-cloud, trace
+
+## 简介
+
+CLS OpenClaw diagnostics exporter: Prometheus metrics (pull/remote-write) + full-link Trace
+
+## 官网
+
+- 官网：https://github.com/openclaw/diagnostics-metrics-cls#readme
+- 源码仓库：git+https://github.com/openclaw/diagnostics-metrics-cls.git
+- npm 页面：https://www.npmjs.com/package/clawpro-diagnostics-metrics-cls
+
+## 历史版本号
+
+- 当前版本：3.0.8
+
+- 3.0.2-beta.1
+- 3.0.2-beta.2
+- 3.0.2-beta.3
+- 3.0.2-beta.4
+- 3.0.2-beta.5
+- 3.0.2-beta.6
+- 3.0.2-beta.7
+- 3.0.4
+- 3.0.5
+- 3.0.6
+- 3.0.7
+- 3.0.8
+
+## 获取地址
+
+- npm 安装：`npm install clawpro-diagnostics-metrics-cls`
+- npm registry：https://registry.npmjs.org/clawpro-diagnostics-metrics-cls
+- Node 要求：>=18

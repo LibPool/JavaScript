@@ -1,0 +1,24 @@
+# tigger_laya
+
+> 标签: phaser, typescript, webpack
+
+## 简介
+
+build phaser project with template, data bind, and webpack hmr
+
+## 官网
+
+- 官网：https://github.com/vicentyang/tigger_laya#readme
+- 源码仓库：git+https://github.com/vicentyang/tigger_laya.git
+- npm 页面：https://www.npmjs.com/package/tigger_laya
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install tigger_laya`
+- npm registry：https://registry.npmjs.org/tigger_laya

@@ -1,0 +1,24 @@
+# @resessh/iconfont-webpack-plugin
+
+> 标签: iconfont, plugin, webpack
+
+## 简介
+
+iconfont plugin for webpack.
+
+## 官网
+
+- 官网：https://github.com/resessh/iconfont-webpack-plugin#readme
+- 源码仓库：git+https://github.com/resessh/iconfont-webpack-plugin.git
+- npm 页面：https://www.npmjs.com/package/@resessh/iconfont-webpack-plugin
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @resessh/iconfont-webpack-plugin`
+- npm registry：https://registry.npmjs.org/@resessh/iconfont-webpack-plugin

@@ -1,0 +1,36 @@
+# @leaf-x/we-chat-pay
+
+> 标签: JavaScript
+
+## 简介
+
+WeChat payment V3.0.0 API.
+
+## 官网
+
+- 官网：https://github.com/SoundShell/leaf-x-weChat-pay#readme
+- 源码仓库：git+https://github.com/SoundShell/leaf-x-weChat-pay.git
+- npm 页面：https://www.npmjs.com/package/@leaf-x/we-chat-pay
+
+## 历史版本号
+
+- 当前版本：1.3.3
+
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.1.0
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.2.3
+- 1.3.0
+- 1.3.1
+- 1.3.2
+- 1.3.3
+
+## 获取地址
+
+- npm 安装：`npm install @leaf-x/we-chat-pay`
+- npm registry：https://registry.npmjs.org/@leaf-x/we-chat-pay
+- Node 要求：>=11.0.0

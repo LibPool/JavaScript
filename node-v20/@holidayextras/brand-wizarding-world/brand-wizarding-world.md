@@ -1,0 +1,32 @@
+# @holidayextras/brand-wizarding-world
+
+> 标签: JavaScript
+
+## 简介
+
+Wizarding World
+
+## 官网
+
+- 官网：https://github.com/holidayextras/brands#readme
+- 源码仓库：git+https://github.com/holidayextras/brands.git
+- npm 页面：https://www.npmjs.com/package/@holidayextras/brand-wizarding-world
+
+## 历史版本号
+
+- 当前版本：1.2.3
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.1.1
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.2.3
+- 6.16.1
+
+## 获取地址
+
+- npm 安装：`npm install @holidayextras/brand-wizarding-world`
+- npm registry：https://registry.npmjs.org/@holidayextras/brand-wizarding-world

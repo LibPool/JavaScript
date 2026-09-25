@@ -1,0 +1,25 @@
+# jethro-palindrome
+
+> 标签: javascript, palindrome, uniab
+
+## 简介
+
+palindrome detector
+
+## 官网
+
+- 官网：https://github.com/Jethroinnit/jethro-palindrome#readme
+- 源码仓库：git+ssh://git@github.com/Jethroinnit/jethro-palindrome.git
+- npm 页面：https://www.npmjs.com/package/jethro-palindrome
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install jethro-palindrome`
+- npm registry：https://registry.npmjs.org/jethro-palindrome

@@ -1,0 +1,29 @@
+# pretty-squircle
+
+> 标签: figma, geometry, squircle, svg, ui
+
+## 简介
+
+real squircle everywhere
+
+## 官网
+
+- 官网：https://github.com/eykettle/pretty-squircle#readme
+- 源码仓库：git+https://github.com/eykettle/pretty-squircle.git
+- npm 页面：https://www.npmjs.com/package/pretty-squircle
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+
+## 获取地址
+
+- npm 安装：`npm install pretty-squircle`
+- npm registry：https://registry.npmjs.org/pretty-squircle

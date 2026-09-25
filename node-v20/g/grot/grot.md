@@ -1,0 +1,35 @@
+# grot
+
+> 标签: React, components
+
+## 简介
+
+This package contains a selection of React components, which I use as general building blocks in different React applications.
+
+## 官网
+
+- 官网：https://bitbucket.org/johandavidsen/grot#readme
+- 源码仓库：git+https://johandavidsen@bitbucket.org/johandavidsen/grot.git
+- npm 页面：https://www.npmjs.com/package/grot
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.14
+- 0.1.15
+- 0.1.16
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install grot`
+- npm registry：https://registry.npmjs.org/grot

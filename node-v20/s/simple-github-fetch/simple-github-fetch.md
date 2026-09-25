@@ -1,0 +1,30 @@
+# simple-github-fetch
+
+> 标签: api, git, github
+
+## 简介
+
+Call the Github apis (not affilated with Github > https://api.github.com)
+
+## 官网
+
+- 官网：https://github.com/Terracrow/git-wrapper#readme
+- 源码仓库：git+https://github.com/Terracrow/git-wrapper.git
+- npm 页面：https://www.npmjs.com/package/simple-github-fetch
+
+## 历史版本号
+
+- 当前版本：1.3.4
+
+- 1.0.0
+- 1.0.1
+- 1.2.1
+- 1.3.0
+- 1.3.2
+- 1.3.3
+- 1.3.4
+
+## 获取地址
+
+- npm 安装：`npm install simple-github-fetch`
+- npm registry：https://registry.npmjs.org/simple-github-fetch

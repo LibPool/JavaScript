@@ -1,0 +1,35 @@
+# @nextgis/queue
+
+> 标签: MAP, NextGIS
+
+## 简介
+
+Manage concurrent asynchronous tasks with abort capabilities
+
+## 官网
+
+- 官网：https://github.com/nextgis/nextgis_frontend/tree/master/packages/queue#readme
+- 源码仓库：git+https://github.com/nextgis/nextgis_frontend.git
+- npm 页面：https://www.npmjs.com/package/@nextgis/queue
+
+## 历史版本号
+
+- 当前版本：4.0.0
+
+- 3.0.0-alpha.13
+- 3.0.0-alpha.17
+- 3.0.0-alpha.22
+- 3.0.0-alpha.3
+- 3.0.0-alpha.5
+- 4.0.0
+- 4.0.0-alpha.5
+- 4.0.0-alpha.6
+- 4.0.0-alpha.8
+- 4.0.0-rc.0
+- 4.0.0-rc.1
+- 4.0.0-rc.2
+
+## 获取地址
+
+- npm 安装：`npm install @nextgis/queue`
+- npm registry：https://registry.npmjs.org/@nextgis/queue

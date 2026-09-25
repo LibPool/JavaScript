@@ -1,0 +1,33 @@
+# zarr-js
+
+> 标签: JavaScript
+
+## 简介
+
+load chunked binary zarr files in javascript
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/zarr-js
+
+## 历史版本号
+
+- 当前版本：3.3.0
+
+- 2.1.1
+- 2.1.2-develop.0
+- 2.1.2-develop.1
+- 2.1.3
+- 2.2.0
+- 2.2.1
+- 2.2.1-develop.0
+- 3.0.0
+- 3.0.1
+- 3.1.0
+- 3.2.0
+- 3.3.0
+
+## 获取地址
+
+- npm 安装：`npm install zarr-js`
+- npm registry：https://registry.npmjs.org/zarr-js

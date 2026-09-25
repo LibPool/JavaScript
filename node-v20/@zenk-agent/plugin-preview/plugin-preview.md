@@ -1,0 +1,33 @@
+# @zenk-agent/plugin-preview
+
+> 标签: JavaScript
+
+## 简介
+
+单插件预览服务。运行后会启动一个 Vite dev server，并把当前目录当作插件根目录自动加载。
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@zenk-agent/plugin-preview
+
+## 历史版本号
+
+- 当前版本：0.2.4
+
+- 0.0.26
+- 0.0.27
+- 0.0.28
+- 0.0.29
+- 0.0.30
+- 0.1.0
+- 0.1.1
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.3
+- 0.2.4
+
+## 获取地址
+
+- npm 安装：`npm install @zenk-agent/plugin-preview`
+- npm registry：https://registry.npmjs.org/@zenk-agent/plugin-preview

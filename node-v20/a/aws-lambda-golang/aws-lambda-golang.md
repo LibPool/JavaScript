@@ -1,0 +1,29 @@
+# aws-lambda-golang
+
+> 标签: aws, cdk, constructs, golang, lambda
+
+## 简介
+
+CDK Construct for AWS Lambda in Golang
+
+## 官网
+
+- 官网：https://github.com/RafalWilinski/aws-lambda-golang-cdk
+- 源码仓库：git+https://github.com/RafalWilinski/aws-lambda-golang-cdk.git
+- npm 页面：https://www.npmjs.com/package/aws-lambda-golang
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.0.1
+- 0.0.2
+- 0.0.4
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install aws-lambda-golang`
+- npm registry：https://registry.npmjs.org/aws-lambda-golang
+- Node 要求：>= 10.3.0

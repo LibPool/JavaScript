@@ -1,0 +1,33 @@
+# @assembleo/contracts
+
+> 标签: JavaScript
+
+## 简介
+
+Fonte de verdade entre assembleo-api e assembleo-web: schemas zod de eventos e contratos de API em ts-rest.
+
+## 官网
+
+- 源码仓库：git+https://github.com/The-Fant-Company/assembleo-contracts.git
+- npm 页面：https://www.npmjs.com/package/@assembleo/contracts
+
+## 历史版本号
+
+- 当前版本：0.10.0
+
+- 0.1.0
+- 0.10.0
+- 0.2.0
+- 0.3.0
+- 0.4.0
+- 0.5.0
+- 0.6.0
+- 0.7.0
+- 0.8.0
+- 0.9.0
+
+## 获取地址
+
+- npm 安装：`npm install @assembleo/contracts`
+- npm registry：https://registry.npmjs.org/@assembleo/contracts
+- Node 要求：>=22.0.0

@@ -1,0 +1,28 @@
+# @kkirbatski/rectangle
+
+> 标签: math, openframeworks, rectangle
+
+## 简介
+
+A port of OpenFrameworks Rectangle class.
+
+## 官网
+
+- 官网：https://github.com/kkirby/kkirbatski-rectangle
+- 源码仓库：git+https://github.com/kkirby/kkirbatski-rectangle.git
+- npm 页面：https://www.npmjs.com/package/@kkirbatski/rectangle
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.3
+- 1.0.4
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @kkirbatski/rectangle`
+- npm registry：https://registry.npmjs.org/@kkirbatski/rectangle

@@ -1,0 +1,25 @@
+# promlite
+
+> 标签: prometheus, prometheus-client
+
+## 简介
+
+A Prometheus client is a library that lets applications define and collect metrics (counters, gauges, histograms, summaries) and expose them on an HTTP endpoint (usually /metrics) in the Prometheus text format so that Prometheus can scrape and store them.
+
+## 官网
+
+- 官网：https://github.com/iaadi4/Promlite#readme
+- 源码仓库：git+https://github.com/iaadi4/Promlite.git
+- npm 页面：https://www.npmjs.com/package/promlite
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install promlite`
+- npm registry：https://registry.npmjs.org/promlite

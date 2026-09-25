@@ -1,0 +1,27 @@
+# forge-ai-cli
+
+> 标签: ai, anthropic, artificial-intelligence, claude, cli, code-generation, code-modification, developer-tools, gemini, glm, gpt, openai, productivity, qwen
+
+## 简介
+
+AI-powered CLI for code generation and modification
+
+## 官网
+
+- 官网：https://github.com/Porta048/CliForge-AI#readme
+- 源码仓库：git+https://github.com/Porta048/CliForge-AI.git
+- npm 页面：https://www.npmjs.com/package/forge-ai-cli
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.1
+- 1.0.2
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install forge-ai-cli`
+- npm registry：https://registry.npmjs.org/forge-ai-cli
+- Node 要求：>=18.0.0

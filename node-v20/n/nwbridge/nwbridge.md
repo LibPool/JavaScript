@@ -1,0 +1,27 @@
+# nwbridge
+
+> 标签: bridge, hybrid, native, nwbridge, webview
+
+## 简介
+
+Native/Webview bridge for Hybrid
+
+## 官网
+
+- 官网：https://github.com/yanni4night/NWBridge
+- 源码仓库：https://github.com/yanni4night/NWBridge.git
+- npm 页面：https://www.npmjs.com/package/nwbridge
+
+## 历史版本号
+
+- 当前版本：1.6.3
+
+- 1.6.0
+- 1.6.1
+- 1.6.2
+- 1.6.3
+
+## 获取地址
+
+- npm 安装：`npm install nwbridge`
+- npm registry：https://registry.npmjs.org/nwbridge

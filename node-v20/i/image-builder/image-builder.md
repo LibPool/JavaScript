@@ -1,0 +1,25 @@
+# image-builder
+
+> 标签: aliyun, builder, compression, image, oss, typescript
+
+## 简介
+
+一个用于自动处理图片并上传到阿里云 OSS 的 Node.js 工具
+
+## 官网
+
+- 官网：https://github.com/yourusername/image-builder#readme
+- 源码仓库：git+https://github.com/yourusername/image-builder.git
+- npm 页面：https://www.npmjs.com/package/image-builder
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install image-builder`
+- npm registry：https://registry.npmjs.org/image-builder
+- Node 要求：>=18.0.0

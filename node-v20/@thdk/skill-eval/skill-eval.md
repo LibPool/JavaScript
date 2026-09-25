@@ -1,0 +1,34 @@
+# @thdk/skill-eval
+
+> 标签: JavaScript
+
+## 简介
+
+@thdk/skill-eval - JavaScript library from npm
+
+## 官网
+
+- 源码仓库：git+https://github.com/thdk/nx-monorepo-demo.git
+- npm 页面：https://www.npmjs.com/package/@thdk/skill-eval
+
+## 历史版本号
+
+- 当前版本：0.2.23
+
+- 0.2.20-pr-c9cb005.0
+- 0.2.20-pr-d5bdb33.0
+- 0.2.20-pr-e523e3d.0
+- 0.2.20-pr-eea66e1.0
+- 0.2.21
+- 0.2.22
+- 0.2.23
+- 0.2.7
+- 0.2.8
+- 0.2.8-pr-a2168fc.0
+- 0.2.8-pr-caa5ed3.0
+- 0.2.9
+
+## 获取地址
+
+- npm 安装：`npm install @thdk/skill-eval`
+- npm registry：https://registry.npmjs.org/@thdk/skill-eval

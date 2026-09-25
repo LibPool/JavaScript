@@ -1,0 +1,26 @@
+# egg-nedb
+
+> 标签: egg, egg-plugin, eggPlugin
+
+## 简介
+
+egg plugin for nedb
+
+## 官网
+
+- 官网：https://github.com/wellfrog16/egg-nedb#readme
+- 源码仓库：git+https://github.com/wellfrog16/egg-nedb.git
+- npm 页面：https://www.npmjs.com/package/egg-nedb
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install egg-nedb`
+- npm registry：https://registry.npmjs.org/egg-nedb
+- Node 要求：>=8.0.0

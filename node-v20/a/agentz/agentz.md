@@ -1,0 +1,22 @@
+# agentz
+
+> 标签: JavaScript
+
+## 简介
+
+agentz - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/agentz
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install agentz`
+- npm registry：https://registry.npmjs.org/agentz

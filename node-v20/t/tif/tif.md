@@ -1,0 +1,24 @@
+# tif
+
+> 标签: bitcoin, decoding, encoding, tif, transaction
+
+## 简介
+
+Bitcoin Transaction Interchange Format (TIF) decoding/encoding module
+
+## 官网
+
+- 官网：https://github.com/bitcoinjs/tif
+- 源码仓库：git+https://github.com/bitcoinjs/tif.git
+- npm 页面：https://www.npmjs.com/package/tif
+
+## 历史版本号
+
+- 当前版本：0.1.5
+
+- 0.1.5
+
+## 获取地址
+
+- npm 安装：`npm install tif`
+- npm registry：https://registry.npmjs.org/tif

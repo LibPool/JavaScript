@@ -1,0 +1,36 @@
+# @oraichain/oraidex-widget
+
+> 标签: JavaScript
+
+## 简介
+
+This repository provides Widget code for Oraidex of [Oraichain](https://orai.io).
+
+## 官网
+
+- 官网：https://github.com/oraichain/oraidex-widget#readme
+- 源码仓库：git+https://github.com/oraichain/oraidex-widget.git
+- npm 页面：https://www.npmjs.com/package/@oraichain/oraidex-widget
+
+## 历史版本号
+
+- 当前版本：1.0.5-8
+
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.5-1
+- 1.0.5-2
+- 1.0.5-3
+- 1.0.5-4
+- 1.0.5-5
+- 1.0.5-6
+- 1.0.5-7
+- 1.0.5-8
+
+## 获取地址
+
+- npm 安装：`npm install @oraichain/oraidex-widget`
+- npm registry：https://registry.npmjs.org/@oraichain/oraidex-widget
+- Node 要求：^18 || ^20

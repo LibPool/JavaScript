@@ -1,0 +1,24 @@
+# ubborg-add-osusers-to-groups
+
+> 标签: group, osuser, ubborg
+
+## 简介
+
+Simplify adding existing osUsers to groups.
+
+## 官网
+
+- 官网：https://github.com/mk-pmb/ubborg-add-osusers-to-groups-js/#readme
+- 源码仓库：git+https://github.com/mk-pmb/ubborg-add-osusers-to-groups-js.git
+- npm 页面：https://www.npmjs.com/package/ubborg-add-osusers-to-groups
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install ubborg-add-osusers-to-groups`
+- npm registry：https://registry.npmjs.org/ubborg-add-osusers-to-groups

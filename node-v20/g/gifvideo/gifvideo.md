@@ -1,0 +1,24 @@
+# gifvideo
+
+> 标签: gif, ios, movie, video
+
+## 简介
+
+Play videos inline on iOS Safari, just like GIF files
+
+## 官网
+
+- 官网：https://github.com/hay/gifvideo#readme
+- 源码仓库：git+https://github.com/hay/gifvideo.git
+- npm 页面：https://www.npmjs.com/package/gifvideo
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install gifvideo`
+- npm registry：https://registry.npmjs.org/gifvideo

@@ -1,0 +1,25 @@
+# jquery.per-page
+
+> 标签: percentage, scroll
+
+## 简介
+
+display percentage of vertical position in page
+
+## 官网
+
+- 官网：https://github.com/itohsan/per-page#readme
+- 源码仓库：git+https://github.com/itohsan/per-page.git
+- npm 页面：https://www.npmjs.com/package/jquery.per-page
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install jquery.per-page`
+- npm registry：https://registry.npmjs.org/jquery.per-page

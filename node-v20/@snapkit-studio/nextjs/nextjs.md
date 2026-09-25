@@ -1,0 +1,35 @@
+# @snapkit-studio/nextjs
+
+> 标签: image, loader, nextjs, optimization, snapkit
+
+## 简介
+
+Next.js image loader for Snapkit image optimization
+
+## 官网
+
+- 官网：https://github.com/snapkit-studio/snapkit-js#readme
+- 源码仓库：git+https://github.com/snapkit-studio/snapkit-js.git
+- npm 页面：https://www.npmjs.com/package/@snapkit-studio/nextjs
+
+## 历史版本号
+
+- 当前版本：1.7.3
+
+- 1.7.0-canary.2
+- 1.7.0-canary.3
+- 1.7.0-canary.4
+- 1.7.0-canary.5
+- 1.7.0-canary.6
+- 1.7.0-canary.7
+- 1.7.1
+- 1.7.2
+- 1.7.3
+- 1.7.3-rc.0
+- 1.7.3-rc.1
+- 1.7.3-rc.2
+
+## 获取地址
+
+- npm 安装：`npm install @snapkit-studio/nextjs`
+- npm registry：https://registry.npmjs.org/@snapkit-studio/nextjs

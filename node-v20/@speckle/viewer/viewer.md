@@ -1,0 +1,37 @@
+# @speckle/viewer
+
+> 标签: 3d, 3d viewer, aec, speckle, threejs
+
+## 简介
+
+A 3d viewer for Speckle, based on threejs.
+
+## 官网
+
+- 官网：https://speckle.systems
+- 源码仓库：https://github.com/specklesystems/speckle-server.git
+- npm 页面：https://www.npmjs.com/package/@speckle/viewer
+
+## 历史版本号
+
+- 当前版本：2.31.14
+
+- 2.26.4
+- 2.26.5
+- 2.26.6
+- 2.26.7
+- 2.26.8
+- 2.26.9
+- 2.27.1
+- 2.27.2
+- 2.28.0
+- 2.31.10
+- 2.31.11
+- 2.31.14
+- 共 213 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @speckle/viewer`
+- npm registry：https://registry.npmjs.org/@speckle/viewer
+- Node 要求：>=18.0.0

@@ -1,0 +1,22 @@
+# eslint-plugin-lintr
+
+> 标签: eslint, javascript, lint, typescript, typescript-eslint
+
+## 简介
+
+Lint rules
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/eslint-plugin-lintr
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install eslint-plugin-lintr`
+- npm registry：https://registry.npmjs.org/eslint-plugin-lintr

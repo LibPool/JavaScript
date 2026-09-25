@@ -1,0 +1,35 @@
+# cxxpods
+
+> 标签: JavaScript
+
+## 简介
+
+CXXPods enables simple CMake dependency management
+
+## 官网
+
+- 官网：https://github.com/cxxpods/cxxpods#readme
+- 源码仓库：git+https://github.com/cxxpods/cxxpods.git
+- npm 页面：https://www.npmjs.com/package/cxxpods
+
+## 历史版本号
+
+- 当前版本：0.0.51
+
+- 0.0.27
+- 0.0.28
+- 0.0.32
+- 0.0.33
+- 0.0.34
+- 0.0.35
+- 0.0.45
+- 0.0.47
+- 0.0.48
+- 0.0.49
+- 0.0.50
+- 0.0.51
+
+## 获取地址
+
+- npm 安装：`npm install cxxpods`
+- npm registry：https://registry.npmjs.org/cxxpods

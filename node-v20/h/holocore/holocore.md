@@ -1,0 +1,26 @@
+# holocore
+
+> 标签: JavaScript
+
+## 简介
+
+holocore - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/Love-Triangle/HoloCore#readme
+- 源码仓库：git+https://github.com/Love-Triangle/HoloCore.git
+- npm 页面：https://www.npmjs.com/package/holocore
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install holocore`
+- npm registry：https://registry.npmjs.org/holocore

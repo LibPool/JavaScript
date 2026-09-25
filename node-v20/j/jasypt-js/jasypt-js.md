@@ -1,0 +1,24 @@
+# jasypt-js
+
+> 标签: BasicTextEncryptor, crypto, decrypt, encrypt, jasypt, pbewithmd5anddes
+
+## 简介
+
+org.jasypt.util.text.BasicTextEncryptor for Node.js and Browser
+
+## 官网
+
+- 官网：https://github.com/Robin-zero/jasypt#readme
+- 源码仓库：git+https://github.com/Robin-zero/jasypt.git
+- npm 页面：https://www.npmjs.com/package/jasypt-js
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install jasypt-js`
+- npm registry：https://registry.npmjs.org/jasypt-js

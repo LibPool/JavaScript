@@ -1,0 +1,25 @@
+# records
+
+> 标签: a-record, cname, dns, dnsimple
+
+## 简介
+
+dnsimple record manager and commandline tool
+
+## 官网
+
+- 官网：https://github.com/bhurlow/records
+- 源码仓库：https://github.com/bhurlow/records.git
+- npm 页面：https://www.npmjs.com/package/records
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install records`
+- npm registry：https://registry.npmjs.org/records

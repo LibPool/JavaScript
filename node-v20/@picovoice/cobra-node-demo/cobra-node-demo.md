@@ -1,0 +1,31 @@
+# @picovoice/cobra-node-demo
+
+> 标签: cobra, picovoice, voice activity detection, offline, private, voice ai, microphone, mic, realtime
+
+## 简介
+
+Picovoice Cobra Node.js file-based and microphone demos
+
+## 官网
+
+- 官网：https://picovoice.ai/platform/cobra/
+- 源码仓库：git+https://github.com/Picovoice/cobra.git
+- npm 页面：https://www.npmjs.com/package/@picovoice/cobra-node-demo
+
+## 历史版本号
+
+- 当前版本：3.0.1
+
+- 2.0.0
+- 2.0.1
+- 2.0.2
+- 2.0.3
+- 2.0.4
+- 2.1.0
+- 3.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @picovoice/cobra-node-demo`
+- npm registry：https://registry.npmjs.org/@picovoice/cobra-node-demo
+- Node 要求：>=18.0.0

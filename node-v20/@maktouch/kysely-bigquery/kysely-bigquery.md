@@ -1,0 +1,29 @@
+# @maktouch/kysely-bigquery
+
+> 标签: bigquery, bq, kysely
+
+## 简介
+
+BigQuery Dialect for Kysely
+
+## 官网
+
+- 官网：https://github.com/maktouch/kysely-bigquery#readme
+- 源码仓库：git+https://github.com/maktouch/kysely-bigquery.git
+- npm 页面：https://www.npmjs.com/package/@maktouch/kysely-bigquery
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 0.0.1
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @maktouch/kysely-bigquery`
+- npm registry：https://registry.npmjs.org/@maktouch/kysely-bigquery

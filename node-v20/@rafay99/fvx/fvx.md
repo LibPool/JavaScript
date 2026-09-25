@@ -1,0 +1,28 @@
+# @rafay99/fvx
+
+> 标签: cli, flutter, flutter-sdk, fvm, version-manager
+
+## 简介
+
+Per-project Flutter SDK switching. Prebuilt binary, no runtime needed.
+
+## 官网
+
+- 官网：https://github.com/rafay99-epic/fvx#readme
+- 源码仓库：git+https://github.com/rafay99-epic/fvx.git
+- npm 页面：https://www.npmjs.com/package/@rafay99/fvx
+
+## 历史版本号
+
+- 当前版本：0.7.0
+
+- 0.1.0
+- 0.2.0
+- 0.3.0
+- 0.7.0
+
+## 获取地址
+
+- npm 安装：`npm install @rafay99/fvx`
+- npm registry：https://registry.npmjs.org/@rafay99/fvx
+- Node 要求：>=16

@@ -1,0 +1,25 @@
+# @tacxou/nestjs_module_factorydrive-sftp
+
+> 标签: abstract, abstraction, async, bucket, disk, drive, driver, factory, factorydrive, file, filesystem, nestjs, node, nodejs, promise, sftp, spaces, ssh, storage
+
+## 简介
+
+SFTP driver for @tacxou/nestjs_module_factorydrive
+
+## 官网
+
+- 官网：https://github.com/tacxou/nestjs_module_factorydrive-sftp#readme
+- 源码仓库：git+https://github.com/tacxou/nestjs_module_factorydrive-sftp.git
+- npm 页面：https://www.npmjs.com/package/@tacxou/nestjs_module_factorydrive-sftp
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @tacxou/nestjs_module_factorydrive-sftp`
+- npm registry：https://registry.npmjs.org/@tacxou/nestjs_module_factorydrive-sftp
+- Node 要求：>=22.0.0

@@ -1,0 +1,26 @@
+# image-switcher
+
+> 标签: image-switcher, js, node, npm
+
+## 简介
+
+Switch image on any event
+
+## 官网
+
+- 官网：https://github.com/nebula-byte/image-switcher#readme
+- 源码仓库：git+https://github.com/nebula-byte/image-switcher.git
+- npm 页面：https://www.npmjs.com/package/image-switcher
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install image-switcher`
+- npm registry：https://registry.npmjs.org/image-switcher

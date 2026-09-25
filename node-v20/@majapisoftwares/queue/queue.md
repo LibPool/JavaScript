@@ -1,0 +1,25 @@
+# @majapisoftwares/queue
+
+> 标签: JavaScript
+
+## 简介
+
+@majapisoftwares/queue - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/majapisoftwares/queue#readme
+- 源码仓库：git+https://github.com/majapisoftwares/queue.git
+- npm 页面：https://www.npmjs.com/package/@majapisoftwares/queue
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.1
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @majapisoftwares/queue`
+- npm registry：https://registry.npmjs.org/@majapisoftwares/queue

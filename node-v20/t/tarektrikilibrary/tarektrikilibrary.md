@@ -1,0 +1,24 @@
+# tarektrikilibrary
+
+> 标签: JavaScript
+
+## 简介
+
+tarektrikilibrary - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/Tarek018/My-Test-Library#readme
+- 源码仓库：git+ssh://git@github.com/Tarek018/My-Test-Library.git
+- npm 页面：https://www.npmjs.com/package/tarektrikilibrary
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install tarektrikilibrary`
+- npm registry：https://registry.npmjs.org/tarektrikilibrary

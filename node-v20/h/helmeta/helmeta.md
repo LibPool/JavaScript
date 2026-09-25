@@ -1,0 +1,27 @@
+# helmeta
+
+> 标签: ajax, javascript
+
+## 简介
+
+ajax library for rest like firebase
+
+## 官网
+
+- 官网：https://github.com/phi-jp/helmeta#readme
+- 源码仓库：git+https://github.com/phi-jp/helmeta.git
+- npm 页面：https://www.npmjs.com/package/helmeta
+
+## 历史版本号
+
+- 当前版本：0.0.5
+
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+
+## 获取地址
+
+- npm 安装：`npm install helmeta`
+- npm registry：https://registry.npmjs.org/helmeta

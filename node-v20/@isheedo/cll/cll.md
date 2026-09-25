@@ -1,0 +1,24 @@
+# @isheedo/cll
+
+> 标签: JavaScript
+
+## 简介
+
+CLL POC
+
+## 官网
+
+- 官网：https://github.com/AboutLocal/Frontend_Boilerplate#readme
+- 源码仓库：git+https://github.com/AboutLocal/Frontend_Boilerplate.git
+- npm 页面：https://www.npmjs.com/package/@isheedo/cll
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @isheedo/cll`
+- npm registry：https://registry.npmjs.org/@isheedo/cll

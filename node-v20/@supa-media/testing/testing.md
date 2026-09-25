@@ -1,0 +1,25 @@
+# @supa-media/testing
+
+> 标签: expo, metro, native-imports, react-native, routing, testing, web-bundle
+
+## 简介
+
+Reusable test suites that catch common Expo/React Native gotchas — routing conflicts, web bundle safety, React resolution, native import gating
+
+## 官网
+
+- 官网：https://github.com/Supa-Media/supa-framework#readme
+- 源码仓库：git+https://github.com/Supa-Media/supa-framework.git
+- npm 页面：https://www.npmjs.com/package/@supa-media/testing
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @supa-media/testing`
+- npm registry：https://registry.npmjs.org/@supa-media/testing

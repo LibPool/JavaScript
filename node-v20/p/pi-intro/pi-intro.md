@@ -1,0 +1,26 @@
+# pi-intro
+
+> 标签: pi-package
+
+## 简介
+
+A cinematic startup overlay and bottom spacer for Pi.
+
+## 官网
+
+- 官网：https://github.com/dantetekanem/pi-intro#readme
+- 源码仓库：git+https://github.com/dantetekanem/pi-intro.git
+- npm 页面：https://www.npmjs.com/package/pi-intro
+
+## 历史版本号
+
+- 当前版本：0.2.6
+
+- 0.2.4
+- 0.2.5
+- 0.2.6
+
+## 获取地址
+
+- npm 安装：`npm install pi-intro`
+- npm registry：https://registry.npmjs.org/pi-intro

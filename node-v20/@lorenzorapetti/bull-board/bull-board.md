@@ -1,0 +1,26 @@
+# @lorenzorapetti/bull-board
+
+> 标签: bull, monitoring, queue, redis
+
+## 简介
+
+Bull queue UI for inspecting jobs
+
+## 官网
+
+- 官网：https://github.com/felixmosh/bull-board#readme
+- 源码仓库：git+https://github.com/felixmosh/bull-board.git
+- npm 页面：https://www.npmjs.com/package/@lorenzorapetti/bull-board
+
+## 历史版本号
+
+- 当前版本：3.0.0
+
+- 2.0.0
+- 2.1.0
+- 3.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @lorenzorapetti/bull-board`
+- npm registry：https://registry.npmjs.org/@lorenzorapetti/bull-board

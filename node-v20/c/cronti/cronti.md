@@ -1,0 +1,35 @@
+# cronti
+
+> 标签: cronjob, crontab, crontime
+
+## 简介
+
+It translates daily expressible recipes on the calendar into crontime expression. Produces a valid crontime expression. In summary: Creates a crontime that will run at regular intervals between two dates; enter valid crontime expression get crontime expre
+
+## 官网
+
+- 官网：https://buglss.github.io/npm/cronti/
+- 源码仓库：git+https://github.com/buglss/cronti.git
+- npm 页面：https://www.npmjs.com/package/cronti
+
+## 历史版本号
+
+- 当前版本：3.1.6
+
+- 3.0.4
+- 3.0.5
+- 3.0.6
+- 3.0.7
+- 3.0.8
+- 3.1.0
+- 3.1.1
+- 3.1.2
+- 3.1.3
+- 3.1.4
+- 3.1.5
+- 3.1.6
+
+## 获取地址
+
+- npm 安装：`npm install cronti`
+- npm registry：https://registry.npmjs.org/cronti

@@ -1,0 +1,26 @@
+# create-moy-app
+
+> 标签: design, iuap, moy, tinper, yonyou
+
+## 简介
+
+create moy apps with no build configuration
+
+## 官网
+
+- 官网：https://github.com/iuap-design/create-moy-app#readme
+- 源码仓库：git+https://github.com/iuap-design/create-moy-app.git
+- npm 页面：https://www.npmjs.com/package/create-moy-app
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install create-moy-app`
+- npm registry：https://registry.npmjs.org/create-moy-app

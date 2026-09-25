@@ -1,0 +1,34 @@
+# yohours
+
+> 标签: builder, hours, opening, openstreetmap, parser
+
+## 简介
+
+Subset of the YoHours simple online opening hours editor for OpenStreetMap
+
+## 官网
+
+- 源码仓库：git@framagit.org:PanierAvide/YoHours.git
+- npm 页面：https://www.npmjs.com/package/yohours
+
+## 历史版本号
+
+- 当前版本：0.0.14
+
+- 0.0.11
+- 0.0.12
+- 0.0.13
+- 0.0.14
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install yohours`
+- npm registry：https://registry.npmjs.org/yohours

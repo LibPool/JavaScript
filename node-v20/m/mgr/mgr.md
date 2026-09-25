@@ -1,0 +1,25 @@
+# mgr
+
+> 标签: child-process, fork, job-manager, multi-threaded, process-manager, promise
+
+## 简介
+
+*For easily managing slave processes.*
+
+## 官网
+
+- 官网：https://github.com/PsychoLlama/mgr#readme
+- 源码仓库：git+https://github.com/PsychoLlama/mgr.git
+- npm 页面：https://www.npmjs.com/package/mgr
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install mgr`
+- npm registry：https://registry.npmjs.org/mgr

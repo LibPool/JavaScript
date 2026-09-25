@@ -1,0 +1,31 @@
+# hoodie-plugin-appcache
+
+> 标签: appcache, hoodie, offlinefirst
+
+## 简介
+
+Auto Updates and more for Offline First Applications
+
+## 官网
+
+- 官网：https://github.com/gr2m/hoodie-plugin-appcache
+- 源码仓库：git://github.com/gr2m/hoodie-plugin-appcache.git
+- npm 页面：https://www.npmjs.com/package/hoodie-plugin-appcache
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 0.0.1
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install hoodie-plugin-appcache`
+- npm registry：https://registry.npmjs.org/hoodie-plugin-appcache

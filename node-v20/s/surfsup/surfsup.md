@@ -1,0 +1,29 @@
+# surfsup
+
+> 标签: beach, coastal, hurricane, marine, ocean, sailing, storm, storms, surfing, tsunami, typhoon, waves, weather
+
+## 简介
+
+Node wrapper for Marine/Sailing/Surfing Weather API
+
+## 官网
+
+- 官网：https://github.com/mjw56/surfsup
+- 源码仓库：https://github.com/mjw56/surfsup.git
+- npm 页面：https://www.npmjs.com/package/surfsup
+
+## 历史版本号
+
+- 当前版本：0.6.0
+
+- 0.1.0
+- 0.2.0
+- 0.3.0
+- 0.4.0
+- 0.5.0
+- 0.6.0
+
+## 获取地址
+
+- npm 安装：`npm install surfsup`
+- npm registry：https://registry.npmjs.org/surfsup

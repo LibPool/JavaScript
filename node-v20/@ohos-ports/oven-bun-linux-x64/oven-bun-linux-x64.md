@@ -1,0 +1,24 @@
+# @ohos-ports/oven-bun-linux-x64
+
+> 标签: JavaScript
+
+## 简介
+
+This is the aarch64 (arm64) binary for Bun on OpenHarmony, a fast all-in-one JavaScript runtime.
+
+## 官网
+
+- 官网：https://bun.com
+- 源码仓库：git+https://github.com/ohos-ports/ohos-ports.git
+- npm 页面：https://www.npmjs.com/package/@ohos-ports/oven-bun-linux-x64
+
+## 历史版本号
+
+- 当前版本：1.3.14-beta.0
+
+- 1.3.14-beta.0
+
+## 获取地址
+
+- npm 安装：`npm install @ohos-ports/oven-bun-linux-x64`
+- npm registry：https://registry.npmjs.org/@ohos-ports/oven-bun-linux-x64

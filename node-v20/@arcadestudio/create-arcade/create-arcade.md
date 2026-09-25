@@ -1,0 +1,22 @@
+# @arcadestudio/create-arcade
+
+> 标签: arcade, create, game, pinia, pixi, scaffold, vue
+
+## 简介
+
+Create a multi-game Pixi + Vue + Pinia arcade workspace – coming soon!
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@arcadestudio/create-arcade
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @arcadestudio/create-arcade`
+- npm registry：https://registry.npmjs.org/@arcadestudio/create-arcade

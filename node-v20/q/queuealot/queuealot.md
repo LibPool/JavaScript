@@ -1,0 +1,26 @@
+# queuealot
+
+> 标签: callback, closure, queue, queueing, serie, series
+
+## 简介
+
+Bike shed queing module using closures for augmenting each result
+
+## 官网
+
+- 官网：https://github.com/watson/queuealot
+- 源码仓库：https://github.com/watson/queuealot.git
+- npm 页面：https://www.npmjs.com/package/queuealot
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install queuealot`
+- npm registry：https://registry.npmjs.org/queuealot

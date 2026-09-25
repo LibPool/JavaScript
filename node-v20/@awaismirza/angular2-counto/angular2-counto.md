@@ -1,0 +1,27 @@
+# @awaismirza/angular2-counto
+
+> 标签: JavaScript
+
+## 简介
+
+Angular 16+ package for nice count animations
+
+## 官网
+
+- 官网：https://github.com/awaismirza/angular-wrappers#readme
+- 源码仓库：git+https://github.com/awaismirza/angular-wrappers.git
+- npm 页面：https://www.npmjs.com/package/@awaismirza/angular2-counto
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @awaismirza/angular2-counto`
+- npm registry：https://registry.npmjs.org/@awaismirza/angular2-counto

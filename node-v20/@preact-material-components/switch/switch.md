@@ -1,0 +1,24 @@
+# @preact-material-components/switch
+
+> 标签: material, preact, preact-material, switch
+
+## 简介
+
+Implementation of a material switch
+
+## 官网
+
+- 官网：https://github.com/prateekbh/preact-material-components/tree/master/packages/switch#readme
+- 源码仓库：git+https://github.com/prateekbh/preact-material-components.git
+- npm 页面：https://www.npmjs.com/package/@preact-material-components/switch
+
+## 历史版本号
+
+- 当前版本：2.0.0-alpha.3
+
+- 2.0.0-alpha.3
+
+## 获取地址
+
+- npm 安装：`npm install @preact-material-components/switch`
+- npm registry：https://registry.npmjs.org/@preact-material-components/switch

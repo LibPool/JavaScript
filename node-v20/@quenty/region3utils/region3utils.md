@@ -1,0 +1,36 @@
+# @quenty/region3utils
+
+> 标签: Lua, Nevermore, Region3, Roblox
+
+## 简介
+
+Utility methods for Region3
+
+## 官网
+
+- 官网：https://github.com/Quenty/NevermoreEngine#readme
+- 源码仓库：git+https://github.com/Quenty/NevermoreEngine.git
+- npm 页面：https://www.npmjs.com/package/@quenty/region3utils
+
+## 历史版本号
+
+- 当前版本：10.13.2
+
+- 10.8.1-canary.534.c6c59e8.0
+- 10.9.0
+- 10.9.1
+- 10.9.1-canary.545.2374fb2.0
+- 10.9.2
+- 10.9.2-canary.547.11ae689.0
+- 10.9.2-canary.547.ba47c62.0
+- 10.9.3
+- 10.9.3-canary.550.afa1b3b.0
+- 10.9.4-canary.11a5dcf.0
+- 10.9.4-canary.559.339cfa7.0
+- 10.9.4-canary.559.9f38947.0
+- 共 162 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @quenty/region3utils`
+- npm registry：https://registry.npmjs.org/@quenty/region3utils

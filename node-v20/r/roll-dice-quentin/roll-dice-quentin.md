@@ -1,0 +1,26 @@
+# roll-dice-quentin
+
+> 标签: dice, roll
+
+## 简介
+
+An open source projet for class to being able to roll a dice.
+
+## 官网
+
+- 官网：https://github.com/BrystoQ/open-source-class#readme
+- 源码仓库：git+https://github.com/BrystoQ/open-source-class.git
+- npm 页面：https://www.npmjs.com/package/roll-dice-quentin
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install roll-dice-quentin`
+- npm registry：https://registry.npmjs.org/roll-dice-quentin
