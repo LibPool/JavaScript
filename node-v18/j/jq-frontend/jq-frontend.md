@@ -1,0 +1,23 @@
+# jq-frontend
+
+> 标签: JavaScript
+
+## 简介
+
+frontends of jq
+
+## 官网
+
+- 源码仓库：ssh://git@code.dtrussia.com:7999/cem/frontend.git
+- npm 页面：https://www.npmjs.com/package/jq-frontend
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install jq-frontend`
+- npm registry：https://registry.npmjs.org/jq-frontend

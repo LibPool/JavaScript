@@ -1,0 +1,32 @@
+# jazz
+
+> 标签: template
+
+## 简介
+
+A minimalistic template engine with zero runtime dependency
+
+## 官网
+
+- 官网：https://github.com/cliffano/jazz
+- 源码仓库：git+https://github.com/cliffano/jazz.git
+- npm 页面：https://www.npmjs.com/package/jazz
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 0.0.1
+- 0.0.14
+- 0.0.18
+- 0.0.3
+- 0.0.4
+- 1.0.0
+- 1.1.0
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install jazz`
+- npm registry：https://registry.npmjs.org/jazz
+- Node 要求：>= 22.0.0

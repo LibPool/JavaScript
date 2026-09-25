@@ -1,0 +1,24 @@
+# js-polyfills-array-includes
+
+> 标签: includes, js, polyfill
+
+## 简介
+
+package to hold polyfills to make js features cross browser compatibility
+
+## 官网
+
+- 官网：https://github.com/Mohsin-GitHub/js-polyfills#readme
+- 源码仓库：git+https://github.com/Mohsin-GitHub/js-polyfills.git
+- npm 页面：https://www.npmjs.com/package/js-polyfills-array-includes
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install js-polyfills-array-includes`
+- npm registry：https://registry.npmjs.org/js-polyfills-array-includes

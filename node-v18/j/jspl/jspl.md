@@ -1,0 +1,28 @@
+# jspl
+
+> 标签: express, fragment, html, include, simple, single, template, underscore, view
+
+## 简介
+
+JSP-Like (JSPL) is a simple template engine based on the library: underscore. It's compliant with Express. And the syntax is similar to JSP.
+
+## 官网
+
+- 官网：https://github.com/jvmvik/jspl
+- 源码仓库：https://github.com/jvmvik/jspl.git
+- npm 页面：https://www.npmjs.com/package/jspl
+
+## 历史版本号
+
+- 当前版本：0.0.5
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+
+## 获取地址
+
+- npm 安装：`npm install jspl`
+- npm registry：https://registry.npmjs.org/jspl

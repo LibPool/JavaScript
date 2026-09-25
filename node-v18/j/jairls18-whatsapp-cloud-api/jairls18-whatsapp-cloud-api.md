@@ -1,0 +1,26 @@
+# jairls18-whatsapp-cloud-api
+
+> 标签: api, bot, bot-api, bot-framework, business-api, chatbot, cloud, cloud-api, nodejs, whatsapp, whatsapp-api, whatsapp-bot, whatsapp-business, whatsapp-business-api, whatsapp-cloud, whatsapp-cloud-api
+
+## 简介
+
+Node.js library for creating bots and sending/receiving messages using the Whatsapp Cloud API
+
+## 官网
+
+- 官网：https://github.com/tawn33y/whatsapp-cloud-api#readme
+- 源码仓库：git+https://github.com/tawn33y/whatsapp-cloud-api.git
+- npm 页面：https://www.npmjs.com/package/jairls18-whatsapp-cloud-api
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install jairls18-whatsapp-cloud-api`
+- npm registry：https://registry.npmjs.org/jairls18-whatsapp-cloud-api
+- Node 要求：>=12

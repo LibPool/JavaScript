@@ -1,0 +1,28 @@
+# junit-to-sonar-generic-execution
+
+> 标签: JavaScript
+
+## 简介
+
+A tool to convert JUnit XML files into Sonar Generic Execution format
+
+## 官网
+
+- 官网：https://github.com/NikhilVerma/junit-to-sonar-generic-execution#readme
+- 源码仓库：git+https://github.com/NikhilVerma/junit-to-sonar-generic-execution.git
+- npm 页面：https://www.npmjs.com/package/junit-to-sonar-generic-execution
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install junit-to-sonar-generic-execution`
+- npm registry：https://registry.npmjs.org/junit-to-sonar-generic-execution

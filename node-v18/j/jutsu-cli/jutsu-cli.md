@@ -1,0 +1,29 @@
+# jutsu-cli
+
+> 标签: JavaScript
+
+## 简介
+
+Jutsu Hub is a solidity smart contract component registry. Developed by [Ame Network](https://ame.network/). All solidity developers can share and use these components, and use it to manage and interact with contract projects.
+
+## 官网
+
+- 官网：https://github.com/AmeNetwork/jutsu-hub#readme
+- 源码仓库：git+https://github.com/AmeNetwork/jutsu-hub.git
+- npm 页面：https://www.npmjs.com/package/jutsu-cli
+
+## 历史版本号
+
+- 当前版本：0.1.5
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+
+## 获取地址
+
+- npm 安装：`npm install jutsu-cli`
+- npm registry：https://registry.npmjs.org/jutsu-cli

@@ -1,0 +1,30 @@
+# jsonsite
+
+> 标签: glitch, json, markdown, node, nunjucks
+
+## 简介
+
+Turns a JSON file into a website. Uses the same rendering engine as github.com/jsonsite/jsonsite
+
+## 官网
+
+- 官网：https://github.com/jsonsite/cli#readme
+- 源码仓库：git+https://github.com/jsonsite/cli.git
+- npm 页面：https://www.npmjs.com/package/jsonsite
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 0.0.1
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.1.1
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install jsonsite`
+- npm registry：https://registry.npmjs.org/jsonsite
+- Node 要求：12.x

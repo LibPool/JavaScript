@@ -1,0 +1,33 @@
+# jupyter_firefly_extensions
+
+> 标签: jupyter, jupyterlab, jupyterlab-extension
+
+## 简介
+
+A package for rendering FITS in Jupyter
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/jupyter_firefly_extensions
+
+## 历史版本号
+
+- 当前版本：2.2.0
+
+- 0.1.1
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.3
+- 0.2.4
+- 0.2.5
+- 0.2.6
+- 2.0.0
+- 2.0.1
+- 2.1.0
+- 2.2.0
+
+## 获取地址
+
+- npm 安装：`npm install jupyter_firefly_extensions`
+- npm registry：https://registry.npmjs.org/jupyter_firefly_extensions

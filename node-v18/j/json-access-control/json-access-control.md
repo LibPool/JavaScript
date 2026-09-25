@@ -1,0 +1,24 @@
+# json-access-control
+
+> 标签: JavaScript
+
+## 简介
+
+JSON based tool for access control
+
+## 官网
+
+- 官网：https://github.com/ccrecaro/json-access-control#readme
+- 源码仓库：git+https://github.com/ccrecaro/json-access-control.git
+- npm 页面：https://www.npmjs.com/package/json-access-control
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install json-access-control`
+- npm registry：https://registry.npmjs.org/json-access-control
