@@ -1,0 +1,24 @@
+# fruzhin
+
+> 标签: java, js, npm, polkadot, teavm
+
+## 简介
+
+An implementation of Fruzhin's light client usable in the web.
+
+## 官网
+
+- 官网：https://github.com/LimeChain/Fruzhin-web#readme
+- 源码仓库：git+https://github.com/LimeChain/Fruzhin-web.git
+- npm 页面：https://www.npmjs.com/package/fruzhin
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install fruzhin`
+- npm registry：https://registry.npmjs.org/fruzhin

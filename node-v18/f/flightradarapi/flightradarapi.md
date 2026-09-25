@@ -1,0 +1,36 @@
+# flightradarapi
+
+> 标签: aircraft, airlines, airports, api, aviation, flightradar24, flights, radar
+
+## 简介
+
+SDK for FlightRadar24
+
+## 官网
+
+- 官网：https://github.com/JeanExtreme002/FlightRadarAPI#readme
+- 源码仓库：git+https://github.com/JeanExtreme002/FlightRadarAPI.git
+- npm 页面：https://www.npmjs.com/package/flightradarapi
+
+## 历史版本号
+
+- 当前版本：1.6.1
+
+- 1.3.30
+- 1.3.31
+- 1.3.32
+- 1.3.33
+- 1.4.0
+- 1.4.1
+- 1.5.0
+- 1.5.1
+- 1.5.2
+- 1.5.3
+- 1.6.0
+- 1.6.1
+
+## 获取地址
+
+- npm 安装：`npm install flightradarapi`
+- npm registry：https://registry.npmjs.org/flightradarapi
+- Node 要求：>=18.17

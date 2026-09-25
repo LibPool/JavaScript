@@ -1,0 +1,24 @@
+# firflag
+
+> 标签: JavaScript
+
+## 简介
+
+for weixin ulog
+
+## 官网
+
+- 官网：https://github.com/BENSHAKA/Flag#readme
+- 源码仓库：git+https://github.com/BENSHAKA/Flag.git
+- npm 页面：https://www.npmjs.com/package/firflag
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install firflag`
+- npm registry：https://registry.npmjs.org/firflag

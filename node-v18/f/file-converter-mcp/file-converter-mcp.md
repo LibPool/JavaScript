@@ -1,0 +1,24 @@
+# file-converter-mcp
+
+> 标签: agentpay, ai-agent, mcp, mcp-server
+
+## 简介
+
+Convert files via MCP protocol — CSV, JSON, YAML, and Markdown. Purpose-built for AI agent data pipelines.
+
+## 官网
+
+- 官网：https://rumblingb.github.io/file-converter-mcp/
+- 源码仓库：git+https://github.com/Rumblingb/file-converter-mcp.git
+- npm 页面：https://www.npmjs.com/package/file-converter-mcp
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install file-converter-mcp`
+- npm registry：https://registry.npmjs.org/file-converter-mcp

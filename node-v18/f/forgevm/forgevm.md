@@ -1,0 +1,26 @@
+# forgevm
+
+> 标签: ai-agent, code-execution, firecracker, forgevm, llm, microvm, orchestration, sandbox
+
+## 简介
+
+TypeScript SDK for ForgeVM — self-hosted microVM sandboxes for LLMs
+
+## 官网
+
+- 官网：https://github.com/DohaerisAI/forgevm
+- 源码仓库：git+https://github.com/DohaerisAI/forgevm.git
+- npm 页面：https://www.npmjs.com/package/forgevm
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install forgevm`
+- npm registry：https://registry.npmjs.org/forgevm
+- Node 要求：>=18.0.0

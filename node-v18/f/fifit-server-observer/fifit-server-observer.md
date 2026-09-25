@@ -1,0 +1,26 @@
+# fifit-server-observer
+
+> 标签: JavaScript
+
+## 简介
+
+The Fifit Server Observer
+
+## 官网
+
+- 官网：https://github.com/yudhatamaaditiyara/Fifit-Server-Observer#readme
+- 源码仓库：git+https://github.com/yudhatamaaditiyara/Fifit-Server-Observer.git
+- npm 页面：https://www.npmjs.com/package/fifit-server-observer
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install fifit-server-observer`
+- npm registry：https://registry.npmjs.org/fifit-server-observer
+- Node 要求：>= 12.0.0

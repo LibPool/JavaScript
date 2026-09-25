@@ -1,0 +1,35 @@
+# fs-rx
+
+> 标签: fs, node, rxjs
+
+## 简介
+
+Observable wrappers around NodeJS file system functions.
+
+## 官网
+
+- 官网：https://github.com/tools-rx/fs-rx#readme
+- 源码仓库：git+https://github.com/tools-rx/fs-rx.git
+- npm 页面：https://www.npmjs.com/package/fs-rx
+
+## 历史版本号
+
+- 当前版本：1.2.1
+
+- 1.0.0
+- 1.0.0-beta.1
+- 1.0.0-beta.2
+- 1.0.0-beta.3
+- 1.0.0-beta.4
+- 1.0.0-beta.5
+- 1.0.0-rc.1
+- 1.0.0-rc.4
+- 1.1.0
+- 1.2.0
+- 1.2.1
+
+## 获取地址
+
+- npm 安装：`npm install fs-rx`
+- npm registry：https://registry.npmjs.org/fs-rx
+- Node 要求：>=6.0

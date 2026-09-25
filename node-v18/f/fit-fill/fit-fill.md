@@ -1,0 +1,26 @@
+# fit-fill
+
+> 标签: JavaScript
+
+## 简介
+
+Fit-fill is a simple React component that allows you to fit or fill a wrapper div with a child component (image in most cases).
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/fit-fill
+
+## 历史版本号
+
+- 当前版本：0.2.4
+
+- 0.1.0
+- 0.2.0
+- 0.2.2
+- 0.2.3
+- 0.2.4
+
+## 获取地址
+
+- npm 安装：`npm install fit-fill`
+- npm registry：https://registry.npmjs.org/fit-fill

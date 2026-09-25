@@ -1,0 +1,26 @@
+# follow-to-amqp
+
+> 标签: JavaScript
+
+## 简介
+
+Listens to a CouchDB database changes "feed" and then publish the changed documents to a AMQP exchange
+
+## 官网
+
+- 官网：https://github.com/m64253/follow-to-amqp#readme
+- 源码仓库：git+https://github.com/m64253/follow-to-amqp.git
+- npm 页面：https://www.npmjs.com/package/follow-to-amqp
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.0
+- 0.0.1
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install follow-to-amqp`
+- npm registry：https://registry.npmjs.org/follow-to-amqp

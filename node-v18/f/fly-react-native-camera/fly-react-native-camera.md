@@ -1,0 +1,24 @@
+# fly-react-native-camera
+
+> 标签: JavaScript
+
+## 简介
+
+A splash screen for react-native, hide when application loaded ,it works on iOS and Android.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/fly-react-native-camera
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install fly-react-native-camera`
+- npm registry：https://registry.npmjs.org/fly-react-native-camera

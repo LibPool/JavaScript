@@ -1,0 +1,30 @@
+# feather-postprocessor-pagelet-analyse
+
+> 标签: feather, pagelet analyse
+
+## 简介
+
+feather pagelet analyse
+
+## 官网
+
+- 官网：https://github.com/feather-ui/feather-postprocessor-pagelet-analyse
+- 源码仓库：https://github.com/feather-ui/feather-postprocessor-pagelet-analyse.git
+- npm 页面：https://www.npmjs.com/package/feather-postprocessor-pagelet-analyse
+
+## 历史版本号
+
+- 当前版本：0.1.6
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+
+## 获取地址
+
+- npm 安装：`npm install feather-postprocessor-pagelet-analyse`
+- npm registry：https://registry.npmjs.org/feather-postprocessor-pagelet-analyse

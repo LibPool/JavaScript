@@ -1,0 +1,33 @@
+# formwatcher-hint
+
+> 标签: ender, form, formwatcher, hint, unobtrusive
+
+## 简介
+
+Cross browser beautiful hints
+
+## 官网
+
+- 官网：http://www.formwatcher.org
+- npm 页面：https://www.npmjs.com/package/formwatcher-hint
+
+## 历史版本号
+
+- 当前版本：2.1.9
+
+- 2.0.4
+- 2.1.0
+- 2.1.1
+- 2.1.2
+- 2.1.3
+- 2.1.4
+- 2.1.5
+- 2.1.6
+- 2.1.7
+- 2.1.8
+- 2.1.9
+
+## 获取地址
+
+- npm 安装：`npm install formwatcher-hint`
+- npm registry：https://registry.npmjs.org/formwatcher-hint

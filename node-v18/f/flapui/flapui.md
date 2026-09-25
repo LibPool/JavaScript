@@ -1,0 +1,24 @@
+# flapui
+
+> 标签: JavaScript
+
+## 简介
+
+flapui - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/web3templates/flapui#readme
+- 源码仓库：git+https://github.com/web3templates/flapui.git
+- npm 页面：https://www.npmjs.com/package/flapui
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install flapui`
+- npm registry：https://registry.npmjs.org/flapui

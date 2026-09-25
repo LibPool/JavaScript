@@ -1,0 +1,35 @@
+# firestore-mobx
+
+> 标签: firebase-mobx, firestorable, firestore-collection, firestore-mobx, firestore-react, firestorter, mobx-firestore, react-firebase, react-firestore, react-firestore-mobx
+
+## 简介
+
+Observable Firestore documents and collections using MobX
+
+## 官网
+
+- 官网：https://firestore-mobx.codecompose.dev
+- 源码仓库：git+https://github.com/0x80/firestore-mobx.git
+- npm 页面：https://www.npmjs.com/package/firestore-mobx
+
+## 历史版本号
+
+- 当前版本：3.0.0
+
+- 2.0.0-16
+- 2.0.0-17
+- 2.0.0-18
+- 2.0.0-2
+- 2.0.0-3
+- 2.0.0-4
+- 2.0.0-5
+- 2.0.0-6
+- 2.0.0-7
+- 2.0.0-8
+- 2.0.0-9
+- 3.0.0
+
+## 获取地址
+
+- npm 安装：`npm install firestore-mobx`
+- npm registry：https://registry.npmjs.org/firestore-mobx
