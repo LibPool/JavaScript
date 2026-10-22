@@ -11,6 +11,7 @@ Run from the repo root:
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import re
 import sys
@@ -27,6 +28,11 @@ NPM = "https://registry.npmjs.org"
 USER_AGENT = "LibPool-Indexer/1.0 (+https://github.com/LibPool)"
 CACHE_PATH = Path(__file__).resolve().parent / "cache" / "npm.json"
 NODE_RELEASES = ["node-v18", "node-v20", "node-v22", "node-v24", "node-v26"]
+WINDOWS_RESERVED = {
+    "con", "prn", "aux", "nul",
+    *(f"com{i}" for i in range(1, 10)),
+    *(f"lpt{i}" for i in range(1, 10)),
+}
 
 CRAWL_QUERIES = [
     "javascript", "node", "react", "vue", "angular", "typescript", "css", "html",
@@ -73,13 +79,16 @@ def load_meta_dir(path: Path, prefix: str = "") -> list[JsLib]:
     """Load the lean metadata dump produced by crawl_npm_meta.py."""
     libs: list[JsLib] = []
     errors = 0
+    prefixes = [p for p in prefix.split("|") if p] if prefix else []
     for part in sorted(path.glob("npm_meta_*.jsonl")):
         with part.open(encoding="utf-8", errors="replace") as fh:
             for line in fh:
                 line = line.strip()
                 if not line:
                     continue
-                if prefix and not line.startswith('{"name":"' + prefix):
+                if prefixes and not any(
+                    line.startswith('{"name":"' + p) for p in prefixes
+                ):
                     continue
                 try:
                     item = json.loads(line)
@@ -87,7 +96,7 @@ def load_meta_dir(path: Path, prefix: str = "") -> list[JsLib]:
                     errors += 1
                     continue
                 name = item.get("name") or ""
-                if prefix and not name.startswith(prefix):
+                if prefixes and not any(name.startswith(p) for p in prefixes):
                     continue
                 libs.append(
                     JsLib(
@@ -165,7 +174,12 @@ def node_dirs_for(lib: JsLib) -> list[str]:
     baseline = node_major_baseline(lib.engines_node)
     if baseline is None:
         baseline = 18
-    return [d for d in NODE_RELEASES if int(d.replace("node-v", "")) >= baseline]
+    dirs = [d for d in NODE_RELEASES if int(d.replace("node-v", "")) >= baseline]
+    if not dirs:
+        # engines.node requires a newer Node than any tracked release, so index
+        # the package under the newest release instead of dropping it entirely.
+        dirs = [NODE_RELEASES[-1]]
+    return dirs
 
 
 def enrich(lib: JsLib, cache: dict, use_cache: bool) -> None:
@@ -266,6 +280,7 @@ def readme_md(lib: JsLib) -> str:
 def generate(root: Path, libs: list[JsLib], out_dir: Path, releases: list[str] | None = None) -> dict[str, int]:
     counts = defaultdict(int)
     targets = releases or NODE_RELEASES
+    written: dict[str, str] = {}
     for lib in libs:
         if not lib.version:
             continue
@@ -274,11 +289,35 @@ def generate(root: Path, libs: list[JsLib], out_dir: Path, releases: list[str] |
             if release not in targets:
                 continue
             parts = lib.name.split("/")
+            def sanitize_seg(seg: str) -> str:
+                seg = re.sub(r"[^A-Za-z0-9._@+-]", "-", seg)
+                seg = re.sub(r"\.{2,}", "-", seg)
+                seg = seg.rstrip(". ")
+                if not seg:
+                    seg = "_"
+                if seg.lower() in WINDOWS_RESERVED:
+                    seg += "-pkg"
+                return seg
+
+            parts = [sanitize_seg(p) for p in parts]
+            parts = [p for p in parts if p]
             target = out_dir / release / Path(*parts)
             target.mkdir(parents=True, exist_ok=True)
             md_path = target / f"{parts[-1]}.md"
-            if md_path.exists():
+            normalized = md_path.as_posix().lower()
+            existing = written.get(normalized)
+            if existing:
+                if existing == lib.name:
+                    continue
+                digest = hashlib.sha1(lib.name.encode("utf-8")).hexdigest()[:8]
+                md_path = target / f"{parts[-1]}-{digest}.md"
+                normalized = md_path.as_posix().lower()
+                if normalized in written:
+                    continue
+            elif md_path.exists():
+                written[normalized] = lib.name
                 continue
+            written[normalized] = lib.name
             md_path.write_text(text, encoding="utf-8")
             counts[release] += 1
     return dict(counts)
@@ -380,7 +419,8 @@ def main() -> int:
                     added += 1
             print(f"Crawled {len(crawled)} names from npm search, added {added} new packages", flush=True)
     if args.prefix:
-        libs = [lib for lib in libs if lib.name.startswith(args.prefix)]
+        prefixes = [p for p in args.prefix.split("|") if p]
+        libs = [lib for lib in libs if any(lib.name.startswith(p) for p in prefixes)]
         print(f"Prefix {args.prefix!r}: {len(libs):,} packages", flush=True)
     if args.limit:
         libs = libs[: args.limit]
