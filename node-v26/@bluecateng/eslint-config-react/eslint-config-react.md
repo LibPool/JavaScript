@@ -1,0 +1,35 @@
+# @bluecateng/eslint-config-react
+
+> 标签: eslint, eslintconfig
+
+## 简介
+
+BlueCat shareable config for React
+
+## 官网
+
+- 官网：https://github.com/bluecatengineering/eslint-packages#readme
+- 源码仓库：git+ssh://git@github.com/bluecatengineering/eslint-packages.git
+- npm 页面：https://www.npmjs.com/package/@bluecateng/eslint-config-react
+
+## 历史版本号
+
+- 当前版本：6.0.0
+
+- 4.1.0
+- 5.0.0
+- 5.0.1
+- 5.0.2
+- 5.0.3
+- 5.0.4
+- 5.1.0
+- 5.1.1
+- 5.1.2
+- 5.1.3
+- 5.1.4
+- 6.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @bluecateng/eslint-config-react`
+- npm registry：https://registry.npmjs.org/@bluecateng/eslint-config-react

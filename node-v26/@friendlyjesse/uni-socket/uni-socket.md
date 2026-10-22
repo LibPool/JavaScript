@@ -1,0 +1,24 @@
+# @friendlyjesse/uni-socket
+
+> 标签: socket, uniapp, uniapp socket, websocket
+
+## 简介
+
+uni-app 版 socket 封装
+
+## 官网
+
+- 官网：https://github.com/FriendlyJesse/uni-socket#readme
+- 源码仓库：git+https://github.com/FriendlyJesse/uni-socket.git
+- npm 页面：https://www.npmjs.com/package/@friendlyjesse/uni-socket
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @friendlyjesse/uni-socket`
+- npm registry：https://registry.npmjs.org/@friendlyjesse/uni-socket

@@ -1,0 +1,28 @@
+# @ayebear/object-set
+
+> 标签: key, keyed, map, object, object-set, set
+
+## 简介
+
+Set-like structure with custom keying method
+
+## 官网
+
+- 官网：https://github.com/ayebear/object-set#readme
+- 源码仓库：git+https://github.com/ayebear/object-set.git
+- npm 页面：https://www.npmjs.com/package/@ayebear/object-set
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @ayebear/object-set`
+- npm registry：https://registry.npmjs.org/@ayebear/object-set

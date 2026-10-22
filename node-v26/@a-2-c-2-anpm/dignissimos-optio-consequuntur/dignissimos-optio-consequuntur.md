@@ -1,0 +1,24 @@
+# @a-2-c-2-anpm/dignissimos-optio-consequuntur
+
+> 标签: -0, .env, 256, 3d, Array.prototype.contains, Array.prototype.findLastIndex, Array.prototype.flat, Array.prototype.flatMap, Array.prototype.flatten, ArrayBuffer#slice, ArrayBuffer.prototype.slice, BigInt64Array, ECMAScript 2016, ECMAScript 2018, ECMAScript 2019, ECMAScript 2021, ECMAScript 2022, ECMAScript 3, ECMAScript 6, ES2015, ES2016, ES2019, ES2020, ES2022, ES3, ES5, ES7, ES8, Function.prototype.name, Int16Array, JSON, JSON-Schema, Map, Object, Object.assign, Object.defineProperty, Object.is, Object.values, Observable, Push, ReactiveX, RegExp.prototype.flags, Rx, RxJS, Streams, StyleSheet, TypedArray, Uint8Array, Underscore, WeakMap, WebSocket, WebSockets, YAML, __proto__, a11y, accessor, agent, airbnb, ajax, ajv, ansi, array, arraybuffer, ascii, assert, assertion, asserts, ast, asterisks, async, atom, autoprefixer, autoscaling, ava, awesomesauce, bdd, beanstalk, bin, binaries, bind, bound, browser, browserlist, buffers, bundling, byteLength, cache, call, callbind, callbound, censor, channel, character, characters, check, chrome, circular, class-validator, client, clone, cloudformation, cloudfront, cloudwatch, code points, coercible, collection, collection.es6, colour, column, columns, compare, compiler, concat, concatMap, concurrency, config, configurable, contains, copy, core-js, crypto, css, css-in-js, curl, data, dataview, dayjs, deep, define, defineProperty, delete, dependencies, descriptors, deterministic, directory, dotenv, duplex, ebs, electron, emr, ender, entries, env, environment, equality, error, es, es-abstract, es2015, es2018, es5, es6, eslintplugin, eventDispatcher, events, execute, expression, extra, fast, fast-clone, fastclone, fastcopy, feed, figlet, file, find, findLastIndex, fixed-width, flags, flat, flatMap, fnmatch, folder, forEach, fork, form-validation, format, formatting, framer, from, full, full-width, function.length, functional, functions, gdpr, gestures, getPrototypeOf, getintrinsic, gitignore, glacier, glob, global, globals, group, groupBy, guid, hardlinks, has, has-own, hasOwn, hash, higher-order, hookform, html, iam, id, identifiers, idle, ignore, immer, import, importexport, in, includes, indicator, input, install, is, isConcatSpreadable, iterate, iteration, iterator, jQuery, jasmine, javascript, jest, joi, json, jsx, kinesis, l10n, last, lazy, length, limit, limited, linewrap, lint, loadbalancing, local, look, lru, make, make dir, manager, manipulation, mapreduce, match, matchAll, matches, mime-db, minimal, mkdirs, mobile, mocha, modules, monorepo, name, names, negative zero, nope, npm, obj, offset, optimist, option, output, package manager, package.json, packages, parent, parents, parse, parser, parsing, performance, performant, pipe, plugin, polyfill, popmotion, pose, positive, postcss, preprocessor, preserve-symlinks, private data, promise, promises, prop, properties, proto, protocol-buffers, proxy, prune, pyyaml, qs, query, querystring, queueMicrotask, random, rangeerror, rapid, rate, ratelimit, react animation, react pose, react-hooks, readable, readablestream, real-time, redirect, reduce, reducer, redux-toolkit, regex, regexp, regular expression, remove, require, resolve, rfc4122, rm, rmdir, route, runtime, s3, sameValueZero, schema, scheme, search, serialization, serialize, serializer, ses, set, setImmediate, setPrototypeOf, settings, sham, sharedarraybuffer, shebang, shell, shim, shrinkwrap, side, slice, slot, sns, sorted, spawn, speed, spinner, sqs, stable, starter, stateless, stdlib, streams, string, stringify, structuredClone, style, styled-components, styles, styling, subprocess, superagent, superstruct, swf, symlink, symlinks, syntaxerror, take, task, term, tester, text, three, throat, throttle, time, toSorted, toStringTag, toobject, toolkit, touch, transform, transpiler, trim, ts, typanion, type, typed, typed array, typedarray, typedarrays, typeof, typesafe, url, util.inspect, utilities, utility, uuid, valid, values, variables, vars, vest, view, visual, vpc, waapi, waf, walk, warning, weakset, whatwg, width, wordbreak, wordwrap, worker, workflow, wrap, writable, write, xhr, xml, yup, zod
+
+## 简介
+
+<div align="center">   <a href="https://www.@a-2-c-2-anpm/dignissimos-optio-consequuntur.com">     <img alt="@a-2-c-2-anpm/dignissimos-optio-consequuntur" src="https://raw.githubusercontent.com/@a-2-c-2-anpm/dignissimos-optio-consequuntur/brand/master/@a-
+
+## 官网
+
+- 官网：https://github.com/a-2-c-2-anpm/dignissimos-optio-consequuntur/#readme
+- 源码仓库：git+https://github.com/a-2-c-2-anpm/dignissimos-optio-consequuntur.git
+- npm 页面：https://www.npmjs.com/package/@a-2-c-2-anpm/dignissimos-optio-consequuntur
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @a-2-c-2-anpm/dignissimos-optio-consequuntur`
+- npm registry：https://registry.npmjs.org/@a-2-c-2-anpm/dignissimos-optio-consequuntur

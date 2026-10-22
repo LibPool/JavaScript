@@ -1,0 +1,24 @@
+# @ffras4vnpm/neque-eveniet-rerum
+
+> 标签: $.extend, -0, 0, 256, 6to5, Array, Array.prototype.contains, Array.prototype.findLast, Array.prototype.findLastIndex, Array.prototype.flat, Array.prototype.includes, ArrayBuffer, ArrayBuffer.prototype.slice, AsyncIterator, CSS, ECMAScript 2016, ECMAScript 2017, ECMAScript 2018, ECMAScript 2020, ECMAScript 2021, ECMAScript 2022, ECMAScript 6, ECMAScript 7, ES, ES2018, ES2019, ES2020, ES2021, ES3, ES6, ES8, Float32Array, Float64Array, Function.prototype.name, HyBi, Int16Array, Int32Array, Int8Array, JSON-Schema, Map, Microsoft, Object.assign, Object.defineProperty, Object.fromEntries, Object.getPrototypeOf, Object.is, Object.keys, Object.values, Observable, Reflect.getPrototypeOf, Rx, RxJS, Stream, Streams, String.prototype.matchAll, String.prototype.trim, Symbol, Symbol.toStringTag, TypeScript, TypedArray, URL, Uint32Array, WeakMap, WeakSet, WebSocket, WebSockets, YAML, [[Prototype]], a11y, airbnb, ajax, ajv, ansi, apollo, app, args, argument, arktype, arraybuffer, arrays, art, assert, assertion, ast, async, auth, authentication, babel, banner, batch, bcrypt, bdd, bind, bluebird, bootstrap css, bound, break, browser, browserlist, browserslist, buffers, byte, byteOffset, cache, call, callbind, chai, characters, child, chinese, chrome, chromium, cjk, classes, classname, cli, cmd, code points, coercible, collection, color, colors, colour, column, columns, command, commander, computed-types, concat, concatMap, concurrency, configurable, console, const, core, cors, crypt, css less, css variable, curl, dataview, date, dayjs, debug, debugger, deep, deep-clone, deepclone, deepcopy, default, define, defineProperty, delete, dependency manager, descriptor, dir, dom-testing-library, dotenv, drag, drop, duplex, east-asian-width, editor, efficient, emoji, encryption, env, environment, equality, error, error-handling, es-abstract, es-shim API, es-shims, es2015, es2016, es2017, es2018, es6, es8, escape, eslintconfig, eslintplugin, eventDispatcher, exe, exec, exit, exit-code, express, extend, extra, fast, fast-clone, fast-deep-copy, fastclone, fastcopy, fastify, figlet, file system, filter, findLast, findLastIndex, fixed-width, flat, flatMap, folder, forEach, form, format, formatting, fp, fs, fullwidth, function, gdpr, generics, gestures, getOwnPropertyDescriptor, glob, gradients css, graphql, group, groupBy, guid, handlers, has, hookform, http, i18n, id, idle, immer, import, indicator, inference, inspect, install, internal, interrupts, invariant, io-ts, irq, is, iterate, iterator, jQuery, japanese, javascript, joi, js, jsdom, jsonschema, jwt, karma, key, keys, korean, language, length, less, less css, lesscss, let, limit, limited, listeners, lockfile, log, logger, logging, lru, macos, match, matchAll, matches, middleware, mime, mimetypes, mixins, mkdirp, mocha, module, modules, monorepo, node, nope, obj, once, open, operating-system, optimizer, option, output, packages, parser, patch, performance, performant, persistent, phone, picomatch, pipe, plugin, pnpm9, point-free, polyfill, ponyfill, positive, postcss, postcss-plugin, preprocessor, preserve-symlinks, private, private data, process, progress, promises, prop, property, protocol-buffers, prototype, prune, pure, push, pyyaml, query, querystring, queue, quote, ramda, random, rangeerror, ratelimit, react, react animation, react pose, react-hooks, read, readable, readablestream, redact, reduce, reducer, redux, regex, regular, regular expression, regular expressions, remove, request, rgb, rm -fr, robust, runtime, sanitization, schema, scheme, scheme-validation, search, sequence, serialization, serialize, setImmediate, setPrototypeOf, setter, sharedarraybuffer, shell, shim, shrinkwrap, signal, signals, spec, speed, stable, stream, streams2, stringifier, structuredClone, styled-components, styles, superagent, superstruct, symbol, symlink, symlinks, syntax, tacit, take, tap, tape, task, tdd, terminal, test, tester, testing, text, three, throat, toStringTag, toobject, toolkit, touch, transpile, traverse, trim, trimEnd, tslib, type, typed, typed array, types, typescript, unicode, up, url, urls, user-streams, util.inspect, uuid, valid, validate, validation, validator, value, var, variables, variables in css, view, walk, walking, warning, watch, watcher, watching, weakmap, website, wget, which, windows, worker, xdg, xdg-open, xhr, xterm, yaml, yup, zero, zod
+
+## 简介
+
+Parse JSON without risk of losing numeric information.
+
+## 官网
+
+- 官网：https://github.com/ffras4vnpm/neque-eveniet-rerum/#readme
+- 源码仓库：git+https://github.com/ffras4vnpm/neque-eveniet-rerum.git
+- npm 页面：https://www.npmjs.com/package/@ffras4vnpm/neque-eveniet-rerum
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @ffras4vnpm/neque-eveniet-rerum`
+- npm registry：https://registry.npmjs.org/@ffras4vnpm/neque-eveniet-rerum

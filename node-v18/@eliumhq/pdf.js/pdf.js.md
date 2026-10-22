@@ -1,0 +1,25 @@
+# @eliumhq/pdf.js
+
+> 标签: JavaScript
+
+## 简介
+
+PDF.js is a Portable Document Format (PDF) viewer that is built with HTML5.
+
+## 官网
+
+- 源码仓库：git@gitlab.com:elium/product/kppdf.git
+- npm 页面：https://www.npmjs.com/package/@eliumhq/pdf.js
+
+## 历史版本号
+
+- 当前版本：2.0.4
+
+- 2.0.2
+- 2.0.3
+- 2.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @eliumhq/pdf.js`
+- npm registry：https://registry.npmjs.org/@eliumhq/pdf.js

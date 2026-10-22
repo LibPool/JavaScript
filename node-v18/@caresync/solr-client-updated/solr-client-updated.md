@@ -1,0 +1,25 @@
+# @caresync/solr-client-updated
+
+> 标签: client, query, sdk, search, solr
+
+## 简介
+
+A Solr client library for indexing, adding, deleting, committing, optimizing and searching documents within an Apache Solr installation (version>=3.2)
+
+## 官网
+
+- 官网：https://github.com/SerdarSanri/solr-node-client#readme
+- 源码仓库：git+https://github.com/lbdremy/solr-node-client.git
+- npm 页面：https://www.npmjs.com/package/@caresync/solr-client-updated
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @caresync/solr-client-updated`
+- npm registry：https://registry.npmjs.org/@caresync/solr-client-updated
+- Node 要求：>= 12

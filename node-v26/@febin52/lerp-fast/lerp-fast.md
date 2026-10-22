@@ -1,0 +1,24 @@
+# @febin52/lerp-fast
+
+> 标签: animation, canvas, graphics, interpolation, lerp, math
+
+## 简介
+
+Linear interpolation (lerp) utility for smooth animations and graphics calculations.
+
+## 官网
+
+- 官网：https://github.com/febin52/lerp-fast#readme
+- 源码仓库：git+https://github.com/febin52/lerp-fast.git
+- npm 页面：https://www.npmjs.com/package/@febin52/lerp-fast
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @febin52/lerp-fast`
+- npm registry：https://registry.npmjs.org/@febin52/lerp-fast

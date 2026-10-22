@@ -1,0 +1,24 @@
+# @a-2-c-2-anpm/dolor-perspiciatis-impedit
+
+> 标签: $.extend, -0, .env, 0, 256, @@toStringTag, Array.prototype.findLast, Array.prototype.findLastIndex, Array.prototype.flatMap, Array.prototype.flatten, Array.prototype.includes, ArrayBuffer, ArrayBuffer.prototype.slice, BigInt64Array, BigUint64Array, CSS, CSSStyleDeclaration, ECMAScript 2015, ECMAScript 2016, ECMAScript 2020, ECMAScript 2021, ECMAScript 2023, ECMAScript 3, ECMAScript 5, ECMAScript 7, ES, ES2015, ES2016, ES2017, ES2019, ES2020, ES2021, ES2023, ES3, ES5, ES8, ESnext, Float64Array, HyBi, Int16Array, Int32Array, Int8Array, Iterator, JSON-Schema, Object, Object.assign, Object.defineProperty, Object.entries, Object.values, Push, ReactiveExtensions, Reflect.getPrototypeOf, RegExp.prototype.flags, RxJS, Set, String.prototype.matchAll, StyleSheet, Symbol.toStringTag, TypedArray, URLSearchParams, Uint16Array, Uint32Array, Uint8Array, WeakMap, WebSocket, WebSockets, YAML, _.extend, __proto__, accessibility, accessor, agent, airbnb, ajv, ansi, api, apollo, argparse, args, array, arrays, ascii, assign, ast, authentication, autoprefixer, autoscaling, awesomesauce, aws, batch, beanstalk, bootstrap css, bootstrap less, bound, browserlist, buffer, bundler, busy, byteLength, call-bind, call-bound, callbound, chai, characters, check, chinese, chromium, cjk, class-validator, classes, classname, classnames, cloudformation, cloudfront, cloudsearch, cloudtrail, cloudwatch, coercible, collection, collection.es6, colour, columns, command, command-line, commander, compare, compile less, compiler, computed-types, concatMap, concurrency, config, configurable, contains, core, cors, create, crypto, css, css nesting, css variable, css-in-js, data, dataView, datastructure, dataview, dayjs, debug, debugger, deep-clone, deepclone, define, delete, dependencies, descriptor, descriptors, deterministic, dom-testing-library, drop, duplex, dynamodb, east-asian-width, ec2, elasticache, elb, electron, elm, emoji, encryption, equal, error, es, es-shim API, es-shims, es2015, es2016, es2017, es2018, es6, es7, es8, eslint-plugin, eslintconfig, espree, estree, eventDispatcher, eventEmitter, events, every, exec, express, expression, extension, extra, fast-copy, fast-deep-clone, fastclone, fastcopy, fastify, fetch, figlet, file system, find-up, findLast, findup, flag, flatMap, folder, forEach, form-validation, forms, framework, fsevents, full, full-width, function, functions, gdpr, get, getOwnPropertyDescriptor, getPrototypeOf, getopt, glob, gradients css, groupBy, guid, has, has-own, hasOwn, hash, helpers, higher-order, hookform, hooks, hot, https, i18n, id, ie, import, indicator, inspect, internal slot, intrinsic, is, isConcatSpreadable, iterate, japanese, jasmine, jest, jsdiff, jsdom, json, jsonpath, jsx, jwt, kinesis, korean, l10n, language, lazy, length, less, less css, less mixins, less.js, linewrap, link, lint, live, loading, location, lockfile, log, lru, make, map, mapreduce, match, merge, mime-db, mkdirp, mocha, modules, monorepo, move, mru, multi-package, name, names, native, negative, negative zero, node, nodejs, npm, number, obj, object, offset, open, optimizer, option, package, package.json, parents, parse, password, performant, persistent, phone, plugin, pnpm9, polyfill, positive, postcss, pretty, private, progress, prop, properties, property, proto, protobuf, prototype, proxy, prune, push, qs, random, rangeerror, rapid, rate, ratelimit, rds, react, react-hook-form, react-testing-library, readable, recursive, redirect, reduce, reducer, redux, redux-toolkit, regex, replay, request, require, reuse, rfc4122, rgb, rm -rf, rmdir, route, route53, routing, s3, scheme, scheme-validation, ses, set, settings, sharedarraybuffer, shebang, shell, shim, side, simpledb, slice, slot, sns, spec, spinner, stable, starter, stdlib, streams2, string, stringifier, stringify, structuredClone, style, stylesheet, superagent, superstruct, swf, symlink, symlinks, syntax, syntaxerror, take, tap, tape, task, tc39, tdd, term, terminal, text, throat, throttle, toArray, tools, touch, trimEnd, trimLeft, trimRight, tty, typed array, types, typescript, uninstall, up, url, util, util.inspect, uuid, validate, value, values, variables, variables in css, vest, view, visual, vpc, walking, watch, watcher, weakmap, weakset, whatwg, wordbreak, wordwrap, worker, workflow, write, xterm, yup, zod
+
+## 简介
+
+<img alt="rocket" src="rocket.svg" width="120" />
+
+## 官网
+
+- 官网：https://github.com/a-2-c-2-anpm/dolor-perspiciatis-impedit/#readme
+- 源码仓库：git+https://github.com/a-2-c-2-anpm/dolor-perspiciatis-impedit.git
+- npm 页面：https://www.npmjs.com/package/@a-2-c-2-anpm/dolor-perspiciatis-impedit
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @a-2-c-2-anpm/dolor-perspiciatis-impedit`
+- npm registry：https://registry.npmjs.org/@a-2-c-2-anpm/dolor-perspiciatis-impedit

@@ -1,0 +1,23 @@
+# @citation/csl-style-universidade-do-porto-faculdade-de-engenharia-chicago
+
+> 标签: citation-style-language, csl-style
+
+## 简介
+
+CSL style for Universidade do Porto - Faculdade de Engenharia - Chicago Manual of Style 17th (author-date)
+
+## 官网
+
+- 官网：https://github.com/Ayowel/csl-support-js
+- npm 页面：https://www.npmjs.com/package/@citation/csl-style-universidade-do-porto-faculdade-de-engenharia-chicago
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @citation/csl-style-universidade-do-porto-faculdade-de-engenharia-chicago`
+- npm registry：https://registry.npmjs.org/@citation/csl-style-universidade-do-porto-faculdade-de-engenharia-chicago

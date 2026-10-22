@@ -1,0 +1,24 @@
+# @goessner/g2-svg
+
+> 标签: 2d, canvas, command queue, graphics, javascript, svg, vector
+
+## 简介
+
+g2-svg - SVG addon for g2
+
+## 官网
+
+- 官网：https://github.com/goessner/g2-svg#readme
+- 源码仓库：git+https://github.com/goessner/g2-svg.git
+- npm 页面：https://www.npmjs.com/package/@goessner/g2-svg
+
+## 历史版本号
+
+- 当前版本：0.3.2
+
+- 0.3.2
+
+## 获取地址
+
+- npm 安装：`npm install @goessner/g2-svg`
+- npm registry：https://registry.npmjs.org/@goessner/g2-svg

@@ -1,0 +1,26 @@
+# @azharrasheed/ngx-embed-video
+
+> 标签: angular, angular6, dailymotion, embed, embed-video, ng6, ngx, typescript, video, vimeo, youtube
+
+## 简介
+
+> Get embed code for embedding youtube/vimeo/dailymotion/\* video in websites from URL or ID in Angular 6+. > Currently supports YouTube, Vimeo and Dailymotion. Feel free to make pull request to add others!
+
+## 官网
+
+- 官网：https://github.com/azharrashe3d/ngx-embed-video#readme
+- 源码仓库：git+https://github.com/azharrashe3d/ngx-embed-video.git
+- npm 页面：https://www.npmjs.com/package/@azharrasheed/ngx-embed-video
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @azharrasheed/ngx-embed-video`
+- npm registry：https://registry.npmjs.org/@azharrasheed/ngx-embed-video
+- Node 要求：>=0.8.0

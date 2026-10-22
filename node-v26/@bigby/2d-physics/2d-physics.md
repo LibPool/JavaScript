@@ -1,0 +1,35 @@
+# @bigby/2d-physics
+
+> 标签: JavaScript
+
+## 简介
+
+A collection of Bigby behaviors for adding RigidBody physics to your 2D game.
+
+## 官网
+
+- 官网：https://bigby.dev
+- 源码仓库：git+https://github.com/bigby-framework/bigby.git
+- npm 页面：https://www.npmjs.com/package/@bigby/2d-physics
+
+## 历史版本号
+
+- 当前版本：0.6.0-alpha.7
+
+- 0.5.10
+- 0.5.11
+- 0.5.13
+- 0.5.15
+- 0.5.16
+- 0.5.17-0.6.0-alpha.0.0
+- 0.6.0-alpha.0
+- 0.6.0-alpha.1
+- 0.6.0-alpha.2
+- 0.6.0-alpha.3
+- 0.6.0-alpha.5
+- 0.6.0-alpha.7
+
+## 获取地址
+
+- npm 安装：`npm install @bigby/2d-physics`
+- npm registry：https://registry.npmjs.org/@bigby/2d-physics

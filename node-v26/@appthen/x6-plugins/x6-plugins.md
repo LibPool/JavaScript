@@ -1,0 +1,24 @@
+# @appthen/x6-plugins
+
+> 标签: antv, graph, hooks, html, react, shape, svg, typescript, vue, x6
+
+## 简介
+
+@appthen/x6-plugins - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/appthen/@appthen/antv-x6
+- 源码仓库：git@github.com:appthen/@appthen/antv-x6.git
+- npm 页面：https://www.npmjs.com/package/@appthen/x6-plugins
+
+## 历史版本号
+
+- 当前版本：0.1.4
+
+- 0.1.4
+
+## 获取地址
+
+- npm 安装：`npm install @appthen/x6-plugins`
+- npm registry：https://registry.npmjs.org/@appthen/x6-plugins

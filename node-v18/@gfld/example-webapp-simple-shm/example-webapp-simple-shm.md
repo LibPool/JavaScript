@@ -1,0 +1,24 @@
+# @gfld/example-webapp-simple-shm
+
+> 标签: client, demo, html5, wayland, web
+
+## 简介
+
+HTML5 Wayland Demo Web Client Simple Shm
+
+## 官网
+
+- 官网：https://github.com/udevbe/greenfield#readme
+- 源码仓库：git+https://github.com/udevbe/greenfield.git
+- npm 页面：https://www.npmjs.com/package/@gfld/example-webapp-simple-shm
+
+## 历史版本号
+
+- 当前版本：1.0.0-rc1
+
+- 1.0.0-rc1
+
+## 获取地址
+
+- npm 安装：`npm install @gfld/example-webapp-simple-shm`
+- npm registry：https://registry.npmjs.org/@gfld/example-webapp-simple-shm

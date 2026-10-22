@@ -1,0 +1,24 @@
+# @davewm/ajv
+
+> 标签: JSON, json-schema, json-schema-validation, json-schema-validator, jsonschema, schema, validation, validator
+
+## 简介
+
+Another JSON Schema Validator
+
+## 官网
+
+- 官网：https://github.com/epoberezkin/ajv
+- 源码仓库：git+https://github.com/epoberezkin/ajv.git
+- npm 页面：https://www.npmjs.com/package/@davewm/ajv
+
+## 历史版本号
+
+- 当前版本：4.10.4
+
+- 4.10.4
+
+## 获取地址
+
+- npm 安装：`npm install @davewm/ajv`
+- npm registry：https://registry.npmjs.org/@davewm/ajv

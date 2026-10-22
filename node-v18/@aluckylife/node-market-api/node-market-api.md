@@ -1,0 +1,26 @@
+# @aluckylife/node-market-api
+
+> 标签: JavaScript
+
+## 简介
+
+行情api
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@aluckylife/node-market-api
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.0
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @aluckylife/node-market-api`
+- npm registry：https://registry.npmjs.org/@aluckylife/node-market-api

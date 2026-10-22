@@ -1,0 +1,37 @@
+# @dusalabs/sdk
+
+> 标签: JavaScript
+
+## 简介
+
+[![npm](https://img.shields.io/npm/v/@dusalabs/sdk?style=flat-square)](https://www.npmjs.com/package/@dusalabs/sdk) [![npm bundle size](https://img.shields.io/bundlephobia/minzip/@dusalabs/sdk?style=flat-square)](https://bundlephobia.com/result?p=@dusala
+
+## 官网
+
+- 官网：https://github.com/dusaprotocol/sdk#readme
+- 源码仓库：git+https://github.com/dusaprotocol/sdk.git
+- npm 页面：https://www.npmjs.com/package/@dusalabs/sdk
+
+## 历史版本号
+
+- 当前版本：1.1.18
+
+- 1.1.12
+- 1.1.13
+- 1.1.14
+- 1.1.15
+- 1.1.18
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.1.7
+- 1.1.8
+- 1.1.9
+- 共 174 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @dusalabs/sdk`
+- npm registry：https://registry.npmjs.org/@dusalabs/sdk
+- Node 要求：>=10

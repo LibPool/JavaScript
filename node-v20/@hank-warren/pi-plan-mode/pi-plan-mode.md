@@ -1,0 +1,36 @@
+# @hank-warren/pi-plan-mode
+
+> 标签: pi, pi-extension, pi-package, plan-mode, planning
+
+## 简介
+
+Plan mode for Pi: research and design with a durable plan file that survives compaction.
+
+## 官网
+
+- 官网：https://github.com/hank-warren/pi-extensions/tree/main/packages/pi-plan-mode#readme
+- 源码仓库：git+https://github.com/hank-warren/pi-extensions.git
+- npm 页面：https://www.npmjs.com/package/@hank-warren/pi-plan-mode
+
+## 历史版本号
+
+- 当前版本：1.8.2
+
+- 1.1.1
+- 1.2.0
+- 1.2.1
+- 1.3.0
+- 1.4.0
+- 1.5.0
+- 1.6.0
+- 1.7.0
+- 1.7.1
+- 1.8.0
+- 1.8.1
+- 1.8.2
+
+## 获取地址
+
+- npm 安装：`npm install @hank-warren/pi-plan-mode`
+- npm registry：https://registry.npmjs.org/@hank-warren/pi-plan-mode
+- Node 要求：>=22.19.0

@@ -1,0 +1,25 @@
+# @globaledge/teastall
+
+> 标签: teastall
+
+## 简介
+
+teastall
+
+## 官网
+
+- 官网：https://github.com/globaledge1/teatreeoil#readme
+- 源码仓库：git+https://github.com/globaledge1/teatreeoil.git
+- npm 页面：https://www.npmjs.com/package/@globaledge/teastall
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.0.0
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @globaledge/teastall`
+- npm registry：https://registry.npmjs.org/@globaledge/teastall

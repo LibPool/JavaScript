@@ -1,0 +1,34 @@
+# @anyway-sh/cli
+
+> 标签: anyway, cli, merchant, payments
+
+## 简介
+
+Anyway CLI — terminal interface for the Anyway merchant platform
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@anyway-sh/cli
+
+## 历史版本号
+
+- 当前版本：0.12.0
+
+- 0.3.1
+- 0.3.2
+- 0.3.3
+- 0.4.0
+- 0.4.1
+- 0.4.2
+- 0.5.0
+- 0.6.0
+- 0.7.0
+- 0.7.1
+- 0.8.0
+- 0.9.0
+
+## 获取地址
+
+- npm 安装：`npm install @anyway-sh/cli`
+- npm registry：https://registry.npmjs.org/@anyway-sh/cli
+- Node 要求：>=20

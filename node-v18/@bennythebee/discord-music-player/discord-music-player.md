@@ -1,0 +1,27 @@
+# @bennythebee/discord-music-player
+
+> 标签: bot, discord, framework, music, player, spotify, v13, v14, youtube
+
+## 简介
+
+Complete framework to facilitate music commands using discord.js v13
+
+## 官网
+
+- 官网：https://discord-music-player.js.org/
+- 源码仓库：git+https://github.com/BennyDaBee/discord-music-player.git
+- npm 页面：https://www.npmjs.com/package/@bennythebee/discord-music-player
+
+## 历史版本号
+
+- 当前版本：12.1.3
+
+- 12.0.0
+- 12.0.1
+- 12.1.0
+- 12.1.3
+
+## 获取地址
+
+- npm 安装：`npm install @bennythebee/discord-music-player`
+- npm registry：https://registry.npmjs.org/@bennythebee/discord-music-player

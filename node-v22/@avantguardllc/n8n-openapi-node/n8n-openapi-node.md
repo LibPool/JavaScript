@@ -1,0 +1,31 @@
+# @avantguardllc/n8n-openapi-node
+
+> 标签: n8n, openapi
+
+## 简介
+
+Turn OpenAPI specs into n8n node
+
+## 官网
+
+- 官网：https://github.com/AvantGuardLLC/n8n-openapi-node#readme
+- 源码仓库：git+https://github.com/AvantGuardLLC/n8n-openapi-node.git
+- npm 页面：https://www.npmjs.com/package/@avantguardllc/n8n-openapi-node
+
+## 历史版本号
+
+- 当前版本：0.2.2
+
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+- 0.2.1
+- 0.2.2
+
+## 获取地址
+
+- npm 安装：`npm install @avantguardllc/n8n-openapi-node`
+- npm registry：https://registry.npmjs.org/@avantguardllc/n8n-openapi-node

@@ -1,0 +1,30 @@
+# @divnotes/dn-voxel-loader
+
+> 标签: 3d, divnotes, graphics, loader, magicavoxel, parser, vox, voxel
+
+## 简介
+
+A framework-agnostic JavaScript library for loading MagicaVoxel .vox files.
+
+## 官网
+
+- 官网：https://divnotes.github.io/dn-voxel-loader/
+- 源码仓库：git+https://github.com/DivNotes/dn-voxel-loader.git
+- npm 页面：https://www.npmjs.com/package/@divnotes/dn-voxel-loader
+
+## 历史版本号
+
+- 当前版本：0.1.10
+
+- 0.1.10
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install @divnotes/dn-voxel-loader`
+- npm registry：https://registry.npmjs.org/@divnotes/dn-voxel-loader
+- Node 要求：>=18

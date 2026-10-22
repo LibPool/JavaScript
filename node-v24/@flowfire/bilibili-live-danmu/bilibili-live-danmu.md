@@ -1,0 +1,28 @@
+# @flowfire/bilibili-live-danmu
+
+> 标签: JavaScript
+
+## 简介
+
+```typescript // commonjs 引入方法： let BilibiliLiveDanmu = require("BilibiliLiveDanmu").BilibiliLiveDanmu
+
+## 官网
+
+- 官网：https://github.com/flowfire/bilibili-live-danmu#readme
+- 源码仓库：git+https://github.com/flowfire/bilibili-live-danmu.git
+- npm 页面：https://www.npmjs.com/package/@flowfire/bilibili-live-danmu
+
+## 历史版本号
+
+- 当前版本：0.1.4
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+
+## 获取地址
+
+- npm 安装：`npm install @flowfire/bilibili-live-danmu`
+- npm registry：https://registry.npmjs.org/@flowfire/bilibili-live-danmu

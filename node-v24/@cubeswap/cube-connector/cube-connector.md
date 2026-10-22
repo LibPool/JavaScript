@@ -1,0 +1,24 @@
+# @cubeswap/cube-connector
+
+> 标签: context, cube, cubeswap, dapp, ethereum, frontend, hooks, javascript, metamask, react, typescript, web3
+
+## 简介
+
+A simple, maximally extensible, dependency minimized framework for building modern Cube dApps
+
+## 官网
+
+- 官网：https://github.com/Cubeswap-exchange/cube-web3-connector#readme
+- 源码仓库：git+https://github.com/Cubeswap-exchange/cube-web3-connector.git
+- npm 页面：https://www.npmjs.com/package/@cubeswap/cube-connector
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @cubeswap/cube-connector`
+- npm registry：https://registry.npmjs.org/@cubeswap/cube-connector

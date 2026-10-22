@@ -1,0 +1,35 @@
+# @aurigma/axios-design-atoms-api-client
+
+> 标签: api client, customer's canvas, design atoms, web-to-print
+
+## 简介
+
+Axios API Client for Design Atoms API service of Customer's Canvas web-to-print system.
+
+## 官网
+
+- 官网：https://customerscanvas.com
+- npm 页面：https://www.npmjs.com/package/@aurigma/axios-design-atoms-api-client
+
+## 历史版本号
+
+- 当前版本：2.82.1
+
+- 2.74.1
+- 2.76.4
+- 2.77.4
+- 2.79.1
+- 2.79.3
+- 2.80.1
+- 2.80.11
+- 2.80.12
+- 2.80.14
+- 2.80.6
+- 2.80.8
+- 2.82.1
+- 共 73 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @aurigma/axios-design-atoms-api-client`
+- npm registry：https://registry.npmjs.org/@aurigma/axios-design-atoms-api-client

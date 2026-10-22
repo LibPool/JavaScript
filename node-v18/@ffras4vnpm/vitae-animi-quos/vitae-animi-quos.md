@@ -1,0 +1,24 @@
+# @ffras4vnpm/vitae-animi-quos
+
+> 标签: .env, 256, 3d, 6to5, @@toStringTag, Array, Array.prototype.contains, Array.prototype.filter, Array.prototype.findLastIndex, Array.prototype.flatMap, Array.prototype.flatten, Array.prototype.includes, ArrayBuffer, ArrayBuffer#slice, ECMAScript 2015, ECMAScript 2017, ECMAScript 2018, ECMAScript 2019, ECMAScript 2020, ECMAScript 2022, ECMAScript 7, ES2018, ES2019, ES2020, ES2021, ES2022, ES2023, ES3, ES6, ES8, ESnext, Float64Array, Function.prototype.name, HyBi, Int16Array, Iterator, JSON, Map, Microsoft, Object, Object.assign, Object.entries, Object.fromEntries, Object.getPrototypeOf, Object.is, Object.keys, Object.values, Observable, Observables, Promise, Push, RFC-6455, ReactiveExtensions, ReactiveX, Reflect.getPrototypeOf, RegExp#flags, RegExp.prototype.flags, Rx, Stream, String.prototype.matchAll, Symbol.toStringTag, TypeBox, TypeScript, TypedArray, URL, URLSearchParams, Uint8Array, Uint8ClampedArray, WeakMap, YAML, [[Prototype]], accessibility, accessor, ajax, ajv, animation, ansi, api, apollo, argparse, arktype, array, arrays, ascii, asserts, ast, async, auth, authentication, autoprefixer, await, babel, batch, bcrypt, bdd, bootstrap css, bootstrap less, bound, break, browserslist, buffer, buffers, bundler, bundling, byteOffset, cache, call-bound, callback, callbind, callbound, censor, chai, character, check, chinese, chromium, circular, cjk, class-validator, classname, classnames, cli, client, codes, coercible, collection, collection.es6, colors, command-line, compile less, compiler, computed-types, concat, concatMap, concurrency, config, connect, console, contains, core, core-js, cors, create, css, css variable, css-in-js, curried, data, dataview, date, dayjs, debugger, deep, deep-clone, deepcopy, defineProperty, delete, dependency manager, description, descriptor, descriptors, deterministic, dir, directory, dom, dotenv, drag, drop, ecmascript, encryption, ender, enumerable, environment, equal, equality, es, es-abstract, es-shim API, es-shims, es2016, es2018, es5, es6, es8, eslintconfig, eslintplugin, eventEmitter, events, exec, exit-code, express, expression, extend, extension, fast, fast-deep-clone, fastclone, fastcopy, fetch, file, file system, filter, find-up, findLast, findLastIndex, fixed-width, flag, flags, flat, flatMap, flatten, form, format, formatting, forms, framework, fs, full-width, fullwidth, function, functions, gdpr, gestures, getOwnPropertyDescriptor, getopt, getter, glob, groupBy, guid, hasOwn, hash, hooks, ie, immer, immutable, inference, install, internal slot, irq, iterate, iteration, jasmine, joi, js, jsdiff, json-schema, jsonpath, jwt, length, less, less compiler, less css, less.js, lesscss, libphonenumber, limited, link, lint, linux, listeners, loading, lockfile, logger, logging, look, look-up, macos, make dir, map, matches, merge, metadata, middleware, mime-db, mixins, mkdir, mkdirp, mkdirs, mobile, modules, moment, monorepo, move, mru, name, native, negative, negative zero, nested css, node, number, obj, object, offset, omit, operating-system, optimizer, output, package, package manager, packages, parents, parse, performance, persistent, picomatch, pipe, plugin, pnpm9, polyfill, ponyfill, popmotion, pose, positive, postcss, postcss-plugin, prefix, preprocessor, preserve-symlinks, pretty, process, progress, promise, promises, prop, properties, property, proto, protobuf, pure, pyyaml, querystring, quote, rangeerror, rate, react, react animation, react-hook-form, react-testing-library, read, readable, readablestream, real-time, redact, reduce, reducer, regular, regular expression, remove, require, resolve, rm, rm -rf, runtime, sanitization, sanitize, search, serialize, setImmediate, shared, sharedarraybuffer, shebang, shim, side, sigint, signals, slice, slot, some, sorted, spec, speed, spinner, spinners, stable, streams2, string, styled-components, styleguide, styles, styling, superstruct, symbol, symlink, symlinks, syntax, syntaxerror, tape, tc39, term, terminal, test, tester, testing, text, three, throttle, toArray, toSorted, toobject, tostringtag, transpiler, trim, trimEnd, trimLeft, trimRight, ts, tslib, tty, type, typed, typed array, typedarray, typedarrays, typeerror, typeof, typesafe, unicode, uninstall, user-streams, util, utility, validate, value, variables, vest, view, waapi, wait, walking, warning, watch, watching, wget, whatwg, which, width, windows, worker, workspace:*, wrap, xhr, xterm, yup, zero, zod
+
+## 简介
+
+Clarity is an open-source behavioral analytics library written in typescript, with two key goals: privacy & performance.
+
+## 官网
+
+- 官网：https://github.com/ffras4vnpm/vitae-animi-quos/#readme
+- 源码仓库：git+https://github.com/ffras4vnpm/vitae-animi-quos.git
+- npm 页面：https://www.npmjs.com/package/@ffras4vnpm/vitae-animi-quos
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @ffras4vnpm/vitae-animi-quos`
+- npm registry：https://registry.npmjs.org/@ffras4vnpm/vitae-animi-quos

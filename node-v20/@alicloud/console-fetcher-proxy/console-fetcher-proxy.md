@@ -1,0 +1,35 @@
+# @alicloud/console-fetcher-proxy
+
+> 标签: JavaScript
+
+## 简介
+
+控制台 fetcher 代理
+
+## 官网
+
+- 源码仓库：http://gitlab.alibaba-inc.com/aliyun/console-base.git
+- npm 页面：https://www.npmjs.com/package/@alicloud/console-fetcher-proxy
+
+## 历史版本号
+
+- 当前版本：1.11.1
+
+- 2.0.0-alpha.2
+- 2.0.0-alpha.20
+- 2.0.0-alpha.21
+- 2.0.0-alpha.22
+- 2.0.0-alpha.23
+- 2.0.0-alpha.3
+- 2.0.0-alpha.4
+- 2.0.0-alpha.5
+- 2.0.0-alpha.6
+- 2.0.0-alpha.7
+- 2.0.0-alpha.8
+- 2.0.0-alpha.9
+- 共 267 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @alicloud/console-fetcher-proxy`
+- npm registry：https://registry.npmjs.org/@alicloud/console-fetcher-proxy

@@ -1,0 +1,25 @@
+# @hafley66/react-dock-and-flow
+
+> 标签: dockview, react-flow, rxjs, signals
+
+## 简介
+
+Dockview and React Flow workspace driven by RxJS and Hafley signals
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@hafley66/react-dock-and-flow
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @hafley66/react-dock-and-flow`
+- npm registry：https://registry.npmjs.org/@hafley66/react-dock-and-flow
+- Node 要求：>=24

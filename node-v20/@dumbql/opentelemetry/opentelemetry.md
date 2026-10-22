@@ -1,0 +1,23 @@
+# @dumbql/opentelemetry
+
+> 标签: distributed-tracing, dumbql, graphql, observability, opentelemetry, traceparent, tracing
+
+## 简介
+
+W3C Trace Context propagation and OpenTelemetry-compatible tracing for DumbQL — zero external dependencies
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@dumbql/opentelemetry
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 1.0.5
+- 1.0.5-beta.4
+
+## 获取地址
+
+- npm 安装：`npm install @dumbql/opentelemetry`
+- npm registry：https://registry.npmjs.org/@dumbql/opentelemetry

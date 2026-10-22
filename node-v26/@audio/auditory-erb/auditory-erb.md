@@ -1,0 +1,27 @@
+# @audio/auditory-erb
+
+> 标签: audio, auditory, dsp, erb, filterbank
+
+## 简介
+
+ERB-scale band centers and bandwidths (Glasberg & Moore) — pair with @audio/auditory-gammatone for actual filtering
+
+## 官网
+
+- 官网：https://github.com/audiojs/auditory#readme
+- 源码仓库：git+https://github.com/audiojs/auditory.git
+- npm 页面：https://www.npmjs.com/package/@audio/auditory-erb
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @audio/auditory-erb`
+- npm registry：https://registry.npmjs.org/@audio/auditory-erb
+- Node 要求：>=18

@@ -1,0 +1,24 @@
+# @bnl/bmb-ds-design-system
+
+> 标签: BMB, DS
+
+## 简介
+
+BMB design components.
+
+## 官网
+
+- 官网：https://github.com/bonniertidskrifter/bmb-ds-design-system
+- 源码仓库：git+https://github.com/bonniertidskrifter/bmb-ds-design-system.git
+- npm 页面：https://www.npmjs.com/package/@bnl/bmb-ds-design-system
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @bnl/bmb-ds-design-system`
+- npm registry：https://registry.npmjs.org/@bnl/bmb-ds-design-system

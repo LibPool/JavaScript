@@ -1,0 +1,24 @@
+# @generates/kdot-postgres
+
+> 标签: kdot, kubernetes, pg, pogstgresql, postgres
+
+## 简介
+
+Resource configuration for non-production PostgreSQL instances
+
+## 官网
+
+- 官网：https://github.com/generates/kdot/tree/main/packages/kdot-postgres#readme
+- 源码仓库：git+https://github.com/generates/kdot.git
+- npm 页面：https://www.npmjs.com/package/@generates/kdot-postgres
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @generates/kdot-postgres`
+- npm registry：https://registry.npmjs.org/@generates/kdot-postgres

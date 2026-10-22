@@ -1,0 +1,24 @@
+# @billogram/history
+
+> 标签: history, location
+
+## 简介
+
+Manage browser history with JavaScript
+
+## 官网
+
+- 源码仓库：https://github.com/billogram/history.git
+- npm 页面：https://www.npmjs.com/package/@billogram/history
+
+## 历史版本号
+
+- 当前版本：3.4.1
+
+- 3.4.0
+- 3.4.1
+
+## 获取地址
+
+- npm 安装：`npm install @billogram/history`
+- npm registry：https://registry.npmjs.org/@billogram/history

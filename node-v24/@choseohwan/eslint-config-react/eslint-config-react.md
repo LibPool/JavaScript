@@ -1,0 +1,31 @@
+# @choseohwan/eslint-config-react
+
+> 标签: config, eslint, react
+
+## 简介
+
+eslint config for react
+
+## 官网
+
+- 官网：https://github.com/ChoSeoHwan/library#readme
+- 源码仓库：git+https://github.com/ChoSeoHwan/library.git
+- npm 页面：https://www.npmjs.com/package/@choseohwan/eslint-config-react
+
+## 历史版本号
+
+- 当前版本：2.0.1
+
+- 0.1.0
+- 0.1.0-alpha-22.e67bac192a122b4ae2480a7ec0fb89f5177094b6.0
+- 0.1.1
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 2.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @choseohwan/eslint-config-react`
+- npm registry：https://registry.npmjs.org/@choseohwan/eslint-config-react

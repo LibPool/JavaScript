@@ -1,0 +1,35 @@
+# @clean-jsdoc-theme/bhasha
+
+> 标签: JavaScript
+
+## 简介
+
+Pure, browser-safe i18n core for clean-jsdoc-theme (catalog, t, provider, key scheme, validation)
+
+## 官网
+
+- 官网：https://github.com/ankitskvmdam/clean-jsdoc-theme#readme
+- 源码仓库：git+https://github.com/ankitskvmdam/clean-jsdoc-theme.git
+- npm 页面：https://www.npmjs.com/package/@clean-jsdoc-theme/bhasha
+
+## 历史版本号
+
+- 当前版本：5.2.0
+
+- 5.0.0-alpha.4
+- 5.0.1
+- 5.0.2
+- 5.0.3
+- 5.0.4
+- 5.0.5
+- 5.0.6
+- 5.0.7
+- 5.0.8
+- 5.1.0
+- 5.1.1
+- 5.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @clean-jsdoc-theme/bhasha`
+- npm registry：https://registry.npmjs.org/@clean-jsdoc-theme/bhasha

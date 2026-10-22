@@ -1,0 +1,32 @@
+# @apio/encoding
+
+> 标签: apio, decoders, encoders, encoding, platform
+
+## 简介
+
+A library for encode/decode data received from :protocol-service
+
+## 官网
+
+- 官网：https://github.com/ApioIoT/encoding#readme
+- 源码仓库：git+https://github.com/ApioIoT/encoding.git
+- npm 页面：https://www.npmjs.com/package/@apio/encoding
+
+## 历史版本号
+
+- 当前版本：3.0.8
+
+- 3.0.1
+- 3.0.2
+- 3.0.3
+- 3.0.4
+- 3.0.5
+- 3.0.6
+- 3.0.7
+- 3.0.8
+
+## 获取地址
+
+- npm 安装：`npm install @apio/encoding`
+- npm registry：https://registry.npmjs.org/@apio/encoding
+- Node 要求：>=18

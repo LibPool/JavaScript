@@ -1,0 +1,34 @@
+# @dexto/client-sdk
+
+> 标签: JavaScript
+
+## 简介
+
+A TypeScript HTTP client for Dexto servers, with a separate entrypoint for authenticated Cloud discovery.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@dexto/client-sdk
+
+## 历史版本号
+
+- 当前版本：1.14.2
+
+- 1.8.7
+- 1.8.8
+- 1.8.9
+- 1.9.0
+- 1.9.1
+- 1.9.2
+- 1.9.3
+- 1.9.4
+- 1.9.5
+- 1.9.6
+- 1.9.7
+- 1.9.8
+- 共 94 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @dexto/client-sdk`
+- npm registry：https://registry.npmjs.org/@dexto/client-sdk

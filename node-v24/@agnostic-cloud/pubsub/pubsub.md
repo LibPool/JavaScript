@@ -1,0 +1,26 @@
+# @agnostic-cloud/pubsub
+
+> 标签: JavaScript
+
+## 简介
+
+Unified pub/sub interface for AWS SNS/SQS, GCP Pub/Sub, and Azure Event Grid/Event Hubs/Service Bus
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@agnostic-cloud/pubsub
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @agnostic-cloud/pubsub`
+- npm registry：https://registry.npmjs.org/@agnostic-cloud/pubsub
+- Node 要求：^22.18.0 || ^24.0.0 || >=26.0.0

@@ -1,0 +1,26 @@
+# @fengbinmov/dsh-git-panel
+
+> 标签: cordis, deepseek-harness, dsh, dsh-bundle, dsh-plugin, git, git-panel, web-gui
+
+## 简介
+
+External dsh Web GUI plugin: a Git tab (changes, staging, commits, diffs, history, branches, remotes) registered as a Conversation View, packaged as a dsh profile bundle
+
+## 官网
+
+- 官网：https://github.com/fengbinmov/dsh-git-panel#readme
+- 源码仓库：git+https://github.com/fengbinmov/dsh-git-panel.git
+- npm 页面：https://www.npmjs.com/package/@fengbinmov/dsh-git-panel
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @fengbinmov/dsh-git-panel`
+- npm registry：https://registry.npmjs.org/@fengbinmov/dsh-git-panel
+- Node 要求：^22.19.0 || >=24.0.0

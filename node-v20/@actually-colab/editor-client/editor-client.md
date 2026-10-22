@@ -1,0 +1,28 @@
+# @actually-colab/editor-client
+
+> 标签: Actually Colab, colab, jupyter, typescript
+
+## 简介
+
+API Client for Actually Colab's editor
+
+## 官网
+
+- 源码仓库：https://github.com/actually-colab/editor
+- npm 页面：https://www.npmjs.com/package/@actually-colab/editor-client
+
+## 历史版本号
+
+- 当前版本：0.3.1
+
+- 0.2.2
+- 0.2.3
+- 0.2.4
+- 0.2.9
+- 0.3.0
+- 0.3.1
+
+## 获取地址
+
+- npm 安装：`npm install @actually-colab/editor-client`
+- npm registry：https://registry.npmjs.org/@actually-colab/editor-client

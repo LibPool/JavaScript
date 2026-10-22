@@ -1,0 +1,32 @@
+# @axlpq/ai-coding-workflow
+
+> 标签: ai-coding, ai-workflow, claude-code, codex, cursor, openspec, superpowers, tdd
+
+## 简介
+
+AI coding assistant workflow skill library — Superpowers + OpenSpec team skills for Codex, Cursor, and Claude Code
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@axlpq/ai-coding-workflow
+
+## 历史版本号
+
+- 当前版本：1.0.7
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.5-beta1
+- 1.0.5-beta2
+- 1.0.6
+- 1.0.7
+
+## 获取地址
+
+- npm 安装：`npm install @axlpq/ai-coding-workflow`
+- npm registry：https://registry.npmjs.org/@axlpq/ai-coding-workflow
+- Node 要求：>=14.0.0

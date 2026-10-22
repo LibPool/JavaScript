@@ -1,0 +1,32 @@
+# @agent-runtime-map/react
+
+> 标签: JavaScript
+
+## 简介
+
+Reusable blueprint-style React Flow components for Agent Runtime Map.
+
+## 官网
+
+- 官网：https://github.com/TheCrazyAnt/agent-runtime-map/tree/main/packages/react#readme
+- 源码仓库：git+https://github.com/TheCrazyAnt/agent-runtime-map.git
+- npm 页面：https://www.npmjs.com/package/@agent-runtime-map/react
+
+## 历史版本号
+
+- 当前版本：0.9.3
+
+- 0.8.0
+- 0.8.1
+- 0.8.2
+- 0.8.3
+- 0.9.0
+- 0.9.1
+- 0.9.2
+- 0.9.3
+
+## 获取地址
+
+- npm 安装：`npm install @agent-runtime-map/react`
+- npm registry：https://registry.npmjs.org/@agent-runtime-map/react
+- Node 要求：>=20

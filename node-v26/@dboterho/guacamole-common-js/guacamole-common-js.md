@@ -1,0 +1,23 @@
+# @dboterho/guacamole-common-js
+
+> 标签: guacamole
+
+## 简介
+
+Guacamole common js as an NPM module
+
+## 官网
+
+- 官网：https://github.com/dboterho/guacamole-common-js
+- npm 页面：https://www.npmjs.com/package/@dboterho/guacamole-common-js
+
+## 历史版本号
+
+- 当前版本：0.0.7
+
+- 0.0.7
+
+## 获取地址
+
+- npm 安装：`npm install @dboterho/guacamole-common-js`
+- npm registry：https://registry.npmjs.org/@dboterho/guacamole-common-js

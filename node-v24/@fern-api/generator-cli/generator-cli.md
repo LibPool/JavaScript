@@ -1,0 +1,35 @@
+# @fern-api/generator-cli
+
+> 标签: JavaScript
+
+## 简介
+
+@fern-api/generator-cli - JavaScript library from npm
+
+## 官网
+
+- 源码仓库：git+https://github.com/fern-api/fern.git
+- npm 页面：https://www.npmjs.com/package/@fern-api/generator-cli
+
+## 历史版本号
+
+- 当前版本：0.11.0
+
+- 0.9.45
+- 0.9.46
+- 0.9.47
+- 0.9.48
+- 0.9.49
+- 0.9.50
+- 0.9.51
+- 0.9.52
+- 0.9.53
+- 0.9.54
+- 0.9.55
+- 0.9.56
+- 共 131 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @fern-api/generator-cli`
+- npm registry：https://registry.npmjs.org/@fern-api/generator-cli

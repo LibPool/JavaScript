@@ -1,0 +1,24 @@
+# @balsemlang/zerealpha
+
+> 标签: JavaScript
+
+## 简介
+
+@balsemlang/zerealpha - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/balsemlang/zoroalpha#readme
+- 源码仓库：git+https://github.com/balsemlang/zoroalpha.git
+- npm 页面：https://www.npmjs.com/package/@balsemlang/zerealpha
+
+## 历史版本号
+
+- 当前版本：1.1.4
+
+- 1.1.4
+
+## 获取地址
+
+- npm 安装：`npm install @balsemlang/zerealpha`
+- npm registry：https://registry.npmjs.org/@balsemlang/zerealpha

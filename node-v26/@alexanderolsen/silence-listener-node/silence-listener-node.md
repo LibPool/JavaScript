@@ -1,0 +1,26 @@
+# @alexanderolsen/silence-listener-node
+
+> 标签: DSP, audio, audio node, node, scriptprocessornode, silence, web, web-audio, worklet, workletnode
+
+## 简介
+
+Pseudo-AudioNode to notify when an audio stream becomes silent.
+
+## 官网
+
+- 官网：https://github.com/aolsenjazz/silence-listener-node#readme
+- 源码仓库：git+https://github.com/aolsenjazz/silence-listener-node.git
+- npm 页面：https://www.npmjs.com/package/@alexanderolsen/silence-listener-node
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @alexanderolsen/silence-listener-node`
+- npm registry：https://registry.npmjs.org/@alexanderolsen/silence-listener-node

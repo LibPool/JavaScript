@@ -1,0 +1,27 @@
+# @heiwa4126/hello
+
+> 标签: demo, template, tutorial
+
+## 简介
+
+NPM package tutorial
+
+## 官网
+
+- 官网：https://github.com/heiwa4126/npm-hello#readme
+- 源码仓库：git+https://github.com/heiwa4126/npm-hello.git
+- npm 页面：https://www.npmjs.com/package/@heiwa4126/hello
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.0.1
+- 1.0.3
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @heiwa4126/hello`
+- npm registry：https://registry.npmjs.org/@heiwa4126/hello
+- Node 要求：>=16

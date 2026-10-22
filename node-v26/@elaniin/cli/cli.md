@@ -1,0 +1,27 @@
+# @elaniin/cli
+
+> 标签: CLI, Elaniin
+
+## 简介
+
+Standard Tooling for development in Elaniin
+
+## 官网
+
+- 官网：https://github.com/elaniin/elaniin-cli#readme
+- 源码仓库：git+https://github.com/elaniin/elaniin-cli.git
+- npm 页面：https://www.npmjs.com/package/@elaniin/cli
+
+## 历史版本号
+
+- 当前版本：2.0.0-beta.1
+
+- 0.0.1
+- 1.0.0
+- 1.0.1
+- 2.0.0-beta.1
+
+## 获取地址
+
+- npm 安装：`npm install @elaniin/cli`
+- npm registry：https://registry.npmjs.org/@elaniin/cli

@@ -1,0 +1,26 @@
+# @cdk-cloudformation/karte-eventbridge-documentdb-module
+
+> 标签: aws-cdk, awscdk, cdk, cfn, cfn-resources, cloudformation, cloudformation-registry, constructs, documentdb, eventbridge, extensions, karte, l1, module
+
+## 简介
+
+Schema for Module Fragment of type KARTE::EventBridge::DocumentDB::MODULE
+
+## 官网
+
+- 官网：https://github.com/cdklabs/cdk-cloudformation#readme
+- 源码仓库：git+https://github.com/cdklabs/cdk-cloudformation.git
+- npm 页面：https://www.npmjs.com/package/@cdk-cloudformation/karte-eventbridge-documentdb-module
+
+## 历史版本号
+
+- 当前版本：1.0.2-alpha.7
+
+- 1.0.2-alpha.5
+- 1.0.2-alpha.6
+- 1.0.2-alpha.7
+
+## 获取地址
+
+- npm 安装：`npm install @cdk-cloudformation/karte-eventbridge-documentdb-module`
+- npm registry：https://registry.npmjs.org/@cdk-cloudformation/karte-eventbridge-documentdb-module

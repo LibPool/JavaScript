@@ -1,0 +1,36 @@
+# @era-ui/cli
+
+> 标签: cli, components, era-ui, react, tailwind
+
+## 简介
+
+CLI for adding Era UI components, layouts, and modules to your project
+
+## 官网
+
+- 官网：https://github.com/DidinSalahudin/era-ui#readme
+- 源码仓库：git+https://github.com/DidinSalahudin/era-ui.git
+- npm 页面：https://www.npmjs.com/package/@era-ui/cli
+
+## 历史版本号
+
+- 当前版本：1.6.0
+
+- 1.2.1
+- 1.2.2
+- 1.2.3
+- 1.2.4
+- 1.2.5
+- 1.2.6
+- 1.2.7
+- 1.3.1
+- 1.4.1
+- 1.4.2
+- 1.5.0
+- 1.6.0
+
+## 获取地址
+
+- npm 安装：`npm install @era-ui/cli`
+- npm registry：https://registry.npmjs.org/@era-ui/cli
+- Node 要求：>=18

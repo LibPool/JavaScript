@@ -1,0 +1,25 @@
+# @devneser/web3-react-network-connector
+
+> 标签: context, dapp, ethereum, frontend, hooks, javascript, react, react-hooks, typescript, web3
+
+## 简介
+
+A simple, maximally extensible, dependency minimized framework for building modern Ethereum dApps
+
+## 官网
+
+- 官网：https://github.com/NoahZinsmeister/web3-react#readme
+- 源码仓库：git://github.com/NoahZinsmeister/web3-react.git
+- npm 页面：https://www.npmjs.com/package/@devneser/web3-react-network-connector
+
+## 历史版本号
+
+- 当前版本：6.1.9-beta
+
+- 6.1.9-alpha
+- 6.1.9-beta
+
+## 获取地址
+
+- npm 安装：`npm install @devneser/web3-react-network-connector`
+- npm registry：https://registry.npmjs.org/@devneser/web3-react-network-connector

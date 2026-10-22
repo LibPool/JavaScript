@@ -1,0 +1,35 @@
+# @aklinker1/check
+
+> 标签: check, eslint, format, lint, oxfmt, prettier, publint, typescript
+
+## 简介
+
+An opinionated CLI tool to run all your checks all at once. The command will only exit with code 0 when no problems exist.
+
+## 官网
+
+- 官网：https://github.com/aklinker1/check
+- 源码仓库：git+https://github.com/aklinker1/check.git
+- npm 页面：https://www.npmjs.com/package/@aklinker1/check
+
+## 历史版本号
+
+- 当前版本：2.4.0
+
+- 1.4.4
+- 1.4.5
+- 2.0.0
+- 2.0.0-alpha.1
+- 2.0.0-alpha.2
+- 2.1.0
+- 2.1.1
+- 2.1.2
+- 2.2.0
+- 2.3.0
+- 2.3.1
+- 2.4.0
+
+## 获取地址
+
+- npm 安装：`npm install @aklinker1/check`
+- npm registry：https://registry.npmjs.org/@aklinker1/check

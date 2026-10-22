@@ -1,0 +1,35 @@
+# @beesolve/lambda-keep-active
+
+> 标签: JavaScript
+
+## 简介
+
+A CDK construct that periodically invokes your Lambda functions to prevent them from transitioning to the `inactive` state.
+
+## 官网
+
+- 官网：https://github.com/BeeSolve/packages#readme
+- 源码仓库：git+https://github.com/BeeSolve/packages.git
+- npm 页面：https://www.npmjs.com/package/@beesolve/lambda-keep-active
+
+## 历史版本号
+
+- 当前版本：2.1.13
+
+- 2.1.10
+- 2.1.11
+- 2.1.12
+- 2.1.13
+- 2.1.2
+- 2.1.3
+- 2.1.4
+- 2.1.5
+- 2.1.6
+- 2.1.7
+- 2.1.8
+- 2.1.9
+
+## 获取地址
+
+- npm 安装：`npm install @beesolve/lambda-keep-active`
+- npm registry：https://registry.npmjs.org/@beesolve/lambda-keep-active

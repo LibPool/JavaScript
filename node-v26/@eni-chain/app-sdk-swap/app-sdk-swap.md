@@ -1,0 +1,29 @@
+# @eni-chain/app-sdk-swap
+
+> 标签: JavaScript
+
+## 简介
+
+Swap planning and execution helpers for the ENI App SDK.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@eni-chain/app-sdk-swap
+
+## 历史版本号
+
+- 当前版本：0.1.7
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+
+## 获取地址
+
+- npm 安装：`npm install @eni-chain/app-sdk-swap`
+- npm registry：https://registry.npmjs.org/@eni-chain/app-sdk-swap

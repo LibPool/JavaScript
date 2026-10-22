@@ -1,0 +1,30 @@
+# @dyyz1993/create-agent
+
+> 标签: JavaScript
+
+## 简介
+
+Create Agent project scaffolding CLI
+
+## 官网
+
+- 官网：https://github.com/dyyz1993/pi-agent-template#readme
+- 源码仓库：git+https://github.com/dyyz1993/pi-agent-template.git
+- npm 页面：https://www.npmjs.com/package/@dyyz1993/create-agent
+
+## 历史版本号
+
+- 当前版本：2.1.3
+
+- 1.9.0
+- 2.0.0
+- 2.0.1
+- 2.1.0
+- 2.1.1
+- 2.1.2
+- 2.1.3
+
+## 获取地址
+
+- npm 安装：`npm install @dyyz1993/create-agent`
+- npm registry：https://registry.npmjs.org/@dyyz1993/create-agent

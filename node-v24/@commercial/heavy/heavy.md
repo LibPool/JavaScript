@@ -1,0 +1,27 @@
+# @commercial/heavy
+
+> 标签: delay, load, measure, memory, process
+
+## 简介
+
+Measure process load
+
+## 官网
+
+- 官网：https://github.com/hapijs/heavy#readme
+- 源码仓库：git://github.com/hapijs/heavy.git
+- npm 页面：https://www.npmjs.com/package/@commercial/heavy
+
+## 历史版本号
+
+- 当前版本：7.0.0
+
+- 4.1.0
+- 6.2.2
+- 7.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @commercial/heavy`
+- npm registry：https://registry.npmjs.org/@commercial/heavy
+- Node 要求：>=12.0.0

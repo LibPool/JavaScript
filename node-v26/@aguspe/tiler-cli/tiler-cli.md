@@ -1,0 +1,27 @@
+# @aguspe/tiler-cli
+
+> 标签: JavaScript
+
+## 简介
+
+Command-line interface for tiler-ts. `tiler init`, `tiler serve`, `tiler doctor`, `tiler import-playwright-json`.
+
+## 官网
+
+- 官网：https://github.com/aguspe/tiler-ts/tree/main/packages/cli
+- 源码仓库：git+https://github.com/aguspe/tiler-ts.git
+- npm 页面：https://www.npmjs.com/package/@aguspe/tiler-cli
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @aguspe/tiler-cli`
+- npm registry：https://registry.npmjs.org/@aguspe/tiler-cli

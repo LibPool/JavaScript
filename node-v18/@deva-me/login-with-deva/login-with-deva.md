@@ -1,0 +1,25 @@
+# @deva-me/login-with-deva
+
+> 标签: JavaScript
+
+## 简介
+
+Login with Deva React SDK for authentication, channel feeds, and interactive agent chat.
+
+## 官网
+
+- 官网：https://github.com/Deva-me-AI/login-with-deva#readme
+- 源码仓库：git+https://github.com/Deva-me-AI/login-with-deva.git
+- npm 页面：https://www.npmjs.com/package/@deva-me/login-with-deva
+
+## 历史版本号
+
+- 当前版本：0.11.0
+
+- 0.10.3
+- 0.11.0
+
+## 获取地址
+
+- npm 安装：`npm install @deva-me/login-with-deva`
+- npm registry：https://registry.npmjs.org/@deva-me/login-with-deva

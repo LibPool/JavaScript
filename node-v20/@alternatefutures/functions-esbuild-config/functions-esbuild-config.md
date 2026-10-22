@@ -1,0 +1,26 @@
+# @alternatefutures/functions-esbuild-config
+
+> 标签: config, edge, esbuild, fleek, fleek-functions, lambda, serverless, typescript
+
+## 简介
+
+ESBuild config for Fleek Functions
+
+## 官网
+
+- 官网：https://github.com/fleek-platform/functions-esbuild-config
+- 源码仓库：git+https://github.com/fleek-platform/functions-esbuild-config.git
+- npm 页面：https://www.npmjs.com/package/@alternatefutures/functions-esbuild-config
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.19
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @alternatefutures/functions-esbuild-config`
+- npm registry：https://registry.npmjs.org/@alternatefutures/functions-esbuild-config
+- Node 要求：>=18

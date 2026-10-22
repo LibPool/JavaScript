@@ -1,0 +1,37 @@
+# @alaskaairux/icons
+
+> 标签: alaska airlines, auro design system, icons
+
+## 简介
+
+Alaska Air and Auro Design System Icons
+
+## 官网
+
+- 官网：https://github.com/AlaskaAirlines/Icons#readme
+- 源码仓库：git+https://github.com/AlaskaAirlines/Icons.git
+- npm 页面：https://www.npmjs.com/package/@alaskaairux/icons
+
+## 历史版本号
+
+- 当前版本：5.30.0
+
+- 5.29.0
+- 5.3.0
+- 5.30.0
+- 5.4.0
+- 5.4.0-beta.1
+- 5.5.0
+- 5.6.0
+- 5.7.0
+- 5.7.1
+- 5.8.0
+- 5.9.0
+- 5.9.1
+- 共 139 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @alaskaairux/icons`
+- npm registry：https://registry.npmjs.org/@alaskaairux/icons
+- Node 要求：>=20

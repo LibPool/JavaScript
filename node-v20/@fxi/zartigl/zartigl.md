@@ -1,0 +1,35 @@
+# @fxi/zartigl
+
+> 标签: currents, maplibre, ocean, particles, webgl, zarr
+
+## 简介
+
+MapLibre GL JS visualization for catalog-backed Zarr, WMTS, and GeoVideo data
+
+## 官网
+
+- 官网：https://github.com/fxi/zartigl#readme
+- 源码仓库：git+https://github.com/fxi/zartigl.git
+- npm 页面：https://www.npmjs.com/package/@fxi/zartigl
+
+## 历史版本号
+
+- 当前版本：0.6.0
+
+- 0.1.4
+- 0.2.13
+- 0.2.14
+- 0.2.15
+- 0.2.16
+- 0.3.0
+- 0.3.1
+- 0.4.0
+- 0.4.1
+- 0.4.2
+- 0.5.0
+- 0.6.0
+
+## 获取地址
+
+- npm 安装：`npm install @fxi/zartigl`
+- npm registry：https://registry.npmjs.org/@fxi/zartigl

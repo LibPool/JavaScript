@@ -1,0 +1,34 @@
+# @crabnebula/packager-win32-arm64-msvc
+
+> 标签: JavaScript
+
+## 简介
+
+This is the **aarch64-pc-windows-msvc** binary for `@crabnebula/packager`
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@crabnebula/packager-win32-arm64-msvc
+
+## 历史版本号
+
+- 当前版本：0.11.2
+
+- 0.10.2
+- 0.10.3
+- 0.11.0
+- 0.11.1
+- 0.11.2
+- 0.2.0
+- 0.6.0
+- 0.7.0
+- 0.8.0
+- 0.8.1
+- 0.9.0
+- 0.9.1
+
+## 获取地址
+
+- npm 安装：`npm install @crabnebula/packager-win32-arm64-msvc`
+- npm registry：https://registry.npmjs.org/@crabnebula/packager-win32-arm64-msvc
+- Node 要求：>= 10

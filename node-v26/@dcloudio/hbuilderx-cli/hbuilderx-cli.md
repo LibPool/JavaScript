@@ -1,0 +1,28 @@
+# @dcloudio/hbuilderx-cli
+
+> 标签: cli, development, hbuilderx, uniapp
+
+## 简介
+
+HBuilderX CLI integration for uni-app development
+
+## 官网
+
+- 官网：https://github.com/dcloudio/hbuilderx-cli#readme
+- 源码仓库：git+https://github.com/dcloudio/hbuilderx-cli.git
+- npm 页面：https://www.npmjs.com/package/@dcloudio/hbuilderx-cli
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.1.1
+- 1.1.2
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @dcloudio/hbuilderx-cli`
+- npm registry：https://registry.npmjs.org/@dcloudio/hbuilderx-cli
+- Node 要求：>=12.0.0

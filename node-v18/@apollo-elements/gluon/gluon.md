@@ -1,0 +1,36 @@
+# @apollo-elements/gluon
+
+> 标签: Apollo, Custom Elements, Gluon, GraphQL, Web Components, lit-html
+
+## 简介
+
+👩‍🚀🌛 Gluon Elements for Apollo GraphQL 🚀👨‍🚀
+
+## 官网
+
+- 官网：https://apolloelements.dev/api/libraries/gluon/
+- 源码仓库：git+ssh://git@github.com/apollo-elements/apollo-elements.git
+- npm 页面：https://www.npmjs.com/package/@apollo-elements/gluon
+
+## 历史版本号
+
+- 当前版本：6.0.0
+
+- 4.0.0
+- 4.0.0-next.0
+- 4.0.0-next.1
+- 4.0.0-next.2
+- 4.0.0-next.4
+- 4.0.0-next.5
+- 4.0.0-next.6
+- 4.0.1-next.0
+- 5.0.0
+- 5.0.1
+- 5.0.2
+- 6.0.0
+- 共 60 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @apollo-elements/gluon`
+- npm registry：https://registry.npmjs.org/@apollo-elements/gluon

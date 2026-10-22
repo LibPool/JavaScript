@@ -1,0 +1,24 @@
+# @ffras4vnpm/voluptas-ullam-dolorum
+
+> 标签: .env, Array.prototype.filter, Array.prototype.findLast, Array.prototype.findLastIndex, Array.prototype.flat, Array.prototype.flatten, Array.prototype.includes, ArrayBuffer#slice, BigInt64Array, ECMAScript 2016, ECMAScript 2017, ECMAScript 2023, ECMAScript 3, ECMAScript 5, ECMAScript 7, ES2015, ES2020, ES2023, ES5, ES7, ESnext, Float32Array, Float64Array, Function.prototype.name, Int32Array, Int8Array, Iterator, JSON, Object, Object.assign, Object.fromEntries, Object.getPrototypeOf, Object.is, RFC-6455, RegExp.prototype.flags, Rx, Set, Stream, Streams, Symbol, TypeScript, URLSearchParams, Uint16Array, Uint32Array, Uint8ClampedArray, WeakMap, WebSocket, YAML, _.extend, __proto__, a11y, accessibility, accessor, airbnb, ajv, api, apollo, argparse, argv, arktype, array, arrays, art, ascii, asserts, async, ava, awesomesauce, babel-core, banner, batch, bcrypt, bdd, bind, bluebird, bootstrap css, bound, break, browserlist, browserslist, buffers, bundling, busy, byteOffset, cache, call, call-bound, callback, callbind, censor, chai, character, characters, chinese, chromium, circular, cjk, class-validator, classes, classname, code points, codes, coercible, collection, collection.es6, colors, colour, column, columns, commander, compare, compiler, config, configurable, console, consume, core-js, cors, create, crypto, css, css variable, curl, curried, data, datastructure, dataview, date, dayjs, debug, deep, deepclone, deepcopy, define, defineProperty, dependency manager, diff, dom, dom-testing-library, dotenv, drag, ecmascript, efficient, electron, encryption, ender, entries, enumerable, env, equality, error, error-handling, es, es-abstract, es-shim API, es-shims, es2016, es2017, es5, es6, es8, escape, eslint, eslintplugin, eventDispatcher, eventEmitter, exec, exit-code, express, extension, extra, fantasy-land, fast, fast-clone, fast-copy, fast-deep-clone, fast-deep-copy, fetch, figlet, file system, find, find-up, findup, fixed-width, flag, flat, flatMap, folder, form, forms, framer, from, fsevents, full, full-width, fullwidth, function, functional, functions, generics, gestures, getOwnPropertyDescriptor, getPrototypeOf, getintrinsic, getter, gradients css, groupBy, guid, hardlinks, harmony, hooks, http, idle, ie, immutable, import, includes, indicator, inspect, install, installer, internal, internal slot, interrupts, invariant, io-ts, iterator, jQuery, japanese, javascript, jest, joi, jsdiff, json, json-schema-validation, json-schema-validator, jsonschema, jwt, keys, korean, l10n, language, last, length, less, less.js, lesscss, let, limit, limited, linewrap, link, lint, loading, log, logging, look, lru, macos, make, make dir, map, match, matches, minimal, mixins, mkdirs, module, modules, monorepo, mru, name, names, native, negative, nested css, node, nodejs, npm, obj, object, omit, once, operating-system, optimist, optimizer, output, package manager, parse, parser, patch, path, performance, phone, picomatch, pipe, plugin, point-free, polyfill, ponyfill, pose, positive, preprocessor, preserve-symlinks, pretty, private data, process, progress, promise, promises, prop, properties, property, proto, protobuf, protocol-buffers, prototype, prune, query, queue, ramda, rangeerror, rate, ratelimit, react, react animation, react-testing-library, read, readablestream, redact, redux, redux-toolkit, regex, regexp, regular, reuse, rfc4122, rm, rm -fr, rmdir, sameValueZero, sanitization, sanitize, scheme, scheme-validation, search, serialization, set, setter, settings, sham, shared, shell, shim, signal, signals, sigterm, slice, sorted, spec, speed, stdlib, streams2, stringifier, stringify, structuredClone, style, styled-components, styles, stylesheet, styling, superstruct, symbol, symbols, symlinks, syntax, syntaxerror, tacit, take, tap, tape, telephone, term, terminal, testing, three, throat, throttle, toobject, toolkit, tools, tostringtag, touch, transpiler, traverse, trim, ts, tslib, type, typed array, types, typescript, unicode, url, util.inspect, utilities, validator, values, variables in css, vest, waapi, walk, warning, watch, watchFile, watching, whatwg, which, wordbreak, wordwrap, write, xhr, xterm, yaml, yup, zero, zod
+
+## 简介
+
+![CI](https://github.com/ffras4vnpm/voluptas-ullam-dolorum/workflows/CI/badge.svg) [![NPM version](https://img.shields.io/npm/v/@ffras4vnpm/voluptas-ullam-dolorum.svg?style=flat)](https://www.npmjs.com/package/@ffras4vnpm/voluptas-ullam-dolorum) [![js-sta
+
+## 官网
+
+- 官网：https://github.com/ffras4vnpm/voluptas-ullam-dolorum/#readme
+- 源码仓库：git+https://github.com/ffras4vnpm/voluptas-ullam-dolorum.git
+- npm 页面：https://www.npmjs.com/package/@ffras4vnpm/voluptas-ullam-dolorum
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @ffras4vnpm/voluptas-ullam-dolorum`
+- npm registry：https://registry.npmjs.org/@ffras4vnpm/voluptas-ullam-dolorum

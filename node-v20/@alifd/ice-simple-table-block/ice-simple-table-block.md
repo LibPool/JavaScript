@@ -1,0 +1,32 @@
+# @alifd/ice-simple-table-block
+
+> 标签: ice, ice-block
+
+## 简介
+
+基础的表格
+
+## 官网
+
+- 官网：http://alifd.oss-cn-hangzhou.aliyuncs.com/ice-simple-table-block/demo/index.html
+- 源码仓库：https://github.com/alibaba-fusion/materials/tree/master/blocks/SimpleTable
+- npm 页面：https://www.npmjs.com/package/@alifd/ice-simple-table-block
+
+## 历史版本号
+
+- 当前版本：0.1.10
+
+- 0.1.0
+- 0.1.1
+- 0.1.10
+- 0.1.2
+- 0.1.3
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install @alifd/ice-simple-table-block`
+- npm registry：https://registry.npmjs.org/@alifd/ice-simple-table-block

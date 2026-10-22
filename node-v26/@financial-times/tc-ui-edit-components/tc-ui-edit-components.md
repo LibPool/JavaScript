@@ -1,0 +1,35 @@
+# @financial-times/tc-ui-edit-components
+
+> 标签: JavaScript
+
+## 简介
+
+from biz-ops admin
+
+## 官网
+
+- 官网：https://github.com/Financial-Times/treecreeper#readme
+- 源码仓库：git+https://github.com/Financial-Times/treecreeper.git
+- npm 页面：https://www.npmjs.com/package/@financial-times/tc-ui-edit-components
+
+## 历史版本号
+
+- 当前版本：0.2.2
+
+- 0.0.9
+- 0.1.0
+- 0.1.1
+- 0.1.2-beta.1
+- 0.1.2-beta.2
+- 0.1.2-beta.3
+- 0.1.2-beta.4
+- 0.1.2-beta.5
+- 0.1.2-beta.6
+- 0.2.0
+- 0.2.1
+- 0.2.2
+
+## 获取地址
+
+- npm 安装：`npm install @financial-times/tc-ui-edit-components`
+- npm registry：https://registry.npmjs.org/@financial-times/tc-ui-edit-components

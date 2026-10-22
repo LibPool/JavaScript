@@ -1,0 +1,36 @@
+# @backs/bot-base
+
+> 标签: bot, command, command handler, commands, discord.js, djs, event, event handler, events
+
+## 简介
+
+The 6th version of back's bot base.
+
+## 官网
+
+- 官网：https://github.com/backiscute/bot-base#readme
+- 源码仓库：git+https://github.com/backiscute/bot-base.git
+- npm 页面：https://www.npmjs.com/package/@backs/bot-base
+
+## 历史版本号
+
+- 当前版本：6.2.5
+
+- 6.1.4
+- 6.1.5
+- 6.1.6
+- 6.1.7
+- 6.1.8
+- 6.1.9
+- 6.2.0
+- 6.2.1
+- 6.2.2
+- 6.2.3
+- 6.2.4
+- 6.2.5
+- 共 56 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @backs/bot-base`
+- npm registry：https://registry.npmjs.org/@backs/bot-base

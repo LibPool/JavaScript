@@ -1,0 +1,24 @@
+# @drtyhu8npm/placeat-doloremque-dolore
+
+> 标签: $.extend, .env, 0, 6to5, @@toStringTag, Array, Array.prototype.findLast, Array.prototype.flatMap, ArrayBuffer, ArrayBuffer.prototype.slice, AsyncIterator, BigInt64Array, CSSStyleDeclaration, ECMAScript 2016, ECMAScript 2017, ECMAScript 2020, ECMAScript 2022, ECMAScript 6, ECMAScript 7, ES, ES2016, ES2018, ES2020, ES2021, ES2022, ES3, ES5, ES6, ES7, ES8, ESnext, Float32Array, Int32Array, Int8Array, Iterator, JSON, Map, Microsoft, Object.getPrototypeOf, Object.is, Object.values, Observables, RFC-6455, Rx, RxJS, Set, Stream, String.prototype.trim, StyleSheet, Symbol, TypeScript, TypedArray, URL, URLSearchParams, Uint16Array, Uint8ClampedArray, Underscore, WeakMap, WebSocket, WebSockets, accessibility, accessor, airbnb, animation, ansi, apollo, arktype, arraybuffer, arrays, art, ascii, assert, assertion, asserts, ast, async, authentication, autoprefixer, ava, babel-core, banner, bcrypt, bdd, bluebird, bootstrap css, bootstrap less, browserlist, bundling, byte, byteLength, byteOffset, callback, callbind, censor, chai, channel, character, check, chinese, chromium, circular, cjk, class-validator, classes, classname, clone, cmd, code points, coercible, collection.es6, colors, colour, column, command, compile less, compiler, computed-types, concat, concatMap, concurrency, connect, console, contains, core, crypt, crypto, css less, css-in-js, curl, curried, dataView, dataview, date, debug, debugger, deepcopy, default, delete, dependencies, description, descriptors, dir, dom, drag, duplex, editor, efficient, emit, encryption, ender, entries, environment, equality, error, es, es-shims, es2015, es2017, es8, eslint-plugin, eslintconfig, eslintplugin, estree, eventEmitter, events, exe, exec, exit, exit-code, express, expression, extend, fantasy-land, fast, fast-clone, fast-copy, fast-deep-clone, fetch, figlet, file, file system, filter, findLast, findLastIndex, fixed-width, flag, flags, flatMap, folder, form-validation, format, fp, framer, framework, fs, fsevents, full-width, fullwidth, function, functions, generics, gestures, get, getOwnPropertyDescriptor, getPrototypeOf, getintrinsic, getter, gradients css3, handlers, hardlinks, harmony, has, helpers, hookform, hooks, https, i18n, id, idle, ie, immer, immutable, includes, indicator, inspect, install, installer, interrupts, intrinsic, invariant, io-ts, is, iterate, iteration, jasmine, jest, jsonpath, jsonschema, jsx, jwt, key, keys, korean, l10n, last, launch, lazy, less, less compiler, less mixins, lesscss, let, libphonenumber, limit, limited, link, listeners, loading, logger, logging, lru, macos, make, make dir, map, matchAll, merge, middleware, mimetypes, minimal, mixins, mkdir, mkdirp, mkdirs, mobile, mocha, mru, name, native, negative, node, nodejs, nope, npm, obj, offset, once, open, opener, opens, output, package, package.json, parent, parents, parse, parser, patch, path, performant, picomatch, pipe, pnpm9, point-free, polyfill, ponyfill, pose, positive, postcss-plugin, prefix, preprocessor, preserve-symlinks, private data, process, progress, promise, promises, prop, proto, prune, pure, push, qs, query, quote, random, rangeerror, rapid, ratelimit, react, react animation, react pose, read, readablestream, real-time, redact, reduce, reducer, redux-toolkit, regex, regular, regular expression, remove, request, resolve, rgb, rm, rm -rf, robust, runtime, safe, sameValueZero, sanitization, sanitize, search, sequence, serialize, serializer, setImmediate, setPrototypeOf, setter, settings, sham, sharedarraybuffer, shrinkwrap, sigint, signal, slice, slot, some, sorted, spawn, spec, speed, stable, start, starter, streams, streams2, stringify, structuredClone, style, styleguide, styling, superagent, symbol, symlinks, syntax, tap, task, tc39, term, terminal, text, three, time, toSorted, toobject, toolkit, touch, transpile, transpiler, trim, trimEnd, tslib, tty, typanion, type, typeerror, types, typescript, unicode, uninstall, up, url, user-streams, util, util.inspect, utilities, utility, utils, valid, validation, value, values, var, variables in css, wait, walk, warning, watch, watcher, watching, weakset, web, website, wget, which, width, wordbreak, wordwrap, worker, wrap, write, xdg, xdg-open, xterm, yup, zod
+
+## 简介
+
+<a href="https://leobastiani.github.io/@drtyhu8npm/placeat-doloremque-dolore/">   <img src="https://raw.githubusercontent.com/leobastiani/@drtyhu8npm/placeat-doloremque-dolore/main/.github/logo/logo.png" /> </a>
+
+## 官网
+
+- 官网：https://github.com/drtyhu8npm/placeat-doloremque-dolore/#readme
+- 源码仓库：git+https://github.com/drtyhu8npm/placeat-doloremque-dolore.git
+- npm 页面：https://www.npmjs.com/package/@drtyhu8npm/placeat-doloremque-dolore
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @drtyhu8npm/placeat-doloremque-dolore`
+- npm registry：https://registry.npmjs.org/@drtyhu8npm/placeat-doloremque-dolore

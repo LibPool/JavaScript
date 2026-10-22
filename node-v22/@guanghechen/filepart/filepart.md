@@ -1,0 +1,35 @@
+# @guanghechen/filepart
+
+> 标签: file helper, merge streams, split file
+
+## 简介
+
+File helper
+
+## 官网
+
+- 官网：https://github.com/guanghechen/sora/tree/@guanghechen/filepart@2.0.4/packages/filepart#readme
+- 源码仓库：https://github.com/guanghechen/sora/tree/@guanghechen/filepart@2.0.4
+- npm 页面：https://www.npmjs.com/package/@guanghechen/filepart
+
+## 历史版本号
+
+- 当前版本：2.0.4
+
+- 1.0.0-alpha.5
+- 1.0.0-alpha.6
+- 1.0.0-alpha.7
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 2.0.0
+- 2.0.1
+- 2.0.2
+- 2.0.3
+- 2.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @guanghechen/filepart`
+- npm registry：https://registry.npmjs.org/@guanghechen/filepart

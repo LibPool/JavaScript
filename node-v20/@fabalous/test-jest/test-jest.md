@@ -1,0 +1,24 @@
+# @fabalous/test-jest
+
+> 标签: JavaScript
+
+## 简介
+
+Test with Jest
+
+## 官网
+
+- 官网：https://github.com/Faba-network/fabalous-test-jest#readme
+- 源码仓库：git+https://github.com/Faba-network/fabalous-runtime-cordova.git
+- npm 页面：https://www.npmjs.com/package/@fabalous/test-jest
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @fabalous/test-jest`
+- npm registry：https://registry.npmjs.org/@fabalous/test-jest

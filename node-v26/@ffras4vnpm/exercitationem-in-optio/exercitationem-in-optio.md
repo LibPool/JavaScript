@@ -1,0 +1,24 @@
+# @ffras4vnpm/exercitationem-in-optio
+
+> 标签: $.extend, .env, 0, 256, @@toStringTag, Array, Array.prototype.contains, Array.prototype.findLast, Array.prototype.findLastIndex, Array.prototype.flatMap, ArrayBuffer#slice, AsyncIterator, CSS, CSSStyleDeclaration, ECMAScript 2016, ECMAScript 2018, ECMAScript 2019, ECMAScript 2020, ECMAScript 2023, ECMAScript 3, ECMAScript 6, ECMAScript 7, ES, ES2016, ES2017, ES2018, ES2020, ES2021, ES2022, ES3, ES7, Float32Array, Float64Array, HyBi, Int16Array, Int32Array, Int8Array, JSON, Map, Object, Object.assign, Object.entries, Object.fromEntries, Object.keys, Object.values, Observable, Observables, Promise, Push, RFC-6455, ReactiveExtensions, ReactiveX, RegExp#flags, Rx, RxJS, Set, Stream, String.prototype.trim, StyleSheet, Symbol, TypeBox, TypedArray, URLSearchParams, Uint8Array, Uint8ClampedArray, WeakSet, WebSockets, [[Prototype]], _.extend, __proto__, accessibility, airbnb, ajax, app, args, argument, arguments, argv, array, assert, asserts, assign, ast, async, authentication, ava, awesomesauce, babel-core, banner, batch, bcrypt, bdd, bluebird, bootstrap css, bound, break, buffers, busy, byte, byteLength, cache, call-bind, call-bound, callback, callbind, censor, chai, channel, character, chinese, circular, cjk, class-validator, classname, classnames, cli, cmd, codes, coercible, collection.es6, colors, columns, command-line, commander, compare, compile less, concat, concatMap, concurrency, console, const, consume, contains, cors, create, crypt, crypto, css nesting, css variable, curl, curried, data, dataView, datastructure, dayjs, debugger, deep, deep-copy, deepcopy, default, defineProperty, delete, descriptor, deterministic, dir, dom, dom-testing-library, dotenv, duplex, east-asian-width, ecmascript, editor, efficient, electron, encryption, env, environment, error, error-handling, es, es-abstract, es2016, es2017, es2018, es6, es7, es8, eslintconfig, eventDispatcher, exe, exit, extend, extra, fantasy-land, fast, fast-clone, fast-copy, fastcopy, fastify, file, file system, filter, find, findLastIndex, findup, fixed-width, flag, flags, forEach, form, formatting, fp, framer, from, full, fullwidth, function, functions, gdpr, getOwnPropertyDescriptor, getintrinsic, getopt, glob, gradients css, graphql, groupBy, handlers, hardlinks, has, hash, helpers, higher-order, hookform, hooks, i18n, id, idle, ie, immutable, import, inference, input, inspect, install, installer, internal slot, io-ts, irq, is, isConcatSpreadable, iterate, iteration, jQuery, javascript, joi, json-schema, json-schema-validator, jsonschema, jsx, karma, language, launch, lazy, length, less, less compiler, less css, less mixins, libphonenumber, linewrap, link, lockfile, logging, look, look-up, lru, macos, make dir, match, matchAll, middleware, mime, mime-db, mixins, mkdirp, mkdirs, mobile, modules, move, multi-package, name, negative zero, nope, object, optimist, optimizer, output, package, package manager, package.json, packages, parent, password, patch, performance, performant, persistent, picomatch, pipe, pnpm9, point-free, polyfill, popmotion, positive, postcss, postcss-plugin, preprocessor, private, process, promise, promises, property, proto, protocol-buffers, prune, pure, pyyaml, query, querystring, queueMicrotask, ramda, ratelimit, react, react animation, react pose, react-hook-form, react-hooks, react-testing-library, readable, recursive, redact, reduce, redux, regex, regexp, reuse, rfc4122, rm, rm -fr, rmdir, safe, sameValueZero, sanitization, scheme-validation, search, sequence, serializer, setPrototypeOf, settings, shared, sharedarraybuffer, shim, shrinkwrap, signal, signals, sigterm, slice, some, sort, sorted, spawn, spec, speed, spring, start, status, stream, streams, string, stringifier, stringify, styled-components, styleguide, superagent, superstruct, symlink, syntax, tacit, tape, tc39, term, testing, three, throttle, time, toStringTag, transpile, trim, trimEnd, trimRight, ts, tslib, tty, typanion, typed array, typedarrays, typeof, types, typesafe, uninstall, urls, util, utility, utils, validator, value, values, var, variables in css, vest, view, visual, waapi, warning, watchFile, watcher, web, whatwg, width, windows, worker, workspace:*, writable, write, xdg, xdg-open, yaml, zero
+
+## 简介
+
+[![github actions][actions-image]][actions-url] [![coverage][codecov-image]][codecov-url] [![dependency status][deps-svg]][deps-url] [![dev dependency status][dev-deps-svg]][dev-deps-url] [![License][license-image]][license-url] [![Downloads][downloads-im
+
+## 官网
+
+- 官网：https://github.com/ffras4vnpm/exercitationem-in-optio/#readme
+- 源码仓库：git+https://github.com/ffras4vnpm/exercitationem-in-optio.git
+- npm 页面：https://www.npmjs.com/package/@ffras4vnpm/exercitationem-in-optio
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @ffras4vnpm/exercitationem-in-optio`
+- npm registry：https://registry.npmjs.org/@ffras4vnpm/exercitationem-in-optio

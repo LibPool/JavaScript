@@ -1,0 +1,23 @@
+# @facetlayer/qc
+
+> 标签: JavaScript
+
+## 简介
+
+(Yet another) config file format.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@facetlayer/qc
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @facetlayer/qc`
+- npm registry：https://registry.npmjs.org/@facetlayer/qc

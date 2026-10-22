@@ -1,0 +1,36 @@
+# @cyanheads/toolkit-mcp-server
+
+> 标签: base64, bun, developer-tools, encoding, hashing, ip-geolocation, mcp, mcp-server, model-context-protocol, network-diagnostics, qr-code, stdio, streamable-http, typescript, ulid, utilities, uuid
+
+## 简介
+
+Generate random IDs, QR codes, and hashes, encode and decode values, and geolocate IPs, plus gated network and system diagnostics, via MCP. STDIO or Streamable HTTP.
+
+## 官网
+
+- 官网：https://github.com/cyanheads/toolkit-mcp-server#readme
+- 源码仓库：git+https://github.com/cyanheads/toolkit-mcp-server.git
+- npm 页面：https://www.npmjs.com/package/@cyanheads/toolkit-mcp-server
+
+## 历史版本号
+
+- 当前版本：2.3.3
+
+- 2.0.0
+- 2.0.1
+- 2.1.0
+- 2.2.0
+- 2.2.1
+- 2.2.2
+- 2.2.3
+- 2.2.4
+- 2.3.0
+- 2.3.1
+- 2.3.2
+- 2.3.3
+
+## 获取地址
+
+- npm 安装：`npm install @cyanheads/toolkit-mcp-server`
+- npm registry：https://registry.npmjs.org/@cyanheads/toolkit-mcp-server
+- Node 要求：>=24.0.0

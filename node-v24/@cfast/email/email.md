@@ -1,0 +1,28 @@
+# @cfast/email
+
+> 标签: cfast, cloudflare-workers, email, mailgun, react-email
+
+## 简介
+
+Plugin-based email for Cloudflare Workers with react-email rendering
+
+## 官网
+
+- 官网：https://github.com/DanielMSchmidt/cfast#readme
+- 源码仓库：git+https://github.com/DanielMSchmidt/cfast.git
+- npm 页面：https://www.npmjs.com/package/@cfast/email
+
+## 历史版本号
+
+- 当前版本：0.1.3
+
+- 0.0.1
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+
+## 获取地址
+
+- npm 安装：`npm install @cfast/email`
+- npm registry：https://registry.npmjs.org/@cfast/email

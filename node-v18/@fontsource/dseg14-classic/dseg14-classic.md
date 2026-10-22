@@ -1,0 +1,35 @@
+# @fontsource/dseg14-classic
+
+> 标签: DSEG14 Classic, css, dseg14-classic, font, font family, fontsource, front-end, google fonts, sass, typeface, variable, web
+
+## 简介
+
+Self-host the DSEG14 Classic font in a neatly bundled NPM package.
+
+## 官网
+
+- 官网：https://fontsource.org/fonts/dseg14-classic
+- 源码仓库：git+https://github.com/fontsource/font-files.git
+- npm 页面：https://www.npmjs.com/package/@fontsource/dseg14-classic
+
+## 历史版本号
+
+- 当前版本：5.3.0
+
+- 5.0.11
+- 5.0.2
+- 5.0.3
+- 5.0.4
+- 5.0.5
+- 5.0.6
+- 5.0.7
+- 5.1.0
+- 5.2.0
+- 5.2.4
+- 5.2.5
+- 5.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @fontsource/dseg14-classic`
+- npm registry：https://registry.npmjs.org/@fontsource/dseg14-classic

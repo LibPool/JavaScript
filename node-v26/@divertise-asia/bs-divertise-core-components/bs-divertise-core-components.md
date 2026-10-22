@@ -1,0 +1,24 @@
+# @divertise-asia/bs-divertise-core-components
+
+> 标签: BuckleScript, Components, Reason
+
+## 简介
+
+@divertise-asia/bs-divertise-core-components - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/DivertiseAsia/bs-divertise-core-components
+- 源码仓库：git+https://github.com/DivertiseAsia/bs-divertise-core-components.git
+- npm 页面：https://www.npmjs.com/package/@divertise-asia/bs-divertise-core-components
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @divertise-asia/bs-divertise-core-components`
+- npm registry：https://registry.npmjs.org/@divertise-asia/bs-divertise-core-components

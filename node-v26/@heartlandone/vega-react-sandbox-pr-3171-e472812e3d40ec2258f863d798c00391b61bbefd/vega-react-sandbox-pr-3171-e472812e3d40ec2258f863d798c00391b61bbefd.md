@@ -1,0 +1,22 @@
+# @heartlandone/vega-react-sandbox-pr-3171-e472812e3d40ec2258f863d798c00391b61bbefd
+
+> 标签: JavaScript
+
+## 简介
+
+React specific wrapper for @globalpayments/vega
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@heartlandone/vega-react-sandbox-pr-3171-e472812e3d40ec2258f863d798c00391b61bbefd
+
+## 历史版本号
+
+- 当前版本：2.95.0
+
+- 2.95.0
+
+## 获取地址
+
+- npm 安装：`npm install @heartlandone/vega-react-sandbox-pr-3171-e472812e3d40ec2258f863d798c00391b61bbefd`
+- npm registry：https://registry.npmjs.org/@heartlandone/vega-react-sandbox-pr-3171-e472812e3d40ec2258f863d798c00391b61bbefd

@@ -1,0 +1,24 @@
+# @develar/babel-plugin-transform-inline-imports-commonjs
+
+> 标签: babel-plugin, commonjs
+
+## 简介
+
+A Babel transform that turns imports into lazily loaded commonjs requires
+
+## 官网
+
+- 官网：https://github.com/zertosh/babel-plugin-transform-inline-imports-commonjs#readme
+- 源码仓库：git+https://github.com/zertosh/babel-plugin-transform-inline-imports-commonjs.git
+- npm 页面：https://www.npmjs.com/package/@develar/babel-plugin-transform-inline-imports-commonjs
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @develar/babel-plugin-transform-inline-imports-commonjs`
+- npm registry：https://registry.npmjs.org/@develar/babel-plugin-transform-inline-imports-commonjs

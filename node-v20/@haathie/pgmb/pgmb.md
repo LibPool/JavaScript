@@ -1,0 +1,35 @@
+# @haathie/pgmb
+
+> 标签: message-broker, pg-mb, pgmb, postgres, postgres-message-broker
+
+## 简介
+
+PG message broker, with a type-safe typescript client with built-in webhook & SSE support.
+
+## 官网
+
+- 官网：https://github.com/haathie/pgmb#readme
+- 源码仓库：git+https://github.com/haathie/pgmb.git
+- npm 页面：https://www.npmjs.com/package/@haathie/pgmb
+
+## 历史版本号
+
+- 当前版本：0.2.26
+
+- 0.2.22
+- 0.2.23
+- 0.2.24
+- 0.2.25
+- 0.2.26
+- 0.2.3
+- 0.2.4
+- 0.2.5
+- 0.2.6
+- 0.2.7
+- 0.2.8
+- 0.2.9
+
+## 获取地址
+
+- npm 安装：`npm install @haathie/pgmb`
+- npm registry：https://registry.npmjs.org/@haathie/pgmb

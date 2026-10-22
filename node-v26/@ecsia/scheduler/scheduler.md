@@ -1,0 +1,36 @@
+# @ecsia/scheduler
+
+> 标签: atomics, data-oriented, ecs, ecsia, entity-component-system, parallel, scheduler, typescript, worker-threads
+
+## 简介
+
+System scheduler for ecsia: declare what each system reads and writes, and non-conflicting systems run in parallel across worker threads.
+
+## 官网
+
+- 官网：https://github.com/andymai/ecsia
+- 源码仓库：git+https://github.com/andymai/ecsia.git
+- npm 页面：https://www.npmjs.com/package/@ecsia/scheduler
+
+## 历史版本号
+
+- 当前版本：0.30.2
+
+- 0.21.2
+- 0.22.0
+- 0.23.0
+- 0.24.0
+- 0.25.0
+- 0.26.0
+- 0.27.0
+- 0.28.0
+- 0.29.0
+- 0.30.0
+- 0.30.1
+- 0.30.2
+
+## 获取地址
+
+- npm 安装：`npm install @ecsia/scheduler`
+- npm registry：https://registry.npmjs.org/@ecsia/scheduler
+- Node 要求：>=22.13

@@ -1,0 +1,32 @@
+# @ammolite/next
+
+> 标签: ammolite, css, css-in-js, javascript, js, next, next.js, plugin, ts, typescript
+
+## 简介
+
+A Next.js plugin for Ammolite
+
+## 官网
+
+- 官网：https://gemvale.github.io
+- 源码仓库：https://github.com/gemvale/ammolite.git
+- npm 页面：https://www.npmjs.com/package/@ammolite/next
+
+## 历史版本号
+
+- 当前版本：0.1.5
+
+- 0.0.0-dev.20260328.14d4b896
+- 0.0.0-dev.20260329.108ba60e
+- 0.0.0-dev.20260329.7bfb431a
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+
+## 获取地址
+
+- npm 安装：`npm install @ammolite/next`
+- npm registry：https://registry.npmjs.org/@ammolite/next

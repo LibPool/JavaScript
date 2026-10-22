@@ -1,0 +1,26 @@
+# @devsomersets/react-native-svga-player
+
+> 标签: react-native
+
+## 简介
+
+svga player for react native
+
+## 官网
+
+- 官网：https://github.com/bang88/react-native-svga-player#readme
+- 源码仓库：git+https://github.com/bang88/react-native-svga-player.git
+- npm 页面：https://www.npmjs.com/package/@devsomersets/react-native-svga-player
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 1.1.0
+- 1.1.1
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @devsomersets/react-native-svga-player`
+- npm registry：https://registry.npmjs.org/@devsomersets/react-native-svga-player

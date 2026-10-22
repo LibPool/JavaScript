@@ -1,0 +1,25 @@
+# @cypress/listr-verbose-renderer
+
+> 标签: custom, format, listr, renderer, rendering, verbose
+
+## 简介
+
+Listr verbose renderer
+
+## 官网
+
+- 官网：https://github.com/samverschueren/listr-verbose-renderer#readme
+- 源码仓库：git+https://github.com/samverschueren/listr-verbose-renderer.git
+- npm 页面：https://www.npmjs.com/package/@cypress/listr-verbose-renderer
+
+## 历史版本号
+
+- 当前版本：0.4.1
+
+- 0.4.1
+
+## 获取地址
+
+- npm 安装：`npm install @cypress/listr-verbose-renderer`
+- npm registry：https://registry.npmjs.org/@cypress/listr-verbose-renderer
+- Node 要求：>=4

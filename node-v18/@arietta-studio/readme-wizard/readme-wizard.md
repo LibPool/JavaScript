@@ -1,0 +1,26 @@
+# @arietta-studio/readme-wizard
+
+> 标签: JavaScript
+
+## 简介
+
+Generate Arietta style product README
+
+## 官网
+
+- 官网：https://github.com/arietta-studio/arietta-readme-generator
+- 源码仓库：git+https://github.com/arietta-studio/arietta-readme-wizard.git
+- npm 页面：https://www.npmjs.com/package/@arietta-studio/readme-wizard
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @arietta-studio/readme-wizard`
+- npm registry：https://registry.npmjs.org/@arietta-studio/readme-wizard

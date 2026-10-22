@@ -1,0 +1,27 @@
+# @chimpbase/webhooks
+
+> 标签: chimpbase, events, hmac, typescript, webhooks
+
+## 简介
+
+Webhook delivery with HMAC-SHA256 validation plugin for Chimpbase.
+
+## 官网
+
+- 官网：https://github.com/chimpbase/chimpbase#readme
+- 源码仓库：git+https://github.com/chimpbase/chimpbase.git
+- npm 页面：https://www.npmjs.com/package/@chimpbase/webhooks
+
+## 历史版本号
+
+- 当前版本：0.7.0
+
+- 0.4.1
+- 0.5.0
+- 0.6.0
+- 0.7.0
+
+## 获取地址
+
+- npm 安装：`npm install @chimpbase/webhooks`
+- npm registry：https://registry.npmjs.org/@chimpbase/webhooks

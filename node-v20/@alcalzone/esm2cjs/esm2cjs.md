@@ -1,0 +1,32 @@
+# @alcalzone/esm2cjs
+
+> 标签: JavaScript
+
+## 简介
+
+Command line utility to compile a JS project from ES modules to CommonJS
+
+## 官网
+
+- 官网：https://github.com/AlCalzone/esm2cjs#readme
+- 源码仓库：git+https://github.com/AlCalzone/esm2cjs.git
+- npm 页面：https://www.npmjs.com/package/@alcalzone/esm2cjs
+
+## 历史版本号
+
+- 当前版本：1.4.2
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.2.3
+- 1.3.0
+- 1.4.0
+- 1.4.1
+- 1.4.2
+
+## 获取地址
+
+- npm 安装：`npm install @alcalzone/esm2cjs`
+- npm registry：https://registry.npmjs.org/@alcalzone/esm2cjs

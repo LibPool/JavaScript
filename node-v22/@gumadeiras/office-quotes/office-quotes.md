@@ -1,0 +1,24 @@
+# @gumadeiras/office-quotes
+
+> 标签: api, cli, playwright, quotes, the-office
+
+## 简介
+
+> The Office quotes CLI — offline mode (326 quotes) or online mode with SVG cards, character avatars & episode data. Node.js version supports PNG/JPG/WebP conversion.
+
+## 官网
+
+- 官网：https://github.com/gumadeiras/office-quotes-cli#readme
+- 源码仓库：git+https://github.com/gumadeiras/office-quotes-cli.git
+- npm 页面：https://www.npmjs.com/package/@gumadeiras/office-quotes
+
+## 历史版本号
+
+- 当前版本：1.1.5
+
+- 1.1.5
+
+## 获取地址
+
+- npm 安装：`npm install @gumadeiras/office-quotes`
+- npm registry：https://registry.npmjs.org/@gumadeiras/office-quotes

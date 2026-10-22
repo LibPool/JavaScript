@@ -1,0 +1,25 @@
+# @gainsnetwork/web3-providers-ws
+
+> 标签: JavaScript
+
+## 简介
+
+Module to handle web3 RPC connections over WebSockets.
+
+## 官网
+
+- 官网：https://github.com/GainsNetwork-org/web3.js/tree/1.x#readme
+- 源码仓库：git+https://github.com/GainsNetwork-org/web3.js.git#1.x
+- npm 页面：https://www.npmjs.com/package/@gainsnetwork/web3-providers-ws
+
+## 历史版本号
+
+- 当前版本：1.10.4
+
+- 1.10.4
+
+## 获取地址
+
+- npm 安装：`npm install @gainsnetwork/web3-providers-ws`
+- npm registry：https://registry.npmjs.org/@gainsnetwork/web3-providers-ws
+- Node 要求：>=8.0.0

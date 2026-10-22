@@ -1,0 +1,30 @@
+# @bobe-js/editor
+
+> 标签: JavaScript
+
+## 简介
+
+Online Bobe editor with virtual files, diagnostics and sandbox preview.
+
+## 官网
+
+- 官网：https://github.com/bobe-js/bobe-tools#readme
+- 源码仓库：git+https://github.com/bobe-js/bobe-tools.git
+- npm 页面：https://www.npmjs.com/package/@bobe-js/editor
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @bobe-js/editor`
+- npm registry：https://registry.npmjs.org/@bobe-js/editor

@@ -1,0 +1,27 @@
+# @akbaraditamasp/lead-server
+
+> 标签: JavaScript
+
+## 简介
+
+Server for running lead project
+
+## 官网
+
+- 官网：https://github.com/akbaraditamasp/lead-server
+- 源码仓库：git+https://github.com/akbaraditamasp/lead-server.git
+- npm 页面：https://www.npmjs.com/package/@akbaraditamasp/lead-server
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @akbaraditamasp/lead-server`
+- npm registry：https://registry.npmjs.org/@akbaraditamasp/lead-server

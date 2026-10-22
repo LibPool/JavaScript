@@ -1,0 +1,34 @@
+# @factor/lint
+
+> 标签: JavaScript
+
+## 简介
+
+@factor/lint - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@factor/lint
+
+## 历史版本号
+
+- 当前版本：6.0.1
+
+- 5.5.89
+- 5.5.90
+- 5.5.91
+- 5.5.92
+- 5.5.93
+- 5.5.94
+- 5.5.95
+- 5.5.96
+- 5.5.97
+- 5.5.98
+- 5.5.99
+- 6.0.1
+- 共 396 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @factor/lint`
+- npm registry：https://registry.npmjs.org/@factor/lint

@@ -1,0 +1,29 @@
+# @daitanjs/speech
+
+> 标签: Google Cloud, OpenAI Whisper, STT, TTS, audio synthesis, speech, speech-to-text, text-to-speech, transcription
+
+## 简介
+
+A library for text-to-speech (TTS) and speech-to-text (STT) operations using Google Cloud and OpenAI.
+
+## 官网
+
+- 官网：https://github.com/daitandojo/@daitanjs/tree/main/packages/speech#readme
+- 源码仓库：git+https://github.com/daitandojo/@daitanjs.git
+- npm 页面：https://www.npmjs.com/package/@daitanjs/speech
+
+## 历史版本号
+
+- 当前版本：1.0.6
+
+- 1.0.0
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+
+## 获取地址
+
+- npm 安装：`npm install @daitanjs/speech`
+- npm registry：https://registry.npmjs.org/@daitanjs/speech

@@ -1,0 +1,24 @@
+# @fontpkg/honor-sans-cn
+
+> 标签: HONOR Sans CN, font, fonts, honor-sans-cn
+
+## 简介
+
+Font package for HONOR Sans CN
+
+## 官网
+
+- 官网：https://github.com/user/fontpkg#readme
+- 源码仓库：git+https://github.com/user/fontpkg.git
+- npm 页面：https://www.npmjs.com/package/@fontpkg/honor-sans-cn
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @fontpkg/honor-sans-cn`
+- npm registry：https://registry.npmjs.org/@fontpkg/honor-sans-cn

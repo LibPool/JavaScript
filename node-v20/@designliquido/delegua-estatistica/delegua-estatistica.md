@@ -1,0 +1,30 @@
+# @designliquido/delegua-estatistica
+
+> 标签: delegua, estatística
+
+## 简介
+
+Biblioteca de manejo de operações de estatística em português, para JavaScript e Delégua
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@designliquido/delegua-estatistica
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @designliquido/delegua-estatistica`
+- npm registry：https://registry.npmjs.org/@designliquido/delegua-estatistica

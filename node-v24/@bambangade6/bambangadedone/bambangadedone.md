@@ -1,0 +1,25 @@
+# @bambangade6/bambangadedone
+
+> 标签: JavaScript
+
+## 简介
+
+@bambangade6/bambangadedone - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/bambangade6/bambangadedone#readme
+- 源码仓库：git+https://github.com/bambangade6/bambangadedone.git
+- npm 页面：https://www.npmjs.com/package/@bambangade6/bambangadedone
+
+## 历史版本号
+
+- 当前版本：1.1.6
+
+- 1.1.4
+- 1.1.6
+
+## 获取地址
+
+- npm 安装：`npm install @bambangade6/bambangadedone`
+- npm registry：https://registry.npmjs.org/@bambangade6/bambangadedone

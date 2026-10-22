@@ -1,0 +1,37 @@
+# @ckeditor/ckeditor5-dev-release-tools
+
+> 标签: JavaScript
+
+## 简介
+
+Tools used for releasing CKEditor 5 and related packages.
+
+## 官网
+
+- 官网：https://github.com/ckeditor/ckeditor5-dev/tree/master/packages/ckeditor5-dev-release-tools
+- 源码仓库：git+https://github.com/ckeditor/ckeditor5-dev.git
+- npm 页面：https://www.npmjs.com/package/@ckeditor/ckeditor5-dev-release-tools
+
+## 历史版本号
+
+- 当前版本：62.5.0
+
+- 60.0.0
+- 61.0.0
+- 61.1.0
+- 61.2.0
+- 61.3.0
+- 62.0.0
+- 62.1.0
+- 62.2.0
+- 62.2.1
+- 62.3.0
+- 62.4.0
+- 62.5.0
+- 共 214 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @ckeditor/ckeditor5-dev-release-tools`
+- npm registry：https://registry.npmjs.org/@ckeditor/ckeditor5-dev-release-tools
+- Node 要求：>=24.11.0

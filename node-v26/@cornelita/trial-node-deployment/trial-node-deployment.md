@@ -1,0 +1,33 @@
+# @cornelita/trial-node-deployment
+
+> 标签: JavaScript
+
+## 简介
+
+Trial Node Deployment
+
+## 官网
+
+- 官网：https://github.com/cornelita/trial-node-deployment#readme
+- 源码仓库：git+ssh://git@github.com/cornelita/trial-node-deployment.git
+- npm 页面：https://www.npmjs.com/package/@cornelita/trial-node-deployment
+
+## 历史版本号
+
+- 当前版本：4.0.0
+
+- 1.0.1
+- 1.1.0
+- 1.2.0
+- 2.0.0
+- 2.1.0
+- 2.1.1
+- 2.1.2
+- 3.0.0
+- 4.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @cornelita/trial-node-deployment`
+- npm registry：https://registry.npmjs.org/@cornelita/trial-node-deployment
+- Node 要求：^18.17.1

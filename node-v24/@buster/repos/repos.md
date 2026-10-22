@@ -1,0 +1,26 @@
+# @buster/repos
+
+> 标签: all, allpublic, api, commits, create, del, delete, destroy, download, edit, fork, forks, get, github, isstarred, list, paginate, paginated, patch, post, put, repos, repositories, repository, request, revision, star, starred, unstar
+
+## 简介
+
+Tiny wrapper around github-base for getting publicly available information for a repository, or all of the repositories for one or more users or orgs, from the GitHub API.
+
+## 官网
+
+- 官网：https://github.com/busterc/repos
+- 源码仓库：git+https://github.com/busterc/repos.git
+- npm 页面：https://www.npmjs.com/package/@buster/repos
+
+## 历史版本号
+
+- 当前版本：4.0.0
+
+- 1.0.0
+- 4.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @buster/repos`
+- npm registry：https://registry.npmjs.org/@buster/repos
+- Node 要求：>=4

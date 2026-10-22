@@ -1,0 +1,24 @@
+# @axon-protocol/password-manager-server
+
+> 标签: ai-agent, automation, axon, browser, chrome, mcp, password-manager, puppeteer, shadow-dom, tools
+
+## 简介
+
+AXON Password Manager Server — Automate Chrome's built-in password manager via Puppeteer with Shadow DOM piercing and OCRS integration
+
+## 官网
+
+- 官网：https://github.com/hchihoub/axon-protocol#readme
+- 源码仓库：git+https://github.com/hchihoub/axon-protocol.git
+- npm 页面：https://www.npmjs.com/package/@axon-protocol/password-manager-server
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @axon-protocol/password-manager-server`
+- npm registry：https://registry.npmjs.org/@axon-protocol/password-manager-server

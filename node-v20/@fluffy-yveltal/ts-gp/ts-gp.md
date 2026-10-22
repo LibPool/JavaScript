@@ -1,0 +1,25 @@
+# @fluffy-yveltal/ts-gp
+
+> 标签: cli, tasks, todo, typescript
+
+## 简介
+
+CLI de gestion de tâches en TypeScript avec validation, décorateurs et tests.
+
+## 官网
+
+- 官网：https://github.com/IFOZVORTEX/TS-GP#readme
+- 源码仓库：git+https://github.com/IFOZVORTEX/TS-GP.git
+- npm 页面：https://www.npmjs.com/package/@fluffy-yveltal/ts-gp
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @fluffy-yveltal/ts-gp`
+- npm registry：https://registry.npmjs.org/@fluffy-yveltal/ts-gp
+- Node 要求：>=18

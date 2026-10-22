@@ -1,0 +1,36 @@
+# @developers-homelab/runestone-cli
+
+> 标签: cli, docker, mailpit, mkcert, runestone, traefik
+
+## 简介
+
+Cross-platform CLI tool for the runestone Docker development environment
+
+## 官网
+
+- 官网：https://github.com/cymondez/runestone#readme
+- 源码仓库：git+https://github.com/cymondez/runestone.git
+- npm 页面：https://www.npmjs.com/package/@developers-homelab/runestone-cli
+
+## 历史版本号
+
+- 当前版本：2.1.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.1-beta.0
+- 1.0.1-beta.1
+- 1.0.1-beta.2
+- 1.0.1-beta.3
+- 1.0.1-beta.4
+- 1.1.0
+- 1.1.1
+- 1.2.0
+- 2.0.0
+- 2.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @developers-homelab/runestone-cli`
+- npm registry：https://registry.npmjs.org/@developers-homelab/runestone-cli
+- Node 要求：>=18.0.0

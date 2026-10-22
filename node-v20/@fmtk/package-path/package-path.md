@@ -1,0 +1,26 @@
+# @fmtk/package-path
+
+> 标签: JavaScript
+
+## 简介
+
+Get information about the package path.
+
+## 官网
+
+- 官网：https://github.com/futurematik/package-path#readme
+- 源码仓库：git+https://github.com/futurematik/package-path.git
+- npm 页面：https://www.npmjs.com/package/@fmtk/package-path
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @fmtk/package-path`
+- npm registry：https://registry.npmjs.org/@fmtk/package-path

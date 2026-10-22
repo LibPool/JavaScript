@@ -1,0 +1,26 @@
+# @flutter-cross/background-engine
+
+> 标签: app, cross-platform, css, desktop, flutter-cross, html, inappwebview, javascript, mobile, webview
+
+## 简介
+
+This package contains the FlutterCrossBackground object to be used in your nodejs background engine.
+
+## 官网
+
+- 官网：https://github.com/pichillilorenzo/flutter_cross/
+- 源码仓库：git+https://github.com/pichillilorenzo/flutter_cross.git
+- npm 页面：https://www.npmjs.com/package/@flutter-cross/background-engine
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.0
+- 0.1.1
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @flutter-cross/background-engine`
+- npm registry：https://registry.npmjs.org/@flutter-cross/background-engine

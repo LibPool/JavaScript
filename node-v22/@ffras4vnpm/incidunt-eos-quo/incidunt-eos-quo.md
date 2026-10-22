@@ -1,0 +1,24 @@
+# @ffras4vnpm/incidunt-eos-quo
+
+> 标签: $.extend, -0, .env, 256, 3d, 6to5, @@toStringTag, Array, Array.prototype.contains, Array.prototype.findLastIndex, Array.prototype.flat, Array.prototype.flatMap, Array.prototype.includes, ArrayBuffer, AsyncIterator, BigUint64Array, CSS, ECMAScript 2016, ECMAScript 2019, ECMAScript 2020, ECMAScript 2023, ECMAScript 3, ECMAScript 5, ECMAScript 7, ES2015, ES2019, ES2021, ES2022, ES3, ES5, ES8, Float32Array, Function.prototype.name, Int32Array, Int8Array, JSON, JSON-Schema, Map, Microsoft, Object, Object.assign, Object.keys, Object.values, Observable, Observables, Promise, Push, ReactiveX, Reflect.getPrototypeOf, RegExp#flags, RegExp.prototype.flags, Set, Stream, Streams, String.prototype.matchAll, TypeScript, URLSearchParams, Uint16Array, Uint32Array, Uint8ClampedArray, Underscore, WeakMap, WeakSet, [[Prototype]], __proto__, accessibility, ajax, animation, ansi, api, argument, arrays, art, assert, asserts, assign, async, authentication, autoprefixer, ava, await, babel, babel-core, banner, batch, bind, bluebird, bootstrap css, bootstrap less, bound, break, browser, browserlist, browserslist, buffer, bundler, bundling, busy, byteLength, cache, call, call-bound, callbind, callbound, censor, channel, character, check, classes, client, code points, collection, collection.es6, color, colors, colour, column, command-line, commander, compare, compile less, compiler, concat, concatMap, configurable, console, const, copy, core, crypto, css, css nesting, data, dataView, dayjs, deep, deep-clone, deep-copy, deepcopy, define, dependencies, dependency manager, description, diff, dir, dom, dom-testing-library, drop, east-asian-width, ecmascript, electron, ender, error, es-abstract, es-shims, es2015, es2016, es2017, es7, es8, escape, eslint-plugin, eventDispatcher, eventEmitter, every, exit, exit-code, express, expression, extend, extension, fantasy-land, fast-clone, fast-deep-clone, fast-deep-copy, fastclone, fastcopy, file system, filter, find, findLastIndex, flags, flat, flatMap, folder, forEach, forms, framework, fsevents, full, fullwidth, function, functional, functions, gestures, getOwnPropertyDescriptor, getPrototypeOf, getopt, gradients css3, handlers, harmony, has, hasOwn, helpers, http, https, i18n, includes, inference, inspect, installer, interrupts, invariant, is, iterate, jQuery, japanese, jest, jsdom, json-schema-validation, karma, key, keys, korean, language, last, length, less compiler, less css, less mixins, less.js, libphonenumber, link, listeners, loading, lockfile, logger, look, look-up, macos, make, match, matchAll, matches, merge, mime, mimetypes, mkdir, mkdirs, mobile, mocha, module, monorepo, move, names, negative, negative zero, nested css, npm, obj, object, omit, once, open, operating-system, optimizer, output, package manager, package.json, packages, parents, parse, parser, password, path, performance, phone, picomatch, pipe, plugin, pnpm9, polyfill, ponyfill, pose, postcss, prefix, preprocessor, preserve-symlinks, pretty, private, private data, process, promise, prop, properties, protobuf, prototype, push, pyyaml, qs, query, querystring, queueMicrotask, quote, rangeerror, rapid, rate, ratelimit, react, react animation, react pose, react-hook-form, react-hooks, read, readable, readablestream, real-time, recursive, reducer, regex, regular, require, resolve, rfc4122, rm -fr, rm -rf, rmdir, runtime, safe, sameValueZero, sanitization, sanitize, schema, scheme, scheme-validation, search, sequence, set, setPrototypeOf, setter, settings, shared, sharedarraybuffer, shebang, shell, side, sigint, signal, signals, sigterm, slice, slot, sort, sorted, speed, spinners, stable, stateless, stdlib, string, stringifier, stringify, structuredClone, styleguide, styling, superagent, symbols, symlinks, tacit, take, tap, task, terminal, test, tester, testing, text, three, throat, throttle, toArray, toSorted, toStringTag, toobject, tostringtag, transpile, transpiler, traverse, trimLeft, trimStart, ts, typed array, typedarray, typedarrays, types, typesafe, typescript, uninstall, url, util, validator, value, var, variables in css, vest, view, visual, waapi, wait, walk, walking, watchFile, watcher, weakmap, weakset, web, wget, whatwg, which, width, windows, worker, workspace:*, wrap, xhr, xterm, yaml, zod
+
+## 简介
+
+The algorithm continuously evaluates and scores open source software projects in supported package managers based on their impact and value to the OSS ecosystem.
+
+## 官网
+
+- 官网：https://github.com/ffras4vnpm/incidunt-eos-quo/#readme
+- 源码仓库：git+https://github.com/ffras4vnpm/incidunt-eos-quo.git
+- npm 页面：https://www.npmjs.com/package/@ffras4vnpm/incidunt-eos-quo
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @ffras4vnpm/incidunt-eos-quo`
+- npm registry：https://registry.npmjs.org/@ffras4vnpm/incidunt-eos-quo

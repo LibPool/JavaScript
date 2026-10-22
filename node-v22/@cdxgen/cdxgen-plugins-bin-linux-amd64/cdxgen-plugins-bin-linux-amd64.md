@@ -1,0 +1,35 @@
+# @cdxgen/cdxgen-plugins-bin-linux-amd64
+
+> 标签: appsec, bom, cdxgen, dependency, plugins, sbom
+
+## 简介
+
+linux amd64 binary plugins to supercharge @cdxgen/cdxgen npm package
+
+## 官网
+
+- 官网：https://github.com/cdxgen/cdxgen-plugins-bin#readme
+- 源码仓库：git+https://github.com/cdxgen/cdxgen-plugins-bin.git
+- npm 页面：https://www.npmjs.com/package/@cdxgen/cdxgen-plugins-bin-linux-amd64
+
+## 历史版本号
+
+- 当前版本：4.1.1
+
+- 3.0.2
+- 3.0.3
+- 3.0.4
+- 3.0.5
+- 3.1.0
+- 4.0.0
+- 4.0.1
+- 4.0.2
+- 4.0.3
+- 4.0.4
+- 4.1.0
+- 4.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @cdxgen/cdxgen-plugins-bin-linux-amd64`
+- npm registry：https://registry.npmjs.org/@cdxgen/cdxgen-plugins-bin-linux-amd64

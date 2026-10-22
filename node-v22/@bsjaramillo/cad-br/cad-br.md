@@ -1,0 +1,26 @@
+# @bsjaramillo/cad-br
+
+> 标签: atomic-design, cli
+
+## 简介
+
+A CLI for create boilerplate atomic design in React JS
+
+## 官网
+
+- 官网：https://github.com/bsjaramillo/atomic-design-react-boilerplate#readme
+- 源码仓库：git+https://github.com/bsjaramillo/atomic-design-react-boilerplate.git
+- npm 页面：https://www.npmjs.com/package/@bsjaramillo/cad-br
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.1
+- 0.1.2
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @bsjaramillo/cad-br`
+- npm registry：https://registry.npmjs.org/@bsjaramillo/cad-br

@@ -1,0 +1,28 @@
+# @bexer/error-reporter
+
+> 标签: browser-extensions, error, reporter
+
+## 简介
+
+@bexer/error-reporter - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@bexer/error-reporter
+
+## 历史版本号
+
+- 当前版本：0.0.17
+
+- 0.0.1
+- 0.0.15
+- 0.0.16
+- 0.0.17
+- 0.0.2
+- 0.0.4
+- 0.0.5
+
+## 获取地址
+
+- npm 安装：`npm install @bexer/error-reporter`
+- npm registry：https://registry.npmjs.org/@bexer/error-reporter

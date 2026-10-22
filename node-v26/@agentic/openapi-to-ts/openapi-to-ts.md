@@ -1,0 +1,32 @@
+# @agentic/openapi-to-ts
+
+> 标签: JavaScript
+
+## 简介
+
+Generate an Agentic TypeScript client from an OpenAPI spec.
+
+## 官网
+
+- 官网：https://github.com/transitive-bullshit/agentic#readme
+- 源码仓库：git+https://github.com/transitive-bullshit/agentic.git
+- npm 页面：https://www.npmjs.com/package/@agentic/openapi-to-ts
+
+## 历史版本号
+
+- 当前版本：7.6.9
+
+- 7.6.0
+- 7.6.1
+- 7.6.2
+- 7.6.3
+- 7.6.4
+- 7.6.5
+- 7.6.7
+- 7.6.8
+- 7.6.9
+
+## 获取地址
+
+- npm 安装：`npm install @agentic/openapi-to-ts`
+- npm registry：https://registry.npmjs.org/@agentic/openapi-to-ts

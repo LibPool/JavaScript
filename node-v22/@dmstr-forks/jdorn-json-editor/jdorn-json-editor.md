@@ -1,0 +1,36 @@
+# @dmstr-forks/jdorn-json-editor
+
+> 标签: editor, json, jsonschema, schema
+
+## 简介
+
+JSON Schema based editor
+
+## 官网
+
+- 官网：https://github.com/dmstr-forks/jdorn-json-editor#readme
+- 源码仓库：git+https://github.com/dmstr-forks/jdorn-json-editor.git
+- npm 页面：https://www.npmjs.com/package/@dmstr-forks/jdorn-json-editor
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0-alpha.11
+- 1.0.0-alpha.12
+- 1.0.0-alpha.13
+- 1.0.0-alpha.14
+- 1.0.0-alpha.15
+- 1.0.0-alpha.2
+- 1.0.0-alpha.3
+- 1.0.0-alpha.4
+- 1.0.0-alpha.5
+- 1.0.0-alpha.6
+- 1.0.0-alpha.7
+- 1.0.0-alpha.9
+
+## 获取地址
+
+- npm 安装：`npm install @dmstr-forks/jdorn-json-editor`
+- npm registry：https://registry.npmjs.org/@dmstr-forks/jdorn-json-editor
+- Node 要求：>= 0.8.0

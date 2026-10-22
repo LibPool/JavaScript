@@ -1,0 +1,25 @@
+# @carbonteq/jwt-darwin-arm64
+
+> 标签: N-API, carbonteq, jsonwebtoken, jwt, napi, napi-rs
+
+## 简介
+
+This is the **aarch64-apple-darwin** binary for `ct-jwt`
+
+## 官网
+
+- 官网：https://github.com/carbonteq/jwt#readme
+- 源码仓库：git+https://github.com/carbonteq/jwt.git
+- npm 页面：https://www.npmjs.com/package/@carbonteq/jwt-darwin-arm64
+
+## 历史版本号
+
+- 当前版本：0.5.2
+
+- 0.5.2
+
+## 获取地址
+
+- npm 安装：`npm install @carbonteq/jwt-darwin-arm64`
+- npm registry：https://registry.npmjs.org/@carbonteq/jwt-darwin-arm64
+- Node 要求：>= 16

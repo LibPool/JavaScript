@@ -1,0 +1,25 @@
+# @cdhdd/mcp-tools
+
+> 标签: ai, claude, claude-code, cursor, developer-tools, filesystem, github, mcp, model-context-protocol, npm, windsurf
+
+## 简介
+
+MCP (Model Context Protocol) servers for developers - filesystem, GitHub, and npm search tools for AI IDEs (Claude Code, Cursor, Windsurf)
+
+## 官网
+
+- 官网：https://github.com/cdhdddd/mcp-tools#readme
+- 源码仓库：git+https://github.com/cdhdddd/mcp-tools.git
+- npm 页面：https://www.npmjs.com/package/@cdhdd/mcp-tools
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @cdhdd/mcp-tools`
+- npm registry：https://registry.npmjs.org/@cdhdd/mcp-tools

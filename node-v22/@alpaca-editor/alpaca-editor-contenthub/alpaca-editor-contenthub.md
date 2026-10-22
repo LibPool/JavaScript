@@ -1,0 +1,24 @@
+# @alpaca-editor/alpaca-editor-contenthub
+
+> 标签: esm, module, nextjs
+
+## 简介
+
+Alpaca editor ContentHub package
+
+## 官网
+
+- 官网：https://github.com/yourusername/your-module-name#readme
+- 源码仓库：git+https://github.com/yourusername/your-module-name.git
+- npm 页面：https://www.npmjs.com/package/@alpaca-editor/alpaca-editor-contenthub
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @alpaca-editor/alpaca-editor-contenthub`
+- npm registry：https://registry.npmjs.org/@alpaca-editor/alpaca-editor-contenthub

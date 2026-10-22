@@ -1,0 +1,27 @@
+# @abmao/wallet-proxy
+
+> 标签: JavaScript
+
+## 简介
+
+- [x] [@abmao/pkgs](https://github.com/hengshanMWC/pkgs) 🗂️ - [x] build: webpack5 📦 - [x] typescript 👽 - [x] test: vitest 🔬 - [x] docs: vitepress 🧪 - [x] eslint、husky 🔦 - [x] commit: commitizen 📤
+
+## 官网
+
+- 官网：https://github.com/hengshanMWC/BOGX-monorepo#readme
+- 源码仓库：git+https://github.com/hengshanMWC/BOGX-monorepo.git
+- npm 页面：https://www.npmjs.com/package/@abmao/wallet-proxy
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @abmao/wallet-proxy`
+- npm registry：https://registry.npmjs.org/@abmao/wallet-proxy

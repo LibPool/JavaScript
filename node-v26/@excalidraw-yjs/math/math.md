@@ -1,0 +1,29 @@
+# @excalidraw-yjs/math
+
+> 标签: 2d, algebra, excalidraw, excalidraw-math, math, vector
+
+## 简介
+
+Excalidraw math functions
+
+## 官网
+
+- 官网：https://github.com/alkem-io/excalidraw-yjs#readme
+- 源码仓库：git+https://github.com/alkem-io/excalidraw-yjs.git
+- npm 页面：https://www.npmjs.com/package/@excalidraw-yjs/math
+
+## 历史版本号
+
+- 当前版本：0.5.5
+
+- 0.5.0
+- 0.5.1
+- 0.5.2
+- 0.5.3
+- 0.5.4
+- 0.5.5
+
+## 获取地址
+
+- npm 安装：`npm install @excalidraw-yjs/math`
+- npm registry：https://registry.npmjs.org/@excalidraw-yjs/math

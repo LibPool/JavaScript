@@ -1,0 +1,24 @@
+# @endo/cache-map
+
+> 标签: cache, cache-map, cachemap, weakmap
+
+## 简介
+
+bounded-size caches having WeakMap-compatible methods
+
+## 官网
+
+- 官网：https://github.com/endojs/endo/tree/master/packages/cache-map#readme
+- 源码仓库：git+https://github.com/endojs/endo.git
+- npm 页面：https://www.npmjs.com/package/@endo/cache-map
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @endo/cache-map`
+- npm registry：https://registry.npmjs.org/@endo/cache-map

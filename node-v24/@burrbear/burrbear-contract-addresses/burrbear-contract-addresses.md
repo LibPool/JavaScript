@@ -1,0 +1,32 @@
+# @burrbear/burrbear-contract-addresses
+
+> 标签: JavaScript
+
+## 简介
+
+List of BurrBear contract addresses across all chains
+
+## 官网
+
+- 官网：https://github.com/burrbear-dev/burrbear-contract-addresses#readme
+- 源码仓库：git+https://github.com/burrbear-dev/burrbear-contract-addresses.git
+- npm 页面：https://www.npmjs.com/package/@burrbear/burrbear-contract-addresses
+
+## 历史版本号
+
+- 当前版本：1.0.79
+
+- 1.0.77-beta-1
+- 1.0.77-beta-2
+- 1.0.77-beta-3
+- 1.0.77-beta-4
+- 1.0.77-beta-5
+- 1.0.77-beta-6
+- 1.0.77-beta-7
+- 1.0.78
+- 1.0.79
+
+## 获取地址
+
+- npm 安装：`npm install @burrbear/burrbear-contract-addresses`
+- npm registry：https://registry.npmjs.org/@burrbear/burrbear-contract-addresses

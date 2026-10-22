@@ -1,0 +1,22 @@
+# @dsr-selah-rotes-swags-teade/dsr-package-public-selah-rotes-swags-teade
+
+> 标签: JavaScript
+
+## 简介
+
+empty
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@dsr-selah-rotes-swags-teade/dsr-package-public-selah-rotes-swags-teade
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @dsr-selah-rotes-swags-teade/dsr-package-public-selah-rotes-swags-teade`
+- npm registry：https://registry.npmjs.org/@dsr-selah-rotes-swags-teade/dsr-package-public-selah-rotes-swags-teade

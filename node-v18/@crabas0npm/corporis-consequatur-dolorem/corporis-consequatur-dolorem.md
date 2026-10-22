@@ -1,0 +1,24 @@
+# @crabas0npm/corporis-consequatur-dolorem
+
+> 标签: -0, Array.prototype.contains, Array.prototype.filter, Array.prototype.findLast, Array.prototype.flat, Array.prototype.flatMap, ArrayBuffer#slice, ArrayBuffer.prototype.slice, AsyncIterator, BigInt64Array, BigUint64Array, CSSStyleDeclaration, ECMAScript 2015, ECMAScript 2016, ECMAScript 2018, ECMAScript 2020, ECMAScript 2021, ECMAScript 2022, ECMAScript 2023, ECMAScript 3, ECMAScript 7, ES, ES2017, ES2019, ES2023, ES5, ES7, Float32Array, Float64Array, Function.prototype.name, HyBi, Int16Array, Int32Array, JSON, Map, Microsoft, Object, Object.assign, Object.defineProperty, Object.entries, Object.values, Observable, Observables, Promise, RFC-6455, RegExp#flags, RxJS, Set, Stream, String.prototype.matchAll, String.prototype.trim, StyleSheet, Symbol.toStringTag, TypeBox, TypedArray, URL, URLSearchParams, Uint16Array, Uint32Array, Uint8ClampedArray, WeakMap, WebSocket, WebSockets, [[Prototype]], airbnb, ajax, ansi, apollo, argparse, args, argument, argv, arraybuffer, art, ascii, assert, assign, ast, async, authentication, autoprefixer, ava, await, batch, bind, bluebird, bound, break, browserslist, buffer, bundler, busy, byte, byteLength, call-bind, call-bound, callbind, callbound, channel, character, chrome, chromium, class-validator, classes, classname, classnames, client, clone, coercible, collection, collection.es6, colors, command, commander, compile less, computed-types, concat, concatMap, concurrency, config, console, const, copy, core, create, crypto, css-in-js, data, dataView, datastructure, dataview, date, debugger, deep-clone, deepclone, deepcopy, define, defineProperty, delete, description, descriptor, descriptors, diff, dir, directory, dom, drag, duplex, east-asian-width, ecmascript, efficient, emoji, encryption, entries, enumerable, environment, equality, error, error-handling, es, es-abstract, es-shim API, es2015, es2017, es2018, es5, escape, eslint-plugin, eslintplugin, estree, eventDispatcher, events, exit, express, expression, extend, fast, fast-copy, fast-deep-clone, fastclone, fastify, fetch, figlet, filter, find, findup, fixed-width, flatMap, folder, forEach, form, form-validation, formatting, framer, from, fs, full, functions, gdpr, get, getintrinsic, getopt, gradients css, groupBy, guid, handlers, hardlinks, harmony, helpers, higher-order, hooks, http, https, ie, immutable, import, inference, inspect, install, internal, interrupts, intrinsic, invariant, io-ts, is, isConcatSpreadable, iterate, jQuery, jasmine, javascript, js, json, json-schema-validator, jsx, jwt, karma, korean, l10n, language, last, lazy, length, less, less compiler, less mixins, less.js, libphonenumber, limited, link, lint, linux, listeners, loading, log, logger, look, lru, macos, match, matchAll, matches, middleware, mime, mime-db, minimal, mixins, mkdir, mkdirp, mkdirs, mobile, mocha, moment, monorepo, move, mru, multi-package, negative, nested css, number, obj, object, offset, optimist, optimizer, option, output, package, package manager, package.json, parent, parse, patch, path, phone, plugin, popmotion, pose, postcss, prefix, preprocessor, preserve-symlinks, pretty, private data, process, progress, promise, promises, prop, properties, property, proto, protobuf, protocol-buffers, prune, push, pyyaml, querystring, queue, queueMicrotask, rangeerror, rapid, ratelimit, react, react pose, react-hook-form, react-hooks, react-testing-library, read, recursive, reduce, reducer, redux, redux-toolkit, regexp, regular, regular expression, remove, request, rgb, rm, rm -fr, rm -rf, safe, schema, scheme, sequence, serializer, set, setImmediate, settings, sham, sharedarraybuffer, shebang, shim, side, signal, signals, sigterm, slice, slot, some, sort, sorted, spec, speed, spinner, status, stdlib, streams, stringifier, stringify, structuredClone, styled-components, styleguide, styles, stylesheet, styling, superstruct, symbol, symbols, symlinks, take, tape, task, tc39, tdd, terminal, test, tester, text, toobject, transpile, trim, trimLeft, trimRight, type, typedarray, typeerror, typeof, types, typescript, unicode, uninstall, up, url, user-streams, util, util.inspect, utilities, utility, uuid, valid, validate, value, values, variables, variables in css, waapi, wait, walk, walking, warning, watch, watcher, weakmap, which, windows, wordbreak, wordwrap, worker, writable, write, xhr, xterm, yaml, yup
+
+## 简介
+
+AbstractObject with Object State Supports and `free` method provides.
+
+## 官网
+
+- 官网：https://github.com/crabas0npm/corporis-consequatur-dolorem/#readme
+- 源码仓库：git+https://github.com/crabas0npm/corporis-consequatur-dolorem.git
+- npm 页面：https://www.npmjs.com/package/@crabas0npm/corporis-consequatur-dolorem
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @crabas0npm/corporis-consequatur-dolorem`
+- npm registry：https://registry.npmjs.org/@crabas0npm/corporis-consequatur-dolorem

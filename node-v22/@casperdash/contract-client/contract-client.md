@@ -1,0 +1,22 @@
+# @casperdash/contract-client
+
+> 标签: JavaScript
+
+## 简介
+
+A simple, lightweight, and extensible library for interacting with the Casper Network.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@casperdash/contract-client
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @casperdash/contract-client`
+- npm registry：https://registry.npmjs.org/@casperdash/contract-client

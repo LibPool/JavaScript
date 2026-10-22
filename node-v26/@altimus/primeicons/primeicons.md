@@ -1,0 +1,24 @@
+# @altimus/primeicons
+
+> 标签: Icon
+
+## 简介
+
+Font Icon Library for Prime UI Libraries
+
+## 官网
+
+- 官网：https://github.com/primefaces/primeicons#readme
+- 源码仓库：git+https://bitbucket.org/windisolucoes/altimusprimeicons.git
+- npm 页面：https://www.npmjs.com/package/@altimus/primeicons
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @altimus/primeicons`
+- npm registry：https://registry.npmjs.org/@altimus/primeicons

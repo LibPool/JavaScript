@@ -1,0 +1,22 @@
+# @dllcn/js-shortid
+
+> 标签: client id, generator, guid, id, mongoid, shortid, unique, uuid
+
+## 简介
+
+生成短UUID
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@dllcn/js-shortid
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @dllcn/js-shortid`
+- npm registry：https://registry.npmjs.org/@dllcn/js-shortid

@@ -1,0 +1,24 @@
+# @fugood/dns-sd-linux-x64-musl
+
+> 标签: DNS-SD, avahi, bonjour, discovery, mDNS, zeroconf
+
+## 简介
+
+Prebuilt binary package for `@fugood/dns-sd` on `linux-x64-musl`.
+
+## 官网
+
+- 官网：https://github.com/mybigday/dns-sd#readme
+- 源码仓库：git+https://github.com/mybigday/dns-sd.git
+- npm 页面：https://www.npmjs.com/package/@fugood/dns-sd-linux-x64-musl
+
+## 历史版本号
+
+- 当前版本：0.2.1
+
+- 0.2.1
+
+## 获取地址
+
+- npm 安装：`npm install @fugood/dns-sd-linux-x64-musl`
+- npm registry：https://registry.npmjs.org/@fugood/dns-sd-linux-x64-musl

@@ -1,0 +1,26 @@
+# @asayerio/tracker-ngrx
+
+> 标签: logging, ngrx, replay
+
+## 简介
+
+Tracker plugin for NgRx state recording
+
+## 官网
+
+- 官网：https://github.com/asayerio/tracker-ngrx#readme
+- 源码仓库：git+https://github.com/asayerio/tracker-ngrx.git
+- npm 页面：https://www.npmjs.com/package/@asayerio/tracker-ngrx
+
+## 历史版本号
+
+- 当前版本：5.7.0
+
+- 1.0.0
+- 5.0.0
+- 5.7.0
+
+## 获取地址
+
+- npm 安装：`npm install @asayerio/tracker-ngrx`
+- npm registry：https://registry.npmjs.org/@asayerio/tracker-ngrx

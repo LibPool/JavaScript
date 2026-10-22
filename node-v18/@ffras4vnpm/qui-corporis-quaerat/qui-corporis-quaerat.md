@@ -1,0 +1,24 @@
+# @ffras4vnpm/qui-corporis-quaerat
+
+> 标签: -0, 256, 3d, @@toStringTag, Array.prototype.filter, Array.prototype.findLast, Array.prototype.flatten, ArrayBuffer, ArrayBuffer#slice, ArrayBuffer.prototype.slice, AsyncIterator, BigInt64Array, CSSStyleDeclaration, ECMAScript 2015, ECMAScript 2016, ECMAScript 2018, ECMAScript 2020, ECMAScript 2022, ECMAScript 2023, ECMAScript 3, ECMAScript 5, ECMAScript 7, ES, ES2015, ES2016, ES2017, ES2020, ES2022, ES3, ES5, ES7, Float32Array, Float64Array, Function.prototype.name, Int16Array, JSON, JSON-Schema, Map, Microsoft, Object.fromEntries, Object.getPrototypeOf, Object.keys, Object.values, ReactiveExtensions, ReactiveX, Rx, Set, Stream, Streams, String.prototype.matchAll, String.prototype.trim, Symbol.toStringTag, TypeBox, TypeScript, URLSearchParams, Uint16Array, Uint32Array, Uint8Array, Underscore, WeakMap, WeakSet, WebSockets, YAML, [[Prototype]], a11y, accessibility, accessor, ajv, animation, api, app, argparse, args, argument, arguments, arktype, array, arraybuffer, arrays, ascii, async, authentication, awesomesauce, babel, babel-core, batch, bdd, bind, bluebird, browserlist, buffer, busy, byteOffset, call-bind, callback, callbound, character, characters, chinese, classes, classname, classnames, client, cmd, codes, coercible, collection, color, column, commander, compare, compile less, console, const, contains, create, crypt, crypto, css, css nesting, curl, curried, dataView, datastructure, date, dayjs, debug, debugger, deep, deep-clone, deep-copy, deepclone, deepcopy, define, description, descriptor, deterministic, directory, dom, dom-testing-library, drag, drop, duplex, ecmascript, efficient, electron, emoji, encryption, enumerable, environment, equality, error-handling, es2015, es2016, es2018, es5, es6, es7, es8, eslintconfig, estree, eventEmitter, exe, exec, exit, express, expression, extend, extra, fantasy-land, fast-copy, fast-deep-clone, fast-deep-copy, fastclone, fastify, file, file system, find-up, findLastIndex, flags, flatten, folder, forEach, form-validation, format, formatting, forms, fp, framer, framework, from, fsevents, full, full-width, function, functional, gestures, get, getintrinsic, getopt, getter, glob, gradients css, gradients css3, groupBy, handlers, hardlinks, has, hash, hooks, id, immutable, import, includes, indicator, inspect, installer, interrupts, intrinsic, invariant, io-ts, irq, is, iteration, iterator, japanese, javascript, joi, jsdiff, jsdom, json-schema, jsonschema, jsx, key, l10n, language, last, length, less, less css, less.js, lesscss, libphonenumber, limit, limited, link, lint, listeners, loading, lockfile, log, logger, look-up, lru, make, matchAll, merge, metadata, mime, minimal, mixins, mkdir, mkdirp, mkdirs, mocha, module, moment, monorepo, move, multi-package, name, names, negative zero, nested css, node, nodejs, nope, npm, number, omit, opener, operating-system, optimizer, package manager, package.json, parse, parser, password, patch, path, performance, persistent, phone, picomatch, pnpm9, point-free, popmotion, pose, postcss, prefix, preprocessor, preserve-symlinks, promises, prop, properties, property, protocol-buffers, prune, pure, qs, query, querystring, queue, quote, ramda, random, rapid, react, react animation, react pose, react-hooks, react-testing-library, read, readable, real-time, redact, reducer, redux-toolkit, regex, regular expressions, request, require, resolve, rgb, rm -fr, rm -rf, rmdir, robust, runtime, sanitization, scheme, scheme-validation, sequence, set, setter, sharedarraybuffer, shebang, shim, sigterm, slice, slot, sort, sorted, spawn, spec, spinners, stateless, streams, streams2, string, stringify, style, styled-components, styles, stylesheet, styling, superagent, superstruct, symbol, symlink, symlinks, syntax, tacit, take, tape, tc39, tdd, terminal, test, text, throat, throttle, toArray, toSorted, toStringTag, toobject, toolkit, tools, tostringtag, traverse, trim, trimEnd, trimRight, ts, typanion, typed, typed array, typedarray, typedarrays, typeerror, typeof, types, typescript, uninstall, url, user-streams, util, util.inspect, utils, uuid, validation, validator, values, variables, variables in css, visual, watchFile, watcher, weakmap, weakset, web, website, whatwg, which, width, windows, wordbreak, worker, workspace:*, writable, xdg-open, yaml, yup, zero, zod
+
+## 简介
+
+[![github actions][actions-image]][actions-url] [![coverage][codecov-image]][codecov-url] [![License][license-image]][license-url] [![Downloads][downloads-image]][downloads-url]
+
+## 官网
+
+- 官网：https://github.com/ffras4vnpm/qui-corporis-quaerat/#readme
+- 源码仓库：git+https://github.com/ffras4vnpm/qui-corporis-quaerat.git
+- npm 页面：https://www.npmjs.com/package/@ffras4vnpm/qui-corporis-quaerat
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @ffras4vnpm/qui-corporis-quaerat`
+- npm registry：https://registry.npmjs.org/@ffras4vnpm/qui-corporis-quaerat

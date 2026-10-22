@@ -1,0 +1,34 @@
+# @abitat_reece/host-daemon
+
+> 标签: JavaScript
+
+## 简介
+
+Mac host daemon for Abitat Workspace remote Codex control
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@abitat_reece/host-daemon
+
+## 历史版本号
+
+- 当前版本：0.1.25
+
+- 0.1.21
+- 0.1.22
+- 0.1.23
+- 0.1.24
+- 0.1.25
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install @abitat_reece/host-daemon`
+- npm registry：https://registry.npmjs.org/@abitat_reece/host-daemon
+- Node 要求：>=22

@@ -1,0 +1,37 @@
+# @cleverbrush/schema
+
+> 标签: cleverbrush, runtime-validation, schema, schema-validation, standard-schema, type-safe, typescript, validation, zod-alternative
+
+## 简介
+
+Schema Definition And Validation library, that allows to define and validate objects of any complexity
+
+## 官网
+
+- 官网：https://schema.cleverbrush.com/docs/getting-started
+- 源码仓库：git+https://github.com/cleverbrush/framework.git
+- npm 页面：https://www.npmjs.com/package/@cleverbrush/schema
+
+## 历史版本号
+
+- 当前版本：5.1.0
+
+- 4.1.0
+- 4.2.0
+- 4.3.0
+- 4.3.1
+- 4.3.2
+- 4.4.0
+- 4.4.1
+- 4.4.2
+- 4.4.3
+- 4.5.0
+- 5.0.0
+- 5.1.0
+- 共 156 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @cleverbrush/schema`
+- npm registry：https://registry.npmjs.org/@cleverbrush/schema
+- Node 要求：>=24

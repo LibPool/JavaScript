@@ -1,0 +1,36 @@
+# @ai-setting/agent-bounty-standalone
+
+> 标签: JavaScript
+
+## 简介
+
+AI Agent Bounty System - Standalone binary for all platforms. v0.14.1: matches @ai-setting/agent-bounty@0.14.1 (email display surface patch).
+
+## 官网
+
+- 官网：https://github.com/ai-setting/ai-agent-bounty#readme
+- 源码仓库：git+https://github.com/ai-setting/ai-agent-bounty.git
+- npm 页面：https://www.npmjs.com/package/@ai-setting/agent-bounty-standalone
+
+## 历史版本号
+
+- 当前版本：0.14.2
+
+- 0.14.1
+- 0.14.2
+- 0.4.0
+- 0.4.1
+- 0.4.2
+- 0.4.3
+- 0.5.0
+- 0.5.1
+- 0.6.0
+- 0.7.1
+- 0.7.2
+- 0.8.0
+
+## 获取地址
+
+- npm 安装：`npm install @ai-setting/agent-bounty-standalone`
+- npm registry：https://registry.npmjs.org/@ai-setting/agent-bounty-standalone
+- Node 要求：>=18.0.0

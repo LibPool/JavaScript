@@ -1,0 +1,36 @@
+# @buildinternet/releases-lib
+
+> 标签: JavaScript
+
+## 简介
+
+Runtime-neutral helpers for the Releases Index CLI — logger, errors, config.
+
+## 官网
+
+- 官网：https://releases.sh
+- 源码仓库：git+https://github.com/buildinternet/releases.git
+- npm 页面：https://www.npmjs.com/package/@buildinternet/releases-lib
+
+## 历史版本号
+
+- 当前版本：0.83.4
+
+- 0.78.1
+- 0.79.0
+- 0.80.0
+- 0.80.1
+- 0.81.0
+- 0.81.1
+- 0.82.0
+- 0.83.0
+- 0.83.1
+- 0.83.2
+- 0.83.3
+- 0.83.4
+- 共 101 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @buildinternet/releases-lib`
+- npm registry：https://registry.npmjs.org/@buildinternet/releases-lib

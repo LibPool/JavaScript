@@ -1,0 +1,25 @@
+# @beisen-oneops/amis-formula
+
+> 标签: amis, formula, parser, tpl
+
+## 简介
+
+负责 amis 里面的表达式实现，内置公式，编辑器等
+
+## 官网
+
+- 官网：https://github.com/aisuda/amis-tpl#readme
+- 源码仓库：http://gitlab.beisencorp.com/ux-share-platform/ux-oneops-amis.git
+- npm 页面：https://www.npmjs.com/package/@beisen-oneops/amis-formula
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @beisen-oneops/amis-formula`
+- npm registry：https://registry.npmjs.org/@beisen-oneops/amis-formula

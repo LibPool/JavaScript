@@ -1,0 +1,27 @@
+# @doocacommerce/dooca-cli
+
+> 标签: cli, dooca, themekit
+
+## 简介
+
+Dooca commerce themekit CLI
+
+## 官网
+
+- 官网：https://github.com/DoocaCommerce/Dooca-themekit-CLI#readme
+- 源码仓库：git+https://github.com/DoocaCommerce/Dooca-themekit-CLI.git
+- npm 页面：https://www.npmjs.com/package/@doocacommerce/dooca-cli
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.0-beta
+- 1.0.0-beta.1
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @doocacommerce/dooca-cli`
+- npm registry：https://registry.npmjs.org/@doocacommerce/dooca-cli

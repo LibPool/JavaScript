@@ -1,0 +1,27 @@
+# @amilajack/node
+
+> 标签: runtime
+
+## 简介
+
+node
+
+## 官网
+
+- 官网：https://github.com/amilajack/node-bin-gen#readme
+- 源码仓库：git+https://github.com/amilajack/node-bin-gen.git
+- npm 页面：https://www.npmjs.com/package/@amilajack/node
+
+## 历史版本号
+
+- 当前版本：10.1.0
+
+- 10.1.0
+- 10.1.1-alpha.1
+- 10.1.1-alpha.2
+- 10.8.0
+
+## 获取地址
+
+- npm 安装：`npm install @amilajack/node`
+- npm registry：https://registry.npmjs.org/@amilajack/node

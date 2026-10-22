@@ -1,0 +1,27 @@
+# @baethon/collect
+
+> 标签: collect, collection, laravel
+
+## 简介
+
+Laravel inspired library for handling collections
+
+## 官网
+
+- 官网：https://github.com/baethon/collect.js#readme
+- 源码仓库：git+https://github.com/baethon/collect.js.git
+- npm 页面：https://www.npmjs.com/package/@baethon/collect
+
+## 历史版本号
+
+- 当前版本：2.0.1
+
+- 1.0.1
+- 1.1.0
+- 2.0.0
+- 2.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @baethon/collect`
+- npm registry：https://registry.npmjs.org/@baethon/collect

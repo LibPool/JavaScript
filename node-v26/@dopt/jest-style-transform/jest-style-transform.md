@@ -1,0 +1,24 @@
+# @dopt/jest-style-transform
+
+> 标签: JavaScript
+
+## 简介
+
+A Jest transformer for handling styles
+
+## 官网
+
+- 官网：https://github.com/dopt/odopt/tree/main/packages/%40dopt/jest-style-transform
+- 源码仓库：git+https://github.com/dopt/odopt.git
+- npm 页面：https://www.npmjs.com/package/@dopt/jest-style-transform
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @dopt/jest-style-transform`
+- npm registry：https://registry.npmjs.org/@dopt/jest-style-transform

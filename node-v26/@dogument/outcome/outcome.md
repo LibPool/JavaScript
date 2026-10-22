@@ -1,0 +1,25 @@
+# @dogument/outcome
+
+> 标签: JavaScript
+
+## 简介
+
+Type-safe Result pattern and domain errors
+
+## 官网
+
+- 官网：https://github.com/pukingrainbows/agen.cat#readme
+- 源码仓库：git+https://github.com/pukingrainbows/agen.cat.git
+- npm 页面：https://www.npmjs.com/package/@dogument/outcome
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @dogument/outcome`
+- npm registry：https://registry.npmjs.org/@dogument/outcome

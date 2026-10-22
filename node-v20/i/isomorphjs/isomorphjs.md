@@ -1,0 +1,24 @@
+# isomorphjs
+
+> 标签: angular, isomorph, isomorphic, prerender, react, render, rendering, server-side, webpack
+
+## 简介
+
+Server-side rendering tool for your web app. Prerenders your app into static HTML files and supports routing.
+
+## 官网
+
+- 官网：https://github.com/graphcool/isomorph#readme
+- 源码仓库：git+https://github.com/graphcool/isomorph.git
+- npm 页面：https://www.npmjs.com/package/isomorphjs
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install isomorphjs`
+- npm registry：https://registry.npmjs.org/isomorphjs

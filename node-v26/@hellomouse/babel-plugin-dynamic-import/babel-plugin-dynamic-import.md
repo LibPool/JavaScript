@@ -1,0 +1,27 @@
+# @hellomouse/babel-plugin-dynamic-import
+
+> 标签: babel, dynamic, import, node, plugin
+
+## 简介
+
+Babel plugin to transpile import() to a deferred require(), for node
+
+## 官网
+
+- 官网：https://github.com/hellomouse/babel-plugin-dynamic-import-node#readme
+- 源码仓库：git+https://github.com/hellomouse/babel-plugin-dynamic-import-node.git
+- npm 页面：https://www.npmjs.com/package/@hellomouse/babel-plugin-dynamic-import
+
+## 历史版本号
+
+- 当前版本：2.1.0-custom.2
+
+- 2.1.0
+- 2.1.0-custom
+- 2.1.0-custom.1
+- 2.1.0-custom.2
+
+## 获取地址
+
+- npm 安装：`npm install @hellomouse/babel-plugin-dynamic-import`
+- npm registry：https://registry.npmjs.org/@hellomouse/babel-plugin-dynamic-import

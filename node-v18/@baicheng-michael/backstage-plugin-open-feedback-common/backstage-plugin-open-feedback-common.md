@@ -1,0 +1,27 @@
+# @baicheng-michael/backstage-plugin-open-feedback-common
+
+> 标签: backstage, backstage-plugin, common-library, feedback, open-source, plugin
+
+## 简介
+
+Common functionalities for the open-feedback plugin
+
+## 官网
+
+- 官网：https://github.com/Baicheng-MiQ/backstage-open-feedback#readme
+- 源码仓库：git+https://github.com/Baicheng-MiQ/backstage-open-feedback.git
+- npm 页面：https://www.npmjs.com/package/@baicheng-michael/backstage-plugin-open-feedback-common
+
+## 历史版本号
+
+- 当前版本：0.3.3
+
+- 0.3.0
+- 0.3.1
+- 0.3.2
+- 0.3.3
+
+## 获取地址
+
+- npm 安装：`npm install @baicheng-michael/backstage-plugin-open-feedback-common`
+- npm registry：https://registry.npmjs.org/@baicheng-michael/backstage-plugin-open-feedback-common

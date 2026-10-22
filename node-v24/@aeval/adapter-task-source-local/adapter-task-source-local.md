@@ -1,0 +1,24 @@
+# @aeval/adapter-task-source-local
+
+> 标签: JavaScript
+
+## 简介
+
+@aeval/adapter-task-source-local - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/aeval/aeval#readme
+- 源码仓库：git+https://github.com/aeval/aeval.git
+- npm 页面：https://www.npmjs.com/package/@aeval/adapter-task-source-local
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @aeval/adapter-task-source-local`
+- npm registry：https://registry.npmjs.org/@aeval/adapter-task-source-local

@@ -1,0 +1,22 @@
+# @dsr-aided-forgo-quoin-burke/dsr-package-public-aided-forgo-quoin-burke
+
+> 标签: JavaScript
+
+## 简介
+
+empty
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@dsr-aided-forgo-quoin-burke/dsr-package-public-aided-forgo-quoin-burke
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @dsr-aided-forgo-quoin-burke/dsr-package-public-aided-forgo-quoin-burke`
+- npm registry：https://registry.npmjs.org/@dsr-aided-forgo-quoin-burke/dsr-package-public-aided-forgo-quoin-burke

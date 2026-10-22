@@ -1,0 +1,35 @@
+# @girs/node-soup-2.4
+
+> 标签: GObject-Introspection, Gir, Soup-2.4, TypeScript, node, node-gtk, types
+
+## 简介
+
+Node.js TypeScript type definitions for Soup-2.4, generated from library version 2.74.3
+
+## 官网
+
+- 官网：https://github.com/gjsify/types/tree/main/node-soup-2.4#readme
+- 源码仓库：git+https://github.com/gjsify/ts-for-gir.git
+- npm 页面：https://www.npmjs.com/package/@girs/node-soup-2.4
+
+## 历史版本号
+
+- 当前版本：2.74.3-3.3.0
+
+- 2.74.3-3.0.4
+- 2.74.3-3.1.0
+- 2.74.3-3.2.0
+- 2.74.3-3.2.2
+- 2.74.3-3.2.3
+- 2.74.3-3.2.4
+- 2.74.3-3.2.5
+- 2.74.3-3.2.6
+- 2.74.3-3.2.7
+- 2.74.3-3.2.8
+- 2.74.3-3.2.9
+- 2.74.3-3.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @girs/node-soup-2.4`
+- npm registry：https://registry.npmjs.org/@girs/node-soup-2.4

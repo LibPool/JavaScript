@@ -1,0 +1,27 @@
+# @au-re/libpg-query
+
+> 标签: database, pg, plpgsql, postgres, postgresql, query, sql
+
+## 简介
+
+The real PostgreSQL query parser
+
+## 官网
+
+- 官网：https://github.com/launchql/libpg-query-node
+- 源码仓库：git://github.com/launchql/libpg-query-node.git
+- npm 页面：https://www.npmjs.com/package/@au-re/libpg-query
+
+## 历史版本号
+
+- 当前版本：16.3.3
+
+- 16.3.0
+- 16.3.1
+- 16.3.2
+- 16.3.3
+
+## 获取地址
+
+- npm 安装：`npm install @au-re/libpg-query`
+- npm registry：https://registry.npmjs.org/@au-re/libpg-query

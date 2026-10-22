@@ -1,0 +1,24 @@
+# @erebos/bzz-react-native
+
+> 标签: JavaScript
+
+## 简介
+
+Bzz API for react-native
+
+## 官网
+
+- 官网：https://github.com/MainframeHQ/erebos#readme
+- 源码仓库：git+ssh://git@github.com/MainframeHQ/erebos.git
+- npm 页面：https://www.npmjs.com/package/@erebos/bzz-react-native
+
+## 历史版本号
+
+- 当前版本：0.13.0
+
+- 0.13.0
+
+## 获取地址
+
+- npm 安装：`npm install @erebos/bzz-react-native`
+- npm registry：https://registry.npmjs.org/@erebos/bzz-react-native

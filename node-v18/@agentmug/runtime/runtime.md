@@ -1,0 +1,36 @@
+# @agentmug/runtime
+
+> 标签: agent, agentmug, ai, ai-worker, anthropic, claude, digital-workforce, gemini, llm, mcp, model-context-protocol, openai, portable-agent, runtime
+
+## 简介
+
+Runtime for defining and executing portable AI workers. Multi-provider LLM support (Anthropic, OpenAI, Gemini, and OpenAI-compatible vendors), pluggable persistence and tracing adapters, an MCP tool client, streaming, abort, and pause/resume.
+
+## 官网
+
+- 官网：https://agentmug.com
+- 源码仓库：git+https://github.com/dahshanlabs/agentmug-core.git
+- npm 页面：https://www.npmjs.com/package/@agentmug/runtime
+
+## 历史版本号
+
+- 当前版本：0.18.0
+
+- 0.12.0
+- 0.13.0
+- 0.14.0
+- 0.16.0
+- 0.16.1
+- 0.18.0
+- 0.3.0
+- 0.4.0
+- 0.5.0
+- 0.6.0
+- 0.7.0
+- 0.9.0
+
+## 获取地址
+
+- npm 安装：`npm install @agentmug/runtime`
+- npm registry：https://registry.npmjs.org/@agentmug/runtime
+- Node 要求：>=18

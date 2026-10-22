@@ -1,0 +1,23 @@
+# @divmain/sfw-free
+
+> 标签: JavaScript
+
+## 简介
+
+Socket Firewall wrapper that verifies latest release and then runs npm with original args.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@divmain/sfw-free
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @divmain/sfw-free`
+- npm registry：https://registry.npmjs.org/@divmain/sfw-free
+- Node 要求：>=20

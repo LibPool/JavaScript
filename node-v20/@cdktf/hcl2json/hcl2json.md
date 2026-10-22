@@ -1,0 +1,36 @@
+# @cdktf/hcl2json
+
+> 标签: cdk, cdktf, hcl, terraform
+
+## 简介
+
+Transform HCL into JSON
+
+## 官网
+
+- 官网：https://github.com/hashicorp/terraform-cdk#readme
+- 源码仓库：git://github.com/hashicorp/terraform-cdk.git
+- npm 页面：https://www.npmjs.com/package/@cdktf/hcl2json
+
+## 历史版本号
+
+- 当前版本：0.21.0
+
+- 0.21.0-pre.149
+- 0.21.0-pre.151
+- 0.21.0-pre.154
+- 0.21.0-pre.155
+- 0.21.0-pre.157
+- 0.21.0-pre.160
+- 0.21.0-pre.162
+- 0.21.0-pre.163
+- 0.21.0-pre.164
+- 0.21.0-pre.165
+- 0.21.0-pre.166
+- 0.21.0-pre.170
+- 共 806 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @cdktf/hcl2json`
+- npm registry：https://registry.npmjs.org/@cdktf/hcl2json

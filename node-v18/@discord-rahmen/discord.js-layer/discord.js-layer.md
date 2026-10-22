@@ -1,0 +1,33 @@
+# @discord-rahmen/discord.js-layer
+
+> 标签: discord, discord-framework, discord-rahmen, discord.js, framework
+
+## 简介
+
+Discord.js compatibility layer for the discord-rahmen framework
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@discord-rahmen/discord.js-layer
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 0.0.0
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @discord-rahmen/discord.js-layer`
+- npm registry：https://registry.npmjs.org/@discord-rahmen/discord.js-layer

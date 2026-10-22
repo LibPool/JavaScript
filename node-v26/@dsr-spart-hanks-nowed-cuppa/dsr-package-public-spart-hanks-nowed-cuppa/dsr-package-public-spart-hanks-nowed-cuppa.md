@@ -1,0 +1,22 @@
+# @dsr-spart-hanks-nowed-cuppa/dsr-package-public-spart-hanks-nowed-cuppa
+
+> 标签: JavaScript
+
+## 简介
+
+empty
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@dsr-spart-hanks-nowed-cuppa/dsr-package-public-spart-hanks-nowed-cuppa
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @dsr-spart-hanks-nowed-cuppa/dsr-package-public-spart-hanks-nowed-cuppa`
+- npm registry：https://registry.npmjs.org/@dsr-spart-hanks-nowed-cuppa/dsr-package-public-spart-hanks-nowed-cuppa

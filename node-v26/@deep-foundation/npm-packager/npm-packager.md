@@ -1,0 +1,33 @@
+# @deep-foundation/npm-packager
+
+> 标签: deep-package
+
+## 简介
+
+NPM packager package for [Deep](https://deep.foundation/). It handles installation and publication of `deep-package` packages. This package is included in each [Deep](https://deep.foundation/) instance, there is no need to install it manually.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@deep-foundation/npm-packager
+
+## 历史版本号
+
+- 当前版本：0.0.45
+
+- 0.0.37
+- 0.0.38
+- 0.0.39
+- 0.0.4
+- 0.0.40
+- 0.0.41
+- 0.0.42
+- 0.0.43
+- 0.0.44
+- 0.0.45
+- 0.0.5
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @deep-foundation/npm-packager`
+- npm registry：https://registry.npmjs.org/@deep-foundation/npm-packager

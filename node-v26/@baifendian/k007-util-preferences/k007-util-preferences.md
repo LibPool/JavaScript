@@ -1,0 +1,24 @@
+# @baifendian/k007-util-preferences
+
+> 标签: k007
+
+## 简介
+
+preferences
+
+## 官网
+
+- 官网：http://git.baifendian.com/K007/UIWeb.git#readme
+- 源码仓库：http://git.baifendian.com/K007/UIWeb.git
+- npm 页面：https://www.npmjs.com/package/@baifendian/k007-util-preferences
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @baifendian/k007-util-preferences`
+- npm registry：https://registry.npmjs.org/@baifendian/k007-util-preferences

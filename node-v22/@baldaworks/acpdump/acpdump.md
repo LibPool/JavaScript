@@ -1,0 +1,28 @@
+# @baldaworks/acpdump
+
+> 标签: acp, agent, ai, cli, dump, llm
+
+## 简介
+
+Meta package for acpdump
+
+## 官网
+
+- 官网：https://github.com/baldaworks/acpdump#readme
+- 源码仓库：git+https://github.com/baldaworks/acpdump.git
+- npm 页面：https://www.npmjs.com/package/@baldaworks/acpdump
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @baldaworks/acpdump`
+- npm registry：https://registry.npmjs.org/@baldaworks/acpdump
+- Node 要求：>=16

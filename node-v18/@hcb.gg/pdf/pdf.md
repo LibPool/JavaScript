@@ -1,0 +1,24 @@
+# @hcb.gg/pdf
+
+> 标签: JavaScript
+
+## 简介
+
+pdf.js but built properly and fully
+
+## 官网
+
+- 官网：https://github.com/hackclub/pdf#readme
+- 源码仓库：git+https://github.com/hackclub/pdf.git
+- npm 页面：https://www.npmjs.com/package/@hcb.gg/pdf
+
+## 历史版本号
+
+- 当前版本：5.4.530
+
+- 5.4.530
+
+## 获取地址
+
+- npm 安装：`npm install @hcb.gg/pdf`
+- npm registry：https://registry.npmjs.org/@hcb.gg/pdf

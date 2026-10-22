@@ -1,0 +1,25 @@
+# @cfn-modules/msk-cluster
+
+> 标签: cfn-modules, cfn-modules:ExposeArn
+
+## 简介
+
+AWS MSK (Kafka) cluster using two or three availability zones with public and private subnets. Cloudwatch logging enabled by default.
+
+## 官网
+
+- 官网：https://github.com/cfn-modules
+- 源码仓库：git+https://github.com/cfn-modules/msk-cluster.git
+- npm 页面：https://www.npmjs.com/package/@cfn-modules/msk-cluster
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @cfn-modules/msk-cluster`
+- npm registry：https://registry.npmjs.org/@cfn-modules/msk-cluster

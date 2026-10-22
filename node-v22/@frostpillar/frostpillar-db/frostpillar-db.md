@@ -1,0 +1,34 @@
+# @frostpillar/frostpillar-db
+
+> 标签: database, key-value, lightweight, typescript
+
+## 简介
+
+A tiny, light and fast flexible database for TypeScript, Node.js, and browser JavaScript, with no third-party runtime dependencies.
+
+## 官网
+
+- 官网：https://github.com/hjmsano/frostpillar-db#readme
+- 源码仓库：git+https://github.com/hjmsano/frostpillar-db.git
+- npm 页面：https://www.npmjs.com/package/@frostpillar/frostpillar-db
+
+## 历史版本号
+
+- 当前版本：1.3.1
+
+- 0.0.2
+- 0.0.3
+- 0.1.0
+- 0.2.0
+- 0.3.0
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 1.3.1
+
+## 获取地址
+
+- npm 安装：`npm install @frostpillar/frostpillar-db`
+- npm registry：https://registry.npmjs.org/@frostpillar/frostpillar-db
+- Node 要求：>=24.0.0

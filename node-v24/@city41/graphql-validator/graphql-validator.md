@@ -1,0 +1,27 @@
+# @city41/graphql-validator
+
+> 标签: GraphQL
+
+## 简介
+
+Validate queries agains a GraphQL Schema
+
+## 官网
+
+- 官网：https://github.com/creditkarma/graphql-validator#readme
+- 源码仓库：git+https://github.com/creditkarma/graphql-validator.git
+- npm 页面：https://www.npmjs.com/package/@city41/graphql-validator
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @city41/graphql-validator`
+- npm registry：https://registry.npmjs.org/@city41/graphql-validator

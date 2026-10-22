@@ -1,0 +1,25 @@
+# @fomantic/gulp-header
+
+> 标签: eventstream, gulpplugin, header
+
+## 简介
+
+Gulp extension to add header to file(s) in the pipeline.
+
+## 官网
+
+- 官网：https://github.com/fomantic/gulp-header#readme
+- 源码仓库：git://github.com/fomantic/gulp-header.git
+- npm 页面：https://www.npmjs.com/package/@fomantic/gulp-header
+
+## 历史版本号
+
+- 当前版本：2.2.0
+
+- 2.1.1
+- 2.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @fomantic/gulp-header`
+- npm registry：https://registry.npmjs.org/@fomantic/gulp-header

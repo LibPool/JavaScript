@@ -1,0 +1,23 @@
+# @cdktf-providers/mehulgohil-curl2
+
+> 标签: cdk, cdktf, curl2, mehulgohil, provider, terraform
+
+## 简介
+
+Prebuilt mehulgohil/curl2 Provider for Terraform CDK (cdktf)
+
+## 官网
+
+- 源码仓库：https://github.com/shunueda/cdktf-providers.git
+- npm 页面：https://www.npmjs.com/package/@cdktf-providers/mehulgohil-curl2
+
+## 历史版本号
+
+- 当前版本：1.6.1
+
+- 1.6.1
+
+## 获取地址
+
+- npm 安装：`npm install @cdktf-providers/mehulgohil-curl2`
+- npm registry：https://registry.npmjs.org/@cdktf-providers/mehulgohil-curl2

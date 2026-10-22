@@ -1,0 +1,25 @@
+# @dterekhova/utils
+
+> 标签: babel, deck.gl, es6, react, visualization, webgl
+
+## 简介
+
+kepler.gl constants used by kepler.gl components, actions and reducers
+
+## 官网
+
+- 官网：https://github.com/keplergl/kepler.gl#readme
+- 源码仓库：git+https://github.com/keplergl/kepler.gl.git
+- npm 页面：https://www.npmjs.com/package/@dterekhova/utils
+
+## 历史版本号
+
+- 当前版本：2.5.9
+
+- 2.5.9
+
+## 获取地址
+
+- npm 安装：`npm install @dterekhova/utils`
+- npm registry：https://registry.npmjs.org/@dterekhova/utils
+- Node 要求：>=12.0.0

@@ -1,0 +1,34 @@
+# @decentology/hyperverse-evm-erc721
+
+> 标签: JavaScript
+
+## 简介
+
+<p align="center"> <img src="https://drive.google.com/uc?export=view&id=1UFpBzZRnOBIZhIcaAWui1FIe9OSfJTKx" width="256" alt="Hyperverse logo" /> </p>
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@decentology/hyperverse-evm-erc721
+
+## 历史版本号
+
+- 当前版本：1.2.3
+
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.1.6
+- 1.1.7
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.2.3
+
+## 获取地址
+
+- npm 安装：`npm install @decentology/hyperverse-evm-erc721`
+- npm registry：https://registry.npmjs.org/@decentology/hyperverse-evm-erc721
+- Node 要求：>=12.0.0

@@ -1,0 +1,36 @@
+# @cdktn/provider-databricks
+
+> 标签: cdk, cdk-terrain, cdktf, cdktn, databricks, opentofu, provider, terraform
+
+## 简介
+
+Prebuilt databricks Provider for CDK Terrain (cdktn)
+
+## 官网
+
+- 官网：https://github.com/cdktn-io/cdktn-provider-databricks#readme
+- 源码仓库：git+https://github.com/cdktn-io/cdktn-provider-databricks.git
+- npm 页面：https://www.npmjs.com/package/@cdktn/provider-databricks
+
+## 历史版本号
+
+- 当前版本：18.11.0
+
+- 18.1.0
+- 18.10.0
+- 18.10.1
+- 18.11.0
+- 18.2.0
+- 18.3.0
+- 18.4.0
+- 18.5.0
+- 18.6.0
+- 18.7.0
+- 18.8.0
+- 18.9.0
+
+## 获取地址
+
+- npm 安装：`npm install @cdktn/provider-databricks`
+- npm registry：https://registry.npmjs.org/@cdktn/provider-databricks
+- Node 要求：>= 22.11.0

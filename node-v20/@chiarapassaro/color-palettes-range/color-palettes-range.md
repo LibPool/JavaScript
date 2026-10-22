@@ -1,0 +1,33 @@
+# @chiarapassaro/color-palettes-range
+
+> 标签: analogous, color, complementary, gradient, monochrome, palette, palettes, quadratic, schemes, tetradic, triadic
+
+## 简介
+
+Now you can generate more than three or five colors palette: take a Complementary Palette or a Random Dominant Palette, and you can decide how many colors you want!
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@chiarapassaro/color-palettes-range
+
+## 历史版本号
+
+- 当前版本：2.0.4
+
+- 1.1.6
+- 1.1.7
+- 1.1.8
+- 1.1.9
+- 1.2.0
+- 1.2.1
+- 1.2.2
+- 1.2.3
+- 2.0.0
+- 2.0.2
+- 2.0.3
+- 2.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @chiarapassaro/color-palettes-range`
+- npm registry：https://registry.npmjs.org/@chiarapassaro/color-palettes-range

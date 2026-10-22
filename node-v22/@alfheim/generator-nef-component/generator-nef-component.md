@@ -1,0 +1,35 @@
+# @alfheim/generator-nef-component
+
+> 标签: yeoman-generator
+
+## 简介
+
+Yeoman generator for basic NEF component
+
+## 官网
+
+- 官网：https://github.com/Nasdaq/alfheim/tree/master/packages/generator-nef-component
+- 源码仓库：git+https://github.com/Nasdaq/alfheim.git
+- npm 页面：https://www.npmjs.com/package/@alfheim/generator-nef-component
+
+## 历史版本号
+
+- 当前版本：0.4.5
+
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.2.0
+- 0.2.1
+- 0.3.0
+- 0.4.2
+- 0.4.3
+- 0.4.4
+- 0.4.5
+
+## 获取地址
+
+- npm 安装：`npm install @alfheim/generator-nef-component`
+- npm registry：https://registry.npmjs.org/@alfheim/generator-nef-component

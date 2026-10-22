@@ -1,0 +1,24 @@
+# @discremy/mysql
+
+> 标签: discord, discremy, mysql, mysql2
+
+## 简介
+
+MySQL integration package for Discremy
+
+## 官网
+
+- 官网：https://github.com/discremy/mysql#readme
+- 源码仓库：git+https://github.com/discremy/mysql.git
+- npm 页面：https://www.npmjs.com/package/@discremy/mysql
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @discremy/mysql`
+- npm registry：https://registry.npmjs.org/@discremy/mysql

@@ -1,0 +1,25 @@
+# @epha123/fire-hooks
+
+> 标签: firebase, hooks, react
+
+## 简介
+
+React Hooks For Firebase
+
+## 官网
+
+- 官网：https://github.com/ephremdeme/fire-hooks
+- 源码仓库：git+https://github.com/ephremdeme/fire-hooks.git
+- npm 页面：https://www.npmjs.com/package/@epha123/fire-hooks
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @epha123/fire-hooks`
+- npm registry：https://registry.npmjs.org/@epha123/fire-hooks

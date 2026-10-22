@@ -1,0 +1,27 @@
+# @dunes/phrase
+
+> 标签: dom, javascript, query, typescript
+
+## 简介
+
+@dunes/phrase - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/dunes-js/phrase#readme
+- 源码仓库：git://github.com/dunes-js/phrase.git
+- npm 页面：https://www.npmjs.com/package/@dunes/phrase
+
+## 历史版本号
+
+- 当前版本：0.9.6
+
+- 0.9.2
+- 0.9.3
+- 0.9.5
+- 0.9.6
+
+## 获取地址
+
+- npm 安装：`npm install @dunes/phrase`
+- npm registry：https://registry.npmjs.org/@dunes/phrase

@@ -1,0 +1,27 @@
+# @expo-google-fonts/padyakke-expanded-one
+
+> 标签: JavaScript
+
+## 简介
+
+Use the Padyakke Expanded One font family from Google Fonts in your Expo app
+
+## 官网
+
+- 官网：https://github.com/expo/google-fonts/tree/master/font-packages/padyakke-expanded-one#readme
+- 源码仓库：git+https://github.com/expo/google-fonts.git
+- npm 页面：https://www.npmjs.com/package/@expo-google-fonts/padyakke-expanded-one
+
+## 历史版本号
+
+- 当前版本：0.4.1
+
+- 0.2.3
+- 0.3.0
+- 0.4.0
+- 0.4.1
+
+## 获取地址
+
+- npm 安装：`npm install @expo-google-fonts/padyakke-expanded-one`
+- npm registry：https://registry.npmjs.org/@expo-google-fonts/padyakke-expanded-one

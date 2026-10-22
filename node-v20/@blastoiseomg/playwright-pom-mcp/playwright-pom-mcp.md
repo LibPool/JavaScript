@@ -1,0 +1,26 @@
+# @blastoiseomg/playwright-pom-mcp
+
+> 标签: JavaScript
+
+## 简介
+
+MCP server and CLI that generates functional Page Object Models from live Playwright accessibility snapshots
+
+## 官网
+
+- 官网：https://github.com/vincenzo-gasparo/playwright-pom-mcp#readme
+- 源码仓库：git+https://github.com/vincenzo-gasparo/playwright-pom-mcp.git
+- npm 页面：https://www.npmjs.com/package/@blastoiseomg/playwright-pom-mcp
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @blastoiseomg/playwright-pom-mcp`
+- npm registry：https://registry.npmjs.org/@blastoiseomg/playwright-pom-mcp
+- Node 要求：>=20

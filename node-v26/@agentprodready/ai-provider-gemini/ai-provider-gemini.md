@@ -1,0 +1,26 @@
+# @agentprodready/ai-provider-gemini
+
+> 标签: agentprodready, ai-agent, ai-provider, gemini, google, llm, nodejs, typescript
+
+## 简介
+
+Google Gemini API adapter for AgentProdReady AI Provider
+
+## 官网
+
+- 官网：https://github.com/ameenmari/agentprodready#readme
+- 源码仓库：git+https://github.com/ameenmari/agentprodready.git
+- npm 页面：https://www.npmjs.com/package/@agentprodready/ai-provider-gemini
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @agentprodready/ai-provider-gemini`
+- npm registry：https://registry.npmjs.org/@agentprodready/ai-provider-gemini
+- Node 要求：>=22 <25

@@ -1,0 +1,24 @@
+# @chuyik/react-no-ssr
+
+> 标签: JavaScript
+
+## 简介
+
+React component to wrap non SSR components.
+
+## 官网
+
+- 官网：https://github.com/chuyik/react-no-ssr#readme
+- 源码仓库：git+https://github.com/chuyik/react-no-ssr.git
+- npm 页面：https://www.npmjs.com/package/@chuyik/react-no-ssr
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @chuyik/react-no-ssr`
+- npm registry：https://registry.npmjs.org/@chuyik/react-no-ssr

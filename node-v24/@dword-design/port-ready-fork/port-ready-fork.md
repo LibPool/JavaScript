@@ -1,0 +1,27 @@
+# @dword-design/port-ready-fork
+
+> 标签: JavaScript
+
+## 简介
+
+Promise to wait until a port is ready to accept connection.
+
+## 官网
+
+- 官网：https://github.com/ratson/port-ready#readme
+- 源码仓库：git+https://github.com/ratson/port-ready.git
+- npm 页面：https://www.npmjs.com/package/@dword-design/port-ready-fork
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @dword-design/port-ready-fork`
+- npm registry：https://registry.npmjs.org/@dword-design/port-ready-fork
+- Node 要求：>=6

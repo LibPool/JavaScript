@@ -1,0 +1,24 @@
+# @enlznep/runall-extension
+
+> 标签: jupyter, jupyterlab, jupyterlab-extension
+
+## 简介
+
+Add a run-all-cells button to the notebook toolbar
+
+## 官网
+
+- 官网：https://github.com/enlznep/runall-extension
+- 源码仓库：git+https://github.com/enlznep/runall-extension.git
+- npm 页面：https://www.npmjs.com/package/@enlznep/runall-extension
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @enlznep/runall-extension`
+- npm registry：https://registry.npmjs.org/@enlznep/runall-extension

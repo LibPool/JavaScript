@@ -1,0 +1,26 @@
+# @heinzelman-labs/eslint-config-base
+
+> 标签: airbnb, config, es2015, es2016, es2017, es2018, eslint, eslintconfig, javascript, styleguide
+
+## 简介
+
+Heinzelman basic ESLint configuration based on eslint-config-airbnb-base
+
+## 官网
+
+- 官网：https://gitlab.com/fluffy-heinzelman/eslint-configs
+- 源码仓库：git+ssh://git@gitlab.com/fluffy-heinzelman/eslint-configs.git
+- npm 页面：https://www.npmjs.com/package/@heinzelman-labs/eslint-config-base
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 0.0.1
+- 1.0.0
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @heinzelman-labs/eslint-config-base`
+- npm registry：https://registry.npmjs.org/@heinzelman-labs/eslint-config-base

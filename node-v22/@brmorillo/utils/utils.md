@@ -1,0 +1,37 @@
+# @brmorillo/utils
+
+> 标签: cache, commonjs, cryptography, esm, helpers, http, javascript, jwt, logging, nodejs, queue, sorting, storage, type-safe, typescript, utilities, utils, uuid
+
+## 简介
+
+Production-ready utility library for JS/TS — 27 modules behind one type-safe API: arrays, objects, strings, crypto, JWT, UUID, sorting, queues, caches, HTTP, logging, storage and more.
+
+## 官网
+
+- 官网：https://github.com/brmorillo/utils#readme
+- 源码仓库：git+https://github.com/brmorillo/utils.git
+- npm 页面：https://www.npmjs.com/package/@brmorillo/utils
+
+## 历史版本号
+
+- 当前版本：14.1.1
+
+- 8.0.16
+- 8.0.17
+- 8.0.19
+- 8.1.0
+- 8.1.2
+- 8.2.0
+- 8.3.0
+- 8.3.2
+- 8.3.3
+- 9.0.0
+- 9.1.0
+- 9.1.1
+- 共 63 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @brmorillo/utils`
+- npm registry：https://registry.npmjs.org/@brmorillo/utils
+- Node 要求：>=18

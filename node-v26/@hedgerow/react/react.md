@@ -1,0 +1,29 @@
+# @hedgerow/react
+
+> 标签: at-protocol, atproto, bluesky, comments, headless, likes, react, unstyled
+
+## 简介
+
+Headless, unstyled React components and hooks for rendering Bluesky comments and likes on your own site. Behaviour, accessibility, and state only — you bring the styles.
+
+## 官网
+
+- 官网：https://github.com/crsren/hedgerow/tree/main/packages/react
+- 源码仓库：git+https://github.com/crsren/hedgerow.git
+- npm 页面：https://www.npmjs.com/package/@hedgerow/react
+
+## 历史版本号
+
+- 当前版本：0.3.1
+
+- 0.1.0
+- 0.1.1
+- 0.2.0
+- 0.3.0
+- 0.3.1
+
+## 获取地址
+
+- npm 安装：`npm install @hedgerow/react`
+- npm registry：https://registry.npmjs.org/@hedgerow/react
+- Node 要求：>=20

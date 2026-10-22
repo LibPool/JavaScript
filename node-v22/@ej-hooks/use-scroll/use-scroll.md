@@ -1,0 +1,24 @@
+# @ej-hooks/use-scroll
+
+> 标签: hooks, react, react-hooks, scroll
+
+## 简介
+
+React Hook to get X/Y coordinates of current position of the scroll.
+
+## 官网
+
+- 官网：https://github.com/eunjinfizz/react-hooks#readme
+- 源码仓库：git+https://github.com/eunjinfizz/react-hooks.git
+- npm 页面：https://www.npmjs.com/package/@ej-hooks/use-scroll
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @ej-hooks/use-scroll`
+- npm registry：https://registry.npmjs.org/@ej-hooks/use-scroll

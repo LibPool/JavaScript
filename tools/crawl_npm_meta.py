@@ -166,12 +166,15 @@ def main() -> int:
         session.headers["User-Agent"] = USER_AGENT
         local_done: list[int] = []
 
-        def process_batch(start: int, chunk: list[str]) -> None:
+        def process_batch(start: int, chunk: list[str]) -> bool:
+            """Fetch one chunk; return False when the request budget cut it short."""
             with lock:
                 out = part_path.open("a", encoding="utf-8", newline="\n")
+            complete = True
             try:
                 for name in chunk:
                     if args.max_requests and stats["requests"] >= args.max_requests:
+                        complete = False
                         break
                     if name in done_names:
                         with lock:
@@ -228,7 +231,9 @@ def main() -> int:
                                 )
             finally:
                 out.close()
-            local_done.append(start)
+            if complete:
+                local_done.append(start)
+            return complete
 
         try:
             while True:
@@ -236,7 +241,10 @@ def main() -> int:
                     start, chunk = work_queue.get_nowait()
                 except queue.Empty:
                     break
-                process_batch(start, chunk)
+                if not process_batch(start, chunk):
+                    # Budget exhausted mid-chunk: keep the batch pending so a later
+                    # run fetches the remaining ids instead of skipping them.
+                    break
                 with lock:
                     done.add(start)
                     if len(done) % 10 == 0:

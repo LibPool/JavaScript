@@ -1,0 +1,29 @@
+# @hemers/mcp-toolkit
+
+> 标签: ai, claude, mcp, model-context-protocol, server
+
+## 简介
+
+MCP工具包 - 提供时间查询和系统信息功能的Model Context Protocol服务器
+
+## 官网
+
+- 官网：https://github.com/hemers/mcp-toolkit#readme
+- 源码仓库：git+https://github.com/hemers/mcp-toolkit.git
+- npm 页面：https://www.npmjs.com/package/@hemers/mcp-toolkit
+
+## 历史版本号
+
+- 当前版本：0.0.6
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+
+## 获取地址
+
+- npm 安装：`npm install @hemers/mcp-toolkit`
+- npm registry：https://registry.npmjs.org/@hemers/mcp-toolkit

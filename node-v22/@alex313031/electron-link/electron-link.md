@@ -1,0 +1,24 @@
+# @alex313031/electron-link
+
+> 标签: JavaScript
+
+## 简介
+
+Generates scripts to pass to V8's `mksnapshot` tool.
+
+## 官网
+
+- 官网：https://github.com/Alex313031/electron-link-ng#readme
+- 源码仓库：git+https://github.com/Alex313031/electron-link-ng.git
+- npm 页面：https://www.npmjs.com/package/@alex313031/electron-link
+
+## 历史版本号
+
+- 当前版本：0.6.3
+
+- 0.6.3
+
+## 获取地址
+
+- npm 安装：`npm install @alex313031/electron-link`
+- npm registry：https://registry.npmjs.org/@alex313031/electron-link

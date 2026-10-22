@@ -1,0 +1,30 @@
+# @arietta-studio/appwrite-sdk
+
+> 标签: api, appwrite, arietta-studio, client, components, expo, react, react-native, sdk, typescript
+
+## 简介
+
+Appwrite SDK for TypeScript
+
+## 官网
+
+- 官网：https://appwrite.io/support
+- 源码仓库：git+https://github.com/arietta-studio/appwrite-sdk-ts.git
+- npm 页面：https://www.npmjs.com/package/@arietta-studio/appwrite-sdk
+
+## 历史版本号
+
+- 当前版本：1.6.0
+
+- 1.0.0
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 1.4.0
+- 1.5.0
+- 1.6.0
+
+## 获取地址
+
+- npm 安装：`npm install @arietta-studio/appwrite-sdk`
+- npm registry：https://registry.npmjs.org/@arietta-studio/appwrite-sdk

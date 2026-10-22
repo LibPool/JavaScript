@@ -1,0 +1,24 @@
+# @ffras4vnpm/laboriosam-reiciendis-porro
+
+> 标签: $.extend, 0, 3d, @@toStringTag, Array.prototype.filter, Array.prototype.findLastIndex, Array.prototype.flat, Array.prototype.flatMap, ArrayBuffer#slice, ArrayBuffer.prototype.slice, BigInt64Array, CSS, CSSStyleDeclaration, ECMAScript 2015, ECMAScript 2016, ECMAScript 2017, ECMAScript 2018, ECMAScript 2021, ECMAScript 2022, ECMAScript 3, ECMAScript 5, ECMAScript 6, ECMAScript 7, ES2015, ES2016, ES2018, ES2019, ES2021, ES2022, ES8, Float32Array, Float64Array, HyBi, Int16Array, Int32Array, Int8Array, Iterator, Object.defineProperty, Object.entries, Object.fromEntries, Object.is, Object.keys, Observable, Promise, RFC-6455, ReactiveExtensions, Reflect.getPrototypeOf, Rx, Set, Stream, StyleSheet, TypeBox, TypeScript, URL, URLSearchParams, Uint32Array, Uint8Array, Underscore, WebSocket, WebSockets, YAML, [[Prototype]], _.extend, a11y, ajv, animation, ansi, api, apollo, app, argparse, args, arktype, array, ast, authentication, ava, await, awesomesauce, banner, bcrypt, bdd, bind, bluebird, bootstrap css, bound, browser, browserlist, buffers, bundling, busy, byteLength, cache, call, call-bind, call-bound, callbind, callbound, censor, channel, characters, check, chinese, chrome, chromium, cjk, classes, classname, classnames, clone, cmd, coercible, color, colour, command-line, compare, compile less, concat, concatMap, configurable, consume, contains, core, core-js, cors, create, crypt, crypto, css nesting, css variable, css-in-js, curl, curried, data, datastructure, date, dayjs, deep-clone, deepcopy, default, define, delete, dependencies, description, descriptors, diff, dir, directory, dom-testing-library, drop, duplex, east-asian-width, ecmascript, emit, encryption, ender, env, environment, equal, equality, error-handling, es, es-abstract, es-shim API, es-shims, es2015, es2018, es8, escape, eslint, eslintplugin, estree, eventDispatcher, events, exec, exit, exit-code, express, expression, extension, extra, fast-deep-clone, fetch, figlet, find, findLast, findup, fixed-width, forEach, formatting, fp, fs, fsevents, full, full-width, functional, functions, gdpr, generics, gestures, getOwnPropertyDescriptor, getter, gradients css, gradients css3, groupBy, guid, handlers, hardlinks, harmony, hash, helpers, hookform, hooks, https, i18n, idle, ie, immutable, includes, inference, inspect, install, installer, internal slot, interrupts, io-ts, iteration, iterator, jQuery, jasmine, jest, jsdiff, jsdom, json, json-schema, json-schema-validation, jsonpath, jsonschema, jsx, jwt, karma, keys, korean, l10n, language, launch, lazy, length, less, less css, lesscss, let, limit, linux, listeners, log, logging, make, matchAll, metadata, middleware, mime, mime-db, minimal, mkdir, mkdirp, mkdirs, module, modules, move, multi-package, names, negative, negative zero, nodejs, nope, npm, number, obj, offset, omit, once, open, opener, optimizer, option, output, package, packages, parent, parents, parse, parser, password, patch, path, phone, plugin, pnpm9, polyfill, ponyfill, popmotion, positive, postcss, postcss-plugin, prefix, pretty, private, private data, progress, promises, properties, prototype, prune, pure, push, pyyaml, qs, query, queue, ramda, rapid, rate, react, react animation, react pose, react-hook-form, readable, recursive, reduce, reducer, redux, redux-toolkit, regular expressions, remove, request, require, reuse, rm, rmdir, safe, sameValueZero, sanitization, sanitize, schema, scheme, search, serialization, serialize, serializer, set, setImmediate, sham, shebang, shrinkwrap, side, sigint, signal, slice, slot, some, sorted, spawn, spinner, spring, start, stdlib, streams2, style, styles, stylesheet, styling, symbol, symbols, symlink, syntax, take, task, tc39, telephone, term, test, tester, testing, text, time, toSorted, toStringTag, toobject, toolkit, tools, tostringtag, touch, transpile, traverse, trim, trimLeft, trimStart, ts, tslib, tty, type, typedarray, typedarrays, typeof, types, typesafe, url, urls, util.inspect, utilities, utility, utils, uuid, validate, validation, validator, value, values, var, vest, view, visual, wait, walk, walking, warning, watch, watchFile, weakmap, website, wget, whatwg, which, windows, wordbreak, workspace:*, wrap, write, xdg-open, xhr, yup, zero
+
+## 简介
+
+[@ffras4vnpm/laboriosam-reiciendis-porro](https://www.npmjs.com/package/@ffras4vnpm/laboriosam-reiciendis-porro) is ESLint plugin provides linting rules for [YAML].
+
+## 官网
+
+- 官网：https://github.com/ffras4vnpm/laboriosam-reiciendis-porro/#readme
+- 源码仓库：git+https://github.com/ffras4vnpm/laboriosam-reiciendis-porro.git
+- npm 页面：https://www.npmjs.com/package/@ffras4vnpm/laboriosam-reiciendis-porro
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @ffras4vnpm/laboriosam-reiciendis-porro`
+- npm registry：https://registry.npmjs.org/@ffras4vnpm/laboriosam-reiciendis-porro

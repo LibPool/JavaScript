@@ -1,0 +1,36 @@
+# @daytonaio/sdk
+
+> 标签: JavaScript
+
+## 简介
+
+Daytona TypeScript SDK for sandbox management and code execution
+
+## 官网
+
+- 官网：https://www.daytona.io/docs
+- 源码仓库：git+https://github.com/daytona/clients.git
+- npm 页面：https://www.npmjs.com/package/@daytonaio/sdk
+
+## 历史版本号
+
+- 当前版本：0.216.0
+
+- 0.203.0
+- 0.204.0
+- 0.204.1
+- 0.205.0
+- 0.205.1
+- 0.207.0
+- 0.207.1
+- 0.210.0
+- 0.211.2
+- 0.214.0
+- 0.215.0
+- 0.216.0
+- 共 362 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @daytonaio/sdk`
+- npm registry：https://registry.npmjs.org/@daytonaio/sdk

@@ -1,0 +1,24 @@
+# @auser/metalsmith-watch
+
+> 标签: metalsmith, metalsmith-plugin
+
+## 简介
+
+Metalsmith plugin to watch for changes and trigger partial and full rebuilds
+
+## 官网
+
+- 官网：https://github.com/FWeinb/metalsmith-watch#readme
+- 源码仓库：git+https://github.com/FWeinb/metalsmith-watch.git
+- npm 页面：https://www.npmjs.com/package/@auser/metalsmith-watch
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @auser/metalsmith-watch`
+- npm registry：https://registry.npmjs.org/@auser/metalsmith-watch

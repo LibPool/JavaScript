@@ -1,0 +1,23 @@
+# @dfeidao/fd-amxxx
+
+> 标签: 01feidao, ai, atom, dfeidao, feidao, 控件, 飞道
+
+## 简介
+
+不带图标的toast提示
+
+## 官网
+
+- 源码仓库：https://gitee.com/dfeidao/widgets-mobile
+- npm 页面：https://www.npmjs.com/package/@dfeidao/fd-amxxx
+
+## 历史版本号
+
+- 当前版本：4.6.201907231134
+
+- 4.6.201907231134
+
+## 获取地址
+
+- npm 安装：`npm install @dfeidao/fd-amxxx`
+- npm registry：https://registry.npmjs.org/@dfeidao/fd-amxxx

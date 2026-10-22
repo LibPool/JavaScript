@@ -1,0 +1,23 @@
+# @cheelim1/typescript-sdk-demo2
+
+> 标签: JavaScript
+
+## 简介
+
+## To Consume & Use ```     npm init -y     npm install @cheelim1/typescript-sdk-demo2 ```
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@cheelim1/typescript-sdk-demo2
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @cheelim1/typescript-sdk-demo2`
+- npm registry：https://registry.npmjs.org/@cheelim1/typescript-sdk-demo2

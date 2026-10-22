@@ -1,0 +1,23 @@
+# @cleosync/piper-refine
+
+> 标签: JavaScript
+
+## 简介
+
+Piper admin framework — Refine bridge, hooks, auth providers, data provider
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@cleosync/piper-refine
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @cleosync/piper-refine`
+- npm registry：https://registry.npmjs.org/@cleosync/piper-refine

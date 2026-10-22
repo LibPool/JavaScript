@@ -1,0 +1,25 @@
+# @anshumanf/moment-timezone
+
+> 标签: date, iana, moment, olson, time, timezone, tz, zone
+
+## 简介
+
+Parse and display moments in any timezone.
+
+## 官网
+
+- 官网：http://momentjs.com/timezone/
+- 源码仓库：git+https://github.com/anshumanf/moment-timezone.git
+- npm 页面：https://www.npmjs.com/package/@anshumanf/moment-timezone
+
+## 历史版本号
+
+- 当前版本：0.5.14
+
+- 0.5.14
+
+## 获取地址
+
+- npm 安装：`npm install @anshumanf/moment-timezone`
+- npm registry：https://registry.npmjs.org/@anshumanf/moment-timezone
+- Node 要求：*

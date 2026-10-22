@@ -1,0 +1,26 @@
+# @hecto/compiler
+
+> 标签: JavaScript
+
+## 简介
+
+Zero-configuration build-time lowering for Hecto FP pipelines
+
+## 官网
+
+- 官网：https://hecto.sh
+- 源码仓库：git+https://github.com/hectosoftworks/hecto.git
+- npm 页面：https://www.npmjs.com/package/@hecto/compiler
+
+## 历史版本号
+
+- 当前版本：3.0.0
+
+- 1.0.0
+- 3.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @hecto/compiler`
+- npm registry：https://registry.npmjs.org/@hecto/compiler
+- Node 要求：>=22

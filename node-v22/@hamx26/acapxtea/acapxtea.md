@@ -1,0 +1,24 @@
+# @hamx26/acapxtea
+
+> 标签: acapxtea
+
+## 简介
+
+@hamx26/acapxtea - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/ham269/acapxtea#readme
+- 源码仓库：git+https://github.com/ham269/acapxtea.git
+- npm 页面：https://www.npmjs.com/package/@hamx26/acapxtea
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @hamx26/acapxtea`
+- npm registry：https://registry.npmjs.org/@hamx26/acapxtea

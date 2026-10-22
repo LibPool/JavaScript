@@ -1,0 +1,24 @@
+# @hangopenxui/config-provider
+
+> 标签: component library, ui, vue
+
+## 简介
+
+@hangopenxui/config-provider - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/gkn1234/openx-ui/blob/master/README.md
+- 源码仓库：git+https://github.com/gkn1234/openx-ui.git
+- npm 页面：https://www.npmjs.com/package/@hangopenxui/config-provider
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @hangopenxui/config-provider`
+- npm registry：https://registry.npmjs.org/@hangopenxui/config-provider

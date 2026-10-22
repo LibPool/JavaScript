@@ -1,0 +1,30 @@
+# @boxcc/ckeditor5-build-strapi-wysiwyg
+
+> 标签: ckeditor, ckeditor 5, ckeditor5, ckeditor5-build, collaboration, collaborative, contentEditable, editing, editor, framework, html, operational transformation, ot, real-time, rich text, strapi, wysiwyg
+
+## 简介
+
+CKEditor 5 build for Strapi WYSIWYG editor replacement
+
+## 官网
+
+- 官网：https://github.com/Roslovets-Inc/ckeditor5-build-strapi-wysiwyg
+- 源码仓库：git+https://github.com/Roslovets-Inc/ckeditor5-build-strapi-wysiwyg.git
+- npm 页面：https://www.npmjs.com/package/@boxcc/ckeditor5-build-strapi-wysiwyg
+
+## 历史版本号
+
+- 当前版本：1.13.6
+
+- 1.13.1
+- 1.13.2
+- 1.13.3
+- 1.13.4
+- 1.13.5
+- 1.13.6
+
+## 获取地址
+
+- npm 安装：`npm install @boxcc/ckeditor5-build-strapi-wysiwyg`
+- npm registry：https://registry.npmjs.org/@boxcc/ckeditor5-build-strapi-wysiwyg
+- Node 要求：>=12.0.0

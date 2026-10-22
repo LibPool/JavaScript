@@ -1,0 +1,28 @@
+# @finalpass/finalpass-cli
+
+> 标签: JavaScript
+
+## 简介
+
+FinalPass local CLI
+
+## 官网
+
+- 官网：https://github.com/gabemdev/finalpass/tree/master/packages/cli
+- 源码仓库：git+https://github.com/gabemdev/finalpass.git
+- npm 页面：https://www.npmjs.com/package/@finalpass/finalpass-cli
+
+## 历史版本号
+
+- 当前版本：0.1.6
+
+- 0.1.0
+- 0.1.2
+- 0.1.3
+- 0.1.5
+- 0.1.6
+
+## 获取地址
+
+- npm 安装：`npm install @finalpass/finalpass-cli`
+- npm registry：https://registry.npmjs.org/@finalpass/finalpass-cli

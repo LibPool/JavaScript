@@ -1,0 +1,26 @@
+# @graduatecollege/vue-useful-api
+
+> 标签: api, graduate-college, reactive, state-management, vue, vue3
+
+## 简介
+
+Vue 3 API integration utilities with reactive state management for Graduate College applications
+
+## 官网
+
+- 官网：https://github.com/graduatecollege/VueLib#readme
+- 源码仓库：git+https://github.com/graduatecollege/VueLib.git
+- npm 页面：https://www.npmjs.com/package/@graduatecollege/vue-useful-api
+
+## 历史版本号
+
+- 当前版本：2.0.2
+
+- 2.0.0
+- 2.0.1
+- 2.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @graduatecollege/vue-useful-api`
+- npm registry：https://registry.npmjs.org/@graduatecollege/vue-useful-api

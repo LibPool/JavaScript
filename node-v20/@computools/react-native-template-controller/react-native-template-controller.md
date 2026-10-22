@@ -1,0 +1,36 @@
+# @computools/react-native-template-controller
+
+> 标签: boilerplate, jest, react-native, template, typescript
+
+## 简介
+
+Computools react native template by using mobx as controllers
+
+## 官网
+
+- 官网：https://computools.com/
+- 源码仓库：https://newgit.computools.org/react-native/template-controller
+- npm 页面：https://www.npmjs.com/package/@computools/react-native-template-controller
+
+## 历史版本号
+
+- 当前版本：1.0.65
+
+- 1.0.54
+- 1.0.55
+- 1.0.56
+- 1.0.57
+- 1.0.58
+- 1.0.59
+- 1.0.60
+- 1.0.61
+- 1.0.62
+- 1.0.63
+- 1.0.64
+- 1.0.65
+- 共 77 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @computools/react-native-template-controller`
+- npm registry：https://registry.npmjs.org/@computools/react-native-template-controller

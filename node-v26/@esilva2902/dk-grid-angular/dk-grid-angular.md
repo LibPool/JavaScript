@@ -1,0 +1,24 @@
+# @esilva2902/dk-grid-angular
+
+> 标签: DkGrid, angular, angular data grid, angular material, angular-component, angular-material, data grid, data table, data-grid, data-table, datagrid, datatable, dk-grid, grid, material, table
+
+## 简介
+
+DkGrid - An Angular Data Grid for Angular developers.
+
+## 官网
+
+- 官网：https://www.dikesoft.com/dk-grid
+- 源码仓库：git+https://github.com/admin-dikesoft/angular-data-grid.git
+- npm 页面：https://www.npmjs.com/package/@esilva2902/dk-grid-angular
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @esilva2902/dk-grid-angular`
+- npm registry：https://registry.npmjs.org/@esilva2902/dk-grid-angular

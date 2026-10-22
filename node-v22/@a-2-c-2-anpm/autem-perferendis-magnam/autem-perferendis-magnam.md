@@ -1,0 +1,24 @@
+# @a-2-c-2-anpm/autem-perferendis-magnam
+
+> 标签: $.extend, 3d, @@toStringTag, Array.prototype.contains, Array.prototype.filter, Array.prototype.findLast, Array.prototype.flat, Array.prototype.includes, AsyncIterator, CSSStyleDeclaration, ECMAScript 2015, ECMAScript 2018, ECMAScript 2019, ECMAScript 2020, ECMAScript 2022, ECMAScript 2023, ECMAScript 3, ECMAScript 5, ECMAScript 7, ES2016, ES2017, ES2018, ES2019, ES2020, ES2021, ES3, ES5, ES7, Float32Array, Float64Array, Function.prototype.name, Int16Array, Int32Array, Int8Array, JSON-Schema, Microsoft, Object, Object.defineProperty, Object.entries, Object.getPrototypeOf, Object.keys, Object.values, Observable, RFC-6455, ReactiveExtensions, RxJS, Stream, Streams, String.prototype.trim, StyleSheet, Symbol, Symbol.toStringTag, TypeBox, Uint32Array, Uint8Array, Underscore, WeakMap, WeakSet, WebSocket, [[Prototype]], _.extend, __proto__, a11y, accessor, agent, ajv, amazon, animation, ansi, apollo, argument, arktype, art, assertion, assign, ast, async, autoscaling, ava, await, awesomesauce, aws, batch, beanstalk, bin, binaries, binary, bind, bound, break, buffer, bundler, byteLength, byteOffset, call, censor, chai, channel, characters, check, child, chinese, chrome, chromium, circular, class-validator, cli, client, clone, cloudformation, cloudfront, cloudsearch, cloudtrail, color, colour, column, columns, command, command-line, commander, compare, computed-types, concat, concatMap, console, copy, core, crypto, css, css-in-js, datastructure, dataview, date, debug, debugger, deep, deep-copy, deepclone, define, dependencies, descriptor, descriptors, deterministic, dir, directory, dynamodb, ecmascript, efficient, elasticache, elb, electron, emit, emoji, env, environments, equal, error, es-abstract, es-shims, es2018, es5, es7, eslint-plugin, eslintconfig, espree, estree, eventDispatcher, every, exec, execute, expression, extend, extra, fast, fast-deep-clone, fast-deep-copy, fastclone, feed, fetch, figlet, file, file system, filter, find-up, findLast, findLastIndex, flag, flags, flatMap, flatten, fnmatch, folder, fork, form, form-validation, forms, fps, framer, from, fs, fullwidth, function, function.length, functional, functions, generics, gestures, get, getintrinsic, getopt, getter, gitignore, glacier, glob, globals, graphql, graphql-client, group, groupBy, has, has-own, hasOwnProperty, helper, higher-order, hookform, http, iam, id, idle, immer, immutable, importexport, in, includes, indicator, inference, installer, internal, intrinsic, io-ts, jQuery, javascript, jest, joi, js, jsdiff, jsdom, jshint, json, jsx, karma, key, kinesis, l10n, last, length, libphonenumber, limit, linewrap, link, listeners, loading, local, location, logger, logging, look, lru, make dir, manager, mapreduce, match, matchAll, merge, metadata, mime, mime-db, mkdirp, mobile, mocha, module, monorepo, name, names, negative, negative zero, npm, obj, object, omit, optimist, optimizer, option, output, package, package.json, packages, parent, parents, parse, persistent, phone, picomatch, pipe, polyfill, ponyfill, postcss, postcss-plugin, prefix, pretty, private data, process, progress, promise, promises, prop, properties, protocol-buffers, prototype, proxy, prune, push, query, quote, random, rate, ratelimit, rds, react, react animation, react pose, react-testing-library, read, readable, readablestream, real-time, redact, reduce, reducer, redux-toolkit, regexp, regular, regular expression, regular expressions, request, resolve, rework, rm -rf, rmdir, route, route53, routing, rules, safe, sameValueZero, scheme, search, sequence, serialization, serialize, serializer, ses, setImmediate, setPrototypeOf, setter, shim, side, simpledb, slice, slot, sorted, source map, spawn, spec, speed, spinner, spinners, spring, sqs, stdlib, storagegateway, stream, streams2, string, stringifier, style, styles, subprocess, superstruct, take, tape, tc39, tdd, telephone, term, test, testing, three, throat, toSorted, toStringTag, tools, tostringtag, touch, transpiler, trim, trimEnd, trimRight, ts, tslib, typanion, type, types, typesafe, typescript, uninstall, url, uuid, validation, value, values, variables, vars, waapi, waf, walk, walking, warning, weakmap, wget, whatwg, width, workspace:*, wrap, writable, write, xhr, xml, xterm, yaml, zx
+
+## 简介
+
+[![dependency status][5]][6] [![dev dependency status][7]][8] [![License][license-image]][license-url] [![Downloads][downloads-image]][downloads-url]
+
+## 官网
+
+- 官网：https://github.com/a-2-c-2-anpm/autem-perferendis-magnam/#readme
+- 源码仓库：git+https://github.com/a-2-c-2-anpm/autem-perferendis-magnam.git
+- npm 页面：https://www.npmjs.com/package/@a-2-c-2-anpm/autem-perferendis-magnam
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @a-2-c-2-anpm/autem-perferendis-magnam`
+- npm registry：https://registry.npmjs.org/@a-2-c-2-anpm/autem-perferendis-magnam

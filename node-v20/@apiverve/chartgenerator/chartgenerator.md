@@ -1,0 +1,33 @@
+# @apiverve/chartgenerator
+
+> 标签: bar chart api, chart api, chart generator api, charts api, free chart api
+
+## 简介
+
+Chart Generator is a chart API that turns your data into chart and graph images. Supports bar, line, pie, doughnut, radar, and polar area charts with customizable styling.
+
+## 官网
+
+- 官网：https://apiverve.com/marketplace/chartgenerator?utm_source=npm&utm_medium=referral&utm_content=homepage
+- 源码仓库：git+https://github.com/apiverve/chartgenerator-api.git
+- npm 页面：https://www.npmjs.com/package/@apiverve/chartgenerator
+
+## 历史版本号
+
+- 当前版本：1.2.2
+
+- 1.1.10
+- 1.1.12
+- 1.1.13
+- 1.1.14
+- 1.1.8
+- 1.1.9
+- 1.2.0
+- 1.2.1
+- 1.2.2
+
+## 获取地址
+
+- npm 安装：`npm install @apiverve/chartgenerator`
+- npm registry：https://registry.npmjs.org/@apiverve/chartgenerator
+- Node 要求：>=18.0.0

@@ -1,0 +1,22 @@
+# @0xthoth/multicall
+
+> 标签: JavaScript
+
+## 简介
+
+@0xthoth/multicall - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@0xthoth/multicall
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @0xthoth/multicall`
+- npm registry：https://registry.npmjs.org/@0xthoth/multicall

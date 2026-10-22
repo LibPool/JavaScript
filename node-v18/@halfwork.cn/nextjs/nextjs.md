@@ -1,0 +1,27 @@
+# @halfwork.cn/nextjs
+
+> 标签: JavaScript
+
+## 简介
+
+可在您的 Next.js 网站上显示 half.done aiflows
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@halfwork.cn/nextjs
+
+## 历史版本号
+
+- 当前版本：1.0.6
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.5
+- 1.0.6
+
+## 获取地址
+
+- npm 安装：`npm install @halfwork.cn/nextjs`
+- npm registry：https://registry.npmjs.org/@halfwork.cn/nextjs

@@ -1,0 +1,22 @@
+# @arthur_leywin/aether-motion
+
+> 标签: animejs, gsap, lenis, micro-interactions, motion, parallax, physics, scroll-trigger
+
+## 简介
+
+High-end scroll orchestration and physics-based micro-interaction primitives for Aether UI.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@arthur_leywin/aether-motion
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @arthur_leywin/aether-motion`
+- npm registry：https://registry.npmjs.org/@arthur_leywin/aether-motion

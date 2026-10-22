@@ -1,0 +1,29 @@
+# @edx/course-outline-sidebar-trigger-plugin
+
+> 标签: JavaScript
+
+## 简介
+
+Plugin for frontend-app-learning course outline sidebar trigger
+
+## 官网
+
+- 官网：https://github.com/edx/frontend-plugins#readme
+- 源码仓库：https://github.com/edx/frontend-plugins.git
+- npm 页面：https://www.npmjs.com/package/@edx/course-outline-sidebar-trigger-plugin
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 1.0.0
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @edx/course-outline-sidebar-trigger-plugin`
+- npm registry：https://registry.npmjs.org/@edx/course-outline-sidebar-trigger-plugin

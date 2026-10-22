@@ -1,0 +1,36 @@
+# @flyfish-group/file-viewer-react
+
+> 标签: document-preview, document-viewer, file-preview, file-viewer, native-viewer, office-preview, react, self-hosted
+
+## 简介
+
+Private-deploy React component for File Viewer
+
+## 官网
+
+- 官网：https://github.com/flyfish-dev/file-viewer
+- 源码仓库：git+https://github.com/flyfish-dev/file-viewer.git
+- npm 页面：https://www.npmjs.com/package/@flyfish-group/file-viewer-react
+
+## 历史版本号
+
+- 当前版本：3.2.2
+
+- 2.3.0
+- 2.4.0
+- 3.0.0
+- 3.0.1
+- 3.0.2
+- 3.0.3
+- 3.1.0
+- 3.1.1
+- 3.1.2
+- 3.2.0
+- 3.2.1
+- 3.2.2
+- 共 80 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @flyfish-group/file-viewer-react`
+- npm registry：https://registry.npmjs.org/@flyfish-group/file-viewer-react

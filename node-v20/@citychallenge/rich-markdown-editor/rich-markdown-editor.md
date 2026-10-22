@@ -1,0 +1,31 @@
+# @citychallenge/rich-markdown-editor
+
+> 标签: editor, markdown, text, wysiwyg
+
+## 简介
+
+A rich text editor with Markdown shortcuts
+
+## 官网
+
+- 官网：https://github.com/outline/rich-markdown-editor#readme
+- 源码仓库：git+https://github.com/outline/rich-markdown-editor.git
+- npm 页面：https://www.npmjs.com/package/@citychallenge/rich-markdown-editor
+
+## 历史版本号
+
+- 当前版本：10.1.5
+
+- 10.0.3
+- 10.0.4
+- 10.1.0
+- 10.1.1
+- 10.1.2
+- 10.1.3
+- 10.1.4
+- 10.1.5
+
+## 获取地址
+
+- npm 安装：`npm install @citychallenge/rich-markdown-editor`
+- npm registry：https://registry.npmjs.org/@citychallenge/rich-markdown-editor

@@ -1,0 +1,25 @@
+# @alexma03/utcp-direct-call
+
+> 标签: agent, ai, api, callable, direct-call, llm, tool calling, tools, typescript, universal-tool-calling-protocol, utcp
+
+## 简介
+
+Direct callable functions plugin for UTCP
+
+## 官网
+
+- 官网：https://github.com/Alexma03/alexma03-utcp#readme
+- 源码仓库：git+https://github.com/Alexma03/alexma03-utcp.git
+- npm 页面：https://www.npmjs.com/package/@alexma03/utcp-direct-call
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 1.1.1
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @alexma03/utcp-direct-call`
+- npm registry：https://registry.npmjs.org/@alexma03/utcp-direct-call

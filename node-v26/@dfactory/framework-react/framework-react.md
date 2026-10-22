@@ -1,0 +1,26 @@
+# @dfactory/framework-react
+
+> 标签: dfactory, pdf, templates
+
+## 简介
+
+React framework plugin for dFactory runtime.
+
+## 官网
+
+- 官网：https://github.com/chiploopman/dfactory#readme
+- 源码仓库：git+https://github.com/chiploopman/dfactory.git
+- npm 页面：https://www.npmjs.com/package/@dfactory/framework-react
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @dfactory/framework-react`
+- npm registry：https://registry.npmjs.org/@dfactory/framework-react
+- Node 要求：>=20

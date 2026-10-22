@@ -1,0 +1,36 @@
+# @handsealed/verifier
+
+> 标签: JavaScript
+
+## 简介
+
+The Handsealed CLI: replay every verdict offline against a clone. Don't trust us — verify.
+
+## 官网
+
+- 官网：https://github.com/handsealed/handsealed#readme
+- 源码仓库：git+https://github.com/handsealed/handsealed.git
+- npm 页面：https://www.npmjs.com/package/@handsealed/verifier
+
+## 历史版本号
+
+- 当前版本：0.25.0
+
+- 0.24.2
+- 0.25.0
+- 0.3.0
+- 0.4.0
+- 0.5.0
+- 0.6.0
+- 0.7.0
+- 0.7.1
+- 0.8.0
+- 0.8.1
+- 0.9.0
+- 0.9.1
+
+## 获取地址
+
+- npm 安装：`npm install @handsealed/verifier`
+- npm registry：https://registry.npmjs.org/@handsealed/verifier
+- Node 要求：>=22

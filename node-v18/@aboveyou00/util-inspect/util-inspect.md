@@ -1,0 +1,24 @@
+# @aboveyou00/util-inspect
+
+> 标签: npm, util-inspect
+
+## 简介
+
+The package util-inspect bundled with custom typings for Typescript support
+
+## 官网
+
+- 官网：https://github.com/aboveyou00/util-inspect#readme
+- 源码仓库：git+https://github.com/aboveyou00/util-inspect.git
+- npm 页面：https://www.npmjs.com/package/@aboveyou00/util-inspect
+
+## 历史版本号
+
+- 当前版本：0.1.8
+
+- 0.1.8
+
+## 获取地址
+
+- npm 安装：`npm install @aboveyou00/util-inspect`
+- npm registry：https://registry.npmjs.org/@aboveyou00/util-inspect

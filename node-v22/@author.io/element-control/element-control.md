@@ -1,0 +1,35 @@
+# @author.io/element-control
+
+> 标签: author, chassis, component, control, custom, element, form, ngn, web
+
+## 简介
+
+author-control custom element (web component).
+
+## 官网
+
+- 官网：https://github.com/author-elements/control#readme
+- 源码仓库：git+https://github.com/author-elements/control.git
+- npm 页面：https://www.npmjs.com/package/@author.io/element-control
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.0.14
+- 1.0.15
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @author.io/element-control`
+- npm registry：https://registry.npmjs.org/@author.io/element-control

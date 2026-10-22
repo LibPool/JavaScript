@@ -1,0 +1,36 @@
+# @epoch-agent/plugin-lsp
+
+> 标签: JavaScript
+
+## 简介
+
+LSP 诊断插件 — 探测项目自带的 language server，按文件取语义诊断
+
+## 官网
+
+- 官网：https://github.com/Ddbor/epoch-agent#readme
+- 源码仓库：git+https://github.com/Ddbor/epoch-agent.git
+- npm 页面：https://www.npmjs.com/package/@epoch-agent/plugin-lsp
+
+## 历史版本号
+
+- 当前版本：2.7.0
+
+- 1.0.0
+- 1.1.0
+- 2.0.0
+- 2.0.1
+- 2.1.0
+- 2.2.0
+- 2.3.0
+- 2.4.0
+- 2.5.0
+- 2.6.0
+- 2.6.1
+- 2.7.0
+
+## 获取地址
+
+- npm 安装：`npm install @epoch-agent/plugin-lsp`
+- npm registry：https://registry.npmjs.org/@epoch-agent/plugin-lsp
+- Node 要求：>=22.0.0

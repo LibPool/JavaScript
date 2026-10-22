@@ -1,0 +1,26 @@
+# @agentprodready/knowledge
+
+> 标签: agentprodready, ai-agent, knowledge, llm, nodejs, rag, retrieval, typescript
+
+## 简介
+
+Knowledge and RAG-oriented retrieval contracts for AgentProdReady hosts (distinct from execution-derived Memory).
+
+## 官网
+
+- 官网：https://github.com/ameenmari/agentprodready#readme
+- 源码仓库：git+https://github.com/ameenmari/agentprodready.git
+- npm 页面：https://www.npmjs.com/package/@agentprodready/knowledge
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @agentprodready/knowledge`
+- npm registry：https://registry.npmjs.org/@agentprodready/knowledge

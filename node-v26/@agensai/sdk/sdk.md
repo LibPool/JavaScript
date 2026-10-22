@@ -1,0 +1,26 @@
+# @agensai/sdk
+
+> 标签: agensai, ai-agents, ens, erc-4337, erc-7528, erc-7715, jaw, smart-account, wallet
+
+## 简介
+
+ENS-native wallets for AI agents. Built on JAW.
+
+## 官网
+
+- 官网：https://agensai.xyz
+- 源码仓库：git+https://github.com/agensai/agensai.git
+- npm 页面：https://www.npmjs.com/package/@agensai/sdk
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @agensai/sdk`
+- npm registry：https://registry.npmjs.org/@agensai/sdk
+- Node 要求：>=20

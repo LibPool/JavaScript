@@ -1,0 +1,35 @@
+# @bentley/webpack-tools-core
+
+> 标签: JavaScript
+
+## 简介
+
+Set of Webpack Plugins and Loaders used for building iModel.js applications
+
+## 官网
+
+- 源码仓库：https://github.com/imodeljs/imodeljs/tree/master/tools/webpack-core
+- npm 页面：https://www.npmjs.com/package/@bentley/webpack-tools-core
+
+## 历史版本号
+
+- 当前版本：2.19.53
+
+- 2.19.52
+- 2.19.53
+- 3.0.0-dev.62
+- 3.0.0-dev.63
+- 3.0.0-dev.64
+- 3.0.0-dev.65
+- 3.0.0-dev.66
+- 3.0.0-dev.67
+- 3.0.0-dev.68
+- 3.0.0-dev.69
+- 3.0.0-dev.70
+- 3.0.0-dev.71
+- 共 503 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @bentley/webpack-tools-core`
+- npm registry：https://registry.npmjs.org/@bentley/webpack-tools-core

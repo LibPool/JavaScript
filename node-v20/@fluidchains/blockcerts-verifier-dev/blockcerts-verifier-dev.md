@@ -1,0 +1,26 @@
+# @fluidchains/blockcerts-verifier-dev
+
+> 标签: JavaScript
+
+## 简介
+
+A standalone universal viewer and verifier for blockcerts credentials
+
+## 官网
+
+- 官网：https://github.com/fluidchains/blockcerts-verifier#readme
+- 源码仓库：git+https://github.com/fluidchains/blockcerts-verifier.git
+- npm 页面：https://www.npmjs.com/package/@fluidchains/blockcerts-verifier-dev
+
+## 历史版本号
+
+- 当前版本：1.0.23
+
+- 1.0.21
+- 1.0.22
+- 1.0.23
+
+## 获取地址
+
+- npm 安装：`npm install @fluidchains/blockcerts-verifier-dev`
+- npm registry：https://registry.npmjs.org/@fluidchains/blockcerts-verifier-dev

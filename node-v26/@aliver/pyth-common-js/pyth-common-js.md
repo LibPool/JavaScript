@@ -1,0 +1,24 @@
+# @aliver/pyth-common-js
+
+> 标签: oracle, pyth
+
+## 简介
+
+Pyth Network Common Utils in JS
+
+## 官网
+
+- 官网：https://pyth.network
+- 源码仓库：https://github.com/pyth-network/pyth-js/pyth-common-js
+- npm 页面：https://www.npmjs.com/package/@aliver/pyth-common-js
+
+## 历史版本号
+
+- 当前版本：1.4.1
+
+- 1.4.1
+
+## 获取地址
+
+- npm 安装：`npm install @aliver/pyth-common-js`
+- npm registry：https://registry.npmjs.org/@aliver/pyth-common-js

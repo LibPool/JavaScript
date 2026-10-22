@@ -1,0 +1,36 @@
+# @helicone/ai-gateway
+
+> 标签: JavaScript
+
+## 简介
+
+A high-performance LLM proxy router.
+
+## 官网
+
+- 官网：https://docs.helicone.ai/ai-gateway
+- 源码仓库：git+https://github.com/Helicone/ai-gateway.git
+- npm 页面：https://www.npmjs.com/package/@helicone/ai-gateway
+
+## 历史版本号
+
+- 当前版本：0.2.0-beta.30
+
+- 0.2.0-beta.24
+- 0.2.0-beta.25
+- 0.2.0-beta.26
+- 0.2.0-beta.27
+- 0.2.0-beta.29
+- 0.2.0-beta.3
+- 0.2.0-beta.30
+- 0.2.0-beta.4
+- 0.2.0-beta.5
+- 0.2.0-beta.6
+- 0.2.0-beta.8
+- 0.2.0-beta.9
+
+## 获取地址
+
+- npm 安装：`npm install @helicone/ai-gateway`
+- npm registry：https://registry.npmjs.org/@helicone/ai-gateway
+- Node 要求：>=14

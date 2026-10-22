@@ -1,0 +1,25 @@
+# @buschtoens/ember-cli-deploy-compress
+
+> 标签: ember-addon, ember-cli-deploy-plugin
+
+## 简介
+
+Ember CLI Deploy plugin to compress files in gzip or brotli automatically depending on supported browsers
+
+## 官网
+
+- 源码仓库：https://github.com/dockyard/ember-cli-deploy-compress
+- npm 页面：https://www.npmjs.com/package/@buschtoens/ember-cli-deploy-compress
+
+## 历史版本号
+
+- 当前版本：0.3.2
+
+- 0.3.1
+- 0.3.2
+
+## 获取地址
+
+- npm 安装：`npm install @buschtoens/ember-cli-deploy-compress`
+- npm registry：https://registry.npmjs.org/@buschtoens/ember-cli-deploy-compress
+- Node 要求：8.* || >= 10.*

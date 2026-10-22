@@ -1,0 +1,24 @@
+# @a-2-c-2-anpm/amet-aliquid-asperiores
+
+> 标签: -0, 256, 3d, Array, Array.prototype.contains, Array.prototype.flat, Array.prototype.flatten, AsyncIterator, ECMAScript 2015, ECMAScript 2016, ECMAScript 2017, ECMAScript 2019, ECMAScript 2022, ECMAScript 3, ECMAScript 5, ES, ES2015, ES2020, ES2022, ES2023, ES6, ES7, ES8, ESnext, Float32Array, Float64Array, Int8Array, Iterator, JSON, Microsoft, Object, Object.assign, Object.defineProperty, Object.getPrototypeOf, Object.keys, Object.values, Observable, Promise, RFC-6455, ReactiveExtensions, ReactiveX, RegExp#flags, RegExp.prototype.flags, Rx, RxJS, Set, Stream, String.prototype.matchAll, String.prototype.trim, StyleSheet, Symbol, Symbol.toStringTag, URL, URLSearchParams, Uint16Array, Uint8Array, Uint8ClampedArray, Underscore, WeakMap, WebSocket, WebSockets, YAML, [[Prototype]], _.extend, __proto__, accessibility, agent, airbnb, ajax, ajv, ansi, api, apollo, argv, art, assertion, asserts, ast, asterisks, autoprefixer, await, awesomesauce, banner, batch, bin, bind, break, browser, browserslist, bundler, byte, byteLength, byteOffset, call, call-bind, call-bound, callback, character, check, child, chinese, chrome, chromium, circular, cjk, cli, cloudformation, cloudsearch, cloudwatch, codes, collection, color, colour, column, command, compare, computed-types, concat, concatMap, configurable, crypto, css, curl, dataView, datastructure, dataview, debugger, deep, deep-clone, deep-copy, deepclone, define, defineProperty, delete, description, descriptor, descriptors, deterministic, diff, dir, directory, dotenv, dynamodb, east-asian-width, ecmascript, elasticache, electron, emoji, emr, endpoint, entries, environment, environments, equal, equality, es2015, es2016, es2017, es5, es7, es8, escape, eslint, eslintconfig, espree, estree, eventDispatcher, eventEmitter, events, every, execfile, execute, expression, extension, extra, fast, fast-clone, fast-copy, fast-deep-clone, fastclone, fastcopy, fastify, feed, figlet, file system, filter, find, find-up, findLast, findup, flag, flat, fork, form-validation, forms, fps, from, fs, fullwidth, functional, get, getOwnPropertyDescriptor, getintrinsic, getter, gitignore, glacier, glob, groupBy, guid, has, has-own, hasOwn, hasOwnProperty, hash, helpers, higher-order, hooks, html, http, id, identifiers, idle, ie, immer, input, install, invariant, io-ts, is, isConcatSpreadable, iterate, iteration, iterator, jQuery, japanese, js, jsdom, jshint, jsx, karma, korean, language, last, libphonenumber, limit, link, listeners, loadbalancing, loading, local, location, lockfile, log, logging, look, look-up, make, make dir, map, mapreduce, matchAll, matches, merge, mime, mimetypes, minimal, mkdir, modules, moment, monorepo, move, multi-package, name, native, negative, negative zero, nodejs, nope, object, offset, omit, once, output, package, package manager, packages, parent, parents, parse, parser, parsing, path, performant, persistent, phone, pnpm9, ponyfill, popmotion, pose, positive, postcss, prefix, pretty, private, process, progress, promise, promises, properties, proto, protobuf, prototype, prune, pyyaml, qs, querystring, queueMicrotask, quote, rapid, rate, react, react animation, react pose, read, real-time, recursive, redact, redirect, reducer, redux, regex, regular expression, regular expressions, regular-expression, reuse, rework, rfc4122, rm, rm -fr, rmdir, robust, route, route53, routing, runtime, safe, sameValueZero, scheme, serialization, serialize, serializer, ses, set, setImmediate, setter, settings, shell, side, slice, slot, sns, some, sort, spawn, spinner, spinners, spring, stable, starter, stream, streams, streams2, string, stringifier, stringify, structuredClone, styled-components, styleguide, subprocess, superstruct, symbols, symlink, take, tape, tc39, telephone, terminal, test, tester, testing, three, throat, toArray, toStringTag, toobject, toolkit, tostringtag, transpiler, trim, trimLeft, trimRight, trimStart, ts, tslib, typanion, typed, typed array, typedarray, typedarrays, typeerror, typeof, types, typescript, unicode, uninstall, up, url, util.inspect, utilities, utility, valid, validate, validation, value, values, variables, vars, view, visual, vpc, waf, walk, walking, warning, weakmap, weakset, wget, whatwg, wordbreak, workflow, write, zero, zod, zx
+
+## 简介
+
+<img align="right" width="94" height="71"      src="https://postcss.github.io/@a-2-c-2-anpm/amet-aliquid-asperiores/logo.svg"      title="Autoprefixer logo by Anton Lovchikov">
+
+## 官网
+
+- 官网：https://github.com/a-2-c-2-anpm/amet-aliquid-asperiores/#readme
+- 源码仓库：git+https://github.com/a-2-c-2-anpm/amet-aliquid-asperiores.git
+- npm 页面：https://www.npmjs.com/package/@a-2-c-2-anpm/amet-aliquid-asperiores
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @a-2-c-2-anpm/amet-aliquid-asperiores`
+- npm registry：https://registry.npmjs.org/@a-2-c-2-anpm/amet-aliquid-asperiores

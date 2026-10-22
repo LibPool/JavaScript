@@ -1,0 +1,22 @@
+# @heartlandone/vega-sandbox-pr-3304-ad31e61abcc34b3f6dbbfcce2fb6d138a9d3ea33
+
+> 标签: JavaScript
+
+## 简介
+
+Vega - the design system of Global Payment Systems
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@heartlandone/vega-sandbox-pr-3304-ad31e61abcc34b3f6dbbfcce2fb6d138a9d3ea33
+
+## 历史版本号
+
+- 当前版本：2.100.0
+
+- 2.100.0
+
+## 获取地址
+
+- npm 安装：`npm install @heartlandone/vega-sandbox-pr-3304-ad31e61abcc34b3f6dbbfcce2fb6d138a9d3ea33`
+- npm registry：https://registry.npmjs.org/@heartlandone/vega-sandbox-pr-3304-ad31e61abcc34b3f6dbbfcce2fb6d138a9d3ea33

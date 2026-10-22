@@ -1,0 +1,26 @@
+# @beincom/markdown-draft-js
+
+> 标签: JavaScript
+
+## 简介
+
+Convert draftjs blocks to markdown using the marked library, and vice versa.
+
+## 官网
+
+- 官网：https://github.com/Rosey/markdown-draft-js#readme
+- 源码仓库：git+https://github.com/Rosey/markdown-draft-js.git
+- npm 页面：https://www.npmjs.com/package/@beincom/markdown-draft-js
+
+## 历史版本号
+
+- 当前版本：2.4.6
+
+- 2.4.5
+- 2.4.6
+
+## 获取地址
+
+- npm 安装：`npm install @beincom/markdown-draft-js`
+- npm registry：https://registry.npmjs.org/@beincom/markdown-draft-js
+- Node 要求：>=10.13.0

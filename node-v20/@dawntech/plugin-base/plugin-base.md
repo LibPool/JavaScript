@@ -1,0 +1,25 @@
+# @dawntech/plugin-base
+
+> 标签: JavaScript
+
+## 简介
+
+Basic structure and resources for plugins.
+
+## 官网
+
+- 官网：https://github.com/dawntech/plugin-base#readme
+- 源码仓库：git+https://github.com/dawntech/plugin-base.git
+- npm 页面：https://www.npmjs.com/package/@dawntech/plugin-base
+
+## 历史版本号
+
+- 当前版本：1.0.14
+
+- 1.0.11
+- 1.0.14
+
+## 获取地址
+
+- npm 安装：`npm install @dawntech/plugin-base`
+- npm registry：https://registry.npmjs.org/@dawntech/plugin-base

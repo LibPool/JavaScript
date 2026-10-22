@@ -1,0 +1,26 @@
+# @goflag/og
+
+> 标签: app-router, favicon, i18n, ico, metadata, nextjs, og-image, opengraph, satori, seo
+
+## 简介
+
+Share cards and favicons for a multilingual site: a token-driven card template with no renderer in it, and the ICO container Next has no convention for.
+
+## 官网
+
+- 官网：https://github.com/tancredesimonin/goflag#readme
+- 源码仓库：git+https://github.com/tancredesimonin/goflag.git
+- npm 页面：https://www.npmjs.com/package/@goflag/og
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.0
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @goflag/og`
+- npm registry：https://registry.npmjs.org/@goflag/og
+- Node 要求：>=22

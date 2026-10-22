@@ -1,0 +1,24 @@
+# @agentix/plugin-solana-sns
+
+> 标签: agentix, defi, perpetuals, plugin, sns, solana
+
+## 简介
+
+@agentix/plugin-solana-sns - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/agentix-sdk/agentix/tree/main/packages/plugins/solana-sns
+- 源码仓库：git+https://github.com/agentix-sdk/agentix.git
+- npm 页面：https://www.npmjs.com/package/@agentix/plugin-solana-sns
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @agentix/plugin-solana-sns`
+- npm registry：https://registry.npmjs.org/@agentix/plugin-solana-sns

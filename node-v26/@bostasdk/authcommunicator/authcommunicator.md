@@ -1,0 +1,24 @@
+# @bostasdk/authcommunicator
+
+> 标签: JavaScript
+
+## 简介
+
+@bostasdk/authcommunicator - JavaScript library from npm
+
+## 官网
+
+- 官网：https://gitlab.com/bosta/communicator-package#readme
+- 源码仓库：git+ssh://git@gitlab.com/bosta/communicator-package.git
+- npm 页面：https://www.npmjs.com/package/@bostasdk/authcommunicator
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @bostasdk/authcommunicator`
+- npm registry：https://registry.npmjs.org/@bostasdk/authcommunicator

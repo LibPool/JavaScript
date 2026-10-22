@@ -1,0 +1,27 @@
+# @elijahjcobb/mongo
+
+> 标签: create, delete, mongodb, props, query, react, typescript, update
+
+## 简介
+
+A package to handle a connection with a MongoDB that is type safe using components similar to React.
+
+## 官网
+
+- 官网：https://github.com/elijahjcobb/mongo#readme
+- 源码仓库：git+https://github.com/elijahjcobb/mongo.git
+- npm 页面：https://www.npmjs.com/package/@elijahjcobb/mongo
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @elijahjcobb/mongo`
+- npm registry：https://registry.npmjs.org/@elijahjcobb/mongo

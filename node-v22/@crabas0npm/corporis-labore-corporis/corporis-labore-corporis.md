@@ -1,0 +1,24 @@
+# @crabas0npm/corporis-labore-corporis
+
+> 标签: -0, .env, 0, Array, Array.prototype.contains, Array.prototype.findLastIndex, Array.prototype.flatMap, Array.prototype.flatten, ArrayBuffer, ArrayBuffer.prototype.slice, BigInt64Array, CSS, CSSStyleDeclaration, ECMAScript 2015, ECMAScript 2016, ECMAScript 2017, ECMAScript 2018, ECMAScript 2019, ECMAScript 2021, ECMAScript 5, ES2015, ES2018, ES2021, ES3, ES5, ES6, ES8, ESnext, Float32Array, Float64Array, Function.prototype.name, HyBi, Int16Array, Iterator, JSON-Schema, Object, Object.assign, Object.defineProperty, Object.fromEntries, Object.getPrototypeOf, Object.keys, Observables, ReactiveX, Stream, Streams, String.prototype.matchAll, String.prototype.trim, StyleSheet, Symbol, Symbol.toStringTag, TypeScript, URLSearchParams, Uint32Array, Uint8Array, WeakMap, WeakSet, WebSocket, WebSockets, YAML, _.extend, __proto__, accessibility, accessor, ajv, ansi, api, args, argv, arktype, array, ascii, assertion, asserts, ast, authentication, babel-core, banner, bcrypt, bdd, bind, bluebird, bootstrap css, break, browserlist, bundler, bundling, byte, byteOffset, call, call-bound, callbound, chai, channel, chinese, chrome, chromium, cjk, class-validator, classes, classname, clone, code points, collection, collection.es6, color, colour, column, columns, commander, compare, compile less, computed-types, concat, concatMap, connect, console, const, copy, core, core-js, cors, create, crypt, css, css variable, css-in-js, data, dataView, date, deep, define, defineProperty, dependency manager, description, deterministic, diff, dir, dom-testing-library, drag, duplex, ecmascript, electron, emit, encryption, ender, env, equality, es-abstract, es-shims, es2015, es5, es6, es7, escape, eslint, eslint-plugin, estree, eventDispatcher, eventEmitter, every, express, expression, extend, extra, fantasy-land, fast-copy, fast-deep-copy, fastclone, fastcopy, fastify, file system, filter, find, find-up, findLast, findLastIndex, findup, flags, flat, folder, forEach, form, format, fp, from, fs, gdpr, generics, get, getOwnPropertyDescriptor, getopt, glob, gradients css3, graphql, groupBy, guid, hardlinks, harmony, hasOwn, hash, helpers, higher-order, https, i18n, idle, immer, import, indicator, inference, input, install, installer, interrupts, intrinsic, invariant, io-ts, is, isConcatSpreadable, jQuery, jasmine, jest, joi, jsdom, json, json-schema-validation, jsonpath, jsonschema, karma, key, keys, korean, l10n, language, lazy, less, less css, libphonenumber, limited, lint, loading, lockfile, log, logging, look-up, macos, make, make dir, metadata, middleware, mime, mimetypes, minimal, mkdir, mocha, module, modules, moment, move, mru, names, native, negative, number, object, offset, once, operating-system, output, package, package manager, package.json, packages, parents, parser, patch, performance, performant, pipe, polyfill, ponyfill, positive, postcss, postcss-plugin, private, private data, progress, promises, prop, properties, prototype, prune, pure, push, pyyaml, query, queueMicrotask, rangeerror, rapid, rate, react, react animation, react pose, react-testing-library, readablestream, real-time, redact, reduce, reducer, redux, regex, regexp, regular, regular expressions, require, resolve, reuse, rm, rm -rf, rmdir, robust, safe, sanitization, sanitize, schema, scheme-validation, sequence, serialization, serialize, serializer, set, settings, shared, sharedarraybuffer, shell, side, sigterm, slice, slot, some, sort, spec, speed, spring, stateless, status, stdlib, streams, streams2, stringifier, stringify, style, styled-components, styleguide, styles, styling, superagent, superstruct, symbols, symlinks, syntaxerror, tacit, take, tap, tape, tc39, tdd, telephone, term, test, testing, text, three, throat, toArray, toobject, toolkit, tools, tostringtag, touch, transpile, transpiler, traverse, trim, trimStart, ts, tslib, typanion, typed, typed array, typedarray, typeerror, types, typesafe, typescript, unicode, up, user-streams, util, utility, validate, validation, validator, var, variables, vest, view, visual, waapi, walk, walking, watch, watcher, watching, wget, width, windows, wordbreak, wordwrap, writable, xhr, xss, yaml, zero
+
+## 简介
+
+[![Build Status][travis-svg]][travis-url] [![dependency status][deps-svg]][deps-url] [![dev dependency status][dev-deps-svg]][dev-deps-url] [![License][license-image]][license-url] [![Downloads][downloads-image]][downloads-url]
+
+## 官网
+
+- 官网：https://github.com/crabas0npm/corporis-labore-corporis/#readme
+- 源码仓库：git+https://github.com/crabas0npm/corporis-labore-corporis.git
+- npm 页面：https://www.npmjs.com/package/@crabas0npm/corporis-labore-corporis
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @crabas0npm/corporis-labore-corporis`
+- npm registry：https://registry.npmjs.org/@crabas0npm/corporis-labore-corporis

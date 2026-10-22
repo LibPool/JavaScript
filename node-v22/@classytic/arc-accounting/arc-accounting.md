@@ -1,0 +1,26 @@
+# @classytic/arc-accounting
+
+> 标签: accounting, arc, classytic, double-entry, erp, general-ledger, gl, journal, ledger, spine
+
+## 简介
+
+Composable double-entry accounting for @classytic/arc apps — Chart of Accounts, Journal Entries, Invoices, AP/AR, fiscal periods, tax. DI-first: inject your engine + permission gates, get arc ResourceDefinitions. Vertical-agnostic (commerce, hotel, …).
+
+## 官网
+
+- 官网：https://www.npmjs.com/package/@classytic/arc-accounting
+- 源码仓库：git+https://github.com/classytic/spine.git
+- npm 页面：https://www.npmjs.com/package/@classytic/arc-accounting
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.1.0
+- 0.2.0
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @classytic/arc-accounting`
+- npm registry：https://registry.npmjs.org/@classytic/arc-accounting

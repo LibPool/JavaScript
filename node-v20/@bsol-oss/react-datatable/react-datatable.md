@@ -1,0 +1,36 @@
+# @bsol-oss/react-datatable
+
+> 标签: @chakra-ui/react, react, react-icons, react-table
+
+## 简介
+
+A library for react data table.
+
+## 官网
+
+- 官网：https://github.com/bsol-oss/react-datatable#react-datatable
+- 源码仓库：git+https://github.com/bsol-oss/react-datatable.git
+- npm 页面：https://www.npmjs.com/package/@bsol-oss/react-datatable
+
+## 历史版本号
+
+- 当前版本：0.0.94
+
+- 0.0.83
+- 0.0.84
+- 0.0.85
+- 0.0.86
+- 0.0.87
+- 0.0.88
+- 0.0.89
+- 0.0.90
+- 0.0.91
+- 0.0.92
+- 0.0.93
+- 0.0.94
+- 共 92 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @bsol-oss/react-datatable`
+- npm registry：https://registry.npmjs.org/@bsol-oss/react-datatable

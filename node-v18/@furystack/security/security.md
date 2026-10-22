@@ -1,0 +1,37 @@
+# @furystack/security
+
+> 标签: FuryStack, authentication, authorization, hashing, password, security
+
+## 简介
+
+Security, password management and authorization related stuff for FuryStack
+
+## 官网
+
+- 官网：https://github.com/furystack/furystack
+- 源码仓库：https://github.com/furystack/furystack.git
+- npm 页面：https://www.npmjs.com/package/@furystack/security
+
+## 历史版本号
+
+- 当前版本：8.0.4
+
+- 7.0.3
+- 7.0.4
+- 7.0.5
+- 7.0.6
+- 7.0.7
+- 7.0.8
+- 7.0.9
+- 8.0.0
+- 8.0.1
+- 8.0.2
+- 8.0.3
+- 8.0.4
+- 共 114 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @furystack/security`
+- npm registry：https://registry.npmjs.org/@furystack/security
+- Node 要求：>=24.0.0

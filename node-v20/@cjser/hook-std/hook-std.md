@@ -1,0 +1,24 @@
+# @cjser/hook-std
+
+> 标签: assert, capture, change, check, console, hook, intercept, log, modify, process, std, stderr, stdio, stdout, test
+
+## 简介
+
+Hook and modify stdout and stderr
+
+## 官网
+
+- 源码仓库：https://code.moenext.com/3rdeye/cjser.git
+- npm 页面：https://www.npmjs.com/package/@cjser/hook-std
+
+## 历史版本号
+
+- 当前版本：4.0.0-cjser.2
+
+- 4.0.0-cjser.2
+
+## 获取地址
+
+- npm 安装：`npm install @cjser/hook-std`
+- npm registry：https://registry.npmjs.org/@cjser/hook-std
+- Node 要求：>=20

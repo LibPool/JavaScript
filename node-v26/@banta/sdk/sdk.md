@@ -1,0 +1,34 @@
+# @banta/sdk
+
+> 标签: JavaScript
+
+## 简介
+
+This is the Banta client-side SDK for Angular apps.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@banta/sdk
+
+## 历史版本号
+
+- 当前版本：8.0.1
+
+- 5.8.5
+- 5.9.0
+- 5.9.1
+- 6.0.0
+- 6.0.1
+- 6.0.2
+- 6.0.3
+- 7.0.0
+- 7.0.1
+- 7.0.2
+- 8.0.0
+- 8.0.1
+- 共 182 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @banta/sdk`
+- npm registry：https://registry.npmjs.org/@banta/sdk

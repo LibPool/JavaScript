@@ -1,0 +1,34 @@
+# @algorandfoundation/algokit-utils-debug
+
+> 标签: JavaScript
+
+## 简介
+
+A set of addon utilities for generating artifacts for use with AlgoKit AVM Debugger VSCode extension.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@algorandfoundation/algokit-utils-debug
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.4
+- 1.0.4-beta.1
+- 1.0.5-beta.1
+- 1.0.5-beta.2
+- 1.0.5-beta.3
+- 1.0.5-beta.4
+- 1.0.5-beta.5
+- 2.0.0-alpha.1
+- 2.0.0-alpha.2
+- 2.0.0-beta.1
+- 2.0.0-beta.2
+- 2.0.0-beta.3
+
+## 获取地址
+
+- npm 安装：`npm install @algorandfoundation/algokit-utils-debug`
+- npm registry：https://registry.npmjs.org/@algorandfoundation/algokit-utils-debug
+- Node 要求：>=18.0

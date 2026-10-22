@@ -1,0 +1,27 @@
+# @heddle-run/server
+
+> 标签: agent, agent-spec, agentic, ai, http, llm, sse, workflow
+
+## 简介
+
+HTTP API for the heddle Agent Spec execution engine
+
+## 官网
+
+- 官网：https://github.com/heddle-run/heddle
+- 源码仓库：git+https://github.com/heddle-run/heddle.git
+- npm 页面：https://www.npmjs.com/package/@heddle-run/server
+
+## 历史版本号
+
+- 当前版本：0.1.0-beta9
+
+- 0.1.0-beta7
+- 0.1.0-beta8
+- 0.1.0-beta9
+
+## 获取地址
+
+- npm 安装：`npm install @heddle-run/server`
+- npm registry：https://registry.npmjs.org/@heddle-run/server
+- Node 要求：>=20

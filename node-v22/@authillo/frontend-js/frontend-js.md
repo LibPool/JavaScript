@@ -1,0 +1,33 @@
+# @authillo/frontend-js
+
+> 标签: authillo
+
+## 简介
+
+Frontend package to help accelerate authillo integration for javascript (or typescript) based frontends
+
+## 官网
+
+- 官网：https://github.com/Authillo/frontend-js#readme
+- 源码仓库：git+https://github.com/Authillo/frontend-js.git
+- npm 页面：https://www.npmjs.com/package/@authillo/frontend-js
+
+## 历史版本号
+
+- 当前版本：0.0.11
+
+- 0.0.1
+- 0.0.10
+- 0.0.11
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+
+## 获取地址
+
+- npm 安装：`npm install @authillo/frontend-js`
+- npm registry：https://registry.npmjs.org/@authillo/frontend-js

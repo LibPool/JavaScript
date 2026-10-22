@@ -1,0 +1,32 @@
+# @bfehub/vuepress-plugin-code-block
+
+> 标签: code-block, plugin, vuepress, vuepress-plugin
+
+## 简介
+
+VuePress plugin - code-block
+
+## 官网
+
+- 官网：https://github.com/bfehub/vmi
+- npm 页面：https://www.npmjs.com/package/@bfehub/vuepress-plugin-code-block
+
+## 历史版本号
+
+- 当前版本：1.60.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.1.0
+- 1.60.0
+- 1.60.1
+- 1.60.2
+- 1.60.3
+
+## 获取地址
+
+- npm 安装：`npm install @bfehub/vuepress-plugin-code-block`
+- npm registry：https://registry.npmjs.org/@bfehub/vuepress-plugin-code-block

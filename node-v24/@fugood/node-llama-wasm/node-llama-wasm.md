@@ -1,0 +1,35 @@
+# @fugood/node-llama-wasm
+
+> 标签: Local LLM, ai, genai, llama, llama.cpp, llm, wasm, webgpu
+
+## 简介
+
+WebAssembly package for llama.node browser inference
+
+## 官网
+
+- 官网：https://github.com/mybigday/llama.node#readme
+- 源码仓库：git+https://github.com/mybigday/llama.node.git
+- npm 页面：https://www.npmjs.com/package/@fugood/node-llama-wasm
+
+## 历史版本号
+
+- 当前版本：1.7.15
+
+- 1.7.9
+- 1.8.0-rc.0
+- 1.8.0-rc.1
+- 1.8.0-rc.10
+- 1.8.0-rc.2
+- 1.8.0-rc.3
+- 1.8.0-rc.4
+- 1.8.0-rc.5
+- 1.8.0-rc.6
+- 1.8.0-rc.7
+- 1.8.0-rc.8
+- 1.8.0-rc.9
+
+## 获取地址
+
+- npm 安装：`npm install @fugood/node-llama-wasm`
+- npm registry：https://registry.npmjs.org/@fugood/node-llama-wasm

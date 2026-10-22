@@ -1,0 +1,27 @@
+# @cesium-vueuse/serialize
+
+> 标签: JavaScript
+
+## 简介
+
+@cesium-vueuse/serialize - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/GeoVueJS/cesium-vueuse#readme
+- 源码仓库：git+https://github.com/GeoVueJS/cesium-vueuse.git
+- npm 页面：https://www.npmjs.com/package/@cesium-vueuse/serialize
+
+## 历史版本号
+
+- 当前版本：1.0.1-beta.24
+
+- 1.0.1-beta.21
+- 1.0.1-beta.22
+- 1.0.1-beta.23
+- 1.0.1-beta.24
+
+## 获取地址
+
+- npm 安装：`npm install @cesium-vueuse/serialize`
+- npm registry：https://registry.npmjs.org/@cesium-vueuse/serialize

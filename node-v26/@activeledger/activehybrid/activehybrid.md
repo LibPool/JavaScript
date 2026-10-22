@@ -1,0 +1,37 @@
+# @activeledger/activehybrid
+
+> 标签: activeledger, blockchain, distributed ledger technology, dlt, hybrid, ledger, network, smart contracts
+
+## 简介
+
+Activeledger Hybrid Connect, Maintain every permissioned chain yourself
+
+## 官网
+
+- 官网：https://github.com/activeledger/activeledger
+- 源码仓库：git+https://github.com/activeledger/activeledger.git
+- npm 页面：https://www.npmjs.com/package/@activeledger/activehybrid
+
+## 历史版本号
+
+- 当前版本：5.0.1
+
+- 4.5.6
+- 4.5.7
+- 4.5.8
+- 4.5.9
+- 4.6.0
+- 4.7.0
+- 4.7.1
+- 4.8.0
+- 4.8.1
+- 4.9.0
+- 5.0.0
+- 5.0.1
+- 共 97 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @activeledger/activehybrid`
+- npm registry：https://registry.npmjs.org/@activeledger/activehybrid
+- Node 要求：>=24.0.0

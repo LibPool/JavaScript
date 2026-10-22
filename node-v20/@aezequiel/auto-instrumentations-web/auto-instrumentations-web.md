@@ -1,0 +1,26 @@
+# @aezequiel/auto-instrumentations-web
+
+> 标签: JavaScript
+
+## 简介
+
+Metapackage which bundles opentelemetry node core and contrib instrumentations
+
+## 官网
+
+- 官网：https://github.com/open-telemetry/opentelemetry-js-contrib/tree/main/packages/auto-instrumentations-web#readme
+- 源码仓库：git+https://github.com/open-telemetry/opentelemetry-js-contrib.git
+- npm 页面：https://www.npmjs.com/package/@aezequiel/auto-instrumentations-web
+
+## 历史版本号
+
+- 当前版本：0.51.4
+
+- 0.51.3
+- 0.51.4
+
+## 获取地址
+
+- npm 安装：`npm install @aezequiel/auto-instrumentations-web`
+- npm registry：https://registry.npmjs.org/@aezequiel/auto-instrumentations-web
+- Node 要求：^18.19.0 || >=20.6.0

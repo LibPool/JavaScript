@@ -1,0 +1,26 @@
+# @ayoubbourhfella/easystack
+
+> 标签: bootstrap, cli, css-frameworks, project-setup, react, react-router, redux, scaffolding, tailwindcss
+
+## 简介
+
+A CLI tool to bootstrap React projects with Redux and React Router. And preferable Css Frameworks.
+
+## 官网
+
+- 官网：https://github.com/AyoubBourhfella/easystack#readme
+- 源码仓库：git+https://github.com/AyoubBourhfella/easystack.git
+- npm 页面：https://www.npmjs.com/package/@ayoubbourhfella/easystack
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @ayoubbourhfella/easystack`
+- npm registry：https://registry.npmjs.org/@ayoubbourhfella/easystack
+- Node 要求：>=16.0.0

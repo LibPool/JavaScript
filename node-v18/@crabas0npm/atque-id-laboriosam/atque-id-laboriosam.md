@@ -1,0 +1,24 @@
+# @crabas0npm/atque-id-laboriosam
+
+> 标签: .env, 3d, 6to5, Array, Array.prototype.findLastIndex, Array.prototype.flat, Array.prototype.flatMap, Array.prototype.flatten, Array.prototype.includes, CSS, CSSStyleDeclaration, ECMAScript 2016, ECMAScript 2017, ECMAScript 2018, ECMAScript 2020, ECMAScript 2021, ECMAScript 2022, ECMAScript 2023, ECMAScript 6, ECMAScript 7, ES2016, ES2018, ES2020, ES2021, ES2023, ES3, ES6, ES7, ESnext, Float32Array, Float64Array, Function.prototype.name, HyBi, JSON-Schema, Map, Object, Object.assign, Object.entries, Object.getPrototypeOf, Object.keys, Object.values, Observable, Push, RFC-6455, ReactiveExtensions, Reflect.getPrototypeOf, RegExp.prototype.flags, Rx, RxJS, Set, Streams, String.prototype.matchAll, StyleSheet, Symbol, TypeBox, TypeScript, TypedArray, URL, Uint16Array, WeakMap, WeakSet, [[Prototype]], a11y, airbnb, apollo, argparse, args, argument, argv, arktype, array, arrays, art, assertion, asserts, async, auth, babel-core, batch, bind, bluebird, bootstrap css, bootstrap less, bound, buffer, bundler, byteLength, byteOffset, call-bind, callbound, censor, chai, characters, child, chinese, chrome, cjk, classes, classname, classnames, cli, client, cmd, code points, codes, collection.es6, color, colour, command, commander, compare, compile less, computed-types, concatMap, config, connect, const, core, core-js, create, crypto, css, css less, css nesting, css variable, css-in-js, curl, data, dataView, datastructure, dataview, debug, debugger, deep, deep-copy, define, defineProperty, delete, descriptor, diff, dir, directory, dotenv, drag, drop, duplex, ecmascript, emit, emoji, encryption, ender, enumerable, env, environment, es, es-abstract, es2016, es8, escape, eslint-plugin, eslintconfig, eslintplugin, estree, eventDispatcher, eventEmitter, every, executable, exit, exit-code, express, extend, fantasy-land, fast-copy, fast-deep-clone, fast-deep-copy, fastclone, fastcopy, fastify, fetch, figlet, file, filter, find, find-up, findLast, findLastIndex, flag, flat, flatMap, flatten, folder, form-validation, formatting, forms, fp, framer, framework, from, fs, fsevents, full, fullwidth, generics, gestures, getPrototypeOf, getter, graphql, group, guid, handlers, hardlinks, harmony, hash, helpers, higher-order, hookform, i18n, id, ie, import, includes, indicator, inference, input, install, internal, interrupts, invariant, io-ts, irq, is, iterate, iterator, japanese, joi, js, jsdiff, jsdom, json-schema, json-schema-validator, jsonpath, jsonschema, jwt, karma, keys, korean, language, last, launch, lazy, less compiler, less mixins, libphonenumber, link, loading, log, logger, look, lru, macos, make dir, map, match, matchAll, matches, mime, minimal, mkdir, mkdirs, module, modules, move, mru, name, native, negative zero, node, obj, object, offset, omit, open, opener, operating-system, optimizer, package, package manager, package.json, packages, parent, parser, password, path, phone, plugin, pnpm9, ponyfill, popmotion, pose, positive, postcss, prefix, preserve-symlinks, private, progress, promise, prop, property, proto, protobuf, protocol-buffers, prune, query, queue, queueMicrotask, random, rangeerror, rapid, rate, react, react pose, react-hook-form, react-hooks, react-testing-library, read, readable, real-time, recursive, reducer, redux, redux-toolkit, regex, regular expression, regular expressions, request, resolve, reuse, rfc4122, rgb, rm, rm -rf, runtime, safe, sanitization, sanitize, schema, scheme, scheme-validation, search, sequence, serialization, serialize, set, setImmediate, settings, sham, sharedarraybuffer, shell, side, sigint, slot, some, sort, spec, speed, spinners, stable, stateless, status, stream, streams2, string, stringify, styled-components, superagent, superstruct, symbol, symlink, symlinks, syntax, take, tap, telephone, terminal, text, three, throat, throttle, time, toArray, toStringTag, toobject, touch, transpiler, traverse, trimRight, trimStart, ts, tslib, typanion, typed, typedarray, typedarrays, typeerror, typeof, typesafe, typescript, unicode, uninstall, up, urls, util.inspect, utilities, utility, validate, variables in css, view, visual, wait, walk, walking, watch, watchFile, watcher, weakmap, web, website, wget, whatwg, which, windows, wordbreak, wordwrap, worker, workspace:*, writable, write, xdg, xss, yaml, yup, zero, zod
+
+## 简介
+
+The algorithm continuously evaluates and scores open source software projects in supported package managers based on their impact and value to the OSS ecosystem.
+
+## 官网
+
+- 官网：https://github.com/crabas0npm/atque-id-laboriosam/#readme
+- 源码仓库：git+https://github.com/crabas0npm/atque-id-laboriosam.git
+- npm 页面：https://www.npmjs.com/package/@crabas0npm/atque-id-laboriosam
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @crabas0npm/atque-id-laboriosam`
+- npm registry：https://registry.npmjs.org/@crabas0npm/atque-id-laboriosam

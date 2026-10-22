@@ -1,0 +1,24 @@
+# @cjser/restore-cursor__v4_0_0
+
+> 标签: ansi, cli, command-line, console, cursor, exit, graceful, kill, process, quit, shell, show, shutdown, sigint, sigterm, stop, term, terminal, terminate, tty
+
+## 简介
+
+Gracefully restore the CLI cursor on exit
+
+## 官网
+
+- 源码仓库：https://code.moenext.com/3rdeye/cjser.git
+- npm 页面：https://www.npmjs.com/package/@cjser/restore-cursor__v4_0_0
+
+## 历史版本号
+
+- 当前版本：4.0.0-cjser.2
+
+- 4.0.0-cjser.2
+
+## 获取地址
+
+- npm 安装：`npm install @cjser/restore-cursor__v4_0_0`
+- npm registry：https://registry.npmjs.org/@cjser/restore-cursor__v4_0_0
+- Node 要求：^12.20.0 || ^14.13.1 || >=16.0.0

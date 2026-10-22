@@ -1,0 +1,29 @@
+# @audio/spatial-midside
+
+> 标签: audio, dsp, midside, spatial
+
+## 简介
+
+Mid/side encode-decode — L/R ↔ M/S matrix with width control
+
+## 官网
+
+- 官网：https://github.com/audiojs/spatial#readme
+- 源码仓库：git+https://github.com/audiojs/spatial.git
+- npm 页面：https://www.npmjs.com/package/@audio/spatial-midside
+
+## 历史版本号
+
+- 当前版本：1.1.3
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+
+## 获取地址
+
+- npm 安装：`npm install @audio/spatial-midside`
+- npm registry：https://registry.npmjs.org/@audio/spatial-midside
+- Node 要求：>=18

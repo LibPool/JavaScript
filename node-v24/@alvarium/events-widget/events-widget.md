@@ -1,0 +1,33 @@
+# @alvarium/events-widget
+
+> 标签: JavaScript
+
+## 简介
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@alvarium/events-widget
+
+## 历史版本号
+
+- 当前版本：0.2.33
+
+- 0.2.29
+- 0.2.3
+- 0.2.30
+- 0.2.31
+- 0.2.32
+- 0.2.33
+- 0.2.4
+- 0.2.5
+- 0.2.6
+- 0.2.7
+- 0.2.8
+- 0.2.9
+
+## 获取地址
+
+- npm 安装：`npm install @alvarium/events-widget`
+- npm registry：https://registry.npmjs.org/@alvarium/events-widget

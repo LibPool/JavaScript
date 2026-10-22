@@ -1,0 +1,24 @@
+# @duo121/ui-error-snapshot-hook-browser
+
+> 标签: JavaScript
+
+## 简介
+
+Browser / Electron renderer hooks for ui-error-snapshot
+
+## 官网
+
+- 官网：https://github.com/duo121/ui-error-snapshot#readme
+- 源码仓库：git+https://github.com/duo121/ui-error-snapshot.git
+- npm 页面：https://www.npmjs.com/package/@duo121/ui-error-snapshot-hook-browser
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @duo121/ui-error-snapshot-hook-browser`
+- npm registry：https://registry.npmjs.org/@duo121/ui-error-snapshot-hook-browser

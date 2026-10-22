@@ -1,0 +1,30 @@
+# @devswoop/hermes
+
+> 标签: JavaScript
+
+## 简介
+
+API route manager for the browser
+
+## 官网
+
+- 官网：https://github.com/devSwoop/Hermes#readme
+- 源码仓库：git+https://github.com/devSwoop/Hermes.git
+- npm 页面：https://www.npmjs.com/package/@devswoop/hermes
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.1.0
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @devswoop/hermes`
+- npm registry：https://registry.npmjs.org/@devswoop/hermes

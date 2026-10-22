@@ -1,0 +1,30 @@
+# @armantang/zoom-img
+
+> 标签: js, zoom in/out image
+
+## 简介
+
+Zoom in/out image in web
+
+## 官网
+
+- 官网：https://github.com/Arman19941113/zoom-img#readme
+- 源码仓库：git+https://github.com/Arman19941113/zoom-img.git
+- npm 页面：https://www.npmjs.com/package/@armantang/zoom-img
+
+## 历史版本号
+
+- 当前版本：1.0.6
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+
+## 获取地址
+
+- npm 安装：`npm install @armantang/zoom-img`
+- npm registry：https://registry.npmjs.org/@armantang/zoom-img

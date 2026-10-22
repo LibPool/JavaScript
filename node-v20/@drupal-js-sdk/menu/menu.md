@@ -1,0 +1,35 @@
+# @drupal-js-sdk/menu
+
+> 标签: Drupal, javascript, sdk
+
+## 简介
+
+Drupal JavaScript SDK : Menu
+
+## 官网
+
+- 官网：https://github.com/d34dman/drupal-js-sdk/tree/main/packages/core#readme
+- 源码仓库：git+https://github.com/d34dman/drupal-js-sdk.git
+- npm 页面：https://www.npmjs.com/package/@drupal-js-sdk/menu
+
+## 历史版本号
+
+- 当前版本：0.5.3
+
+- 0.3.12
+- 0.3.13
+- 0.3.14
+- 0.3.15
+- 0.3.16
+- 0.4.0
+- 0.4.1
+- 0.4.2
+- 0.5.0
+- 0.5.1
+- 0.5.2
+- 0.5.3
+
+## 获取地址
+
+- npm 安装：`npm install @drupal-js-sdk/menu`
+- npm registry：https://registry.npmjs.org/@drupal-js-sdk/menu

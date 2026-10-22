@@ -1,0 +1,25 @@
+# @fluidui-org/snippet
+
+> 标签: snippet
+
+## 简介
+
+Display a snippet of copyable code for the command line.
+
+## 官网
+
+- 官网：https://fluidui.com
+- 源码仓库：git+https://github.com/fluidui-inc/fluidui.git
+- npm 页面：https://www.npmjs.com/package/@fluidui-org/snippet
+
+## 历史版本号
+
+- 当前版本：2.2.17
+
+- 2.2.17
+- 2.2.18-beta.3
+
+## 获取地址
+
+- npm 安装：`npm install @fluidui-org/snippet`
+- npm registry：https://registry.npmjs.org/@fluidui-org/snippet

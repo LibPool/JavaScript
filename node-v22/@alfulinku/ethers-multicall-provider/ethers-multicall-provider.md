@@ -1,0 +1,25 @@
+# @alfulinku/ethers-multicall-provider
+
+> 标签: call, ethers, evm, multicall, provider, rpc, smart contract
+
+## 简介
+
+⚡🕰️ Drop-in solution to batch smart contract RPC calls in a single RPC query via Multicall!
+
+## 官网
+
+- 官网：https://github.com/rubilmax/ethers-multicall-provider#readme
+- 源码仓库：git+https://github.com/rubilmax/ethers-multicall-provider.git
+- npm 页面：https://www.npmjs.com/package/@alfulinku/ethers-multicall-provider
+
+## 历史版本号
+
+- 当前版本：4.0.0
+
+- 4.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @alfulinku/ethers-multicall-provider`
+- npm registry：https://registry.npmjs.org/@alfulinku/ethers-multicall-provider
+- Node 要求：>=12.0

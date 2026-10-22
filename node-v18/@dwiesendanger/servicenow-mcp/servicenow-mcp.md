@@ -1,0 +1,26 @@
+# @dwiesendanger/servicenow-mcp
+
+> 标签: ai-tools, cline, incident-management, itsm, mcp, model-context-protocol, servicenow
+
+## 简介
+
+MCP server for ServiceNow incident management
+
+## 官网
+
+- 官网：https://github.com/dwiesendanger/servicenow-mcp#readme
+- 源码仓库：git+https://github.com/dwiesendanger/servicenow-mcp.git
+- npm 页面：https://www.npmjs.com/package/@dwiesendanger/servicenow-mcp
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @dwiesendanger/servicenow-mcp`
+- npm registry：https://registry.npmjs.org/@dwiesendanger/servicenow-mcp
+- Node 要求：>=18.0.0

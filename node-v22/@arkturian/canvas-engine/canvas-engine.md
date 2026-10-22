@@ -1,0 +1,25 @@
+# @arkturian/canvas-engine
+
+> 标签: 2d, canvas, engine, graphics, interactive, layout, pan, react, rendering, typescript, viewport, zoom
+
+## 简介
+
+High-performance canvas-based rendering engine with zoom, pan, and layout system
+
+## 官网
+
+- 官网：https://github.com/apopovic77/canvas-engine#readme
+- 源码仓库：git+https://github.com/apopovic77/canvas-engine.git
+- npm 页面：https://www.npmjs.com/package/@arkturian/canvas-engine
+
+## 历史版本号
+
+- 当前版本：1.1.23
+
+- 1.0.0
+- 1.1.23
+
+## 获取地址
+
+- npm 安装：`npm install @arkturian/canvas-engine`
+- npm registry：https://registry.npmjs.org/@arkturian/canvas-engine

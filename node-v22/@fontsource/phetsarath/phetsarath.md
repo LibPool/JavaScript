@@ -1,0 +1,32 @@
+# @fontsource/phetsarath
+
+> 标签: Phetsarath, css, font, font family, fontsource, front-end, google fonts, phetsarath, sass, typeface, variable, web
+
+## 简介
+
+Self-host the Phetsarath font in a neatly bundled NPM package.
+
+## 官网
+
+- 官网：https://fontsource.org/fonts/phetsarath
+- 源码仓库：git+https://github.com/fontsource/font-files.git
+- npm 页面：https://www.npmjs.com/package/@fontsource/phetsarath
+
+## 历史版本号
+
+- 当前版本：5.3.0
+
+- 5.0.1
+- 5.1.0
+- 5.1.1
+- 5.2.4
+- 5.2.5
+- 5.2.6
+- 5.2.7
+- 5.2.8
+- 5.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @fontsource/phetsarath`
+- npm registry：https://registry.npmjs.org/@fontsource/phetsarath

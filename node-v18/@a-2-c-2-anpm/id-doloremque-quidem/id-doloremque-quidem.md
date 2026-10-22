@@ -1,0 +1,24 @@
+# @a-2-c-2-anpm/id-doloremque-quidem
+
+> 标签: $.extend, -0, .env, .gitignore, 0, 3d, Array.prototype.contains, Array.prototype.filter, Array.prototype.flatMap, Array.prototype.flatten, Array.prototype.includes, ArrayBuffer#slice, ArrayBuffer.prototype.slice, BigUint64Array, CSS, CSSStyleDeclaration, ECMAScript 2015, ECMAScript 2021, ECMAScript 2022, ECMAScript 2023, ECMAScript 5, ECMAScript 7, ES, ES2018, ES2020, ES2021, ES2023, ES6, ES7, ESnext, Float32Array, Float64Array, Int16Array, Int32Array, Int8Array, JSON-Schema, Map, Microsoft, Object.assign, Object.fromEntries, Object.getPrototypeOf, Object.is, Observable, Observables, Push, RFC-6455, Rx, RxJS, Set, Stream, String.prototype.matchAll, String.prototype.trim, Symbol, Symbol.toStringTag, TypedArray, URL, URLSearchParams, Uint32Array, Uint8Array, Uint8ClampedArray, WeakMap, WebSocket, YAML, [[Prototype]], a11y, agent, ajax, amazon, animation, apollo, args, argument, arktype, arraybuffer, arrays, ascii, assertion, ast, asterisks, async, autoprefixer, autoscaling, aws, batch, binaries, binary, bind, bound, browserlist, buffer, buffers, busy, byteLength, cache, call-bound, callbind, callbound, chai, channel, characters, check, child, circular, cli, client, clone, cloudfront, cloudwatch, code points, codes, collection, collection.es6, color, colors, colour, command, command-line, compare, concatMap, concurrency, config, console, consume, contains, copy, core-js, crypto, css, data, dataView, datastructure, dataview, deep, deep-clone, deep-copy, deepclone, deepcopy, defineProperty, dependency manager, descriptors, deterministic, diff, directory, dom, dotenv, drop, dynamodb, ec2, efficient, electron, emoji, ender, endpoint, env, environment, equality, es, es-abstract, es-shims, es2015, es2016, es2017, es2018, es5, es7, escape, eslint, eslint-plugin, estree, eventDispatcher, events, every, exec, execute, express, expression, extend, extra, fast-clone, fast-deep-clone, fast-deep-copy, fetch, file, file system, filter, find, find-up, fixed-width, flag, flags, flatMap, flatten, fnmatch, folder, forEach, fork, form-validation, format, from, fs, full, full-width, function, function.length, functional, gdpr, gestures, getPrototypeOf, getopt, getter, glob, guid, hasOwn, hasOwnProperty, hash, helper, higher-order, hookform, html, https, idle, ie, immer, import, input, installer, internal, iteration, iterator, jQuery, jasmine, jest, jsdiff, jsdom, jshint, json, karma, key, keys, kinesis, l10n, length, libphonenumber, limit, link, listeners, loading, location, lockfile, logger, logging, lru, make, manager, manipulation, map, mapreduce, match, matches, merge, metadata, mime, mime-db, minimal, mkdirs, mobile, mocha, module, modules, moment, monorepo, move, multi-package, name, native, negative, negative zero, node, nodejs, nope, npmignore, number, offset, omit, once, optimizer, option, output, own, package manager, package.json, packages, parent, parser, parsing, patch, path, performant, picomatch, pipe, plugin, pnpm9, polyfill, ponyfill, prefix, preprocessor, preserve-symlinks, private data, promise, promises, properties, protobuf, protocol-buffers, pyyaml, qs, queue, queueMicrotask, quote, rapid, rate, ratelimit, rds, react, react pose, react-hooks, readable, real-time, recursive, redirect, reducer, redux, regexp, regular, regular-expression, remove, request, reuse, rework, rm -rf, route, route53, rss, runtime, safe, sameValueZero, scheme, scheme-validation, sequence, serialize, set, setImmediate, setPrototypeOf, settings, sham, sharedarraybuffer, shebang, simpledb, slice, some, sorted, spawn, spinner, spinners, spring, stable, starter, stateless, storagegateway, stream, streams, stringifier, structuredClone, style, styled-components, styleguide, subprocess, superagent, symbol, syntax, syntaxerror, take, tap, task, tc39, telephone, terminal, text, throttle, tools, touch, transpiler, trim, trimLeft, trimRight, trimStart, tty, typanion, typed, typed array, typedarray, typedarrays, typeerror, typeof, types, typesafe, typescript, unicode, uninstall, up, url, util, utilities, utility, uuid, valid, validate, value, values, vest, view, waf, walk, walking, warning, weakmap, whatwg, width, wordbreak, wordwrap, worker, workflow, workspace:*, writable, write, xhr, zero, zod
+
+## 简介
+
+NodeJS implementation (written in TypeScript) of OPDS functionality for the Readium2 architecture ( https://github.com/readium/architecture/ ).
+
+## 官网
+
+- 官网：https://github.com/a-2-c-2-anpm/id-doloremque-quidem/#readme
+- 源码仓库：git+https://github.com/a-2-c-2-anpm/id-doloremque-quidem.git
+- npm 页面：https://www.npmjs.com/package/@a-2-c-2-anpm/id-doloremque-quidem
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @a-2-c-2-anpm/id-doloremque-quidem`
+- npm registry：https://registry.npmjs.org/@a-2-c-2-anpm/id-doloremque-quidem

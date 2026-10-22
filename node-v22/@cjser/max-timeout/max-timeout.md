@@ -1,0 +1,24 @@
+# @cjser/max-timeout
+
+> 标签: constant, delay, max, maximum, number, overflow, settimeout, timeout
+
+## 简介
+
+The max amount of milliseconds you can pass to `setTimeout()`
+
+## 官网
+
+- 源码仓库：https://code.moenext.com/3rdeye/cjser.git
+- npm 页面：https://www.npmjs.com/package/@cjser/max-timeout
+
+## 历史版本号
+
+- 当前版本：2.0.0-cjser.2
+
+- 2.0.0-cjser.2
+
+## 获取地址
+
+- npm 安装：`npm install @cjser/max-timeout`
+- npm registry：https://registry.npmjs.org/@cjser/max-timeout
+- Node 要求：>=12

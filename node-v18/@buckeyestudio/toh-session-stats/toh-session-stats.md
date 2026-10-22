@@ -1,0 +1,24 @@
+# @buckeyestudio/toh-session-stats
+
+> 标签: JavaScript
+
+## 简介
+
+Whole-log conversation counts and wall times projection (sessionStats) for the TheOpen Harness
+
+## 官网
+
+- 官网：https://github.com/dustinwloring1988/theopen-harness#readme
+- 源码仓库：git+https://github.com/dustinwloring1988/theopen-harness.git
+- npm 页面：https://www.npmjs.com/package/@buckeyestudio/toh-session-stats
+
+## 历史版本号
+
+- 当前版本：0.1.1-rc.2
+
+- 0.1.1-rc.2
+
+## 获取地址
+
+- npm 安装：`npm install @buckeyestudio/toh-session-stats`
+- npm registry：https://registry.npmjs.org/@buckeyestudio/toh-session-stats

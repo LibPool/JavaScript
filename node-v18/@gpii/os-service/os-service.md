@@ -1,0 +1,25 @@
+# @gpii/os-service
+
+> 标签: background-process, background-service, daemon, linux-daemon, linux-service, service, windows, windows-daemon, windows-service
+
+## 简介
+
+Run Node.JS programs as native Operating System Services.
+
+## 官网
+
+- 官网：https://github.com/nospaceships/node-os-service#readme
+- 源码仓库：git://github.com/nospaceships/node-os-service.git
+- npm 页面：https://www.npmjs.com/package/@gpii/os-service
+
+## 历史版本号
+
+- 当前版本：2.2.0
+
+- 2.2.0
+- 2.2.0-dev.20200618T145238Z.386ad9c
+
+## 获取地址
+
+- npm 安装：`npm install @gpii/os-service`
+- npm registry：https://registry.npmjs.org/@gpii/os-service

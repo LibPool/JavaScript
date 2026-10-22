@@ -1,0 +1,30 @@
+# @civ-clone/core-yield
+
+> 标签: civilization, typescript
+
+## 简介
+
+A `Yield` is a key element in Civilization and can refer to anything from the `Attack` value of a `Unit` to, the `Food` returned for a `Tile` or the `Unhappiness` produced by a `City`.
+
+## 官网
+
+- 官网：https://github.com/civ-clone/core-yield#readme
+- 源码仓库：git+ssh://git@github.com/civ-clone/core-yield.git
+- npm 页面：https://www.npmjs.com/package/@civ-clone/core-yield
+
+## 历史版本号
+
+- 当前版本：0.1.6
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+
+## 获取地址
+
+- npm 安装：`npm install @civ-clone/core-yield`
+- npm registry：https://registry.npmjs.org/@civ-clone/core-yield

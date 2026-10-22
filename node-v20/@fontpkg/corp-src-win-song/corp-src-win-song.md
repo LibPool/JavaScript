@@ -1,0 +1,25 @@
+# @fontpkg/corp-src-win-song
+
+> 标签: corp-src-win-song, font, fonts, 司源赢宋
+
+## 简介
+
+Font package for 司源赢宋
+
+## 官网
+
+- 官网：https://github.com/user/fontpkg#readme
+- 源码仓库：git+https://github.com/user/fontpkg.git
+- npm 页面：https://www.npmjs.com/package/@fontpkg/corp-src-win-song
+
+## 历史版本号
+
+- 当前版本：3.0.1
+
+- 3.0.0
+- 3.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @fontpkg/corp-src-win-song`
+- npm registry：https://registry.npmjs.org/@fontpkg/corp-src-win-song

@@ -1,0 +1,22 @@
+# @antchain/ak_31a66bf9ba7c431fa33f8eed7c26ebd2
+
+> 标签: JavaScript
+
+## 简介
+
+@antchain/ak_31a66bf9ba7c431fa33f8eed7c26ebd2 - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@antchain/ak_31a66bf9ba7c431fa33f8eed7c26ebd2
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @antchain/ak_31a66bf9ba7c431fa33f8eed7c26ebd2`
+- npm registry：https://registry.npmjs.org/@antchain/ak_31a66bf9ba7c431fa33f8eed7c26ebd2

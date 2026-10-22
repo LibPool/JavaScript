@@ -1,0 +1,34 @@
+# @grapecity-software/spread-sheets-designer
+
+> 标签: designer, excel, excel io, grapecity software, javascript, javascript excel, javascript spreadsheet, sheet, sheets, spread-sheets, spreadjs, spreadjs designer
+
+## 简介
+
+SpreadJS Designer Component present as a control that could be embedded into your web application easily, and also provided flexible, customizable configuration to achieve your business logic.
+
+## 官网
+
+- 官网：http://www.grapecity.com.cn/
+- npm 页面：https://www.npmjs.com/package/@grapecity-software/spread-sheets-designer
+
+## 历史版本号
+
+- 当前版本：19.2.1
+
+- 18.2.5
+- 19.0.0
+- 19.0.1
+- 19.0.2
+- 19.0.3
+- 19.1.0
+- 19.1.1
+- 19.1.2
+- 19.1.3
+- 19.1.4
+- 19.2.0
+- 19.2.1
+
+## 获取地址
+
+- npm 安装：`npm install @grapecity-software/spread-sheets-designer`
+- npm registry：https://registry.npmjs.org/@grapecity-software/spread-sheets-designer

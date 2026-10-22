@@ -1,0 +1,35 @@
+# @ffid-br/account-selector-component
+
+> 标签: account-selector, dropdown, modal, react, typescript
+
+## 简介
+
+An elegant, accessible React account-selection interface with searchable autocomplete, keyboard shortcuts, and full dark-mode support — built with the FFID brand palette.
+
+## 官网
+
+- 官网：https://github.com/ffid-br/account-selector-component#readme
+- 源码仓库：git+https://github.com/ffid-br/account-selector-component.git
+- npm 页面：https://www.npmjs.com/package/@ffid-br/account-selector-component
+
+## 历史版本号
+
+- 当前版本：0.1.41
+
+- 0.1.31
+- 0.1.32
+- 0.1.33
+- 0.1.38
+- 0.1.4
+- 0.1.40
+- 0.1.41
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install @ffid-br/account-selector-component`
+- npm registry：https://registry.npmjs.org/@ffid-br/account-selector-component

@@ -1,0 +1,33 @@
+# @exabyte-io/ide.js
+
+> 标签: JavaScript
+
+## 简介
+
+Infrastructure DEfinitions
+
+## 官网
+
+- 官网：https://github.com/Exabyte-io/ide.js
+- 源码仓库：git+https://github.com/Exabyte-io/ide.js.git
+- npm 页面：https://www.npmjs.com/package/@exabyte-io/ide.js
+
+## 历史版本号
+
+- 当前版本：2025.11.16-0
+
+- 2022.11.18-0
+- 2022.11.18-1
+- 2022.7.28-1
+- 2023.5.30-0
+- 2023.7.20-0
+- 2023.9.6-0
+- 2024.3.26-0
+- 2025.11.10-0
+- 2025.11.16-0
+
+## 获取地址
+
+- npm 安装：`npm install @exabyte-io/ide.js`
+- npm registry：https://registry.npmjs.org/@exabyte-io/ide.js
+- Node 要求：>=14.0.0

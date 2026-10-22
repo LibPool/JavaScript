@@ -1,0 +1,36 @@
+# @adapttable/unstyled
+
+> 标签: data-table, headless, react, rtl, shadcn, table, tailwind, typescript, unstyled, url-state
+
+## 简介
+
+Headless, unstyled AdaptTable adapter — semantic HTML with class + data-attribute hooks for Tailwind, shadcn/ui, or your own CSS.
+
+## 官网
+
+- 官网：https://adapttable.orwamahmoud.com/react/demo/tailwind/
+- 源码仓库：git+https://github.com/orwa-mahmoud/adapttable.git
+- npm 页面：https://www.npmjs.com/package/@adapttable/unstyled
+
+## 历史版本号
+
+- 当前版本：3.4.2
+
+- 3.2.5
+- 3.2.6
+- 3.2.7
+- 3.3.0
+- 3.3.1
+- 3.3.2
+- 3.3.3
+- 3.3.4
+- 3.3.5
+- 3.4.0
+- 3.4.1
+- 3.4.2
+
+## 获取地址
+
+- npm 安装：`npm install @adapttable/unstyled`
+- npm registry：https://registry.npmjs.org/@adapttable/unstyled
+- Node 要求：>=22.12.0

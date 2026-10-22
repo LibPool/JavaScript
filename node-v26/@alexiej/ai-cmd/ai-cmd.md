@@ -1,0 +1,27 @@
+# @alexiej/ai-cmd
+
+> 标签: ai, cli, git
+
+## 简介
+
+AI command-line tool with configuration and git commit features
+
+## 官网
+
+- 官网：https://github.com/alexiej/ai-cmd#readme
+- 源码仓库：git+https://github.com/alexiej/ai-cmd.git
+- npm 页面：https://www.npmjs.com/package/@alexiej/ai-cmd
+
+## 历史版本号
+
+- 当前版本：1.2.1
+
+- 1.1.0
+- 1.1.1
+- 1.2.0
+- 1.2.1
+
+## 获取地址
+
+- npm 安装：`npm install @alexiej/ai-cmd`
+- npm registry：https://registry.npmjs.org/@alexiej/ai-cmd

@@ -1,0 +1,24 @@
+# @cjser/patch-console
+
+> 标签: console, intercept, log, logs, patch, stderr, stdout
+
+## 简介
+
+Patch console methods to intercept output
+
+## 官网
+
+- 源码仓库：https://code.moenext.com/3rdeye/cjser.git
+- npm 页面：https://www.npmjs.com/package/@cjser/patch-console
+
+## 历史版本号
+
+- 当前版本：2.0.0-cjser.2
+
+- 2.0.0-cjser.2
+
+## 获取地址
+
+- npm 安装：`npm install @cjser/patch-console`
+- npm registry：https://registry.npmjs.org/@cjser/patch-console
+- Node 要求：^12.20.0 || ^14.13.1 || >=16.0.0

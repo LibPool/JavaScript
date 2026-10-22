@@ -1,0 +1,24 @@
+# @clearance402/cli
+
+> 标签: agents, clearance, cli, x402
+
+## 简介
+
+Clearance402 CLI — probe, check, pay-if-cleared against the production API
+
+## 官网
+
+- 官网：https://github.com/henrysammarfo/clearancex402#readme
+- 源码仓库：git+https://github.com/henrysammarfo/clearancex402.git
+- npm 页面：https://www.npmjs.com/package/@clearance402/cli
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @clearance402/cli`
+- npm registry：https://registry.npmjs.org/@clearance402/cli

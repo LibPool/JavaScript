@@ -1,0 +1,25 @@
+# @ayzek/plugin-util
+
+> 标签: JavaScript
+
+## 简介
+
+@ayzek/plugin-util - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@ayzek/plugin-util
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @ayzek/plugin-util`
+- npm registry：https://registry.npmjs.org/@ayzek/plugin-util

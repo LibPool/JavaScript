@@ -1,0 +1,33 @@
+# @frostpillar/frostpillar-btree
+
+> 标签: b-plus-tree, btree, in-memory, lightweight, typescript
+
+## 简介
+
+A tiny, zero-dependency in-memory B+ tree for TypeScript, Node.js, and browser JavaScript.
+
+## 官网
+
+- 官网：https://github.com/hjmsano/frostpillar-btree#readme
+- 源码仓库：git+https://github.com/hjmsano/frostpillar-btree.git
+- npm 页面：https://www.npmjs.com/package/@frostpillar/frostpillar-btree
+
+## 历史版本号
+
+- 当前版本：0.2.9
+
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.4
+- 0.2.5
+- 0.2.6
+- 0.2.7
+- 0.2.8
+- 0.2.9
+
+## 获取地址
+
+- npm 安装：`npm install @frostpillar/frostpillar-btree`
+- npm registry：https://registry.npmjs.org/@frostpillar/frostpillar-btree
+- Node 要求：>=24.0.0

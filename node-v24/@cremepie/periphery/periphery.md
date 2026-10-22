@@ -1,0 +1,27 @@
+# @cremepie/periphery
+
+> 标签: JavaScript
+
+## 简介
+
+🎚 Peripheral smart contracts for interacting with Uniswap V2
+
+## 官网
+
+- 官网：https://uniswap.org
+- 源码仓库：git+https://github.com/Uniswap/uniswap-v2-periphery.git
+- npm 页面：https://www.npmjs.com/package/@cremepie/periphery
+
+## 历史版本号
+
+- 当前版本：1.1.5
+
+- 1.0.0
+- 1.0.1
+- 1.1.5
+
+## 获取地址
+
+- npm 安装：`npm install @cremepie/periphery`
+- npm registry：https://registry.npmjs.org/@cremepie/periphery
+- Node 要求：>=10

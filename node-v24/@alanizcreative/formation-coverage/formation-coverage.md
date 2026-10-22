@@ -1,0 +1,31 @@
+# @alanizcreative/formation-coverage
+
+> 标签: code-coverage, playwright, typescript
+
+## 简介
+
+Utility to generate code coverage reports for Playwright tests from TypeScript source code
+
+## 官网
+
+- 官网：https://github.com/galaniz/formation-coverage#readme
+- 源码仓库：git+https://github.com/galaniz/formation-coverage.git
+- npm 页面：https://www.npmjs.com/package/@alanizcreative/formation-coverage
+
+## 历史版本号
+
+- 当前版本：0.0.7
+
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+
+## 获取地址
+
+- npm 安装：`npm install @alanizcreative/formation-coverage`
+- npm registry：https://registry.npmjs.org/@alanizcreative/formation-coverage
+- Node 要求：>=22

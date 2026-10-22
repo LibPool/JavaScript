@@ -1,0 +1,24 @@
+# @bamaolink/codemirror
+
+> 标签: codemirror, codemirror 6, editor
+
+## 简介
+
+codemirror 6 for bamaolink
+
+## 官网
+
+- 官网：https://github.com/bamaolink/codemirror/tree/main/packages/vanilla#readme
+- 源码仓库：git+https://github.com/bamaolink/codemirror.git
+- npm 页面：https://www.npmjs.com/package/@bamaolink/codemirror
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @bamaolink/codemirror`
+- npm registry：https://registry.npmjs.org/@bamaolink/codemirror

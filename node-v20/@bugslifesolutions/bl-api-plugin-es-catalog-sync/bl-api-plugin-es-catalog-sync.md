@@ -1,0 +1,26 @@
+# @bugslifesolutions/bl-api-plugin-es-catalog-sync
+
+> 标签: JavaScript
+
+## 简介
+
+Reaction API Plugin for Elastic Search Catalog synchronization
+
+## 官网
+
+- 官网：https://github.com/bugslifesolutions/reaction
+- 源码仓库：git+https://github.com/bugslifesolutions/reaction.git
+- npm 页面：https://www.npmjs.com/package/@bugslifesolutions/bl-api-plugin-es-catalog-sync
+
+## 历史版本号
+
+- 当前版本：2.0.0-next.1
+
+- 2.0.0-next.0
+- 2.0.0-next.1
+
+## 获取地址
+
+- npm 安装：`npm install @bugslifesolutions/bl-api-plugin-es-catalog-sync`
+- npm registry：https://registry.npmjs.org/@bugslifesolutions/bl-api-plugin-es-catalog-sync
+- Node 要求：>=18

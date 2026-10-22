@@ -1,0 +1,25 @@
+# @chimpyswap-libs/sdk-v3
+
+> 标签: chimpyswap, ethereum
+
+## 简介
+
+🛠 An SDK for building applications on top of chimpyswap.
+
+## 官网
+
+- 官网：https://github.com/chimpyswap/chimpyswap-sdk#readme
+- 源码仓库：git+https://github.com/chimpyswap/chimpyswap-sdk.git
+- npm 页面：https://www.npmjs.com/package/@chimpyswap-libs/sdk-v3
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @chimpyswap-libs/sdk-v3`
+- npm registry：https://registry.npmjs.org/@chimpyswap-libs/sdk-v3
+- Node 要求：>=10

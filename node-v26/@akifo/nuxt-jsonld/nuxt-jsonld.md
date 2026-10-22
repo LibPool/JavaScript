@@ -1,0 +1,25 @@
+# @akifo/nuxt-jsonld
+
+> 标签: attribute, head, meta, nuxt, seo, vue
+
+## 简介
+
+manage jsonld in Vue component.
+
+## 官网
+
+- 官网：https://github.com/akifo/nuxt-jsonld#readme
+- 源码仓库：git+ssh://git@github.com/akifo/nuxt-jsonld.git
+- npm 页面：https://www.npmjs.com/package/@akifo/nuxt-jsonld
+
+## 历史版本号
+
+- 当前版本：0.0.7
+
+- 0.0.6
+- 0.0.7
+
+## 获取地址
+
+- npm 安装：`npm install @akifo/nuxt-jsonld`
+- npm registry：https://registry.npmjs.org/@akifo/nuxt-jsonld

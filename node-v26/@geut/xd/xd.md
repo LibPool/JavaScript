@@ -1,0 +1,34 @@
+# @geut/xd
+
+> 标签: create, geut, module
+
+## 简介
+
+Run your lint and formatter in a single fast daemon.
+
+## 官网
+
+- 官网：https://github.com/geut/xd#readme
+- 源码仓库：git+https://github.com/geut/xd.git
+- npm 页面：https://www.npmjs.com/package/@geut/xd
+
+## 历史版本号
+
+- 当前版本：1.6.1
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.2.0
+- 1.3.0
+- 1.3.1
+- 1.4.0
+- 1.5.0
+- 1.5.1
+- 1.6.0
+- 1.6.1
+
+## 获取地址
+
+- npm 安装：`npm install @geut/xd`
+- npm registry：https://registry.npmjs.org/@geut/xd

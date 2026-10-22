@@ -1,0 +1,34 @@
+# @esfaenza/flow-builder
+
+> 标签: JavaScript
+
+## 简介
+
+Editor visuale di flow: componente standalone Angular, con tutto il traffico verso il backend dietro un'unica interfaccia.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@esfaenza/flow-builder
+
+## 历史版本号
+
+- 当前版本：20.3.67
+
+- 20.3.55
+- 20.3.56
+- 20.3.57
+- 20.3.58
+- 20.3.59
+- 20.3.60
+- 20.3.61
+- 20.3.63
+- 20.3.64
+- 20.3.65
+- 20.3.66
+- 20.3.67
+- 共 66 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @esfaenza/flow-builder`
+- npm registry：https://registry.npmjs.org/@esfaenza/flow-builder

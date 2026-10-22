@@ -1,0 +1,33 @@
+# @hazae41/alocer
+
+> 标签: base16, base58, base64, base64url, browser, cryptography, decoder, decoding, deno, encoder, encoding, hex, incremental, reproducible, rust, typescript, unit-tested, webassembly
+
+## 简介
+
+WebAssembly port of Base64, Base64URL, Base16, and Base58 encoding algorithms
+
+## 官网
+
+- 官网：https://github.com/hazae41/alocer
+- 源码仓库：git+https://github.com/hazae41/alocer.git
+- npm 页面：https://www.npmjs.com/package/@hazae41/alocer
+
+## 历史版本号
+
+- 当前版本：1.0.9
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+- 1.0.7
+- 1.0.8
+- 1.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @hazae41/alocer`
+- npm registry：https://registry.npmjs.org/@hazae41/alocer

@@ -1,0 +1,30 @@
+# @codersvn/model
+
+> 标签: Repository, Sequelize
+
+## 简介
+
+NF Repository is a abstract layer of Sequelize Application, that make application more easy to understand and flexible to maintain.
+
+## 官网
+
+- 官网：https://github.com/nsilly/repository#readme
+- 源码仓库：git+https://github.com/nsilly/repository.git
+- npm 页面：https://www.npmjs.com/package/@codersvn/model
+
+## 历史版本号
+
+- 当前版本：1.3.1
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.1.1
+- 1.2.0
+- 1.2.1
+- 1.3.1
+
+## 获取地址
+
+- npm 安装：`npm install @codersvn/model`
+- npm registry：https://registry.npmjs.org/@codersvn/model

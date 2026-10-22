@@ -1,0 +1,24 @@
+# @chrisluyi/daas-devtools
+
+> 标签: JavaScript
+
+## 简介
+
+@chrisluyi/daas-devtools - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/Chris-LuYi/daas-cli#readme
+- 源码仓库：git+https://github.com/Chris-LuYi/daas-cli.git
+- npm 页面：https://www.npmjs.com/package/@chrisluyi/daas-devtools
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @chrisluyi/daas-devtools`
+- npm registry：https://registry.npmjs.org/@chrisluyi/daas-devtools

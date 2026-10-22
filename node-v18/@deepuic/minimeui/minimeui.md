@@ -1,0 +1,27 @@
+# @deepuic/minimeui
+
+> 标签: button, components, react, tailwindcss, typescript, ui
+
+## 简介
+
+TailwindCSS ve TypeScript ile oluşturulmuş modern UI komponentleri
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@deepuic/minimeui
+
+## 历史版本号
+
+- 当前版本：0.4.0
+
+- 0.1.0
+- 0.1.1
+- 0.2.0
+- 0.2.1
+- 0.3.0
+- 0.4.0
+
+## 获取地址
+
+- npm 安装：`npm install @deepuic/minimeui`
+- npm registry：https://registry.npmjs.org/@deepuic/minimeui

@@ -1,0 +1,22 @@
+# @dsr-roist-dusky-rabid-unite/dsr-package-public-roist-dusky-rabid-unite
+
+> 标签: JavaScript
+
+## 简介
+
+empty
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@dsr-roist-dusky-rabid-unite/dsr-package-public-roist-dusky-rabid-unite
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @dsr-roist-dusky-rabid-unite/dsr-package-public-roist-dusky-rabid-unite`
+- npm registry：https://registry.npmjs.org/@dsr-roist-dusky-rabid-unite/dsr-package-public-roist-dusky-rabid-unite

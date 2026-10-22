@@ -1,0 +1,33 @@
+# @desygna/desygna
+
+> 标签: JavaScript
+
+## 简介
+
+```bash yarn add @desygna/desygna @emotion/react@^11.10.0 @emotion/styled@^11.10.0 ```
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@desygna/desygna
+
+## 历史版本号
+
+- 当前版本：4.0.0
+
+- 1.5.1
+- 1.5.2
+- 2.0.0
+- 2.0.1
+- 2.0.2
+- 2.0.3
+- 3.0.0
+- 4.0.0
+- 4.0.0-dev.0
+- 4.0.0-pre.1
+- 4.0.0-pre.2
+- 4.0.0-pre.3
+
+## 获取地址
+
+- npm 安装：`npm install @desygna/desygna`
+- npm registry：https://registry.npmjs.org/@desygna/desygna

@@ -1,0 +1,24 @@
+# @dnlowman/react-native-star-prnt
+
+> 标签: Star, StarPRNT, android, ecosystem:react-native, ios, print, printer, react-android, react-bridge, react-ios, react-native
+
+## 简介
+
+StarPRNT React Native bridge for Star Micronics Bluetooth/LAN printers
+
+## 官网
+
+- 官网：https://github.com/infoxicator/react-native-star-prnt#readme
+- 源码仓库：git+https://github.com/infoxicator/react-native-star-prnt.git
+- npm 页面：https://www.npmjs.com/package/@dnlowman/react-native-star-prnt
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @dnlowman/react-native-star-prnt`
+- npm registry：https://registry.npmjs.org/@dnlowman/react-native-star-prnt

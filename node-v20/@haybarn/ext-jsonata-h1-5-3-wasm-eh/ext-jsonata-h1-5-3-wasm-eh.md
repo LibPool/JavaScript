@@ -1,0 +1,26 @@
+# @haybarn/ext-jsonata-h1-5-3-wasm-eh
+
+> 标签: duckdb, duckdb-wasm, extension, haybarn, jsonata, wasm
+
+## 简介
+
+WebAssembly (eh) build of the Haybarn extension 'jsonata' for duckdb-wasm. Built against haybarn 1.5.3. Pick the variant (mvp/eh/threads) matching your duckdb-wasm bundle.
+
+## 官网
+
+- 官网：https://github.com/query-farm/jsonata
+- 源码仓库：git+https://github.com/Query-farm-haybarn/haybarn-community-extensions.git
+- npm 页面：https://www.npmjs.com/package/@haybarn/ext-jsonata-h1-5-3-wasm-eh
+
+## 历史版本号
+
+- 当前版本：202606.12.222939
+
+- 202605.5.110026
+- 202605.5.1100263
+- 202606.12.222939
+
+## 获取地址
+
+- npm 安装：`npm install @haybarn/ext-jsonata-h1-5-3-wasm-eh`
+- npm registry：https://registry.npmjs.org/@haybarn/ext-jsonata-h1-5-3-wasm-eh

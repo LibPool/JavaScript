@@ -1,0 +1,28 @@
+# @estudio-cactus/eslint-config
+
+> 标签: TypeScript, check, checker, code, code checker, code linter, code standards, code style, enforce, eslint, eslintconfig, hint, jscs, jshint, lint, policy, quality, simple, style, style checker, style linter, verify
+
+## 简介
+
+A TypeScript, ESLint and Prettier configuration package focused on Estudio Cactus's projects
+
+## 官网
+
+- 官网：https://github.com/estudiocactus/eslint-config#readme
+- 源码仓库：git+https://github.com/estudiocactus/eslint-config.git
+- npm 页面：https://www.npmjs.com/package/@estudio-cactus/eslint-config
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 0.0.0-development
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @estudio-cactus/eslint-config`
+- npm registry：https://registry.npmjs.org/@estudio-cactus/eslint-config
+- Node 要求：>=18.20.0

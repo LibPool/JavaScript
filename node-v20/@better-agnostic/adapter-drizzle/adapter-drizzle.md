@@ -1,0 +1,25 @@
+# @better-agnostic/adapter-drizzle
+
+> 标签: adapter, better-agnostic, drizzle, postgresql, schema, sqlite
+
+## 简介
+
+Schema-to-Drizzle translator for PostgreSQL and SQLite
+
+## 官网
+
+- 官网：https://github.com/elydelva/better-agnostic#readme
+- 源码仓库：git+https://github.com/elydelva/better-agnostic.git
+- npm 页面：https://www.npmjs.com/package/@better-agnostic/adapter-drizzle
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @better-agnostic/adapter-drizzle`
+- npm registry：https://registry.npmjs.org/@better-agnostic/adapter-drizzle

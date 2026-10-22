@@ -1,0 +1,26 @@
+# @gabor.heves/kernel
+
+> 标签: JavaScript
+
+## 简介
+
+Test the Kernel
+
+## 官网
+
+- 官网：https://gitlab.com/docebo/integration/embedded-learning/doc-82496#readme
+- 源码仓库：git+ssh://git@gitlab.com/docebo/integration/embedded-learning/doc-82496.git
+- npm 页面：https://www.npmjs.com/package/@gabor.heves/kernel
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @gabor.heves/kernel`
+- npm registry：https://registry.npmjs.org/@gabor.heves/kernel

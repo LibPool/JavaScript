@@ -1,0 +1,24 @@
+# @crabas0npm/nostrum-tenetur-error
+
+> 标签: .env, 0, 256, 3d, @@toStringTag, Array, Array.prototype.contains, Array.prototype.findLastIndex, Array.prototype.flat, Array.prototype.flatMap, ArrayBuffer, ArrayBuffer#slice, BigInt64Array, BigUint64Array, ECMAScript 2015, ECMAScript 2016, ECMAScript 2019, ECMAScript 2021, ECMAScript 2023, ECMAScript 3, ES2017, ES2018, ES2022, ES7, ES8, ESnext, Function.prototype.name, HyBi, Int8Array, Object.defineProperty, Object.entries, Object.fromEntries, Object.values, Observable, Push, RFC-6455, ReactiveExtensions, ReactiveX, Reflect.getPrototypeOf, RegExp#flags, RxJS, Set, Streams, String.prototype.matchAll, String.prototype.trim, Symbol.toStringTag, TypeBox, TypeScript, URL, Uint32Array, Uint8Array, Underscore, WebSocket, WebSockets, _.extend, accessibility, airbnb, ansi, api, argument, arktype, array, arraybuffer, arrays, art, assertion, asserts, ast, async, ava, babel, babel-core, banner, bcrypt, bluebird, bootstrap less, break, browserlist, browserslist, bundler, bundling, busy, byteLength, byteOffset, callback, callbound, chai, channel, check, chrome, cli, code points, coercible, color, colors, colour, column, command, commander, compile less, compiler, computed-types, concat, concatMap, concurrency, config, configurable, connect, cors, create, css, css less, css nesting, css variable, curl, curried, datastructure, dayjs, debugger, deep, deep-clone, deep-copy, deepclone, defineProperty, delete, dependency manager, descriptor, descriptors, deterministic, dir, dom, dom-testing-library, drop, duplex, east-asian-width, ecmascript, efficient, emoji, encryption, ender, entries, enumerable, env, environment, equal, equality, es-abstract, es-shim API, es-shims, es2015, es5, es7, escape, estree, eventDispatcher, every, express, expression, extend, fantasy-land, fast, fast-deep-copy, fastclone, fastify, fetch, file system, find, findLast, fixed-width, flag, flat, folder, forEach, form-validation, format, formatting, framer, framework, fs, functional, functions, gdpr, generics, gestures, get, getOwnPropertyDescriptor, getPrototypeOf, getintrinsic, getopt, glob, guid, handlers, hardlinks, harmony, has, hash, helpers, higher-order, hooks, http, https, i18n, idle, immutable, import, inference, input, install, installer, interrupts, invariant, io-ts, irq, is, isConcatSpreadable, iterate, jQuery, javascript, jest, joi, js, jsdom, json-schema, jsonpath, jsonschema, jwt, key, keys, l10n, last, lazy, length, less css, less.js, libphonenumber, link, lint, linux, listeners, loading, lockfile, lru, make, match, matches, merge, metadata, mimetypes, minimal, mixins, mkdir, mkdirp, mkdirs, mocha, module, modules, moment, monorepo, mru, multi-package, names, negative, nested css, nodejs, nope, npm, obj, offset, optimist, optimizer, option, output, package.json, packages, parent, parents, parse, parser, password, path, phone, pipe, plugin, pnpm9, point-free, postcss-plugin, prefix, preprocessor, pretty, private, private data, process, progress, promises, prop, proto, prototype, prune, pure, push, pyyaml, querystring, queue, queueMicrotask, ramda, rangeerror, rapid, rate, ratelimit, react animation, react pose, react-hook-form, readable, readablestream, real-time, recursive, reducer, regexp, regular, regular expression, regular expressions, request, require, reuse, rgb, rm, rm -fr, rm -rf, rmdir, robust, runtime, sameValueZero, sanitization, schema, scheme, search, sequence, serialization, serialize, set, setImmediate, setPrototypeOf, setter, settings, sham, sharedarraybuffer, shell, shim, signal, sigterm, slice, slot, sort, speed, spinner, spinners, stable, stateless, stream, streams, streams2, stringifier, stringify, style, styled-components, styleguide, superagent, symbol, symlink, take, task, tc39, terminal, test, testing, text, three, time, toobject, toolkit, touch, trimRight, tslib, tty, type, typed array, typedarray, typedarrays, types, typesafe, uninstall, util, util.inspect, utilities, uuid, valid, validate, validation, value, variables, variables in css, view, waapi, wait, walk, warning, watchFile, weakmap, wget, which, width, wordbreak, wordwrap, wrap, write, xhr, yaml, yup, zero, zod
+
+## 简介
+
+Automatically detect JavaScript errors in the browser, Node.js and React Native, with plugins for React, Vue, Angular, Express, Restify and Koa. Get cross-platform error detection for handled and unhandled errors with real-time error alerts and detailed d
+
+## 官网
+
+- 官网：https://github.com/crabas0npm/nostrum-tenetur-error/#readme
+- 源码仓库：git+https://github.com/crabas0npm/nostrum-tenetur-error.git
+- npm 页面：https://www.npmjs.com/package/@crabas0npm/nostrum-tenetur-error
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @crabas0npm/nostrum-tenetur-error`
+- npm registry：https://registry.npmjs.org/@crabas0npm/nostrum-tenetur-error

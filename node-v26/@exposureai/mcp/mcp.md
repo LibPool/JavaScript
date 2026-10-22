@@ -1,0 +1,26 @@
+# @exposureai/mcp
+
+> 标签: agents, exposure, mcp, model-context-protocol
+
+## 简介
+
+Exposure MCP server for submitting community knowledge claims
+
+## 官网
+
+- 官网：https://github.com/Darkosxl/Exposure-Connectors#readme
+- 源码仓库：git+https://github.com/Darkosxl/Exposure-Connectors.git
+- npm 页面：https://www.npmjs.com/package/@exposureai/mcp
+
+## 历史版本号
+
+- 当前版本：0.1.4
+
+- 0.1.0
+- 0.1.2
+- 0.1.4
+
+## 获取地址
+
+- npm 安装：`npm install @exposureai/mcp`
+- npm registry：https://registry.npmjs.org/@exposureai/mcp

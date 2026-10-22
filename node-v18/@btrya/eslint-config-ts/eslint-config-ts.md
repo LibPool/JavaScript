@@ -1,0 +1,28 @@
+# @btrya/eslint-config-ts
+
+> 标签: eslint-config
+
+## 简介
+
+@btrya/eslint-config-ts - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@btrya/eslint-config-ts
+
+## 历史版本号
+
+- 当前版本：0.0.8
+
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+- 0.0.6
+- 0.0.7
+- 0.0.8
+
+## 获取地址
+
+- npm 安装：`npm install @btrya/eslint-config-ts`
+- npm registry：https://registry.npmjs.org/@btrya/eslint-config-ts

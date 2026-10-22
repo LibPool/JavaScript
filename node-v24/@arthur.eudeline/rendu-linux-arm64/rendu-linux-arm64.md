@@ -1,0 +1,25 @@
+# @arthur.eudeline/rendu-linux-arm64
+
+> 标签: JavaScript
+
+## 简介
+
+Binaire natif de Rendu pour linux/arm64.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@arthur.eudeline/rendu-linux-arm64
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 0.1.0
+- 1.0.0
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @arthur.eudeline/rendu-linux-arm64`
+- npm registry：https://registry.npmjs.org/@arthur.eudeline/rendu-linux-arm64

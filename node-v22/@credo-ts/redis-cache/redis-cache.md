@@ -1,0 +1,36 @@
+# @credo-ts/redis-cache
+
+> 标签: JavaScript
+
+## 简介
+
+@credo-ts/redis-cache - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/openwallet-foundation/credo-ts/tree/main/packages/redis-cache
+- 源码仓库：git+https://github.com/openwallet-foundation/credo-ts.git
+- npm 页面：https://www.npmjs.com/package/@credo-ts/redis-cache
+
+## 历史版本号
+
+- 当前版本：0.7.2
+
+- 0.8.0-pr-2704-20261020120459
+- 0.8.0-pr-2704-20261020120513
+- 0.8.0-pr-2704-20261020122920
+- 0.8.0-pr-2704-20261021143038
+- 0.8.0-pr-2704-20261021164029
+- 0.8.0-pr-2704-20261021225938
+- 0.8.0-pr-2704-20261022115648
+- 0.8.0-pr-2704-20261022123435
+- 0.8.0-pr-2704-20261022123538
+- 0.8.0-pr-2704-20261022151727
+- 0.8.0-pr-2704-20261022171157
+- 0.8.0-pr-2926-20261015124505
+- 共 698 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @credo-ts/redis-cache`
+- npm registry：https://registry.npmjs.org/@credo-ts/redis-cache

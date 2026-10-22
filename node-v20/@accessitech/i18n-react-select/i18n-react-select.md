@@ -1,0 +1,26 @@
+# @accessitech/i18n-react-select
+
+> 标签: JavaScript
+
+## 简介
+
+A react component for setting internationalization language.
+
+## 官网
+
+- 官网：https://github.com/AccessiTech/AccessiTech/tree/i18n-react-select/add-tests/packages/i18n-react-select#readme
+- 源码仓库：git+https://github.com/AccessiTech/AccessiTech.git
+- npm 页面：https://www.npmjs.com/package/@accessitech/i18n-react-select
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @accessitech/i18n-react-select`
+- npm registry：https://registry.npmjs.org/@accessitech/i18n-react-select

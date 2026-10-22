@@ -1,0 +1,34 @@
+# @flusys/nestjs-email
+
+> 标签: @flusys, email, mailgun, nestjs, sendgrid, smtp, template
+
+## 简介
+
+Modular email package with SMTP, SendGrid, and Mailgun providers
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@flusys/nestjs-email
+
+## 历史版本号
+
+- 当前版本：9.5.0
+
+- 9.0.0
+- 9.0.1
+- 9.1.0
+- 9.1.0-rc.1
+- 9.1.1
+- 9.1.2
+- 9.2.0
+- 9.2.1
+- 9.2.2
+- 9.3.0
+- 9.4.0
+- 9.5.0
+- 共 74 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @flusys/nestjs-email`
+- npm registry：https://registry.npmjs.org/@flusys/nestjs-email

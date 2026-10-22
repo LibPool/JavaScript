@@ -1,0 +1,28 @@
+# @aernoud/calendarmcp
+
+> 标签: applescript, calendar, claude, events, macos, mcp, mcp-server
+
+## 简介
+
+MCP server for macOS Calendar.app — calendar/event management via AppleScript
+
+## 官网
+
+- 官网：https://github.com/aernouddekker/macos-mcp#readme
+- 源码仓库：git+https://github.com/aernouddekker/macos-mcp.git
+- npm 页面：https://www.npmjs.com/package/@aernoud/calendarmcp
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @aernoud/calendarmcp`
+- npm registry：https://registry.npmjs.org/@aernoud/calendarmcp
+- Node 要求：>=18

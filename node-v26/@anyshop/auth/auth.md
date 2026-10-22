@@ -1,0 +1,35 @@
+# @anyshop/auth
+
+> 标签: JavaScript
+
+## 简介
+
+Firebase authentication module with generic pages, guards and resolvers for an Ionic 5/6 application.
+
+## 官网
+
+- 官网：https://github.com/alazes/anyshop-framework/tree/main/projects/anyshop/auth#readme
+- 源码仓库：git+https://github.com/alazes/anyshop-framework.git
+- npm 页面：https://www.npmjs.com/package/@anyshop/auth
+
+## 历史版本号
+
+- 当前版本：2.2.4
+
+- 1.0.0-alpha.15
+- 1.0.0-alpha.4
+- 1.0.0-alpha.5
+- 2.0.0
+- 2.0.1
+- 2.1.0
+- 2.1.1
+- 2.2.0
+- 2.2.1
+- 2.2.2
+- 2.2.3
+- 2.2.4
+
+## 获取地址
+
+- npm 安装：`npm install @anyshop/auth`
+- npm registry：https://registry.npmjs.org/@anyshop/auth

@@ -1,0 +1,24 @@
+# @forker/github-stats-box
+
+> 标签: action, box, gist, github, pinned, stats
+
+## 简介
+
+Update a gist to contain your GitHub stats
+
+## 官网
+
+- 官网：https://github.com/bokub/github-stats-box#readme
+- 源码仓库：git+https://github.com/bokub/github-stats-box.git
+- npm 页面：https://www.npmjs.com/package/@forker/github-stats-box
+
+## 历史版本号
+
+- 当前版本：0.2.1
+
+- 0.2.1
+
+## 获取地址
+
+- npm 安装：`npm install @forker/github-stats-box`
+- npm registry：https://registry.npmjs.org/@forker/github-stats-box

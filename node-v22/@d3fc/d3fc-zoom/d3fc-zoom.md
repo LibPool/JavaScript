@@ -1,0 +1,26 @@
+# @d3fc/d3fc-zoom
+
+> 标签: d3, d3fc, domain, zoom
+
+## 简介
+
+A zoom component which operates in domain values
+
+## 官网
+
+- 官网：https://github.com/d3fc/d3fc
+- 源码仓库：git+https://github.com/d3fc/d3fc.git
+- npm 页面：https://www.npmjs.com/package/@d3fc/d3fc-zoom
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.1.0
+- 1.1.1
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @d3fc/d3fc-zoom`
+- npm registry：https://registry.npmjs.org/@d3fc/d3fc-zoom

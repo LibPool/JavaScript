@@ -1,0 +1,25 @@
+# @baize-ai/baize-a2a
+
+> 标签: a2a, agent, agent-to-agent, baize, baize-channel, p2p
+
+## 简介
+
+A2A (agent-to-agent) HTTPS P2P collaboration channel for Baize agents — every-instance component with SQLite persistence
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@baize-ai/baize-a2a
+
+## 历史版本号
+
+- 当前版本：0.2.7
+
+- 0.2.5
+- 0.2.6
+- 0.2.7
+
+## 获取地址
+
+- npm 安装：`npm install @baize-ai/baize-a2a`
+- npm registry：https://registry.npmjs.org/@baize-ai/baize-a2a
+- Node 要求：>=20.0.0

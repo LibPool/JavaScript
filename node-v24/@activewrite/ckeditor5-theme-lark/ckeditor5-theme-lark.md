@@ -1,0 +1,26 @@
+# @activewrite/ckeditor5-theme-lark
+
+> 标签: ckeditor, ckeditor 5, ckeditor5, ckeditor5-theme
+
+## 简介
+
+A bright theme for CKEditor 5.
+
+## 官网
+
+- 官网：https://ckeditor.com/ckeditor-5
+- 源码仓库：LATER
+- npm 页面：https://www.npmjs.com/package/@activewrite/ckeditor5-theme-lark
+
+## 历史版本号
+
+- 当前版本：18.0.2
+
+- 18.0.1
+- 18.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @activewrite/ckeditor5-theme-lark`
+- npm registry：https://registry.npmjs.org/@activewrite/ckeditor5-theme-lark
+- Node 要求：>=8.0.0

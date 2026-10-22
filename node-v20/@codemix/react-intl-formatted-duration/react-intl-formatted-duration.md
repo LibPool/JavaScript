@@ -1,0 +1,24 @@
+# @codemix/react-intl-formatted-duration
+
+> 标签: duration, format, intl, react
+
+## 简介
+
+React intl component to express time duration
+
+## 官网
+
+- 官网：https://github.com/en-japan-air/react-intl-formatted-duration
+- 源码仓库：git+https://github.com/en-japan-air/react-intl-formatted-duration.git
+- npm 页面：https://www.npmjs.com/package/@codemix/react-intl-formatted-duration
+
+## 历史版本号
+
+- 当前版本：3.0.0
+
+- 3.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @codemix/react-intl-formatted-duration`
+- npm registry：https://registry.npmjs.org/@codemix/react-intl-formatted-duration

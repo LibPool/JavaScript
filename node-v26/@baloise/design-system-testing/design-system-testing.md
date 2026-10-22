@@ -1,0 +1,36 @@
+# @baloise/design-system-testing
+
+> 标签: JavaScript
+
+## 简介
+
+The Baloise Design-System is an open source project for styling awesome web applications that follow the Baloise corporate styling guidelines.
+
+## 官网
+
+- 官网：https://design.baloise.dev
+- 源码仓库：git+https://github.com/baloise/design-system.git
+- npm 页面：https://www.npmjs.com/package/@baloise/design-system-testing
+
+## 历史版本号
+
+- 当前版本：15.2.4
+
+- 14.5.1
+- 14.6.0
+- 15.0.0
+- 15.0.1
+- 15.0.2
+- 15.1.0
+- 15.1.1
+- 15.2.0
+- 15.2.1
+- 15.2.2
+- 15.2.3
+- 15.2.4
+- 共 568 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @baloise/design-system-testing`
+- npm registry：https://registry.npmjs.org/@baloise/design-system-testing

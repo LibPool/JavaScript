@@ -1,0 +1,26 @@
+# @boltz.one/viber
+
+> 标签: JavaScript
+
+## 简介
+
+viber terminal app — native binary wrapper with automatic platform resolution
+
+## 官网
+
+- 官网：https://github.com/boltz-one/viber#readme
+- 源码仓库：git+https://github.com/boltz-one/viber.git
+- npm 页面：https://www.npmjs.com/package/@boltz.one/viber
+
+## 历史版本号
+
+- 当前版本：0.3.1
+
+- 0.2.0
+- 0.3.1
+
+## 获取地址
+
+- npm 安装：`npm install @boltz.one/viber`
+- npm registry：https://registry.npmjs.org/@boltz.one/viber
+- Node 要求：>=18

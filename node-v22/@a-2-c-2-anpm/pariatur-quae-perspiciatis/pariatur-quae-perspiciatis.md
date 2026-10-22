@@ -1,0 +1,24 @@
+# @a-2-c-2-anpm/pariatur-quae-perspiciatis
+
+> 标签: .env, 0, 3d, @@toStringTag, Array, Array.prototype.flat, Array.prototype.flatMap, ArrayBuffer, ArrayBuffer#slice, ArrayBuffer.prototype.slice, AsyncIterator, BigInt64Array, BigUint64Array, CSS, CSSStyleDeclaration, ECMAScript 2015, ECMAScript 2016, ECMAScript 2017, ECMAScript 2018, ECMAScript 2020, ECMAScript 2023, ECMAScript 3, ES, ES2015, ES2016, ES2017, ES2022, ES3, ES7, ES8, ESnext, Float64Array, Function.prototype.name, Int16Array, Int32Array, Int8Array, Iterator, JSON, Map, Microsoft, Object.assign, Object.defineProperty, Object.entries, Object.fromEntries, Object.getPrototypeOf, Object.is, Object.values, Observables, ReactiveX, Reflect.getPrototypeOf, RegExp#flags, RegExp.prototype.flags, Rx, RxJS, Streams, String.prototype.matchAll, Symbol, TypeBox, TypeScript, TypedArray, URL, URLSearchParams, Uint8Array, Uint8ClampedArray, WeakSet, YAML, [[Prototype]], _.extend, accessibility, accessor, agent, airbnb, ajv, api, argparse, args, argument, arktype, array, arraybuffer, arrays, art, assertion, asserts, assign, authentication, await, banner, bcrypt, bdd, break, browser, browserlist, browserslist, buffer, bundling, busy, cache, call-bind, callback, callbind, callbound, chai, channel, chinese, chromium, cjk, client, clone, code points, collection, collection.es6, color, colors, colour, columns, command, commander, compiler, computed-types, concatMap, config, connect, console, consume, contains, core, core-js, cors, crypt, css, css variable, curl, dayjs, debug, deep, deep-copy, deepclone, deepcopy, define, defineProperty, delete, dependencies, description, descriptor, deterministic, diff, dir, directory, dom, drag, duplex, east-asian-width, efficient, elm, emoji, ender, entries, enumerable, environment, equal, equality, error, es-abstract, es-shim API, es-shims, es2016, es2017, es2018, es6, es8, eslint, eslint-plugin, eslintplugin, estree, eventDispatcher, events, exit, exit-code, extra, fast, fast-clone, fast-copy, fast-deep-clone, fastcopy, figlet, file, file system, filter, find, find-up, findLast, fixed-width, flags, flux, folder, form-validation, format, framer, framework, fs, fsevents, full, full-width, fullwidth, functional, gdpr, get, getPrototypeOf, getintrinsic, glob, gradients css, gradients css3, group, groupBy, guid, handlers, has, hasOwn, hash, hookform, hooks, hot, https, i18n, import, input, inspect, install, internal, internal slot, interrupts, intrinsic, invariant, irq, is, isConcatSpreadable, iteration, iterator, japanese, jasmine, jest, joi, js, jsdiff, json-schema, json-schema-validation, json-schema-validator, jsonpath, jsx, jwt, karma, key, keys, l10n, language, last, less, less mixins, less.js, lesscss, limited, link, lint, linux, look, make dir, map, match, matchAll, matches, merge, metadata, mime, mixins, mkdirp, module, modules, moment, monorepo, mru, name, names, native, negative, negative zero, nested css, node, obj, object, offset, omit, once, operating-system, optimizer, option, package manager, package.json, password, patch, path, performant, phone, pnpm9, ponyfill, pose, positive, postcss, prefix, preserve-symlinks, pretty, private data, process, progress, promise, promises, proto, prototype, proxy, push, qs, queue, queueMicrotask, quote, random, rangeerror, rapid, ratelimit, react, react-hook-form, react-hooks, read, readablestream, real-time, recursive, redact, reduce, redux-toolkit, regex, regexp, regular expression, remove, request, require, reuse, rfc4122, rm, rm -fr, rm -rf, robust, runtime, sameValueZero, schema, search, serialization, serialize, serializer, setImmediate, setPrototypeOf, setter, settings, shared, sharedarraybuffer, shrinkwrap, side, sigint, sigterm, slice, slot, some, sort, sorted, spec, speed, spinner, spinners, spring, starter, stateless, status, streams, streams2, stringifier, structuredClone, styled-components, styleguide, styling, superagent, superstruct, symbol, take, task, tdd, terminal, tester, three, throat, toArray, touch, traverse, trim, trimEnd, trimLeft, trimRight, trimStart, ts, tslib, tty, type, typed, typed array, typedarray, typeerror, typescript, unicode, uninstall, user-streams, util, util.inspect, utilities, validate, validation, validator, values, variables, variables in css, vest, view, visual, waapi, walking, warning, watch, watchFile, watcher, wget, which, width, windows, wordbreak, wordwrap, workspace:*, writable, yaml, yup
+
+## 简介
+
+<div align="center">
+
+## 官网
+
+- 官网：https://github.com/a-2-c-2-anpm/pariatur-quae-perspiciatis/#readme
+- 源码仓库：git+https://github.com/a-2-c-2-anpm/pariatur-quae-perspiciatis.git
+- npm 页面：https://www.npmjs.com/package/@a-2-c-2-anpm/pariatur-quae-perspiciatis
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @a-2-c-2-anpm/pariatur-quae-perspiciatis`
+- npm registry：https://registry.npmjs.org/@a-2-c-2-anpm/pariatur-quae-perspiciatis

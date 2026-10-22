@@ -1,0 +1,24 @@
+# @haechi-labs/haechi-cli
+
+> 标签: blockchain, cli, dapps, ethereum, javascript, smart-contracts, solidity, task-runner, tooling, upgradeable
+
+## 简介
+
+Command Line Interface for the upgradeable smart contract framework
+
+## 官网
+
+- 官网：https://haechi.io
+- 源码仓库：git+https://github.com/HAECHI-LABS/HAECHI-CLI.git
+- npm 页面：https://www.npmjs.com/package/@haechi-labs/haechi-cli
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @haechi-labs/haechi-cli`
+- npm registry：https://registry.npmjs.org/@haechi-labs/haechi-cli

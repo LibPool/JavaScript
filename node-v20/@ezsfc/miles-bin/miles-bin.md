@@ -1,0 +1,24 @@
+# @ezsfc/miles-bin
+
+> 标签: JavaScript
+
+## 简介
+
+ANA miles scraper.
+
+## 官网
+
+- 官网：https://github.com/ezsfc/miles-bin
+- 源码仓库：git+https://github.com/ezsfc/miles-bin.git
+- npm 页面：https://www.npmjs.com/package/@ezsfc/miles-bin
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @ezsfc/miles-bin`
+- npm registry：https://registry.npmjs.org/@ezsfc/miles-bin

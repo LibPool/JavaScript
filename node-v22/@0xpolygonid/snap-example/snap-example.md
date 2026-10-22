@@ -1,0 +1,34 @@
+# @0xpolygonid/snap-example
+
+> 标签: JavaScript
+
+## 简介
+
+PolygonID MetaMask Snap example
+
+## 官网
+
+- 官网：https://github.com/0xPolygonID/snap-example#readme
+- 源码仓库：git+https://github.com/0xPolygonID/snap-example.git
+- npm 页面：https://www.npmjs.com/package/@0xpolygonid/snap-example
+
+## 历史版本号
+
+- 当前版本：1.0.0-beta.9
+
+- 1.0.0-beta.0
+- 1.0.0-beta.1
+- 1.0.0-beta.2
+- 1.0.0-beta.3
+- 1.0.0-beta.4
+- 1.0.0-beta.5
+- 1.0.0-beta.6
+- 1.0.0-beta.7
+- 1.0.0-beta.8
+- 1.0.0-beta.9
+
+## 获取地址
+
+- npm 安装：`npm install @0xpolygonid/snap-example`
+- npm registry：https://registry.npmjs.org/@0xpolygonid/snap-example
+- Node 要求：>=16.0.0

@@ -1,0 +1,35 @@
+# @c2n/switch
+
+> 标签: lit, switch, web component
+
+## 简介
+
+Switch built with Lit: an on/off toggle on a native `<input type="checkbox" role="switch">`, with label, description and optional icons inside the thumb.
+
+## 官网
+
+- 官网：https://github.com/code2nguyen/web-components#readme
+- 源码仓库：git+https://github.com/code2nguyen/web-components.git
+- npm 页面：https://www.npmjs.com/package/@c2n/switch
+
+## 历史版本号
+
+- 当前版本：0.0.24
+
+- 0.0.17
+- 0.0.18
+- 0.0.19
+- 0.0.20
+- 0.0.21
+- 0.0.22
+- 0.0.23
+- 0.0.24
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @c2n/switch`
+- npm registry：https://registry.npmjs.org/@c2n/switch

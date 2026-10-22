@@ -1,0 +1,25 @@
+# @diamondbot/porn-command
+
+> 标签: command, diamondbot, diamondbot command, discord, gifs, nsfw, photos, porn, search
+
+## 简介
+
+DiamondBot command to search and post porn pics and gifs
+
+## 官网
+
+- 官网：https://github.com/alvarocastro/diamondbot/commands/porn#readme
+- 源码仓库：git+https://github.com/alvarocastro/diamondbot.git
+- npm 页面：https://www.npmjs.com/package/@diamondbot/porn-command
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @diamondbot/porn-command`
+- npm registry：https://registry.npmjs.org/@diamondbot/porn-command

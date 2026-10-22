@@ -1,0 +1,24 @@
+# @abbainitiative/registry
+
+> 标签: abba, component-registry, design-system, design-tokens
+
+## 简介
+
+Machine-readable catalogue of ABBA Design System components and design tokens.
+
+## 官网
+
+- 官网：https://abba-ui.vercel.app
+- 源码仓库：git+https://github.com/Lonergun141/abba-ui.git
+- npm 页面：https://www.npmjs.com/package/@abbainitiative/registry
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @abbainitiative/registry`
+- npm registry：https://registry.npmjs.org/@abbainitiative/registry

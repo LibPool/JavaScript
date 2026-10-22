@@ -1,0 +1,26 @@
+# @drownek/paperwright
+
+> 标签: e2e, minecraft, mineflayer, paper, spigot, testing
+
+## 简介
+
+End-to-end testing framework for Paper/Spigot Minecraft plugins
+
+## 官网
+
+- 官网：https://github.com/Drownek/paperwright#readme
+- 源码仓库：git+https://github.com/Drownek/paperwright.git
+- npm 页面：https://www.npmjs.com/package/@drownek/paperwright
+
+## 历史版本号
+
+- 当前版本：1.3.3
+
+- 1.3.2
+- 1.3.3
+
+## 获取地址
+
+- npm 安装：`npm install @drownek/paperwright`
+- npm registry：https://registry.npmjs.org/@drownek/paperwright
+- Node 要求：>=16.0.0

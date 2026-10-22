@@ -1,0 +1,25 @@
+# @agnoc/domain
+
+> 标签: agnoc, cecotec, conga, domain, driver, engineering, reverse
+
+## 简介
+
+Agnoc domain library
+
+## 官网
+
+- 官网：https://github.com/adrigzr/agnoc
+- 源码仓库：git+https://github.com/adrigzr/agnoc.git
+- npm 页面：https://www.npmjs.com/package/@agnoc/domain
+
+## 历史版本号
+
+- 当前版本：0.18.0-next.0
+
+- 0.18.0-next.0
+
+## 获取地址
+
+- npm 安装：`npm install @agnoc/domain`
+- npm registry：https://registry.npmjs.org/@agnoc/domain
+- Node 要求：>=18.12

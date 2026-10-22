@@ -1,0 +1,26 @@
+# @blainehansen/monads
+
+> 标签: exception, functional, macro, macro-ts, maybe, monad, operator, option, question, result, rust, try
+
+## 简介
+
+`Result` and `Maybe` types and accompanying `macro-ts` helper macros that allow a safe, functional way of dealing with errors and nullable values.
+
+## 官网
+
+- 官网：https://github.com/blainehansen/monads#readme
+- 源码仓库：git+https://github.com/blainehansen/monads.git
+- npm 页面：https://www.npmjs.com/package/@blainehansen/monads
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @blainehansen/monads`
+- npm registry：https://registry.npmjs.org/@blainehansen/monads

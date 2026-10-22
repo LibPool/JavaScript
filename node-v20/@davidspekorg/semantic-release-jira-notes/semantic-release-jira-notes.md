@@ -1,0 +1,27 @@
+# @davidspekorg/semantic-release-jira-notes
+
+> 标签: changelog, jira, release-notes, semantic-release
+
+## 简介
+
+Semantic Release plugin to add JIRA issues link to the release notes
+
+## 官网
+
+- 官网：https://github.com/davidspek/semantic-release-jira-notes
+- 源码仓库：git+https://github.com/davidspek/semantic-release-jira-notes.git
+- npm 页面：https://www.npmjs.com/package/@davidspekorg/semantic-release-jira-notes
+
+## 历史版本号
+
+- 当前版本：1.1.2
+
+- 1.0.2
+- 1.1.0
+- 1.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @davidspekorg/semantic-release-jira-notes`
+- npm registry：https://registry.npmjs.org/@davidspekorg/semantic-release-jira-notes
+- Node 要求：>=20.8.1

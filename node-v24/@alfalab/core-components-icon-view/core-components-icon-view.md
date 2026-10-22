@@ -1,0 +1,34 @@
+# @alfalab/core-components-icon-view
+
+> 标签: JavaScript
+
+## 简介
+
+@alfalab/core-components-icon-view - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@alfalab/core-components-icon-view
+
+## 历史版本号
+
+- 当前版本：5.0.4
+
+- 5.0.0-ca7a3cf250d2d2f5e58bbb0472645c4aad160643
+- 5.0.0-snapshot-a523e5056d76fa17f5dbd56b067fddfc3017d2b0
+- 5.0.0-snapshot-b0bb0320956196dd95984ffd97a4bff7e0fd5075
+- 5.0.0-snapshot-e5041178d37d389f215e7b4cf41033257781b0c3
+- 5.0.1
+- 5.0.1-alfasans
+- 5.0.2
+- 5.0.2-alfasans
+- 5.0.3
+- 5.0.3-alfasans
+- 5.0.4
+- 5.0.4-alfasans
+- 共 95 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @alfalab/core-components-icon-view`
+- npm registry：https://registry.npmjs.org/@alfalab/core-components-icon-view

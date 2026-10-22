@@ -1,0 +1,29 @@
+# @alice-ui/ripple
+
+> 标签: ripple
+
+## 简介
+
+A simple implementation to display a ripple animation when the source component is clicked
+
+## 官网
+
+- 官网：https://github.com/bobbychan/alice-ui#readme
+- 源码仓库：git+https://github.com/bobbychan/alice-ui.git
+- npm 页面：https://www.npmjs.com/package/@alice-ui/ripple
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+
+## 获取地址
+
+- npm 安装：`npm install @alice-ui/ripple`
+- npm registry：https://registry.npmjs.org/@alice-ui/ripple

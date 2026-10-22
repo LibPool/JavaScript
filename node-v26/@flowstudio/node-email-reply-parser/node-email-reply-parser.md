@@ -1,0 +1,26 @@
+# @flowstudio/node-email-reply-parser
+
+> 标签: email, fragment, github, parser, reply, signature
+
+## 简介
+
+Parses emails to remove replies and other potentially unwanted data
+
+## 官网
+
+- 官网：https://github.com/turt2live/node-email-reply-parser#readme
+- 源码仓库：git+https://github.com/turt2live/node-email-reply-parser.git
+- npm 页面：https://www.npmjs.com/package/@flowstudio/node-email-reply-parser
+
+## 历史版本号
+
+- 当前版本：0.1.3
+
+- 0.1.2
+- 0.1.3
+
+## 获取地址
+
+- npm 安装：`npm install @flowstudio/node-email-reply-parser`
+- npm registry：https://registry.npmjs.org/@flowstudio/node-email-reply-parser
+- Node 要求：>= 6.0.0

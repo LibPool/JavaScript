@@ -1,0 +1,26 @@
+# @bytonylee/sol
+
+> 标签: cli, coding-agent, solar, tui, upstage
+
+## 简介
+
+A Python coding-agent harness for Upstage Solar models.
+
+## 官网
+
+- 官网：https://github.com/bytonylee/solar-code
+- 源码仓库：git+https://github.com/bytonylee/solar-code.git
+- npm 页面：https://www.npmjs.com/package/@bytonylee/sol
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @bytonylee/sol`
+- npm registry：https://registry.npmjs.org/@bytonylee/sol
+- Node 要求：>=18

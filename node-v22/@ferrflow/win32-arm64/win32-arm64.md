@@ -1,0 +1,36 @@
+# @ferrflow/win32-arm64
+
+> 标签: JavaScript
+
+## 简介
+
+FerrFlow Windows arm64 binary
+
+## 官网
+
+- 官网：https://github.com/FerrLabs/FerrFlow#readme
+- 源码仓库：git+https://github.com/FerrLabs/FerrFlow.git
+- npm 页面：https://www.npmjs.com/package/@ferrflow/win32-arm64
+
+## 历史版本号
+
+- 当前版本：7.33.0
+
+- 7.28.3
+- 7.28.4
+- 7.28.5
+- 7.28.6
+- 7.29.0
+- 7.30.0
+- 7.30.1
+- 7.30.2
+- 7.30.3
+- 7.31.0
+- 7.32.0
+- 7.33.0
+- 共 173 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @ferrflow/win32-arm64`
+- npm registry：https://registry.npmjs.org/@ferrflow/win32-arm64

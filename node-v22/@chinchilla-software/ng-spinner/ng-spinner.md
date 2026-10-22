@@ -1,0 +1,26 @@
+# @chinchilla-software/ng-spinner
+
+> 标签: JavaScript
+
+## 简介
+
+AngularJS basic wrapper for an SVG loader/spinner with progress feedback
+
+## 官网
+
+- 官网：https://github.com/Chinchilla-Software-Com/ngSpinner#readme
+- 源码仓库：git+https://github.com/Chinchilla-Software-Com/ngSpinner.git
+- npm 页面：https://www.npmjs.com/package/@chinchilla-software/ng-spinner
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @chinchilla-software/ng-spinner`
+- npm registry：https://registry.npmjs.org/@chinchilla-software/ng-spinner

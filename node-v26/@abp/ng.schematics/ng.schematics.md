@@ -1,0 +1,34 @@
+# @abp/ng.schematics
+
+> 标签: angular, aspnetcore, best-practices, blazor, boilerplate, csharp, framework, maui, mvc, web, webapp
+
+## 简介
+
+ABP Framework is a complete open-source infrastructure to create modern web applications by following the best practices and conventions of software development. This package is a part of the [ABP Framework](https://abp.io) and contains client-side files.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@abp/ng.schematics
+
+## 历史版本号
+
+- 当前版本：10.7.0
+
+- 10.7.0-rc.2
+- 10.7.0-rc.3
+- 10.7.0-rc.4
+- 10.7.0-rc.5
+- 9.2.4
+- 9.3.1
+- 9.3.2
+- 9.3.3
+- 9.3.4
+- 9.3.5
+- 9.3.6
+- 9.3.7
+- 共 240 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @abp/ng.schematics`
+- npm registry：https://registry.npmjs.org/@abp/ng.schematics

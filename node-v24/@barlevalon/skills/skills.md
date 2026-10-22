@@ -1,0 +1,35 @@
+# @barlevalon/skills
+
+> 标签: agent-skill, agent-skills, ai-agent, claude-code, codex, cursor, monorepo, pi, pi-package, skills
+
+## 简介
+
+Bootstrap Alon's agentic environment with maintained local skills and upstream workflow skills.
+
+## 官网
+
+- 官网：https://github.com/barlevalon/skills#readme
+- 源码仓库：git+https://github.com/barlevalon/skills.git
+- npm 页面：https://www.npmjs.com/package/@barlevalon/skills
+
+## 历史版本号
+
+- 当前版本：3.0.0
+
+- 0.7.7
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 2.0.0
+- 2.1.0
+- 2.2.0
+- 2.3.0
+- 3.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @barlevalon/skills`
+- npm registry：https://registry.npmjs.org/@barlevalon/skills

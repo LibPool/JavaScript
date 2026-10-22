@@ -1,0 +1,27 @@
+# @freshworks/nucleus-codemods
+
+> 标签: codemod-cli
+
+## 简介
+
+![CI](https://github.com/freshdesk/nucleus-codemods/workflows/CI/badge.svg) [![npm version](https://badge.fury.io/js/%40freshworks%2Fnucleus-codemods.svg)](https://www.npmjs.com/package/@freshworks/nucleus-codemods)
+
+## 官网
+
+- 官网：https://github.com/freshdesk/nucleus-codemods#readme
+- 源码仓库：git+https://github.com/freshdesk/nucleus-codemods.git
+- npm 页面：https://www.npmjs.com/package/@freshworks/nucleus-codemods
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.1.0
+- 0.2.0
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @freshworks/nucleus-codemods`
+- npm registry：https://registry.npmjs.org/@freshworks/nucleus-codemods
+- Node 要求：8.* || 10.* || >= 12

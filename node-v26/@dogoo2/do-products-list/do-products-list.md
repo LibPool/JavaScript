@@ -1,0 +1,24 @@
+# @dogoo2/do-products-list
+
+> 标签: JavaScript
+
+## 简介
+
+List products of dogoo-office
+
+## 官网
+
+- 源码仓库：git@gitlab.dogoo.vn:dogoo-ui-library/do-products-list.git
+- npm 页面：https://www.npmjs.com/package/@dogoo2/do-products-list
+
+## 历史版本号
+
+- 当前版本：1.0.8
+
+- 1.0.8
+
+## 获取地址
+
+- npm 安装：`npm install @dogoo2/do-products-list`
+- npm registry：https://registry.npmjs.org/@dogoo2/do-products-list
+- Node 要求：>=10

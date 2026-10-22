@@ -1,0 +1,27 @@
+# @depup/yargs-unparser
+
+> 标签: argv, depup, expand, inverse, latest, patched, security, unparse, updated-dependencies, yargs, yargs-unparser
+
+## 简介
+
+Converts back a yargs argv object to its original array form (with updated dependencies)
+
+## 官网
+
+- 官网：https://github.com/yargs/yargs-unparser
+- 源码仓库：git+https://github.com/yargs/yargs-unparser.git
+- npm 页面：https://www.npmjs.com/package/@depup/yargs-unparser
+
+## 历史版本号
+
+- 当前版本：2.0.0-depup.2
+
+- 2.0.0-depup.0
+- 2.0.0-depup.1
+- 2.0.0-depup.2
+
+## 获取地址
+
+- npm 安装：`npm install @depup/yargs-unparser`
+- npm registry：https://registry.npmjs.org/@depup/yargs-unparser
+- Node 要求：>=10

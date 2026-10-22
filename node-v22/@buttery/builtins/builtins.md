@@ -1,0 +1,28 @@
+# @buttery/builtins
+
+> 标签: JavaScript
+
+## 简介
+
+Common utilities that are a part of every @buttery/tool but also should be standard in the TS/JS language
+
+## 官网
+
+- 官网：https://github.com/drewdecarme/buttery-tools#readme
+- 源码仓库：git+ssh://git@github.com/drewdecarme/buttery-tools.git
+- npm 页面：https://www.npmjs.com/package/@buttery/builtins
+
+## 历史版本号
+
+- 当前版本：0.1.8
+
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+
+## 获取地址
+
+- npm 安装：`npm install @buttery/builtins`
+- npm registry：https://registry.npmjs.org/@buttery/builtins

@@ -1,0 +1,33 @@
+# @create-moralis-dapp/next
+
+> 标签: JavaScript
+
+## 简介
+
+Run `npx create-moralis-dapp` in directory where you want to setup dApp
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@create-moralis-dapp/next
+
+## 历史版本号
+
+- 当前版本：2.18.2
+
+- 1.0.1-beta.11
+- 1.0.1-beta.2
+- 1.0.1-beta.3
+- 1.0.1-beta.4
+- 1.0.1-beta.5
+- 1.0.1-beta.6
+- 1.0.1-beta.9
+- 2.16.1
+- 2.17.0
+- 2.18.0
+- 2.18.1
+- 2.18.2
+
+## 获取地址
+
+- npm 安装：`npm install @create-moralis-dapp/next`
+- npm registry：https://registry.npmjs.org/@create-moralis-dapp/next

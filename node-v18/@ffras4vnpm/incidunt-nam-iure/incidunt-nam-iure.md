@@ -1,0 +1,24 @@
+# @ffras4vnpm/incidunt-nam-iure
+
+> 标签: $.extend, -0, 0, 256, 3d, 6to5, @@toStringTag, Array.prototype.filter, Array.prototype.findLast, Array.prototype.findLastIndex, Array.prototype.flat, Array.prototype.includes, ArrayBuffer.prototype.slice, BigUint64Array, CSS, CSSStyleDeclaration, ECMAScript 2015, ECMAScript 2018, ECMAScript 2020, ECMAScript 2021, ECMAScript 2022, ECMAScript 2023, ECMAScript 3, ECMAScript 6, ES2016, ES2018, ES2019, ES2020, ES2023, ES5, ES7, ES8, ESnext, Float32Array, Float64Array, HyBi, Int16Array, Int32Array, Iterator, JSON, Microsoft, Object.assign, Object.defineProperty, Object.entries, Object.fromEntries, Object.getPrototypeOf, Object.is, Observable, Observables, Promise, Push, RFC-6455, ReactiveX, Reflect.getPrototypeOf, RegExp#flags, RxJS, Stream, Streams, Symbol.toStringTag, TypeBox, TypedArray, URL, URLSearchParams, Uint16Array, Uint8ClampedArray, WeakMap, WeakSet, WebSocket, YAML, a11y, ajax, ajv, animation, ansi, app, argument, argv, array, arraybuffer, art, ascii, assert, assertion, asserts, assign, async, autoprefixer, ava, await, awesomesauce, babel-core, bind, bootstrap css, bootstrap less, break, browserslist, buffer, buffers, bundling, busy, cache, call, call-bind, callbind, callbound, channel, character, check, chinese, chromium, circular, cjk, class-validator, classes, classnames, clone, cmd, code points, codes, color, colors, column, columns, command, compare, compile less, compiler, concat, configurable, connect, console, const, consume, core, core-js, cors, crypto, css, css-in-js, curried, datastructure, date, dayjs, debug, deep, deep-copy, define, defineProperty, delete, descriptor, descriptors, dir, dom-testing-library, drop, duplex, ecmascript, efficient, electron, emit, emoji, ender, entries, enumerable, env, environment, equal, equality, error-handling, es-abstract, es-shim API, es2015, es2017, es2018, es7, es8, eslint, eslint-plugin, eslintconfig, exe, exit, expression, extend, extra, fast, fast-copy, fast-deep-copy, fastclone, fastify, figlet, file, find-up, flag, flags, flatMap, flatten, folder, forEach, form-validation, formatting, framework, from, fs, full, full-width, functional, generics, gestures, get, getOwnPropertyDescriptor, getintrinsic, getopt, getter, glob, gradients css, graphql, guid, handlers, hardlinks, harmony, has, hash, hookform, hooks, http, idle, ie, immer, indicator, inference, inspect, install, installer, internal, interrupts, invariant, isConcatSpreadable, jQuery, japanese, jasmine, javascript, jest, joi, js, jsdom, json-schema, json-schema-validation, json-schema-validator, jsonschema, jsx, jwt, key, keys, korean, l10n, launch, lazy, length, lesscss, limit, link, listeners, loading, lockfile, look, look-up, make dir, map, matches, merge, middleware, mime-db, mimetypes, minimal, mkdir, mkdirp, modules, monorepo, multi-package, name, names, nested css, nope, npm, number, obj, offset, once, open, operating-system, optimist, optimizer, package, package manager, package.json, parent, parse, patch, path, pipe, polyfill, popmotion, pose, postcss, preprocessor, preserve-symlinks, pretty, process, promise, promises, prop, properties, property, protobuf, protocol-buffers, prune, pure, qs, querystring, quote, ramda, rangeerror, rate, react-hook-form, react-hooks, react-testing-library, read, readablestream, recursive, redact, reducer, redux, require, reuse, rgb, rm -fr, rm -rf, robust, runtime, safe, sameValueZero, schema, scheme, search, serialization, setPrototypeOf, settings, sham, sharedarraybuffer, shebang, shrinkwrap, side, sigint, signal, signals, sigterm, sort, spec, spring, start, starter, stateless, streams, streams2, stringify, structuredClone, style, styled-components, styles, superstruct, symlink, syntax, syntaxerror, tacit, tap, tape, task, tc39, telephone, tester, text, time, toArray, toStringTag, toobject, toolkit, tostringtag, touch, transpiler, trim, trimEnd, trimLeft, ts, tslib, type, typed array, typeerror, typesafe, typescript, unicode, up, url, urls, util, util.inspect, utility, utils, validation, value, variables, variables in css, vest, visual, waapi, wait, walking, warning, watch, watchFile, watching, web, wget, whatwg, width, worker, wrap, xterm, yaml, yup, zero, zod
+
+## 简介
+
+[![NPM version][npm-version-image]][npm-url] [![NPM downloads][npm-downloads-image]][npm-downloads-url] [![MIT License][license-image]][license-url] [![Build Status][travis-image]][travis-url] [![Coverage Status][coveralls-image]][coveralls-url] [![FOSSA
+
+## 官网
+
+- 官网：https://github.com/ffras4vnpm/incidunt-nam-iure/#readme
+- 源码仓库：git+https://github.com/ffras4vnpm/incidunt-nam-iure.git
+- npm 页面：https://www.npmjs.com/package/@ffras4vnpm/incidunt-nam-iure
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @ffras4vnpm/incidunt-nam-iure`
+- npm registry：https://registry.npmjs.org/@ffras4vnpm/incidunt-nam-iure

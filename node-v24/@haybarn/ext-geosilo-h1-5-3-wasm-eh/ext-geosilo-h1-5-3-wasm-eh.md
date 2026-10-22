@@ -1,0 +1,25 @@
+# @haybarn/ext-geosilo-h1-5-3-wasm-eh
+
+> 标签: duckdb, duckdb-wasm, extension, geosilo, haybarn, wasm
+
+## 简介
+
+WebAssembly (eh) build of the Haybarn extension 'geosilo' for duckdb-wasm. Built against haybarn 1.5.3. Pick the variant (mvp/eh/threads) matching your duckdb-wasm bundle.
+
+## 官网
+
+- 官网：https://github.com/Query-farm/geosilo
+- 源码仓库：git+https://github.com/Query-farm-haybarn/haybarn-community-extensions.git
+- npm 页面：https://www.npmjs.com/package/@haybarn/ext-geosilo-h1-5-3-wasm-eh
+
+## 历史版本号
+
+- 当前版本：202604.27.1620573
+
+- 202604.27.162057
+- 202604.27.1620573
+
+## 获取地址
+
+- npm 安装：`npm install @haybarn/ext-geosilo-h1-5-3-wasm-eh`
+- npm registry：https://registry.npmjs.org/@haybarn/ext-geosilo-h1-5-3-wasm-eh

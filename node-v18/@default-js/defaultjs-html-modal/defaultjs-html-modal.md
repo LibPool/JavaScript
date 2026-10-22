@@ -1,0 +1,27 @@
+# @default-js/defaultjs-html-modal
+
+> 标签: dialog, html, modal, web component
+
+## 简介
+
+- [defaultjs-html-modal](#defaultjs-html-modal) - [How to include?](#how-to-include)   - [npm](#npm)   - [browser](#browser) - [How to use?](#how-to-use)   - [Attribute: `template` - optional](#attribute-template---optional)   - [Attribute: `closabl
+
+## 官网
+
+- 官网：https://github.com/default-js/defaultjs-html-modal#readme
+- 源码仓库：git+https://github.com/default-js/defaultjs-html-modal.git
+- npm 页面：https://www.npmjs.com/package/@default-js/defaultjs-html-modal
+
+## 历史版本号
+
+- 当前版本：1.3.2
+
+- 1.0.0
+- 1.1.0
+- 1.3.1
+- 1.3.2
+
+## 获取地址
+
+- npm 安装：`npm install @default-js/defaultjs-html-modal`
+- npm registry：https://registry.npmjs.org/@default-js/defaultjs-html-modal

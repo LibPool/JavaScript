@@ -1,0 +1,36 @@
+# @bernierllc/message-queue
+
+> 标签: bernierllc, message-queue, messaging, ordering, persistence, queue
+
+## 简介
+
+Atomic message queuing utilities for message ordering and persistence
+
+## 官网
+
+- 官网：https://github.com/bernier-llc/tools#readme
+- 源码仓库：git+https://github.com/bernierllc/tools.git
+- npm 页面：https://www.npmjs.com/package/@bernierllc/message-queue
+
+## 历史版本号
+
+- 当前版本：1.5.2
+
+- 0.2.6
+- 1.0.2
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.2.0
+- 1.4.0
+- 1.5.0
+- 1.5.1
+- 1.5.2
+
+## 获取地址
+
+- npm 安装：`npm install @bernierllc/message-queue`
+- npm registry：https://registry.npmjs.org/@bernierllc/message-queue
+- Node 要求：>=18.0.0

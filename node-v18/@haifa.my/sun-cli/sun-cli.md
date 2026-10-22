@@ -1,0 +1,26 @@
+# @haifa.my/sun-cli
+
+> 标签: JavaScript
+
+## 简介
+
+Sun deployment and operations CLI
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@haifa.my/sun-cli
+
+## 历史版本号
+
+- 当前版本：0.1.5
+
+- 0.1.0
+- 0.1.1
+- 0.1.4
+- 0.1.5
+
+## 获取地址
+
+- npm 安装：`npm install @haifa.my/sun-cli`
+- npm registry：https://registry.npmjs.org/@haifa.my/sun-cli
+- Node 要求：>=18

@@ -1,0 +1,24 @@
+# @efixdata/connector-bybit
+
+> 标签: adapter, bybit, chart, cryptocurrency, efixdata, ohlc, price-data
+
+## 简介
+
+Bybit data adapter for @efixdata/exeria-chart - real-time cryptocurrency price data
+
+## 官网
+
+- 官网：https://github.com/Efixdata/exeria-charts#readme
+- 源码仓库：git+https://github.com/Efixdata/exeria-charts.git
+- npm 页面：https://www.npmjs.com/package/@efixdata/connector-bybit
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @efixdata/connector-bybit`
+- npm registry：https://registry.npmjs.org/@efixdata/connector-bybit

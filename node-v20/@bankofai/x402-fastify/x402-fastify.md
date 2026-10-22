@@ -1,0 +1,34 @@
+# @bankofai/x402-fastify
+
+> 标签: JavaScript
+
+## 简介
+
+x402 Payment Protocol - Fastify middleware
+
+## 官网
+
+- 源码仓库：https://github.com/x402-foundation/x402
+- npm 页面：https://www.npmjs.com/package/@bankofai/x402-fastify
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 1.0.0-beta.3
+- 1.0.0-beta.4
+- 1.0.0-beta.5
+- 1.0.0-beta.6
+- 1.0.0-beta.7
+- 1.0.1
+- 1.0.1-beta.1
+- 1.0.1-beta.2
+- 1.0.1-beta.3
+- 1.0.1-beta.4
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @bankofai/x402-fastify`
+- npm registry：https://registry.npmjs.org/@bankofai/x402-fastify

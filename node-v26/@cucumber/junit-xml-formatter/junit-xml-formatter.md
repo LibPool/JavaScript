@@ -1,0 +1,33 @@
+# @cucumber/junit-xml-formatter
+
+> 标签: JavaScript
+
+## 简介
+
+⚠️ This is an internal package; you don't need to install it in order to use the junit formatter in `@cucumber/cucumber` as it's built in there.
+
+## 官网
+
+- 官网：https://github.com/cucumber/junit-xml-formatter#readme
+- 源码仓库：git+https://github.com/cucumber/junit-xml-formatter.git
+- npm 页面：https://www.npmjs.com/package/@cucumber/junit-xml-formatter
+
+## 历史版本号
+
+- 当前版本：0.15.0
+
+- 0.13.2
+- 0.13.3
+- 0.14.0
+- 0.14.1
+- 0.15.0
+- 0.6.0
+- 0.7.1
+- 0.8.0
+- 0.8.1
+- 0.9.0
+
+## 获取地址
+
+- npm 安装：`npm install @cucumber/junit-xml-formatter`
+- npm registry：https://registry.npmjs.org/@cucumber/junit-xml-formatter

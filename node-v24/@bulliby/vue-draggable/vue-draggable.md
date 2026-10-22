@@ -1,0 +1,24 @@
+# @bulliby/vue-draggable
+
+> 标签: draggable, server, ssr, vue
+
+## 简介
+
+An easy-to-use draggable component for Vue.js.
+
+## 官网
+
+- 官网：https://github.com/Cojecom/vue-draggable#readme
+- 源码仓库：git+https://github.com/Cojecom/vue-draggable.git
+- npm 页面：https://www.npmjs.com/package/@bulliby/vue-draggable
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @bulliby/vue-draggable`
+- npm registry：https://registry.npmjs.org/@bulliby/vue-draggable

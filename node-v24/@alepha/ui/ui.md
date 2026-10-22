@@ -1,0 +1,36 @@
+# @alepha/ui
+
+> 标签: alepha, base-ui, react, tailwind, typescript, ui
+
+## 简介
+
+Shared Base UI and Tailwind components for Alepha apps. Edited directly; bugfixes propagate via normal dep updates.
+
+## 官网
+
+- 官网：https://alepha.dev
+- 源码仓库：git+https://github.com/alepha-dev/alepha.git
+- npm 页面：https://www.npmjs.com/package/@alepha/ui
+
+## 历史版本号
+
+- 当前版本：0.33.0
+
+- 0.25.0
+- 0.25.1
+- 0.25.2
+- 0.26.0
+- 0.27.0
+- 0.27.1
+- 0.28.0
+- 0.29.0
+- 0.30.0
+- 0.31.0
+- 0.32.0
+- 0.33.0
+
+## 获取地址
+
+- npm 安装：`npm install @alepha/ui`
+- npm registry：https://registry.npmjs.org/@alepha/ui
+- Node 要求：>=24.0.0

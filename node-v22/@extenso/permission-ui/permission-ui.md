@@ -1,0 +1,24 @@
+# @extenso/permission-ui
+
+> 标签: context, providers, react
+
+## 简介
+
+A set of react component to control extension permission
+
+## 官网
+
+- 官网：https://github.com/PlasmoHQ/puro#readme
+- 源码仓库：git+https://github.com/PlasmoHQ/puro.git
+- npm 页面：https://www.npmjs.com/package/@extenso/permission-ui
+
+## 历史版本号
+
+- 当前版本：0.2.5
+
+- 0.2.5
+
+## 获取地址
+
+- npm 安装：`npm install @extenso/permission-ui`
+- npm registry：https://registry.npmjs.org/@extenso/permission-ui

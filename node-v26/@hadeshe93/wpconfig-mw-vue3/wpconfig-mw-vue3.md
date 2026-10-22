@@ -1,0 +1,35 @@
+# @hadeshe93/wpconfig-mw-vue3
+
+> 标签: JavaScript
+
+## 简介
+
+A middleware should be used with `webpack-chain` in order to support the app project based on `vue`.
+
+## 官网
+
+- 官网：https://github.com/hadeshe93/wpconfig#readme
+- 源码仓库：git+https://github.com/hadeshe93/wpconfig.git
+- npm 页面：https://www.npmjs.com/package/@hadeshe93/wpconfig-mw-vue3
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.1.11
+- 0.1.12
+- 0.1.13
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @hadeshe93/wpconfig-mw-vue3`
+- npm registry：https://registry.npmjs.org/@hadeshe93/wpconfig-mw-vue3

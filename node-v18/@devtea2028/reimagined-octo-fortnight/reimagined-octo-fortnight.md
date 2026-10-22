@@ -1,0 +1,24 @@
+# @devtea2028/reimagined-octo-fortnight
+
+> 标签: $.extend, -0, 256, @@toStringTag, Array, Array.prototype.contains, Array.prototype.filter, Array.prototype.findLast, Array.prototype.findLastIndex, Array.prototype.flat, Array.prototype.flatMap, ArrayBuffer#slice, BigInt64Array, BigUint64Array, ECMAScript 2015, ECMAScript 2018, ECMAScript 2019, ECMAScript 2023, ECMAScript 3, ECMAScript 6, ES, ES2015, ES2018, ES2020, ES2021, ES5, ES6, ES7, ES8, ESnext, Float64Array, Int16Array, Iterator, JSON-Schema, Map, Microsoft, Object, Object.defineProperty, Object.getPrototypeOf, Object.is, Object.keys, Observable, Observables, RFC-6455, ReactiveX, RegExp#flags, RegExp.prototype.flags, Set, Stream, String.prototype.matchAll, String.prototype.trim, StyleSheet, Symbol, TypeBox, TypeScript, TypedArray, URLSearchParams, Uint16Array, Uint8Array, Uint8ClampedArray, WeakMap, WeakSet, WebSocket, YAML, [[Prototype]], accessibility, accessor, agent, airbnb, ajv, api, apollo, app, argparse, args, argument, argv, array, arrays, art, ascii, assert, assign, auth, authentication, autoscaling, ava, batch, bcrypt, bluebird, bootstrap css, browser, browserlist, buffers, busy, byte, cache, call-bind, call-bound, callbind, chai, channel, character, characters, chinese, cjk, classes, classname, cli, client, clone, cloudformation, cloudfront, coercible, collection.es6, colour, command-line, compare, compile less, concatMap, concurrency, connect, console, consume, core-js, create, css variable, css-in-js, datastructure, dataview, date, dayjs, debug, debugger, deep, deep-copy, deepcopy, defineProperty, delete, dependencies, descriptor, deterministic, dir, directory, dom, dotenv, drop, east-asian-width, ebs, ec2, ecmascript, efficient, elb, electron, elm, emoji, emr, ender, endpoint, entries, enumerable, env, equal, error, es-shims, es2015, es2017, es2018, es5, es6, eslint, eslint-plugin, estree, eventDispatcher, events, every, exec, express, fast, fast-clone, fast-deep-clone, fast-deep-copy, fastclone, fastify, fetch, figlet, file, file system, findLast, findup, fixed-width, flag, flags, flat, flatMap, flatten, flux, folder, forEach, form, form-validation, forms, fps, from, fs, fullwidth, function, functions, generics, get, getPrototypeOf, getintrinsic, getopt, getter, glacier, glob, global, gradients css, gradients css3, graphql, group, guid, handlers, has, has-own, hasOwn, hasOwnProperty, hash, higher-order, hooks, hot, http, https, id, identifiers, idle, immer, immutable, in, includes, inference, inspect, internal, intrinsic, invariant, io-ts, is, isConcatSpreadable, iterate, iteration, jQuery, japanese, jasmine, jest, js, jsdom, json, jsx, key, kinesis, korean, language, length, less, less css, less.js, lesscss, libphonenumber, limit, limited, listeners, live, log, logger, logging, look, look-up, lru, macos, make, matches, merge, middleware, mime, minimal, mkdir, mkdirp, mocha, modules, moment, monorepo, mru, name, native, negative, nested css, node, nodejs, obj, offset, omit, once, output, own, package.json, packages, parent, parse, parser, parsing, password, patch, path, persistent, phone, plugin, pnpm9, polyfill, ponyfill, postcss, prefix, preprocessor, pretty, private, private data, process, progress, promise, prop, properties, property, protobuf, prototype, prune, push, pyyaml, qs, querystring, queue, queueMicrotask, quote, rangeerror, rapid, rate, rds, react-hooks, read, real-time, recursive, reducer, regex, regexp, regular expression, regular expressions, remove, replay, require, resolve, reuse, rfc4122, rgb, rm, rmdir, robust, route53, runtime, s3, sameValueZero, search, sequence, serializer, set, setImmediate, setter, shared, shebang, shim, shrinkwrap, side, sigint, sinatra, slice, slot, sns, sort, sorted, spec, speed, spinners, stable, starter, stateless, status, stdlib, stream, streams, string, stringifier, structuredClone, style, styled-components, styleguide, styles, stylesheet, symbol, symbols, symlink, symlinks, syntax, syntaxerror, take, tap, tape, task, tc39, tdd, terminal, tester, testing, throttle, toStringTag, toobject, toolkit, tostringtag, traverse, trimEnd, trimRight, tslib, typanion, typed, typedarrays, typeerror, types, util, util.inspect, utilities, valid, value, values, variables, vars, vest, visual, vpc, waf, wait, walk, warning, watch, watching, weakmap, weakset, web, wget, whatwg, which, width, wordbreak, worker, workspace:*, wrap, writable, xhr, xterm, zero, zod
+
+## 简介
+
+@devtea2028/reimagined-octo-fortnight - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/devtea2028/reimagined-octo-fortnight/#readme
+- 源码仓库：git+https://github.com/devtea2028/reimagined-octo-fortnight.git
+- npm 页面：https://www.npmjs.com/package/@devtea2028/reimagined-octo-fortnight
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @devtea2028/reimagined-octo-fortnight`
+- npm registry：https://registry.npmjs.org/@devtea2028/reimagined-octo-fortnight

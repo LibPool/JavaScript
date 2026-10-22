@@ -1,0 +1,25 @@
+# @artisanpack-ui/hooks-js
+
+> 标签: JavaScript
+
+## 简介
+
+WordPress-style actions and filters for JavaScript, with a React adapter.
+
+## 官网
+
+- 官网：https://github.com/ArtisanPack-UI/hooks-js#readme
+- 源码仓库：git+https://github.com/ArtisanPack-UI/hooks-js.git
+- npm 页面：https://www.npmjs.com/package/@artisanpack-ui/hooks-js
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @artisanpack-ui/hooks-js`
+- npm registry：https://registry.npmjs.org/@artisanpack-ui/hooks-js
+- Node 要求：>=20.0.0

@@ -1,0 +1,24 @@
+# @banbury-cheese/voxagent-local-bridge
+
+> 标签: claude, codex, livekit, voxagent, websocket
+
+## 简介
+
+Local WebSocket bridge for VoxAgent to run Codex or Claude on a user's machine.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@banbury-cheese/voxagent-local-bridge
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @banbury-cheese/voxagent-local-bridge`
+- npm registry：https://registry.npmjs.org/@banbury-cheese/voxagent-local-bridge

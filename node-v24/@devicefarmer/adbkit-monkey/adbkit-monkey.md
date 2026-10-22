@@ -1,0 +1,28 @@
+# @devicefarmer/adbkit-monkey
+
+> 标签: adb, adbkit, monkey, monkeyrunner
+
+## 简介
+
+A Node.js interface to the Android monkey tool.
+
+## 官网
+
+- 官网：https://github.com/DeviceFarmer/adbkit-monkey#readme
+- 源码仓库：git+https://github.com/DeviceFarmer/adbkit-monkey.git
+- npm 页面：https://www.npmjs.com/package/@devicefarmer/adbkit-monkey
+
+## 历史版本号
+
+- 当前版本：1.2.1
+
+- 1.0.1
+- 1.1.0
+- 1.2.0
+- 1.2.1
+
+## 获取地址
+
+- npm 安装：`npm install @devicefarmer/adbkit-monkey`
+- npm registry：https://registry.npmjs.org/@devicefarmer/adbkit-monkey
+- Node 要求：>= 0.10.4

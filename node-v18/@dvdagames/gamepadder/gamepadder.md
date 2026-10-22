@@ -1,0 +1,24 @@
+# @dvdagames/gamepadder
+
+> 标签: controller, dualshock, game, gamepad
+
+## 简介
+
+JavaScript class for dealing with HTML 5 GamePad API
+
+## 官网
+
+- 官网：https://github.com/DVDAGames/gamepadder#readme
+- 源码仓库：git+https://github.com/DVDAGames/gamepadder.git
+- npm 页面：https://www.npmjs.com/package/@dvdagames/gamepadder
+
+## 历史版本号
+
+- 当前版本：0.5.2
+
+- 0.5.2
+
+## 获取地址
+
+- npm 安装：`npm install @dvdagames/gamepadder`
+- npm registry：https://registry.npmjs.org/@dvdagames/gamepadder

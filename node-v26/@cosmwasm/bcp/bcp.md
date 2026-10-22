@@ -1,0 +1,34 @@
+# @cosmwasm/bcp
+
+> 标签: JavaScript
+
+## 简介
+
+Transaction codec and client to communicate with any wasmd blockchain
+
+## 官网
+
+- 源码仓库：https://github.com/confio/cosmwasm-js/tree/master/packages/bcp
+- npm 页面：https://www.npmjs.com/package/@cosmwasm/bcp
+
+## 历史版本号
+
+- 当前版本：0.8.1
+
+- 0.7.0-alpha.5
+- 0.7.1
+- 0.7.2
+- 0.7.3
+- 0.7.4
+- 0.7.5
+- 0.7.6
+- 0.7.7
+- 0.7.8
+- 0.8.0
+- 0.8.0-alpha.0
+- 0.8.1
+
+## 获取地址
+
+- npm 安装：`npm install @cosmwasm/bcp`
+- npm registry：https://registry.npmjs.org/@cosmwasm/bcp

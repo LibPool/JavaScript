@@ -1,0 +1,24 @@
+# @dmagee15/dmagee-npm-test
+
+> 标签: JavaScript
+
+## 简介
+
+@dmagee15/dmagee-npm-test - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/dmagee15/npmTest#readme
+- 源码仓库：git+https://github.com/dmagee15/npmTest.git
+- npm 页面：https://www.npmjs.com/package/@dmagee15/dmagee-npm-test
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @dmagee15/dmagee-npm-test`
+- npm registry：https://registry.npmjs.org/@dmagee15/dmagee-npm-test

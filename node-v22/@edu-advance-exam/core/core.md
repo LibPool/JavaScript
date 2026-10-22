@@ -1,0 +1,33 @@
+# @edu-advance-exam/core
+
+> 标签: JavaScript
+
+## 简介
+
+This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@edu-advance-exam/core
+
+## 历史版本号
+
+- 当前版本：3.3.4
+
+- 3.2.2
+- 3.2.3
+- 3.2.4
+- 3.2.5
+- 3.2.6
+- 3.2.7
+- 3.2.8
+- 3.2.9
+- 3.3.1
+- 3.3.2
+- 3.3.3
+- 3.3.4
+
+## 获取地址
+
+- npm 安装：`npm install @edu-advance-exam/core`
+- npm registry：https://registry.npmjs.org/@edu-advance-exam/core

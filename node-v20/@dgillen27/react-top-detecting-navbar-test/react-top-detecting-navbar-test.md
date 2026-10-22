@@ -1,0 +1,27 @@
+# @dgillen27/react-top-detecting-navbar-test
+
+> 标签: dgillen27, navbar, npm, react, top-detecting, ui
+
+## 简介
+
+Navbar that detects when screen is at the tpo of the page
+
+## 官网
+
+- 官网：https://github.com/dgillen27/react-top-detecting-navbar#readme
+- 源码仓库：git+https://github.com/dgillen27/react-top-detecting-navbar.git
+- npm 页面：https://www.npmjs.com/package/@dgillen27/react-top-detecting-navbar-test
+
+## 历史版本号
+
+- 当前版本：2.0.2
+
+- 1.0.0
+- 2.0.0
+- 2.0.1
+- 2.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @dgillen27/react-top-detecting-navbar-test`
+- npm registry：https://registry.npmjs.org/@dgillen27/react-top-detecting-navbar-test

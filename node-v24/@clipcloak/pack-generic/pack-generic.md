@@ -1,0 +1,24 @@
+# @clipcloak/pack-generic
+
+> 标签: JavaScript
+
+## 简介
+
+Generic secrets and PII detectors for ClipCloak
+
+## 官网
+
+- 官网：https://github.com/tkusal/ClipCloak#readme
+- 源码仓库：git+https://github.com/tkusal/ClipCloak.git
+- npm 页面：https://www.npmjs.com/package/@clipcloak/pack-generic
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @clipcloak/pack-generic`
+- npm registry：https://registry.npmjs.org/@clipcloak/pack-generic

@@ -1,0 +1,24 @@
+# @clairview/update-check
+
+> 标签: JavaScript
+
+## 简介
+
+Check if an update for Clairview is available
+
+## 官网
+
+- 官网：https://clairview.io
+- 源码仓库：git+https://github.com/clairview/clairview.git
+- npm 页面：https://www.npmjs.com/package/@clairview/update-check
+
+## 历史版本号
+
+- 当前版本：12.0.2
+
+- 12.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @clairview/update-check`
+- npm registry：https://registry.npmjs.org/@clairview/update-check

@@ -1,0 +1,29 @@
+# @fuel-domains/sdk
+
+> 标签: JavaScript
+
+## 简介
+
+![twitter](https://img.shields.io/twitter/follow/fuel_domains?style=social) ![Waitlist](https://img.shields.io/badge/Fuel_Domais-Waitlist-green?link=https%3A%2F%2Ffuel.domains)
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@fuel-domains/sdk
+
+## 历史版本号
+
+- 当前版本：0.1.7
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+
+## 获取地址
+
+- npm 安装：`npm install @fuel-domains/sdk`
+- npm registry：https://registry.npmjs.org/@fuel-domains/sdk

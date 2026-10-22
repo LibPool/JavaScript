@@ -1,0 +1,25 @@
+# @0x-lerna-fork/get-packed
+
+> 标签: lerna, npm, pack, tarball
+
+## 简介
+
+Read contents of package tarball created by npm pack
+
+## 官网
+
+- 官网：https://github.com/lerna/lerna/tree/master/utils/get-packed#readme
+- 源码仓库：git+https://github.com/lerna/lerna.git
+- npm 页面：https://www.npmjs.com/package/@0x-lerna-fork/get-packed
+
+## 历史版本号
+
+- 当前版本：3.16.3
+
+- 3.16.2
+- 3.16.3
+
+## 获取地址
+
+- npm 安装：`npm install @0x-lerna-fork/get-packed`
+- npm registry：https://registry.npmjs.org/@0x-lerna-fork/get-packed

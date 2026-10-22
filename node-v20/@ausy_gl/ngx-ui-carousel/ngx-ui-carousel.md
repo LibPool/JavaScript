@@ -1,0 +1,26 @@
+# @ausy_gl/ngx-ui-carousel
+
+> 标签: angular, carousel, component, customizable, ng, ngx, ui
+
+## 简介
+
+This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.4.
+
+## 官网
+
+- 官网：https://github.com/sjstreur/ui-carousel#readme
+- npm 页面：https://www.npmjs.com/package/@ausy_gl/ngx-ui-carousel
+
+## 历史版本号
+
+- 当前版本：1.2.0
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+- 1.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @ausy_gl/ngx-ui-carousel`
+- npm registry：https://registry.npmjs.org/@ausy_gl/ngx-ui-carousel

@@ -1,0 +1,25 @@
+# @audio/decode-ape
+
+> 标签: ape, audio, decode, decoder, ffmpeg, libavcodec, lossless, monkey's audio, monkeys audio, wasm
+
+## 简介
+
+Decode Monkey's Audio (APE) with FFmpeg's ape decoder, WASM
+
+## 官网
+
+- 官网：https://github.com/audiojs/decode/tree/main/packages/decode-ape
+- 源码仓库：git+https://github.com/audiojs/decode.git
+- npm 页面：https://www.npmjs.com/package/@audio/decode-ape
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @audio/decode-ape`
+- npm registry：https://registry.npmjs.org/@audio/decode-ape
+- Node 要求：>=18

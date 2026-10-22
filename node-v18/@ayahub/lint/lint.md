@@ -1,0 +1,24 @@
+# @ayahub/lint
+
+> 标签: JavaScript
+
+## 简介
+
+<a name="readme-top"></a>
+
+## 官网
+
+- 官网：https://github.com/weloobe/aya-lint
+- 源码仓库：git+https://github.com/weloobe/aya-lint.git
+- npm 页面：https://www.npmjs.com/package/@ayahub/lint
+
+## 历史版本号
+
+- 当前版本：1.21.0
+
+- 1.21.0
+
+## 获取地址
+
+- npm 安装：`npm install @ayahub/lint`
+- npm registry：https://registry.npmjs.org/@ayahub/lint

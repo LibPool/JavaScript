@@ -1,0 +1,24 @@
+# @amalgupta08/snippet_v1
+
+> 标签: JavaScript
+
+## 简介
+
+> TODO: description
+
+## 官网
+
+- 官网：https://github.com/amalgupta08/snippet#readme
+- 源码仓库：git+https://github.com/amalgupta08/snippet.git
+- npm 页面：https://www.npmjs.com/package/@amalgupta08/snippet_v1
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @amalgupta08/snippet_v1`
+- npm registry：https://registry.npmjs.org/@amalgupta08/snippet_v1

@@ -1,0 +1,35 @@
+# @girs/cluttergst-1.0
+
+> 标签: ClutterGst-1.0, GJS, GObject-Introspection, Gir, TypeScript, types
+
+## 简介
+
+GJS TypeScript type definitions for ClutterGst-1.0, generated from library version 1.6.0
+
+## 官网
+
+- 官网：https://github.com/gjsify/types/tree/main/cluttergst-1.0#readme
+- 源码仓库：git+https://github.com/gjsify/ts-for-gir.git
+- npm 页面：https://www.npmjs.com/package/@girs/cluttergst-1.0
+
+## 历史版本号
+
+- 当前版本：1.6.0-3.3.0
+
+- 1.6.0-3.0.4
+- 1.6.0-3.1.0
+- 1.6.0-3.2.0
+- 1.6.0-3.2.2
+- 1.6.0-3.2.3
+- 1.6.0-3.2.4
+- 1.6.0-3.2.5
+- 1.6.0-3.2.6
+- 1.6.0-3.2.7
+- 1.6.0-3.2.8
+- 1.6.0-3.2.9
+- 1.6.0-3.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @girs/cluttergst-1.0`
+- npm registry：https://registry.npmjs.org/@girs/cluttergst-1.0

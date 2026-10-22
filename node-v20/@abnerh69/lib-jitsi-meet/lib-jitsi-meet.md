@@ -1,0 +1,24 @@
+# @abnerh69/lib-jitsi-meet
+
+> 标签: browser, jingle, jitsi, webrtc, xmpp
+
+## 简介
+
+JS library for accessing Jitsi server side deployments
+
+## 官网
+
+- 官网：https://github.com/abnerh69/lib-jitsi-meet#readme
+- 源码仓库：git://github.com/abnerh69/lib-jitsi-meet.git
+- npm 页面：https://www.npmjs.com/package/@abnerh69/lib-jitsi-meet
+
+## 历史版本号
+
+- 当前版本：2.6726.2-d
+
+- 2.6726.2-d
+
+## 获取地址
+
+- npm 安装：`npm install @abnerh69/lib-jitsi-meet`
+- npm registry：https://registry.npmjs.org/@abnerh69/lib-jitsi-meet

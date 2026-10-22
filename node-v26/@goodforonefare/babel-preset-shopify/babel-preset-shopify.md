@@ -1,0 +1,30 @@
+# @goodforonefare/babel-preset-shopify
+
+> 标签: JavaScript
+
+## 简介
+
+Shopify's org-wide Babel preset
+
+## 官网
+
+- 官网：https://github.com/Shopify/babel-preset-shopify
+- 源码仓库：git+https://github.com/Shopify/babel-preset-shopify.git
+- npm 页面：https://www.npmjs.com/package/@goodforonefare/babel-preset-shopify
+
+## 历史版本号
+
+- 当前版本：21.0.0-beta-8
+
+- 21.0.0
+- 21.0.0-beta-2
+- 21.0.0-beta-3
+- 21.0.0-beta-4
+- 21.0.0-beta-5
+- 21.0.0-beta-7
+- 21.0.0-beta-8
+
+## 获取地址
+
+- npm 安装：`npm install @goodforonefare/babel-preset-shopify`
+- npm registry：https://registry.npmjs.org/@goodforonefare/babel-preset-shopify

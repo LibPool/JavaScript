@@ -1,0 +1,26 @@
+# @docchi/yamde
+
+> 标签: editor, javascript, js, markdown, react, wysiwyg
+
+## 简介
+
+Yet another markdown editor.
+
+## 官网
+
+- 官网：https://github.com/docchipl/yamde
+- 源码仓库：git+ssh://git@github.com/docchipl/yamde.git
+- npm 页面：https://www.npmjs.com/package/@docchi/yamde
+
+## 历史版本号
+
+- 当前版本：1.6.4
+
+- 1.6.2
+- 1.6.3
+- 1.6.4
+
+## 获取地址
+
+- npm 安装：`npm install @docchi/yamde`
+- npm registry：https://registry.npmjs.org/@docchi/yamde

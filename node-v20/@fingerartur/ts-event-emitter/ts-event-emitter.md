@@ -1,0 +1,29 @@
+# @fingerartur/ts-event-emitter
+
+> 标签: emitter, event
+
+## 简介
+
+Event emitter for typescript
+
+## 官网
+
+- 官网：https://github.com/fingerartur/ts-event-emitter#readme
+- 源码仓库：git+https://github.com/fingerartur/ts-event-emitter.git
+- npm 页面：https://www.npmjs.com/package/@fingerartur/ts-event-emitter
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.3
+- 1.0.3-beta.1
+- 1.0.3-beta.2
+
+## 获取地址
+
+- npm 安装：`npm install @fingerartur/ts-event-emitter`
+- npm registry：https://registry.npmjs.org/@fingerartur/ts-event-emitter
+- Node 要求：>=10

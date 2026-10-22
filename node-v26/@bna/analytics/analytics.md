@@ -1,0 +1,27 @@
+# @bna/analytics
+
+> 标签: JavaScript
+
+## 简介
+
+Simple wrapper of analytics Layer
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@bna/analytics
+
+## 历史版本号
+
+- 当前版本：0.0.14
+
+- 0.0.10
+- 0.0.11
+- 0.0.12
+- 0.0.14
+- 0.0.8-alpha.14
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @bna/analytics`
+- npm registry：https://registry.npmjs.org/@bna/analytics

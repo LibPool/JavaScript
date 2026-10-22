@@ -1,0 +1,25 @@
+# @dxup/vanilla
+
+> 标签: JavaScript
+
+## 简介
+
+TypeScript plugin for Vanilla JS
+
+## 官网
+
+- 官网：https://github.com/KazariEX/dxup#readme
+- 源码仓库：git+https://github.com/KazariEX/dxup.git
+- npm 页面：https://www.npmjs.com/package/@dxup/vanilla
+
+## 历史版本号
+
+- 当前版本：0.0.2
+
+- 0.0.1
+- 0.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @dxup/vanilla`
+- npm registry：https://registry.npmjs.org/@dxup/vanilla

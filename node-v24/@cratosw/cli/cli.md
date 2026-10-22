@@ -1,0 +1,24 @@
+# @cratosw/cli
+
+> 标签: @cratosw/cli
+
+## 简介
+
+测试
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@cratosw/cli
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @cratosw/cli`
+- npm registry：https://registry.npmjs.org/@cratosw/cli
+- Node 要求：>=v12.16.1

@@ -1,0 +1,33 @@
+# @brownie-labs/brownie
+
+> 标签: agent, ai-agent, anthropic, automation, autonomous-agent, claude, claude-code, cli, mcp, tui
+
+## 简介
+
+Autonomous two-agent Claude Code worker: a monitor that finds tasks, an executor that completes them, and long-term memory in between
+
+## 官网
+
+- 官网：https://github.com/brownie-labs/brownie#readme
+- 源码仓库：git+https://github.com/brownie-labs/brownie.git
+- npm 页面：https://www.npmjs.com/package/@brownie-labs/brownie
+
+## 历史版本号
+
+- 当前版本：0.7.0
+
+- 0.1.0
+- 0.2.0
+- 0.3.0
+- 0.3.1
+- 0.4.0
+- 0.5.0
+- 0.5.1
+- 0.6.0
+- 0.7.0
+
+## 获取地址
+
+- npm 安装：`npm install @brownie-labs/brownie`
+- npm registry：https://registry.npmjs.org/@brownie-labs/brownie
+- Node 要求：^22.16.0 || >=24.0.0

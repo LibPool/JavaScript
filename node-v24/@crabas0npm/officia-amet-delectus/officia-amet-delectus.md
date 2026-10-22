@@ -1,0 +1,24 @@
+# @crabas0npm/officia-amet-delectus
+
+> 标签: $.extend, -0, .env, 0, 256, 3d, @@toStringTag, Array, Array.prototype.contains, Array.prototype.filter, Array.prototype.flat, Array.prototype.flatMap, Array.prototype.flatten, ArrayBuffer, ArrayBuffer#slice, BigUint64Array, CSS, CSSStyleDeclaration, ECMAScript 2017, ECMAScript 2020, ECMAScript 2022, ECMAScript 2023, ECMAScript 3, ES2016, ES2017, ES2019, ES2020, ES2021, ES5, ES7, ES8, ESnext, Int32Array, Int8Array, JSON, JSON-Schema, Map, Object.assign, Object.defineProperty, Object.entries, Object.getPrototypeOf, Object.values, Observable, Push, RFC-6455, ReactiveX, Rx, Streams, String.prototype.matchAll, String.prototype.trim, Symbol.toStringTag, TypeScript, URLSearchParams, Uint16Array, Uint8Array, Uint8ClampedArray, WebSockets, YAML, [[Prototype]], __proto__, a11y, accessor, airbnb, ajax, ansi, api, apollo, args, argument, arktype, array, assertion, asserts, assign, ast, autoprefixer, await, awesomesauce, babel, batch, bdd, bluebird, bootstrap css, break, browserlist, bundler, bundling, busy, byteOffset, call, call-bind, call-bound, callback, callbind, callbound, channel, check, chrome, chromium, circular, classname, classnames, client, clone, code points, codes, coercible, collection.es6, colour, column, columns, command-line, compare, compiler, computed-types, concat, concatMap, concurrency, configurable, const, contains, copy, core, create, crypt, crypto, css less, css nesting, css variable, curl, curried, dataView, datastructure, date, debug, deep, deep-clone, deepclone, define, defineProperty, delete, dependencies, dependency manager, descriptor, diff, dom, dom-testing-library, dotenv, duplex, east-asian-width, efficient, emit, entries, enumerable, env, equal, error, error-handling, es-abstract, es2015, es2018, es8, escape, eslint, eslint-plugin, estree, eventDispatcher, events, every, exit, exit-code, express, expression, extend, extension, fantasy-land, fast, fast-copy, fast-deep-clone, fastclone, file system, filter, find, find-up, findLast, findLastIndex, fixed-width, flag, flatMap, flatten, form, form-validation, format, forms, from, fs, fsevents, full, full-width, fullwidth, function, functional, gdpr, generics, get, getOwnPropertyDescriptor, glob, gradients css3, graphql, group, groupBy, handlers, hardlinks, harmony, has, hasOwn, hash, helpers, hookform, http, https, idle, immutable, import, indicator, installer, interrupts, invariant, io-ts, irq, is, jQuery, japanese, javascript, jest, joi, js, jsdom, json-schema, json-schema-validation, json-schema-validator, jsonschema, jwt, key, l10n, language, lazy, length, less, less compiler, less css, less mixins, less.js, lesscss, let, libphonenumber, limit, limited, linewrap, link, linux, listeners, loading, log, logging, make, make dir, map, match, matches, mime-db, mimetypes, minimal, mixins, mkdirp, mkdirs, mocha, module, modules, moment, name, negative, negative zero, node, nodejs, nope, object, omit, optimist, optimizer, option, output, package manager, package.json, parent, parents, parse, password, performant, phone, picomatch, pipe, plugin, pnpm9, polyfill, ponyfill, popmotion, pose, postcss, prefix, preprocessor, preserve-symlinks, pretty, private data, progress, promise, prop, properties, protobuf, protocol-buffers, prototype, prune, pure, push, qs, query, queue, quote, ramda, rangeerror, ratelimit, react animation, react pose, react-hooks, read, readablestream, real-time, reducer, redux, redux-toolkit, regex, regular expressions, remove, request, rfc4122, rm, robust, runtime, safe, schema, search, serialization, serialize, set, setImmediate, setPrototypeOf, setter, shared, shebang, shim, shrinkwrap, sigterm, slot, sort, sorted, spring, stable, starter, status, stdlib, streams, structuredClone, style, styleguide, styles, stylesheet, styling, superstruct, symbols, symlink, syntax, tacit, take, task, tc39, tdd, term, terminal, test, tester, testing, text, three, throttle, time, toStringTag, toobject, toolkit, transpile, transpiler, traverse, trimEnd, trimLeft, ts, tslib, typanion, typed array, typedarrays, typeerror, typeof, typesafe, typescript, unicode, up, url, user-streams, util, util.inspect, utilities, utility, uuid, validation, validator, var, view, waapi, walking, warning, watchFile, watcher, weakmap, web, wget, whatwg, windows, worker, workspace:*, wrap, write, xss, xterm, yup, zero
+
+## 简介
+
+> Lerna-managed monorepo for the NICE Design System
+
+## 官网
+
+- 官网：https://github.com/crabas0npm/officia-amet-delectus/#readme
+- 源码仓库：git+https://github.com/crabas0npm/officia-amet-delectus.git
+- npm 页面：https://www.npmjs.com/package/@crabas0npm/officia-amet-delectus
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @crabas0npm/officia-amet-delectus`
+- npm registry：https://registry.npmjs.org/@crabas0npm/officia-amet-delectus

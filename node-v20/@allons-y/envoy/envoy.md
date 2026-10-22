@@ -1,0 +1,26 @@
+# @allons-y/envoy
+
+> 标签: cli, env, environment
+
+## 简介
+
+Copies values from a root .env into a project .env using .env.example as a template
+
+## 官网
+
+- 官网：https://github.com/castastrophe/envoy#readme
+- 源码仓库：git+https://github.com/castastrophe/envoy.git
+- npm 页面：https://www.npmjs.com/package/@allons-y/envoy
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @allons-y/envoy`
+- npm registry：https://registry.npmjs.org/@allons-y/envoy
+- Node 要求：>=24.0.0

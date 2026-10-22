@@ -1,0 +1,32 @@
+# @equisoft/stylelint-config-styled-components
+
+> 标签: equisoft, styled-components, stylelint, stylelint-config
+
+## 简介
+
+Equisoft's stylelint configuration for styled-components.
+
+## 官网
+
+- 官网：https://github.com/kronostechnologies/standards#readme
+- 源码仓库：https://github.com/kronostechnologies/standards.git
+- npm 页面：https://www.npmjs.com/package/@equisoft/stylelint-config-styled-components
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.1.0
+- 0.2.0
+- 0.3.0
+- 1.0.0
+- 1.0.0-alpha.0
+- 1.0.0-alpha.1
+- 1.0.0-alpha.3
+- 1.0.0-alpha.4
+- 1.0.0-alpha.5
+
+## 获取地址
+
+- npm 安装：`npm install @equisoft/stylelint-config-styled-components`
+- npm registry：https://registry.npmjs.org/@equisoft/stylelint-config-styled-components

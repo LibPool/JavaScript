@@ -1,0 +1,26 @@
+# @funeralguide/eslint-plugin-test-selectors
+
+> 标签: eslint, eslint-plugin, eslintplugin, jsx, testing
+
+## 简介
+
+Makes sure test DOM attributes (e.g. data-test-id) are added to interactive DOM elements.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@funeralguide/eslint-plugin-test-selectors
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @funeralguide/eslint-plugin-test-selectors`
+- npm registry：https://registry.npmjs.org/@funeralguide/eslint-plugin-test-selectors
+- Node 要求：>=0.10.0

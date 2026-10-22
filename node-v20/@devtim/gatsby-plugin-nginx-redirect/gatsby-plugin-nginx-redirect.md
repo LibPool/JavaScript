@@ -1,0 +1,25 @@
+# @devtim/gatsby-plugin-nginx-redirect
+
+> 标签: createRedirect, gatsby, gatsby-plugin, nginx, nginx.conf, redirect, redirects
+
+## 简介
+
+Adds your redirects to nginx conf on gatsby build
+
+## 官网
+
+- 官网：https://github.com/gimoteco/gatsby-plugin-nginx-redirect
+- 源码仓库：git+https://github.com/gimoteco/gatsby-plugin-nginx-redirect.git
+- npm 页面：https://www.npmjs.com/package/@devtim/gatsby-plugin-nginx-redirect
+
+## 历史版本号
+
+- 当前版本：0.0.12
+
+- 0.0.12
+
+## 获取地址
+
+- npm 安装：`npm install @devtim/gatsby-plugin-nginx-redirect`
+- npm registry：https://registry.npmjs.org/@devtim/gatsby-plugin-nginx-redirect
+- Node 要求：>=14.15.0

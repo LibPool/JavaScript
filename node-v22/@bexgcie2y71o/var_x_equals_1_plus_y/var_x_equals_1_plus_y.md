@@ -1,0 +1,23 @@
+# @bexgcie2y71o/var_x_equals_1_plus_y
+
+> 标签: JavaScript
+
+## 简介
+
+@bexgcie2y71o/var_x_equals_1_plus_y - JavaScript library from npm
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@bexgcie2y71o/var_x_equals_1_plus_y
+
+## 历史版本号
+
+- 当前版本：1.0.1544864488935
+
+- 1.0.1544864111673
+- 1.0.1544864488935
+
+## 获取地址
+
+- npm 安装：`npm install @bexgcie2y71o/var_x_equals_1_plus_y`
+- npm registry：https://registry.npmjs.org/@bexgcie2y71o/var_x_equals_1_plus_y

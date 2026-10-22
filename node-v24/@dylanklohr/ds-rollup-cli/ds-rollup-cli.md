@@ -1,0 +1,26 @@
+# @dylanklohr/ds-rollup-cli
+
+> 标签: design-system, lerna, monorepo
+
+## 简介
+
+implementation of a common-utility build tool as defined in our design system
+
+## 官网
+
+- 官网：https://github.com/dylanklohr/design-system-mono/packages/ds-rollup-cli#readme
+- 源码仓库：git+https://github.com/dylanklohr/design-system-mono.git
+- npm 页面：https://www.npmjs.com/package/@dylanklohr/ds-rollup-cli
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.3
+- 0.1.4
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @dylanklohr/ds-rollup-cli`
+- npm registry：https://registry.npmjs.org/@dylanklohr/ds-rollup-cli

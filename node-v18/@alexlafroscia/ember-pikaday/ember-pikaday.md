@@ -1,0 +1,25 @@
+# @alexlafroscia/ember-pikaday
+
+> 标签: datepicker, ember-addon, pikaday
+
+## 简介
+
+A tested datepicker component for Ember CLI projects including test helpers for your own acceptance tests.
+
+## 官网
+
+- 官网：https://github.com/edgycircle/ember-pikaday#readme
+- 源码仓库：git+https://github.com/edgycircle/ember-pikaday.git
+- npm 页面：https://www.npmjs.com/package/@alexlafroscia/ember-pikaday
+
+## 历史版本号
+
+- 当前版本：2.2.5
+
+- 2.2.5
+
+## 获取地址
+
+- npm 安装：`npm install @alexlafroscia/ember-pikaday`
+- npm registry：https://registry.npmjs.org/@alexlafroscia/ember-pikaday
+- Node 要求：^4.5 || 6.* || >= 7.*

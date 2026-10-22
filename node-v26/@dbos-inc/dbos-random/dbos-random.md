@@ -1,0 +1,36 @@
+# @dbos-inc/dbos-random
+
+> 标签: JavaScript
+
+## 简介
+
+DBOS library for wrapping random number generation in steps
+
+## 官网
+
+- 官网：https://docs.dbos.dev/
+- 源码仓库：git+https://github.com/dbos-inc/dbos-transact-ts.git
+- npm 页面：https://www.npmjs.com/package/@dbos-inc/dbos-random
+
+## 历史版本号
+
+- 当前版本：2.10.24
+
+- 2.8.46-preview.g30b0e27ed1
+- 2.8.6-preview
+- 2.9.17-preview
+- 2.9.18-preview
+- 2.9.2-preview
+- 2.9.21-preview
+- 2.9.27-preview
+- 2.9.28-preview
+- 2.9.29-preview
+- 2.9.30
+- 2.9.9-preview
+- 3.0.2-preview
+- 共 111 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @dbos-inc/dbos-random`
+- npm registry：https://registry.npmjs.org/@dbos-inc/dbos-random

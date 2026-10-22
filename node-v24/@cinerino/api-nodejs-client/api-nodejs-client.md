@@ -1,0 +1,36 @@
+# @cinerino/api-nodejs-client
+
+> 标签: cinerino
+
+## 简介
+
+Cinerino API Client Library for Node.js
+
+## 官网
+
+- 官网：https://github.com/cinerino/api-nodejs-client#readme
+- 源码仓库：git+https://github.com/cinerino/api-nodejs-client.git
+- npm 页面：https://www.npmjs.com/package/@cinerino/api-nodejs-client
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 2.0.0-alpha.88
+- 2.0.0-alpha.89
+- 2.0.0-alpha.90
+- 2.0.0-alpha.91
+- 2.0.0-alpha.92
+- 2.0.0-alpha.93
+- 2.0.0-alpha.94
+- 2.0.0-alpha.95
+- 2.0.0-alpha.96
+- 2.0.0-alpha.97
+- 2.0.0-alpha.98
+- 2.0.0-alpha.99
+- 共 180 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @cinerino/api-nodejs-client`
+- npm registry：https://registry.npmjs.org/@cinerino/api-nodejs-client

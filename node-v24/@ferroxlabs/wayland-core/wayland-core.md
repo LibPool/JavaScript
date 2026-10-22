@@ -1,0 +1,35 @@
+# @ferroxlabs/wayland-core
+
+> 标签: JavaScript
+
+## 简介
+
+wayland-core — multi-provider AI agent engine. Platform-resolving launcher; the matching native binary installs automatically per os/cpu.
+
+## 官网
+
+- 官网：https://github.com/FerroxLabs/wayland-core#readme
+- 源码仓库：git+https://github.com/FerroxLabs/wayland-core.git
+- npm 页面：https://www.npmjs.com/package/@ferroxlabs/wayland-core
+
+## 历史版本号
+
+- 当前版本：0.13.12
+
+- 0.13.11
+- 0.13.12
+- 0.13.2
+- 0.13.3
+- 0.13.4
+- 0.13.5
+- 0.13.6
+- 0.13.7
+- 0.13.8
+- 0.13.9
+- 0.9.6-rc.1
+- 0.9.6-rc.2
+
+## 获取地址
+
+- npm 安装：`npm install @ferroxlabs/wayland-core`
+- npm registry：https://registry.npmjs.org/@ferroxlabs/wayland-core

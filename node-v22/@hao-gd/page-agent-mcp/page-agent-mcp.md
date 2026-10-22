@@ -1,0 +1,27 @@
+# @hao-gd/page-agent-mcp
+
+> 标签: browser-automation, chrome-extension, mcp, page-agent
+
+## 简介
+
+MCP server for controlling the browser via Page Agent extension
+
+## 官网
+
+- 官网：https://gitee.com/hao_guo_dong/page-agent
+- 源码仓库：https://gitee.com/hao_guo_dong/page-agent.git
+- npm 页面：https://www.npmjs.com/package/@hao-gd/page-agent-mcp
+
+## 历史版本号
+
+- 当前版本：1.10.7
+
+- 1.10.1
+- 1.10.5
+- 1.10.7
+
+## 获取地址
+
+- npm 安装：`npm install @hao-gd/page-agent-mcp`
+- npm registry：https://registry.npmjs.org/@hao-gd/page-agent-mcp
+- Node 要求：>=20

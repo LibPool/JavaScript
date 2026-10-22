@@ -1,0 +1,24 @@
+# @enouvo/eslint-config-vue
+
+> 标签: JavaScript
+
+## 简介
+
+Eslint config for enouvo front end development
+
+## 官网
+
+- 官网：https://github.com/Enouvo/eslint-config-vue#readme
+- 源码仓库：git+https://github.com/Enouvo/eslint-config-vue.git
+- npm 页面：https://www.npmjs.com/package/@enouvo/eslint-config-vue
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @enouvo/eslint-config-vue`
+- npm registry：https://registry.npmjs.org/@enouvo/eslint-config-vue

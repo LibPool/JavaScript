@@ -1,0 +1,34 @@
+# @aaronmaturen/monofun-button
+
+> 标签: JavaScript
+
+## 简介
+
+Congrats! You just saved yourself hours of work by bootstrapping this project with TSDX. Let’s get you oriented with what’s here and how to use it.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@aaronmaturen/monofun-button
+
+## 历史版本号
+
+- 当前版本：0.5.5
+
+- 0.4.1-alpha.1
+- 0.5.0
+- 0.5.0-alpha.0
+- 0.5.0-alpha.1
+- 0.5.1
+- 0.5.1-alpha.0
+- 0.5.2
+- 0.5.2-alpha.0
+- 0.5.3
+- 0.5.4
+- 0.5.5
+- 0.5.5-alpha.0
+
+## 获取地址
+
+- npm 安装：`npm install @aaronmaturen/monofun-button`
+- npm registry：https://registry.npmjs.org/@aaronmaturen/monofun-button
+- Node 要求：>=10

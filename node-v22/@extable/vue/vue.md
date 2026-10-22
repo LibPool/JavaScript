@@ -1,0 +1,36 @@
+# @extable/vue
+
+> 标签: JavaScript
+
+## 简介
+
+[![npm](https://img.shields.io/npm/v/@extable/vue?color=2b6cb0&label=npm)](https://www.npmjs.com/package/@extable/vue) [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178c6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![
+
+## 官网
+
+- 官网：https://shibukawa.github.io/extable/
+- 源码仓库：git+https://github.com/shibukawa/extable.git
+- npm 页面：https://www.npmjs.com/package/@extable/vue
+
+## 历史版本号
+
+- 当前版本：0.3.9
+
+- 0.1.0
+- 0.2.0
+- 0.3.0
+- 0.3.1
+- 0.3.2
+- 0.3.3
+- 0.3.4
+- 0.3.5
+- 0.3.6
+- 0.3.7
+- 0.3.8
+- 0.3.9
+
+## 获取地址
+
+- npm 安装：`npm install @extable/vue`
+- npm registry：https://registry.npmjs.org/@extable/vue
+- Node 要求：>=22

@@ -1,0 +1,23 @@
+# @agentfi/adapters-tanstack
+
+> 标签: adapter, agent, ai, tanstack, wallet
+
+## 简介
+
+TanStack AI adapter for Agentic Wallet
+
+## 官网
+
+- 源码仓库：https://github.com/Jonathanthedeveloper/agentic-wallet.git
+- npm 页面：https://www.npmjs.com/package/@agentfi/adapters-tanstack
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @agentfi/adapters-tanstack`
+- npm registry：https://registry.npmjs.org/@agentfi/adapters-tanstack

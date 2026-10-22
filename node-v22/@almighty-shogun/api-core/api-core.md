@@ -1,0 +1,28 @@
+# @almighty-shogun/api-core
+
+> 标签: JavaScript
+
+## 简介
+
+A small package for core utilities for building type-safe API clients with Axios, including Laravel localization messages.
+
+## 官网
+
+- 源码仓库：git+https://github.com/Almighty-Shogun/packages.git
+- npm 页面：https://www.npmjs.com/package/@almighty-shogun/api-core
+
+## 历史版本号
+
+- 当前版本：1.10.0
+
+- 1.10.0
+- 1.5.0
+- 1.6.0
+- 1.7.0
+- 1.8.1
+- 1.9.0
+
+## 获取地址
+
+- npm 安装：`npm install @almighty-shogun/api-core`
+- npm registry：https://registry.npmjs.org/@almighty-shogun/api-core

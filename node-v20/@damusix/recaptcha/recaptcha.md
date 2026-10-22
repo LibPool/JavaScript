@@ -1,0 +1,25 @@
+# @damusix/recaptcha
+
+> 标签: JavaScript
+
+## 简介
+
+Implements recaptcha on a website using a simple browser script
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@damusix/recaptcha
+
+## 历史版本号
+
+- 当前版本：2.0.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 2.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @damusix/recaptcha`
+- npm registry：https://registry.npmjs.org/@damusix/recaptcha

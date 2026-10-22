@@ -1,0 +1,28 @@
+# @amoy/filter-clear-background
+
+> 标签: filters 2d, pixi, plugin, shader, webgl
+
+## 简介
+
+PixiJS filter to apply an clear-background effect
+
+## 官网
+
+- 官网：https://github.com/amoyjs/amoy-filters/
+- 源码仓库：git+https://github.com/amoyjs/amoy-filters.git
+- npm 页面：https://www.npmjs.com/package/@amoy/filter-clear-background
+
+## 历史版本号
+
+- 当前版本：3.0.29
+
+- 3.0.25
+- 3.0.26
+- 3.0.27
+- 3.0.28
+- 3.0.29
+
+## 获取地址
+
+- npm 安装：`npm install @amoy/filter-clear-background`
+- npm registry：https://registry.npmjs.org/@amoy/filter-clear-background

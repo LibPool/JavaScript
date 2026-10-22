@@ -1,0 +1,23 @@
+# @dectalk/node
+
+> 标签: JavaScript
+
+## 简介
+
+DECtalk for NodeJS
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@dectalk/node
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @dectalk/node`
+- npm registry：https://registry.npmjs.org/@dectalk/node

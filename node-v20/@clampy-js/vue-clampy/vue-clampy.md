@@ -1,0 +1,29 @@
+# @clampy-js/vue-clampy
+
+> 标签: clamp, clampy, clampy-js, ellipsis, vue, vue-directive, vuejs
+
+## 简介
+
+Vue.js (2+) directive that clamps the content of an element by adding an ellipsis to it if the content inside is too long.
+
+## 官网
+
+- 官网：https://github.com/clampy-js/vue-clampy
+- 源码仓库：git+https://github.com/clampy-js/vue-clampy.git
+- npm 页面：https://www.npmjs.com/package/@clampy-js/vue-clampy
+
+## 历史版本号
+
+- 当前版本：1.0.6
+
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+- 1.0.6
+
+## 获取地址
+
+- npm 安装：`npm install @clampy-js/vue-clampy`
+- npm registry：https://registry.npmjs.org/@clampy-js/vue-clampy

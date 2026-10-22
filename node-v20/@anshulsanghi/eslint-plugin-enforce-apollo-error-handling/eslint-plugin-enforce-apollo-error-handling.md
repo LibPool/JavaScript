@@ -1,0 +1,35 @@
+# @anshulsanghi/eslint-plugin-enforce-apollo-error-handling
+
+> 标签: JavaScript
+
+## 简介
+
+ESLint Plugin To Enforce Error Handling For Errors Returned From Apollo GraphQL Queries
+
+## 官网
+
+- 官网：https://github.com/anshap1719/eslint-plugin-enforce-apollo-error-handling#readme
+- 源码仓库：git+https://github.com/anshap1719/eslint-plugin-enforce-apollo-error-handling.git
+- npm 页面：https://www.npmjs.com/package/@anshulsanghi/eslint-plugin-enforce-apollo-error-handling
+
+## 历史版本号
+
+- 当前版本：1.1.8
+
+- 1.0.1
+- 1.0.3
+- 1.0.4
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 1.1.3
+- 1.1.4
+- 1.1.5
+- 1.1.6
+- 1.1.7
+- 1.1.8
+
+## 获取地址
+
+- npm 安装：`npm install @anshulsanghi/eslint-plugin-enforce-apollo-error-handling`
+- npm registry：https://registry.npmjs.org/@anshulsanghi/eslint-plugin-enforce-apollo-error-handling

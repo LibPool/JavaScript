@@ -1,0 +1,25 @@
+# @fnet/react-layout-router-tabs-16
+
+> 标签: JavaScript
+
+## 简介
+
+This project provides a simple way to manage navigation in a React web application using tabs. It is particularly helpful for developers who wish to implement a tab-based navigation structure, offering a clear and intuitive interface for users to switch b
+
+## 官网
+
+- 官网：https://gitlab.com/fnetai/react-layout-routered-tabs-16#readme
+- 源码仓库：git+https://gitlab.com/fnetai/react-layout-routered-tabs-16.git
+- npm 页面：https://www.npmjs.com/package/@fnet/react-layout-router-tabs-16
+
+## 历史版本号
+
+- 当前版本：0.2.5
+
+- 0.2.4
+- 0.2.5
+
+## 获取地址
+
+- npm 安装：`npm install @fnet/react-layout-router-tabs-16`
+- npm registry：https://registry.npmjs.org/@fnet/react-layout-router-tabs-16

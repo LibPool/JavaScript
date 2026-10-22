@@ -1,0 +1,28 @@
+# @coretext-ai/qa-google-contacts-a58500d5-8331-4ce9-a140-d204a9fae815
+
+> 标签: ai, ai-tools, api-integration, claude, google-contacts, mcp, model-context-protocol, server
+
+## 简介
+
+MCP server with google-contacts integration
+
+## 官网
+
+- 官网：https://github.com/coretext-ai/google-contacts-mcp-server#readme
+- 源码仓库：git+https://github.com/coretext-ai/google-contacts-mcp-server.git
+- npm 页面：https://www.npmjs.com/package/@coretext-ai/qa-google-contacts-a58500d5-8331-4ce9-a140-d204a9fae815
+
+## 历史版本号
+
+- 当前版本：1.0.4
+
+- 1.0.0
+- 1.0.2
+- 1.0.3
+- 1.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @coretext-ai/qa-google-contacts-a58500d5-8331-4ce9-a140-d204a9fae815`
+- npm registry：https://registry.npmjs.org/@coretext-ai/qa-google-contacts-a58500d5-8331-4ce9-a140-d204a9fae815
+- Node 要求：>=18.0.0

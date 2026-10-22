@@ -1,0 +1,24 @@
+# @ezfinhub/angular-platform-browser
+
+> 标签: JavaScript
+
+## 简介
+
+Single SPA UMD-bundle for @angular/platform-browser
+
+## 官网
+
+- 官网：https://github.com/rwxrwx-rwx/npm_budles/blob/master/README.md
+- 源码仓库：git+https://github.com/rwxrwx-rwx/npm_budles.git
+- npm 页面：https://www.npmjs.com/package/@ezfinhub/angular-platform-browser
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @ezfinhub/angular-platform-browser`
+- npm registry：https://registry.npmjs.org/@ezfinhub/angular-platform-browser

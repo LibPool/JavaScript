@@ -1,0 +1,24 @@
+# @coryrylan/clr-base
+
+> 标签: JavaScript
+
+## 简介
+
+Custom Elements for Clarity
+
+## 官网
+
+- 官网：https://clarity.design
+- 源码仓库：ssh://git@git.eng.vmware.com/clarity.git
+- npm 页面：https://www.npmjs.com/package/@coryrylan/clr-base
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @coryrylan/clr-base`
+- npm registry：https://registry.npmjs.org/@coryrylan/clr-base

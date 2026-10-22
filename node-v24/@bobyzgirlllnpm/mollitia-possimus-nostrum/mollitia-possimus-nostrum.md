@@ -1,0 +1,24 @@
+# @bobyzgirlllnpm/mollitia-possimus-nostrum
+
+> 标签: -0, 0, 3d, 6to5, Array, Array.prototype.filter, Array.prototype.findLast, Array.prototype.flat, ArrayBuffer, ArrayBuffer#slice, ArrayBuffer.prototype.slice, AsyncIterator, BigInt64Array, BigUint64Array, CSS, ECMAScript 2016, ECMAScript 2017, ECMAScript 2019, ECMAScript 2020, ECMAScript 2022, ECMAScript 2023, ECMAScript 3, ECMAScript 7, ES, ES2019, ES2020, ES3, ES6, ES8, Float32Array, Float64Array, Function.prototype.name, HyBi, Int16Array, Int32Array, Iterator, JSON-Schema, Object, Object.defineProperty, Object.entries, Object.fromEntries, Object.getPrototypeOf, Object.is, Object.values, Promise, RFC-6455, ReactiveExtensions, RxJS, Set, TypeBox, TypedArray, URL, Uint8Array, Underscore, WeakMap, WeakSet, WebSocket, WebSockets, YAML, _.extend, accessibility, ajax, ansi, apollo, argparse, argv, arraybuffer, arrays, ascii, assign, ast, async, autoprefixer, ava, awesomesauce, babel, batch, bcrypt, bdd, bootstrap css, bootstrap less, bound, break, browserslist, buffers, bundler, byte, byteLength, byteOffset, cache, call, callback, callbind, callbound, chai, character, check, chromium, circular, cjk, class-validator, classes, classnames, client, code points, collection.es6, color, colors, colour, column, command, command-line, compile less, compiler, computed-types, concat, concatMap, concurrency, configurable, console, const, consume, contains, cors, create, crypt, crypto, css, css less, css variable, css-in-js, data, dataview, date, deep-clone, deep-copy, deepcopy, defineProperty, delete, dependencies, description, descriptor, descriptors, diff, dir, directory, drop, east-asian-width, efficient, electron, emoji, encryption, ender, enumerable, env, environment, equal, equality, es-shim API, es2015, es2016, escape, eslint-plugin, eventEmitter, events, every, exec, exit, exit-code, express, expression, extend, extra, fantasy-land, fast, fast-clone, fetch, file, filter, find-up, findLast, findLastIndex, fixed-width, flags, flat, flatten, forEach, form, form-validation, framework, from, fs, fsevents, functions, gdpr, generics, gestures, get, getOwnPropertyDescriptor, getPrototypeOf, getintrinsic, getopt, getter, gradients css, graphql, groupBy, guid, hardlinks, hasOwn, hash, hookform, hooks, https, i18n, idle, ie, import, input, internal, internal slot, invariant, io-ts, iterate, jQuery, japanese, javascript, js, jsdom, json, json-schema, json-schema-validator, jsonschema, jsx, jwt, karma, keys, l10n, lazy, less mixins, lesscss, libphonenumber, linewrap, linux, listeners, loading, lockfile, logging, look-up, macos, make, match, matchAll, merge, middleware, mimetypes, mkdirp, mobile, modules, moment, monorepo, move, mru, names, native, negative, negative zero, nope, npm, number, obj, object, offset, omit, once, open, optimizer, package manager, packages, parent, password, patch, path, performant, persistent, picomatch, pipe, plugin, polyfill, ponyfill, postcss, postcss-plugin, prefix, preprocessor, preserve-symlinks, pretty, process, promise, promises, prop, properties, property, proto, protobuf, prototype, prune, pure, pyyaml, querystring, ramda, random, rangeerror, rapid, rate, ratelimit, react, react pose, react-hook-form, readablestream, redact, reduce, redux, redux-toolkit, regular expression, regular expressions, remove, request, require, reuse, rfc4122, rm -rf, rmdir, robust, runtime, safe, sanitization, scheme, search, sequence, serialization, serialize, serializer, setImmediate, setPrototypeOf, sham, sharedarraybuffer, shebang, shrinkwrap, sigint, signals, sigterm, slice, sorted, spec, spinner, stable, stdlib, stream, string, styleguide, stylesheet, styling, superagent, symbol, symbols, symlinks, syntax, syntaxerror, tacit, tap, tape, tc39, tdd, telephone, term, test, testing, text, three, throttle, time, toStringTag, toobject, toolkit, tools, tostringtag, transpile, trim, trimEnd, trimLeft, typanion, typed array, typedarrays, typeof, typesafe, unicode, uninstall, up, user-streams, util, util.inspect, utils, uuid, valid, validate, validation, value, var, variables in css, vest, view, visual, wait, walk, walking, warning, watch, watcher, weakset, web, wget, which, wordbreak, wordwrap, wrap, writable, xhr, xss, xterm, yaml, yup
+
+## 简介
+
+__@bobyzgirlllnpm/mollitia-possimus-nostrum__ is a javascript library that resolves references in [JSON schemas](https://json-schema.org/draft/2020-12/json-schema-core#name-introduction).
+
+## 官网
+
+- 官网：https://github.com/bobyzgirlllnpm/mollitia-possimus-nostrum/#readme
+- 源码仓库：git+https://github.com/bobyzgirlllnpm/mollitia-possimus-nostrum.git
+- npm 页面：https://www.npmjs.com/package/@bobyzgirlllnpm/mollitia-possimus-nostrum
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @bobyzgirlllnpm/mollitia-possimus-nostrum`
+- npm registry：https://registry.npmjs.org/@bobyzgirlllnpm/mollitia-possimus-nostrum

@@ -1,0 +1,25 @@
+# @0xcda7a/path-to-regexp-es6
+
+> 标签: express, regexp, route, routing
+
+## 简介
+
+Express style path to RegExp utility
+
+## 官网
+
+- 官网：https://github.com/pillarjs/path-to-regexp#readme
+- 源码仓库：git+https://github.com/pillarjs/path-to-regexp.git
+- npm 页面：https://www.npmjs.com/package/@0xcda7a/path-to-regexp-es6
+
+## 历史版本号
+
+- 当前版本：1.7.1
+
+- 1.7.0
+- 1.7.1
+
+## 获取地址
+
+- npm 安装：`npm install @0xcda7a/path-to-regexp-es6`
+- npm registry：https://registry.npmjs.org/@0xcda7a/path-to-regexp-es6

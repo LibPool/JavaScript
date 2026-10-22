@@ -1,0 +1,27 @@
+# @dudeofawesome/eslint-npm-hoist-packages-nextjs
+
+> 标签: eslint, hack
+
+## 简介
+
+Cause NPM to hoist eslint config dependencies
+
+## 官网
+
+- 官网：https://github.com/dudeofawesome/code-style/blob/main/packages/eslint-npm-hoist-packages/README.md
+- 源码仓库：git+ssh://git@github.com/dudeofawesome/code-style.git
+- npm 页面：https://www.npmjs.com/package/@dudeofawesome/eslint-npm-hoist-packages-nextjs
+
+## 历史版本号
+
+- 当前版本：2.0.0-23
+
+- 2.0.0-21
+- 2.0.0-22
+- 2.0.0-23
+
+## 获取地址
+
+- npm 安装：`npm install @dudeofawesome/eslint-npm-hoist-packages-nextjs`
+- npm registry：https://registry.npmjs.org/@dudeofawesome/eslint-npm-hoist-packages-nextjs
+- Node 要求：>=18

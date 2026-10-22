@@ -1,0 +1,24 @@
+# @gych-imooc-cli-dev/init
+
+> 标签: JavaScript
+
+## 简介
+
+init 命令实现
+
+## 官网
+
+- 官网：https://github.com/873261648/imooc-cli-dev#readme
+- 源码仓库：git+https://github.com/873261648/imooc-cli-dev.git
+- npm 页面：https://www.npmjs.com/package/@gych-imooc-cli-dev/init
+
+## 历史版本号
+
+- 当前版本：1.0.10
+
+- 1.0.10
+
+## 获取地址
+
+- npm 安装：`npm install @gych-imooc-cli-dev/init`
+- npm registry：https://registry.npmjs.org/@gych-imooc-cli-dev/init

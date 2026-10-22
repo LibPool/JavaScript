@@ -1,0 +1,31 @@
+# @ddima16/flightradarapi
+
+> 标签: aircraft, airlines, airports, api, aviation, flightradar24, flights, radar
+
+## 简介
+
+SDK for FlightRadar24 (Cloudflare Bypass Fork)
+
+## 官网
+
+- 官网：https://github.com/DimaD16/FlightRadarAPI#readme
+- 源码仓库：git+https://github.com/DimaD16/FlightRadarAPI.git
+- npm 页面：https://www.npmjs.com/package/@ddima16/flightradarapi
+
+## 历史版本号
+
+- 当前版本：1.4.7
+
+- 1.4.0
+- 1.4.1
+- 1.4.2
+- 1.4.3
+- 1.4.4
+- 1.4.5
+- 1.4.6
+- 1.4.7
+
+## 获取地址
+
+- npm 安装：`npm install @ddima16/flightradarapi`
+- npm registry：https://registry.npmjs.org/@ddima16/flightradarapi

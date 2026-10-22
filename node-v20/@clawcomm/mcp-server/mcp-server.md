@@ -1,0 +1,23 @@
+# @clawcomm/mcp-server
+
+> 标签: ai-agents, commerce, crypto, mcp, model-context-protocol, openclaw, solana
+
+## 简介
+
+MCP Server for ClawComm - AI Agent Economy Tools
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@clawcomm/mcp-server
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @clawcomm/mcp-server`
+- npm registry：https://registry.npmjs.org/@clawcomm/mcp-server
+- Node 要求：>=18.0.0

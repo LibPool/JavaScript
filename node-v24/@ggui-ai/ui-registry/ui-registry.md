@@ -1,0 +1,36 @@
+# @ggui-ai/ui-registry
+
+> 标签: contract, ggui, registry, types, ui-registry
+
+## 简介
+
+Source-contract interface for GGUI UI artifacts — cloud, local, and any future registry implement the `UiRegistry` shape so tooling can read and write UIs through one contract. Deliberately search-free and sync-free; a types-only package.
+
+## 官网
+
+- 官网：https://github.com/ggui-ai/ggui/tree/main/packages/ui-registry
+- 源码仓库：https://github.com/ggui-ai/ggui.git
+- npm 页面：https://www.npmjs.com/package/@ggui-ai/ui-registry
+
+## 历史版本号
+
+- 当前版本：0.28.0
+
+- 0.3.0-rc.0
+- 0.4.0-rc.0
+- 0.5.0-rc.0
+- 0.5.0-rc.1
+- 0.5.0-rc.2
+- 0.6.0
+- 0.6.1
+- 0.6.2
+- 0.6.3
+- 0.7.0
+- 0.8.0
+- 0.9.0
+
+## 获取地址
+
+- npm 安装：`npm install @ggui-ai/ui-registry`
+- npm registry：https://registry.npmjs.org/@ggui-ai/ui-registry
+- Node 要求：>=22.0.0

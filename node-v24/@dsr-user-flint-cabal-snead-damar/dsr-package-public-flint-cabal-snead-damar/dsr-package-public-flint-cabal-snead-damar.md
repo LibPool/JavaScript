@@ -1,0 +1,22 @@
+# @dsr-user-flint-cabal-snead-damar/dsr-package-public-flint-cabal-snead-damar
+
+> 标签: JavaScript
+
+## 简介
+
+empty
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@dsr-user-flint-cabal-snead-damar/dsr-package-public-flint-cabal-snead-damar
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @dsr-user-flint-cabal-snead-damar/dsr-package-public-flint-cabal-snead-damar`
+- npm registry：https://registry.npmjs.org/@dsr-user-flint-cabal-snead-damar/dsr-package-public-flint-cabal-snead-damar

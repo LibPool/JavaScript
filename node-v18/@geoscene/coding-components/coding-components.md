@@ -1,0 +1,27 @@
+# @geoscene/coding-components
+
+> 标签: GeoScene, components, data-driven, gis, javascript, map, spatial, web-components
+
+## 简介
+
+Reusable GeoScene coding Components.
+
+## 官网
+
+- 官网：https://doc.geoscene.cn/javascript/latest/
+- npm 页面：https://www.npmjs.com/package/@geoscene/coding-components
+
+## 历史版本号
+
+- 当前版本：5.0.19
+
+- 5.0.19
+- 5.0.20
+- 5.0.21
+- 5.0.22
+- 5.1.13
+
+## 获取地址
+
+- npm 安装：`npm install @geoscene/coding-components`
+- npm registry：https://registry.npmjs.org/@geoscene/coding-components

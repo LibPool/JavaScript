@@ -1,0 +1,24 @@
+# @cjser/convert-to-spaces
+
+> 标签: spaces, tabs
+
+## 简介
+
+Convert tabs to spaces in a string
+
+## 官网
+
+- 源码仓库：https://code.moenext.com/3rdeye/cjser.git
+- npm 页面：https://www.npmjs.com/package/@cjser/convert-to-spaces
+
+## 历史版本号
+
+- 当前版本：2.0.1-cjser.2
+
+- 2.0.1-cjser.2
+
+## 获取地址
+
+- npm 安装：`npm install @cjser/convert-to-spaces`
+- npm registry：https://registry.npmjs.org/@cjser/convert-to-spaces
+- Node 要求：^12.20.0 || ^14.13.1 || >=16.0.0

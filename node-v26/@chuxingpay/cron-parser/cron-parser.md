@@ -1,0 +1,25 @@
+# @chuxingpay/cron-parser
+
+> 标签: cron, crontab, parser
+
+## 简介
+
+Node.js library for parsing crontab instructions
+
+## 官网
+
+- 源码仓库：git@code.chuxingpay.cn:npm/cron-parser.git
+- npm 页面：https://www.npmjs.com/package/@chuxingpay/cron-parser
+
+## 历史版本号
+
+- 当前版本：2.16.4
+
+- 2.16.3
+- 2.16.4
+
+## 获取地址
+
+- npm 安装：`npm install @chuxingpay/cron-parser`
+- npm registry：https://registry.npmjs.org/@chuxingpay/cron-parser
+- Node 要求：>=0.8

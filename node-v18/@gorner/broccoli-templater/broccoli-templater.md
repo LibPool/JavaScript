@@ -1,0 +1,25 @@
+# @gorner/broccoli-templater
+
+> 标签: broccoli-plugin, lodash
+
+## 简介
+
+easily use lodash templates to template many files
+
+## 官网
+
+- 官网：https://github.com/gorner/broccoli-templater
+- 源码仓库：git+https://github.com/gorner/broccoli-templater.git
+- npm 页面：https://www.npmjs.com/package/@gorner/broccoli-templater
+
+## 历史版本号
+
+- 当前版本：2.0.3
+
+- 2.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @gorner/broccoli-templater`
+- npm registry：https://registry.npmjs.org/@gorner/broccoli-templater
+- Node 要求：6.* || >= 8.*

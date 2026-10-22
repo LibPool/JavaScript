@@ -1,0 +1,31 @@
+# @akiojin/model-hub-mcp
+
+> 标签: ai, anthropic, claude, gemini, google, gpt, mcp, model-context-protocol, models, openai
+
+## 简介
+
+MCP server for fetching AI models from OpenAI, Anthropic, and Google
+
+## 官网
+
+- 官网：https://github.com/akiojin/model-hub-mcp#readme
+- 源码仓库：git+https://github.com/akiojin/model-hub-mcp.git
+- npm 页面：https://www.npmjs.com/package/@akiojin/model-hub-mcp
+
+## 历史版本号
+
+- 当前版本：0.1.7
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+
+## 获取地址
+
+- npm 安装：`npm install @akiojin/model-hub-mcp`
+- npm registry：https://registry.npmjs.org/@akiojin/model-hub-mcp

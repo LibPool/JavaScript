@@ -1,0 +1,29 @@
+# @audio/dynamics-envelope
+
+> 标签: audio, dsp, dynamics, envelope
+
+## 简介
+
+Branching one-pole envelope follower. Returns a stateful per-sample detector
+
+## 官网
+
+- 官网：https://github.com/audiojs/dynamics/tree/main/packages/dynamics-envelope
+- 源码仓库：git+https://github.com/audiojs/dynamics.git
+- npm 页面：https://www.npmjs.com/package/@audio/dynamics-envelope
+
+## 历史版本号
+
+- 当前版本：0.1.4
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+
+## 获取地址
+
+- npm 安装：`npm install @audio/dynamics-envelope`
+- npm registry：https://registry.npmjs.org/@audio/dynamics-envelope
+- Node 要求：>=18

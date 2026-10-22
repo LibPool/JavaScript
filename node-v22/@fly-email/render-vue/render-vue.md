@@ -1,0 +1,25 @@
+# @fly-email/render-vue
+
+> 标签: html, render, vue
+
+## 简介
+
+Render HTML for vue
+
+## 官网
+
+- 官网：https://github.com/zen-labss/fly/zen#readme
+- 源码仓库：git+https://github.com/zen-labss/fly.git
+- npm 页面：https://www.npmjs.com/package/@fly-email/render-vue
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @fly-email/render-vue`
+- npm registry：https://registry.npmjs.org/@fly-email/render-vue

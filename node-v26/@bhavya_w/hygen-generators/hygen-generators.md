@@ -1,0 +1,23 @@
+# @bhavya_w/hygen-generators
+
+> 标签: JavaScript
+
+## 简介
+
+Personal collection of hygen generators
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@bhavya_w/hygen-generators
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.1.1
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @bhavya_w/hygen-generators`
+- npm registry：https://registry.npmjs.org/@bhavya_w/hygen-generators

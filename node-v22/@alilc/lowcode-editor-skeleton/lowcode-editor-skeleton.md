@@ -1,0 +1,36 @@
+# @alilc/lowcode-editor-skeleton
+
+> 标签: editor, lowcode
+
+## 简介
+
+alibaba lowcode editor skeleton
+
+## 官网
+
+- 官网：https://github.com/alibaba/lowcode-engine/#readme
+- 源码仓库：git+https://github.com/alibaba/lowcode-engine.git#main
+- npm 页面：https://www.npmjs.com/package/@alilc/lowcode-editor-skeleton
+
+## 历史版本号
+
+- 当前版本：1.3.4
+
+- 1.3.2-beta.2
+- 1.3.2-beta.3
+- 1.3.2-beta.4
+- 1.3.2-beta.5
+- 1.3.2-beta.6
+- 1.3.2-beta.7
+- 1.3.3
+- 1.3.3-beta.0
+- 1.3.3-beta.1
+- 1.3.3-beta.2
+- 1.3.3-beta.3
+- 1.3.4
+- 共 289 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @alilc/lowcode-editor-skeleton`
+- npm registry：https://registry.npmjs.org/@alilc/lowcode-editor-skeleton

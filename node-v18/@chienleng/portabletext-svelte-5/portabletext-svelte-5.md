@@ -1,0 +1,24 @@
+# @chienleng/portabletext-svelte-5
+
+> 标签: JavaScript
+
+## 简介
+
+Render [Portable Text](https://portabletext.org) block content with [Svelte](https://svelte.dev/) components.
+
+## 官网
+
+- 官网：https://github.com/portabletext/svelte-portabletext#readme
+- 源码仓库：git+https://github.com/portabletext/svelte-portabletext.git
+- npm 页面：https://www.npmjs.com/package/@chienleng/portabletext-svelte-5
+
+## 历史版本号
+
+- 当前版本：3.0.0
+
+- 3.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @chienleng/portabletext-svelte-5`
+- npm registry：https://registry.npmjs.org/@chienleng/portabletext-svelte-5

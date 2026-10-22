@@ -1,0 +1,24 @@
+# @claycoleman/react-native-uitextview
+
+> 标签: android, ios, react-native
+
+## 简介
+
+UITextView for React Native
+
+## 官网
+
+- 官网：https://github.com/claycoleman/react-native-uitextview#readme
+- 源码仓库：git+https://github.com/claycoleman/react-native-uitextview.git
+- npm 页面：https://www.npmjs.com/package/@claycoleman/react-native-uitextview
+
+## 历史版本号
+
+- 当前版本：2.1.0
+
+- 2.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @claycoleman/react-native-uitextview`
+- npm registry：https://registry.npmjs.org/@claycoleman/react-native-uitextview

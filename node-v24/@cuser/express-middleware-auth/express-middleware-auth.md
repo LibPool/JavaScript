@@ -1,0 +1,33 @@
+# @cuser/express-middleware-auth
+
+> 标签: JavaScript
+
+## 简介
+
+<p align="center">   <a href="./"><img width="250" src="https://raw.githubusercontent.com/rubeniskov/cuser/master/docs/logo.svg" alt="cuser logo" /></a> </p>
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@cuser/express-middleware-auth
+
+## 历史版本号
+
+- 当前版本：0.0.36
+
+- 0.0.25
+- 0.0.26
+- 0.0.27
+- 0.0.29
+- 0.0.30
+- 0.0.31
+- 0.0.32
+- 0.0.33
+- 0.0.34
+- 0.0.35
+- 0.0.36
+- 0.0.8
+
+## 获取地址
+
+- npm 安装：`npm install @cuser/express-middleware-auth`
+- npm registry：https://registry.npmjs.org/@cuser/express-middleware-auth

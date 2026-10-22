@@ -1,0 +1,36 @@
+# @agent-infra/mcp-client
+
+> 标签: JavaScript
+
+## 简介
+
+An MCP Client to run servers for Electron apps, support same-process approaching
+
+## 官网
+
+- 官网：https://github.com/bytedance/UI-TARS-desktop
+- 源码仓库：git+https://github.com/bytedance/UI-TARS-desktop.git
+- npm 页面：https://www.npmjs.com/package/@agent-infra/mcp-client
+
+## 历史版本号
+
+- 当前版本：1.2.29
+
+- 1.2.29
+- 1.2.3
+- 1.2.3-beta.0
+- 1.2.3-beta.1
+- 1.2.3-beta.2
+- 1.2.4
+- 1.2.5
+- 1.2.5-beta.0
+- 1.2.6
+- 1.2.7
+- 1.2.8
+- 1.2.9
+- 共 74 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @agent-infra/mcp-client`
+- npm registry：https://registry.npmjs.org/@agent-infra/mcp-client

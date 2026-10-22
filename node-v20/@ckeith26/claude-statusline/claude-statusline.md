@@ -1,0 +1,30 @@
+# @ckeith26/claude-statusline
+
+> 标签: agents, catppuccin, claude, claude-code, cli, nightshift, statusline
+
+## 简介
+
+A width-adaptive status line for Claude Code with Catppuccin Macchiato theme
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@ckeith26/claude-statusline
+
+## 历史版本号
+
+- 当前版本：2.2.1
+
+- 2.0.0
+- 2.1.0
+- 2.1.1
+- 2.1.2
+- 2.1.3
+- 2.1.4
+- 2.1.5
+- 2.2.0
+- 2.2.1
+
+## 获取地址
+
+- npm 安装：`npm install @ckeith26/claude-statusline`
+- npm registry：https://registry.npmjs.org/@ckeith26/claude-statusline

@@ -1,0 +1,24 @@
+# @eridanus-network/js-core.interfaces
+
+> 标签: JavaScript
+
+## 简介
+
+Interfaces
+
+## 官网
+
+- 源码仓库：https://gitee.com/eridanus-network/js-client
+- npm 页面：https://www.npmjs.com/package/@eridanus-network/js-core.interfaces
+
+## 历史版本号
+
+- 当前版本：0.0.0
+
+- 0.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @eridanus-network/js-core.interfaces`
+- npm registry：https://registry.npmjs.org/@eridanus-network/js-core.interfaces
+- Node 要求：>=10

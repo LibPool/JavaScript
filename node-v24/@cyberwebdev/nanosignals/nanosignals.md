@@ -1,0 +1,27 @@
+# @cyberwebdev/nanosignals
+
+> 标签: debug, error-handling, event-emitter, events, godot, lightweight, observer, pause, pubsub, signals, typescript, zero-dependencies
+
+## 简介
+
+Ultra-lightweight signal system inspired by Godot for JavaScript
+
+## 官网
+
+- 官网：https://github.com/Clemix37/nanosignals#readme
+- 源码仓库：git+https://github.com/Clemix37/nanosignals.git
+- npm 页面：https://www.npmjs.com/package/@cyberwebdev/nanosignals
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.0.1
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @cyberwebdev/nanosignals`
+- npm registry：https://registry.npmjs.org/@cyberwebdev/nanosignals
+- Node 要求：>=16.0.0

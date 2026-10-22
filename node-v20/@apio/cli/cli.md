@@ -1,0 +1,25 @@
+# @apio/cli
+
+> 标签: internet-of-things, iot, platform, telemetry, timeseries
+
+## 简介
+
+Apio IoT's command line interface
+
+## 官网
+
+- 官网：https://github.com/ApioIoT/cli#readme
+- 源码仓库：git+https://github.com/ApioIoT/cli.git
+- npm 页面：https://www.npmjs.com/package/@apio/cli
+
+## 历史版本号
+
+- 当前版本：0.0.3
+
+- 0.0.2
+- 0.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @apio/cli`
+- npm registry：https://registry.npmjs.org/@apio/cli

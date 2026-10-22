@@ -1,0 +1,24 @@
+# @feugene/eslint-config
+
+> 标签: eslint-config
+
+## 简介
+
+Feugene ESLint config
+
+## 官网
+
+- 官网：https://github.com/antfu/eslint-config
+- npm 页面：https://www.npmjs.com/package/@feugene/eslint-config
+
+## 历史版本号
+
+- 当前版本：0.39.6
+
+- 0.38.5
+- 0.39.6
+
+## 获取地址
+
+- npm 安装：`npm install @feugene/eslint-config`
+- npm registry：https://registry.npmjs.org/@feugene/eslint-config

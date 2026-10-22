@@ -1,0 +1,36 @@
+# @followsm/sdk
+
+> 标签: JavaScript
+
+## 简介
+
+Official TypeScript/JavaScript SDK for the FollowSM smart-money & orderbook toxicity API
+
+## 官网
+
+- 官网：https://github.com/Follow-SM/followsm-ts#readme
+- 源码仓库：git+https://github.com/Follow-SM/followsm-ts.git
+- npm 页面：https://www.npmjs.com/package/@followsm/sdk
+
+## 历史版本号
+
+- 当前版本：1.6.0
+
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.1.0
+- 1.2.0
+- 1.3.0
+- 1.4.0
+- 1.5.0
+- 1.5.1
+- 1.5.4
+- 1.5.5
+- 1.6.0
+
+## 获取地址
+
+- npm 安装：`npm install @followsm/sdk`
+- npm registry：https://registry.npmjs.org/@followsm/sdk
+- Node 要求：>=24

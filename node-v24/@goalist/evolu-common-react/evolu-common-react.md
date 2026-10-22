@@ -1,0 +1,27 @@
+# @goalist/evolu-common-react
+
+> 标签: evolu, react
+
+## 简介
+
+Common code for Evolu React libraries
+
+## 官网
+
+- 官网：https://evolu.dev
+- 源码仓库：git+https://github.com/evoluhq/evolu.git
+- npm 页面：https://www.npmjs.com/package/@goalist/evolu-common-react
+
+## 历史版本号
+
+- 当前版本：4.0.4
+
+- 4.0.2
+- 4.0.3
+- 4.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @goalist/evolu-common-react`
+- npm registry：https://registry.npmjs.org/@goalist/evolu-common-react
+- Node 要求：>=18.16

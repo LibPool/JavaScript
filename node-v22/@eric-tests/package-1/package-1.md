@@ -1,0 +1,31 @@
+# @eric-tests/package-1
+
+> 标签: JavaScript
+
+## 简介
+
+> TODO: description
+
+## 官网
+
+- 官网：https://github.com/ericzon/eric-lernatest#readme
+- 源码仓库：git+ssh://git@github.com/ericzon/eric-lernatest.git
+- npm 页面：https://www.npmjs.com/package/@eric-tests/package-1
+
+## 历史版本号
+
+- 当前版本：0.0.13
+
+- 0.0.10
+- 0.0.11
+- 0.0.12
+- 0.0.13
+- 0.0.6
+- 0.0.7
+- 0.0.8
+- 0.0.9
+
+## 获取地址
+
+- npm 安装：`npm install @eric-tests/package-1`
+- npm registry：https://registry.npmjs.org/@eric-tests/package-1

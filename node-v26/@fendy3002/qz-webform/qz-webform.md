@@ -1,0 +1,34 @@
+# @fendy3002/qz-webform
+
+> 标签: JavaScript
+
+## 简介
+
+Template your HTML components. Make it more consistent across applications, easier to configure and easier to redesign. Also to unify common components appearance and usability across both react and html (javascript).
+
+## 官网
+
+- 源码仓库：git@github.com:fendy3002/qz-webform.git
+- npm 页面：https://www.npmjs.com/package/@fendy3002/qz-webform
+
+## 历史版本号
+
+- 当前版本：1.0.5
+
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.0.4
+- 1.0.5
+
+## 获取地址
+
+- npm 安装：`npm install @fendy3002/qz-webform`
+- npm registry：https://registry.npmjs.org/@fendy3002/qz-webform

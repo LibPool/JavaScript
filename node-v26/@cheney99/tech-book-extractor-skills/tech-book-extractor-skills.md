@@ -1,0 +1,24 @@
+# @cheney99/tech-book-extractor-skills
+
+> 标签: JavaScript
+
+## 简介
+
+Claude Code skills for deep technical book reading — structure parsing (Stage 1) and chapter extraction (Stage 2).
+
+## 官网
+
+- 官网：https://github.com/cheney12138/tech-book-extractor#readme
+- 源码仓库：git+https://github.com/cheney12138/tech-book-extractor.git
+- npm 页面：https://www.npmjs.com/package/@cheney99/tech-book-extractor-skills
+
+## 历史版本号
+
+- 当前版本：1.0.6
+
+- 1.0.6
+
+## 获取地址
+
+- npm 安装：`npm install @cheney99/tech-book-extractor-skills`
+- npm registry：https://registry.npmjs.org/@cheney99/tech-book-extractor-skills

@@ -1,0 +1,23 @@
+# @dfeidao/fd-aw0000-xxx
+
+> 标签: 01feidao, ai, atom, dfeidao, feidao, 控件, 飞道
+
+## 简介
+
+xxx
+
+## 官网
+
+- 源码仓库：https://gitee.com/dfeidao/widgets
+- npm 页面：https://www.npmjs.com/package/@dfeidao/fd-aw0000-xxx
+
+## 历史版本号
+
+- 当前版本：4.6.201910301110
+
+- 4.6.201910301110
+
+## 获取地址
+
+- npm 安装：`npm install @dfeidao/fd-aw0000-xxx`
+- npm registry：https://registry.npmjs.org/@dfeidao/fd-aw0000-xxx

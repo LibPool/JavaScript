@@ -1,0 +1,28 @@
+# @datatom/node-app-hyhive
+
+> 标签: JavaScript
+
+## 简介
+
+@datatom/node-app-hyhive - JavaScript library from npm
+
+## 官网
+
+- 源码仓库：git+http://10.0.7.14/frontend/micro-lib/dview-mono.git
+- npm 页面：https://www.npmjs.com/package/@datatom/node-app-hyhive
+
+## 历史版本号
+
+- 当前版本：0.0.4
+
+- 0.0.0
+- 0.0.1
+- 0.0.2
+- 0.0.3
+- 0.0.4
+
+## 获取地址
+
+- npm 安装：`npm install @datatom/node-app-hyhive`
+- npm registry：https://registry.npmjs.org/@datatom/node-app-hyhive
+- Node 要求：>=12.13.0

@@ -1,0 +1,37 @@
+# @amedia/eslint-config-svelte
+
+> 标签: eslint, eslint-config
+
+## 简介
+
+ESLint Svelte configuration to be used by developers at Amedia
+
+## 官网
+
+- 官网：https://github.com/amedia/eslint-config-amedia#readme
+- 源码仓库：git+https://github.com/amedia/eslint-config-amedia.git
+- npm 页面：https://www.npmjs.com/package/@amedia/eslint-config-svelte
+
+## 历史版本号
+
+- 当前版本：11.0.1
+
+- 7.0.2-next.3
+- 8.0.0
+- 8.0.0-next.0
+- 8.0.0-next.1
+- 8.0.0-next.2
+- 8.0.0-next.3
+- 8.0.1
+- 8.0.2
+- 9.0.0
+- 9.0.1
+- 9.0.2
+- 9.1.0
+- 共 77 个版本，完整清单见 npm registry。
+
+## 获取地址
+
+- npm 安装：`npm install @amedia/eslint-config-svelte`
+- npm registry：https://registry.npmjs.org/@amedia/eslint-config-svelte
+- Node 要求：>=22

@@ -1,0 +1,26 @@
+# @amaster.ai/pi-computer-use-cua-driver-darwin-universal
+
+> 标签: JavaScript
+
+## 简介
+
+Cua Driver runtime for pi-computer-use on macOS
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@amaster.ai/pi-computer-use-cua-driver-darwin-universal
+
+## 历史版本号
+
+- 当前版本：0.1.4
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+
+## 获取地址
+
+- npm 安装：`npm install @amaster.ai/pi-computer-use-cua-driver-darwin-universal`
+- npm registry：https://registry.npmjs.org/@amaster.ai/pi-computer-use-cua-driver-darwin-universal

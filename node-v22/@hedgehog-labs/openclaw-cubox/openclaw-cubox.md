@@ -1,0 +1,26 @@
+# @hedgehog-labs/openclaw-cubox
+
+> 标签: bookmark, cross-platform, cubox, linux, macos, openclaw, plugin, url-saver
+
+## 简介
+
+OpenClaw plugin to save URLs to Cubox bookmark service
+
+## 官网
+
+- 官网：https://github.com/littlehedgehog/openclaw-cubox#readme
+- 源码仓库：git+https://github.com/littlehedgehog/openclaw-cubox.git
+- npm 页面：https://www.npmjs.com/package/@hedgehog-labs/openclaw-cubox
+
+## 历史版本号
+
+- 当前版本：1.0.2
+
+- 1.0.1
+- 1.0.2
+
+## 获取地址
+
+- npm 安装：`npm install @hedgehog-labs/openclaw-cubox`
+- npm registry：https://registry.npmjs.org/@hedgehog-labs/openclaw-cubox
+- Node 要求：>=18.0.0
