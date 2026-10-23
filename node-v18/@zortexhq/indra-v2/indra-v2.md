@@ -1,0 +1,33 @@
+# @zortexhq/indra-v2
+
+> 标签: JavaScript
+
+## 简介
+
+Independent connector fleet and single SQLite Vault product on Cordis; SQL-first agent access over MCP and a local Galaxy page.
+
+## 官网
+
+- 官网：https://github.com/ZortexHQ/indra-v2#readme
+- 源码仓库：git+https://github.com/ZortexHQ/indra-v2.git
+- npm 页面：https://www.npmjs.com/package/@zortexhq/indra-v2
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.0.0-stage
+- 0.1.0-dev.10
+- 0.1.0-dev.13
+- 0.1.0-dev.4
+- 0.1.0-dev.5
+- 0.1.0-dev.6
+- 0.1.0-dev.7
+- 0.1.0-dev.8
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @zortexhq/indra-v2`
+- npm registry：https://registry.npmjs.org/@zortexhq/indra-v2
+- Node 要求：>=24.0.0

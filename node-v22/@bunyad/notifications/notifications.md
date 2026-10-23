@@ -1,0 +1,27 @@
+# @bunyad/notifications
+
+> 标签: bun, bunyad, typescript
+
+## 简介
+
+Notifications for Bunyad: mail, database, Slack, SMS and broadcast channels.
+
+## 官网
+
+- 官网：https://github.com/bunyadjs/framework#readme
+- 源码仓库：git+https://github.com/bunyadjs/framework.git
+- npm 页面：https://www.npmjs.com/package/@bunyad/notifications
+
+## 历史版本号
+
+- 当前版本：0.1.0-alpha.0
+
+- 0.1.0-alpha.0
+- 0.2.0-beta.0
+- 0.2.0-beta.1
+- 0.2.0-beta.2
+
+## 获取地址
+
+- npm 安装：`npm install @bunyad/notifications`
+- npm registry：https://registry.npmjs.org/@bunyad/notifications

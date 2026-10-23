@@ -1,0 +1,25 @@
+# @longzai-intelligence-open-router-markdown/core
+
+> 标签: JavaScript
+
+## 简介
+
+Longzai Intelligence Open Router Markdown core - 导出目录只读源/渲染/转换与体检用例
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@longzai-intelligence-open-router-markdown/core
+
+## 历史版本号
+
+- 当前版本：0.0.5
+
+- 0.0.2
+- 0.0.3
+- 0.0.4
+- 0.0.5
+
+## 获取地址
+
+- npm 安装：`npm install @longzai-intelligence-open-router-markdown/core`
+- npm registry：https://registry.npmjs.org/@longzai-intelligence-open-router-markdown/core

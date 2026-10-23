@@ -1,0 +1,29 @@
+# @aixjs/models
+
+> 标签: agents, ai, aix, framework, fullstack, llm, react, typescript
+
+## 简介
+
+AIX model providers (Anthropic, OpenAI, Gemini, DeepSeek, Ollama, OpenAI-compatible) and the deterministic router.
+
+## 官网
+
+- 官网：https://github.com/Nelacommunity/AIX#readme
+- 源码仓库：git+https://github.com/Nelacommunity/AIX.git
+- npm 页面：https://www.npmjs.com/package/@aixjs/models
+
+## 历史版本号
+
+- 当前版本：0.1.4
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+
+## 获取地址
+
+- npm 安装：`npm install @aixjs/models`
+- npm registry：https://registry.npmjs.org/@aixjs/models
+- Node 要求：>=20.11

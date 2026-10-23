@@ -1,0 +1,32 @@
+# @malilion/block-ui-react
+
+> 标签: block, component-library, crafting, game-ui, hud, inventory, pixel, react, ui
+
+## 简介
+
+Block UI — block / pixel / crafting game-style React components: inventory, crafting, HUD, cards, forms and more.
+
+## 官网
+
+- 官网：https://malilion.github.io/BlockUI/
+- 源码仓库：git+https://github.com/malilion/BlockUI.git
+- npm 页面：https://www.npmjs.com/package/@malilion/block-ui-react
+
+## 历史版本号
+
+- 当前版本：0.6.1
+
+- 0.0.0-stage
+- 0.1.0
+- 0.2.0
+- 0.3.0
+- 0.4.0
+- 0.5.0
+- 0.5.1
+- 0.6.0
+- 0.6.1
+
+## 获取地址
+
+- npm 安装：`npm install @malilion/block-ui-react`
+- npm registry：https://registry.npmjs.org/@malilion/block-ui-react

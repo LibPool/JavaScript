@@ -1,0 +1,22 @@
+# api-contract-guard
+
+> 标签: api, express, middleware, nodejs, request-validation, validation
+
+## 简介
+
+Lightweight Express middleware for validating request bodies against reusable schemas.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/api-contract-guard
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install api-contract-guard`
+- npm registry：https://registry.npmjs.org/api-contract-guard

@@ -1,0 +1,24 @@
+# @gitmyabi/sleepyduck
+
+> 标签: abi, ethereum, ethers-v6, smart-contracts, typescript, viem, wagmi
+
+## 简介
+
+Auto-generated TypeScript type bindings for sleepyduck (build etherscan-sleepyduck-dafb8173-1790308331958, commit 3640712, branch etherscan)
+
+## 官网
+
+- 官网：https://github.com/etherscan/sleepyduck#readme
+- 源码仓库：git+https://github.com/etherscan/sleepyduck.git
+- npm 页面：https://www.npmjs.com/package/@gitmyabi/sleepyduck
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @gitmyabi/sleepyduck`
+- npm registry：https://registry.npmjs.org/@gitmyabi/sleepyduck

@@ -1,0 +1,27 @@
+# @linuztx/alter-zero-linux-x64
+
+> 标签: JavaScript
+
+## 简介
+
+The Linux x86_64 (glibc) binary of @linuztx/alter-zero.
+
+## 官网
+
+- 官网：https://github.com/linuztx/alter-zero#readme
+- 源码仓库：git+https://github.com/linuztx/alter-zero.git
+- npm 页面：https://www.npmjs.com/package/@linuztx/alter-zero-linux-x64
+
+## 历史版本号
+
+- 当前版本：0.15.0
+
+- 0.0.0-stage
+- 0.13.0
+- 0.14.0
+- 0.15.0
+
+## 获取地址
+
+- npm 安装：`npm install @linuztx/alter-zero-linux-x64`
+- npm registry：https://registry.npmjs.org/@linuztx/alter-zero-linux-x64

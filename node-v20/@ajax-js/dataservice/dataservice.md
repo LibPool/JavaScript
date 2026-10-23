@@ -1,0 +1,25 @@
+# @ajax-js/dataservice
+
+> 标签: ajaxjs, util
+
+## 简介
+
+Core JS Utils
+
+## 官网
+
+- 官网：https://github.com/lightweight-component/js/tree/main#readme
+- 源码仓库：git+https://github.com/lightweight-component/js.git#main
+- npm 页面：https://www.npmjs.com/package/@ajax-js/dataservice
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.0-stage
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @ajax-js/dataservice`
+- npm registry：https://registry.npmjs.org/@ajax-js/dataservice

@@ -1,0 +1,23 @@
+# a2a-way
+
+> 标签: a2a, agent, jetstream, nats, relay
+
+## 简介
+
+An open pathway for Agent-to-Agent communication.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/a2a-way
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.0-stage
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install a2a-way`
+- npm registry：https://registry.npmjs.org/a2a-way

@@ -1,0 +1,29 @@
+# alibabacloud-pricing-mcp
+
+> 标签: alibaba-cloud, alibabacloud, calculator, finops, mcp, model-context-protocol, pricing
+
+## 简介
+
+MCP server for Alibaba Cloud International (alibabacloud.com) pricing: no-credential web calculator pricing, optional BSS OpenAPI, estimates, xlsx/html export
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/alibabacloud-pricing-mcp
+
+## 历史版本号
+
+- 当前版本：0.3.1
+
+- 0.0.0-stage
+- 0.1.0
+- 0.1.1
+- 0.2.1
+- 0.2.2
+- 0.3.0
+- 0.3.1
+
+## 获取地址
+
+- npm 安装：`npm install alibabacloud-pricing-mcp`
+- npm registry：https://registry.npmjs.org/alibabacloud-pricing-mcp
+- Node 要求：>=18.17

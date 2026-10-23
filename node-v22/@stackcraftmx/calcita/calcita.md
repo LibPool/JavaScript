@@ -1,0 +1,36 @@
+# @stackcraftmx/calcita
+
+> 标签: components, data-grid, date-picker, excel, filepond, formik, i18n, material-ui, money, mui, nextjs, react, react-hook-form, server-table, upload, wizard, xstate
+
+## 简介
+
+Componentes y utilidades de React con MUI para arrancar proyectos rápido: tabla de servidor, diálogos, avisos, descargas, formularios, formatos y reportes en Excel.
+
+## 官网
+
+- 官网：https://github.com/StackCraftMx/calcita#readme
+- 源码仓库：git+https://github.com/StackCraftMx/calcita.git
+- npm 页面：https://www.npmjs.com/package/@stackcraftmx/calcita
+
+## 历史版本号
+
+- 当前版本：0.32.2
+
+- 0.0.0-stage
+- 0.23.0
+- 0.25.0
+- 0.26.0
+- 0.27.0
+- 0.28.0
+- 0.30.0
+- 0.30.1
+- 0.31.0
+- 0.32.0
+- 0.32.1
+- 0.32.2
+
+## 获取地址
+
+- npm 安装：`npm install @stackcraftmx/calcita`
+- npm registry：https://registry.npmjs.org/@stackcraftmx/calcita
+- Node 要求：>=22

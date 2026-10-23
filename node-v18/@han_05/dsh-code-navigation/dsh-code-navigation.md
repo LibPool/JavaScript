@@ -1,0 +1,25 @@
+# @han_05/dsh-code-navigation
+
+> 标签: JavaScript
+
+## 简介
+
+Code navigation and retrieval toolkit for DeepSeek Harness.
+
+## 官网
+
+- 官网：https://github.com/sihan-shen/dsh-code-navigation#readme
+- 源码仓库：git+https://github.com/sihan-shen/dsh-code-navigation.git
+- npm 页面：https://www.npmjs.com/package/@han_05/dsh-code-navigation
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.0-stage
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @han_05/dsh-code-navigation`
+- npm registry：https://registry.npmjs.org/@han_05/dsh-code-navigation

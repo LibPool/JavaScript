@@ -1,0 +1,33 @@
+# @ds-gn/ui
+
+> 标签: design-system, dsgn, lit, web-components
+
+## 简介
+
+UI components for the DS-GN Design System
+
+## 官网
+
+- 官网：https://ds-gn.com/?utm_source=npm&utm_medium=package_page&utm_campaign=ui
+- 源码仓库：git+https://github.com/LightLeapLabs/lightleap.git
+- npm 页面：https://www.npmjs.com/package/@ds-gn/ui
+
+## 历史版本号
+
+- 当前版本：0.6.2
+
+- 0.0.0-stage
+- 0.5.0
+- 0.5.0-oidc.37991726826.1
+- 0.5.0-oidc.37992622193.1
+- 0.5.1
+- 0.5.2
+- 0.5.3
+- 0.6.0
+- 0.6.1
+- 0.6.2
+
+## 获取地址
+
+- npm 安装：`npm install @ds-gn/ui`
+- npm registry：https://registry.npmjs.org/@ds-gn/ui

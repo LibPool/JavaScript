@@ -1,0 +1,35 @@
+# @specbook/core
+
+> 标签: api-mocking, api-testing, mock-server, openapi, specbook
+
+## 简介
+
+The runner, mock engine, template engine and shared proxy behind Specbook: Storybook for APIs.
+
+## 官网
+
+- 官网：https://ui.specbook.dev
+- 源码仓库：git+https://github.com/specbook-dev/specbook.git
+- npm 页面：https://www.npmjs.com/package/@specbook/core
+
+## 历史版本号
+
+- 当前版本：0.11.1
+
+- 0.2.0
+- 0.3.0
+- 0.4.0
+- 0.5.0
+- 0.5.1
+- 0.6.0
+- 0.6.1
+- 0.7.0
+- 0.8.0
+- 0.8.1
+- 0.9.0
+- 0.9.1
+
+## 获取地址
+
+- npm 安装：`npm install @specbook/core`
+- npm registry：https://registry.npmjs.org/@specbook/core

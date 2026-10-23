@@ -1,0 +1,34 @@
+# @ts-typed/validators
+
+> 标签: JavaScript
+
+## 简介
+
+Document/data validators built on @ts-typed/core's ValueObject: locale-specific (Brazil) and global (Email, CreditCard, FullName) validators
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@ts-typed/validators
+
+## 历史版本号
+
+- 当前版本：0.1.14
+
+- 0.1.11
+- 0.1.12
+- 0.1.13
+- 0.1.14
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install @ts-typed/validators`
+- npm registry：https://registry.npmjs.org/@ts-typed/validators
+- Node 要求：>=18

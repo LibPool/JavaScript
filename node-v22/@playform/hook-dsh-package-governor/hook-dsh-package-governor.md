@@ -1,0 +1,27 @@
+# @playform/hook-dsh-package-governor
+
+> 标签: JavaScript
+
+## 简介
+
+Silent package.json governor: hooks fs/observed — the cordis event every tool-layer file write dispatches — and deterministically rewrites chain-governed pins to the effective registry's ^resolved, then runs the update stage (npm-check-updates, programmat
+
+## 官网
+
+- 官网：https://github.com/PlayForm/DeepSeek#readme
+- 源码仓库：git+https://github.com/PlayForm/DeepSeek.git
+- npm 页面：https://www.npmjs.com/package/@playform/hook-dsh-package-governor
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.0
+- 0.0.0-stage
+- 0.0.1
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @playform/hook-dsh-package-governor`
+- npm registry：https://registry.npmjs.org/@playform/hook-dsh-package-governor

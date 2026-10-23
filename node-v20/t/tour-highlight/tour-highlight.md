@@ -1,0 +1,23 @@
+# tour-highlight
+
+> 标签: driver, guided-tour, highlight, onboarding, product-tour, spotlight, tooltip, tour, typescript
+
+## 简介
+
+A lightweight TypeScript library for guided tours and element highlighting
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/tour-highlight
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.0-stage
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install tour-highlight`
+- npm registry：https://registry.npmjs.org/tour-highlight

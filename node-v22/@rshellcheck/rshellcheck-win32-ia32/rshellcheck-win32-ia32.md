@@ -1,0 +1,26 @@
+# @rshellcheck/rshellcheck-win32-ia32
+
+> 标签: JavaScript
+
+## 简介
+
+Platform binary for @kjanat/rshellcheck. Install the main package.
+
+## 官网
+
+- 官网：https://github.com/kjanat/shellcheck-rs#readme
+- 源码仓库：git+https://github.com/kjanat/shellcheck-rs.git
+- npm 页面：https://www.npmjs.com/package/@rshellcheck/rshellcheck-win32-ia32
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.0-stage
+- 0.11.0
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @rshellcheck/rshellcheck-win32-ia32`
+- npm registry：https://registry.npmjs.org/@rshellcheck/rshellcheck-win32-ia32

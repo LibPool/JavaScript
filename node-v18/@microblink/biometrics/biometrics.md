@@ -1,0 +1,27 @@
+# @microblink/biometrics
+
+> 标签: JavaScript
+
+## 简介
+
+Biometrics browser SDK for guided and headless face capture.
+
+## 官网
+
+- 官网：https://github.com/microblink/web-sdks
+- 源码仓库：git+https://github.com/microblink/web-sdks.git
+- npm 页面：https://www.npmjs.com/package/@microblink/biometrics
+
+## 历史版本号
+
+- 当前版本：1000.0.3
+
+- 1000.0.0
+- 1000.0.1
+- 1000.0.2
+- 1000.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @microblink/biometrics`
+- npm registry：https://registry.npmjs.org/@microblink/biometrics

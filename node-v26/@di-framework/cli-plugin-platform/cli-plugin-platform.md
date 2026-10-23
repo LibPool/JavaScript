@@ -1,0 +1,34 @@
+# @di-framework/cli-plugin-platform
+
+> 标签: cli-extension, cli-plugin-platform, component-model, di-framework, wasi, wasmcloud, webassembly
+
+## 简介
+
+di-framework CLI extension that builds, serves, and deploys DI Framework apps as platform WebAssembly components.
+
+## 官网
+
+- 官网：https://github.com/di-framework/cli-extensions
+- 源码仓库：git+https://github.com/di-framework/cli-extensions.git
+- npm 页面：https://www.npmjs.com/package/@di-framework/cli-plugin-platform
+
+## 历史版本号
+
+- 当前版本：6.2.0
+
+- 0.0.1
+- 6.0.2
+- 6.0.3
+- 6.0.5
+- 6.0.6
+- 6.0.7
+- 6.0.8
+- 6.1.0
+- 6.1.1
+- 6.1.2
+- 6.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @di-framework/cli-plugin-platform`
+- npm registry：https://registry.npmjs.org/@di-framework/cli-plugin-platform

@@ -1,0 +1,24 @@
+# @jc68124/test-results-dashboard-api-dashboard
+
+> 标签: JavaScript
+
+## 简介
+
+@jc68124/test-results-dashboard-api-dashboard - JavaScript library from npm
+
+## 官网
+
+- 源码仓库：git+https://github.com/jc68124/test-results-dashboard.git
+- npm 页面：https://www.npmjs.com/package/@jc68124/test-results-dashboard-api-dashboard
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.0-stage
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @jc68124/test-results-dashboard-api-dashboard`
+- npm registry：https://registry.npmjs.org/@jc68124/test-results-dashboard-api-dashboard

@@ -1,0 +1,26 @@
+# @rbayuokt/expo-body-vision
+
+> 标签: ExpoBodyVision, android, body tracking, exercise counter, expo, expo-body-vision, expo-modules, fitness, ios, mediapipe, pose detection, pose estimation, react-native, rep counter
+
+## 简介
+
+Native body tracking, pose rules, exercise counting and body interaction for React Native and Expo. Camera, inference, tracking and rendering run natively.
+
+## 官网
+
+- 官网：https://github.com/rbayuokt/expo-body-vision#readme
+- 源码仓库：git+https://github.com/rbayuokt/expo-body-vision.git
+- npm 页面：https://www.npmjs.com/package/@rbayuokt/expo-body-vision
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.0.0-stage
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @rbayuokt/expo-body-vision`
+- npm registry：https://registry.npmjs.org/@rbayuokt/expo-body-vision

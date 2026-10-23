@@ -1,0 +1,26 @@
+# @opentyped/openapi
+
+> 标签: JavaScript
+
+## 简介
+
+Compiler-independent OpenAPI 3.2 documents, schemas and validation
+
+## 官网
+
+- 官网：https://github.com/opentyped/oapi#readme
+- 源码仓库：git+https://github.com/opentyped/oapi.git
+- npm 页面：https://www.npmjs.com/package/@opentyped/openapi
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.0-stage
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @opentyped/openapi`
+- npm registry：https://registry.npmjs.org/@opentyped/openapi
+- Node 要求：>=22.13

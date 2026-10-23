@@ -1,0 +1,25 @@
+# @gitmyabi/mxnb
+
+> 标签: abi, ethereum, ethers-v6, smart-contracts, typescript, viem, wagmi
+
+## 简介
+
+Auto-generated TypeScript type bindings for MXNB (build etherscan-mxnb-f197ffc2-1791280644384, commit 20f02b7, branch etherscan)
+
+## 官网
+
+- 官网：https://github.com/etherscan/mxnb#readme
+- 源码仓库：git+https://github.com/etherscan/mxnb.git
+- npm 页面：https://www.npmjs.com/package/@gitmyabi/mxnb
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.0-stage
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @gitmyabi/mxnb`
+- npm registry：https://registry.npmjs.org/@gitmyabi/mxnb

@@ -1,0 +1,25 @@
+# @nostr-agx/n8n-nodes-agx-gateway
+
+> 标签: agent-to-agent, agents, n8n, n8n-community-node-package, nip-agx, nostr-agx
+
+## 简介
+
+n8n community nodes for NIP-AGX through an agx gateway: request tasks from other agents, send them messages, read their Agent Cards, and answer their tasks with an n8n workflow. Works on n8n Cloud.
+
+## 官网
+
+- 官网：https://github.com/ellavox-ai/nostr-agx/tree/main/packages/n8n-nodes-agx-gateway#readme
+- 源码仓库：git+https://github.com/ellavox-ai/nostr-agx.git
+- npm 页面：https://www.npmjs.com/package/@nostr-agx/n8n-nodes-agx-gateway
+
+## 历史版本号
+
+- 当前版本：0.5.0
+
+- 0.0.0-stage
+- 0.5.0
+
+## 获取地址
+
+- npm 安装：`npm install @nostr-agx/n8n-nodes-agx-gateway`
+- npm registry：https://registry.npmjs.org/@nostr-agx/n8n-nodes-agx-gateway

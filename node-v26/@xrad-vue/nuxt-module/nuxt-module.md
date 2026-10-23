@@ -1,0 +1,26 @@
+# @xrad-vue/nuxt-module
+
+> 标签: nuxt, nuxt4, vue, xrad-vue
+
+## 简介
+
+Nuxt 4 integration for XradVue
+
+## 官网
+
+- 官网：https://xrad-vue.org/
+- 源码仓库：https://github.com/Xuemingz/xrad-vue.git
+- npm 页面：https://www.npmjs.com/package/@xrad-vue/nuxt-module
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.0.0-stage
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @xrad-vue/nuxt-module`
+- npm registry：https://registry.npmjs.org/@xrad-vue/nuxt-module
+- Node 要求：>=22.12.0

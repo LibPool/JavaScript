@@ -1,0 +1,30 @@
+# @scenewirejs/director-core
+
+> 标签: JavaScript
+
+## 简介
+
+@scenewirejs/director-core - JavaScript library from npm
+
+## 官网
+
+- 源码仓库：git+https://github.com/winhok/SceneWireJS.git
+- npm 页面：https://www.npmjs.com/package/@scenewirejs/director-core
+
+## 历史版本号
+
+- 当前版本：1.3.0
+
+- 1.0.0
+- 1.0.0-rc.1
+- 1.0.0-rc.2
+- 1.0.1
+- 1.1.0
+- 1.2.0
+- 1.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @scenewirejs/director-core`
+- npm registry：https://registry.npmjs.org/@scenewirejs/director-core
+- Node 要求：>=22.12.0

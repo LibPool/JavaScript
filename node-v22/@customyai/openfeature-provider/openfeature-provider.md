@@ -1,0 +1,32 @@
+# @customyai/openfeature-provider
+
+> 标签: ab-testing, customy, experiments, feature-flags, openfeature
+
+## 简介
+
+OpenFeature provider for Customy Experiments: server and web, with local evaluation over the Access flags snapshot or remote evaluation (POST /v1/flags/evaluate), change events, track() to conversions and exposure reporting.
+
+## 官网
+
+- 官网：https://github.com/customyco/customy-js#readme
+- 源码仓库：git+https://github.com/customyco/customy-js.git
+- npm 页面：https://www.npmjs.com/package/@customyai/openfeature-provider
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.1.0
+- 0.1.1
+- 0.1.10
+- 0.1.12
+- 0.1.13
+- 0.1.14
+- 0.1.9
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @customyai/openfeature-provider`
+- npm registry：https://registry.npmjs.org/@customyai/openfeature-provider
+- Node 要求：>=20

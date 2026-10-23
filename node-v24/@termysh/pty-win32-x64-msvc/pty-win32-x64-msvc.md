@@ -1,0 +1,26 @@
+# @termysh/pty-win32-x64-msvc
+
+> 标签: JavaScript
+
+## 简介
+
+@termysh/pty native binary for win32-x64-msvc.
+
+## 官网
+
+- 官网：https://github.com/termylabs/termy#readme
+- 源码仓库：git+https://github.com/termylabs/termy.git
+- npm 页面：https://www.npmjs.com/package/@termysh/pty-win32-x64-msvc
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.0.0-stage
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @termysh/pty-win32-x64-msvc`
+- npm registry：https://registry.npmjs.org/@termysh/pty-win32-x64-msvc
+- Node 要求：>=18

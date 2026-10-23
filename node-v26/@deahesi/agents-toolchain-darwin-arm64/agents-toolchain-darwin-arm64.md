@@ -1,0 +1,28 @@
+# @deahesi/agents-toolchain-darwin-arm64
+
+> 标签: agents, ai, cli, toolchain
+
+## 简介
+
+CLI for creating and running YAML-configured AI agents
+
+## 官网
+
+- 官网：https://github.com/Deahesi/agents-toolchain#readme
+- 源码仓库：git+https://github.com/Deahesi/agents-toolchain.git
+- npm 页面：https://www.npmjs.com/package/@deahesi/agents-toolchain-darwin-arm64
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.0.0-stage
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install @deahesi/agents-toolchain-darwin-arm64`
+- npm registry：https://registry.npmjs.org/@deahesi/agents-toolchain-darwin-arm64

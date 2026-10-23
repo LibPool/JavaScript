@@ -1,0 +1,23 @@
+# @slates-integrations/datagma
+
+> 标签: JavaScript
+
+## 简介
+
+Enrich B2B contact and company profiles with real-time data. Find verified work emails with Datagma’s current email API, or use the email lookup with domain-only and country options. Find mobile phone numbers from email or social profiles, detect job chan
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@slates-integrations/datagma
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.0.0-stage
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @slates-integrations/datagma`
+- npm registry：https://registry.npmjs.org/@slates-integrations/datagma

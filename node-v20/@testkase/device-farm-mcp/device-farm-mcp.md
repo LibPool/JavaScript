@@ -1,0 +1,30 @@
+# @testkase/device-farm-mcp
+
+> 标签: appium, claude, copilot, cursor, devicefarm, mcp, selenium, testkase
+
+## 简介
+
+MCP server for TestKase DeviceFarm — devices, Automate runs, logs, artifacts, apps and tunnels for AI assistants.
+
+## 官网
+
+- 官网：https://github.com/SolvionIT/testkase-device-farm-mcp#readme
+- 源码仓库：git+https://github.com/SolvionIT/testkase-device-farm-mcp.git
+- npm 页面：https://www.npmjs.com/package/@testkase/device-farm-mcp
+
+## 历史版本号
+
+- 当前版本：0.5.1
+
+- 0.0.0-stage
+- 0.1.0
+- 0.1.1
+- 0.3.0
+- 0.5.0
+- 0.5.1
+
+## 获取地址
+
+- npm 安装：`npm install @testkase/device-farm-mcp`
+- npm registry：https://registry.npmjs.org/@testkase/device-farm-mcp
+- Node 要求：>=20

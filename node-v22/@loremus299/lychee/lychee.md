@@ -1,0 +1,30 @@
+# @loremus299/lychee
+
+> 标签: documentation, openapi, zod
+
+## 简介
+
+OpenAPI 3.0 documentation generator for your backend.
+
+## 官网
+
+- 官网：https://github.com/Loremus299/Lychee#readme
+- 源码仓库：git+https://github.com/Loremus299/Lychee.git
+- npm 页面：https://www.npmjs.com/package/@loremus299/lychee
+
+## 历史版本号
+
+- 当前版本：1.1.1
+
+- 0.0.0-stage
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+- 1.1.0
+- 1.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @loremus299/lychee`
+- npm registry：https://registry.npmjs.org/@loremus299/lychee

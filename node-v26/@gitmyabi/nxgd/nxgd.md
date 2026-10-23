@@ -1,0 +1,25 @@
+# @gitmyabi/nxgd
+
+> 标签: abi, ethereum, ethers-v6, smart-contracts, typescript, viem, wagmi
+
+## 简介
+
+Auto-generated TypeScript type bindings for NXGD (build etherscan-nxgd-74e241e0-1792658339498, commit ab4759b, branch etherscan)
+
+## 官网
+
+- 官网：https://github.com/etherscan/nxgd#readme
+- 源码仓库：git+https://github.com/etherscan/nxgd.git
+- npm 页面：https://www.npmjs.com/package/@gitmyabi/nxgd
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.0-stage
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @gitmyabi/nxgd`
+- npm registry：https://registry.npmjs.org/@gitmyabi/nxgd

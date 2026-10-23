@@ -1,0 +1,23 @@
+# @anthropic-experimental/claude-code-linux-arm64
+
+> 标签: claude-code, placeholder
+
+## 简介
+
+Native binary for Claude Code on linux-arm64
+
+## 官网
+
+- 官网：https://geordie.ai
+- npm 页面：https://www.npmjs.com/package/@anthropic-experimental/claude-code-linux-arm64
+
+## 历史版本号
+
+- 当前版本：0.0.1-placeholder
+
+- 0.0.1-placeholder
+
+## 获取地址
+
+- npm 安装：`npm install @anthropic-experimental/claude-code-linux-arm64`
+- npm registry：https://registry.npmjs.org/@anthropic-experimental/claude-code-linux-arm64

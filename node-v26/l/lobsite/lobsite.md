@@ -1,0 +1,34 @@
+# lobsite
+
+> 标签: cli, deploy, hosting, static
+
+## 简介
+
+Deploy a static site in one command
+
+## 官网
+
+- 官网：https://lobsite.com
+- npm 页面：https://www.npmjs.com/package/lobsite
+
+## 历史版本号
+
+- 当前版本：0.1.11
+
+- 0.0.0-stage
+- 0.1.1
+- 0.1.10
+- 0.1.11
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install lobsite`
+- npm registry：https://registry.npmjs.org/lobsite
+- Node 要求：>=22

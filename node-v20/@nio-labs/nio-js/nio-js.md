@@ -1,0 +1,31 @@
+# @nio-labs/nio-js
+
+> 标签: JavaScript
+
+## 简介
+
+The hybrid, agent-native worker runtime: TypeScript APIs, native Rust acceleration, in-process Python AI, and portable .njs capsules
+
+## 官网
+
+- 官网：https://github.com/nio-labs/nio-js#readme
+- 源码仓库：git+https://github.com/nio-labs/nio-js.git
+- npm 页面：https://www.npmjs.com/package/@nio-labs/nio-js
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.0.0-stage
+- 0.1.0
+- 0.2.0
+- 0.2.1
+- 0.2.6
+- 0.2.7
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @nio-labs/nio-js`
+- npm registry：https://registry.npmjs.org/@nio-labs/nio-js
+- Node 要求：>=18

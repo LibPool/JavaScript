@@ -1,0 +1,33 @@
+# @clisbot/channels-shared
+
+> 标签: JavaScript
+
+## 简介
+
+Channel-agnostic contract + L3 inbound monitor for the in-repo channel verticals (blueprint docs/audits/2026-08-26-in-repo-channel-verticals.md §6.5)
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@clisbot/channels-shared
+
+## 历史版本号
+
+- 当前版本：2.1.8
+
+- 2.0.1
+- 2.0.2
+- 2.0.3
+- 2.1.0
+- 2.1.1
+- 2.1.1-beta.1
+- 2.1.2
+- 2.1.2-beta.1
+- 2.1.3
+- 2.1.4
+- 2.1.7
+- 2.1.8
+
+## 获取地址
+
+- npm 安装：`npm install @clisbot/channels-shared`
+- npm registry：https://registry.npmjs.org/@clisbot/channels-shared

@@ -1,0 +1,25 @@
+# @monetkit/monetkit-ui-sdk
+
+> 标签: iap, monetkit, paywalls, purchases, subscriptions, ui
+
+## 简介
+
+Web components for paywalls. Maintained by MonetKit
+
+## 官网
+
+- 官网：https://github.com/supremetech/monetkit-ui-sdk#readme
+- 源码仓库：git+https://github.com/supremetech/monetkit-ui-sdk.git
+- npm 页面：https://www.npmjs.com/package/@monetkit/monetkit-ui-sdk
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @monetkit/monetkit-ui-sdk`
+- npm registry：https://registry.npmjs.org/@monetkit/monetkit-ui-sdk
+- Node 要求：^22.18 || ^24.11

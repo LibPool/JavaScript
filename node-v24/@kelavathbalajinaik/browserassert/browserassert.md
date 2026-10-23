@@ -1,0 +1,26 @@
+# @kelavathbalajinaik/browserassert
+
+> 标签: agents, ai, playwright, testing, typescript, verification
+
+## 简介
+
+Evidence based postcondition checks for browser actions
+
+## 官网
+
+- 官网：https://github.com/Balaji91221/browserassert#readme
+- 源码仓库：git+https://github.com/Balaji91221/browserassert.git
+- npm 页面：https://www.npmjs.com/package/@kelavathbalajinaik/browserassert
+
+## 历史版本号
+
+- 当前版本：0.2.1
+
+- 0.0.0-stage
+- 0.2.1
+
+## 获取地址
+
+- npm 安装：`npm install @kelavathbalajinaik/browserassert`
+- npm registry：https://registry.npmjs.org/@kelavathbalajinaik/browserassert
+- Node 要求：>=22.18.0

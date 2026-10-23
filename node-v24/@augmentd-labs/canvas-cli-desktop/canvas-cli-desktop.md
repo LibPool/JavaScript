@@ -1,0 +1,26 @@
+# @augmentd-labs/canvas-cli-desktop
+
+> 标签: JavaScript
+
+## 简介
+
+Canvas CLI package: `canvas desktop` — fetch and launch the Canvas desktop app release for this platform
+
+## 官网
+
+- 官网：https://github.com/canvas-ui/canvas-cli#readme
+- 源码仓库：git+https://github.com/canvas-ui/canvas-cli.git
+- npm 页面：https://www.npmjs.com/package/@augmentd-labs/canvas-cli-desktop
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @augmentd-labs/canvas-cli-desktop`
+- npm registry：https://registry.npmjs.org/@augmentd-labs/canvas-cli-desktop
+- Node 要求：>=20

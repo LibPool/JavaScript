@@ -1,0 +1,26 @@
+# @wilsoon/auth-provider-wilsoon
+
+> 标签: oidc, openid-connect, permissions, provider-profile, step-up, wilsoon
+
+## 简介
+
+WilsoonID provider profile for @wilsoon/auth-core: claim mapping, permission registration, live access and method escalation
+
+## 官网
+
+- 官网：https://github.com/Wilsoon7721/wilsoon-auth-providers/tree/main/wilsoon#readme
+- 源码仓库：git+https://github.com/Wilsoon7721/wilsoon-auth-providers.git
+- npm 页面：https://www.npmjs.com/package/@wilsoon/auth-provider-wilsoon
+
+## 历史版本号
+
+- 当前版本：3.0.0
+
+- 0.0.0-stage
+- 3.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @wilsoon/auth-provider-wilsoon`
+- npm registry：https://registry.npmjs.org/@wilsoon/auth-provider-wilsoon
+- Node 要求：>=18

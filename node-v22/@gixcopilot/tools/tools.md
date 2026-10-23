@@ -1,0 +1,31 @@
+# @gixcopilot/tools
+
+> 标签: agent, ai, copilot, function-calling, llm, sdk, tool-calling, tools, typescript, zod
+
+## 简介
+
+Framework-independent canonical tool architecture for the AI Copilot SDK: tool definitions, registry, resolver, and execution runtime shared by backend and frontend tools.
+
+## 官网
+
+- 官网：https://github.com/AfoudaSWE/gix_ai_copilot_nx/tree/main/packages/tools#readme
+- 源码仓库：git+https://github.com/AfoudaSWE/gix_ai_copilot_nx.git
+- npm 页面：https://www.npmjs.com/package/@gixcopilot/tools
+
+## 历史版本号
+
+- 当前版本：0.2.4
+
+- 0.1.0
+- 0.1.1
+- 0.2.0
+- 0.2.1
+- 0.2.2
+- 0.2.3
+- 0.2.4
+
+## 获取地址
+
+- npm 安装：`npm install @gixcopilot/tools`
+- npm registry：https://registry.npmjs.org/@gixcopilot/tools
+- Node 要求：>=22.12.0

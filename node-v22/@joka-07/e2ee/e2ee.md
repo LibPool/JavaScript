@@ -1,0 +1,25 @@
+# @joka-07/e2ee
+
+> 标签: JavaScript
+
+## 简介
+
+@joka-07/e2ee - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/joka-7/local-first-kit#readme
+- 源码仓库：git+https://github.com/joka-7/local-first-kit.git
+- npm 页面：https://www.npmjs.com/package/@joka-07/e2ee
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.0-stage
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @joka-07/e2ee`
+- npm registry：https://registry.npmjs.org/@joka-07/e2ee

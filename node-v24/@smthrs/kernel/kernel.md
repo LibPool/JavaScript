@@ -1,0 +1,36 @@
+# @smthrs/kernel
+
+> 标签: capabilities, effect, flow, typescript
+
+## 简介
+
+Capability kernel: effect tiers, monotone capability sets, grant store, and permission-decorating layers over the Host services
+
+## 官网
+
+- 官网：https://github.com/smithersai/smithers
+- 源码仓库：https://github.com/smithersai/smithers.git
+- npm 页面：https://www.npmjs.com/package/@smthrs/kernel
+
+## 历史版本号
+
+- 当前版本：1.0.0-rc.3
+
+- 1.0.0-rc.12
+- 1.0.0-rc.13
+- 1.0.0-rc.14
+- 1.0.0-rc.15
+- 1.0.0-rc.16
+- 1.0.0-rc.3
+- 1.0.0-rc.4
+- 1.0.0-rc.5
+- 1.0.0-rc.6
+- 1.0.0-rc.7
+- 1.0.0-rc.8
+- 1.0.0-rc.9
+
+## 获取地址
+
+- npm 安装：`npm install @smthrs/kernel`
+- npm registry：https://registry.npmjs.org/@smthrs/kernel
+- Node 要求：>=26.4.0

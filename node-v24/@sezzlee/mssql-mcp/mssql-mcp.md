@@ -1,0 +1,27 @@
+# @sezzlee/mssql-mcp
+
+> 标签: ai-agents, claude, database, llm, mcp, mcp-server, model-context-protocol, mssql, read-only, schema, sezzlee, sql, sql-server, text-to-sql
+
+## 简介
+
+Read-only MCP server that lets AI agents explore and query Microsoft SQL Server: catalogue search, schema introspection and read-only queries.
+
+## 官网
+
+- 官网：https://github.com/sezzlee/mcp/tree/main/packages/servers/mssql-mcp#readme
+- 源码仓库：git+https://github.com/sezzlee/mcp.git
+- npm 页面：https://www.npmjs.com/package/@sezzlee/mssql-mcp
+
+## 历史版本号
+
+- 当前版本：0.2.1
+
+- 0.1.2
+- 0.2.0
+- 0.2.1
+
+## 获取地址
+
+- npm 安装：`npm install @sezzlee/mssql-mcp`
+- npm registry：https://registry.npmjs.org/@sezzlee/mssql-mcp
+- Node 要求：>=22

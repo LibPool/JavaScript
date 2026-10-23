@@ -1,0 +1,27 @@
+# @cookmd/mcp
+
+> 标签: JavaScript
+
+## 简介
+
+MCP server for Cooklang recipes and cook.md: validate, plan, shop, pantry, reports, nutrition and import
+
+## 官网
+
+- 官网：https://cook.md/help/mcp
+- 源码仓库：git+https://github.com/cook-md/cook-mcp.git
+- npm 页面：https://www.npmjs.com/package/@cookmd/mcp
+
+## 历史版本号
+
+- 当前版本：0.2.3
+
+- 0.2.0
+- 0.2.2
+- 0.2.3
+
+## 获取地址
+
+- npm 安装：`npm install @cookmd/mcp`
+- npm registry：https://registry.npmjs.org/@cookmd/mcp
+- Node 要求：>=18

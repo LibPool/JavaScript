@@ -1,0 +1,30 @@
+# @ancleto/writer
+
+> 标签: ancleto, code-graph, knowledge-graph, sdd, static-analysis, writer
+
+## 简介
+
+Motor de conocimiento estático determinista para @ancleto/spec
+
+## 官网
+
+- 官网：https://github.com/AncletoCEO/Writer#readme
+- 源码仓库：git+https://github.com/AncletoCEO/Writer.git
+- npm 页面：https://www.npmjs.com/package/@ancleto/writer
+
+## 历史版本号
+
+- 当前版本：0.4.0
+
+- 0.1.0
+- 0.1.1
+- 0.2.0
+- 0.3.0
+- 0.3.1
+- 0.4.0
+
+## 获取地址
+
+- npm 安装：`npm install @ancleto/writer`
+- npm registry：https://registry.npmjs.org/@ancleto/writer
+- Node 要求：>=24.0.0

@@ -1,0 +1,34 @@
+# @agentkrew/cli
+
+> 标签: agent, ai, automation, claude-code, codex, coding-agent, opencode, workflow
+
+## 简介
+
+AI engineering team for your coding agent: agents, skills, commands and workflows
+
+## 官网
+
+- 官网：https://github.com/agentkrew/agentkrew#readme
+- 源码仓库：git+https://github.com/agentkrew/agentkrew.git
+- npm 页面：https://www.npmjs.com/package/@agentkrew/cli
+
+## 历史版本号
+
+- 当前版本：0.5.1
+
+- 0.0.0-stage
+- 0.2.0
+- 0.2.1
+- 0.3.2
+- 0.3.3
+- 0.4.0
+- 0.4.1
+- 0.4.2
+- 0.5.0
+- 0.5.1
+
+## 获取地址
+
+- npm 安装：`npm install @agentkrew/cli`
+- npm registry：https://registry.npmjs.org/@agentkrew/cli
+- Node 要求：>=22

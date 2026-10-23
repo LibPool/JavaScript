@@ -1,0 +1,29 @@
+# git-lineage
+
+> 标签: cli, git, lineage, repository, workflow
+
+## 简介
+
+Derive Git repositories from an immediate parent and merge parent updates forward.
+
+## 官网
+
+- 官网：https://github.com/shazhou-ww/git-lineage#readme
+- 源码仓库：git+https://github.com/shazhou-ww/git-lineage.git
+- npm 页面：https://www.npmjs.com/package/git-lineage
+
+## 历史版本号
+
+- 当前版本：0.2.1
+
+- 0.0.0-stage
+- 0.1.0
+- 0.1.2
+- 0.2.0
+- 0.2.1
+
+## 获取地址
+
+- npm 安装：`npm install git-lineage`
+- npm registry：https://registry.npmjs.org/git-lineage
+- Node 要求：>=20.11

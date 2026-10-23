@@ -1,0 +1,26 @@
+# @thekatze/locolize-react
+
+> 标签: JavaScript
+
+## 简介
+
+React 19 bindings for Locolize: LocolizeProvider, useI18n and <Message>.
+
+## 官网
+
+- 官网：https://github.com/enXess-ag/locolize-js#readme
+- 源码仓库：git+https://github.com/enXess-ag/locolize-js.git
+- npm 页面：https://www.npmjs.com/package/@thekatze/locolize-react
+
+## 历史版本号
+
+- 当前版本：0.1.0-test.0
+
+- 0.0.0-stage
+- 0.1.0-test.0
+- 0.1.0-test.1
+
+## 获取地址
+
+- npm 安装：`npm install @thekatze/locolize-react`
+- npm registry：https://registry.npmjs.org/@thekatze/locolize-react

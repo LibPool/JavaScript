@@ -1,0 +1,26 @@
+# @cloudforge-ai/culqi
+
+> 标签: checkout, culqi, payments, peru, sdk, typescript, yape
+
+## 简介
+
+Type-safe, zero-dependency TypeScript SDK for the Culqi payments API (Peru): charges, pre-authorizations, refunds, customers, cards, orders, plans, subscriptions, webhooks and browser checkout.
+
+## 官网
+
+- 官网：https://github.com/Cloudforge-AI/culqi#readme
+- 源码仓库：git+https://github.com/Cloudforge-AI/culqi.git
+- npm 页面：https://www.npmjs.com/package/@cloudforge-ai/culqi
+
+## 历史版本号
+
+- 当前版本：0.2.3
+
+- 0.2.1
+- 0.2.3
+
+## 获取地址
+
+- npm 安装：`npm install @cloudforge-ai/culqi`
+- npm registry：https://registry.npmjs.org/@cloudforge-ai/culqi
+- Node 要求：>=18

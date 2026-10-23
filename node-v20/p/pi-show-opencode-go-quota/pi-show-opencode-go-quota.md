@@ -1,0 +1,26 @@
+# pi-show-opencode-go-quota
+
+> 标签: opencode, opencode-go, pi-extension, pi-package, quota
+
+## 简介
+
+Shows OpenCode Go subscription quota (5h / weekly / monthly windows) in the pi TUI status bar.
+
+## 官网
+
+- 官网：https://github.com/luohuidong/pi-extensions/tree/main/packages/pi-show-opencode-go-quota#readme
+- 源码仓库：git+https://github.com/luohuidong/pi-extensions.git
+- npm 页面：https://www.npmjs.com/package/pi-show-opencode-go-quota
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.0.0-stage
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install pi-show-opencode-go-quota`
+- npm registry：https://registry.npmjs.org/pi-show-opencode-go-quota

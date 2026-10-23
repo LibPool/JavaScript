@@ -1,0 +1,25 @@
+# @oliphaunt/seed-native-windows-x64-msvc-icu
+
+> 标签: JavaScript
+
+## 简介
+
+PostgreSQL native icu cluster seed for windows-x64-msvc.
+
+## 官网
+
+- 官网：https://github.com/f0rr0/oliphaunt#readme
+- 源码仓库：git+https://github.com/f0rr0/oliphaunt.git
+- npm 页面：https://www.npmjs.com/package/@oliphaunt/seed-native-windows-x64-msvc-icu
+
+## 历史版本号
+
+- 当前版本：0.2.2
+
+- 0.0.0-stage
+- 0.2.2
+
+## 获取地址
+
+- npm 安装：`npm install @oliphaunt/seed-native-windows-x64-msvc-icu`
+- npm registry：https://registry.npmjs.org/@oliphaunt/seed-native-windows-x64-msvc-icu

@@ -1,0 +1,26 @@
+# @saolabs/builder
+
+> 标签: blade, builder, javascript, saola builder, saolabs, template
+
+## 简介
+
+Saola Builder - builds .sao applications with the saola/compiler Composer package
+
+## 官网
+
+- 官网：https://github.com/saolabs/builder#readme
+- 源码仓库：git+https://github.com/saolabs/builder.git
+- npm 页面：https://www.npmjs.com/package/@saolabs/builder
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 0.0.0-stage
+- 1.0.2
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @saolabs/builder`
+- npm registry：https://registry.npmjs.org/@saolabs/builder

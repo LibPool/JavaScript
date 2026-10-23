@@ -1,0 +1,28 @@
+# @ajiya/linux-arm64
+
+> 标签: JavaScript
+
+## 简介
+
+The Ajiya binary for linux arm64. Install @ajiya/cli, not this package.
+
+## 官网
+
+- 官网：https://github.com/AliyuYahaya/Ajiya
+- 源码仓库：git+https://github.com/AliyuYahaya/Ajiya.git
+- npm 页面：https://www.npmjs.com/package/@ajiya/linux-arm64
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.0.0
+- 0.2.0
+- 0.2.0-rc.2
+- 0.2.0-rc.4
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @ajiya/linux-arm64`
+- npm registry：https://registry.npmjs.org/@ajiya/linux-arm64

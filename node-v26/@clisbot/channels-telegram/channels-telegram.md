@@ -1,0 +1,33 @@
+# @clisbot/channels-telegram
+
+> 标签: JavaScript
+
+## 简介
+
+In-repo Telegram channel vertical (blueprint docs/audits/2026-08-26-in-repo-channel-verticals.md §6.5). L1 Bot API (port of the pinned send-* chunk, grammy stack kept) + L2 getUpdates long-poll + L4 lifecycle + outbound. Sync reference: openclaw@2026.7.1-
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@clisbot/channels-telegram
+
+## 历史版本号
+
+- 当前版本：2.1.8
+
+- 2.0.1
+- 2.0.2
+- 2.0.3
+- 2.1.0
+- 2.1.1
+- 2.1.1-beta.1
+- 2.1.2
+- 2.1.2-beta.1
+- 2.1.3
+- 2.1.4
+- 2.1.7
+- 2.1.8
+
+## 获取地址
+
+- npm 安装：`npm install @clisbot/channels-telegram`
+- npm registry：https://registry.npmjs.org/@clisbot/channels-telegram

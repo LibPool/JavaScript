@@ -1,0 +1,28 @@
+# @bitrix24/oxlint-config-bitrix24
+
+> 标签: oxlint
+
+## 简介
+
+Shareable oxlint config for the Bitrix24 JavaScript style guide
+
+## 官网
+
+- 官网：https://github.com/bitrix24/eslint-bitrix24#readme
+- 源码仓库：git+https://github.com/bitrix24/eslint-bitrix24.git
+- npm 页面：https://www.npmjs.com/package/@bitrix24/oxlint-config-bitrix24
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.0.0-stage
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @bitrix24/oxlint-config-bitrix24`
+- npm registry：https://registry.npmjs.org/@bitrix24/oxlint-config-bitrix24
+- Node 要求：>=22.18.0

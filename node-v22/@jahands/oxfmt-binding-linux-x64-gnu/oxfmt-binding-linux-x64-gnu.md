@@ -1,0 +1,26 @@
+# @jahands/oxfmt-binding-linux-x64-gnu
+
+> 标签: formatter, javascript, oxc, oxfmt, prettier, typescript
+
+## 简介
+
+Formatter for the JavaScript Oxidation Compiler
+
+## 官网
+
+- 官网：https://oxc.rs/docs/guide/usage/formatter
+- 源码仓库：git+https://github.com/uuid-rocks/oxc.git
+- npm 页面：https://www.npmjs.com/package/@jahands/oxfmt-binding-linux-x64-gnu
+
+## 历史版本号
+
+- 当前版本：0.73.0-jh.1
+
+- 0.0.0-stage
+- 0.73.0-jh.1
+
+## 获取地址
+
+- npm 安装：`npm install @jahands/oxfmt-binding-linux-x64-gnu`
+- npm registry：https://registry.npmjs.org/@jahands/oxfmt-binding-linux-x64-gnu
+- Node 要求：^20.19.0 || >=22.12.0

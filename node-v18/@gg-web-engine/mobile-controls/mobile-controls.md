@@ -1,0 +1,34 @@
+# @gg-web-engine/mobile-controls
+
+> 标签: browser-game, game-development, game-engine, gamedev, mobile, touch, touch-controls, typescript, virtual-joystick
+
+## 简介
+
+On-screen touch controls for gg-web-engine: buttons, sticks, d-pads, look areas and tilt steering over the game canvas
+
+## 官网
+
+- 官网：https://github.com/AndyGura/gg-web-engine#readme
+- 源码仓库：git+https://github.com/AndyGura/gg-web-engine.git
+- npm 页面：https://www.npmjs.com/package/@gg-web-engine/mobile-controls
+
+## 历史版本号
+
+- 当前版本：0.0.87
+
+- 0.0.0-stage
+- 0.0.78
+- 0.0.79
+- 0.0.80
+- 0.0.81
+- 0.0.82
+- 0.0.83
+- 0.0.84
+- 0.0.85
+- 0.0.86
+- 0.0.87
+
+## 获取地址
+
+- npm 安装：`npm install @gg-web-engine/mobile-controls`
+- npm registry：https://registry.npmjs.org/@gg-web-engine/mobile-controls

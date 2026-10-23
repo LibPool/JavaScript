@@ -1,0 +1,25 @@
+# @data_sentinel/ds-cli
+
+> 标签: JavaScript
+
+## 简介
+
+Data Sentinel CLI — 本地数据治理项目工具
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@data_sentinel/ds-cli
+
+## 历史版本号
+
+- 当前版本：0.1.2
+
+- 0.0.0-stage
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @data_sentinel/ds-cli`
+- npm registry：https://registry.npmjs.org/@data_sentinel/ds-cli
+- Node 要求：>=18

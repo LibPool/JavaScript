@@ -1,0 +1,25 @@
+# @ttvmech/twitch-api
+
+> 标签: JavaScript
+
+## 简介
+
+Twitch API for TTvMech
+
+## 官网
+
+- 官网：https://github.com/ZnxTech/TTvMech#readme
+- 源码仓库：git+https://github.com/ZnxTech/TTvMech.git
+- npm 页面：https://www.npmjs.com/package/@ttvmech/twitch-api
+
+## 历史版本号
+
+- 当前版本：2.0.0-beta-3
+
+- 0.0.0-stage
+- 2.0.0-beta-3
+
+## 获取地址
+
+- npm 安装：`npm install @ttvmech/twitch-api`
+- npm registry：https://registry.npmjs.org/@ttvmech/twitch-api

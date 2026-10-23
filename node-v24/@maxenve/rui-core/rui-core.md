@@ -1,0 +1,36 @@
+# @maxenve/rui-core
+
+> 标签: JavaScript
+
+## 简介
+
+rui's components: a complete set of layout, inputs, combobox, buttons, navigation, feedback, overlays, data display and typography, with hooks, forms and extensions (dates, charts, notifications, launcher, carousel, dropzone, modals, snippet, load bar, ed
+
+## 官网
+
+- 官网：https://github.com/wiltonlazary/rui-core#readme
+- 源码仓库：git+https://github.com/wiltonlazary/rui-core.git
+- npm 页面：https://www.npmjs.com/package/@maxenve/rui-core
+
+## 历史版本号
+
+- 当前版本：0.1.12
+
+- 0.1.1
+- 0.1.10
+- 0.1.11
+- 0.1.12
+- 0.1.2
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+- 0.1.8
+- 0.1.9
+
+## 获取地址
+
+- npm 安装：`npm install @maxenve/rui-core`
+- npm registry：https://registry.npmjs.org/@maxenve/rui-core
+- Node 要求：>=22.15

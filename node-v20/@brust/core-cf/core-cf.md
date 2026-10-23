@@ -1,0 +1,35 @@
+# @brust/core-cf
+
+> 标签: JavaScript
+
+## 简介
+
+brust v2 on Cloudflare Workers — the prebuilt workers-rs host (wasm) that @brust/core's Cloudflare build target links
+
+## 官网
+
+- 官网：https://brust.dev
+- 源码仓库：git+https://github.com/AssetsArt/brust.git
+- npm 页面：https://www.npmjs.com/package/@brust/core-cf
+
+## 历史版本号
+
+- 当前版本：2.0.0-alpha.21
+
+- 2.0.0-alpha.17
+- 2.0.0-alpha.18
+- 2.0.0-alpha.19
+- 2.0.0-alpha.20
+- 2.0.0-alpha.21
+- 2.0.0-alpha.3
+- 2.0.0-alpha.4
+- 2.0.0-alpha.5
+- 2.0.0-alpha.6
+- 2.0.0-alpha.7
+- 2.0.0-alpha.8
+- 2.0.0-alpha.9
+
+## 获取地址
+
+- npm 安装：`npm install @brust/core-cf`
+- npm registry：https://registry.npmjs.org/@brust/core-cf

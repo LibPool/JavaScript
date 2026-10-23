@@ -1,0 +1,28 @@
+# norc-mcp
+
+> 标签: JavaScript
+
+## 简介
+
+MCP server for connecting AI platforms to your norc account — manage cron jobs, machines, and run history.
+
+## 官网
+
+- 官网：https://github.com/norcapp/norc-mcp#readme
+- 源码仓库：git+https://github.com/norcapp/norc-mcp.git
+- npm 页面：https://www.npmjs.com/package/norc-mcp
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.0.0-stage
+- 0.1.0
+- 0.2.2
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install norc-mcp`
+- npm registry：https://registry.npmjs.org/norc-mcp
+- Node 要求：>=20

@@ -1,0 +1,24 @@
+# @effijs/navigation-react
+
+> 标签: JavaScript
+
+## 简介
+
+An efficient, modern way to organize the business logic of an application(@effijs/navigation-react)
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@effijs/navigation-react
+
+## 历史版本号
+
+- 当前版本：1.0.0-alpha.0
+
+- 0.0.0-stage
+- 1.0.0-alpha.0
+- 1.0.0-alpha.1
+
+## 获取地址
+
+- npm 安装：`npm install @effijs/navigation-react`
+- npm registry：https://registry.npmjs.org/@effijs/navigation-react

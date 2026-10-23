@@ -1,0 +1,29 @@
+# @onproper/cli-linux-amd64
+
+> 标签: JavaScript
+
+## 简介
+
+@onproper/cli-linux-amd64 - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/onproper/proper-release#readme
+- 源码仓库：git+https://github.com/onproper/proper-release.git
+- npm 页面：https://www.npmjs.com/package/@onproper/cli-linux-amd64
+
+## 历史版本号
+
+- 当前版本：1.0.29
+
+- 0.0.0-stage
+- 1.0.16
+- 1.0.17
+- 1.0.26
+- 1.0.28
+- 1.0.29
+
+## 获取地址
+
+- npm 安装：`npm install @onproper/cli-linux-amd64`
+- npm registry：https://registry.npmjs.org/@onproper/cli-linux-amd64

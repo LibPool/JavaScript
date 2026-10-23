@@ -1,0 +1,28 @@
+# @opencraft-app/opencraft
+
+> 标签: JavaScript
+
+## 简介
+
+OpenCraft self-hosted website and managed execution gateway updates
+
+## 官网
+
+- 官网：https://github.com/opencraft-app/opencraft#readme
+- 源码仓库：git+https://github.com/opencraft-app/opencraft.git
+- npm 页面：https://www.npmjs.com/package/@opencraft-app/opencraft
+
+## 历史版本号
+
+- 当前版本：0.1.12
+
+- 0.0.0-stage
+- 0.1.10
+- 0.1.11
+- 0.1.12
+
+## 获取地址
+
+- npm 安装：`npm install @opencraft-app/opencraft`
+- npm registry：https://registry.npmjs.org/@opencraft-app/opencraft
+- Node 要求：>=24 <25

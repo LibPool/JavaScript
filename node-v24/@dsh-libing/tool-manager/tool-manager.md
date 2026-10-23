@@ -1,0 +1,29 @@
+# @dsh-libing/tool-manager
+
+> 标签: JavaScript
+
+## 简介
+
+我的工具：内置、插件及 MCP 工具目录、调用规则与 MCP 服务配置
+
+## 官网
+
+- 源码仓库：git+https://gitcode.com/LiBing-DSH/dsh-libing.git
+- npm 页面：https://www.npmjs.com/package/@dsh-libing/tool-manager
+
+## 历史版本号
+
+- 当前版本：0.1.7
+
+- 0.0.0-stage
+- 0.1.3
+- 0.1.4
+- 0.1.5
+- 0.1.6
+- 0.1.7
+
+## 获取地址
+
+- npm 安装：`npm install @dsh-libing/tool-manager`
+- npm registry：https://registry.npmjs.org/@dsh-libing/tool-manager
+- Node 要求：^22.19.0 || >=24.0.0

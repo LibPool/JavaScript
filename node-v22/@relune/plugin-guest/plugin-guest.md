@@ -1,0 +1,25 @@
+# @relune/plugin-guest
+
+> 标签: JavaScript
+
+## 简介
+
+TypeScript guest types and helpers for Relune plugins
+
+## 官网
+
+- 官网：https://github.com/relune-me/relune-plugin-template#readme
+- 源码仓库：git+https://github.com/relune-me/relune-plugin-template.git
+- npm 页面：https://www.npmjs.com/package/@relune/plugin-guest
+
+## 历史版本号
+
+- 当前版本：1.1.0
+
+- 1.0.0
+- 1.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @relune/plugin-guest`
+- npm registry：https://registry.npmjs.org/@relune/plugin-guest

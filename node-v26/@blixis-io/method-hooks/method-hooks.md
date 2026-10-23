@@ -1,0 +1,25 @@
+# @blixis-io/method-hooks
+
+> 标签: aop, decorators, method-interception, typescript
+
+## 简介
+
+@Before/@After/@Around method decorators for adding behavior without editing a method's body. No dependency on any other @blixis-io/* package — works on any class.
+
+## 官网
+
+- 官网：https://blixis-io.github.io/framework/
+- 源码仓库：git+https://github.com/blixis-io/framework.git
+- npm 页面：https://www.npmjs.com/package/@blixis-io/method-hooks
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @blixis-io/method-hooks`
+- npm registry：https://registry.npmjs.org/@blixis-io/method-hooks
+- Node 要求：>=24

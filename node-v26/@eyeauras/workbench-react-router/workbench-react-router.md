@@ -1,0 +1,35 @@
+# @eyeauras/workbench-react-router
+
+> 标签: JavaScript
+
+## 简介
+
+Per-window React Router navigation for @eyeauras/workbench.
+
+## 官网
+
+- 官网：https://github.com/iXab3r/EyeAuras.UI.Workbench#readme
+- 源码仓库：git+https://github.com/iXab3r/EyeAuras.UI.Workbench.git
+- npm 页面：https://www.npmjs.com/package/@eyeauras/workbench-react-router
+
+## 历史版本号
+
+- 当前版本：0.2.33
+
+- 0.0.0-stage
+- 0.2.0
+- 0.2.21
+- 0.2.22
+- 0.2.23
+- 0.2.27
+- 0.2.29
+- 0.2.3
+- 0.2.33
+- 0.2.4
+- 0.2.5
+- 0.2.6
+
+## 获取地址
+
+- npm 安装：`npm install @eyeauras/workbench-react-router`
+- npm registry：https://registry.npmjs.org/@eyeauras/workbench-react-router

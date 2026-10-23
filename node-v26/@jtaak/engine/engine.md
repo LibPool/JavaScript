@@ -1,0 +1,36 @@
+# @jtaak/engine
+
+> 标签: api, api-client, graphql, grpc, http, mcp, sse, testing, websocket
+
+## 简介
+
+Local-first API request engine: HTTP, GraphQL, Server-Sent Events, gRPC, WebSocket and MCP, with scripting, collections, import and export, and SQLite storage.
+
+## 官网
+
+- 官网：https://github.com/jtaak-dev/jtaak#readme
+- 源码仓库：git+https://github.com/jtaak-dev/jtaak.git
+- npm 页面：https://www.npmjs.com/package/@jtaak/engine
+
+## 历史版本号
+
+- 当前版本：0.16.1
+
+- 0.16.0
+- 0.16.1
+- 0.2.0
+- 0.2.1
+- 0.3.0
+- 0.3.1
+- 0.4.0
+- 0.5.0
+- 0.6.0
+- 0.7.0
+- 0.8.0
+- 0.9.0
+
+## 获取地址
+
+- npm 安装：`npm install @jtaak/engine`
+- npm registry：https://registry.npmjs.org/@jtaak/engine
+- Node 要求：>=22.22.0

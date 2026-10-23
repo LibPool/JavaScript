@@ -1,0 +1,26 @@
+# @slvnco-opencode/context-trim
+
+> 标签: JavaScript
+
+## 简介
+
+@slvnco-opencode/context-trim - JavaScript library from npm
+
+## 官网
+
+- 源码仓库：git+https://github.com/Silvenga/opencode-plugins.git
+- npm 页面：https://www.npmjs.com/package/@slvnco-opencode/context-trim
+
+## 历史版本号
+
+- 当前版本：0.3.1
+
+- 0.0.0-stage
+- 0.2.0
+- 0.3.0
+- 0.3.1
+
+## 获取地址
+
+- npm 安装：`npm install @slvnco-opencode/context-trim`
+- npm registry：https://registry.npmjs.org/@slvnco-opencode/context-trim

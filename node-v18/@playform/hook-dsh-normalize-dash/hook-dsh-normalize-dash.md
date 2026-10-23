@@ -1,0 +1,27 @@
+# @playform/hook-dsh-normalize-dash
+
+> 标签: JavaScript
+
+## 简介
+
+The normalize-dash hook: a DeepSeek Harness plugin that hooks the llm/stream waterfall — the interceptable wrapper around EVERY streaming model call — and normalizes the unicode dash family (U+058A, U+05BE, U+1400, U+1806, U+2010–U+2015, U+2E17, U+2E1A, U
+
+## 官网
+
+- 官网：https://github.com/PlayForm/DeepSeek#readme
+- 源码仓库：git+https://github.com/PlayForm/DeepSeek.git
+- npm 页面：https://www.npmjs.com/package/@playform/hook-dsh-normalize-dash
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.0
+- 0.0.0-stage
+- 0.0.1
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @playform/hook-dsh-normalize-dash`
+- npm registry：https://registry.npmjs.org/@playform/hook-dsh-normalize-dash

@@ -1,0 +1,24 @@
+# @model-arena/bench-runner
+
+> 标签: JavaScript
+
+## 简介
+
+Model Arena benchmark runner (ma-bench): seeded native benchmarks (NIAH, longctx) against a local build, publishes RunSets to the arena.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@model-arena/bench-runner
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.0-stage
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @model-arena/bench-runner`
+- npm registry：https://registry.npmjs.org/@model-arena/bench-runner
+- Node 要求：>=22

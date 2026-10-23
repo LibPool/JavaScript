@@ -1,0 +1,29 @@
+# @cocoviral/cli
+
+> 标签: ai, cli, cocoviral, image-generation, video, video-generation
+
+## 简介
+
+CocoViral CLI - generate AI images and video, drive Director Studio, and build, run and deliver Viral Flow graphs from your terminal.
+
+## 官网
+
+- 官网：https://www.cocoviral.ai/mcp-skills
+- 源码仓库：git+https://github.com/Jet1217/CloneViral.git
+- npm 页面：https://www.npmjs.com/package/@cocoviral/cli
+
+## 历史版本号
+
+- 当前版本：1.9.0
+
+- 1.5.4
+- 1.6.0
+- 1.7.0
+- 1.8.0
+- 1.9.0
+
+## 获取地址
+
+- npm 安装：`npm install @cocoviral/cli`
+- npm registry：https://registry.npmjs.org/@cocoviral/cli
+- Node 要求：>=18.0.0

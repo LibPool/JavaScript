@@ -1,0 +1,34 @@
+# @amsintegra/design-system
+
+> 标签: amsintegra, components, design-system, react, tailwind, tailwindcss, ui
+
+## 简介
+
+AMS Integra Design System — React components built with Tailwind CSS v4, shipping compiled CSS (no Tailwind required by consumers). Based on the kit-ui-plataforma guidelines.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@amsintegra/design-system
+
+## 历史版本号
+
+- 当前版本：2.6.0
+
+- 1.0.0
+- 1.1.0
+- 1.1.1
+- 1.1.2
+- 2.0.1
+- 2.1.0
+- 2.1.1
+- 2.2.0
+- 2.3.0
+- 2.4.0
+- 2.5.0
+- 2.6.0
+
+## 获取地址
+
+- npm 安装：`npm install @amsintegra/design-system`
+- npm registry：https://registry.npmjs.org/@amsintegra/design-system
+- Node 要求：>=18

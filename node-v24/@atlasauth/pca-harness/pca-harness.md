@@ -1,0 +1,30 @@
+# @atlasauth/pca-harness
+
+> 标签: agent authorization, ai agents, orchestration harness, pca, proof-carrying authority, prototype, trusted computing base
+
+## 简介
+
+Reference orchestration harness for Proof-Carrying Authority: wraps an untrusted model/tool oracle and enforces the PCA invariants around it. Experimental prototype.
+
+## 官网
+
+- 官网：https://github.com/Atlas-Authorization/pca#readme
+- 源码仓库：git+https://github.com/Atlas-Authorization/pca.git
+- npm 页面：https://www.npmjs.com/package/@atlasauth/pca-harness
+
+## 历史版本号
+
+- 当前版本：0.4.1
+
+- 0.0.0-stage
+- 0.1.0
+- 0.2.0
+- 0.3.0
+- 0.4.0
+- 0.4.1
+
+## 获取地址
+
+- npm 安装：`npm install @atlasauth/pca-harness`
+- npm registry：https://registry.npmjs.org/@atlasauth/pca-harness
+- Node 要求：>=20

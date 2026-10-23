@@ -1,0 +1,26 @@
+# @emojisense/ckeditor5
+
+> 标签: autocomplete, ckeditor5, ckeditor5-feature, ckeditor5-plugin, editor, emoji, emoji-search, mention
+
+## 简介
+
+CKEditor 5 plugin: `:` emoji autocomplete ranked by Emojisense.
+
+## 官网
+
+- 官网：https://emojisense.com
+- 源码仓库：git+https://github.com/emojisense/emojisense.git
+- npm 页面：https://www.npmjs.com/package/@emojisense/ckeditor5
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.0-stage
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @emojisense/ckeditor5`
+- npm registry：https://registry.npmjs.org/@emojisense/ckeditor5
+- Node 要求：>=20

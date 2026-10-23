@@ -1,0 +1,26 @@
+# @ax-kit/zod
+
+> 标签: JavaScript
+
+## 简介
+
+Validation-library to input-schema conversion for document.modelContext tools
+
+## 官网
+
+- 官网：https://github.com/open-ax/ax-kit
+- 源码仓库：git+https://github.com/open-ax/ax-kit.git
+- npm 页面：https://www.npmjs.com/package/@ax-kit/zod
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.0-stage
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @ax-kit/zod`
+- npm registry：https://registry.npmjs.org/@ax-kit/zod
+- Node 要求：>=24.19.0 <25

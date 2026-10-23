@@ -1,0 +1,28 @@
+# @bhbr/affr2
+
+> 标签: JavaScript
+
+## 简介
+
+Vertex operations in the affine plane (translations, rotations and scalings)
+
+## 官网
+
+- 官网：https://github.com/bhbr/affr2#readme
+- 源码仓库：git+https://github.com/bhbr/affr2.git
+- npm 页面：https://www.npmjs.com/package/@bhbr/affr2
+
+## 历史版本号
+
+- 当前版本：1.0.3
+
+- 0.0.0-stage
+- 1.0.0
+- 1.0.1
+- 1.0.2
+- 1.0.3
+
+## 获取地址
+
+- npm 安装：`npm install @bhbr/affr2`
+- npm registry：https://registry.npmjs.org/@bhbr/affr2

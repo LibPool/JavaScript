@@ -1,0 +1,31 @@
+# @missing-elements/h5p-cmi5
+
+> 标签: assignable-unit, cmi5, elearning, h5p, lms, lrs, xapi
+
+## 简介
+
+cmi5 for h5p-offline-player: turns a page holding <h5p-player> into a cmi5 assignable unit. Launch handshake, statements to the LMS's LRS with the build's revision, passed or failed by the mastery score, completed, terminated. No dependencies. Checked aga
+
+## 官网
+
+- 官网：https://github.com/missing-elements/h5p-offline-player/tree/main/packages/cmi5#readme
+- 源码仓库：git+https://github.com/missing-elements/h5p-offline-player.git
+- npm 页面：https://www.npmjs.com/package/@missing-elements/h5p-cmi5
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.1.0
+- 0.2.0
+- 0.3.0
+- 0.4.0
+- 0.4.1
+- 0.4.2
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @missing-elements/h5p-cmi5`
+- npm registry：https://registry.npmjs.org/@missing-elements/h5p-cmi5
+- Node 要求：>=20

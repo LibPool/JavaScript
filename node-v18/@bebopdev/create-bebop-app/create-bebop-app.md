@@ -1,0 +1,27 @@
+# @bebopdev/create-bebop-app
+
+> 标签: JavaScript
+
+## 简介
+
+Create a pnpm monorepo with TanStack Start, Expo React Native, Bebop, and Jazz.
+
+## 官网
+
+- 官网：https://github.com/reezerdev/bebop#readme
+- 源码仓库：git+https://github.com/reezerdev/bebop.git
+- npm 页面：https://www.npmjs.com/package/@bebopdev/create-bebop-app
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+
+## 获取地址
+
+- npm 安装：`npm install @bebopdev/create-bebop-app`
+- npm registry：https://registry.npmjs.org/@bebopdev/create-bebop-app
+- Node 要求：>=22.13.0

@@ -1,0 +1,25 @@
+# @awarevue/play
+
+> 标签: JavaScript
+
+## 简介
+
+Pull playback client for aware-play: one session clock, GOPs pulled over HTTP, frames presented in sync.
+
+## 官网
+
+- 官网：https://github.com/Linc-Security-Systems/aware-play#readme
+- 源码仓库：git+https://github.com/Linc-Security-Systems/aware-play.git
+- npm 页面：https://www.npmjs.com/package/@awarevue/play
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.0-stage
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @awarevue/play`
+- npm registry：https://registry.npmjs.org/@awarevue/play

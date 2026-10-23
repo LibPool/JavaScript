@@ -1,0 +1,35 @@
+# @zukhruf/lease
+
+> 标签: abortcontroller, abortsignal, distributed, leader-election, lease, lock
+
+## 简介
+
+A lease and its loss: the holder gets an AbortSignal that aborts once, with LeaseLostError, when another holder may have the right. The issuer keeps a LeaseController.
+
+## 官网
+
+- 官网：https://github.com/JanuaryLabs/zukhruf/tree/main/packages/lease#readme
+- 源码仓库：git+https://github.com/JanuaryLabs/zukhruf.git
+- npm 页面：https://www.npmjs.com/package/@zukhruf/lease
+
+## 历史版本号
+
+- 当前版本：0.3.40
+
+- 0.3.29
+- 0.3.30
+- 0.3.31
+- 0.3.32
+- 0.3.33
+- 0.3.34
+- 0.3.35
+- 0.3.36
+- 0.3.37
+- 0.3.38
+- 0.3.39
+- 0.3.40
+
+## 获取地址
+
+- npm 安装：`npm install @zukhruf/lease`
+- npm registry：https://registry.npmjs.org/@zukhruf/lease

@@ -1,0 +1,25 @@
+# @crossberryweb/noxs-opencode
+
+> 标签: noxs, noxs-plugin, opencode, plugin
+
+## 简介
+
+The open source AI coding agent: chat in the terminal or browser UI, free models or your own provider
+
+## 官网
+
+- 官网：https://github.com/crossberry-in/nx-pkg#readme
+- 源码仓库：git+https://github.com/crossberry-in/nx-pkg.git
+- npm 页面：https://www.npmjs.com/package/@crossberryweb/noxs-opencode
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.0-stage
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install @crossberryweb/noxs-opencode`
+- npm registry：https://registry.npmjs.org/@crossberryweb/noxs-opencode

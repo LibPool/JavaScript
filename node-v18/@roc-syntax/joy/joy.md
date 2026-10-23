@@ -1,0 +1,25 @@
+# @roc-syntax/joy
+
+> 标签: elm-architecture, joy, joy-html, roc, roc-syntax-mcp, roc-syntax-mcp-plugin, wasm, web
+
+## 简介
+
+The Joy platform for browser apps in WebAssembly, and the joy-html package its views are written in: the Elm architecture, effects as data, subscriptions, typed HTML and server rendering.
+
+## 官网
+
+- 官网：https://github.com/Karakatiza666/roc-syntax-mcp#readme
+- 源码仓库：git+https://github.com/Karakatiza666/roc-syntax-mcp.git
+- npm 页面：https://www.npmjs.com/package/@roc-syntax/joy
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.0-stage
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @roc-syntax/joy`
+- npm registry：https://registry.npmjs.org/@roc-syntax/joy

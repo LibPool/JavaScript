@@ -1,0 +1,27 @@
+# @mote-farm/sandbox
+
+> 标签: JavaScript
+
+## 简介
+
+Run service installed on a user's Sprite; starts the Pi coding agent for delegated subtasks.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@mote-farm/sandbox
+
+## 历史版本号
+
+- 当前版本：0.2.0-rc.1
+
+- 0.0.0-stage
+- 0.2.0-rc.1
+- 0.2.0-rc.2
+- 0.2.0-rc.3
+- 0.2.0-rc.7
+
+## 获取地址
+
+- npm 安装：`npm install @mote-farm/sandbox`
+- npm registry：https://registry.npmjs.org/@mote-farm/sandbox
+- Node 要求：>=24

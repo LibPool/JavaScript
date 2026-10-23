@@ -1,0 +1,26 @@
+# @hostkit-ui/release-probe
+
+> 标签: JavaScript
+
+## 简介
+
+Throwaway package that rehearses the hostkit release flow. Do not install.
+
+## 官网
+
+- 官网：https://github.com/juanchojbarroso/hostkit#readme
+- 源码仓库：git+https://github.com/juanchojbarroso/hostkit.git
+- npm 页面：https://www.npmjs.com/package/@hostkit-ui/release-probe
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.0
+- 0.0.0-stage
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @hostkit-ui/release-probe`
+- npm registry：https://registry.npmjs.org/@hostkit-ui/release-probe

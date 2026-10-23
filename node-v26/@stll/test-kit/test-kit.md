@@ -1,0 +1,28 @@
+# @stll/test-kit
+
+> 标签: bun, clock, deterministic, test, testing
+
+## 简介
+
+Hermetic, deterministic test primitives for Bun: controlled time and randomness, local HTTP, isolated files, bounded waits, and a network guard.
+
+## 官网
+
+- 官网：https://github.com/stella/tooling#readme
+- 源码仓库：git+https://github.com/stella/tooling.git
+- npm 页面：https://www.npmjs.com/package/@stll/test-kit
+
+## 历史版本号
+
+- 当前版本：0.3.0
+
+- 0.0.0-stage
+- 0.1.0
+- 0.1.1
+- 0.2.0
+- 0.3.0
+
+## 获取地址
+
+- npm 安装：`npm install @stll/test-kit`
+- npm registry：https://registry.npmjs.org/@stll/test-kit
