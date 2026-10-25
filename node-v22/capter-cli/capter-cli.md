@@ -1,0 +1,22 @@
+# capter-cli
+
+> 标签: cli, dev-tools, sct, terminal, terop
+
+## 简介
+
+Capture the terminal experience. Record interactive sessions and reconstruct them flawlessly as images.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/capter-cli
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install capter-cli`
+- npm registry：https://registry.npmjs.org/capter-cli

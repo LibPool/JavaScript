@@ -1,0 +1,26 @@
+# astro-better-refs
+
+> 标签: anchors, astro, astro-integration, cross-references, refs, satteri
+
+## 简介
+
+Sphinx-style named refs for Astro: declare anchors anywhere, link by name, stay valid when content moves
+
+## 官网
+
+- 官网：https://better-static-sites.github.io
+- 源码仓库：git+https://github.com/better-static-sites/better-static-sites.github.io.git
+- npm 页面：https://www.npmjs.com/package/astro-better-refs
+
+## 历史版本号
+
+- 当前版本：0.2.1
+
+- 0.1.1
+- 0.2.0
+- 0.2.1
+
+## 获取地址
+
+- npm 安装：`npm install astro-better-refs`
+- npm registry：https://registry.npmjs.org/astro-better-refs

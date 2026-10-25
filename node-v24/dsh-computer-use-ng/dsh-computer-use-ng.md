@@ -1,0 +1,26 @@
+# dsh-computer-use-ng
+
+> 标签: autopilot, computer-use, cua-driver, dsh, harness-desktop
+
+## 简介
+
+dsh-computer-use 社区维护分支：虚拟鼠标真人操作 + 原生视觉模型直读，screen_observe 等 12 个模型友好工具
+
+## 官网
+
+- 官网：https://github.com/AndroidSix/dsh-computer-use-ng#readme
+- 源码仓库：git+https://github.com/AndroidSix/dsh-computer-use-ng.git
+- npm 页面：https://www.npmjs.com/package/dsh-computer-use-ng
+
+## 历史版本号
+
+- 当前版本：0.4.1
+
+- 0.4.0
+- 0.4.1
+
+## 获取地址
+
+- npm 安装：`npm install dsh-computer-use-ng`
+- npm registry：https://registry.npmjs.org/dsh-computer-use-ng
+- Node 要求：>=22.18.0

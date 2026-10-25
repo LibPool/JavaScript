@@ -1,0 +1,23 @@
+# bazikit
+
+> 标签: ba-zi, bazi, bazikit, chinese-metaphysics, destiny, four-pillars, ziping, ziping-bazi, 八字, 子平
+
+## 简介
+
+Bazikit — Bazi (Four Pillars) toolkit. Name reservation placeholder; the full Ziping engine release will be published under this name.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/bazikit
+
+## 历史版本号
+
+- 当前版本：0.0.1
+
+- 0.0.0-stage
+- 0.0.1
+
+## 获取地址
+
+- npm 安装：`npm install bazikit`
+- npm registry：https://registry.npmjs.org/bazikit

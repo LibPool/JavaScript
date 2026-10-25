@@ -1,0 +1,29 @@
+# cloud-tui
+
+> 标签: agent, ai, cli, coding-agent, terminal, tui
+
+## 简介
+
+A local-first terminal coding agent with durable sessions, worktree coordination, and approval-aware tools.
+
+## 官网
+
+- 官网：https://tui-website.vercel.app/
+- 源码仓库：git+https://github.com/amSinghTarun/cloud-tui.git
+- npm 页面：https://www.npmjs.com/package/cloud-tui
+
+## 历史版本号
+
+- 当前版本：0.1.4
+
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.1.4
+
+## 获取地址
+
+- npm 安装：`npm install cloud-tui`
+- npm registry：https://registry.npmjs.org/cloud-tui
+- Node 要求：>=22.13.0

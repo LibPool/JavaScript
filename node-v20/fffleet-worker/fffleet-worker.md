@@ -1,0 +1,36 @@
+# fffleet-worker
+
+> 标签: fffleet, ffmpeg, worker
+
+## 简介
+
+fffleet worker daemon: runs ffmpeg jobs and serves the fffleet job API
+
+## 官网
+
+- 官网：https://github.com/jsilvanus/fffleet#readme
+- 源码仓库：git+https://github.com/jsilvanus/fffleet.git
+- npm 页面：https://www.npmjs.com/package/fffleet-worker
+
+## 历史版本号
+
+- 当前版本：2.6.0
+
+- 0.0.0
+- 0.1.0
+- 1.0.0
+- 2.0.0
+- 2.1.0
+- 2.1.1
+- 2.2.0
+- 2.3.1
+- 2.4.0
+- 2.5.0
+- 2.5.1
+- 2.6.0
+
+## 获取地址
+
+- npm 安装：`npm install fffleet-worker`
+- npm registry：https://registry.npmjs.org/fffleet-worker
+- Node 要求：>=20

@@ -1,0 +1,30 @@
+# comark-zoom
+
+> 标签: comark, lightbox, markdown, mdc, medium-zoom, plugin, zoom
+
+## 简介
+
+Zoom images and any block like medium-zoom, with Escape, Back, and click-outside to close. A Comark plugin.
+
+## 官网
+
+- 官网：https://comark.onmax.me/zoom
+- 源码仓库：git+https://github.com/onmax/comark-plugins.git
+- npm 页面：https://www.npmjs.com/package/comark-zoom
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.0.0
+- 0.0.0-stage
+- 0.1.0
+- 0.1.1
+- 0.1.2
+- 0.1.3
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install comark-zoom`
+- npm registry：https://registry.npmjs.org/comark-zoom

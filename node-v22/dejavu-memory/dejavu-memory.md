@@ -1,0 +1,27 @@
+# dejavu-memory
+
+> 标签: agents, ai, claude-code, cli, codex, coding-agents, documentation, knowledge, memory
+
+## 简介
+
+Git-native knowledge and memory harness for AI coding agents.
+
+## 官网
+
+- 官网：https://github.com/madebyawan/dejavu#readme
+- 源码仓库：git+https://github.com/madebyawan/dejavu.git
+- npm 页面：https://www.npmjs.com/package/dejavu-memory
+
+## 历史版本号
+
+- 当前版本：0.2.0
+
+- 0.0.0-stage
+- 0.1.0
+- 0.2.0
+
+## 获取地址
+
+- npm 安装：`npm install dejavu-memory`
+- npm registry：https://registry.npmjs.org/dejavu-memory
+- Node 要求：>=22

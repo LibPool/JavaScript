@@ -1,0 +1,26 @@
+# nexus-sync-cli
+
+> 标签: cli, cloud, full-stack, shadow-environment, sync
+
+## 简介
+
+Nexus-Sync CLI: develop locally, run in the cloud. A simulation/prototype that demos the shadow-environment workflow; it does not connect to real cloud infrastructure.
+
+## 官网
+
+- 官网：https://github.com/Adityareal/nexus-sync-cli#readme
+- 源码仓库：git+https://github.com/Adityareal/nexus-sync-cli.git
+- npm 页面：https://www.npmjs.com/package/nexus-sync-cli
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.0-stage
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install nexus-sync-cli`
+- npm registry：https://registry.npmjs.org/nexus-sync-cli
+- Node 要求：>=18.0.0

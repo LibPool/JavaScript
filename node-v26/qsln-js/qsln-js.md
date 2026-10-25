@@ -1,0 +1,23 @@
+# qsln-js
+
+> 标签: qsln, scratch
+
+## 简介
+
+Quick Scratch List Notation
+
+## 官网
+
+- 源码仓库：git+https://github.com/bddjr/QSLN.git
+- npm 页面：https://www.npmjs.com/package/qsln-js
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install qsln-js`
+- npm registry：https://registry.npmjs.org/qsln-js

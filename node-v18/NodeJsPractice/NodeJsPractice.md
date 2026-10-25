@@ -1,0 +1,25 @@
+# NodeJsPractice
+
+> 标签: express, heroku, node
+
+## 简介
+
+NodeJsPractice - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/heroku/node-js-sample#readme
+- 源码仓库：git+https://github.com/heroku/node-js-sample.git
+- npm 页面：https://www.npmjs.com/package/NodeJsPractice
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install NodeJsPractice`
+- npm registry：https://registry.npmjs.org/NodeJsPractice
+- Node 要求：4.0.0

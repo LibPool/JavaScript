@@ -1,0 +1,24 @@
+# primo-rpa-mcp
+
+> 标签: JavaScript
+
+## 简介
+
+MCP-сервер для разработки роботов Primo RPA (генерация .ltw/.ltp сценариев, работа с документацией и Оркестратором)
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/primo-rpa-mcp
+
+## 历史版本号
+
+- 当前版本：0.2.1
+
+- 0.2.0
+- 0.2.1
+
+## 获取地址
+
+- npm 安装：`npm install primo-rpa-mcp`
+- npm registry：https://registry.npmjs.org/primo-rpa-mcp
+- Node 要求：>=22

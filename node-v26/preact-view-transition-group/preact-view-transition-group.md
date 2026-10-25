@@ -1,0 +1,26 @@
+# preact-view-transition-group
+
+> 标签: animation, flip, list, preact, transition-group, view-transition, view-transitions
+
+## 简介
+
+Animate Preact children as they are added, removed, moved and resized with element-scoped View Transitions
+
+## 官网
+
+- 官网：https://fakundo.github.io/preact-view-transition-group/
+- 源码仓库：git+https://github.com/fakundo/preact-view-transition-group.git
+- npm 页面：https://www.npmjs.com/package/preact-view-transition-group
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.0.0-stage
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install preact-view-transition-group`
+- npm registry：https://registry.npmjs.org/preact-view-transition-group
