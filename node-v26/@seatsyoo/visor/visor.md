@@ -1,0 +1,23 @@
+# @seatsyoo/visor
+
+> 标签: butacas, entradas, mapa de asientos, seat map, seating chart, seatsyoo, tickets
+
+## 简介
+
+Visor de mapas de asientos de Seatsyoo para tu web: elegir butacas, retenerlas y venderlas en tiempo real.
+
+## 官网
+
+- npm 页面：https://www.npmjs.com/package/@seatsyoo/visor
+
+## 历史版本号
+
+- 当前版本：1.0.0
+
+- 0.0.0-stage
+- 1.0.0
+
+## 获取地址
+
+- npm 安装：`npm install @seatsyoo/visor`
+- npm registry：https://registry.npmjs.org/@seatsyoo/visor

@@ -1,0 +1,27 @@
+# @agnt-sdk/simon-client
+
+> 标签: agents, ai-agents, client, protocol, signed-messages, simon
+
+## 简介
+
+Client for the SIMON Protocol: an agent's six calls to its own server, signed, and verification of what other agents send.
+
+## 官网
+
+- 官网：https://github.com/agnt-ai/simon-protocol/tree/main/clients/js#readme
+- 源码仓库：git+https://github.com/agnt-ai/simon-protocol.git
+- npm 页面：https://www.npmjs.com/package/@agnt-sdk/simon-client
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.0.0-stage
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @agnt-sdk/simon-client`
+- npm registry：https://registry.npmjs.org/@agnt-sdk/simon-client
+- Node 要求：>=24.6.0
