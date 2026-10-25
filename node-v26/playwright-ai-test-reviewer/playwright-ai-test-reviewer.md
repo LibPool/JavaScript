@@ -1,0 +1,26 @@
+# playwright-ai-test-reviewer
+
+> 标签: JavaScript
+
+## 简介
+
+Compact, bounded Playwright trace evidence for coding agents
+
+## 官网
+
+- 官网：https://github.com/JustasMonkev/playwrigth-ai-test-reviewer#readme
+- 源码仓库：git+https://github.com/JustasMonkev/playwrigth-ai-test-reviewer.git
+- npm 页面：https://www.npmjs.com/package/playwright-ai-test-reviewer
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.0-stage
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install playwright-ai-test-reviewer`
+- npm registry：https://registry.npmjs.org/playwright-ai-test-reviewer
+- Node 要求：>=22
