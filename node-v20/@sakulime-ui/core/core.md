@@ -1,0 +1,26 @@
+# @sakulime-ui/core
+
+> 标签: JavaScript
+
+## 简介
+
+@sakulime-ui/core - JavaScript library from npm
+
+## 官网
+
+- 官网：https://github.com/syntony666/sakulime-ui#readme
+- 源码仓库：git+https://github.com/syntony666/sakulime-ui.git
+- npm 页面：https://www.npmjs.com/package/@sakulime-ui/core
+
+## 历史版本号
+
+- 当前版本：0.1.1
+
+- 0.0.0-stage
+- 0.1.0
+- 0.1.1
+
+## 获取地址
+
+- npm 安装：`npm install @sakulime-ui/core`
+- npm registry：https://registry.npmjs.org/@sakulime-ui/core

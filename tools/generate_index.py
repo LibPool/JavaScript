@@ -277,10 +277,14 @@ def readme_md(lib: JsLib) -> str:
 """
 
 
-def generate(root: Path, libs: list[JsLib], out_dir: Path, releases: list[str] | None = None) -> dict[str, int]:
+def generate_with_stats(
+    root: Path, libs: list[JsLib], out_dir: Path, releases: list[str] | None = None
+) -> tuple[dict[str, int], set[str], list[Path]]:
     counts = defaultdict(int)
     targets = releases or NODE_RELEASES
     written: dict[str, str] = {}
+    created: set[str] = set()
+    created_paths: list[Path] = []
     for lib in libs:
         if not lib.version:
             continue
@@ -320,7 +324,13 @@ def generate(root: Path, libs: list[JsLib], out_dir: Path, releases: list[str] |
             written[normalized] = lib.name
             md_path.write_text(text, encoding="utf-8")
             counts[release] += 1
-    return dict(counts)
+            created.add(lib.name)
+            created_paths.append(md_path)
+    return dict(counts), created, created_paths
+
+
+def generate(root: Path, libs: list[JsLib], out_dir: Path, releases: list[str] | None = None) -> dict[str, int]:
+    return generate_with_stats(root, libs, out_dir, releases)[0]
 
 
 def load_existing_counts(root: Path) -> dict[str, int]:
@@ -329,16 +339,13 @@ def load_existing_counts(root: Path) -> dict[str, int]:
         return {}
     counts: dict[str, int] = {}
     for line in readme.read_text(encoding="utf-8").splitlines():
-        match = re.match(r"^\- (node-v\d+)[:：]\s+([\d,]+) 个包", line)
+        match = re.match(r"^\- (node-v\d+)[:：]\s*([\d,]+) (?:条|个包)", line)
         if match:
             counts[match.group(1)] = int(match.group(2).replace(",", ""))
     return counts
 
 
 def load_existing_total(root: Path) -> int:
-    counts = load_existing_counts(root)
-    if counts.get("node-v26"):
-        return counts["node-v26"]
     readme = root / "README.md"
     if not readme.exists():
         return 0
@@ -346,7 +353,8 @@ def load_existing_total(root: Path) -> int:
         match = re.match(r"^\- 当前共收录 ([\d,]+) 个 npm 包", line)
         if match:
             return int(match.group(1).replace(",", ""))
-    return 0
+    counts = load_existing_counts(root)
+    return max(counts.values(), default=0)
 
 
 def write_js_readme(root: Path, total: int, counts: dict[str, int], releases: list[str] | None) -> None:
@@ -354,6 +362,7 @@ def write_js_readme(root: Path, total: int, counts: dict[str, int], releases: li
     for release, count in counts.items():
         merged[release] = merged.get(release, 0) + count
     total_all = load_existing_total(root) + total
+    total_index = sum(merged.values())
     lines = [
         "# JavaScript / Node.js 库索引",
         "",
@@ -362,7 +371,7 @@ def write_js_readme(root: Path, total: int, counts: dict[str, int], releases: li
         "- Node 大版本目录：`node-v18`、`node-v20`、`node-v22`、`node-v24`、`node-v26`",
         "- 包路径：`<包名>/<包名>.md`，作用域包如 `@types/node` 位于 `@types/node/node.md`",
         "- 库若兼容多个 Node 大版本，会同时出现在所有后续版本目录中",
-        f"- 当前共收录 {total_all:,} 个 npm 包，来源为 npm 复制接口全量包名与 registry 元数据。",
+        f"- 当前共收录 {total_all:,} 个 npm 包（跨版本约 {total_index / 10000:,.0f} 万条索引），来源为 npm 复制接口全量包名与 registry 元数据。",
         "",
         "## 数据源",
         "",
@@ -379,11 +388,11 @@ def write_js_readme(root: Path, total: int, counts: dict[str, int], releases: li
         "python tools/generate_index.py --meta-dir tools/cache/npm_meta_parts --releases node-v18",
         "```",
         "",
-        "按 Node 大版本统计：",
+        "按 Node 大版本统计（索引条目数）：",
         "",
     ]
-    lines += [f"- {k}：{v:,} 个包" for k, v in merged.items()]
-    (root / "README.md").write_text("\n".join(lines), encoding="utf-8")
+    lines += [f"- {k}：{v:,} 条" for k, v in merged.items()]
+    (root / "README.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
 
 def main() -> int:
@@ -398,6 +407,7 @@ def main() -> int:
     ap.add_argument("--meta-dir", default="", help="read all metadata from crawl_npm_meta.py JSONL parts")
     ap.add_argument("--prefix", default="", help="only process package names starting with this prefix")
     ap.add_argument("--releases", default="", help="comma-separated node-vXX directories to write")
+    ap.add_argument("--new-paths-file", default="", help="write newly created Markdown paths, one per line")
     args = ap.parse_args()
 
     root = Path(args.out).resolve()
@@ -438,9 +448,16 @@ def main() -> int:
                     save_cache(cache)
                     print(f"  enriched {i}/{len(futures)}", flush=True)
         save_cache(cache)
-    counts = generate(root, libs, root, releases)
+    counts, created, created_paths = generate_with_stats(root, libs, root, releases)
     print("Generated:", json.dumps(counts, sort_keys=True), flush=True)
-    write_js_readme(root, len(libs), counts, releases)
+    print(f"New package names: {len(created):,}", flush=True)
+    if args.new_paths_file:
+        Path(args.new_paths_file).write_text(
+            "\n".join(str(path.relative_to(root)).replace("\\", "/") for path in created_paths) + "\n",
+            encoding="utf-8",
+        )
+        print(f"New Markdown paths: {len(created_paths):,}", flush=True)
+    write_js_readme(root, len(created), counts, releases)
     return 0
 
 

@@ -1,0 +1,25 @@
+# @haybarn/ext-yorc-h2-0-0
+
+> 标签: duckdb, extension, haybarn, yorc
+
+## 简介
+
+Cultivate your research identity and networks: read and convert ORCID v3.0 researcher records, XML and JSON (API documents and the ORCID Public Data File dumps), as tables. An independent open-source project, not affiliated with, endorsed by or sponsored
+
+## 官网
+
+- 官网：https://github.com/mgbilby/yorc-duckdb
+- 源码仓库：git+https://github.com/Query-farm-haybarn/haybarn-community-extensions.git
+- npm 页面：https://www.npmjs.com/package/@haybarn/ext-yorc-h2-0-0
+
+## 历史版本号
+
+- 当前版本：202610.21.155453
+
+- 0.0.0-stage
+- 202610.21.155453
+
+## 获取地址
+
+- npm 安装：`npm install @haybarn/ext-yorc-h2-0-0`
+- npm registry：https://registry.npmjs.org/@haybarn/ext-yorc-h2-0-0

@@ -1,0 +1,25 @@
+# @haybarn/ext-redis-h2-0-0
+
+> 标签: duckdb, extension, haybarn, redis
+
+## 简介
+
+Redis compatible Client for DuckDB
+
+## 官网
+
+- 官网：https://github.com/quackscience/duckdb-extension-redis
+- 源码仓库：git+https://github.com/Query-farm-haybarn/haybarn-community-extensions.git
+- npm 页面：https://www.npmjs.com/package/@haybarn/ext-redis-h2-0-0
+
+## 历史版本号
+
+- 当前版本：202610.23.23536
+
+- 0.0.0-stage
+- 202610.23.23536
+
+## 获取地址
+
+- npm 安装：`npm install @haybarn/ext-redis-h2-0-0`
+- npm registry：https://registry.npmjs.org/@haybarn/ext-redis-h2-0-0

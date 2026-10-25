@@ -1,0 +1,29 @@
+# @contextzip/cli
+
+> 标签: ai, chatgpt, claude, cli, codebase, context, llm, zip
+
+## 简介
+
+Package exactly the right parts of your codebase for any AI tool, in one command. Then write the AI's changes back.
+
+## 官网
+
+- 官网：https://www.contextzipcli.com
+- 源码仓库：git+https://github.com/akadeepesh/contextzip.git
+- npm 页面：https://www.npmjs.com/package/@contextzip/cli
+
+## 历史版本号
+
+- 当前版本：0.5.6
+
+- 0.0.0-stage
+- 0.5.3
+- 0.5.4
+- 0.5.5
+- 0.5.6
+
+## 获取地址
+
+- npm 安装：`npm install @contextzip/cli`
+- npm registry：https://registry.npmjs.org/@contextzip/cli
+- Node 要求：>=16

@@ -1,0 +1,26 @@
+# @rustyreddb/node
+
+> 标签: JavaScript
+
+## 简介
+
+Embedded Rusty Red for Node.js and Bun: a native .rr graph file with full-text search.
+
+## 官网
+
+- 官网：https://github.com/Travis-Gilbert/RustyRedDB#readme
+- 源码仓库：git+https://github.com/Travis-Gilbert/RustyRedDB.git
+- npm 页面：https://www.npmjs.com/package/@rustyreddb/node
+
+## 历史版本号
+
+- 当前版本：0.1.0-beta.2
+
+- 0.0.0-stage
+- 0.1.0-beta.2
+
+## 获取地址
+
+- npm 安装：`npm install @rustyreddb/node`
+- npm registry：https://registry.npmjs.org/@rustyreddb/node
+- Node 要求：>= 18

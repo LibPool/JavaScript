@@ -1,0 +1,28 @@
+# @sixthsummit/ship-console
+
+> 标签: JavaScript
+
+## 简介
+
+Operator console module for Ship applications: jobs, cron, webhook receipts, realtime channels and outboxes as declared operations behind a dedicated permission
+
+## 官网
+
+- 官网：https://github.com/SixthSummit/Ship#readme
+- 源码仓库：git+https://github.com/SixthSummit/Ship.git
+- npm 页面：https://www.npmjs.com/package/@sixthsummit/ship-console
+
+## 历史版本号
+
+- 当前版本：0.2.0-alpha-20261023234220
+
+- 0.0.0-stage
+- 0.2.0-alpha-20261023234220
+- 0.2.0-alpha-20261024023955
+- 0.2.0-alpha-20261024032450
+
+## 获取地址
+
+- npm 安装：`npm install @sixthsummit/ship-console`
+- npm registry：https://registry.npmjs.org/@sixthsummit/ship-console
+- Node 要求：>=22

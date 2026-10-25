@@ -1,0 +1,25 @@
+# holarchy-workbench-vue-shell
+
+> 标签: JavaScript
+
+## 简介
+
+Reusable Holarchy organization workbench vue-shell
+
+## 官网
+
+- 官网：https://github.com/seerkong/holon-workbench.ts#readme
+- 源码仓库：git+https://github.com/seerkong/holon-workbench.ts.git
+- npm 页面：https://www.npmjs.com/package/holarchy-workbench-vue-shell
+
+## 历史版本号
+
+- 当前版本：0.1.0
+
+- 0.0.0-stage
+- 0.1.0
+
+## 获取地址
+
+- npm 安装：`npm install holarchy-workbench-vue-shell`
+- npm registry：https://registry.npmjs.org/holarchy-workbench-vue-shell

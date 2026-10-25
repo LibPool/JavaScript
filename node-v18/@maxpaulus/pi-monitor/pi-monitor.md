@@ -1,0 +1,26 @@
+# @maxpaulus/pi-monitor
+
+> 标签: pi-package
+
+## 简介
+
+Session-scoped background command monitoring for Pi
+
+## 官网
+
+- 官网：https://github.com/maxpaulus43/pi-monitor#readme
+- 源码仓库：git+https://github.com/maxpaulus43/pi-monitor.git
+- npm 页面：https://www.npmjs.com/package/@maxpaulus/pi-monitor
+
+## 历史版本号
+
+- 当前版本：1.0.1
+
+- 0.0.0-stage
+- 1.0.0
+- 1.0.1
+
+## 获取地址
+
+- npm 安装：`npm install @maxpaulus/pi-monitor`
+- npm registry：https://registry.npmjs.org/@maxpaulus/pi-monitor

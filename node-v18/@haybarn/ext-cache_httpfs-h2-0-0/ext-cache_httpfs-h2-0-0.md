@@ -1,0 +1,25 @@
+# @haybarn/ext-cache_httpfs-h2-0-0
+
+> 标签: cache_httpfs, duckdb, extension, haybarn
+
+## 简介
+
+Read cached filesystem for httpfs
+
+## 官网
+
+- 官网：https://github.com/dentiny/duck-read-cache-fs
+- 源码仓库：git+https://github.com/Query-farm-haybarn/haybarn-community-extensions.git
+- npm 页面：https://www.npmjs.com/package/@haybarn/ext-cache_httpfs-h2-0-0
+
+## 历史版本号
+
+- 当前版本：202610.22.63744
+
+- 0.0.0-stage
+- 202610.22.63744
+
+## 获取地址
+
+- npm 安装：`npm install @haybarn/ext-cache_httpfs-h2-0-0`
+- npm registry：https://registry.npmjs.org/@haybarn/ext-cache_httpfs-h2-0-0

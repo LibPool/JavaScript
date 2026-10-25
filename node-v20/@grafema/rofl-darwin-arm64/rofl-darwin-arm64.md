@@ -1,0 +1,25 @@
+# @grafema/rofl-darwin-arm64
+
+> 标签: JavaScript
+
+## 简介
+
+The ROFL engine binary for darwin-arm64; install @grafema/rofl
+
+## 官网
+
+- 官网：https://github.com/Disentinel/rofl
+- 源码仓库：git+https://github.com/Disentinel/rofl.git
+- npm 页面：https://www.npmjs.com/package/@grafema/rofl-darwin-arm64
+
+## 历史版本号
+
+- 当前版本：1.5.0
+
+- 0.0.0-stage
+- 1.5.0
+
+## 获取地址
+
+- npm 安装：`npm install @grafema/rofl-darwin-arm64`
+- npm registry：https://registry.npmjs.org/@grafema/rofl-darwin-arm64
